@@ -1,0 +1,839 @@
+[
+    {
+        "place_id": "ChIJI-rYPxV_kYARTB6ubsSD5J0",
+        "name": "Starbucks",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "reviews": 819,
+        "competitors": [
+            {
+                "name": "Black Bear Diner Los Banos",
+                "link": "https://www.google.com/maps/search/Black+Bear+Diner+Los+Banos/@37.056549499999996,-120.8696916?authuser=0&hl=en&entry=ttu",
+                "reviews": 1807,
+                "rating": 4.4,
+                "main_category": "American"
+            },
+            {
+                "name": "Denny's",
+                "link": "https://www.google.com/maps/search/Denny%27s/@37.0564026,-120.87796569999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 1413,
+                "rating": 3.7,
+                "main_category": "Diner"
+            },
+            {
+                "name": "Jack in the Box",
+                "link": "https://www.google.com/maps/search/Jack+in+the+Box/@37.0562773,-120.87019529999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 626,
+                "rating": 3.9,
+                "main_category": "Fast Food"
+            },
+            {
+                "name": "Dutch Bros Coffee",
+                "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@37.0572301,-120.8328697?authuser=0&hl=en&entry=ttu",
+                "reviews": 367,
+                "rating": 4.7,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "McDonald's",
+                "link": "https://www.google.com/maps/search/McDonald%27s/@37.0539633,-120.878782?authuser=0&hl=en&entry=ttu",
+                "reviews": 276,
+                "rating": 3.7,
+                "main_category": "Fast Food"
+            }
+        ],
+        "website": "https://www.starbucks.com/store-locator/store/11023/",
+        "owner": {
+            "id": "104003851435694230215",
+            "name": "Starbucks (Owner)",
+            "link": "https://www.google.com/maps/contrib/104003851435694230215"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNF_ZShPpDIlQ3p4b3LrsX62L7_4vqSQDXiOh9s=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop",
+            "Breakfast restaurant",
+            "Cafe",
+            "Coffee store",
+            "Espresso bar",
+            "Internet cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "5 AM-9:30 PM",
+        "closed_on": "Open All Days",
+        "phone": "(209) 827-3160",
+        "address": "Starbucks, 1363 W Pacheco Blvd A, Los Banos, CA 93635",
+        "review_keywords": [
+            {
+                "keyword": "drive thru",
+                "count": 25
+            },
+            {
+                "keyword": "clean",
+                "count": 19
+            },
+            {
+                "keyword": "restroom",
+                "count": 9
+            },
+            {
+                "keyword": "barista",
+                "count": 8
+            },
+            {
+                "keyword": "drinks",
+                "count": 7
+            },
+            {
+                "keyword": "morning",
+                "count": 7
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 7
+            },
+            {
+                "keyword": "mocha",
+                "count": 6
+            },
+            {
+                "keyword": "cup",
+                "count": 6
+            },
+            {
+                "keyword": "mobile",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80917f153fd8ea23:0x9de483c46eae1e4c!8m2!3d37.0558479!4d-120.8745788!16s%2Fg%2F1vlk1tgc!19sChIJI-rYPxV_kYARTB6ubsSD5J0?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJV_2rBZoB2YgR6nkXEEHzGKQ",
+        "name": "Sarava Acai Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 364,
+        "competitors": [
+            {
+                "name": "Myapapaya",
+                "link": "https://www.google.com/maps/search/Myapapaya/@26.1587432,-80.1167301?authuser=0&hl=en&entry=ttu",
+                "reviews": 1123,
+                "rating": 4.5,
+                "main_category": "Health Food"
+            },
+            {
+                "name": "Playa Bowls",
+                "link": "https://www.google.com/maps/search/Playa+Bowls/@26.1493659,-80.1201154?authuser=0&hl=en&entry=ttu",
+                "reviews": 613,
+                "rating": 4.5,
+                "main_category": "Health Food"
+            },
+            {
+                "name": "Java Boys",
+                "link": "https://www.google.com/maps/search/Java+Boys/@26.1560085,-80.1383245?authuser=0&hl=en&entry=ttu",
+                "reviews": 416,
+                "rating": 4.5,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "JB&C Juice Bar & Cafe",
+                "link": "https://www.google.com/maps/search/JB%26C+Juice+Bar+%26+Cafe/@26.1358601,-80.1391752?authuser=0&hl=en&entry=ttu",
+                "reviews": 363,
+                "rating": 4.6,
+                "main_category": "Health Food"
+            },
+            {
+                "name": "Inika Foods",
+                "link": "https://www.google.com/maps/search/Inika+Foods/@26.157861999999998,-80.13192599999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 189,
+                "rating": 4.8,
+                "main_category": "Vegan"
+            }
+        ],
+        "website": "https://www.saravacafe.com/menu",
+        "owner": {
+            "id": "100156592289455712056",
+            "name": "Sarava Acai Cafe (Owner)",
+            "link": "https://www.google.com/maps/contrib/100156592289455712056"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKlp3jaTK2vDNjBr5xF89zgwY9wjz5sdpMgcYX=w408-h544-k-no",
+        "main_category": "Acai shop",
+        "categories": [
+            "Acai shop",
+            "Breakfast restaurant",
+            "Cafe",
+            "Coffee shop",
+            "Gluten-free restaurant",
+            "Health food restaurant",
+            "Juice shop",
+            "Raw food restaurant",
+            "Vegan restaurant",
+            "Vegetarian restaurant"
+        ],
+        "rating": 4.9,
+        "workday_timing": "9 AM-4:30 PM",
+        "closed_on": [
+            "Tuesday"
+        ],
+        "phone": "(954) 530-4001",
+        "address": "Sarava Acai Cafe, 2213 Dixie Hwy, Wilton Manors, FL 33305",
+        "review_keywords": [
+            {
+                "keyword": "acai bowls",
+                "count": 125
+            },
+            {
+                "keyword": "smoothies",
+                "count": 48
+            },
+            {
+                "keyword": "healthy",
+                "count": 20
+            },
+            {
+                "keyword": "tapioca",
+                "count": 14
+            },
+            {
+                "keyword": "cake",
+                "count": 11
+            },
+            {
+                "keyword": "coconut",
+                "count": 11
+            },
+            {
+                "keyword": "granola",
+                "count": 10
+            },
+            {
+                "keyword": "honey",
+                "count": 8
+            },
+            {
+                "keyword": "area",
+                "count": 6
+            },
+            {
+                "keyword": "plants",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sarava+A%C3%A7a%C3%AD+Caf%C3%A9/data=!4m7!3m6!1s0x88d9019a05abfd57:0xa418f341101779ea!8m2!3d26.1572222!4d-80.1322222!16s%2Fg%2F11cn9m7vjj!19sChIJV_2rBZoB2YgR6nkXEEHzGKQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJsQB3RxV_kYARzUG9Xo8hU-I",
+        "name": "Starbucks",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "reviews": 298,
+        "competitors": [
+            {
+                "name": "Jack in the Box",
+                "link": "https://www.google.com/maps/search/Jack+in+the+Box/@37.0562773,-120.87019529999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 626,
+                "rating": 3.9,
+                "main_category": "Fast Food"
+            },
+            {
+                "name": "Dutch Bros Coffee",
+                "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@37.0572301,-120.8328697?authuser=0&hl=en&entry=ttu",
+                "reviews": 367,
+                "rating": 4.7,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "McDonald's",
+                "link": "https://www.google.com/maps/search/McDonald%27s/@37.0539633,-120.878782?authuser=0&hl=en&entry=ttu",
+                "reviews": 276,
+                "rating": 3.7,
+                "main_category": "Fast Food"
+            },
+            {
+                "name": "Donut Nation",
+                "link": "https://www.google.com/maps/search/Donut+Nation/@37.0567074,-120.83738249999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 116,
+                "rating": 3.8,
+                "main_category": "Donuts"
+            },
+            {
+                "name": "Target Grocery",
+                "link": "https://www.google.com/maps/search/Target+Grocery/@37.0541875,-120.8759538?authuser=0&hl=en&entry=ttu",
+                "reviews": 15,
+                "rating": 4.6,
+                "main_category": "Grocery store"
+            }
+        ],
+        "website": "https://www.starbucks.com/store-locator/store/7299",
+        "owner": {
+            "id": "115640691926962787571",
+            "name": "Starbucks (Owner)",
+            "link": "https://www.google.com/maps/contrib/115640691926962787571"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNbecEGtGfVSc_MRrEpX_tdOIEazNkl6T6CuEje=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop",
+            "Cafe",
+            "Coffee store",
+            "Espresso bar"
+        ],
+        "rating": 4.2,
+        "workday_timing": "8 AM-8 PM",
+        "closed_on": "Open All Days",
+        "phone": "(209) 827-2080",
+        "address": "Starbucks, 1405 W Pacheco Blvd, Los Banos, CA 93635",
+        "review_keywords": [
+            {
+                "keyword": "baristas",
+                "count": 5
+            },
+            {
+                "keyword": "frappuccino",
+                "count": 3
+            },
+            {
+                "keyword": "berry",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80917f15477700b1:0xe253218f5ebd41cd!8m2!3d37.054481!4d-120.875472!16s%2Fg%2F1ts1sgqk!19sChIJsQB3RxV_kYARzUG9Xo8hU-I?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJh-Igsox_kYARvQBiUtTKCyo",
+        "name": "Starbucks",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "reviews": 256,
+        "competitors": [
+            {
+                "name": "McDonald's",
+                "link": "https://www.google.com/maps/search/McDonald%27s/@37.05652,-120.83501700000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 1867,
+                "rating": 3.6,
+                "main_category": "Fast Food"
+            },
+            {
+                "name": "Jack in the Box",
+                "link": "https://www.google.com/maps/search/Jack+in+the+Box/@37.0574643,-120.83400830000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 818,
+                "rating": 4.1,
+                "main_category": "Fast Food"
+            },
+            {
+                "name": "Dutch Bros Coffee",
+                "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@37.0572301,-120.8328697?authuser=0&hl=en&entry=ttu",
+                "reviews": 367,
+                "rating": 4.7,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Donut Nation",
+                "link": "https://www.google.com/maps/search/Donut+Nation/@37.0567074,-120.83738249999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 116,
+                "rating": 3.8,
+                "main_category": "Donuts"
+            },
+            {
+                "name": "Starbucks",
+                "link": "https://www.google.com/maps/search/Starbucks/@37.27468,-120.43304?authuser=0&hl=en&entry=ttu",
+                "reviews": 36,
+                "rating": 4.7,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": "https://www.starbucks.com/store-locator/store/1028720",
+        "owner": {
+            "id": "112817365337512536055",
+            "name": "Starbucks (Owner)",
+            "link": "https://www.google.com/maps/contrib/112817365337512536055"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN6KZcxScztI1UAOeaaWruCSupjvmi7mrihHppx=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop",
+            "Breakfast restaurant",
+            "Cafe",
+            "Coffee store",
+            "Espresso bar",
+            "Internet cafe"
+        ],
+        "rating": 3.9,
+        "workday_timing": "5:30 AM-9:30 PM",
+        "closed_on": "Open All Days",
+        "phone": "(209) 249-0130",
+        "address": "Starbucks, 360 Mercey Springs Rd, Los Banos, CA 93635",
+        "review_keywords": [
+            {
+                "keyword": "drive thru",
+                "count": 12
+            },
+            {
+                "keyword": "window",
+                "count": 7
+            },
+            {
+                "keyword": "drinks",
+                "count": 6
+            },
+            {
+                "keyword": "barista",
+                "count": 5
+            },
+            {
+                "keyword": "mobile",
+                "count": 4
+            },
+            {
+                "keyword": "caramel",
+                "count": 4
+            },
+            {
+                "keyword": "latte",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80917f8cb220e287:0x2a0bcad4526200bd!8m2!3d37.0728337!4d-120.8346247!16s%2Fg%2F11jxz0mx6f!19sChIJh-Igsox_kYARvQBiUtTKCyo?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJA2cyxYF1-SwRxw_y3Pt9LiI",
+        "name": "Coffee Sarap",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [],
+        "website": "http://www.coffeesarap.com/",
+        "owner": {
+            "id": "109964321798032695856",
+            "name": "Coffee Sarap (Owner)",
+            "link": "https://www.google.com/maps/contrib/109964321798032695856"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2LL2R5cgoi9kkk1f_sWSRps0pPCyZ8cybcNvT=w408-h272-k-no",
+        "main_category": "Coffee stand",
+        "categories": [
+            "Coffee stand",
+            "Service establishment"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "(720) 477-0289",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Sarap/data=!4m7!3m6!1s0x2cf97581c5326703:0x222e7dfbdcf20fc7!8m2!3d39.3151384!4d-104.7994166!16s%2Fg%2F11sbjrjg9z!19sChIJA2cyxYF1-SwRxw_y3Pt9LiI?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJlagiusQtrzMRrz2WsSmU14M",
+        "name": "Cafe Hannan - Saravia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Cafe Hannan",
+                "link": "https://www.google.com/maps/search/Cafe+Hannan/@10.722501399999999,122.96283539999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 22,
+                "rating": 4.5,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "MACReb's",
+                "link": "https://www.google.com/maps/search/MACReb%27s/@10.876772299999999,122.98509809999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Coffee Brake",
+                "link": "https://www.google.com/maps/search/Coffee+Brake/@10.8783367,122.9588689?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Asuracoffee",
+                "link": "https://www.google.com/maps/search/Asuracoffee/@10.878843999999999,122.9796237?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": "http://cafehannan.com/",
+        "owner": {
+            "id": "114073152055463870915",
+            "name": "Cafe Hannan - Saravia (Owner)",
+            "link": "https://www.google.com/maps/contrib/114073152055463870915"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMlfIjXeGFcNBGx3D8QsoTeZSFh4hTm3vMugqh8=w408-h272-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": 4,
+        "workday_timing": "8 AM-8 PM",
+        "closed_on": "Open All Days",
+        "phone": "+63 920 887 8425",
+        "address": "Cafe Hannan - Saravia, Barangay, National Highway, Sta Monica Rd, Subdivision, Enrique B. Magalona, Negros Occidental, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Hannan+-+Saravia/data=!4m7!3m6!1s0x33af2dc4ba22a895:0x83d79429b1963daf!8m2!3d10.880814!4d122.9942625!16s%2Fg%2F11sbwnfsd0!19sChIJlagiusQtrzMRrz2WsSmU14M?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJSf-ma6ftwoARHl8bcOYEtGs",
+        "name": "Sara Coffee Co",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": "http://saracoffeeco.com/",
+        "owner": {
+            "id": "110860109765860714263",
+            "name": "Sara Coffee Co (Owner)",
+            "link": "https://www.google.com/maps/contrib/110860109765860714263"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpbSnIFB9uRT6jxEkSdaMUmDByv5727WbPkCII=w408-h272-k-no",
+        "main_category": "Coffee wholesaler",
+        "categories": [
+            "Coffee wholesaler",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "(818) 434-1460",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sara+Coffee+Co/data=!4m7!3m6!1s0x80c2eda76ba6ff49:0x6bb404e6701b5f1e!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11h0ylt684!19sChIJSf-ma6ftwoARHl8bcOYEtGs?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJT2DuSnu9bIcRbN0y-HshXbc",
+        "name": "Coffee Sarap",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": "https://www.coffeesarap.com/",
+        "owner": {
+            "id": "112725366950997253258",
+            "name": "Coffee Sarap (Owner)",
+            "link": "https://www.google.com/maps/contrib/112725366950997253258"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNAJc7D3g-v19C47cRGNPnyyPA-j47Z_dJ4_YKH=w408-h272-k-no",
+        "main_category": "Coffee stand",
+        "categories": [
+            "Coffee stand"
+        ],
+        "rating": null,
+        "workday_timing": "9 AM-3 PM",
+        "closed_on": [
+            "Sunday"
+        ],
+        "phone": "(720) 477-0289",
+        "address": "Coffee Sarap, 7530 S University Blvd, Centennial, CO 80122",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Sarap/data=!4m7!3m6!1s0x876cbd7b4aee604f:0xb75d217bf832dd6c!8m2!3d39.5801855!4d-104.9601049!16s%2Fg%2F11tt62ywvb!19sChIJT2DuSnu9bIcRbN0y-HshXbc?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJS9nNa5Lbj4YRPpXXVJGzF5M",
+        "name": "Sarabia1939 cafe bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 209,
+        "competitors": [
+            {
+                "name": "Loncheria Sarabia.",
+                "link": "https://www.google.com/maps/search/Loncheria+Sarabia./@25.5404117,-103.38421?authuser=0&hl=en&entry=ttu",
+                "reviews": 144,
+                "rating": 4.6,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Cafelina cafe",
+                "link": "https://www.google.com/maps/search/Cafelina+caf%C3%A9/@25.545310500000003,-103.44318919999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 66,
+                "rating": 4.5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Cafe Galeria Luna",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Galer%C3%ADa+Luna/@25.5652296,-103.4281043?authuser=0&hl=en&entry=ttu",
+                "reviews": 58,
+                "rating": 4.7,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Coffee & Jazz Cafeteria",
+                "link": "https://www.google.com/maps/search/Coffee+%26+Jazz+Cafeter%C3%ADa/@25.5181385,-103.3967718?authuser=0&hl=en&entry=ttu",
+                "reviews": 9,
+                "rating": 4.7,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "DELI cafeteria",
+                "link": "https://www.google.com/maps/search/DELI+cafeteria/@25.6019312,-103.3681539?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Cafe"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "103924548497040731477",
+            "name": "Sarabia1939 cafe bar (Owner)",
+            "link": "https://www.google.com/maps/contrib/103924548497040731477"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMNfunHlaD6p7LVUCc1_5s04clJO2HW9NRM7bW=w408-h306-k-no",
+        "main_category": "Espresso bar",
+        "categories": [
+            "Espresso bar"
+        ],
+        "rating": 4.1,
+        "workday_timing": "6 AM-9 PM",
+        "closed_on": "Open All Days",
+        "phone": "+52 871 751 5255",
+        "address": "Sarabia1939 cafe bar, Carr. Torreon - San Pedro Km9, Aeropuerto, 27039 Torreon, Coah., Mexico",
+        "review_keywords": [
+            {
+                "keyword": "airport",
+                "count": 16
+            },
+            {
+                "keyword": "price",
+                "count": 11
+            },
+            {
+                "keyword": "cymbals",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sarabia1939+caf%C3%A9+bar/data=!4m7!3m6!1s0x868fdb926bcdd94b:0x9317b39154d7953e!8m2!3d25.5632926!4d-103.398907!16s%2Fg%2F11csbpwqgs!19sChIJS9nNa5Lbj4YRPpXXVJGzF5M?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJSxK-7lo11Y8RPZTv-siP9ls",
+        "name": "Sarabia Cafe & Bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Patacon Pisao",
+                "link": "https://www.google.com/maps/search/Patac%C3%B3n+Pisao/@0.3202935,-79.4707817?authuser=0&hl=en&entry=ttu",
+                "reviews": 59,
+                "rating": 4.5,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Delicias Manabitas",
+                "link": "https://www.google.com/maps/search/Delicias+Manabitas/@0.32970669999999996,-79.47281219999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "La Salprieta Coffee Shop",
+                "link": "https://www.google.com/maps/search/La+Salprieta+Coffee+Shop/@0.3310701,-79.47345349999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Cafeteria D'Santy",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+D%27Santy/@0.3286908,-79.46595719999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Chifleria",
+                "link": "https://www.google.com/maps/search/Chifler%C3%ADa/@0.3293754,-79.4727417?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sarabia Cafe & Bar (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPa491PRmNCV6dsoL8POfiXJpfgssJFufryfWlV=w408-h272-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": 4.2,
+        "workday_timing": "7 AM-12 PM, 3-9 PM",
+        "closed_on": [
+            "Saturday"
+        ],
+        "phone": "+593 98 470 1622",
+        "address": "Sarabia Cafe & Bar, Maclovio Velasco &, Quininde, Ecuador",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sarabia+Caf%C3%A9+%26+Bar/data=!4m7!3m6!1s0x8fd5355aeebe124b:0x5bf68fc8faef943d!8m2!3d0.3342386!4d-79.4698765!16s%2Fg%2F11rf72z_w_!19sChIJSxK-7lo11Y8RPZTv-siP9ls?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJUS0c3a0urzMR88zzDmp6v4s",
+        "name": "Saravia's Best",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Ciano's Seafood Grill and Bar",
+                "link": "https://www.google.com/maps/search/Ciano%27s+Seafood+Grill+and+Bar/@10.877744,122.97936170000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 92,
+                "rating": 4.4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "GAG-Italian Cafe",
+                "link": "https://www.google.com/maps/search/GAG-Italian+Cafe/@10.8772296,122.98292539999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 12,
+                "rating": 4.3,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "MACReb's",
+                "link": "https://www.google.com/maps/search/MACReb%27s/@10.876772299999999,122.98509809999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "ROSELLA'S PIZZA HOUSE",
+                "link": "https://www.google.com/maps/search/ROSELLA%E2%80%99S+PIZZA+HOUSE/@10.896417399999999,123.0182502?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Restaurant"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Saravia's Best (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPIm7VMM31ftMKcltwcswsbhW_Lsn17MRHuFEWS=w410-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "VXHH+3MP Saravia's Best, Carlo, Magalona Street, Enrique B. Magalona, Negros Occidental, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Saravia%27s+Best/data=!4m7!3m6!1s0x33af2eaddd1c2d51:0x8bbf7a6a0ef3ccf3!8m2!3d10.8777125!4d122.9791906!16s%2Fg%2F11c1c29j94!19sChIJUS0c3a0urzMR88zzDmp6v4s?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJo7tddty7iYURQNtA4fkj1J4",
+        "name": "Saravia miller",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Masa Lista practic * Punto 16",
+                "link": "https://www.google.com/maps/search/Masa+Lista+practic+%E2%80%A2+Punto+16/@14.548074099999997,-90.4552088?authuser=0&hl=en&entry=ttu",
+                "reviews": 4,
+                "rating": 4.5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Hermann's bread",
+                "link": "https://www.google.com/maps/search/Hermann%27s+bread/@14.468977100000002,-90.4849112?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Cacao 70",
+                "link": "https://www.google.com/maps/search/Cacao+70/@14.5812894,-90.5159242?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Saravia miller (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOVD8GxA4X43hZ4rEbAAjhMpvP3GWgjSnwoP9z3=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "GHGQ+637 Saravia miller, Las Anonas, Guatemala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Saravia+miller/data=!4m7!3m6!1s0x8589bbdc765dbba3:0x9ed423f9e140db40!8m2!3d14.5260405!4d-90.4115753!16s%2Fg%2F11tt98g229!19sChIJo7tddty7iYURQNtA4fkj1J4?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJtWS-xvgvrzMRWo3PmUrsAKA",
+        "name": "Qians Coffee Saravia Mall",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Qians Coffee Shop Eastwalk Bacolod",
+                "link": "https://www.google.com/maps/search/Qians+Coffee+Shop+Eastwalk+Bacolod/@10.6609236,122.966233?authuser=0&hl=en&entry=ttu",
+                "reviews": 8,
+                "rating": 4.9,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "QIANS Coffee Talisay City",
+                "link": "https://www.google.com/maps/search/QIANS+Coffee+Talisay+City/@10.7382861,122.96834569999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 5,
+                "rating": 5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Qians Coffee Bacolod Nohs",
+                "link": "https://www.google.com/maps/search/Qians+Coffee+Bacolod+Nohs/@10.6633661,122.9432056?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Qians Coffee La Salle_ Bacolod",
+                "link": "https://www.google.com/maps/search/Qians+Coffee+La+Salle_+Bacolod/@10.6798024,122.9607144?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Qians Coffee Silay City",
+                "link": "https://www.google.com/maps/search/Qians+Coffee+Silay+City/@10.8027176,122.97678080000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 3,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "109028422550174772474",
+            "name": "Qians Coffee Saravia Mall (Owner)",
+            "link": "https://www.google.com/maps/contrib/109028422550174772474"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjOaiar_t3E_MyOXODUNdy_LDVGE-8AGVZx9-P=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Qians Coffee Saravia Mall, Enrique B. Magalona, Negros Occidental, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Qians+Coffee+Saravia+Mall/data=!4m7!3m6!1s0x33af2ff8c6be64b5:0xa000ec4a99cf8d5a!8m2!3d10.8778426!4d122.9778842!16s%2Fg%2F11pzs9sp5x!19sChIJtWS-xvgvrzMRWo3PmUrsAKA?authuser=0&hl=en&rclk=1"
+    }
+]
