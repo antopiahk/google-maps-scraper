@@ -21,7 +21,7 @@ def combine_csv_files(input_folder, output_file):
                         delete_folder = os.path.dirname(os.path.dirname(file_path))
                         if not 'all' in file_path and delete_folder != 'output':
                             print(f'Deleting folder: {delete_folder}')
-                            # shutil.rmtree(delete_folder)
+                            shutil.rmtree(delete_folder)
                 except pd.errors.EmptyDataError:
                     # If the file is empty, delete its parent folder
                     delete_folder = os.path.dirname(os.path.dirname(file_path))
