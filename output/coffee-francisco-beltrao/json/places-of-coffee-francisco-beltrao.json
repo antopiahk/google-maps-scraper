@@ -1,116 +1,10 @@
 [
     {
-        "place_id": "ChIJDW05C9Fy8JQRtlc_uoHtMbQ",
-        "name": "Bob's Burgers",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 998,
-        "competitors": [
-            {
-                "name": "Subway",
-                "link": "https://www.google.com/maps/search/Subway/@-26.0765756,-53.0535254?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1080,
-                "rating": 4.4,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Barra Lanches",
-                "link": "https://www.google.com/maps/search/Barra+Lanches/@-26.078305399999998,-53.045237400000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 899,
-                "rating": 4.6,
-                "main_category": "Han Bao Bao "
-            },
-            {
-                "name": "Don Juan Hamburguesas",
-                "link": "https://www.google.com/maps/search/Don+Juan+Hamburguesas/@-26.077907999999997,-53.044430999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
-                "rating": 4.7,
-                "main_category": "Han Bao Bao "
-            },
-            {
-                "name": "Dog King - Francisco Beltrao",
-                "link": "https://www.google.com/maps/search/Dog+King+-+Francisco+Beltr%C3%A3o/@-26.077042,-53.043523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 432,
-                "rating": 4.4,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Nave Lanches",
-                "link": "https://www.google.com/maps/search/Nave+Lanches/@-26.076843699999998,-53.070276?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.7,
-                "main_category": "Kuai Can "
-            }
-        ],
-        "website": "https://www.bobs.com.br/",
-        "owner": {
-            "id": "112007149155620065673",
-            "name": "Bob's Burgers (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112007149155620065673"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3mnTmTjZc2DwB0NqWv7EhfTkIbUuqp-Gqgr4=w408-h725-k-no",
-        "main_category": "Kuai Can Dian ",
-        "categories": [
-            "Kuai Can Dian ",
-            "Han Bao Can Ting ",
-            "Xue Gao Dian ",
-            "Can Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "11:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 46 3055-3300",
-        "address": "Bob's Burgers - R. Ten. Camargo, 1795 - Centro, Francisco Beltrao - PR, 85601-610Ba Xi ",
-        "review_keywords": [
-            {
-                "keyword": "Xiao Chi ",
-                "count": 61
-            },
-            {
-                "keyword": "Xiao Hai ",
-                "count": 23
-            },
-            {
-                "keyword": "Nai Xi ",
-                "count": 13
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 11
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 11
-            },
-            {
-                "keyword": "Yu Shi ",
-                "count": 9
-            },
-            {
-                "keyword": "Wei Sheng ",
-                "count": 6
-            },
-            {
-                "keyword": "Wan Ju ",
-                "count": 5
-            },
-            {
-                "keyword": "Chan Pin ",
-                "count": 5
-            },
-            {
-                "keyword": "Jia Meng ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Bob%27s+Burgers/data=!4m7!3m6!1s0x94f072d10b396d0d:0xb431ed81ba3f57b6!8m2!3d-26.0779136!4d-53.0526812!16s%2Fg%2F11bx99h_nh!19sChIJDW05C9Fy8JQRtlc_uoHtMbQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJU57iOiwN8JQRMvT0lOSOPLQ",
         "name": "Iraci Cafe & Patisserie",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 961,
+        "reviews": 962,
         "competitors": [
             {
                 "name": "Minni Cafe",
@@ -165,6 +59,7 @@
         "rating": 4.7,
         "workday_timing": "07:00-20:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+55 46 3523-2794",
@@ -206,7 +101,7 @@
         "name": "Panificadora Cravo E Canela",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 277,
+        "reviews": 278,
         "competitors": [
             {
                 "name": "Iraci Cafe & Patisserie",
@@ -259,7 +154,9 @@
         ],
         "rating": 4.5,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+55 46 3527-2646",
         "address": "Panificadora Cravo E Canela - Av. Attilio Fontana, 3925 - Pinheirinho, Francisco Beltrao - PR, 85603-025Ba Xi ",
         "review_keywords": [
@@ -291,7 +188,7 @@
         "name": "The Best Acai - Francisco Beltrao",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 224,
+        "reviews": 225,
         "competitors": [
             {
                 "name": "Latte di Buono",
@@ -310,8 +207,8 @@
             {
                 "name": "Acaidera Food Trailer",
                 "link": "https://www.google.com/maps/search/A%C3%A7aidera+Food+Trailer/@-26.0795577,-53.0482914?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.3,
+                "reviews": 16,
+                "rating": 4.2,
                 "main_category": "Bing Qi Lin "
             },
             {
@@ -394,7 +291,7 @@
                 "main_category": "Zhu Gu Li Dian "
             }
         ],
-        "website": "https://bolanocasadechocolates.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://bolanocasadechocolates.negocio.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": "105782862891637889396",
             "name": "Bolano Casa De Chocolates (Ye Zhu )",
@@ -704,7 +601,7 @@
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
-        "website": "https://panificadora-e-confeitaria-aroma-e-sabor.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://panificadora-e-confeitaria-aroma-e-sabor.negocio.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": "117906547222678935306",
             "name": "Panificadora e Confeitaria Aroma e Sabor (Ye Zhu )",
@@ -806,7 +703,7 @@
         "name": "Cacau Show",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 47,
+        "reviews": 48,
         "competitors": [
             {
                 "name": "Bolano Casa De Chocolates",
@@ -1268,42 +1165,13 @@
         "link": "https://www.google.com/maps/place/Kopenhagen+Francisco+Beltr%C3%A3o/data=!4m7!3m6!1s0x94f073a159fe6083:0xa42d8591f2b09a63!8m2!3d-26.077452!4d-53.0548289!16s%2Fg%2F11rwp7dpxq!19sChIJg2D-WaFz8JQRY5qw8pGFLaQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJpck5rAdz8JQRindhWx4e4yE",
-        "name": "Gela Boca - Francisco Beltrao",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 16,
-        "competitors": [],
-        "website": "https://gelaboca.com.br/",
-        "owner": {
-            "id": "109474325745359764729",
-            "name": "Gela Boca - Francisco Beltrao (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109474325745359764729"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDUvX2laCjFsGFFblmuwtC1lEFLNv7Ymtpuo3z=w408-h408-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian ",
-            "Ba Xi Mei Tian Dian Dian ",
-            "Tian Pin Zi Zhu Can ",
-            "Tian Pin Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Gela Boca - Francisco Beltrao - R. Ponta Grossa, 2033 - Pres. Kennedy, Francisco Beltrao - PR, 85601-600Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Gela+Boca+-+Francisco+Beltr%C3%A3o/data=!4m7!3m6!1s0x94f07307ac39c9a5:0x21e31e1e5b61778a!8m2!3d-26.0787!4d-53.056242!16s%2Fg%2F11kr8v69mz!19sChIJpck5rAdz8JQRindhWx4e4yE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJbfrkZR4N8JQR6glVBqrUHHs",
         "name": "Homer Donuts",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 15,
         "competitors": [],
-        "website": "https://homer-donuts.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://homer-donuts.negocio.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": "108146700529875594988",
             "name": "Homer Donuts (Ye Zhu )",
@@ -1508,8 +1376,9 @@
             "Ka Pei Dian "
         ],
         "rating": 5,
-        "workday_timing": "08:30-18:30",
+        "workday_timing": "08:30-21:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+55 46 2601-1782",
@@ -1664,7 +1533,7 @@
             {
                 "name": "Sorveteria GEBON Centro",
                 "link": "https://www.google.com/maps/search/Sorveteria+GEBON+Centro/@-26.075452,-53.0573726?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 315,
+                "reviews": 316,
                 "rating": 4.7,
                 "main_category": "Bing Qi Lin "
             },
@@ -1786,6 +1655,54 @@
         "link": "https://www.google.com/maps/place/Del%C3%ADcias+da+R%C3%B4+-+Coffee+%26+Cake/data=!4m7!3m6!1s0x94f073c5569f7abb:0xcee8287aecd9e185!8m2!3d-26.0716897!4d-53.0477597!16s%2Fg%2F11krfsvqcy!19sChIJu3qfVsVz8JQRheHZ7Hoo6M4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJKUBaVBRz8JQRI1NOq9p97gA",
+        "name": "Bubble Mix Tea - Francisco Beltrao",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "O Mestre Do Acai",
+                "link": "https://www.google.com/maps/search/O+Mestre+Do+A%C3%A7a%C3%AD/@-26.0780225,-53.0512842?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 296,
+                "rating": 4.6,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Herbalife Francisco Beltrao - Espaco Do Shake - Espaco Herbalife Nutrition - Consultor Ind Herbalife",
+                "link": "https://www.google.com/maps/search/Herbalife+Francisco+Beltrao+-+Espa%C3%A7o+Do+Shake+-+Espa%C3%A7o+Herbalife+Nutrition+-+Consultor+Ind+Herbalife/@-26.079054199999998,-53.0519016?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Sabores Cremoso",
+                "link": "https://www.google.com/maps/search/Sabores+Cremoso/@-26.0796183,-53.051638499999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Wai Hui Yin Shi Gong Ying Shang "
+            }
+        ],
+        "website": "http://www.bubblemixtea.com/",
+        "owner": {
+            "id": "100798632584645763659",
+            "name": "Bubble Mix Tea - Francisco Beltrao (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/100798632584645763659"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n2g5cTzVLfn97hU6wzAWkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=252.98401&pitch=0&thumbfov=100",
+        "main_category": "Zhen Zhu Nai Cha Dian ",
+        "categories": [
+            "Zhen Zhu Nai Cha Dian "
+        ],
+        "rating": null,
+        "workday_timing": "13:30-20:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Bubble Mix Tea - Francisco Beltrao, O Mestre do Acai - Tv. Frei Deodato, 77 Anexo a loja - Centro, Francisco Beltrao - PR, 85605-070Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bubble+Mix+Tea+-+Francisco+Beltr%C3%A3o/data=!4m7!3m6!1s0x94f07314545a4029:0xee7ddaab4e5323!8m2!3d-26.0787392!4d-53.051992!16s%2Fg%2F11s2ndsxdr!19sChIJKUBaVBRz8JQRI1NOq9p97gA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJVVVRW9Fy8JQRuPiK_J-1fDg",
         "name": "Herbalife Francisco Beltrao - Espaco Do Shake - Espaco Herbalife Nutrition - Consultor Ind Herbalife",
         "description": null,
@@ -1844,54 +1761,6 @@
         "link": "https://www.google.com/maps/place/Herbalife+Francisco+Beltrao+-+Espa%C3%A7o+Do+Shake+-+Espa%C3%A7o+Herbalife+Nutrition+-+Consultor+Ind+Herbalife/data=!4m7!3m6!1s0x94f072d15b515555:0x387cb59ffc8af8b8!8m2!3d-26.0790542!4d-53.0519016!16s%2Fg%2F11gb3zckhd!19sChIJVVVRW9Fy8JQRuPiK_J-1fDg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJKUBaVBRz8JQRI1NOq9p97gA",
-        "name": "Bubble Mix Tea - Francisco Beltrao",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "O Mestre Do Acai",
-                "link": "https://www.google.com/maps/search/O+Mestre+Do+A%C3%A7a%C3%AD/@-26.0780225,-53.0512842?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 296,
-                "rating": 4.6,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Herbalife Francisco Beltrao - Espaco Do Shake - Espaco Herbalife Nutrition - Consultor Ind Herbalife",
-                "link": "https://www.google.com/maps/search/Herbalife+Francisco+Beltrao+-+Espa%C3%A7o+Do+Shake+-+Espa%C3%A7o+Herbalife+Nutrition+-+Consultor+Ind+Herbalife/@-26.079054199999998,-53.0519016?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Cha Yi Guan "
-            },
-            {
-                "name": "Sabores Cremoso",
-                "link": "https://www.google.com/maps/search/Sabores+Cremoso/@-26.0796183,-53.051638499999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Wai Hui Yin Shi Gong Ying Shang "
-            }
-        ],
-        "website": "http://www.bubblemixtea.com/",
-        "owner": {
-            "id": "100798632584645763659",
-            "name": "Bubble Mix Tea - Francisco Beltrao (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100798632584645763659"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n2g5cTzVLfn97hU6wzAWkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=252.98401&pitch=0&thumbfov=100",
-        "main_category": "Zhen Zhu Nai Cha Dian ",
-        "categories": [
-            "Zhen Zhu Nai Cha Dian "
-        ],
-        "rating": null,
-        "workday_timing": "13:30-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Bubble Mix Tea - Francisco Beltrao, O Mestre do Acai - Tv. Frei Deodato, 77 Anexo a loja - Centro, Francisco Beltrao - PR, 85605-070Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bubble+Mix+Tea+-+Francisco+Beltr%C3%A3o/data=!4m7!3m6!1s0x94f07314545a4029:0xee7ddaab4e5323!8m2!3d-26.0787392!4d-53.051992!16s%2Fg%2F11s2ndsxdr!19sChIJKUBaVBRz8JQRI1NOq9p97gA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJE9astvAN8JQRwMcq8HTUWeQ",
         "name": "Cacau Show",
         "description": null,
@@ -1926,7 +1795,7 @@
         "name": "Panificadora Liciane",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1878,
+        "reviews": 1879,
         "competitors": [
             {
                 "name": "Panificadora E Restaurante Sabor & Cia",
@@ -2645,7 +2514,7 @@
             {
                 "name": "Restaurante e Pizzaria Avenida",
                 "link": "https://www.google.com/maps/search/Restaurante+e+Pizzaria+Avenida/@-26.080995899999998,-53.050207799999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 366,
+                "reviews": 367,
                 "rating": 4.3,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -2996,61 +2865,6 @@
         "link": "https://www.google.com/maps/place/Cyber+Bolano/data=!4m7!3m6!1s0x94f073ed74df6579:0xaaf39383fccaaf7a!8m2!3d-26.0780165!4d-53.0524412!16s%2Fg%2F11q1vgr0pq!19sChIJeWXfdO1z8JQReq_K_IOT86o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ4UKLP8dz8JQR3rsVJIkAAXQ",
-        "name": "Sonia doces e bolos",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 45,
-        "competitors": [
-            {
-                "name": "Jacke Bolos e Doces",
-                "link": "https://www.google.com/maps/search/Jacke+Bolos+e+Doces/@-26.0770093,-53.0487219?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.8,
-                "main_category": "Xi Dian "
-            },
-            {
-                "name": "Dona Ana Bolos",
-                "link": "https://www.google.com/maps/search/Dona+Ana+Bolos/@-26.0857037,-53.0577116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.5,
-                "main_category": "Xi Bing Dian "
-            },
-            {
-                "name": "Doce Encanto - bolos e doces artesanais sob encomenda",
-                "link": "https://www.google.com/maps/search/Doce+Encanto+-+bolos+e+doces+artesanais+sob+encomenda/@-26.0906337,-53.067601499999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Xi Bing Dian "
-            },
-            {
-                "name": "TicciDoces",
-                "link": "https://www.google.com/maps/search/TicciDoces/@-26.0664515,-53.065227799999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 1,
-                "main_category": "Tang Guo Gao Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "117087260014201568077",
-            "name": "Sonia doces e bolos (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117087260014201568077"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZcRfbOK50pPcjp0Mj85sQLJ0qcrpO7hBtpaOi=w408-h885-k-no",
-        "main_category": "Gao Bing Dian ",
-        "categories": [
-            "Gao Bing Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "09:00-19:30",
-        "closed_on": "Open All Days",
-        "phone": "+55 46 99973-4791",
-        "address": "Sonia doces e bolos - Av. Getulio Vargas, 39 - Cristo Rei, Francisco Beltrao - PR, 85602-500Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/S%C3%B4nia+doces+e+bolos/data=!4m7!3m6!1s0x94f073c73f8b42e1:0x740100892415bbde!8m2!3d-26.0716163!4d-53.0604015!16s%2Fg%2F11sgck7nmr!19sChIJ4UKLP8dz8JQR3rsVJIkAAXQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJQZvv4sVy8JQR2LA7Wy2IMX4",
         "name": "Bar e Sorveteria Big Milk",
         "description": null,
@@ -3357,7 +3171,7 @@
         "name": "Saboretto Panificadora e Restaurante",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 30,
+        "reviews": 31,
         "competitors": [
             {
                 "name": "Restaurante e Panificadora Doce Pao",
@@ -3595,70 +3409,6 @@
         "link": "https://www.google.com/maps/place/PANIFICADORA+DONATERE/data=!4m7!3m6!1s0x94f072b6298cd2e9:0x9708e0fedeaf7ac0!8m2!3d-26.0652224!4d-53.0535453!16s%2Fg%2F11thlx7qtx!19sChIJ6dKMKbZy8JQRwHqv3v7gCJc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ01Onbi1z8JQRd7jCvBSwkIA",
-        "name": "Floricultura Maranata",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 10,
-        "competitors": [
-            {
-                "name": "Luana Flores",
-                "link": "https://www.google.com/maps/search/Luana+Flores/@-26.0756035,-53.0529732?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
-                "rating": 4.8,
-                "main_category": "Hua Dian "
-            },
-            {
-                "name": "Verde Vale Floricultura, Garden Center e paisagismo loja 2",
-                "link": "https://www.google.com/maps/search/Verde+Vale+Floricultura%2C+Garden+Center+e+paisagismo+loja+2/@-26.0841466,-53.046550599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.7,
-                "main_category": "Hua Dian "
-            },
-            {
-                "name": "Florbela Paisagismo Beltrao",
-                "link": "https://www.google.com/maps/search/Florbela+Paisagismo+Beltr%C3%A3o/@-26.0760284,-53.0507922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 4.5,
-                "main_category": "Hua Dian "
-            },
-            {
-                "name": "Floricultura Rosa De Saron",
-                "link": "https://www.google.com/maps/search/Floricultura+Rosa+De+Saron/@-26.0445012,-53.0549471?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.4,
-                "main_category": "Hua Dian "
-            },
-            {
-                "name": "FLORICULTURA VALDOMIRO",
-                "link": "https://www.google.com/maps/search/FLORICULTURA+VALDOMIRO/@-26.07179,-53.060219499999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Hua Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "104645707020188394056",
-            "name": "Floricultura Maranata (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104645707020188394056"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEupzWexZbn98anQeD93f_qhM9mRKqag7mFoh3=w408-h544-k-no",
-        "main_category": "Hua Dian ",
-        "categories": [
-            "Hua Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-18:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 46 99941-3255",
-        "address": "Floricultura Maranata - R. Gov. Parigot de Souza, 442 - Cango, Francisco Beltrao - PR, 85604-020Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Floricultura+Maranata/data=!4m7!3m6!1s0x94f0732d6ea753d3:0x8090b014bcc2b877!8m2!3d-26.0666194!4d-53.0524633!16s%2Fg%2F11m_jllw6c!19sChIJ01Onbi1z8JQRd7jCvBSwkIA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ3-pSlTBz8JQRknZ-hwlCD9k",
         "name": "Panificadora Don' Ana",
         "description": null,
@@ -3782,61 +3532,6 @@
         "address": "Padaria E Confeitaria Rocale - R. Uniao da Vitoria, 1213 - Vila Nova, Francisco Beltrao - PR, 85605-040Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Padaria+E+Confeitaria+Rocale/data=!4m7!3m6!1s0x94f00d4ef3092b7b:0x309ac1f0ccaee934!8m2!3d-26.0780383!4d-53.0448504!16s%2Fg%2F11h2027lbr!19sChIJeysJ804N8JQRNOmuzPDBmjA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJybINie1z8JQRE-t8-PJTSLM",
-        "name": "Universo do acai",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 9,
-        "competitors": [
-            {
-                "name": "O Mestre Do Acai",
-                "link": "https://www.google.com/maps/search/O+Mestre+Do+A%C3%A7a%C3%AD/@-26.0780225,-53.0512842?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 296,
-                "rating": 4.6,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "The Best Acai - Francisco Beltrao",
-                "link": "https://www.google.com/maps/search/The+Best+A%C3%A7a%C3%AD+-+Francisco+Beltr%C3%A3o/@-26.078026700000002,-53.051060799999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 224,
-                "rating": 4.8,
-                "main_category": "Ba Xi Mei Tian Dian Dian "
-            },
-            {
-                "name": "Sorveteria Ki Sabor",
-                "link": "https://www.google.com/maps/search/Sorveteria+Ki+Sabor/@-26.0733046,-53.067235499999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 139,
-                "rating": 4.4,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Nosso Acai",
-                "link": "https://www.google.com/maps/search/Nosso+A%C3%A7a%C3%AD/@-26.0409331,-53.0562165?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "100510379773947065756",
-            "name": "Universo do acai (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100510379773947065756"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlAOpws5j1LpoezrpPe-UXpNjMZ2kbyQ4ARavV=w408-h544-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "12:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 46 99931-7224",
-        "address": "Universo do acai - Av. Presidente Getulio Vargas, 314 - Sao Miguel, Francisco Beltrao - PR, 85602-120Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Universo+do+a%C3%A7ai/data=!4m7!3m6!1s0x94f073ed890db2c9:0xb34853f2f87ceb13!8m2!3d-26.071794!4d-53.0690849!16s%2Fg%2F11ry2q_c_k!19sChIJybINie1z8JQRE-t8-PJTSLM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ7d-T8MVy8JQR_Z6s3Ett9OE",
@@ -3966,62 +3661,110 @@
         "link": "https://www.google.com/maps/place/Panificadora+Lua+da+Noite/data=!4m7!3m6!1s0x94f072a7b3501821:0x4cc7de3c76a90e70!8m2!3d-26.0489406!4d-53.0583609!16s%2Fg%2F11cs6c8t31!19sChIJIRhQs6dy8JQRcA6pdjzex0w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ8ThRJzgN8JQRhX2Cllx2bC4",
-        "name": "Box 46 Conveniencia",
+        "place_id": "ChIJl-e1fiAN8JQRU-ASdsMm0_8",
+        "name": "Pot Cake",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 6,
         "competitors": [
             {
-                "name": "Jack Beer Conveniencia",
-                "link": "https://www.google.com/maps/search/Jack+Beer+Conveni%C3%AAncia/@-26.080956999999998,-53.0479465?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Panificadora Moraes",
+                "link": "https://www.google.com/maps/search/Panificadora+Moraes/@-26.0772534,-53.043684299999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Padaria e Confeitaria Nossa Senhora Aparecida",
+                "link": "https://www.google.com/maps/search/Padaria+e+Confeitaria+Nossa+Senhora+Aparecida/@-26.0777457,-53.0572917?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.1,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Emporio Genebra",
+                "link": "https://www.google.com/maps/search/Emp%C3%B3rio+Genebra/@-26.107666299999998,-53.0495234?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 15,
-                "rating": 4.9,
-                "main_category": "Bian Li Dian "
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
             },
             {
-                "name": "Up conveniencia",
-                "link": "https://www.google.com/maps/search/Up+conveni%C3%AAncia/@-26.0883847,-53.041967799999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 2.5,
-                "main_category": "Bian Li Dian "
+                "name": "Panificadora Ramo de Trigo",
+                "link": "https://www.google.com/maps/search/Panificadora+Ramo+de+Trigo/@-26.0495497,-53.036292100000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
             },
             {
-                "name": "Chicago Beer 46",
-                "link": "https://www.google.com/maps/search/Chicago+Beer+46/@-26.079639099999998,-53.048306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Concorrencia conveniencia",
-                "link": "https://www.google.com/maps/search/Concorr%C3%AAncia+conveni%C3%AAncia/@-26.0801029,-53.0480436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Bian Li Dian "
+                "name": "MERCADO E ACOUGUE Seminario",
+                "link": "https://www.google.com/maps/search/MERCADO+E+A%C3%87OUGUE+Seminario/@-26.076202499999997,-53.033288899999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.5,
+                "main_category": "Nong Chan Pin Shi Chang "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Box 46 Conveniencia (Ye Zhu )",
+            "name": "Pot Cake (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7UmCRZpLW3uOryoYAFP6QiqvujBmeIDJawgTM=w408-h503-k-no",
-        "main_category": "Bian Li Dian ",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bEbG0Fu8g4hNgcPoiFHFLg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=319.35944&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
         "categories": [
-            "Bian Li Dian "
+            "Mian Bao Xi Bing Dian "
         ],
-        "rating": 4.7,
-        "workday_timing": "18:00-00:00",
+        "rating": 4,
+        "workday_timing": "07:00-20:00",
         "closed_on": [
-            "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
-        "phone": "+55 46 99101-8335",
-        "address": "Box 46 Conveniencia - Av. Julio Assis Cavalheiro, 1931 - Industrial, Francisco Beltrao - PR, 85601-000Ba Xi ",
+        "phone": null,
+        "address": "Pot Cake - R. Espanha, 479 - Seminario, Francisco Beltrao - PR, 85605-647Ba Xi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Box+46+Conveniencia/data=!4m7!3m6!1s0x94f00d38275138f1:0x2e6c765c96827d85!8m2!3d-26.0862912!4d-53.0440605!16s%2Fg%2F11q1ndpxmr!19sChIJ8ThRJzgN8JQRhX2Cllx2bC4?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Pot+Cake/data=!4m7!3m6!1s0x94f00d207eb5e797:0xffd326c37612e053!8m2!3d-26.0773319!4d-53.0267557!16s%2Fg%2F11hbk9p__p!19sChIJl-e1fiAN8JQRU-ASdsMm0_8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJYXg1Hcdt8JQRj6lvTmmZVHE",
+        "name": "Le Cheff Sorveteria E Lanchonete",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Lanchonete E Sorveteria Tropical",
+                "link": "https://www.google.com/maps/search/Lanchonete+E+Sorveteria+Tropical/@-26.0344762,-53.0534197?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 4.4,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Sorveteira parque",
+                "link": "https://www.google.com/maps/search/Sorveteira+parque/@-26.0487218,-53.061230099999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.5,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le Cheff Sorveteria E Lanchonete (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN74z_mTSSkzkc2bMxuy2b2r2DtEeaXpcRb9u-z=w426-h240-k-no",
+        "main_category": "Xiao Shi /Ling Shi Ba ",
+        "categories": [
+            "Xiao Shi /Ling Shi Ba ",
+            "Xue Gao Dian "
+        ],
+        "rating": 3.4,
+        "workday_timing": "10:00-23:00",
+        "closed_on": "Open All Days",
+        "phone": "+55 54 99693-1227",
+        "address": "Le Cheff Sorveteria E Lanchonete - R. Taubate, 35 - Pinheirinho, Francisco Beltrao - PR, 85603-610Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/L%C3%AA+Cheff+Sorveteria+E+Lanchonete/data=!4m7!3m6!1s0x94f06dc71d357861:0x715499694e6fa98f!8m2!3d-26.0438647!4d-53.059054!16s%2Fg%2F11f9_tltkx!19sChIJYXg1Hcdt8JQRj6lvTmmZVHE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ2y6QsOFz8JQRUwIHaiJT4YQ",
@@ -4170,89 +3913,6 @@
         "address": null,
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Herbalife+Consultor+Independente/data=!4m7!3m6!1s0x94f072c58b10e2e9:0xe82edf1f724c6226!8m2!3d-26.0683765!4d-53.0490302!16s%2Fg%2F1tgqkl5f!19sChIJ6eIQi8Vy8JQRJmJMch_fLug?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJGTe-nl1z8JQRMV4gUtkShxw",
-        "name": "Chicago Beer 46",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Jack Beer Conveniencia",
-                "link": "https://www.google.com/maps/search/Jack+Beer+Conveni%C3%AAncia/@-26.080956999999998,-53.0479465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.9,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Box 46 Conveniencia",
-                "link": "https://www.google.com/maps/search/Box+46+Conveniencia/@-26.086291199999998,-53.0440605?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.7,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "203 conveniencia",
-                "link": "https://www.google.com/maps/search/203+conveniencia/@-26.0767331,-53.06081330000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Conveniencia Estancia Beltrao",
-                "link": "https://www.google.com/maps/search/Conveni%C3%AAncia+Est%C3%A2ncia+Beltr%C3%A3o/@-26.076724199999997,-53.0622465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "101712008048247004813",
-            "name": "Chicago Beer 46 (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101712008048247004813"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgC4VHp2ncRJtsLNds-Yt8Ro6GqrL3MShu4xfg=w425-h240-k-no",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "18:00-00:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+55 46 99111-3409",
-        "address": "Chicago Beer 46 - R. Para, 51 - Sala 1 - Centro, Francisco Beltrao - PR, 85601-290Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Chicago+Beer+46/data=!4m7!3m6!1s0x94f0735d9ebe3719:0x1c8712d952205e31!8m2!3d-26.0796391!4d-53.048306!16s%2Fg%2F11llm34hw1!19sChIJGTe-nl1z8JQRMV4gUtkShxw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJzUFP9-oN8JQRNIQ3mj5VXOc",
-        "name": "JAH - Acai l Sorvetes l Picoles (Loja 01)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "JAH - Acai l Sorvetes l Picoles (Loja 01) (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPVYrRQeYh4yJSjpoNuSo0UVUXSP2szEdyhx1DH=w408-h544-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "10:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "JAH - Acai l Sorvetes l Picoles (Loja 01) - R. Uniao da Vitoria, 779 - Vila Nova, Francisco Beltrao - PR, 85605-040Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/JAH+-+A%C3%A7a%C3%AD+l+Sorvetes+l+Picol%C3%A9s+%28Loja+01%29/data=!4m7!3m6!1s0x94f00deaf74f41cd:0xe75c553e9a378434!8m2!3d-26.074739!4d-53.0422722!16s%2Fg%2F11vc4dj_63!19sChIJzUFP9-oN8JQRNIQ3mj5VXOc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJW--1vzJz8JQRzuT8qFihMbI",
@@ -4487,7 +4147,7 @@
             {
                 "name": "Sorveteria GEBON Centro",
                 "link": "https://www.google.com/maps/search/Sorveteria+GEBON+Centro/@-26.075452,-53.0573726?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 315,
+                "reviews": 316,
                 "rating": 4.7,
                 "main_category": "Bing Qi Lin "
             },
@@ -4716,7 +4376,7 @@
             {
                 "name": "VINOTECA Vinho * Prosa",
                 "link": "https://www.google.com/maps/search/VINOTECA+Vinho+%E2%80%A2+Prosa/@-26.077972,-53.0528382?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 433,
+                "reviews": 437,
                 "rating": 5,
                 "main_category": "Zhou Li Jiu Pu "
             },
@@ -4812,128 +4472,32 @@
         "link": "https://www.google.com/maps/place/Espa%C3%A7o+Coach+Emerson/data=!4m7!3m6!1s0x94f073a2876f3e73:0xbb001764013d9263!8m2!3d-26.0774599!4d-53.0548616!16s%2Fg%2F11hs8r9sbb!19sChIJcz5vh6Jz8JQRY5I9AWQXALs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJu9Nbo3Nz8JQRDGpmKnNt3dc",
-        "name": "Prime Conveniencia",
+        "place_id": "ChIJWcc7n6UN8JQRfXzdOs9jF0Y",
+        "name": "Up conveniencia 2",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
-        "competitors": [
-            {
-                "name": "Up conveniencia",
-                "link": "https://www.google.com/maps/search/Up+conveni%C3%AAncia/@-26.0883847,-53.041967799999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 2.5,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Concorrencia conveniencia",
-                "link": "https://www.google.com/maps/search/Concorr%C3%AAncia+conveni%C3%AAncia/@-26.0801029,-53.0480436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Conveniencia Am/Pm",
-                "link": "https://www.google.com/maps/search/Conveni%C3%AAncia+Am%2FPm/@-26.071798299999998,-53.057587299999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Job's Conveniencia",
-                "link": "https://www.google.com/maps/search/Job%27s+Conv%C3%AAniencia/@-26.0796425,-53.059596199999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Conveniencia Rota Bebidas",
-                "link": "https://www.google.com/maps/search/Conveni%C3%AAncia+Rota+Bebidas/@-26.078519999999997,-53.069763099999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Yin Liao "
-            }
-        ],
+        "competitors": [],
         "website": null,
         "owner": {
-            "id": "105019173326426251616",
-            "name": "Prime Conveniencia (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105019173326426251616"
+            "id": "109782727158325300928",
+            "name": "Up conveniencia 2 (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109782727158325300928"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNKLGhOFZfzlFrZrfGQx5seOU3aypVDlM2F0kN=w408-h316-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNhFLwNR1CH-CN67DbV-JZwygznWcaciiAhITTS=w408-h544-k-no",
         "main_category": "Bian Li Dian ",
         "categories": [
             "Bian Li Dian "
         ],
         "rating": null,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": "Open All Days",
-        "phone": "+55 73 99860-1750",
-        "address": "Prime Conveniencia - Av. Gen. Osorio, 656 - Cango, Francisco Beltrao - PR, 85604-240Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Prime+Conveni%C3%AAncia/data=!4m7!3m6!1s0x94f07373a35bd3bb:0xd7dd6d732a666a0c!8m2!3d-26.0664994!4d-53.0558997!16s%2Fg%2F11pz088n9f!19sChIJu9Nbo3Nz8JQRDGpmKnNt3dc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJFw7XvCtz8JQR_UTO4AlsOHo",
-        "name": "simple Panificadora",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Panificadora Pane Pertutti",
-                "link": "https://www.google.com/maps/search/Panificadora+Pane+Pertutti/@-26.066799099999997,-53.054275399999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 103,
-                "rating": 4.6,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Panificadora Mell's gourmet",
-                "link": "https://www.google.com/maps/search/Panificadora+Mell%27s+gourmet/@-26.0828234,-53.048026099999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Pele cafe Panificadora",
-                "link": "https://www.google.com/maps/search/Pel%C3%A9+caf%C3%A9+Panificadora/@-26.0853586,-53.0466589?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 31,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Panificadora Moraes",
-                "link": "https://www.google.com/maps/search/Panificadora+Moraes/@-26.0772534,-53.043684299999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Padaria e Confeitaria Nossa Senhora Aparecida",
-                "link": "https://www.google.com/maps/search/Padaria+e+Confeitaria+Nossa+Senhora+Aparecida/@-26.0777457,-53.0572917?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.1,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
+        "workday_timing": "13:30-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
         ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "simple Panificadora (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gE2_E2EEMStG2lr2DR-yfw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=258.68582&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "simple Panificadora - Sao Cristovao, Francisco Beltrao - PR, 85601-040Ba Xi ",
+        "phone": "+55 46 99978-0274",
+        "address": "Up conveniencia 2 - R. Uniao da Vitoria, 1306 - Vila Nova, Francisco Beltrao - PR, 85601-660Ba Xi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/simpl%C3%AA+Panificadora/data=!4m7!3m6!1s0x94f0732bbcd70e17:0x7a386c09e0ce44fd!8m2!3d-26.0879166!4d-53.0492867!16s%2Fg%2F11jygyz6wy!19sChIJFw7XvCtz8JQR_UTO4AlsOHo?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Up+conveni%C3%AAncia+2/data=!4m7!3m6!1s0x94f00da59f3bc759:0x461763cf3add7c7d!8m2!3d-26.0788436!4d-53.0453795!16s%2Fg%2F11kq18cd1z!19sChIJWcc7n6UN8JQRfXzdOs9jF0Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJqX8VSN9z8JQRnPITkN5f_DE",

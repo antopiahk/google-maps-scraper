@@ -4,7 +4,7 @@
         "name": "Supermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 4325,
+        "reviews": 4328,
         "competitors": [
             {
                 "name": "Princesa Supermercados - Marica 1",
@@ -16,7 +16,7 @@
             {
                 "name": "Princesa Supermercados - Marica 2",
                 "link": "https://www.google.com/maps/search/Princesa+Supermercados+-+Maric%C3%A1+2/@-22.9167146,-42.8175482?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1498,
+                "reviews": 1499,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -92,12 +92,12 @@
         "name": "Padaria Lady Day Itapeba",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2338,
+        "reviews": 2339,
         "competitors": [
             {
                 "name": "Padaria Lady Day",
                 "link": "https://www.google.com/maps/search/Padaria+Lady+Day/@-22.750799699999998,-42.8572361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2954,
+                "reviews": 2955,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -111,14 +111,14 @@
             {
                 "name": "Lady Day",
                 "link": "https://www.google.com/maps/search/Lady+Day/@-22.912070099999998,-42.933128100000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1487,
+                "reviews": 1488,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Padaria Lady Day",
                 "link": "https://www.google.com/maps/search/Padaria+Lady+Day/@-22.9338074,-42.8900562?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 779,
+                "reviews": 780,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -181,12 +181,12 @@
         "name": "Americanas",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1591,
+        "reviews": 1592,
         "competitors": [
             {
                 "name": "Loja Americanas Centro de Itaborai",
                 "link": "https://www.google.com/maps/search/Loja+Americanas+Centro+de+Itabora%C3%AD/@-22.7454905,-42.8548225?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1615,
+                "reviews": 1616,
                 "rating": 4.1,
                 "main_category": "Bai Huo Gong Si "
             },
@@ -344,7 +344,11 @@
             },
             {
                 "keyword": "Chan Pin ",
-                "count": 21
+                "count": 22
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 13
             },
             {
                 "keyword": "Qia Bu Qi Nuo ",
@@ -357,10 +361,6 @@
             {
                 "keyword": "Zhuo ",
                 "count": 6
-            },
-            {
-                "keyword": "star",
-                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/D%27Goulart+and+Doceria+Cafeteria/data=!4m7!3m6!1s0x99ed9bd0f12179:0xa01d20be0262a54b!8m2!3d-22.9166977!4d-42.8191171!16s%2Fg%2F11bwyv22gs!19sChIJeSHx0JvtmQARS6ViAr4gHaA?authuser=0&hl=zh-TW&rclk=1"
@@ -375,14 +375,14 @@
             {
                 "name": "Lady Day",
                 "link": "https://www.google.com/maps/search/Lady+Day/@-22.912070099999998,-42.933128100000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1487,
+                "reviews": 1488,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Padaria Lady Day",
                 "link": "https://www.google.com/maps/search/Padaria+Lady+Day/@-22.9338074,-42.8900562?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 779,
+                "reviews": 780,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -970,6 +970,7 @@
         "rating": 4.5,
         "workday_timing": "09:00-19:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+55 21 96785-7580",
@@ -1069,7 +1070,7 @@
             {
                 "name": "Lady Day",
                 "link": "https://www.google.com/maps/search/Lady+Day/@-22.912070099999998,-42.933128100000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1487,
+                "reviews": 1488,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1146,7 +1147,7 @@
             {
                 "name": "Cheirin Bao",
                 "link": "https://www.google.com/maps/search/Cheirin+B%C3%A3o/@-22.9302544,-43.17825270000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 287,
+                "reviews": 288,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -1459,7 +1460,7 @@
         "name": "Cheirin Bao Itaipuacu",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 17,
+        "reviews": 18,
         "competitors": [],
         "website": "https://www.instagram.com/cheirinbaoitaipuacu/",
         "owner": {
@@ -1551,7 +1552,7 @@
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://instagram.com/monicamoreira_confeitariaecafe?igshid=YmMyMTA2M2Y=",
+        "website": "https://instagram.com/monicamoreira_confeitariaecafe%3Figshid%3DYmMyMTA2M2Y%3D",
         "owner": {
             "id": "108218660495203213615",
             "name": "monica moreira confeitaria e cafe (Ye Zhu )",
@@ -1764,6 +1765,36 @@
         "link": "https://www.google.com/maps/place/Conveni%C3%AAncia+AmPm+-+Ipiranga/data=!4m7!3m6!1s0x99edaf93665f95:0xdc041d378d339b3c!8m2!3d-22.907024!4d-42.8229096!16s%2Fg%2F11j24n4q3t!19sChIJlV9mk6_tmQARPJszjTcdBNw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJv8kr_hvtmQAR3MfVNIwtxY4",
+        "name": "Cacau Show",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": "https://www.cacaushow.com.br/",
+        "owner": {
+            "id": "105082952539600645531",
+            "name": "Cacau Show (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105082952539600645531"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZX9de1Asgg1rueQoKlwhBA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.79181&pitch=0&thumbfov=100",
+        "main_category": "Zhu Gu Li Dian ",
+        "categories": [
+            "Zhu Gu Li Dian ",
+            "Tang Guo Dian ",
+            "Qiao Ke Li Gong Jiang ",
+            "Ka Pei Dian ",
+            "Xue Gao Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Cacau Show - R. Abreu Sodre, 27 - Centro, Marica - RJ, 24900-105Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cacau+Show/data=!4m7!3m6!1s0x99ed1bfe2bc9bf:0x8ec52d8c34d5c7dc!8m2!3d-22.9157503!4d-42.8181988!16s%2Fg%2F11sw6hcxv9!19sChIJv8kr_hvtmQAR3MfVNIwtxY4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ1SkfbpntmQAR0r2Usw4CSz4",
         "name": "Espaco Vida Saudavel - Vivi e Dante",
         "description": null,
@@ -1827,36 +1858,6 @@
         "address": "Espaco Vida Saudavel - Vivi e Dante - R. Abreu Sodre, 21 - sala 109 - Centro, Marica - RJ, 24900-105Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Espa%C3%A7o+Vida+Saud%C3%A1vel+-+Vivi+e+Dante/data=!4m7!3m6!1s0x99ed996e1f29d5:0x3e4b020eb394bdd2!8m2!3d-22.915696!4d-42.818099!16s%2Fg%2F11gfd30q14!19sChIJ1SkfbpntmQAR0r2Usw4CSz4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJv8kr_hvtmQAR3MfVNIwtxY4",
-        "name": "Cacau Show",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": "https://www.cacaushow.com.br/",
-        "owner": {
-            "id": "105082952539600645531",
-            "name": "Cacau Show (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105082952539600645531"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZX9de1Asgg1rueQoKlwhBA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.79181&pitch=0&thumbfov=100",
-        "main_category": "Zhu Gu Li Dian ",
-        "categories": [
-            "Zhu Gu Li Dian ",
-            "Tang Guo Dian ",
-            "Qiao Ke Li Gong Jiang ",
-            "Ka Pei Dian ",
-            "Xue Gao Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Cacau Show - R. Abreu Sodre, 27 - Centro, Marica - RJ, 24900-105Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cacau+Show/data=!4m7!3m6!1s0x99ed1bfe2bc9bf:0x8ec52d8c34d5c7dc!8m2!3d-22.9157503!4d-42.8181988!16s%2Fg%2F11sw6hcxv9!19sChIJv8kr_hvtmQAR3MfVNIwtxY4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJP85b7JntmQAR5yGtblM2hb0",
@@ -2046,7 +2047,7 @@
             {
                 "name": "Atacadao - Marica",
                 "link": "https://www.google.com/maps/search/Atacad%C3%A3o+-+Maric%C3%A1/@-22.9047482,-42.8155435?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1553,
+                "reviews": 1554,
                 "rating": 4.3,
                 "main_category": "Pi Fa Dian "
             },
@@ -2216,12 +2217,12 @@
         "name": "Lady Day",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1489,
+        "reviews": 1490,
         "competitors": [
             {
                 "name": "Padaria Lady Day",
                 "link": "https://www.google.com/maps/search/Padaria+Lady+Day/@-22.750799699999998,-42.8572361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2954,
+                "reviews": 2955,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2242,7 +2243,7 @@
             {
                 "name": "Padaria Lady Day",
                 "link": "https://www.google.com/maps/search/Padaria+Lady+Day/@-22.9338074,-42.8900562?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 779,
+                "reviews": 780,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2284,15 +2285,15 @@
                 "count": 11
             },
             {
+                "keyword": "Zhi Fu ",
+                "count": 6
+            },
+            {
                 "keyword": "Mian Tuan ",
                 "count": 6
             },
             {
                 "keyword": "Wei Sheng ",
-                "count": 5
-            },
-            {
-                "keyword": "Zhi Fu ",
                 "count": 5
             }
         ],
@@ -2380,7 +2381,7 @@
         "name": "Padaria Lady Day",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 780,
+        "reviews": 781,
         "competitors": [
             {
                 "name": "Bakery Lady Day",
@@ -2399,7 +2400,7 @@
             {
                 "name": "Lady Day",
                 "link": "https://www.google.com/maps/search/Lady+Day/@-22.912070099999998,-42.933128100000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1487,
+                "reviews": 1488,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2815,7 +2816,7 @@
         "name": "Cafeteria & Ice Cream Parlor Quasar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 315,
+        "reviews": 316,
         "competitors": [
             {
                 "name": "Eskimo Sorvetes Marica centro",
@@ -2848,7 +2849,7 @@
             {
                 "name": "Quasar Sorveteria- Itaipuacu",
                 "link": "https://www.google.com/maps/search/Quasar+Sorveteria-+Itaipua%C3%A7u/@-22.9577575,-42.9810139?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 101,
+                "reviews": 102,
                 "rating": 4.3,
                 "main_category": "Bing Qi Lin "
             }
@@ -3357,6 +3358,7 @@
         "rating": 4.8,
         "workday_timing": "08:00-20:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+55 21 97749-5872",
@@ -3797,8 +3799,8 @@
             {
                 "name": "Padaria Emporio",
                 "link": "https://www.google.com/maps/search/Padaria+Emp%C3%B3rio/@-22.964596500000003,-42.9697602?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
-                "rating": 4.5,
+                "reviews": 247,
+                "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
@@ -4081,7 +4083,7 @@
             {
                 "name": "Cafe ao Cubo",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+ao+Cubo/@-22.9175376,-42.8522987?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -4206,7 +4208,7 @@
             {
                 "name": "Duckbill - Cookies & Coffee",
                 "link": "https://www.google.com/maps/search/Duckbill+-+Cookies+%26+Coffee/@-22.9669883,-43.1808754?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 203,
+                "reviews": 204,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -4810,7 +4812,7 @@
             {
                 "name": "Padaria Do Caju",
                 "link": "https://www.google.com/maps/search/Padaria+Do+Caj%C3%BA/@-22.9273763,-42.8043415?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 211,
+                "reviews": 212,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4996,8 +4998,8 @@
             {
                 "name": "Padaria Emporio",
                 "link": "https://www.google.com/maps/search/Padaria+Emp%C3%B3rio/@-22.964596500000003,-42.9697602?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
-                "rating": 4.5,
+                "reviews": 247,
+                "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -5151,8 +5153,8 @@
             {
                 "name": "Padaria Emporio",
                 "link": "https://www.google.com/maps/search/Padaria+Emp%C3%B3rio/@-22.964596500000003,-42.9697602?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
-                "rating": 4.5,
+                "reviews": 247,
+                "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -5604,7 +5606,7 @@
             {
                 "name": "daOrla Cafe",
                 "link": "https://www.google.com/maps/search/daOrla+Caf%C3%A9/@-22.9678702,-42.9791214?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 391,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5826,8 +5828,8 @@
             {
                 "name": "Padaria Emporio",
                 "link": "https://www.google.com/maps/search/Padaria+Emp%C3%B3rio/@-22.964596500000003,-42.9697602?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
-                "rating": 4.5,
+                "reviews": 247,
+                "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -6025,7 +6027,7 @@
             {
                 "name": "daOrla Cafe",
                 "link": "https://www.google.com/maps/search/daOrla+Caf%C3%A9/@-22.9678702,-42.9791214?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 391,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },

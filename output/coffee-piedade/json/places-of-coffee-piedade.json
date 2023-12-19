@@ -4,12 +4,12 @@
         "name": "Copenhagen Coffee Lab & Bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1032,
+        "reviews": 1034,
         "competitors": [
             {
                 "name": "Fabrica Coffee Roasters",
                 "link": "https://www.google.com/maps/search/F%C3%A1brica+Coffee+Roasters/@38.717588299999996,-9.1416577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2306,
+                "reviews": 2307,
                 "rating": 4.5,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -60,7 +60,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+351 21 604 7980",
         "address": "Copenhagen Coffee Lab & Bakery, R. Nova da Piedade 10, 1200-192 Lisboa, Pu Tao Ya ",
         "review_keywords": [
@@ -101,7 +103,7 @@
             {
                 "name": "Cafe Landmark",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Landmark/@22.281081399999998,114.1581367?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 969,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -127,7 +129,7 @@
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://www.mandarinoriental.com/en/hong-kong/victoria-harbour/dine/cafe-causette?src=loc.dir.mohkg.ggl",
+        "website": "https://www.mandarinoriental.com/en/hong-kong/victoria-harbour/dine/cafe-causette%3Fsrc%3Dloc.dir.mohkg.ggl",
         "owner": {
             "id": "118339856557100062218",
             "name": "Cafe Causette (Ye Zhu )",
@@ -179,6 +181,97 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Causette/data=!4m7!3m6!1s0x3404006465228fb9:0x573c8a898b5c3cf2!8m2!3d22.2819214!4d114.1594774!16s%2Fg%2F1tt1dvc5!19sChIJuY8iZWQABDQR8jxci4mKPFc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJVUEjF2QABDQR88baldklWYg",
+        "name": "Wen Hua Bing Dian ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 313,
+        "competitors": [
+            {
+                "name": "Dang Wen Li Bing Dian ",
+                "link": "https://www.google.com/maps/search/%E7%95%B6%E6%96%87%E6%AD%B7%E9%A4%85%E5%BA%97/@22.2829917,114.15526159999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 133,
+                "rating": 3.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "LIFETASTIC Patisserie",
+                "link": "https://www.google.com/maps/search/LIFETASTIC+Patisserie/@22.2848251,114.15937629999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 3.7,
+                "main_category": "Xi Bing Dian "
+            },
+            {
+                "name": "Mei Xin Xi Bing ",
+                "link": "https://www.google.com/maps/search/%E7%BE%8E%E5%BF%83%E8%A5%BF%E9%A4%85/@22.2878412,114.15194?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 3.2,
+                "main_category": "Xi Bing Dian "
+            },
+            {
+                "name": "Nina Patisserie Central Market",
+                "link": "https://www.google.com/maps/search/Nina+Patisserie+Central+Market/@22.2839325,114.1553613?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.7,
+                "main_category": "Fa Shi Gao Bing Dian "
+            },
+            {
+                "name": "A Mo Dian Cang Dan Gao ",
+                "link": "https://www.google.com/maps/search/%E9%98%BF%E9%BB%98%E5%85%B8%E8%97%8F%E8%9B%8B%E7%B3%95/@22.2846953,114.15816079999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Tian Pin Dian "
+            }
+        ],
+        "website": "https://www.mandarinoriental.com/hong-kong/victoria-harbour/fine-dining/cake-shops/mandarin-cake-shop%3Fhtl%3DMOHKG%26kw%3DMOHKG_cakeshop%26eng%3Dgoogle%26src%3Dlocal",
+        "owner": {
+            "id": "112182946007764283927",
+            "name": "Wen Hua Bing Dian  (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112182946007764283927"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfSolP3J-e-_ZanLtCQf1QDzs5dyqJdmP_Seuv=w426-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "2825 4008",
+        "address": "Zhong Huan Gan Nuo Dao Zhong 5Hao , Mandarin Oriental Hong Kong, Wen Hua Bing Dian M/F",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 23
+            },
+            {
+                "keyword": "Zhi Shi Dan Gao ",
+                "count": 22
+            },
+            {
+                "keyword": "scone",
+                "count": 18
+            },
+            {
+                "keyword": "Ka Pei ",
+                "count": 16
+            },
+            {
+                "keyword": "Wai Dai ",
+                "count": 10
+            },
+            {
+                "keyword": "Cao Mei ",
+                "count": 5
+            },
+            {
+                "keyword": "Mei Gui ",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%E6%96%87%E8%8F%AF%E9%A4%85%E5%BA%97/data=!4m7!3m6!1s0x3404006417234155:0x885925d995dac6f3!8m2!3d22.281959!4d114.159416!16s%2Fg%2F1tf77p_2!19sChIJVUEjF2QABDQR88baldklWYg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJOxQwpaoBBDQRmG2sTN2oVmk",
@@ -258,7 +351,7 @@
             {
                 "name": "The Pantry",
                 "link": "https://www.google.com/maps/search/The+Pantry/@22.324046400000004,114.17330469999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 575,
+                "reviews": 576,
                 "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -541,7 +634,7 @@
             {
                 "name": "Mei Xin Xiao Pin ",
                 "link": "https://www.google.com/maps/search/%E7%BE%8E%E5%BF%83%E5%B0%8F%E5%93%81/@22.316870899999998,114.2664921?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 207,
+                "reviews": 206,
                 "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -864,7 +957,7 @@
             {
                 "name": "Pick Coffee By Pokka Cafe",
                 "link": "https://www.google.com/maps/search/Pick+Coffee+By+Pokka+Caf%C3%A9/@22.3382401,114.18726889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
+                "reviews": 58,
                 "rating": 3.6,
                 "main_category": "Ri Shi Xi Can Ting "
             },
@@ -935,7 +1028,7 @@
             {
                 "name": "Ti Piedade",
                 "link": "https://www.google.com/maps/search/Ti+Piedade/@38.863030099999996,-9.0765313?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 832,
+                "reviews": 834,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -974,7 +1067,7 @@
             "name": "Ti'Piedade (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOlGwnLyNqa8Og0c9LpCuk_uIc9m6hfipQ3e4UG=w408-h306-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNi_xAxiPg-LxUk_ZYgbuPVv6db-jxDRYSb0zcO=w408-h306-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
@@ -1054,7 +1147,7 @@
         "name": "2 Soon Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 45,
+        "reviews": 46,
         "competitors": [],
         "website": "https://www.instagram.com/2soon_cafe/",
         "owner": {
@@ -1078,6 +1171,10 @@
         "review_keywords": [
             {
                 "keyword": "Fu Te Jia ",
+                "count": 9
+            },
+            {
+                "keyword": "Zhuan ",
                 "count": 8
             },
             {
@@ -1085,8 +1182,12 @@
                 "count": 8
             },
             {
-                "keyword": "Zhuan ",
-                "count": 7
+                "keyword": "Tong Fen ",
+                "count": 8
+            },
+            {
+                "keyword": "Suan Tian ",
+                "count": 8
             },
             {
                 "keyword": "Niu You Guo ",
@@ -1101,19 +1202,11 @@
                 "count": 7
             },
             {
-                "keyword": "Tong Fen ",
-                "count": 7
-            },
-            {
                 "keyword": "Tie Guan Yin ",
                 "count": 6
             },
             {
-                "keyword": "Lian Jia ",
-                "count": 5
-            },
-            {
-                "keyword": "Bai Jiu ",
+                "keyword": "Gong ",
                 "count": 5
             }
         ],
@@ -1540,14 +1633,14 @@
             {
                 "name": "Quinta dos Magusteiros",
                 "link": "https://www.google.com/maps/search/Quinta+dos+Magusteiros/@41.1342117,-7.5804911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 260,
+                "reviews": 261,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "A Tulipa",
                 "link": "https://www.google.com/maps/search/A+Tulipa/@41.1167609,-7.5674033?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 159,
+                "reviews": 160,
                 "rating": 4.4,
                 "main_category": "Xi Dian "
             },
@@ -1594,6 +1687,59 @@
         "link": "https://www.google.com/maps/place/Raiz+Instant%C3%A2nea/data=!4m7!3m6!1s0xd3b5b8b4efec727:0xfb73866d40d9f903!8m2!3d41.1225854!4d-7.5979155!16s%2Fg%2F11fklhz1_n!19sChIJJ8f-TotbOw0RA_nZQG2Gc_s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJXwz33VHhqgcRLeQkE3Wmhsg",
+        "name": "Cafe Amor em Pedacos",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Cafe com Pao",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+com+P%C3%A3o/@-8.1686965,-34.9192241?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 103,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Deli Cafe",
+                "link": "https://www.google.com/maps/search/Deli+Caf%C3%A9/@-8.1609062,-34.9129041?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Dois Amores Sweet",
+                "link": "https://www.google.com/maps/search/Dois+Amores+Sweet/@-8.1762231,-34.9180549?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Xi Dian "
+            }
+        ],
+        "website": "https://cafeamorempedacos.ola.click/",
+        "owner": {
+            "id": "110575724867280903377",
+            "name": "Cafe Amor em Pedacos (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110575724867280903377"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOLJz9Ei3T1EZPvTcxU7IjPYtrdlcPYWY-hMdVb=w408-h488-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Xi Bing Dian ",
+            "Tang Guo Dian ",
+            "Er Tong Pai Dui Fu Wu "
+        ],
+        "rating": 4,
+        "workday_timing": "09:00-19:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 81 98891-9808",
+        "address": "Cafe Amor em Pedacos - Av. Ayrton Senna da Silva, 1221 - Piedade, Jaboatao dos Guararapes - PE, 54410-240Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Amor+em+Peda%C3%A7os/data=!4m7!3m6!1s0x7aae151ddf70c5f:0xc886a6751324e42d!8m2!3d-8.1690833!4d-34.9162239!16s%2Fg%2F11hj8qt9np!19sChIJXwz33VHhqgcRLeQkE3Wmhsg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJKSCuKlDhqgcRRfTYfw1qcB0",
         "name": "Hisla Cafe",
         "description": null,
@@ -1615,7 +1761,7 @@
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://hisla-cafe.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://hisla-cafe.negocio.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": "103181207978073098522",
             "name": "Hisla Cafe (Ye Zhu )",
@@ -1723,6 +1869,93 @@
         "link": "https://www.google.com/maps/place/Rubinho+cafeteria/data=!4m7!3m6!1s0x94cf7e65039da69d:0x3c11b53a5a5d3506!8m2!3d-23.712705!4d-47.417302!16s%2Fg%2F1tqp_d2r!19sChIJnaadA2V-z5QRBjVdWjq1ETw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJq-9egXB-z5QRhvX8joIR4Sc",
+        "name": "Paulinho space Cafeteria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 413,
+        "competitors": [
+            {
+                "name": "Rubinho cafeteria",
+                "link": "https://www.google.com/maps/search/Rubinho+cafeteria/@-23.712705,-47.417302?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 560,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Pastelaria Cafe Pastel",
+                "link": "https://www.google.com/maps/search/Pastelaria+Caf%C3%A9+Pastel/@-23.709442499999998,-47.4198357?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 108,
+                "rating": 4.6,
+                "main_category": "Ba Xi Zha Bing Can Ting "
+            },
+            {
+                "name": "Arte Chocolate",
+                "link": "https://www.google.com/maps/search/Arte+Chocolate/@-23.714069199999997,-47.411957699999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Dona Florinda Cafeteria & Lanchonete",
+                "link": "https://www.google.com/maps/search/Dona+Florinda+Cafeteria+%26+Lanchonete/@-23.7141842,-47.4119205?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4.8,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Cafeteria e Restaurante Sabor Brasil",
+                "link": "https://www.google.com/maps/search/Cafeteria+e+Restaurante+Sabor+Brasil/@-23.7130012,-47.416639599999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "110909973105974041572",
+            "name": "Paulinho space Cafeteria (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110909973105974041572"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDIix7ByxYWMoetWvZyH5wDedSCfuEuDbokGol=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:30-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+55 15 3344-2072",
+        "address": "Paulinho space Cafeteria - R. Mal. Floriano Peixoto, 54 - Centro, Piedade - SP, 18170-000Ba Xi ",
+        "review_keywords": [
+            {
+                "keyword": "Chan Pin ",
+                "count": 12
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 9
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 6
+            },
+            {
+                "keyword": "Jia Ting ",
+                "count": 4
+            },
+            {
+                "keyword": "Zao Can ",
+                "count": 4
+            },
+            {
+                "keyword": "espresso",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Paulinho+space+Cafeteria/data=!4m7!3m6!1s0x94cf7e70815eefab:0x27e111828efcf586!8m2!3d-23.7106096!4d-47.4188835!16s%2Fg%2F11bw46vq7t!19sChIJq-9egXB-z5QRhvX8joIR4Sc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJLe7CcMUxGw0ReuQ6uX-0to8",
         "name": "Cafetaria Baluarte",
         "description": null,
@@ -1753,7 +1986,7 @@
             {
                 "name": "cafetaria Avenida",
                 "link": "https://www.google.com/maps/search/cafetaria+Avenida/@37.1038334,-8.681149399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
+                "reviews": 39,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
@@ -1811,6 +2044,90 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Cafetaria+Baluarte/data=!4m7!3m6!1s0xd1b31c570c2ee2d:0x8fb6b47fb93ae47a!8m2!3d37.0964485!4d-8.6733889!16s%2Fg%2F11cs170_r1!19sChIJLe7CcMUxGw0ReuQ6uX-0to8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJx0L3NWUbbJIRvfuZPLsWmfs",
+        "name": "Cafeteria Dona Piedade",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 160,
+        "competitors": [
+            {
+                "name": "Cafe Dona Pitanga",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Dona+Pitanga/@-3.0576149999999997,-59.996874999999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1385,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Di Cafe",
+                "link": "https://www.google.com/maps/search/Di+Caf%C3%A9/@-3.1012147,-60.0254046?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 224,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Boken Cafe",
+                "link": "https://www.google.com/maps/search/Boken+Caf%C3%A9/@-3.0681472999999997,-60.00460580000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 209,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Da Dina",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Da+Dina/@-3.0989321999999997,-59.994111399999994?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Zi Zhu Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "113951110979647855944",
+            "name": "Cafeteria Dona Piedade (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113951110979647855944"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1VFAuJeGewsCRrz7r7H87nGw3PkCPuw8Q3Zm3=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+55 92 99237-4667",
+        "address": "Cafeteria Dona Piedade - R. U, 896 - Parque Dez de Novembro, Manaus - AM, 69054-756Ba Xi ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 16
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 9
+            },
+            {
+                "keyword": "Chan Pin ",
+                "count": 9
+            },
+            {
+                "keyword": "Ka Pei Ji ",
+                "count": 6
+            },
+            {
+                "keyword": "Zhi Fu ",
+                "count": 5
+            },
+            {
+                "keyword": "Guo Jiang ",
+                "count": 3
+            },
+            {
+                "keyword": "Guo Zhi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafeteria+Dona+Piedade/data=!4m7!3m6!1s0x926c1b6535f742c7:0xfb9916bb3c99fbbd!8m2!3d-3.0648957!4d-60.0014318!16s%2Fg%2F11t4d_2x31!19sChIJx0L3NWUbbJIRvfuZPLsWmfs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJZ9a79e4BBDQRAcQZVDyAOLg",
@@ -1973,7 +2290,7 @@
             {
                 "name": "Cozy Coffee",
                 "link": "https://www.google.com/maps/search/Cozy+Coffee/@22.381888699999998,114.2711423?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
+                "reviews": 138,
                 "rating": 3.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -2014,9 +2331,7 @@
         ],
         "rating": 4.1,
         "workday_timing": "10:00-18:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
+        "closed_on": "Open All Days",
         "phone": "9555 0321",
         "address": "Xi Gong Shi Shi Chang Jie 26Hao neoart3 COFFEE LOVER",
         "review_keywords": [
@@ -2354,6 +2669,102 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Piedade/data=!4m7!3m6!1s0xd1b2562cdf5232d:0xd1bf239b1ea9557c!8m2!3d37.1593877!4d-8.6142911!16s%2Fg%2F11j1sqmkmx!19sChIJLSP1zWIlGw0RfFWpHpsjv9E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJt6A5BUupIw0R7_ztnJIqlU0",
+        "name": "Cafe Do Centro",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Cafe Centro da Feira",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Centro+da+Feira/@40.0269275,-8.8211421?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 130,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Central",
+                "link": "https://www.google.com/maps/search/Cafe+Central/@40.5471291,-8.5075851?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe central",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+central/@40.4504673,-8.673614599999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Do Centro (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7JNf6IF30BTVPt2DBhtTIA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=293.18973&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Cafe Do Centro, Largo Sra. da Piedade, Portugal, Pu Tao Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Do+Centro/data=!4m7!3m6!1s0xd23a94b0539a0b7:0x4d952a929cedfcef!8m2!3d40.4152253!4d-8.569988!16s%2Fg%2F11f2dysfny!19sChIJt6A5BUupIw0R7_ztnJIqlU0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJSR2f57C_vzsR-jIMw63dk9k",
+        "name": "Cafe Harmalkar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Khamre Gulak chai",
+                "link": "https://www.google.com/maps/search/Khamre+Gulak+chai/@15.388087899999999,73.8602954?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe H",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+H/@15.399731599999997,73.81518489999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Borkar Juice center",
+                "link": "https://www.google.com/maps/search/Borkar+Juice+center/@15.398805999999999,73.81082339999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Guo Zhi "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Harmalkar (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPBX4d_CsO343R7CUlC829P4IsFMbxQ-eGxwgq=w408-h725-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Cafe Harmalkar, H.no 714k nayab manzil near 1st water tank New Vaddem, Vasco da Gama, Goa 403802Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Harmalkar/data=!4m7!3m6!1s0x3bbfbfb0e79f1d49:0xd993ddadc30c32fa!8m2!3d15.5279075!4d73.9045522!16s%2Fg%2F11jt52_p1y!19sChIJSR2f57C_vzsR-jIMw63dk9k?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJTfWwYBApGw0RxUTXM8fDacY",
         "name": "Ponto de Encontro Piedade",
         "description": null,
@@ -2515,5 +2926,141 @@
         "address": "Cafe LavAzza - Av. Sen. Sergio Guerra, 1168 - Piedade, Recife - PE, 54310Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Cafe+LavAzza/data=!4m7!3m6!1s0x7aae12c7db49bed:0xf7c9027289f93d45!8m2!3d-8.1589841!4d-34.9112456!16s%2Fg%2F11fq4m061b!19sChIJ7Zu0fSzhqgcRRT35iXICyfc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6asrJJO_vzsRAmhQXRDVPvs",
+        "name": "Shiri's Vada Pav",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Shiri's Vada Pav (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPsuDdqHddCAWedJGIxDrkaqpkadWUQPwlxGp8T=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "16:00-19:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "GVFX+M93 Shiri's Vada Pav, Ilha do Sol, Maddant Piedade, Navelim, Piedade, Goa 403403Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shiri%27s+Vada+Pav/data=!4m7!3m6!1s0x3bbfbf93242babe9:0xfb3ed5105d506802!8m2!3d15.5241402!4d73.8984252!16s%2Fg%2F11t__sv4cq!19sChIJ6asrJJO_vzsRAmhQXRDVPvs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJl1qttcqzvzsReojZFRJFN1U",
+        "name": "Predio Desiderio Refael Piedade",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Fe's Deli",
+                "link": "https://www.google.com/maps/search/F%C3%A9%27s+Deli/@15.282851299999999,73.9688152?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 397,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Rosario cardozo Guest House and Restaurant",
+                "link": "https://www.google.com/maps/search/Rosario+cardozo+Guest+House+and+Restaurant/@15.2645179,73.9236505?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Rosario's Cafe",
+                "link": "https://www.google.com/maps/search/Rosario%27s+Cafe/@15.262425899999997,73.94416629999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Menezes Building",
+                "link": "https://www.google.com/maps/search/Menezes+Building/@15.277158400000001,73.9588599?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Du Jia Wu "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Predio Desiderio Refael Piedade (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gMbp5JQs9FJgPjCrpAVpuQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=145.15472&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Predio Desiderio Refael Piedade, Club Harmonia, Padre Miranda Rd, Pajifond, Margao, Goa 403601Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Predio+Desiderio+Refael+Piedade/data=!4m7!3m6!1s0x3bbfb3cab5ad5a97:0x5537451215d9887a!8m2!3d15.2771535!4d73.9588376!16s%2Fg%2F11l8t0c6pk!19sChIJl1qttcqzvzsReojZFRJFN1U?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-7AwoDfhqgcRedS3uT_eMF0",
+        "name": "La Casa de Pastel Dilucca",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Casa Do Pastel Dom Helder",
+                "link": "https://www.google.com/maps/search/Casa+Do+Pastel+Dom+Helder/@-8.1948444,-34.9324047?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 191,
+                "rating": 4.6,
+                "main_category": "Ba Xi Zha Bing Can Ting "
+            },
+            {
+                "name": "PASTELUNA",
+                "link": "https://www.google.com/maps/search/PASTELUNA/@-8.173857,-34.9242376?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 73,
+                "rating": 4.4,
+                "main_category": "Ba Xi Zha Bing Can Ting "
+            },
+            {
+                "name": "Deli Cafe",
+                "link": "https://www.google.com/maps/search/Deli+Caf%C3%A9/@-8.1609062,-34.9129041?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Sand Cakes",
+                "link": "https://www.google.com/maps/search/Sand+Cakes/@-8.169533,-34.915237?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Casa de Pastel Dilucca (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a3vIUoDiLZl_yh5GM9FHVQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=285.772&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "La Casa de Pastel Dilucca - Av. Bernardo Vieira de Melo, 209 - Piedade, Jaboatao dos Guararapes - PE, 54470-100Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Casa+de+Pastel+Dilucca/data=!4m7!3m6!1s0x7aae137a030b0fb:0x5d30de3fb9b7d479!8m2!3d-8.1609992!4d-34.9130172!16s%2Fg%2F11pc9ksn1c!19sChIJ-7AwoDfhqgcRedS3uT_eMF0?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

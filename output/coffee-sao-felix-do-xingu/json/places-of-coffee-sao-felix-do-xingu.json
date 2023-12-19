@@ -274,7 +274,7 @@
                 "main_category": "Shao Kao "
             }
         ],
-        "website": "https://api.whatsapp.com/send?phone=5594984059240",
+        "website": "https://api.whatsapp.com/send%3Fphone%3D5594984059240",
         "owner": {
             "id": "117832318402842087828",
             "name": "Churrascaria Modelo (Ye Zhu )",
@@ -538,7 +538,7 @@
         "rating": 4.3,
         "workday_timing": "08:00-18:00",
         "closed_on": "Open All Days",
-        "phone": "+55 94 3435-1343",
+        "phone": "+55 94 3435-1278",
         "address": "Magazine Luiza - Av. Rio Xingu, 211 - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
         "review_keywords": [
             {
@@ -577,7 +577,7 @@
                 "main_category": "Xiao Shi /Ling Shi Ba "
             }
         ],
-        "website": "https://bit.ly/A%25C3%25A7aiteriaMais",
+        "website": "https://bit.ly/A%C3%A7aiteriaMais",
         "owner": {
             "id": "114747821915045329419",
             "name": "Acaiteria Mais (Ye Zhu )",
@@ -649,7 +649,7 @@
                 "main_category": "Chao Ji Shi Chang "
             }
         ],
-        "website": "https://comercialreidoar.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://comercialreidoar.negocio.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": "103768365849701939199",
             "name": "Comercial Rei Do Lar (Ye Zhu )",
@@ -857,12 +857,7 @@
         "closed_on": "Open All Days",
         "phone": "+55 94 98122-7758",
         "address": "Acai Kaingo e Sorvetes - Av. Rio Xingu, 949 - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
-        "review_keywords": [
-            {
-                "keyword": "Huan Jing ",
-                "count": 3
-            }
-        ],
+        "review_keywords": [],
         "link": "https://www.google.com/maps/place/A%C3%A7a%C3%AD+Kaing%C3%B3+e+Sorvetes/data=!4m7!3m6!1s0x92e5ab1908163e59:0xb7ca7c1614f4ef86!8m2!3d-6.6409868!4d-51.9824928!16s%2Fg%2F11jz8sk0n8!19sChIJWT4WCBmr5ZIRhu_0FBZ8yrc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
@@ -1060,7 +1055,7 @@
                 "main_category": "Chao Ji Shi Chang "
             }
         ],
-        "website": "https://api.whatsapp.com/send%3Fphone%3D5594999552046",
+        "website": "https://api.whatsapp.com/send?phone=5594999552046",
         "owner": {
             "id": "116369735936981224198",
             "name": "Peg Pag Xingu (Ye Zhu )",
@@ -1158,7 +1153,7 @@
             "Can Ting ",
             "San Wen Zhi Dian "
         ],
-        "rating": 4.8,
+        "rating": 4.3,
         "workday_timing": "18:00-00:30",
         "closed_on": [
             "Xing Qi Er "
@@ -1430,6 +1425,34 @@
         "link": "https://www.google.com/maps/place/Al+Forno+Pizzaria+-+S%C3%A3o+F%C3%A9lix/data=!4m7!3m6!1s0x92e5ab192fe73605:0x4a36c369c959e0f2!8m2!3d-6.640315!4d-51.9780825!16s%2Fg%2F11l667f0h3!19sChIJBTbnLxmr5ZIR8uBZyWnDNko?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJzc2eQ9Or5ZIRUtSyRUzWQng",
+        "name": "CantinhodCasa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": "http://cantinhodcasa.com.br/",
+        "owner": {
+            "id": null,
+            "name": "CantinhodCasa (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Da Xing Chao Ji Shi Chang ",
+        "categories": [
+            "Da Xing Chao Ji Shi Chang "
+        ],
+        "rating": null,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 94 98405-8541",
+        "address": "CantinhodCasa, Rua: - R. Leonidas - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CantinhodCasa/data=!4m7!3m6!1s0x92e5abd3439ecdcd:0x7842d64c45b2d452!8m2!3d-6.6376497!4d-51.9780873!16s%2Fg%2F11vc6wlxm3!19sChIJzc2eQ9Or5ZIRUtSyRUzWQng?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJUYLS3eqr5ZIR-gJEG4RwxSM",
         "name": "Bar e lanchonete to na esquina",
         "description": null,
@@ -1477,34 +1500,6 @@
         "address": "Bar e lanchonete to na esquina - Tv. Pedro Jonas Guido - Cento, Sao Felix do Xingu - PA, 68380-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Bar+e+lanchonete+to+na+esquina/data=!4m7!3m6!1s0x92e5abeaddd28251:0x23c570841b4402fa!8m2!3d-6.6420888!4d-51.9936191!16s%2Fg%2F11hdd_17jd!19sChIJUYLS3eqr5ZIR-gJEG4RwxSM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJzc2eQ9Or5ZIRUtSyRUzWQng",
-        "name": "CantinhodCasa",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": "http://cantinhodcasa.com.br/",
-        "owner": {
-            "id": null,
-            "name": "CantinhodCasa (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Da Xing Chao Ji Shi Chang ",
-        "categories": [
-            "Da Xing Chao Ji Shi Chang "
-        ],
-        "rating": null,
-        "workday_timing": "09:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 94 98405-8541",
-        "address": "CantinhodCasa, Rua: - R. Leonidas - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/CantinhodCasa/data=!4m7!3m6!1s0x92e5abd3439ecdcd:0x7842d64c45b2d452!8m2!3d-6.6376497!4d-51.9780873!16s%2Fg%2F11vc6wlxm3!19sChIJzc2eQ9Or5ZIRUtSyRUzWQng?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJbY6BTPSr5ZIRLtWch1tU1eQ",
@@ -2111,7 +2106,7 @@
         "name": "SUP AMIZADE",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 142,
+        "reviews": 143,
         "competitors": [
             {
                 "name": "GIRO Supermercados",
@@ -2603,6 +2598,61 @@
             }
         ],
         "link": "https://www.google.com/maps/place/BR+Mania/data=!4m7!3m6!1s0x92e5ab36cd35e477:0x4f70bbf23e6e0a0c!8m2!3d-6.6411077!4d-51.9732411!16s%2Fg%2F11h1yfg3yv!19sChIJd-Q1zTar5ZIRDApuPvK7cE8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJQfNuOLqr5ZIRc-DUChHo0LY",
+        "name": "Churrascaria Gaivota",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 64,
+        "competitors": [
+            {
+                "name": "Churrascaria Modelo",
+                "link": "https://www.google.com/maps/search/Churrascaria+Modelo/@-6.639980200000001,-51.9927196?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 251,
+                "rating": 4.4,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "Churrascaria Opcao",
+                "link": "https://www.google.com/maps/search/Churrascaria+Op%C3%A7%C3%A3o/@-6.6397707,-51.9901103?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 146,
+                "rating": 4.3,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "POUSADA E RESTAURANTE CHAO GOIANO",
+                "link": "https://www.google.com/maps/search/POUSADA+E+RESTAURANTE+CH%C3%83O+GOIANO/@-6.642211400000001,-51.993710099999994?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Churrascaria Pinguim",
+                "link": "https://www.google.com/maps/search/Churrascaria+Pinguim/@-6.6426055999999996,-51.9945885?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.4,
+                "main_category": "Shao Kao "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Churrascaria Gaivota (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMBPY3sw2b4AbKFms-z10CaIbp60owCED3w6hc=w408-h240-k-no-pi0-ya284-ro-0-fo100",
+        "main_category": "Shao Kao Can Ting ",
+        "categories": [
+            "Shao Kao Can Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "11:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+55 94 98133-1459",
+        "address": "Churrascaria Gaivota - PA-279 - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Churrascaria+Gaivota/data=!4m7!3m6!1s0x92e5abba386ef341:0xb6d0e8110ad4e073!8m2!3d-6.6543188!4d-51.9667241!16s%2Fg%2F11b7q2xc7d!19sChIJQfNuOLqr5ZIRc-DUChHo0LY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJVbsQxEOq5ZIR-BPIkZ4piGY",
@@ -4590,55 +4640,6 @@
         "link": "https://www.google.com/maps/place/Restaurante+Escuna/data=!4m7!3m6!1s0x92e5ab186d17f02b:0x1ae324be9394c0af!8m2!3d-6.6420477!4d-51.9796957!16s%2Fg%2F11tn5myv05!19sChIJK_AXbRir5ZIRr8CUk74k4xo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJTZiIlbGr5ZIRRbDuPxzDXPU",
-        "name": "Churrascaria Pinguim",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "Churrascaria Opcao",
-                "link": "https://www.google.com/maps/search/Churrascaria+Op%C3%A7%C3%A3o/@-6.6397707,-51.9901103?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
-                "rating": 4.3,
-                "main_category": "Shao Kao "
-            },
-            {
-                "name": "Churrascaria Gaivota",
-                "link": "https://www.google.com/maps/search/Churrascaria+Gaivota/@-6.6543187999999995,-51.9667241?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 64,
-                "rating": 4.3,
-                "main_category": "Shao Kao "
-            },
-            {
-                "name": "Restaurante Panela De Barro",
-                "link": "https://www.google.com/maps/search/Restaurante+Panela+De+Barro/@-6.6429218,-51.99355?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "115498400759527366699",
-            "name": "Churrascaria Pinguim (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115498400759527366699"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMM9JShFFL_-_vBpU1yb1Rxn0_SPVCwxGF5_iCV=w890-h240-k-no",
-        "main_category": "Shao Kao ",
-        "categories": [
-            "Shao Kao ",
-            "Can Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "11:30-14:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Churrascaria Pinguim - Av. 22 de Marco, 891 - Centro, Sao Felix do Xingu - PA, 68380-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Churrascaria+Pinguim/data=!4m7!3m6!1s0x92e5abb19588984d:0xf55cc31c3feeb045!8m2!3d-6.6426056!4d-51.9945885!16s%2Fg%2F11fqqfyk2w!19sChIJTZiIlbGr5ZIRRbDuPxzDXPU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ8_RhvA-r5ZIRCWXJ0gjpKEU",
         "name": "Cafe Emporio",
         "description": null,
@@ -5194,54 +5195,68 @@
         "link": "https://www.google.com/maps/place/Casa+de+Carnes+JR/data=!4m7!3m6!1s0x92e5ab0ed05f6701:0x9428d27a2c15bd7c!8m2!3d-6.6339959!4d-51.9862799!16s%2Fg%2F11fwb1wzlc!19sChIJAWdf0A6r5ZIRfL0VLHrSKJQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ_ZO8CQWr5ZIRXv8SFgquYX8",
-        "name": "Bar do maranhense",
+        "place_id": "ChIJHYXjKcer5ZIRaTa7DS7sQ5Q",
+        "name": "Restaurante e Conveniencia Sol Poente",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 4,
         "competitors": [
             {
-                "name": "BR Mania",
-                "link": "https://www.google.com/maps/search/BR+Mania/@-6.6411077,-51.973241099999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
+                "name": "Sol Poente",
+                "link": "https://www.google.com/maps/search/Sol+Poente/@-6.6567794000000005,-51.9968042?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 60,
+                "rating": 4.5,
+                "main_category": "Min Su "
+            },
+            {
+                "name": "Restaurante Quintal de Casa",
+                "link": "https://www.google.com/maps/search/Restaurante+Quintal+de+Casa/@-6.648951599999999,-51.99933?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 43,
                 "rating": 4.4,
-                "main_category": "Bian Li Dian "
+                "main_category": "Can Ting "
             },
             {
-                "name": "Bar do Caitano",
-                "link": "https://www.google.com/maps/search/Bar+do+Caitano/@-6.636908999999999,-51.9889442?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
+                "name": "Xingu Lodge",
+                "link": "https://www.google.com/maps/search/Xingu+Lodge/@-6.6429677,-51.993319899999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 38,
+                "rating": 4.5,
+                "main_category": "Can Ting "
             },
             {
-                "name": "Bar e lanchonete to na esquina",
-                "link": "https://www.google.com/maps/search/Bar+e+lanchonete+to+na+esquina/@-6.6420888,-51.9936191?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
+                "name": "Restaurante e Lanchonete Vale do Xingu",
+                "link": "https://www.google.com/maps/search/Restaurante+e+Lanchonete+Vale+do+Xingu/@-6.6410969,-51.9799765?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Mais Que Massa",
+                "link": "https://www.google.com/maps/search/Mais+Que+Massa/@-6.6381584,-51.970715299999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 4.7,
                 "main_category": "Xiao Shi /Ling Shi Ba "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Bar do maranhense (Ye Zhu )",
+            "name": "Restaurante e Conveniencia Sol Poente (Ye Zhu )",
             "link": null
         },
-        "featured_image": null,
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNS-GXWw-njmmRaSnFfxPQ90OtO9A2tBObLD6Td=w408-h306-k-no",
         "main_category": "Can Ting ",
         "categories": [
             "Can Ting "
         ],
-        "rating": 4.8,
-        "workday_timing": "07:00-09:00",
+        "rating": 4,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Yi "
         ],
-        "phone": "+55 94 98112-9907",
-        "address": "Bar do maranhense - R. Joao Groneon - Uniao, Sao Felix do Xingu - PA, 68380-000Ba Xi ",
+        "phone": "+55 94 98462-9457",
+        "address": "Restaurante e Conveniencia Sol Poente - Av. Azaleias - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bar+do+maranhense/data=!4m7!3m6!1s0x92e5ab0509bc93fd:0x7f61ae0a1612ff5e!8m2!3d-6.636794!4d-51.9791884!16s%2Fg%2F11n1fvbs4n!19sChIJ_ZO8CQWr5ZIRXv8SFgquYX8?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Restaurante+e+Conveni%C3%AAncia+Sol+Poente/data=!4m7!3m6!1s0x92e5abc729e3851d:0x9443ec2e0dbb3669!8m2!3d-6.6569824!4d-51.9967512!16s%2Fg%2F11nnm070nn!19sChIJHYXjKcer5ZIRaTa7DS7sQ5Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJASgNbmar5ZIRuHhgNCDw58M",
@@ -5306,6 +5321,56 @@
         "link": "https://www.google.com/maps/place/Restaurante+Central+e+Pamonharia/data=!4m7!3m6!1s0x92e5ab666e0d2801:0xc3e7f020346078b8!8m2!3d-6.6410434!4d-51.9635517!16s%2Fg%2F11j8mfvdh6!19sChIJASgNbmar5ZIRuHhgNCDw58M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ_ZO8CQWr5ZIRXv8SFgquYX8",
+        "name": "Bar do maranhense",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "BR Mania",
+                "link": "https://www.google.com/maps/search/BR+Mania/@-6.6411077,-51.973241099999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 79,
+                "rating": 4.4,
+                "main_category": "Bian Li Dian "
+            },
+            {
+                "name": "Bar do Caitano",
+                "link": "https://www.google.com/maps/search/Bar+do+Caitano/@-6.636908999999999,-51.9889442?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.6,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Bar e lanchonete to na esquina",
+                "link": "https://www.google.com/maps/search/Bar+e+lanchonete+to+na+esquina/@-6.6420888,-51.9936191?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bar do maranhense (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-09:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 94 98112-9907",
+        "address": "Bar do maranhense - R. Joao Groneon - Uniao, Sao Felix do Xingu - PA, 68380-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bar+do+maranhense/data=!4m7!3m6!1s0x92e5ab0509bc93fd:0x7f61ae0a1612ff5e!8m2!3d-6.636794!4d-51.9791884!16s%2Fg%2F11n1fvbs4n!19sChIJ_ZO8CQWr5ZIRXv8SFgquYX8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ00NWvQur5ZIRoSUTOez2Mjg",
         "name": "Braga Restaurante e Petiscaria",
         "description": null,
@@ -5332,70 +5397,6 @@
         "address": "Braga Restaurante e Petiscaria - Av. Rio Xingu - Centro, Sao Felix do Xingu - PA, 68380-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Braga+Restaurante+e+Petiscaria/data=!4m7!3m6!1s0x92e5ab0bbd5643d3:0x3832f6ec391325a1!8m2!3d-6.6409756!4d-51.9885887!16s%2Fg%2F11sv7ygzc5!19sChIJ00NWvQur5ZIRoSUTOez2Mjg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJHYXjKcer5ZIRaTa7DS7sQ5Q",
-        "name": "Restaurante e Conveniencia Sol Poente",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "Sol Poente",
-                "link": "https://www.google.com/maps/search/Sol+Poente/@-6.6567794000000005,-51.9968042?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
-                "rating": 4.5,
-                "main_category": "Min Su "
-            },
-            {
-                "name": "Restaurante Quintal de Casa",
-                "link": "https://www.google.com/maps/search/Restaurante+Quintal+de+Casa/@-6.648951599999999,-51.99933?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Xingu Lodge",
-                "link": "https://www.google.com/maps/search/Xingu+Lodge/@-6.6429677,-51.993319899999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Restaurante e Lanchonete Vale do Xingu",
-                "link": "https://www.google.com/maps/search/Restaurante+e+Lanchonete+Vale+do+Xingu/@-6.6410969,-51.9799765?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Mais Que Massa",
-                "link": "https://www.google.com/maps/search/Mais+Que+Massa/@-6.6381584,-51.970715299999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 4.7,
-                "main_category": "Xiao Shi /Ling Shi Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Restaurante e Conveniencia Sol Poente (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNS-GXWw-njmmRaSnFfxPQ90OtO9A2tBObLD6Td=w408-h306-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+55 94 98462-9457",
-        "address": "Restaurante e Conveniencia Sol Poente - Av. Azaleias - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Restaurante+e+Conveni%C3%AAncia+Sol+Poente/data=!4m7!3m6!1s0x92e5abc729e3851d:0x9443ec2e0dbb3669!8m2!3d-6.6569824!4d-51.9967512!16s%2Fg%2F11nnm070nn!19sChIJHYXjKcer5ZIRaTa7DS7sQ5Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJCY32c2Sr5ZIRdWJjT0MPsGc",
@@ -5775,7 +5776,7 @@
             {
                 "name": "Restaurante Sabor DCasa",
                 "link": "https://www.google.com/maps/search/Restaurante+Sabor+DCasa/@-6.6412640000000005,-51.972672599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
+                "reviews": 1,
                 "rating": 5,
                 "main_category": "Can Ting "
             }
@@ -5826,6 +5827,61 @@
         "address": "SUSHI HOUSE E HAMBURGUERIA, Ao lado da secretaria de saude - Av. Goias, 1928 - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/SUSHI+HOUSE+E+HAMBURGUERIA/data=!4m7!3m6!1s0x92e5ab05685c1145:0xb762e6a35fbcb36a!8m2!3d-6.6402487!4d-51.9856294!16s%2Fg%2F11l1q8t6tc!19sChIJRRFcaAWr5ZIRarO8X6PmYrc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJhW4ib5Sr5ZIRjkS8zeY0L_o",
+        "name": "Lanche Sousa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Matheus Burg",
+                "link": "https://www.google.com/maps/search/Matheus+Burg/@-6.6415662,-51.984787?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 97,
+                "rating": 4.4,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Restaurante e Lanchonete Vale do Xingu",
+                "link": "https://www.google.com/maps/search/Restaurante+e+Lanchonete+Vale+do+Xingu/@-6.6410969,-51.9799765?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Xisteria Fc",
+                "link": "https://www.google.com/maps/search/Xisteria+Fc/@-6.6413153,-51.98216730000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.2,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Bar e lanchonete to na esquina",
+                "link": "https://www.google.com/maps/search/Bar+e+lanchonete+to+na+esquina/@-6.6420888,-51.9936191?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lanche Sousa (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Xiao Shi /Ling Shi Ba ",
+        "categories": [
+            "Xiao Shi /Ling Shi Ba "
+        ],
+        "rating": 5,
+        "workday_timing": "18:00-00:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Lanche Sousa - R. Osorio de Oliveira Freitas, 658-734 - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lanche+Sousa/data=!4m7!3m6!1s0x92e5ab946f226e85:0xfa2f34e6cdbc448e!8m2!3d-6.6383344!4d-51.9891976!16s%2Fg%2F11h9p13fyp!19sChIJhW4ib5Sr5ZIRjkS8zeY0L_o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ_TH_ODSr5ZIR_1CNywAdOeQ",
@@ -5888,61 +5944,6 @@
         "address": "Mercado da Orla, O Shopping do Veranista - R. Dois - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Mercado+da+Orla,+O+Shopping+do+Veranista/data=!4m7!3m6!1s0x92e5ab3438ff31fd:0xe4391d00cb8d50ff!8m2!3d-6.6496898!4d-51.9983172!16s%2Fg%2F11jbpnzgx2!19sChIJ_TH_ODSr5ZIR_1CNywAdOeQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJhW4ib5Sr5ZIRjkS8zeY0L_o",
-        "name": "Lanche Sousa",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Matheus Burg",
-                "link": "https://www.google.com/maps/search/Matheus+Burg/@-6.6415662,-51.984787?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
-                "rating": 4.4,
-                "main_category": "Xiao Shi /Ling Shi Ba "
-            },
-            {
-                "name": "Restaurante e Lanchonete Vale do Xingu",
-                "link": "https://www.google.com/maps/search/Restaurante+e+Lanchonete+Vale+do+Xingu/@-6.6410969,-51.9799765?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Xisteria Fc",
-                "link": "https://www.google.com/maps/search/Xisteria+Fc/@-6.6413153,-51.98216730000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.2,
-                "main_category": "Xiao Shi /Ling Shi Ba "
-            },
-            {
-                "name": "Bar e lanchonete to na esquina",
-                "link": "https://www.google.com/maps/search/Bar+e+lanchonete+to+na+esquina/@-6.6420888,-51.9936191?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Xiao Shi /Ling Shi Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Lanche Sousa (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Xiao Shi /Ling Shi Ba ",
-        "categories": [
-            "Xiao Shi /Ling Shi Ba "
-        ],
-        "rating": 5,
-        "workday_timing": "18:00-00:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Lanche Sousa - R. Osorio de Oliveira Freitas, 658-734 - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Lanche+Sousa/data=!4m7!3m6!1s0x92e5ab946f226e85:0xfa2f34e6cdbc448e!8m2!3d-6.6383344!4d-51.9891976!16s%2Fg%2F11h9p13fyp!19sChIJhW4ib5Sr5ZIRjkS8zeY0L_o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ-xGXN12r5ZIRwGdcRu42Ywc",
@@ -6049,56 +6050,6 @@
         "link": "https://www.google.com/maps/place/Refrescante+Bom+Sabor/data=!4m7!3m6!1s0x92e5abbeb599d81d:0x9f5987801a3954b4!8m2!3d-6.643929!4d-51.971818!16s%2Fg%2F11mxqlpdrb!19sChIJHdiZtb6r5ZIRtFQ5GoCHWZ8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJSZoJxySq5ZIRCeUKYGZszwo",
-        "name": "Bar E Lanchonete Fim De Tarde",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Acai Kaingo e Sorvetes",
-                "link": "https://www.google.com/maps/search/A%C3%A7a%C3%AD+Kaing%C3%B3+e+Sorvetes/@-6.640986799999999,-51.982492799999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4.5,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Bar do Caitano",
-                "link": "https://www.google.com/maps/search/Bar+do+Caitano/@-6.636908999999999,-51.9889442?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Bar da Baiana",
-                "link": "https://www.google.com/maps/search/Bar+da+Baiana/@-6.5093147,-51.9371786?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Bar E Lanchonete Fim De Tarde (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ji Wei Jiu Jiu Ba ",
-        "categories": [
-            "Ji Wei Jiu Jiu Ba "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-12:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 94 98190-5311",
-        "address": "Bar E Lanchonete Fim De Tarde - Av. 22 de Marco - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bar+E+Lanchonete+Fim+De+Tarde/data=!4m7!3m6!1s0x92e5aa24c7099a49:0xacf6c66600ae509!8m2!3d-6.6417756!4d-51.9936727!16s%2Fg%2F11c5stwjb9!19sChIJSZoJxySq5ZIRCeUKYGZszwo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJGcLip_cR9QcRbVEF5adkT7w",
         "name": "Rei do Guarana da Amazonia",
         "description": null,
@@ -6189,6 +6140,113 @@
         "link": "https://www.google.com/maps/place/Beijo+Doce+sorveteria+A%C3%A7a%C3%ADteria+e+lanchonete/data=!4m7!3m6!1s0x92e5ab347e8f2ee5:0x37084bd9527db259!8m2!3d-6.6465822!4d-51.9614626!16s%2Fg%2F11kjfb7d3r!19sChIJ5S6PfjSr5ZIRWbJ9UtlLCDc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJSZoJxySq5ZIRCeUKYGZszwo",
+        "name": "Bar E Lanchonete Fim De Tarde",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Acai Kaingo e Sorvetes",
+                "link": "https://www.google.com/maps/search/A%C3%A7a%C3%AD+Kaing%C3%B3+e+Sorvetes/@-6.640986799999999,-51.982492799999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 19,
+                "rating": 4.5,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Bar do Caitano",
+                "link": "https://www.google.com/maps/search/Bar+do+Caitano/@-6.636908999999999,-51.9889442?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.6,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Bar da Baiana",
+                "link": "https://www.google.com/maps/search/Bar+da+Baiana/@-6.5093147,-51.9371786?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bar E Lanchonete Fim De Tarde (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ji Wei Jiu Jiu Ba ",
+        "categories": [
+            "Ji Wei Jiu Jiu Ba "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 94 98190-5311",
+        "address": "Bar E Lanchonete Fim De Tarde - Av. 22 de Marco - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bar+E+Lanchonete+Fim+De+Tarde/data=!4m7!3m6!1s0x92e5aa24c7099a49:0xacf6c66600ae509!8m2!3d-6.6417756!4d-51.9936727!16s%2Fg%2F11c5stwjb9!19sChIJSZoJxySq5ZIRCeUKYGZszwo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_2r9hyir5ZIRa00DvwRWFSQ",
+        "name": "To no grau distribuidora",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Distribuidora - Branco Bebidas e Conveniencia",
+                "link": "https://www.google.com/maps/search/Distribuidora+-+Branco+Bebidas+e+Conveni%C3%AAncia/@-6.6468561,-51.9962832?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.4,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Real Bebidas e Conveniencia",
+                "link": "https://www.google.com/maps/search/Real+Bebidas+e+Conveniencia/@-6.6466886,-51.99622660000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.2,
+                "main_category": "Yin Liao Gong Ying Shang "
+            },
+            {
+                "name": "Distribuidora conveniencia Oliveira",
+                "link": "https://www.google.com/maps/search/Distribuidora+conveni%C3%AAncia+Oliveira/@-6.6495251,-51.958363299999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Rota Beer",
+                "link": "https://www.google.com/maps/search/Rota+Beer/@-6.6413157,-51.9733819?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bian Li Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "105032948464073057850",
+            "name": "To no grau distribuidora (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105032948464073057850"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgOuDjl7bBvn1o_LjbEzB9rc4ce-QiIxgCu8hJ=w408-h725-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-23:30",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": null,
+        "address": "To no grau distribuidora, Mundial - Av. Goias, S/N - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/T%C3%B4+no+grau+distribuidora/data=!4m7!3m6!1s0x92e5ab2887fd6aff:0x24155604bf034d6b!8m2!3d-6.6408467!4d-51.9739014!16s%2Fg%2F11srf55q2j!19sChIJ_2r9hyir5ZIRa00DvwRWFSQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJsytWgter5ZIRbcucRWG3FW4",
         "name": "Rota Beer",
         "description": null,
@@ -6249,63 +6307,6 @@
         "address": "Rota Beer - Av. Rio Xingu - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Rota+Beer/data=!4m7!3m6!1s0x92e5abd782562bb3:0x6e15b761459ccb6d!8m2!3d-6.6413157!4d-51.9733819!16s%2Fg%2F11pv69mj7g!19sChIJsytWgter5ZIRbcucRWG3FW4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ_2r9hyir5ZIRa00DvwRWFSQ",
-        "name": "To no grau distribuidora",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Distribuidora - Branco Bebidas e Conveniencia",
-                "link": "https://www.google.com/maps/search/Distribuidora+-+Branco+Bebidas+e+Conveni%C3%AAncia/@-6.6468561,-51.9962832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Real Bebidas e Conveniencia",
-                "link": "https://www.google.com/maps/search/Real+Bebidas+e+Conveniencia/@-6.6466886,-51.99622660000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.2,
-                "main_category": "Yin Liao Gong Ying Shang "
-            },
-            {
-                "name": "Distribuidora conveniencia Oliveira",
-                "link": "https://www.google.com/maps/search/Distribuidora+conveni%C3%AAncia+Oliveira/@-6.6495251,-51.958363299999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Rota Beer",
-                "link": "https://www.google.com/maps/search/Rota+Beer/@-6.6413157,-51.9733819?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "105032948464073057850",
-            "name": "To no grau distribuidora (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105032948464073057850"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgOuDjl7bBvn1o_LjbEzB9rc4ce-QiIxgCu8hJ=w408-h725-k-no",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-23:30",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": null,
-        "address": "To no grau distribuidora, Mundial - Av. Goias, S/N - Sao Felix do Xingu, PA, 68380-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/T%C3%B4+no+grau+distribuidora/data=!4m7!3m6!1s0x92e5ab2887fd6aff:0x24155604bf034d6b!8m2!3d-6.6408467!4d-51.9739014!16s%2Fg%2F11srf55q2j!19sChIJ_2r9hyir5ZIRa00DvwRWFSQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJcbpQXFKr5ZIRsW5C-pGz_b4",
@@ -6440,7 +6441,7 @@
             {
                 "name": "Restaurante Sabor DCasa",
                 "link": "https://www.google.com/maps/search/Restaurante+Sabor+DCasa/@-6.6412640000000005,-51.972672599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
+                "reviews": 1,
                 "rating": 5,
                 "main_category": "Can Ting "
             }

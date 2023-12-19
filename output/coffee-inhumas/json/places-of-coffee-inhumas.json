@@ -341,6 +341,7 @@
         "rating": 4.8,
         "workday_timing": "06:00-18:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+55 62 98498-0613",
@@ -418,7 +419,7 @@
         "name": "Gastronomia Veneza",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 407,
+        "reviews": 406,
         "competitors": [
             {
                 "name": "Little Italy Pizzaria",
@@ -730,7 +731,7 @@
         "name": "Sabor Alternativo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 54,
+        "reviews": 55,
         "competitors": [
             {
                 "name": "Vibraz Panificadora e Lanchonete",
@@ -1039,12 +1040,7 @@
         ],
         "phone": "+55 62 98629-1532",
         "address": "La cone - Av. Pedro Alves Teixeira, Qd 14 - Lt 2 - Vale dos goiabeiras, Inhumas - GO, 75400-000Ba Xi ",
-        "review_keywords": [
-            {
-                "keyword": "Guo Jiang ",
-                "count": 3
-            }
-        ],
+        "review_keywords": [],
         "link": "https://www.google.com/maps/place/La+con%C3%AA/data=!4m7!3m6!1s0x935e7985b07359b7:0x30d1e73792bf3365!8m2!3d-16.3614282!4d-49.4981219!16s%2Fg%2F11h6nqzg04!19sChIJt1lzsIV5XpMRZTO_kjfn0TA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
@@ -1808,6 +1804,63 @@
         "address": "Dienes lanches - R. Pedro Roriz, 1068 - Centro, Inhumas - GO, 75400-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Dienes+lanches/data=!4m7!3m6!1s0x935e79e6a068f6dd:0x6bcfd5de76f9e06e!8m2!3d-16.3619778!4d-49.5008879!16s%2Fg%2F11v04pxq1r!19sChIJ3fZooOZ5XpMRbuD5dt7Vz2s?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJDdqa9254XpMRtRN_cvyd1E4",
+        "name": "Cafe e Cia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Cafe Inhumas",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Inhumas/@-16.4560867,-49.4933378?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Lanchone Central",
+                "link": "https://www.google.com/maps/search/Lanchone+Central/@-16.360091999999998,-49.498573099999994?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 1,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Lanchonete",
+                "link": "https://www.google.com/maps/search/Lanchonete/@-16.3674002,-49.4961968?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Cantina&Cia",
+                "link": "https://www.google.com/maps/search/Cantina%26Cia/@-16.358864,-49.5070213?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Zi Zhu Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe e Cia (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoG8KHc61extuQcf9AyBrcQlKo_9QPoZ0tRqd3=w408-h725-k-no",
+        "main_category": "Xiao Shi /Ling Shi Ba ",
+        "categories": [
+            "Xiao Shi /Ling Shi Ba "
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 62 98477-3893",
+        "address": "Cafe e Cia - R. Goias, Inhumas - GO, 75400-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+e+Cia/data=!4m7!3m6!1s0x935e786ef79ada0d:0x4ed49dfc727f13b5!8m2!3d-16.3596842!4d-49.5020774!16s%2Fg%2F11g8vy2_pt!19sChIJDdqa9254XpMRtRN_cvyd1E4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJn0Iq5vF5XpMRIOMo8Na1J3k",
