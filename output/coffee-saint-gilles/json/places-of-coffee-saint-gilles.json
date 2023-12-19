@@ -4,7 +4,7 @@
         "name": "POZ\" Chatelain",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2101,
+        "reviews": 2102,
         "competitors": [
             {
                 "name": "Cup 28deg.",
@@ -33,6 +33,13 @@
                 "reviews": 200,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
+            },
+            {
+                "name": "My day",
+                "link": "https://www.google.com/maps/search/My+day/@50.8399915,4.3512518?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.6,
+                "main_category": "A La Bo Can Ting "
             }
         ],
         "website": "http://pozbrussels.be/",
@@ -92,7 +99,7 @@
             {
                 "name": "Lloyd Coffee Eatery Louise",
                 "link": "https://www.google.com/maps/search/Lloyd+Coffee+Eatery+Louise/@50.833860900000005,4.3552097?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1074,
+                "reviews": 1077,
                 "rating": 4.2,
                 "main_category": "Zao Wu Can "
             },
@@ -125,22 +132,28 @@
                 "main_category": "Wen Hua Zhong Xin "
             }
         ],
-        "website": "http://www.cafemdp.com/",
+        "website": "https://www.cafemdp.com/",
         "owner": {
             "id": "111329781891185136149",
             "name": "Cafe Maison du Peuple (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/111329781891185136149"
         },
         "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUfuUSrwcX9ZvftFTpk0NByCFei1QG6-2VREEA=w408-h272-k-no",
-        "main_category": "Ka Pei Ting ",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Ka Pei Ting ",
+            "Ka Pei Dian ",
             "Jiu Ba ",
+            "Pi Jiu Guan ",
+            "Zao Wu Can Can Ting ",
+            "Hui Yi Gui Hua Fu Wu ",
+            "Ye Zong Hui ",
             "Can Ting "
         ],
         "rating": 4.1,
         "workday_timing": "16:00-00:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+32 2 850 09 08",
         "address": "Cafe Maison du Peuple, Parv. de Saint-Gilles 39, 1060 Saint-Gilles, Bi Li Shi ",
         "review_keywords": [
@@ -181,7 +194,7 @@
             {
                 "name": "A La Mort Subite",
                 "link": "https://www.google.com/maps/search/%C3%80+La+Mort+Subite/@50.8485898,4.3562973?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4694,
+                "reviews": 4698,
                 "rating": 4.3,
                 "main_category": "Pi Jiu Guan "
             },
@@ -209,8 +222,8 @@
             {
                 "name": "Bar Du Bempt",
                 "link": "https://www.google.com/maps/search/Bar+Du+Bempt/@50.8058057,4.311219599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4,
+                "reviews": 11,
+                "rating": 4.1,
                 "main_category": "Jiu Ba "
             }
         ],
@@ -228,7 +241,9 @@
         ],
         "rating": 4.1,
         "workday_timing": "08:00-01:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+32 2 537 71 59",
         "address": "Bar du Matin, Chau. d'Alsemberg 172, 1190 Forest, Bi Li Shi ",
         "review_keywords": [
@@ -264,33 +279,33 @@
         "name": "JAT' Cafe.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1527,
+        "reviews": 1528,
         "competitors": [
             {
                 "name": "Cafe Capitale",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Capitale/@50.8465315,4.3498725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1805,
+                "reviews": 1810,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe de la Presse",
                 "link": "https://www.google.com/maps/search/Cafe+de+la+Presse/@50.8165546,4.3713995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1622,
+                "reviews": 1623,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe du Sablon.",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1430,
+                "reviews": 1431,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -368,7 +383,7 @@
             {
                 "name": "Cafe Capitale",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Capitale/@50.8465315,4.3498725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1805,
+                "reviews": 1810,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -382,14 +397,14 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%27+Cafe./@50.840529499999995,4.359979399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1526,
+                "reviews": 1527,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kaffabar",
                 "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1136,
+                "reviews": 1137,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -468,21 +483,21 @@
             {
                 "name": "Cafe Capitale",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Capitale/@50.8465315,4.3498725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1805,
+                "reviews": 1810,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe du Sablon.",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1430,
+                "reviews": 1431,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Yuka Coffee Bar",
                 "link": "https://www.google.com/maps/search/Yuka+Coffee+Bar/@50.8459122,4.3474677999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 554,
+                "reviews": 555,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -561,7 +576,7 @@
             {
                 "name": "Woodpecker Schuman",
                 "link": "https://www.google.com/maps/search/Woodpecker+Schuman/@50.841400500000006,4.3839676999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 406,
+                "reviews": 408,
                 "rating": 4.2,
                 "main_category": "Zao Wu Can "
             },
@@ -625,12 +640,12 @@
         "name": "Le Dillens.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1201,
+        "reviews": 1202,
         "competitors": [
             {
                 "name": "Lloyd Coffee Eatery Louise",
                 "link": "https://www.google.com/maps/search/Lloyd+Coffee+Eatery+Louise/@50.833860900000005,4.3552097?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1074,
+                "reviews": 1077,
                 "rating": 4.2,
                 "main_category": "Zao Wu Can "
             },
@@ -676,7 +691,9 @@
         ],
         "rating": 4.1,
         "workday_timing": "08:00-00:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+32 2 538 31 36",
         "address": "Le Dillens., Pl. Julien Dillens 11, 1060 Saint-Gilles, Bi Li Shi ",
         "review_keywords": [
@@ -717,28 +734,28 @@
             {
                 "name": "Cafe Capitale",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Capitale/@50.8465315,4.3498725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1805,
+                "reviews": 1810,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cappuccino",
                 "link": "https://www.google.com/maps/search/Cappuccino/@50.8407377,4.3427249?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1473,
+                "reviews": 1475,
                 "rating": 4.2,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe du Sablon.",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1430,
+                "reviews": 1431,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Creme",
                 "link": "https://www.google.com/maps/search/Cr%C3%A8me/@50.841921,4.3533137?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1227,
+                "reviews": 1229,
                 "rating": 4,
                 "main_category": "Zao Wu Can "
             },
@@ -765,8 +782,8 @@
         "rating": 4.7,
         "workday_timing": "08:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 498 42 66 84",
         "address": "Kaffabar, Pl. Rouppe 1, 1000 Bruxelles, Bi Li Shi ",
@@ -826,7 +843,7 @@
             {
                 "name": "Il Pasticcio",
                 "link": "https://www.google.com/maps/search/Il+Pasticcio/@50.838952799999994,4.3708361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 715,
+                "reviews": 716,
                 "rating": 4.6,
                 "main_category": "Yi Da Li Cai "
             },
@@ -840,7 +857,7 @@
             {
                 "name": "Gazzetta",
                 "link": "https://www.google.com/maps/search/Gazzetta/@50.831516199999996,4.3605236?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
+                "reviews": 538,
                 "rating": 4.2,
                 "main_category": "Yi Da Li Cai "
             }
@@ -862,8 +879,8 @@
         "rating": 4.7,
         "workday_timing": "17:00-00:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 470 33 83 93",
         "address": "CiPiaCe, Parv. de Saint-Gilles 49A, 1060 Bruxelles, Bi Li Shi ",
@@ -901,14 +918,14 @@
             {
                 "name": "Kaffabar",
                 "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1136,
+                "reviews": 1137,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "My Little Cup",
                 "link": "https://www.google.com/maps/search/My+Little+Cup/@50.848051000000005,4.3649170999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 867,
+                "reviews": 868,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -991,7 +1008,7 @@
             {
                 "name": "Cafe La Biche",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Biche/@50.8253215,4.3460041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 704,
+                "reviews": 705,
                 "rating": 4.2,
                 "main_category": "Jiu Ba "
             },
@@ -1067,6 +1084,203 @@
         "link": "https://www.google.com/maps/place/Cafe+La+Pompe/data=!4m7!3m6!1s0x47c3c45dbce85a61:0x3f046737f57e13eb!8m2!3d50.8258444!4d4.3467265!16s%2Fg%2F11b76q2fcb!19sChIJYVrovF3Ew0cR6xN-9TdnBD8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJDaZS64vEw0cRtFcYKVqpz18",
+        "name": "Le Pain Quotidien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 879,
+        "competitors": [
+            {
+                "name": "Le Pain Quotidien Sablon",
+                "link": "https://www.google.com/maps/search/Le+Pain+Quotidien+Sablon/@50.840022999999995,4.3553508?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1503,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "KAFEI",
+                "link": "https://www.google.com/maps/search/KAFEI/@50.8231416,4.3671814?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 864,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Natural caffe Louise",
+                "link": "https://www.google.com/maps/search/Natural+caff%C3%A8+Louise/@50.8273411,4.3643969?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 825,
+                "rating": 4.3,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "The Rustic Table",
+                "link": "https://www.google.com/maps/search/The+Rustic+Table/@50.818891099999995,4.3705842?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 676,
+                "rating": 4,
+                "main_category": "Zao Wu Can "
+            },
+            {
+                "name": "Casa Louise",
+                "link": "https://www.google.com/maps/search/Casa+Louise/@50.833666699999995,4.3587573?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 629,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.lepainquotidien.com/be/fr/locations/Louise/Avenue-Louise-124%3Futm_medium%3Dbusiness-listing%26utm_source%3Dgoogle%26utm_campaign%3Dbusiness-listing%26y_source%3D1_OTQ2MDQzNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+        "owner": {
+            "id": "106134521543045586071",
+            "name": "Le Pain Quotidien (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106134521543045586071"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLrsNUPnnUt9n29dSlr8anSknFt80HEII7Cefu=w408-h271-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Mian Bao Xi Bing Dian ",
+            "Zao Can Can Ting ",
+            "Zao Wu Can Can Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:30-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+32 2 646 49 83",
+        "address": "Le Pain Quotidien, Av. Louise 124, 1050 Bruxelles, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 75
+            },
+            {
+                "keyword": "Zao Wu Can ",
+                "count": 34
+            },
+            {
+                "keyword": "You Ji ",
+                "count": 11
+            },
+            {
+                "keyword": "Mian Bao Dian ",
+                "count": 11
+            },
+            {
+                "keyword": "Ke Song ",
+                "count": 8
+            },
+            {
+                "keyword": "Fa Shi Tu Si ",
+                "count": 6
+            },
+            {
+                "keyword": "Xian Pai ",
+                "count": 5
+            },
+            {
+                "keyword": "Bu Li Ou ",
+                "count": 5
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Le+Pain+Quotidien/data=!4m7!3m6!1s0x47c3c48beb52a60d:0x5fcfa95a291857b4!8m2!3d50.8306602!4d4.3609346!16s%2Fg%2F11c3l7qrlm!19sChIJDaZS64vEw0cRtFcYKVqpz18?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJf-CdqxjFw0cRigTUBSYA-1g",
+        "name": "KAFEI",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 866,
+        "competitors": [
+            {
+                "name": "Cup 28deg.",
+                "link": "https://www.google.com/maps/search/Cup+28%C2%B0./@50.8264046,4.3619677999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1054,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Le Pain Quotidien",
+                "link": "https://www.google.com/maps/search/Le+Pain+Quotidien/@50.8306602,4.3609346?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 879,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Casa Louise",
+                "link": "https://www.google.com/maps/search/Casa+Louise/@50.833666699999995,4.3587573?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 629,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Kafei Dansaert",
+                "link": "https://www.google.com/maps/search/Kafei+Dansaert/@50.849768399999995,4.3470591999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 343,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "My day",
+                "link": "https://www.google.com/maps/search/My+day/@50.8399915,4.3512518?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.6,
+                "main_category": "A La Bo Can Ting "
+            }
+        ],
+        "website": "https://www.kafei.be/",
+        "owner": {
+            "id": "104809172963996462201",
+            "name": "KAFEI (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104809172963996462201"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOjXNekQMNpFThGDc-Kp4DQbN7AOjlRfP4dDzj=w408-h272-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Zao Can Can Ting ",
+            "Zao Wu Can Can Ting ",
+            "Dao Hui Fu Wu ",
+            "Zhong Shi Gao Bing Dian ",
+            "Qiao Ke Li Ka Pei Guan ",
+            "Wai Dai Ka Pei Zhuan Mai Dian ",
+            "Tian Pin Can Ting ",
+            "Ban Ji Dian ",
+            "Cha Yi Guan "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:30-16:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+32 2 216 95 66",
+        "address": "KAFEI, Chau. de Vleurgat 147, 1000 Bruxelles, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Wu Can ",
+                "count": 93
+            },
+            {
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 26
+            },
+            {
+                "keyword": "Wan ",
+                "count": 18
+            },
+            {
+                "keyword": "Luo Li Jiang ",
+                "count": 5
+            },
+            {
+                "keyword": "Gui Yu ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/KAFEI/data=!4m7!3m6!1s0x47c3c518ab9de07f:0x58fb002605d4048a!8m2!3d50.8231416!4d4.3671814!16s%2Fg%2F11gy1v2jhp!19sChIJf-CdqxjFw0cRigTUBSYA-1g?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJW4Rb_F_Ew0cRmjosJRHfCro",
         "name": "Hinterland",
         "description": null,
@@ -1076,14 +1290,14 @@
             {
                 "name": "Lloyd Coffee Eatery Louise",
                 "link": "https://www.google.com/maps/search/Lloyd+Coffee+Eatery+Louise/@50.833860900000005,4.3552097?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1074,
+                "reviews": 1077,
                 "rating": 4.2,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -1164,19 +1378,19 @@
         "name": "Natural caffe Louise",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 825,
+        "reviews": 826,
         "competitors": [
             {
                 "name": "Cafe de la Presse",
                 "link": "https://www.google.com/maps/search/Cafe+de+la+Presse/@50.8165546,4.3713995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1622,
+                "reviews": 1623,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Le Pain Quotidien",
                 "link": "https://www.google.com/maps/search/Le+Pain+Quotidien/@50.8306602,4.3609346?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 878,
+                "reviews": 879,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -1264,14 +1478,14 @@
             {
                 "name": "Pastry Garcia",
                 "link": "https://www.google.com/maps/search/Pastry+Garcia/@50.8293891,4.3792039?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1250,
+                "reviews": 1251,
                 "rating": 4.6,
                 "main_category": "Fa Shi Gao Bing Dian "
             },
             {
                 "name": "Ginkgo",
                 "link": "https://www.google.com/maps/search/Ginkgo/@50.8317457,4.3493521?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 480,
+                "reviews": 481,
                 "rating": 4.7,
                 "main_category": "Xi Dian "
             },
@@ -1436,6 +1650,10 @@
                 "count": 5
             },
             {
+                "keyword": "Sha La ",
+                "count": 5
+            },
+            {
                 "keyword": "Ke Ke ",
                 "count": 3
             }
@@ -1452,21 +1670,21 @@
             {
                 "name": "Cafe de la Presse",
                 "link": "https://www.google.com/maps/search/Cafe+de+la+Presse/@50.8165546,4.3713995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1622,
+                "reviews": 1623,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe du Sablon.",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1430,
+                "reviews": 1431,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kaffabar",
                 "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1136,
+                "reviews": 1137,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1547,12 +1765,12 @@
         "name": "JAT' Cafe.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 615,
+        "reviews": 616,
         "competitors": [
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%27+Cafe./@50.840529499999995,4.359979399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1526,
+                "reviews": 1527,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -1650,12 +1868,12 @@
         "name": "THERESE ET DOMINIQUE",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 593,
+        "reviews": 594,
         "competitors": [
             {
                 "name": "Snack Tetiko",
                 "link": "https://www.google.com/maps/search/Snack+Tetiko/@50.826378,4.3443496999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
+                "reviews": 282,
                 "rating": 2.8,
                 "main_category": "Can Ting "
             },
@@ -1750,19 +1968,19 @@
         "name": "Cafe Bebo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 592,
+        "reviews": 593,
         "competitors": [
             {
                 "name": "Delirium Cafe",
                 "link": "https://www.google.com/maps/search/Delirium+Caf%C3%A9/@50.8485002,4.3538834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21858,
+                "reviews": 21867,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Cafe Beguin",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+B%C3%A9guin/@50.8518295,4.350575699999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1442,
+                "reviews": 1443,
                 "rating": 4.1,
                 "main_category": "Fei Zhou Liao Li "
             },
@@ -1830,6 +2048,206 @@
         "link": "https://www.google.com/maps/place/Cafe+Bebo/data=!4m7!3m6!1s0x47c3c47a05968807:0x477591f2652c9b17!8m2!3d50.8424263!4d4.3456778!16s%2Fg%2F11cktvqzzm!19sChIJB4iWBXrEw0cRF5ssZfKRdUc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJASniE4_Ew0cRA5Le47LJHXk",
+        "name": "Fika",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 535,
+        "competitors": [
+            {
+                "name": "Cafe de la Presse",
+                "link": "https://www.google.com/maps/search/Cafe+de+la+Presse/@50.8165546,4.3713995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1623,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "JAT' Cafe.",
+                "link": "https://www.google.com/maps/search/JAT%27+Cafe./@50.840529499999995,4.359979399999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1527,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kaffabar",
+                "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1137,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Karsmakers Coffee House",
+                "link": "https://www.google.com/maps/search/Karsmakers+Coffee+House/@50.838352199999996,4.3727271?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 507,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Belga & Co.",
+                "link": "https://www.google.com/maps/search/Belga+%26+Co./@50.8359382,4.364008699999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 389,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://www.facebook.com/fikabrussels/",
+        "owner": {
+            "id": null,
+            "name": "Fika (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPK900udLnbmCNAWxMkDAvLdV5hJTf4tmTZyrkJ=w408-h725-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
+        ],
+        "phone": "+32 2 502 88 85",
+        "address": "Fika, Rue de la Paix 17, 1050 Ixelles, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Gao ",
+                "count": 42
+            },
+            {
+                "keyword": "Rou Gui Juan ",
+                "count": 32
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 19
+            },
+            {
+                "keyword": "Bing Gan ",
+                "count": 16
+            },
+            {
+                "keyword": "Hou Yuan ",
+                "count": 10
+            },
+            {
+                "keyword": "Ke Ke ",
+                "count": 10
+            },
+            {
+                "keyword": "Ji Jian ",
+                "count": 8
+            },
+            {
+                "keyword": "Zhuang Xiu ",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Fika/data=!4m7!3m6!1s0x47c3c48f13e22901:0x791dc9b2e3de9203!8m2!3d50.8354186!4d4.364939!16s%2Fg%2F11c2klxfxs!19sChIJASniE4_Ew0cRA5Le47LJHXk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3XJYgDXFw0cRj_f_VEffP3M",
+        "name": "Lucifer Lives",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 529,
+        "competitors": [
+            {
+                "name": "Tich",
+                "link": "https://www.google.com/maps/search/Tich/@50.8405619,4.3595594?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1103,
+                "rating": 3.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Liu Lin",
+                "link": "https://www.google.com/maps/search/Liu+Lin/@50.8417288,4.3521709?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 824,
+                "rating": 4.6,
+                "main_category": "Yan Ge Su Shi Liao Li "
+            },
+            {
+                "name": "The Judgy Vegan",
+                "link": "https://www.google.com/maps/search/The+Judgy+Vegan/@50.8376654,4.3482288?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 599,
+                "rating": 4.3,
+                "main_category": "Yan Ge Su Shi Liao Li "
+            },
+            {
+                "name": "Le Botaniste",
+                "link": "https://www.google.com/maps/search/Le+Botaniste/@50.826808799999995,4.362947999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 221,
+                "rating": 4.3,
+                "main_category": "Yan Ge Su Shi Liao Li "
+            },
+            {
+                "name": "Taylor's Cafe",
+                "link": "https://www.google.com/maps/search/Taylor%27s+Caf%C3%A9/@50.8370186,4.3488402?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 165,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://instagram.com/luciferlivescoffee%3Futm_medium%3Dcopy_link",
+        "owner": {
+            "id": "105148800509729718217",
+            "name": "Lucifer Lives (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105148800509729718217"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNWDRtkiYocARf0yMPhO4BT3_D5WGm79A-ZGkzu=w408-h306-k-no",
+        "main_category": "Chun Su Can Ting ",
+        "categories": [
+            "Chun Su Can Ting ",
+            "Ka Pei Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "10:00-17:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": null,
+        "address": "Lucifer Lives, Rue Haute 120, 1000 Bruxelles, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Wu Can ",
+                "count": 42
+            },
+            {
+                "keyword": "Gao ",
+                "count": 22
+            },
+            {
+                "keyword": "Gou ",
+                "count": 13
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 11
+            },
+            {
+                "keyword": "Yin Le ",
+                "count": 11
+            },
+            {
+                "keyword": "Bing Gan ",
+                "count": 10
+            },
+            {
+                "keyword": "Kong Bu ",
+                "count": 9
+            },
+            {
+                "keyword": "Bei Guo ",
+                "count": 6
+            },
+            {
+                "keyword": "Xian Pai ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Lucifer+Lives/data=!4m7!3m6!1s0x47c3c535805872dd:0x733fdf4754fff78f!8m2!3d50.8395333!4d4.3509909!16s%2Fg%2F11k5cbshyp!19sChIJ3XJYgDXFw0cRj_f_VEffP3M?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJU1D09ZrEw0cR6w8pCj9GgzA",
         "name": "Karsmakers Coffee House",
         "description": null,
@@ -1839,21 +2257,21 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%27+Cafe./@50.840529499999995,4.359979399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1526,
+                "reviews": 1527,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kaffabar",
                 "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1136,
+                "reviews": 1137,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "My Little Cup",
                 "link": "https://www.google.com/maps/search/My+Little+Cup/@50.848051000000005,4.3649170999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 867,
+                "reviews": 868,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1889,8 +2307,8 @@
         "rating": 4.4,
         "workday_timing": "07:00-18:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Karsmakers Coffee House, Rue de Treves 20, 1050 Ixelles, Bi Li Shi ",
@@ -2036,7 +2454,7 @@
             {
                 "name": "Cafe du Sablon.",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1430,
+                "reviews": 1431,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2077,9 +2495,9 @@
         "rating": 4.5,
         "workday_timing": "08:00-16:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Wu ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+32 2 230 05 00",
         "address": "Caffe Italiano, Rue d'Arlon 27, 1050 Bruxelles, Bi Li Shi ",
@@ -2124,19 +2542,19 @@
         "name": "Cafe Flora",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 419,
+        "reviews": 421,
         "competitors": [
             {
                 "name": "Cafe Maison du Peuple",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe de la Presse",
                 "link": "https://www.google.com/maps/search/Cafe+de+la+Presse/@50.8165546,4.3713995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1622,
+                "reviews": 1623,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -2176,6 +2594,7 @@
         "rating": 4.2,
         "workday_timing": "16:00-01:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi "
         ],
         "phone": "+32 2 673 55 50",
@@ -2226,7 +2645,7 @@
             {
                 "name": "Ginkgo",
                 "link": "https://www.google.com/maps/search/Ginkgo/@50.8317457,4.3493521?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 480,
+                "reviews": 481,
                 "rating": 4.7,
                 "main_category": "Xi Dian "
             },
@@ -2240,7 +2659,7 @@
             {
                 "name": "Moisette",
                 "link": "https://www.google.com/maps/search/Moisette/@50.8317051,4.3537374?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 191,
+                "reviews": 192,
                 "rating": 4.6,
                 "main_category": "Fa Shi Gao Bing Dian "
             },
@@ -2350,7 +2769,7 @@
             {
                 "name": "Caleo Cafe",
                 "link": "https://www.google.com/maps/search/Caleo+Caf%C3%A9/@50.835805099999995,4.366086900000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 185,
+                "reviews": 186,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             }
@@ -2428,7 +2847,7 @@
             {
                 "name": "cafe-bar triunfo",
                 "link": "https://www.google.com/maps/search/caf%C3%A9-bar+triunfo/@50.82471890000001,4.3497517?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
+                "reviews": 37,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -2515,19 +2934,19 @@
         "name": "Caffelatte Espressobar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 379,
+        "reviews": 380,
         "competitors": [
             {
                 "name": "Kaffabar",
                 "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1136,
+                "reviews": 1137,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Corica Grand Place",
                 "link": "https://www.google.com/maps/search/Corica+Grand+Place/@50.848450199999995,4.3510444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 919,
+                "reviews": 920,
                 "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2567,8 +2986,8 @@
         "rating": 4.7,
         "workday_timing": "07:30-16:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 470 07 54 91",
         "address": "Caffelatte Espressobar, Rue du Commerce 19, 1000 Bruxelles, Bi Li Shi ",
@@ -2613,7 +3032,7 @@
         "name": "Stella Specialty Coffee Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 377,
+        "reviews": 378,
         "competitors": [
             {
                 "name": "Hinterland",
@@ -2625,7 +3044,7 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -2707,7 +3126,7 @@
             {
                 "name": "The Repair Club | Reparation iPhone Bruxelles - Apple , Mac, MacBook",
                 "link": "https://www.google.com/maps/search/The+Repair+Club+%7C+R%C3%A9paration+iPhone+Bruxelles+-+Apple+%2C+Mac%2C+MacBook/@50.843146499999996,4.4093162999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 610,
+                "reviews": 611,
                 "rating": 4.9,
                 "main_category": "Shou Ji Zhuan Men Dian "
             },
@@ -2788,12 +3207,12 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 330,
+        "reviews": 331,
         "competitors": [
             {
                 "name": "Pret A Manger",
                 "link": "https://www.google.com/maps/search/Pret+A+Manger/@50.836786000000004,4.3359092?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 175,
+                "reviews": 176,
                 "rating": 3.2,
                 "main_category": "San Wen Zhi "
             },
@@ -2883,7 +3302,7 @@
             {
                 "name": "La Porteuse d'Eau",
                 "link": "https://www.google.com/maps/search/La+Porteuse+d%27Eau/@50.8317157,4.3436334?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 936,
+                "reviews": 941,
                 "rating": 4.3,
                 "main_category": "Bi Li Shi Cai "
             },
@@ -2975,14 +3394,14 @@
             {
                 "name": "Woodpecker 20",
                 "link": "https://www.google.com/maps/search/Woodpecker+20/@50.83448980000001,4.355106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1408,
+                "reviews": 1410,
                 "rating": 4.3,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Lloyd Coffee Eatery Louise",
                 "link": "https://www.google.com/maps/search/Lloyd+Coffee+Eatery+Louise/@50.833860900000005,4.3552097?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1074,
+                "reviews": 1077,
                 "rating": 4.2,
                 "main_category": "Zao Wu Can "
             },
@@ -3063,11 +3482,215 @@
         "link": "https://www.google.com/maps/place/The+Wild+Lab./data=!4m7!3m6!1s0x47c3c5cc0cbce565:0x5202c3c2a39d1fc0!8m2!3d50.8236471!4d4.3481039!16s%2Fg%2F11gw34wl0w!19sChIJZeW8DMzFw0cRwB-do8LDAlI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJUfDvRl7Fw0cR7bi1x76JeOM",
+        "name": "Golden Bean - The Coffee experience",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 306,
+        "competitors": [
+            {
+                "name": "JAT' Cafe.",
+                "link": "https://www.google.com/maps/search/JAT%27+Cafe./@50.840529499999995,4.359979399999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1527,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe du Sablon.",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1431,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "BOUCHE Specialty Coffee",
+                "link": "https://www.google.com/maps/search/BOUCHE+Specialty+Coffee/@50.8416133,4.3596525?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 675,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Belga & Co.",
+                "link": "https://www.google.com/maps/search/Belga+%26+Co./@50.8359382,4.364008699999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 389,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Comptoir Oriental des Caffes",
+                "link": "https://www.google.com/maps/search/Comptoir+Oriental+des+Caffes/@50.848377199999995,4.3513155999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.goldenbean.lu/stores/brussels/",
+        "owner": {
+            "id": "114598609982748339574",
+            "name": "Golden Bean - The Coffee experience (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114598609982748339574"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwNab8o1V-0XAduNn81htJ2YrLdcO8O9FUmjuQ=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:30-18:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Golden Bean - The Coffee experience, Rue de Namur 29, 1000 Bruxelles, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Dan Gao ",
+                "count": 19
+            },
+            {
+                "keyword": "Yin Le ",
+                "count": 12
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 9
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 9
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 9
+            },
+            {
+                "keyword": "Bi Dian ",
+                "count": 7
+            },
+            {
+                "keyword": "Zhi Wu ",
+                "count": 5
+            },
+            {
+                "keyword": "She Ji ",
+                "count": 5
+            },
+            {
+                "keyword": "Zhu Yi ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Golden+Bean+-+The+Coffee+experience/data=!4m7!3m6!1s0x47c3c55e46eff051:0xe37889bec7b5b8ed!8m2!3d50.8403444!4d4.3596736!16s%2Fg%2F11j842f5cw!19sChIJUfDvRl7Fw0cR7bi1x76JeOM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJtcwNDG3Ew0cRXIUL_9qvzNU",
+        "name": "Haagen-Dazs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 306,
+        "competitors": [
+            {
+                "name": "Galet",
+                "link": "https://www.google.com/maps/search/Galet/@50.851496399999995,4.3548686?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1174,
+                "rating": 4.4,
+                "main_category": "Xi Dian "
+            },
+            {
+                "name": "Glacier Bargello",
+                "link": "https://www.google.com/maps/search/Glacier+Bargello/@50.84991060000001,4.3661201?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 841,
+                "rating": 4.6,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Amorino",
+                "link": "https://www.google.com/maps/search/Amorino/@50.848163899999996,4.3517896?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 354,
+                "rating": 4.2,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Glacier Lanni Giovanni",
+                "link": "https://www.google.com/maps/search/Glacier+Lanni+Giovanni/@50.82638540000001,4.3485226?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.5,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "GODIVA Haagen Dazs Galerie de la Reine Store",
+                "link": "https://www.google.com/maps/search/GODIVA+Haagen+Dazs+Galerie+de+la+Reine+Store/@50.846967400000004,4.3544256?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 3.6,
+                "main_category": "Zhu Gu Li Dian "
+            }
+        ],
+        "website": "https://www.haagen-dazs.be/",
+        "owner": {
+            "id": "115142667599384633895",
+            "name": "Haagen-Dazs (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115142667599384633895"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDycGelrZ295HM6pmGIvpQg5_r4p8CirQ4khyA=w426-h240-k-no",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian ",
+            "Ka Pei Dian ",
+            "Tian Pin Dian "
+        ],
+        "rating": 3.4,
+        "workday_timing": "06:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+32 2 527 48 20",
+        "address": "Haagen-Dazs, Gare du Midi Galerie Sud, Pl. Victor Horta, 1060 Bruxelles, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Song Bing ",
+                "count": 33
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 33
+            },
+            {
+                "keyword": "Ka Pei ",
+                "count": 27
+            },
+            {
+                "keyword": "Che Zhan ",
+                "count": 10
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 8
+            },
+            {
+                "keyword": "Ke Li Bing ",
+                "count": 6
+            },
+            {
+                "keyword": "Zhuo ",
+                "count": 6
+            },
+            {
+                "keyword": "Leng ",
+                "count": 5
+            },
+            {
+                "keyword": "Yuan Gong ",
+                "count": 5
+            },
+            {
+                "keyword": "Xia Ding ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%A4agen-Dazs/data=!4m7!3m6!1s0x47c3c46d0c0dccb5:0xd5ccafdaff0b855c!8m2!3d50.8367027!4d4.3350547!16s%2Fg%2F1tdh30d0!19sChIJtcwNDG3Ew0cRXIUL_9qvzNU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJz0b0KibFw0cRT5SljlyFXqQ",
         "name": "Kaki Cake Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 265,
+        "reviews": 266,
         "competitors": [
             {
                 "name": "Chouconut",
@@ -3171,14 +3794,14 @@
             {
                 "name": "La Fabbrica",
                 "link": "https://www.google.com/maps/search/La+Fabbrica/@50.8642817,4.3486581?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 917,
+                "reviews": 918,
                 "rating": 4.1,
                 "main_category": "Yi Da Li Cai "
             },
             {
                 "name": "Maison de la Poste",
                 "link": "https://www.google.com/maps/search/Maison+de+la+Poste/@50.8638313,4.345651999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 210,
+                "reviews": 211,
                 "rating": 4.7,
                 "main_category": "Biao Yan Chang Di "
             },
@@ -3192,7 +3815,7 @@
             {
                 "name": "Martine",
                 "link": "https://www.google.com/maps/search/Martine/@50.8292583,4.356001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 143,
+                "reviews": 144,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -3283,7 +3906,7 @@
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kami.",
@@ -3361,33 +3984,33 @@
         "name": "Lazy Bear, Brussels - Coffee, Burger & Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 210,
+        "reviews": 211,
         "competitors": [
             {
                 "name": "Cafe Capitale",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Capitale/@50.8465315,4.3498725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1805,
+                "reviews": 1810,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe du Sablon.",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1430,
+                "reviews": 1431,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kaffabar",
                 "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1136,
+                "reviews": 1137,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Coffee Lacrosse",
                 "link": "https://www.google.com/maps/search/Coffee+Lacrosse/@50.8200347,4.3823707999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 402,
+                "reviews": 403,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -3563,7 +4186,7 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@50.836465399999994,4.3363414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 329,
+                "reviews": 330,
                 "rating": 3.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -3650,7 +4273,7 @@
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Hinterland",
@@ -3662,7 +4285,7 @@
             {
                 "name": "Cafe La Biche",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Biche/@50.8253215,4.3460041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 704,
+                "reviews": 705,
                 "rating": 4.2,
                 "main_category": "Jiu Ba "
             },
@@ -3697,7 +4320,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "07:30-15:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "L'Alchimiste., Rue de Savoie 59, 1060 Saint-Gilles, Bi Li Shi ",
         "review_keywords": [
@@ -3749,19 +4374,19 @@
         "name": "Taylor's Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 165,
+        "reviews": 166,
         "competitors": [
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%27+Cafe./@50.840529499999995,4.359979399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1526,
+                "reviews": 1527,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe du Sablon.",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1430,
+                "reviews": 1431,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3775,9 +4400,16 @@
             {
                 "name": "Lucifer Lives",
                 "link": "https://www.google.com/maps/search/Lucifer+Lives/@50.8395333,4.3509909?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 523,
+                "reviews": 524,
                 "rating": 4.7,
                 "main_category": "Yan Ge Su Shi Liao Li "
+            },
+            {
+                "name": "My day",
+                "link": "https://www.google.com/maps/search/My+day/@50.8399915,4.3512518?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.6,
+                "main_category": "A La Bo Can Ting "
             }
         ],
         "website": "https://www.taylorscafebrussels.be/",
@@ -3795,6 +4427,7 @@
         "rating": 4.8,
         "workday_timing": "09:30-16:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er "
         ],
         "phone": null,
@@ -3863,7 +4496,7 @@
             {
                 "name": "Boba Bubble Tea - Sainte-Catherine/Sint-Katelijne",
                 "link": "https://www.google.com/maps/search/Boba+Bubble+Tea+-+Sainte-Catherine%2FSint-Katelijne/@50.849197499999995,4.3486553?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 191,
+                "reviews": 192,
                 "rating": 3.8,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -3950,7 +4583,7 @@
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pardon Brussels",
@@ -4020,6 +4653,90 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Le+News+Cafe./data=!4m7!3m6!1s0x47c3c4626779800d:0xb30da2c1366c598e!8m2!3d50.8344559!4d4.3550291!16s%2Fg%2F1tjkdz8w!19sChIJDYB5Z2LEw0cRjllsNsGiDbM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJjUQksMnFw0cRDiTd3L9TJa0",
+        "name": "JeanBon Louise",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 126,
+        "competitors": [
+            {
+                "name": "Le Pain Quotidien",
+                "link": "https://www.google.com/maps/search/Le+Pain+Quotidien/@50.8306602,4.3609346?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 879,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Natural caffe Louise",
+                "link": "https://www.google.com/maps/search/Natural+caff%C3%A8+Louise/@50.8273411,4.3643969?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 825,
+                "rating": 4.3,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Miss Sophie - Sandwicherie fine & Chocolat",
+                "link": "https://www.google.com/maps/search/Miss+Sophie+-+Sandwicherie+fine+%26+Chocolat/@50.816067,4.3715738?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 70,
+                "rating": 4.4,
+                "main_category": "San Wen Zhi "
+            },
+            {
+                "name": "BON Cambre",
+                "link": "https://www.google.com/maps/search/BON+Cambre/@50.816123,4.3714929?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
+                "rating": 4.1,
+                "main_category": "Kuai Can "
+            },
+            {
+                "name": "Natural Green",
+                "link": "https://www.google.com/maps/search/Natural+Green/@50.8269722,4.3636469?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.7,
+                "main_category": "Sha Lu "
+            }
+        ],
+        "website": "http://www.jeanbon.be/",
+        "owner": {
+            "id": "116348483925222782732",
+            "name": "JeanBon Louise (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116348483925222782732"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMX1EzTJJKFw-Z_d_Me0exKm1V4zZjFwhiZ8nKF=w408-h272-k-no",
+        "main_category": "San Wen Zhi Dian ",
+        "categories": [
+            "San Wen Zhi Dian ",
+            "Zao Can Can Ting ",
+            "Zhi Shi Zhuan Mai Dian ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:30-16:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+32 2 772 23 30",
+        "address": "JeanBon Louise, Louizalaan 146, 1000 Brussel, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 6
+            },
+            {
+                "keyword": "Xiao Rong ",
+                "count": 4
+            },
+            {
+                "keyword": "Dao Gong ",
+                "count": 3
+            },
+            {
+                "keyword": "Ka Pei ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/JeanBon+Louise/data=!4m7!3m6!1s0x47c3c5c9b024448d:0xad2553bfdcdd240e!8m2!3d50.8294228!4d4.3622961!16s%2Fg%2F11j2xrfpq9!19sChIJjUQksMnFw0cRDiTd3L9TJa0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK1W1XCzFw0cReZUrppL-R1U",
@@ -4181,8 +4898,8 @@
         "rating": 5,
         "workday_timing": "08:00-14:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 2 315 43 31",
         "address": "Tuck Shop, Rue Theodore Verhaegen 190, 1060 Saint-Gilles, Bi Li Shi ",
@@ -4280,8 +4997,8 @@
         "rating": 5,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 472 45 45 66",
         "address": "Nomad Community - Coworking Cafe , Rue Vanderschrick 5, 1060 Saint-Gilles, Bi Li Shi ",
@@ -4333,7 +5050,7 @@
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Volders",
@@ -4493,7 +5210,7 @@
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Hinterland",
@@ -4512,7 +5229,7 @@
             {
                 "name": "cafe-bar triunfo",
                 "link": "https://www.google.com/maps/search/caf%C3%A9-bar+triunfo/@50.82471890000001,4.3497517?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
+                "reviews": 37,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             }
@@ -4531,8 +5248,8 @@
         "rating": 4.6,
         "workday_timing": "10:00-23:00",
         "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Er "
         ],
         "phone": "+32 2 539 32 54",
         "address": "Le Brumaire, Av. des Villas 1, 1060 Saint-Gilles, Bi Li Shi ",
@@ -4558,7 +5275,7 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@50.836465399999994,4.3363414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 329,
+                "reviews": 330,
                 "rating": 3.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -4572,7 +5289,7 @@
             {
                 "name": "Pret A Manger",
                 "link": "https://www.google.com/maps/search/Pret+A+Manger/@50.836786000000004,4.3359092?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 175,
+                "reviews": 176,
                 "rating": 3.2,
                 "main_category": "San Wen Zhi "
             },
@@ -4633,12 +5350,12 @@
         "name": "Louise 107",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 18,
+        "reviews": 19,
         "competitors": [
             {
                 "name": "Cafe de la Presse",
                 "link": "https://www.google.com/maps/search/Cafe+de+la+Presse/@50.8165546,4.3713995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1622,
+                "reviews": 1623,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4668,7 +5385,7 @@
         "categories": [
             "Yi Lang Ka Pei Ting "
         ],
-        "rating": 4.4,
+        "rating": 4.3,
         "workday_timing": "07:00-20:00",
         "closed_on": [
             "Xing Qi Ri "
@@ -4683,7 +5400,7 @@
         "name": "Fight Club",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 13,
+        "reviews": 14,
         "competitors": [],
         "website": "https://fightclub.pizza/",
         "owner": {
@@ -4723,7 +5440,7 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -4775,7 +5492,7 @@
         "is_spending_on_ads": false,
         "reviews": 5,
         "competitors": [],
-        "website": "https://www.tiktok.com/@bjcafelounge?_t=8gfTpAujGqn&_r=1",
+        "website": "https://www.tiktok.com/%40bjcafelounge%3F_t%3D8gfTpAujGqn%26_r%3D1",
         "owner": {
             "id": "112153966630659749191",
             "name": "Bj cafe lounge (Ye Zhu )",
@@ -4804,7 +5521,7 @@
             {
                 "name": "Maison Dandoy",
                 "link": "https://www.google.com/maps/search/Maison+Dandoy/@50.846119699999996,4.3520321?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3259,
+                "reviews": 3265,
                 "rating": 3.8,
                 "main_category": "Cha Yi Guan "
             },
@@ -4818,7 +5535,7 @@
             {
                 "name": "Maison Renardy",
                 "link": "https://www.google.com/maps/search/Maison+Renardy/@50.836199799999996,4.3678178999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
+                "reviews": 255,
                 "rating": 4.6,
                 "main_category": "Cha Xie Dian "
             },
@@ -4857,61 +5574,6 @@
         "address": "Fairy T, Rue Jourdan 13, 1060 Saint-Gilles, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Fairy+T/data=!4m7!3m6!1s0x47c3c59d98b7f223:0x532f4e0b24d30f2a!8m2!3d50.8346932!4d4.3551092!16s%2Fg%2F11srbqfsdw!19sChIJI_K3mJ3Fw0cRKg_TJAtOL1M?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJx-sGYkfFw0cRifJocRfj2aE",
-        "name": "cucumber",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Natural caffe Louise",
-                "link": "https://www.google.com/maps/search/Natural+caff%C3%A8+Louise/@50.8273411,4.3643969?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 825,
-                "rating": 4.3,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Louise 107",
-                "link": "https://www.google.com/maps/search/Louise+107/@50.8306151,4.3598902?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 4.4,
-                "main_category": "Yi Lang Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Couleurs",
-                "link": "https://www.google.com/maps/search/Cafe+Couleurs/@50.827545799999996,4.3550550999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 3.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Food",
-                "link": "https://www.google.com/maps/search/Food/@50.825996599999996,4.3646175?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://www.popupsablon.be/",
-        "owner": {
-            "id": "116142983430532918194",
-            "name": "cucumber (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116142983430532918194"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YbhefkHyYPTLJS2mSddD4A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=89.611496&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "cucumber, Av. Louise 32, 1050 Bruxelles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/cucumber/data=!4m7!3m6!1s0x47c3c5476206ebc7:0xa1d9e3177168f289!8m2!3d50.8345173!4d4.356692!16s%2Fg%2F11sx75hrym!19sChIJx-sGYkfFw0cRifJocRfj2aE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJde5BjdnFw0cRJTA7npnq_7o",
@@ -5057,40 +5719,40 @@
         "name": "Yuka Coffee Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 556,
+        "reviews": 557,
         "competitors": [
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%27+Cafe./@50.840529499999995,4.359979399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1526,
+                "reviews": 1527,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe du Sablon.",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+du+Sablon./@50.8401962,4.3568121?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1430,
+                "reviews": 1431,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kaffabar",
                 "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1136,
+                "reviews": 1137,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Au Soleil.",
                 "link": "https://www.google.com/maps/search/Au+Soleil./@50.8456026,4.3480523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1026,
+                "reviews": 1027,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Corica Grand Place",
                 "link": "https://www.google.com/maps/search/Corica+Grand+Place/@50.848450199999995,4.3510444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 919,
+                "reviews": 920,
                 "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             }
@@ -5163,28 +5825,28 @@
             {
                 "name": "Cappuccino",
                 "link": "https://www.google.com/maps/search/Cappuccino/@50.8407377,4.3427249?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1473,
+                "reviews": 1475,
                 "rating": 4.2,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Woodpecker 20",
                 "link": "https://www.google.com/maps/search/Woodpecker+20/@50.83448980000001,4.355106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1408,
+                "reviews": 1410,
                 "rating": 4.3,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Creme",
                 "link": "https://www.google.com/maps/search/Cr%C3%A8me/@50.841921,4.3533137?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1227,
+                "reviews": 1229,
                 "rating": 4,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Kaffabar",
                 "link": "https://www.google.com/maps/search/Kaffabar/@50.843152800000006,4.3453611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1136,
+                "reviews": 1137,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -5261,7 +5923,7 @@
             {
                 "name": "Casa Louise",
                 "link": "https://www.google.com/maps/search/Casa+Louise/@50.833666699999995,4.3587573?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 628,
+                "reviews": 629,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -5422,7 +6084,7 @@
         "name": "Jackie",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 248,
+        "reviews": 249,
         "competitors": [
             {
                 "name": "Hinterland",
@@ -5434,7 +6096,7 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -5529,12 +6191,12 @@
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -5574,8 +6236,8 @@
         "rating": 4.8,
         "workday_timing": "08:30-16:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": null,
         "address": "Kami., Chau. de Waterloo 355, 1060 Saint-Gilles, Bi Li Shi ",
@@ -5651,8 +6313,8 @@
         "rating": 4.2,
         "workday_timing": "06:00-22:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 2 539 27 08",
         "address": "Sas Cafe, Pl. Marcel Broodthaers 5, 1060 Saint-Gilles, Bi Li Shi ",
@@ -5689,7 +6351,7 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@50.836465399999994,4.3363414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 329,
+                "reviews": 330,
                 "rating": 3.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -5722,8 +6384,8 @@
         "rating": 4.1,
         "workday_timing": "06:00-21:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 2 523 06 09",
         "address": "Fabcafe, Victor Hortaplein 32, 1060 Sint-Gillis, Bi Li Shi ",
@@ -5819,6 +6481,70 @@
         "link": "https://www.google.com/maps/place/Le+Panach%C3%A9+-+Chez+Abdel/data=!4m7!3m6!1s0x47c3c46aa581b9b7:0x2bfa6659d2894e38!8m2!3d50.8283485!4d4.3313601!16s%2Fg%2F11c2pstsby!19sChIJt7mBpWrEw0cROE6J0llm-is?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJN8GYTW_Ew0cR0V_PPFuv5aA",
+        "name": "Hall Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 143,
+        "competitors": [
+            {
+                "name": "Lloyd Coffee Eatery Louise",
+                "link": "https://www.google.com/maps/search/Lloyd+Coffee+Eatery+Louise/@50.833860900000005,4.3552097?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1077,
+                "rating": 4.2,
+                "main_category": "Zao Wu Can "
+            },
+            {
+                "name": "Cafe Flora",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Flora/@50.8307333,4.3454878?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 419,
+                "rating": 4.2,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Cafe Volders",
+                "link": "https://www.google.com/maps/search/Cafe+Volders/@50.8313881,4.3433820999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 115,
+                "rating": 4.1,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Havana Cafe Saint Gilles.",
+                "link": "https://www.google.com/maps/search/Havana+Cafe+Saint+Gilles./@50.8276113,4.3454047?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 41,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe El Faro",
+                "link": "https://www.google.com/maps/search/Cafe+El+Faro/@50.8308889,4.3441709?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 3.3,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hall Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgCC1l60DxTpKfKFXtsalvBnnat_tqdJKNKRmq=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:30-20:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Hall Cafe, Av. Jean Volders 1, 1060 Saint-Gilles, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hall+Caf%C3%A9/data=!4m7!3m6!1s0x47c3c46f4d98c137:0xa0e5af5b3ccf5fd1!8m2!3d50.8326779!4d4.3430912!16s%2Fg%2F11f29xqt7r!19sChIJN8GYTW_Ew0cR0V_PPFuv5aA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJTcIAPWbEw0cRzQlEDBTBCv4",
         "name": "Waterloo Cafe",
         "description": null,
@@ -5890,132 +6616,6 @@
         "link": "https://www.google.com/maps/place/Waterloo+Caf%C4%97/data=!4m7!3m6!1s0x47c3c4663d00c24d:0xfe0ac1140c4409cd!8m2!3d50.8311414!4d4.3444654!16s%2Fg%2F11csq_j5hf!19sChIJTcIAPWbEw0cRzQlEDBTBCv4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJN8GYTW_Ew0cR0V_PPFuv5aA",
-        "name": "Hall Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 143,
-        "competitors": [
-            {
-                "name": "Lloyd Coffee Eatery Louise",
-                "link": "https://www.google.com/maps/search/Lloyd+Coffee+Eatery+Louise/@50.833860900000005,4.3552097?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1074,
-                "rating": 4.2,
-                "main_category": "Zao Wu Can "
-            },
-            {
-                "name": "Cafe Flora",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Flora/@50.8307333,4.3454878?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 419,
-                "rating": 4.2,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Volders",
-                "link": "https://www.google.com/maps/search/Cafe+Volders/@50.8313881,4.3433820999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
-                "rating": 4.1,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Havana Cafe Saint Gilles.",
-                "link": "https://www.google.com/maps/search/Havana+Cafe+Saint+Gilles./@50.8276113,4.3454047?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 41,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe El Faro",
-                "link": "https://www.google.com/maps/search/Cafe+El+Faro/@50.8308889,4.3441709?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 3.3,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Hall Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgCC1l60DxTpKfKFXtsalvBnnat_tqdJKNKRmq=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "08:30-20:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Hall Cafe, Av. Jean Volders 1, 1060 Saint-Gilles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Hall+Caf%C3%A9/data=!4m7!3m6!1s0x47c3c46f4d98c137:0xa0e5af5b3ccf5fd1!8m2!3d50.8326779!4d4.3430912!16s%2Fg%2F11f29xqt7r!19sChIJN8GYTW_Ew0cR0V_PPFuv5aA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJR9lBoGjEw0cROaOB7CFAybo",
-        "name": "Cafe Volders",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 115,
-        "competitors": [
-            {
-                "name": "Hall Cafe",
-                "link": "https://www.google.com/maps/search/Hall+Caf%C3%A9/@50.8326779,4.3430912?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 143,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Brasserie Egalite",
-                "link": "https://www.google.com/maps/search/Brasserie+Egalite/@50.8305144,4.345884?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
-                "rating": 4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Le Time",
-                "link": "https://www.google.com/maps/search/Le+Time/@50.8235215,4.3428545?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 45,
-                "rating": 4.3,
-                "main_category": "Shao Kao "
-            },
-            {
-                "name": "L'Embuscade",
-                "link": "https://www.google.com/maps/search/L%27Embuscade/@50.826533999999995,4.3451797?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe El Faro",
-                "link": "https://www.google.com/maps/search/Cafe+El+Faro/@50.8308889,4.3441709?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 3.3,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe Volders (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfPj1QuOjt9thANnw522AW1y87jzlUYeDjE42o=w408-h306-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.1,
-        "workday_timing": "10:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Cafe Volders, Av. Jean Volders 45, 1060 Saint-Gilles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafe+Volders/data=!4m7!3m6!1s0x47c3c468a041d947:0xbac94021ec81a339!8m2!3d50.8313881!4d4.3433821!16s%2Fg%2F11byxdy4s9!19sChIJR9lBoGjEw0cROaOB7CFAybo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJvfxjEW3Ew0cRchFA62RLBYE",
         "name": "Taverne Horta",
         "description": null,
@@ -6065,8 +6665,8 @@
         "rating": 3.9,
         "workday_timing": "06:00-22:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 2 522 49 06",
         "address": "Taverne Horta, Victor Hortaplein 30, 1060 Sint-Gillis, Bi Li Shi ",
@@ -6091,6 +6691,61 @@
         "link": "https://www.google.com/maps/place/Taverne+Horta/data=!4m7!3m6!1s0x47c3c46d1163fcbd:0x81054b64eb401172!8m2!3d50.8365129!4d4.3339254!16s%2Fg%2F11g70h11vh!19sChIJvfxjEW3Ew0cRchFA62RLBYE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJlcPToD7Ew0cRn97ym-cvucA",
+        "name": "cafe da fatinha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 94,
+        "competitors": [
+            {
+                "name": "Le Panache - Chez Abdel",
+                "link": "https://www.google.com/maps/search/Le+Panach%C3%A9+-+Chez+Abdel/@50.8283485,4.3313600999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 150,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Union's Taverne",
+                "link": "https://www.google.com/maps/search/Union%27s+Taverne/@50.818055699999995,4.328371?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 82,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Chez Shahinez",
+                "link": "https://www.google.com/maps/search/Chez+Shahinez/@50.8094516,4.3176429?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4.6,
+                "main_category": "San Wen Zhi "
+            },
+            {
+                "name": "Daily Daze",
+                "link": "https://www.google.com/maps/search/Daily+Daze/@50.8115635,4.3272999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe da fatinha (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXl1yo8jzmxGe5BsW4ABpxwINDi-J4-QkkEP8=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "cafe da fatinha, Rue Jean Preckher 2, 1190 Forest, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/cafe+da+fatinha/data=!4m7!3m6!1s0x47c3c43ea0d3c395:0xc0b92fe79bf2de9f!8m2!3d50.8238735!4d4.323705!16s%2Fg%2F11c5sybkk8!19sChIJlcPToD7Ew0cRn97ym-cvucA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJNfnAY2bEw0cRq-PnS0iBlFc",
         "name": "Le Contraste",
         "description": null,
@@ -6107,7 +6762,7 @@
             {
                 "name": "Cafe la victoire",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+la+victoire/@50.8312743,4.3469388?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 88,
+                "reviews": 87,
                 "rating": 4.4,
                 "main_category": "Fei Biao Jiu Ba "
             },
@@ -6169,7 +6824,7 @@
             {
                 "name": "Le 203",
                 "link": "https://www.google.com/maps/search/Le+203/@50.82593010000001,4.3464844?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 475,
+                "reviews": 476,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -6210,8 +6865,8 @@
         "rating": 4.6,
         "workday_timing": "07:30-15:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 496 36 04 45",
         "address": "Kitchenette, Chau. de Waterloo 266, 1060 Saint-Gilles, Bi Li Shi ",
@@ -6295,89 +6950,6 @@
         "link": "https://www.google.com/maps/place/Douro/data=!4m7!3m6!1s0x47c3c46e45cc2fb1:0x6e131e61ddc8ede7!8m2!3d50.8362789!4d4.3402148!16s%2Fg%2F1tg_kt4l!19sChIJsS_MRW7Ew0cR5-3I3WEeE24?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJORYKPWbEw0cRPj09_t64f4M",
-        "name": "Cafes De Pauw",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 84,
-        "competitors": [
-            {
-                "name": "La Maison du The",
-                "link": "https://www.google.com/maps/search/La+Maison+du+Th%C3%A9/@50.8467031,4.3486033?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 4.7,
-                "main_category": "Cha Xie Dian "
-            },
-            {
-                "name": "Cafes Delahaut",
-                "link": "https://www.google.com/maps/search/Cafes+Delahaut/@50.794604799999995,4.373424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 114,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Santos Palace Shop Speciality coffee and tea",
-                "link": "https://www.google.com/maps/search/Santos+Palace+Shop+Speciality+coffee+and+tea/@50.8493443,4.3491938?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 102,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Koffiebranderij Van Dael",
-                "link": "https://www.google.com/maps/search/Koffiebranderij+Van+Dael/@50.8755861,4.3530883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "DECAFE sprl",
-                "link": "https://www.google.com/maps/search/DECAFE+sprl/@50.8278009,4.3414655?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "104600040563070517904",
-            "name": "Cafes De Pauw (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104600040563070517904"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5k4H9LsGPzDc6uYYcZq5f5PKwEJujvnBwwIdQ=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Ka Pei Hong Bei Shang ",
-            "Cha Xie Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "10:00-19:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+32 2 537 06 18",
-        "address": "Cafes De Pauw, Chau. de Waterloo 39, 1060 Bruxelles, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 9
-            },
-            {
-                "keyword": "Jing Pin Dian ",
-                "count": 7
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 3
-            },
-            {
-                "keyword": "Jing Yan ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9s+De+Pauw/data=!4m7!3m6!1s0x47c3c4663d0a1639:0x837fb8defe3d3d3e!8m2!3d50.8311896!4d4.3444753!16s%2Fg%2F1pxwpl5df!19sChIJORYKPWbEw0cRPj09_t64f4M?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJXyBwbl3Ew0cRHQuGICNWHMw",
         "name": "INVICTUS BAR-LUNCH",
         "description": null,
@@ -6394,14 +6966,14 @@
             {
                 "name": "Coimbra",
                 "link": "https://www.google.com/maps/search/Coimbra/@50.831306999999995,4.3438343?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 599,
+                "reviews": 600,
                 "rating": 4.5,
                 "main_category": "Pu Tao Ya Cai "
             },
             {
                 "name": "Penafidelis Bar",
                 "link": "https://www.google.com/maps/search/Penafid%C3%A9lis+Bar/@50.825028599999996,4.346297?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 326,
+                "reviews": 327,
                 "rating": 4.3,
                 "main_category": "Pu Tao Ya Cai "
             },
@@ -6516,7 +7088,7 @@
             {
                 "name": "Cafe La Biche",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Biche/@50.8253215,4.3460041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 704,
+                "reviews": 705,
                 "rating": 4.2,
                 "main_category": "Jiu Ba "
             },
@@ -6558,8 +7130,8 @@
         "rating": 4.8,
         "workday_timing": "09:00-20:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "La Vieille Chechette, Rue du Montenegro 2, 1060 Saint-Gilles, Bi Li Shi ",
@@ -6632,61 +7204,6 @@
         "address": "Cafe Amarcord, Rue du metal 2 Saint-Gilles, 1060 Bruxelles, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Amarcord/data=!4m7!3m6!1s0x47c3c596c30da3db:0x97cacf6ec1e3017d!8m2!3d50.8306597!4d4.3482374!16s%2Fg%2F11hyp1dpdh!19sChIJ26MNw5bFw0cRfQHjwW7Pypc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJachNcV3Ew0cRmTeTl4JxnxM",
-        "name": "Bar Cafe Je Suis Au Boulot",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 48,
-        "competitors": [
-            {
-                "name": "Cafe La Pompe",
-                "link": "https://www.google.com/maps/search/Cafe+La+Pompe/@50.8258444,4.346726500000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1029,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Waterloo Cafe",
-                "link": "https://www.google.com/maps/search/Waterloo+Caf%C4%97/@50.8311414,4.3444654?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 143,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe bolero",
-                "link": "https://www.google.com/maps/search/Cafe+bolero/@50.8263908,4.3460443?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 3.9,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Waterloo Food",
-                "link": "https://www.google.com/maps/search/Waterloo+Food/@50.831043699999995,4.3444473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.3,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Bar Cafe Je Suis Au Boulot (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOUCMvmY6Rb-SOJC1-4F5VrhfeNKm1o1vKykb6=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4,
-        "workday_timing": "10:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+32 2 534 12 10",
-        "address": "Bar Cafe Je Suis Au Boulot, Chau. de Waterloo 181, 1060 Bruxelles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bar+Caf%C3%A9+Je+Suis+Au+Boulot/data=!4m7!3m6!1s0x47c3c45d714dc869:0x139f718297933799!8m2!3d50.826393!4d4.3454519!16s%2Fg%2F11f5tzcq_3!19sChIJachNcV3Ew0cRmTeTl4JxnxM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJnX6hYGLEw0cRUNFfW5Crw34",
@@ -6827,14 +7344,14 @@
             {
                 "name": "Cafe Capitale",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Capitale/@50.8465315,4.3498725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1805,
+                "reviews": 1810,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Chez mon ex",
                 "link": "https://www.google.com/maps/search/Chez+mon+ex/@50.828520399999995,4.3518514999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 252,
+                "reviews": 253,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -6872,7 +7389,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.1,
-        "workday_timing": "08:00-01:00",
+        "workday_timing": "24 Xiao Shi Ying Ye ",
         "closed_on": "Open All Days",
         "phone": "+32 486 33 10 88",
         "address": "la capitale chez Ionela, Rue du Fort 41, 1060 Saint-Gilles, Bi Li Shi ",
@@ -6891,7 +7408,7 @@
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "CiPiaCe",
@@ -7034,7 +7551,7 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -7134,8 +7651,8 @@
         "rating": 4.7,
         "workday_timing": "09:00-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 483 08 94 69",
         "address": "Natural Green, Av. Louise 195, 1000 Bruxelles, Bi Li Shi ",
@@ -7168,7 +7685,7 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -7347,7 +7864,7 @@
             {
                 "name": "cafe-bar triunfo",
                 "link": "https://www.google.com/maps/search/caf%C3%A9-bar+triunfo/@50.82471890000001,4.3497517?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
+                "reviews": 37,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -7436,61 +7953,6 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Espagnol/data=!4m7!3m6!1s0x47c3c46e4595b937:0x206b42983725be2e!8m2!3d50.8362332!4d4.3402913!16s%2Fg%2F11c6f6jhj8!19sChIJN7mVRW7Ew0cRLr4lN5hCayA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJyaNkUG7Ew0cRXVdKz1w7DEc",
-        "name": "Cafe Corner",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 15,
-        "competitors": [
-            {
-                "name": "Douro",
-                "link": "https://www.google.com/maps/search/Douro/@50.836278899999996,4.3402148?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Espagnol",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Espagnol/@50.836233199999995,4.3402913?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "The Corner Coffee",
-                "link": "https://www.google.com/maps/search/The+Corner+Coffee/@50.8751435,4.4039382?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.3,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            },
-            {
-                "name": "L'Orient Express",
-                "link": "https://www.google.com/maps/search/L%27Orient+Express/@50.836594399999996,4.3394408?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe Corner (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e3akX4XWvrqzL7XQEHfG2A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=179.84749&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.2,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Cafe Corner, Rue de Russie 19A, 1060 Saint-Gilles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Corner/data=!4m7!3m6!1s0x47c3c46e5064a3c9:0x470c3b5ccf4a575d!8m2!3d50.8358616!4d4.3403793!16s%2Fg%2F11f_f5m55l!19sChIJyaNkUG7Ew0cRXVdKz1w7DEc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJCyjUZF3Ew0cR1nTNnKcB4I4",
         "name": "Cafe Alaska.",
         "description": null,
@@ -7500,7 +7962,7 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -7612,7 +8074,7 @@
             {
                 "name": "JAT' Cafe.",
                 "link": "https://www.google.com/maps/search/JAT%E2%80%99+Caf%C3%A9./@50.8275169,4.3553817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
+                "reviews": 615,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -7700,7 +8162,7 @@
             {
                 "name": "Chez mon ex",
                 "link": "https://www.google.com/maps/search/Chez+mon+ex/@50.828520399999995,4.3518514999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 252,
+                "reviews": 253,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -8121,7 +8583,7 @@
             {
                 "name": "KRITI",
                 "link": "https://www.google.com/maps/search/KRITI/@50.8305405,4.3389063?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 599,
+                "reviews": 600,
                 "rating": 4.2,
                 "main_category": "Xi La Cai "
             },
@@ -8176,7 +8638,7 @@
             {
                 "name": "Cafe de la Presse",
                 "link": "https://www.google.com/maps/search/Cafe+de+la+Presse/@50.8165546,4.3713995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1622,
+                "reviews": 1623,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -8227,68 +8689,6 @@
         "address": "Cafe Couleurs, Rue St.Bernard 6062, 1060 Bruxelles, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Cafe+Couleurs/data=!4m7!3m6!1s0x47c3c5a390f26c25:0x1389d8a81213732e!8m2!3d50.8275458!4d4.3550551!16s%2Fg%2F11fhvb0lwx!19sChIJJWzykKPFw0cRLnMTEqjYiRM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJvweq12_Ew0cRmK3HustMRdw",
-        "name": "Cafe Andre",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Cafe Charbon",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Charbon/@50.845493399999995,4.3478918?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 655,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Fabcafe",
-                "link": "https://www.google.com/maps/search/Fabcafe/@50.8364652,4.3338617?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 160,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Le Jardin Du Midi",
-                "link": "https://www.google.com/maps/search/Le+Jardin+Du+Midi/@50.840761799999996,4.3427995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 95,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Bar Midi",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+Midi/@50.839704999999995,4.3412326?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Bulle D'or",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Bulle+D%27or/@50.843491699999994,4.3442387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe Andre (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQHZydHz829V2Cu9IBrtaBSmctVRdurLCxa4xl=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4,
-        "workday_timing": "10:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+32 466 23 71 25",
-        "address": "Cafe Andre, Bd du Midi 87, 1000 Bruxelles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Andr%C3%A9/data=!4m7!3m6!1s0x47c3c46fd7aa07bf:0xdc454ccbbac7ad98!8m2!3d50.8377023!4d4.3420081!16s%2Fg%2F11c70jmrtn!19sChIJvweq12_Ew0cRmK3HustMRdw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJWY2BVXvFw0cRyfgb9RzYl-w",
@@ -8511,54 +8911,6 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Nino/data=!4m7!3m6!1s0x47c3c46a178e191d:0x78d85c2cae81265!8m2!3d50.8288823!4d4.3360681!16s%2Fg%2F11f5tzbgfc!19sChIJHRmOF2rEw0cRZRLoysKFjQc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ77i8wG3Ew0cRvhb9MPGT_so",
-        "name": "Espace Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Starbucks",
-                "link": "https://www.google.com/maps/search/Starbucks/@50.836465399999994,4.3363414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 329,
-                "rating": 3.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Java Coffee House",
-                "link": "https://www.google.com/maps/search/Java+Coffee+House/@50.835653799999996,4.3374749999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 65,
-                "rating": 3.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe de l'Argonne",
-                "link": "https://www.google.com/maps/search/Cafe+de+l%27Argonne/@50.83702350000001,4.3403833999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Espace Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO77-FNJQC58ttge3gX4igrVlUck6OzgB8GZy_I=w426-h240-k-no",
-        "main_category": "Zi Zhu Can Ting ",
-        "categories": [
-            "Zi Zhu Can Ting "
-        ],
-        "rating": 2.5,
-        "workday_timing": "05:30-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Espace Cafe, Av. Fonsny 46, 1060 Saint-Gilles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Espace+Caf%C3%A9/data=!4m7!3m6!1s0x47c3c46dc0bcb8ef:0xcafe93f130fd16be!8m2!3d50.8365327!4d4.3365747!16s%2Fg%2F11byx11cgq!19sChIJ77i8wG3Ew0cRvhb9MPGT_so?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ1TjLEWjEw0cRdU6do6_dT2c",
         "name": "Cafe Smoking",
         "description": null,
@@ -8570,7 +8922,7 @@
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Maison+du+Peuple/@50.830416400000004,4.3456698?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1964,
                 "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Waterloo Cafe",
@@ -8607,30 +8959,66 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Smoking/data=!4m7!3m6!1s0x47c3c46811cb38d5:0x674fddafa39d4e75!8m2!3d50.8282859!4d4.3421029!16s%2Fg%2F11ghfbsxyj!19sChIJ1TjLEWjEw0cRdU6do6_dT2c?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ1Qur5bvFw0cR0365hLMrIJY",
-        "name": "Nakh Sourj",
+        "place_id": "ChIJqwWpuPTEw0cRlzczVMzU2NM",
+        "name": "Topazi Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "POZ\" Chatelain",
+                "link": "https://www.google.com/maps/search/POZ%22+Ch%C3%A2telain/@50.8269617,4.3577356?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2101,
+                "rating": 4.6,
+                "main_category": "Zao Wu Can "
+            },
+            {
+                "name": "Cup 28deg.",
+                "link": "https://www.google.com/maps/search/Cup+28%C2%B0./@50.8264046,4.3619677999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1054,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Bisou",
+                "link": "https://www.google.com/maps/search/Bisou/@50.826510899999995,4.3615129?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 304,
+                "rating": 4.2,
+                "main_category": "Zao Wu Can "
+            },
+            {
+                "name": "La famille",
+                "link": "https://www.google.com/maps/search/La+famille/@50.825542,4.3598751?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 303,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Starterline",
+                "link": "https://www.google.com/maps/search/Starterline/@50.8256667,4.3601364?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 3.4,
+                "main_category": "Can Ting "
+            }
+        ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Nakh Sourj (Ye Zhu )",
+            "name": "Topazi Cafe (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AfnLtFhNplO4cZxW725kcw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.094925&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=35V1wGQL7LAXF_hdGywhPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=74.72794&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
         "categories": [
-            "Ka Pei Dian "
+            "Ka Pei Ting "
         ],
-        "rating": null,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "rating": 1,
+        "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": "+32 491 13 98 79",
-        "address": "Nakh Sourj, Rue d'Ecosse 12, 1060 Saint-Gilles, Bi Li Shi ",
+        "phone": "+32 2 534 09 01",
+        "address": "Topazi Cafe, Rue du Bailli 77, 1050 Ixelles, Bi Li Shi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nakh+Sourj/data=!4m7!3m6!1s0x47c3c5bbe5ab0bd5:0x96202bb384b97ed3!8m2!3d50.8330321!4d4.3529429!16s%2Fg%2F11l262n063!19sChIJ1Qur5bvFw0cR0365hLMrIJY?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Topazi+Cafe/data=!4m7!3m6!1s0x47c3c4f4b8a905ab:0xd3d8d4cc54333797!8m2!3d50.8258577!4d4.3598755!16s%2Fg%2F1pxwmdcvz!19sChIJqwWpuPTEw0cRlzczVMzU2NM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJEcvAJF3Ew0cRQk8Dx_RTHh4",
@@ -8727,111 +9115,6 @@
         "address": "A Gruta Cafe-Bar, Rue de l'Argonne, 1060 Saint-Gilles, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/A+Gruta+Caf%C3%A9-Bar/data=!4m7!3m6!1s0x47c3c46e36bf2ce5:0x69bbd9ca77a9a5e5!8m2!3d50.8369004!4d4.3407875!16s%2Fg%2F11f5tz6slh!19sChIJ5Sy_Nm7Ew0cR5aWpd8rZu2k?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJkQlSH2jEw0cRwQArdrH_Lfs",
-        "name": "DECAFE sprl",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafes De Pauw",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9s+De+Pauw/@50.831189599999995,4.3444753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Koffiebranderij Van Dael",
-                "link": "https://www.google.com/maps/search/Koffiebranderij+Van+Dael/@50.8755861,4.3530883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Smoking",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Smoking/@50.8282859,4.3421028999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "button",
-                "link": "https://www.google.com/maps/search/button/@50.841777799999996,4.3518197999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "defend",
-                "link": "https://www.google.com/maps/search/defend/@50.8306932,4.3609802?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "DECAFE sprl (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FavaMTH4m0UMmOVP5-8-IQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=335.54553&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "DECAFE sprl, Rue du Fort 65, 1060 Saint-Gilles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/DECAFE+sprl/data=!4m7!3m6!1s0x47c3c4681f520991:0xfb2dffb1762b00c1!8m2!3d50.8278009!4d4.3414655!16s%2Fg%2F11bzrpq7h_!19sChIJkQlSH2jEw0cRwQArdrH_Lfs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJI3iEOm7Ew0cRZHjcszU219Y",
-        "name": "Cafe de l'Argonne",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "aT",
-                "link": "https://www.google.com/maps/search/aT/@50.8342982,4.3546778999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Food",
-                "link": "https://www.google.com/maps/search/Food/@50.844868999999996,4.348112599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe de l'Argonne (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x5qWP479ytQHVWi1LrLSjg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.08026&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Cafe de l'Argonne, Rue de l'Argonne 29, 1060 Saint-Gilles, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafe+de+l%27Argonne/data=!4m7!3m6!1s0x47c3c46e3a847823:0xd6d73635b3dc7864!8m2!3d50.8370235!4d4.3403834!16s%2Fg%2F11tnwj_l_5!19sChIJI3iEOm7Ew0cRZHjcszU219Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJnT4AbmvEw0cRR4YHFtWBMt0",

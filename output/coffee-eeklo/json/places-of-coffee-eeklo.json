@@ -57,6 +57,7 @@
         "rating": 4.3,
         "workday_timing": "09:00-22:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San "
         ],
@@ -147,6 +148,7 @@
         "rating": 4.4,
         "workday_timing": "11:00-21:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er "
         ],
@@ -365,8 +367,8 @@
         "rating": 4.7,
         "workday_timing": "10:00-17:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 9 377 10 34",
         "address": "Koffiebranderij De Witte Zwaan, Boelare 36/38, 9900 Eeklo, Bi Li Shi ",
@@ -541,7 +543,7 @@
         "name": "Coiffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 100,
+        "reviews": 101,
         "competitors": [
             {
                 "name": "KREATOS Eeklo",
@@ -593,8 +595,8 @@
         "rating": 4.7,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi San "
         ],
         "phone": "+32 9 336 69 98",
         "address": "Coiffee, Boelare 14, 9900 Eeklo, Bi Li Shi ",
@@ -653,7 +655,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.facebook.com/Caf%25C3%25A9-De-Max-281630775230090/",
+        "website": "https://www.facebook.com/Caf%C3%A9-De-Max-281630775230090/",
         "owner": {
             "id": "101276370010222221818",
             "name": "Cafe De Max (Ye Zhu )",
@@ -667,8 +669,8 @@
         "rating": 4.6,
         "workday_timing": "09:00-23:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Cafe De Max, Markt 7, 9900 Eeklo, Bi Li Shi ",
@@ -868,111 +870,6 @@
         "link": "https://www.google.com/maps/place/De+Lange+%2F+Peter/data=!4m7!3m6!1s0x47c36697c4c274e9:0x108b547105e9a284!8m2!3d51.1880629!4d3.5435379!16s%2Fg%2F1tf_s0n6!19sChIJ6XTCxJdmw0cRhKLpBXFUixA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJdzqC3thlw0cRvro--9j4abg",
-        "name": "Torenhof Eeklo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 42,
-        "competitors": [],
-        "website": "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.torenhof-eeklo.be%2F&h=AT0ekN1ydrkEKn3kC40OYFpU2zvjGc0j_f3hWTfMZD2OEy79dZPFzNexe76PrybqbWSUx-vWZWCLpKVjlo16-Eh0t3eLtd5kon3FqsblF-dTV-PMoY9AS57hCW6GOMqjc4GNRo7wigMbHF7vwWVq3A",
-        "owner": {
-            "id": "115922036299933390607",
-            "name": "Torenhof Eeklo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115922036299933390607"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOaaMhyLZ7CtIwZua3U1iIXXOxHqNvTWBc39rp4=w408-h306-k-no",
-        "main_category": "Mei Shi Can Che Dian ",
-        "categories": [
-            "Mei Shi Can Che Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "09:00-01:00",
-        "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": "+32 469 17 91 72",
-        "address": "Torenhof Eeklo, Kerkplein 6, 9900 Eeklo, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Yuan Gong ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Torenhof+Eeklo/data=!4m7!3m6!1s0x47c365d8de823a77:0xb869f8d8fb3ebabe!8m2!3d51.1853823!4d3.5659484!16s%2Fg%2F11v18yj2qc!19sChIJdzqC3thlw0cRvro--9j4abg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJsdaKQYBlw0cR1jpwfpPJhOo",
-        "name": "Comme Chez Nous Eeklo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 39,
-        "competitors": [
-            {
-                "name": "Chemique",
-                "link": "https://www.google.com/maps/search/Chemique/@51.1880332,3.5561341000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.7,
-                "main_category": "Tang Geng Can Ting "
-            },
-            {
-                "name": "Bollero",
-                "link": "https://www.google.com/maps/search/Bollero/@51.1817066,3.5658376?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
-                "rating": 3.8,
-                "main_category": "San Wen Zhi "
-            },
-            {
-                "name": "'t Kaaiken",
-                "link": "https://www.google.com/maps/search/%27t+Kaaiken/@51.180864299999996,3.5685078999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 42,
-                "rating": 4,
-                "main_category": "San Wen Zhi "
-            },
-            {
-                "name": "Comme Chez Nous Waarschoot",
-                "link": "https://www.google.com/maps/search/Comme+Chez+Nous+Waarschoot/@51.156940999999996,3.5946626?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 4.4,
-                "main_category": "San Wen Zhi "
-            },
-            {
-                "name": "Deliway Eeklo",
-                "link": "https://www.google.com/maps/search/Deliway+Eeklo/@51.181212699999996,3.5898998000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "San Wen Zhi "
-            }
-        ],
-        "website": "http://commecheznous.shop/",
-        "owner": {
-            "id": "104993943218333960838",
-            "name": "Comme Chez Nous Eeklo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104993943218333960838"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPa-hK4f9QknGWzAvGATEVFEzM3lQPMLHqVPP1r=w408-h306-k-no",
-        "main_category": "San Wen Zhi Dian ",
-        "categories": [
-            "San Wen Zhi Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "04:30-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+32 9 226 23 72",
-        "address": "Comme Chez Nous Eeklo, Oostveldstraat 232, 9900 Eeklo, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Yuan Gong ",
-                "count": 4
-            },
-            {
-                "keyword": "Tuan Dui ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Comme+Chez+Nous+Eeklo/data=!4m7!3m6!1s0x47c36580418ad6b1:0xea84c9937e703ad6!8m2!3d51.1812127!4d3.5898998!16s%2Fg%2F11h__bpfff!19sChIJsdaKQYBlw0cR1jpwfpPJhOo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ-yljSBZkw0cRLEeU_j6Zy1I",
         "name": "Kwibus",
         "description": null,
@@ -982,7 +879,7 @@
             {
                 "name": "Carrefour market Eeklo Koning Albert",
                 "link": "https://www.google.com/maps/search/Carrefour+market+Eeklo+Koning+Albert/@51.186494499999995,3.5582618?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 595,
+                "reviews": 596,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1086,8 +983,8 @@
         "rating": 4.4,
         "workday_timing": "10:00-00:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 9 378 35 32",
         "address": "Cafe Rubens, Kon. Astridplein 10, 9900 Eeklo, Bi Li Shi ",
@@ -1494,68 +1391,6 @@
         "link": "https://www.google.com/maps/place/Nesta/data=!4m7!3m6!1s0x47c364230ae782eb:0xee70a0801a8dde3a!8m2!3d51.1841229!4d3.5671392!16s%2Fg%2F1xb2cqsx!19sChIJ64LnCiNkw0cROt6NGoCgcO4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ24kih55lw0cRCVfra6yPPHA",
-        "name": "Ontbijt bij Hotel Shamon",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Middenstandshuis",
-                "link": "https://www.google.com/maps/search/Middenstandshuis/@51.1840392,3.5671562999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 629,
-                "rating": 4.3,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Panos City Eeklo",
-                "link": "https://www.google.com/maps/search/Panos+City+Eeklo/@51.1848271,3.5643556999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
-                "rating": 4.1,
-                "main_category": "San Wen Zhi "
-            },
-            {
-                "name": "De Kruger",
-                "link": "https://www.google.com/maps/search/De+Kruger/@51.1818783,3.5714371?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
-                "rating": 4,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Chemique",
-                "link": "https://www.google.com/maps/search/Chemique/@51.1880332,3.5561341000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.7,
-                "main_category": "Tang Geng Can Ting "
-            },
-            {
-                "name": "Koffiesta",
-                "link": "https://www.google.com/maps/search/Koffiesta/@51.1884957,3.5652546999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://www.hotelshamon.be/nl/p/ontbijt",
-        "owner": {
-            "id": "109685612905205495265",
-            "name": "Ontbijt bij Hotel Shamon (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109685612905205495265"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1QUTtLCb15zue9om0ZGW6KkOh9_Y2okIOjdWy=w408-h273-k-no",
-        "main_category": "Zao Can Can Ting ",
-        "categories": [
-            "Zao Can Can Ting "
-        ],
-        "rating": null,
-        "workday_timing": "07:00-10:00",
-        "closed_on": "Open All Days",
-        "phone": "+32 9 378 09 50",
-        "address": "Ontbijt bij Hotel Shamon, Gentsesteenweg 28, 9900 Eeklo, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ontbijt+bij+Hotel+Shamon/data=!4m7!3m6!1s0x47c3659e872289db:0x703c8fac6beb5709!8m2!3d51.1767554!4d3.5786473!16s%2Fg%2F11pzkmfrdm!19sChIJ24kih55lw0cRCVfra6yPPHA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJv0c5IiBkw0cR-rI4xaHyNA8",
         "name": "cupido",
         "description": null,
@@ -1615,7 +1450,7 @@
         "name": "De Kruger",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 272,
+        "reviews": 273,
         "competitors": [
             {
                 "name": "Krugershopping",
@@ -1662,8 +1497,8 @@
         "rating": 4,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 473 36 46 97",
         "address": "De Kruger, Stationsstraat 82, 9900 Eeklo, Bi Li Shi ",
@@ -1768,7 +1603,7 @@
             {
                 "name": "De Boshoeve Lembeke",
                 "link": "https://www.google.com/maps/search/De+Boshoeve+Lembeke/@51.1836802,3.6396781999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 904,
+                "reviews": 906,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -2195,7 +2030,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.7,
-        "workday_timing": "15:00-00:00",
+        "workday_timing": "13:00-22:00",
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er ",
@@ -2931,56 +2766,6 @@
         "link": "https://www.google.com/maps/place/Coldy-choc/data=!4m7!3m6!1s0x47c36448b30e1ab9:0x31c08ddc823db46f!8m2!3d51.1757086!4d3.5874921!16s%2Fg%2F11hzsnsqjg!19sChIJuRoOs0hkw0cRb7Q9gtyNwDE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ6XOzq4Flw0cRb7iWCipeNO8",
-        "name": "community store eeklo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Delhaize Eeklo",
-                "link": "https://www.google.com/maps/search/Delhaize+Eeklo/@51.189839,3.5518954?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 998,
-                "rating": 4.3,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Supermarket 2 Eeklo",
-                "link": "https://www.google.com/maps/search/Supermarket+2+Eeklo/@51.1832469,3.5682302999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.7,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Dagwinkel",
-                "link": "https://www.google.com/maps/search/Dagwinkel/@51.184942,3.5637347999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Nong Chan Pin Shi Chang "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "community store eeklo (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nbvwc_io04rp5c62CvpsCA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=30.920305&pitch=0&thumbfov=100",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": null,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": [
-            "Xing Qi Er "
-        ],
-        "phone": null,
-        "address": "community store eeklo, Markt 36, 9900 Eeklo, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/community+store+eeklo/data=!4m7!3m6!1s0x47c36581abb373e9:0xef345e2a0a96b86f!8m2!3d51.184723!4d3.565815!16s%2Fg%2F11nxr439yk!19sChIJ6XOzq4Flw0cRb7iWCipeNO8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJu9ahqExlw0cRMYhuK2gRZSk",
         "name": "Proerij",
         "description": null,
@@ -3279,7 +3064,7 @@
             {
                 "name": "Lunchcafe",
                 "link": "https://www.google.com/maps/search/Lunchcaf%C3%A9/@51.109063,3.7074037?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 373,
+                "reviews": 374,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },

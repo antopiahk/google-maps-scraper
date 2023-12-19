@@ -209,8 +209,7 @@
         "rating": 4.6,
         "workday_timing": "08:30-17:00",
         "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi San "
         ],
         "phone": "+32 491 87 46 83",
         "address": "Pol En Polette, Oudenaardsestraat 28, 9500 Geraardsbergen, Bi Li Shi ",
@@ -366,6 +365,7 @@
         "rating": 4.6,
         "workday_timing": "10:00-02:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San "
         ],
@@ -429,7 +429,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.7,
-        "workday_timing": "09:00-13:00",
+        "workday_timing": "10:00-20:00",
         "closed_on": [
             "Xing Qi San ",
             "Xing Qi Si "
@@ -831,9 +831,9 @@
         "rating": 4.4,
         "workday_timing": "18:00-01:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+32 54 41 32 63",
         "address": "Boogie-woogie, Adamstraat 46, 9500 Geraardsbergen, Bi Li Shi ",
@@ -855,7 +855,7 @@
             {
                 "name": "Pol En Polette",
                 "link": "https://www.google.com/maps/search/Pol+En+Polette/@50.771757,3.8745329999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 192,
+                "reviews": 193,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -905,8 +905,7 @@
         "rating": 4.9,
         "workday_timing": "09:30-18:00",
         "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+32 479 59 57 08",
         "address": "papi louis, Lessensestraat 14, 9500 Geraardsbergen, Bi Li Shi ",
@@ -975,8 +974,8 @@
         "rating": 4.9,
         "workday_timing": "08:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 54 41 14 17",
         "address": "okay Coffee, Dagmoedstraat 86, 9506 Geraardsbergen, Bi Li Shi ",
@@ -1193,7 +1192,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.4,
-        "workday_timing": "11:00-23:59",
+        "workday_timing": "10:00-23:59",
         "closed_on": [
             "Xing Qi Yi "
         ],
@@ -1201,6 +1200,80 @@
         "address": "Cafe El Corazon, Vianeplein 10, 9500 Geraardsbergen, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Corazon/data=!4m7!3m6!1s0x47c3af18b270c969:0xf325405316d5a50e!8m2!3d50.7439689!4d3.9229433!16s%2Fg%2F1tf80rrm!19sChIJaclwshivw0cRDqXVFlNAJfM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJBXr9JqOow0cRmrVRuMCgmhI",
+        "name": "Soul Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 119,
+        "competitors": [
+            {
+                "name": "Montana",
+                "link": "https://www.google.com/maps/search/Montana/@50.7716433,3.8804083999999994?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 402,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Pol En Polette",
+                "link": "https://www.google.com/maps/search/Pol+En+Polette/@50.771757,3.8745329999999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 193,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "'t Groot Kaffee",
+                "link": "https://www.google.com/maps/search/%27t+Groot+Kaffee/@50.7718208,3.8824885?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 176,
+                "rating": 4.1,
+                "main_category": "Mei Shi Can Che Dian "
+            },
+            {
+                "name": "Lathee",
+                "link": "https://www.google.com/maps/search/Lathee/@50.7732138,3.8784827?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 119,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe De Presse",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Presse/@50.7713848,3.8823414?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "109492945679676386675",
+            "name": "Soul Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109492945679676386675"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgb8wuMF3aM3TdK_OhDXCayFKkp3lL4HwEjKQ2=w408-h408-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
+        ],
+        "phone": "+32 54 24 79 78",
+        "address": "Soul Coffee, Grotestraat 27, 9500 Geraardsbergen, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Na Tie ",
+                "count": 5
+            },
+            {
+                "keyword": "Xiao Chi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Soul+Coffee/data=!4m7!3m6!1s0x47c3a8a326fd7a05:0x129aa0c0b851b59a!8m2!3d50.7717704!4d3.8785028!16s%2Fg%2F11bzx2bvxc!19sChIJBXr9JqOow0cRmrVRuMCgmhI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJW-ziA6Oow0cRs6dMb1bdu5A",
@@ -1261,8 +1334,8 @@
         "rating": 4.6,
         "workday_timing": "09:00-13:00",
         "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi San "
         ],
         "phone": "+32 477 21 27 53",
         "address": "Lathee, Karmelietenstraat 2, 9500 Geraardsbergen, Bi Li Shi ",
@@ -1273,80 +1346,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Lathee/data=!4m7!3m6!1s0x47c3a8a303e2ec5b:0x90bbdd566f4ca7b3!8m2!3d50.7732138!4d3.8784827!16s%2Fg%2F11b7q559fz!19sChIJW-ziA6Oow0cRs6dMb1bdu5A?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJBXr9JqOow0cRmrVRuMCgmhI",
-        "name": "Soul Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 118,
-        "competitors": [
-            {
-                "name": "Montana",
-                "link": "https://www.google.com/maps/search/Montana/@50.7716433,3.8804083999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 402,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pol En Polette",
-                "link": "https://www.google.com/maps/search/Pol+En+Polette/@50.771757,3.8745329999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 192,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "'t Groot Kaffee",
-                "link": "https://www.google.com/maps/search/%27t+Groot+Kaffee/@50.7718208,3.8824885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 176,
-                "rating": 4.1,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Lathee",
-                "link": "https://www.google.com/maps/search/Lathee/@50.7732138,3.8784827?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe De Presse",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Presse/@50.7713848,3.8823414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "109492945679676386675",
-            "name": "Soul Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109492945679676386675"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgb8wuMF3aM3TdK_OhDXCayFKkp3lL4HwEjKQ2=w408-h408-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "09:00-18:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+32 54 24 79 78",
-        "address": "Soul Coffee, Grotestraat 27, 9500 Geraardsbergen, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Na Tie ",
-                "count": 5
-            },
-            {
-                "keyword": "Xiao Chi ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Soul+Coffee/data=!4m7!3m6!1s0x47c3a8a326fd7a05:0x129aa0c0b851b59a!8m2!3d50.7717704!4d3.8785028!16s%2Fg%2F11bzx2bvxc!19sChIJBXr9JqOow0cRmrVRuMCgmhI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJb9La5Gemw0cRtMPgdehLvr4",
@@ -1871,7 +1870,7 @@
             {
                 "name": "Pol En Polette",
                 "link": "https://www.google.com/maps/search/Pol+En+Polette/@50.771757,3.8745329999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 192,
+                "reviews": 193,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -1912,8 +1911,8 @@
         "rating": 4.4,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Er "
         ],
         "phone": "+32 54 24 55 56",
         "address": "Fynell, Oudenaardsestraat 3, 9500 Geraardsbergen, Bi Li Shi ",

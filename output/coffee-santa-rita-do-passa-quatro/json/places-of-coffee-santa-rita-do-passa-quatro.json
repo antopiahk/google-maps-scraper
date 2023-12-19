@@ -532,8 +532,8 @@
             {
                 "name": "Canalli Lanches",
                 "link": "https://www.google.com/maps/search/Canalli+Lanches/@-21.704322599999998,-47.4808452?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4,
+                "reviews": 9,
+                "rating": 4.1,
                 "main_category": "Xiao Shi /Ling Shi Ba "
             }
         ],
@@ -918,7 +918,7 @@
             {
                 "name": "Supermercado Moda",
                 "link": "https://www.google.com/maps/search/Supermercado+Moda/@-21.706141199999998,-47.4858032?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 410,
+                "reviews": 411,
                 "rating": 4.6,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1706,7 +1706,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "05:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+55 19 3584-5243",
         "address": "Padaria Pao De Ouro - Av. Jose Ribeiro de Oliveira, 2608 - Jardim Alvorada, Santa Rita do Passa Quatro - SP, 13670-000Ba Xi ",
         "review_keywords": [],
@@ -2137,11 +2139,10 @@
             "Ka Pei Dian "
         ],
         "rating": 4.9,
-        "workday_timing": "13:00-19:00",
+        "workday_timing": "14:00-20:00",
         "closed_on": [
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San "
+            "Xing Qi Er "
         ],
         "phone": "+55 16 99764-2333",
         "address": "Bem Alem - Atelier de Gastronomia e Arte - Av. Francisco Ribeiro, 1275 - Jardim Cinelandia, Santa Rita do Passa Quatro - SP, 13670-000Ba Xi ",
@@ -2308,7 +2309,7 @@
             {
                 "name": "Supermercado Moda",
                 "link": "https://www.google.com/maps/search/Supermercado+Moda/@-21.706141199999998,-47.4858032?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 410,
+                "reviews": 411,
                 "rating": 4.6,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -2499,7 +2500,7 @@
             {
                 "name": "Boutique do Pao",
                 "link": "https://www.google.com/maps/search/Boutique+do+P%C3%A3o/@-21.715455799999997,-47.4768739?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 200,
+                "reviews": 201,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },

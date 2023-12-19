@@ -185,7 +185,7 @@
             {
                 "name": "Albert Heijn",
                 "link": "https://www.google.com/maps/search/Albert+Heijn/@51.329952399999996,4.364671599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1500,
+                "reviews": 1501,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -218,7 +218,7 @@
                 "main_category": "Yao Fang "
             }
         ],
-        "website": "https://www.action.com/nl-be/winkels/?utm_campaign=localbusiness&utm_source=google&utm_medium=organic&utm_content=2043",
+        "website": "https://www.action.com/nl-be/winkels/%3Futm_campaign%3Dlocalbusiness%26utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_content%3D2043",
         "owner": {
             "id": "112363096462613457810",
             "name": "Action Stabroek (Ye Zhu )",
@@ -240,7 +240,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "09:00-18:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+32 2 313 50 66",
         "address": "Action Stabroek, Picoloplein 17, 2940 Stabroek, Bi Li Shi ",
         "review_keywords": [
@@ -306,7 +308,7 @@
             "Can Ting "
         ],
         "rating": 4.2,
-        "workday_timing": "17:00-21:00",
+        "workday_timing": "17:00-22:00",
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er ",
@@ -360,7 +362,7 @@
             {
                 "name": "Albert Heijn",
                 "link": "https://www.google.com/maps/search/Albert+Heijn/@51.329952399999996,4.364671599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1500,
+                "reviews": 1501,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -374,7 +376,7 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@51.329999,4.360605?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 930,
+                "reviews": 931,
                 "rating": 4.2,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -461,14 +463,14 @@
             {
                 "name": "Albert Heijn",
                 "link": "https://www.google.com/maps/search/Albert+Heijn/@51.329952399999996,4.364671599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1500,
+                "reviews": 1501,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@51.329999,4.360605?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 930,
+                "reviews": 931,
                 "rating": 4.2,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -549,7 +551,7 @@
             {
                 "name": "Albert Heijn",
                 "link": "https://www.google.com/maps/search/Albert+Heijn/@51.329952399999996,4.364671599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1500,
+                "reviews": 1501,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -806,107 +808,6 @@
         "link": "https://www.google.com/maps/place/Bakkerij+Wouters+-+Stabroek/data=!4m7!3m6!1s0x47c40b90b84ee3cb:0xadb158b14b197ae9!8m2!3d51.3325271!4d4.3657975!16s%2Fg%2F11fv4m4p6n!19sChIJy-NOuJALxEcR6XoZS7FYsa0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJiScW1a4OxEcRDZNL84qHi30",
-        "name": "Taverne De Roskam",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 269,
-        "competitors": [
-            {
-                "name": "'t Koetshuis",
-                "link": "https://www.google.com/maps/search/%E2%80%98t+Koetshuis/@51.354117699999996,4.3861912?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 971,
-                "rating": 4.2,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Het Nieuwe Hof",
-                "link": "https://www.google.com/maps/search/Het+Nieuwe+Hof/@51.3557175,4.3950423?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 388,
-                "rating": 4.1,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Taverne Grenszicht",
-                "link": "https://www.google.com/maps/search/Taverne+Grenszicht/@51.3559097,4.3944221?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "cafehetwittepaardputte",
-                "link": "https://www.google.com/maps/search/cafehetwittepaardputte/@51.35604850000001,4.3959107?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 141,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Eethuis De Pauw Putte",
-                "link": "https://www.google.com/maps/search/Eethuis+De+Pauw+Putte/@51.3607728,4.3931382?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 57,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://facebook.com/people/Cafe-Taverne-de-roskam/100054640321623/",
-        "owner": {
-            "id": "117186429964340570810",
-            "name": "Taverne De Roskam (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117186429964340570810"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMaWTsJPsjr_Hj88KD-hY42f4K7opgpAuT_863t=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "09:30-18:00",
-        "closed_on": [
-            "Xing Qi Si "
-        ],
-        "phone": "+31 164 603 294",
-        "address": "Taverne De Roskam, Antwerpsestraat 23, 4645 BA Putte, He Lan ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 16
-            },
-            {
-                "keyword": "Yuan Gong ",
-                "count": 14
-            },
-            {
-                "keyword": "Di Tu ",
-                "count": 7
-            },
-            {
-                "keyword": "Min Zhu ",
-                "count": 4
-            },
-            {
-                "keyword": "Shu Tiao ",
-                "count": 4
-            },
-            {
-                "keyword": "Can Jiu Guan ",
-                "count": 3
-            },
-            {
-                "keyword": "Hong Jiu ",
-                "count": 3
-            },
-            {
-                "keyword": "Bing Gan ",
-                "count": 3
-            },
-            {
-                "keyword": "Gao ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Taverne+De+Roskam/data=!4m7!3m6!1s0x47c40eaed5162789:0x7d8b878af34b930d!8m2!3d51.3564873!4d4.3941641!16s%2Fg%2F1wj_sfgz!19sChIJiScW1a4OxEcRDZNL84qHi30?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJz6lM1OsLxEcR37OlOgqvrT0",
         "name": "Grand Cafe Parrot",
         "description": null,
@@ -1125,81 +1026,6 @@
         "link": "https://www.google.com/maps/place/Cafe+t%27uveltje/data=!4m7!3m6!1s0x47c409a0008c31e5:0x8faa881f48d68334!8m2!3d51.3063008!4d4.405342!16s%2Fg%2F11c1_v2g1d!19sChIJ5TGMAKAJxEcRNIPWSB-Iqo8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJvzqPhT0JxEcRAe32z3xorhM",
-        "name": "Cafe Starrenhof",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 222,
-        "competitors": [
-            {
-                "name": "Het Nieuwe Hof",
-                "link": "https://www.google.com/maps/search/Het+Nieuwe+Hof/@51.3557175,4.3950423?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 388,
-                "rating": 4.1,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Cafe Verli",
-                "link": "https://www.google.com/maps/search/Cafe+Verli/@51.3131807,4.4243572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 55,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Huis ten Halven",
-                "link": "https://www.google.com/maps/search/Huis+ten+Halven/@51.333530499999995,4.4108719999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kasteel Starrenhof",
-                "link": "https://www.google.com/maps/search/Kasteel+Starrenhof/@51.327956099999994,4.4165065?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4.3,
-                "main_category": "Cheng Bao "
-            }
-        ],
-        "website": "http://www.starrenhof.be/",
-        "owner": {
-            "id": "102252100207871704192",
-            "name": "Cafe Starrenhof (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102252100207871704192"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMY6q-ILMOoCQg8k1fGjFxnQhHoX81zU1n8OXW9=w426-h240-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "12:00-22:00",
-        "closed_on": [
-            "Xing Qi San "
-        ],
-        "phone": "+32 3 430 55 11",
-        "address": "Cafe Starrenhof, Kapelsestraat 59, 2950 Kapellen, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Cai Shi Chang ",
-                "count": 10
-            },
-            {
-                "keyword": "Zhou Ri ",
-                "count": 8
-            },
-            {
-                "keyword": "Zhuang Qiu ",
-                "count": 4
-            },
-            {
-                "keyword": "Yuan Gong ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Starrenhof/data=!4m7!3m6!1s0x47c4093d858f3abf:0x13ae687ccff6ed01!8m2!3d51.327207!4d4.416627!16s%2Fg%2F1tkf03st!19sChIJvzqPhT0JxEcRAe32z3xorhM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ2QgVLKwOxEcRsxPh773WuSI",
         "name": "De Schutter / Greg",
         "description": null,
@@ -1209,7 +1035,7 @@
             {
                 "name": "Bakkerij Wouters - Stabroek",
                 "link": "https://www.google.com/maps/search/Bakkerij+Wouters+-+Stabroek/@51.3325271,4.3657975?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 317,
+                "reviews": 318,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1273,7 +1099,7 @@
             {
                 "name": "Bakkerij Wouters - Stabroek",
                 "link": "https://www.google.com/maps/search/Bakkerij+Wouters+-+Stabroek/@51.3325271,4.3657975?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 317,
+                "reviews": 318,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1313,6 +1139,7 @@
         "rating": 4.6,
         "workday_timing": "05:00-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Wu "
         ],
         "phone": "+32 3 569 03 12",
@@ -1437,7 +1264,7 @@
             {
                 "name": "'T Zwart Schaap",
                 "link": "https://www.google.com/maps/search/%27T+Zwart+Schaap/@51.3331787,4.3683568?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 117,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -1491,7 +1318,7 @@
             {
                 "name": "Bistro De Neus",
                 "link": "https://www.google.com/maps/search/Bistro+De+Neus/@51.3395805,4.3817401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1342,
+                "reviews": 1343,
                 "rating": 4.1,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -1554,63 +1381,6 @@
         "link": "https://www.google.com/maps/place/Den+Buynderdijck/data=!4m7!3m6!1s0x47c409834e908ec9:0xe354bc1f0faab4f3!8m2!3d51.3018982!4d4.3903621!16s%2Fg%2F11bx8j9wwr!19sChIJyY6QToMJxEcR87SqDx-8VOM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ1-0_RgQJxEcRs-1Ui0eZZkw",
-        "name": "Cafe Den Thys",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 110,
-        "competitors": [
-            {
-                "name": "Cafe Volksvriend",
-                "link": "https://www.google.com/maps/search/Cafe+Volksvriend/@51.3115988,4.4233477?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Verli",
-                "link": "https://www.google.com/maps/search/Cafe+Verli/@51.3131807,4.4243572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 55,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Huis ten Halven",
-                "link": "https://www.google.com/maps/search/Huis+ten+Halven/@51.333530499999995,4.4108719999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe 7de Hemel",
-                "link": "https://www.google.com/maps/search/Cafe+7de+Hemel/@51.225943699999995,4.4024354?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 3.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://www.den-thys.be/",
-        "owner": {
-            "id": "118227031887508872945",
-            "name": "Cafe Den Thys (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118227031887508872945"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipML6bxdqsWyHv3bzuCzDm39JDpoBoowQFlg8caj=w408-h329-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.2,
-        "workday_timing": "10:00-23:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": null,
-        "address": "Cafe Den Thys, Hoevensebaan 147, 2950 Kapellen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Den+Thys/data=!4m7!3m6!1s0x47c40904463fedd7:0x4c6699478b54edb3!8m2!3d51.3123364!4d4.4229934!16s%2Fg%2F11bzx3t_7t!19sChIJ1-0_RgQJxEcRs-1Ui0eZZkw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJbdLZQnUJxEcRQFua0haLxa0",
         "name": "Bakkerij Ceuppens",
         "description": null,
@@ -1620,7 +1390,7 @@
             {
                 "name": "Bakkerij Wouters - Stabroek",
                 "link": "https://www.google.com/maps/search/Bakkerij+Wouters+-+Stabroek/@51.3325271,4.3657975?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 317,
+                "reviews": 318,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1689,7 +1459,7 @@
             {
                 "name": "Bakkerij Wouters - Stabroek",
                 "link": "https://www.google.com/maps/search/Bakkerij+Wouters+-+Stabroek/@51.3325271,4.3657975?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 317,
+                "reviews": 318,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1715,7 +1485,7 @@
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
-        "website": "http://www.facebook.com/Braem-1609924729271329/%3Ffref%3Dts",
+        "website": "http://www.facebook.com/Braem-1609924729271329/?fref=ts",
         "owner": {
             "id": "106510466039660446507",
             "name": "Braem (Ye Zhu )",
@@ -1852,8 +1622,7 @@
         "workday_timing": "10:00-18:00",
         "closed_on": [
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+32 476 90 86 00",
         "address": "Tee kompleet, Dorpsstraat 154, 2940 Stabroek, Bi Li Shi ",
@@ -1877,7 +1646,7 @@
             {
                 "name": "Bruynseels Petroleum",
                 "link": "https://www.google.com/maps/search/Bruynseels+Petroleum/@51.3467577,4.3965022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 155,
+                "reviews": 156,
                 "rating": 4.3,
                 "main_category": "You Zhan "
             },
@@ -1969,8 +1738,8 @@
         "rating": 4.9,
         "workday_timing": "09:30-12:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 3 569 18 92",
         "address": "Oxfam-wereldwinkel Stabroek vzw, Dorpsstraat 104, 2940 Stabroek, Bi Li Shi ",
@@ -1981,89 +1750,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Oxfam-wereldwinkel+Stabroek+vzw/data=!4m7!3m6!1s0x47c40be8ce74abe3:0x1576d6e002ea7045!8m2!3d51.3335037!4d4.3691047!16s%2Fg%2F1pxwhys6y!19sChIJ46t0zugLxEcRRXDqAuDWdhU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJKSsfqw8JxEcRJ8Cx0hHWGl0",
-        "name": "Kaffee Krokant",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": "https://www.kaffeekrokant.be/",
-        "owner": {
-            "id": null,
-            "name": "Kaffee Krokant (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOhnav7tXtJ5Q2GYqU4yw-LZpgpulLK3Nn3lhfW=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Kaffee Krokant, Antwerpsesteenweg 39, 2950 Kapellen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Kaffee+Krokant/data=!4m7!3m6!1s0x47c4090fab1f2b29:0x5d1ad611d2b1c027!8m2!3d51.3133356!4d4.4303411!16s%2Fg%2F11vlfrr0qb!19sChIJKSsfqw8JxEcRJ8Cx0hHWGl0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJzX8occAJxEcR4l-gvsLMUk8",
-        "name": "Yolduen Wess Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "cafehetwittepaardputte",
-                "link": "https://www.google.com/maps/search/cafehetwittepaardputte/@51.35604850000001,4.3959107?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 141,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Amai",
-                "link": "https://www.google.com/maps/search/Cafe+Amai/@51.348212499999995,4.399327700000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
-                "rating": 3.9,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Verli",
-                "link": "https://www.google.com/maps/search/Cafe+Verli/@51.3131807,4.4243572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 55,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Lyne Wess Cafe",
-                "link": "https://www.google.com/maps/search/Lyne+Wess+Cafe/@51.2238403,4.4296966?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://yolduen-wess-cafe.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
-        "owner": {
-            "id": null,
-            "name": "Yolduen Wess Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0cAiiUjByjLsdiHgM56qDg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=22.03656&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Yolduen Wess Cafe, Ertbrandstraat 74, 2950 Kapellen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Yolduen+Wess+Cafe/data=!4m7!3m6!1s0x47c409c071287fcd:0x4f52ccc2bea05fe2!8m2!3d51.3477258!4d4.3999285!16s%2Fg%2F11rnzk28sf!19sChIJzX8occAJxEcR4l-gvsLMUk8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJm69cQuoLxEcRaSBy0YOQ2hI",
@@ -2177,7 +1863,7 @@
             {
                 "name": "'T Zwart Schaap",
                 "link": "https://www.google.com/maps/search/%27T+Zwart+Schaap/@51.3331787,4.3683568?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 117,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -2236,7 +1922,7 @@
             {
                 "name": "Taverne Grenszicht",
                 "link": "https://www.google.com/maps/search/Taverne+Grenszicht/@51.3559097,4.3944221?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
+                "reviews": 312,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -2410,71 +2096,6 @@
         "link": "https://www.google.com/maps/place/In+den+Ouden+Bareel/data=!4m7!3m6!1s0x47c4099cc0d714b1:0xe0bf34e058addc4c!8m2!3d51.3028422!4d4.393519!16s%2Fg%2F11dxlgky5n!19sChIJsRTXwJwJxEcRTNytWOA0v-A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJEwydNKkOxEcRLlaV02YLybU",
-        "name": "Afspanning De Croone",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 108,
-        "competitors": [
-            {
-                "name": "'t Koetshuis",
-                "link": "https://www.google.com/maps/search/%E2%80%98t+Koetshuis/@51.354117699999996,4.3861912?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 971,
-                "rating": 4.2,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Bolle & Co",
-                "link": "https://www.google.com/maps/search/Bolle+%26+Co/@51.3285832,4.3562761?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 814,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Taverne Grenszicht",
-                "link": "https://www.google.com/maps/search/Taverne+Grenszicht/@51.3559097,4.3944221?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Den Buynderdijck",
-                "link": "https://www.google.com/maps/search/Den+Buynderdijck/@51.3018982,4.3903621?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
-                "rating": 4.4,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Cafe De Zwaan",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Zwaan/@51.331862799999996,4.365118?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 65,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Afspanning De Croone (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBrhkxfZq7b9eB0MHoSsIcSyKy7l8Up3Os0Lxq=w456-h240-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.4,
-        "workday_timing": "12:00-22:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 3 344 09 04",
-        "address": "Afspanning De Croone, A.C. Swinnesstraat 1, 2940 Stabroek, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Afspanning+De+Croone/data=!4m7!3m6!1s0x47c40ea9349d0c13:0xb5c90b66d395562e!8m2!3d51.3556167!4d4.3938136!16s%2Fg%2F11bzx4k_ft!19sChIJEwydNKkOxEcRLlaV02YLybU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJkcAQfOkLxEcRl36x2HOqQZo",
         "name": "Cafe De Zwaan",
         "description": null,
@@ -2512,7 +2133,7 @@
             {
                 "name": "'T Zwart Schaap",
                 "link": "https://www.google.com/maps/search/%27T+Zwart+Schaap/@51.3331787,4.3683568?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 117,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             }
@@ -2537,175 +2158,6 @@
         "address": "Cafe De Zwaan, Dorpsstraat 40, 2040 Stabroek, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+De+Zwaan/data=!4m7!3m6!1s0x47c40be97c10c091:0x9a41aa73d8b17e97!8m2!3d51.3318628!4d4.365118!16s%2Fg%2F1v44pl67!19sChIJkcAQfOkLxEcRl36x2HOqQZo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJQUiZZAQJxEcR7U6ilkPmYvM",
-        "name": "Cafe Verli",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 55,
-        "competitors": [
-            {
-                "name": "Cafe Starrenhof",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Starrenhof/@51.327206999999994,4.416627?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 222,
-                "rating": 4.1,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Den Thys",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Den+Thys/@51.3123364,4.4229934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 110,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Volksvriend",
-                "link": "https://www.google.com/maps/search/Cafe+Volksvriend/@51.3115988,4.4233477?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Huis ten Halven",
-                "link": "https://www.google.com/maps/search/Huis+ten+Halven/@51.333530499999995,4.4108719999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe Verli (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMT5-QQcdMqP7_ypHSWla3rerRmkq5HdCiv7jYE=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "09:00-01:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+32 3 366 13 69",
-        "address": "Cafe Verli, Hoevensebaan 98, 2950 Kapellen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafe+Verli/data=!4m7!3m6!1s0x47c4090464994841:0xf362e64396a24eed!8m2!3d51.3131807!4d4.4243572!16s%2Fg%2F11c1qwvjl6!19sChIJQUiZZAQJxEcR7U6ilkPmYvM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJDzwjNeoLxEcRtIvORZQBr7A",
-        "name": "'T Krokske Bistro Tearoom",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 20,
-        "competitors": [
-            {
-                "name": "'t Koetshuis",
-                "link": "https://www.google.com/maps/search/%E2%80%98t+Koetshuis/@51.354117699999996,4.3861912?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 971,
-                "rating": 4.2,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Pizza Pasta Brood De Schutter",
-                "link": "https://www.google.com/maps/search/Pizza+Pasta+Brood+De+Schutter/@51.333044799999996,4.3678861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 103,
-                "rating": 4.2,
-                "main_category": "Wu Can "
-            },
-            {
-                "name": "Wendy's Lekkerbekje",
-                "link": "https://www.google.com/maps/search/Wendy%27s+Lekkerbekje/@51.3312738,4.3627244?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
-                "rating": 4.4,
-                "main_category": "San Wen Zhi "
-            },
-            {
-                "name": "Bij Julieke",
-                "link": "https://www.google.com/maps/search/Bij+Julieke/@51.3065856,4.4053049?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
-                "rating": 4.5,
-                "main_category": "San Wen Zhi "
-            },
-            {
-                "name": "Cj's Stabroek - Broodjeszaak en meer",
-                "link": "https://www.google.com/maps/search/Cj%27s+Stabroek+-+Broodjeszaak+en+meer/@51.3319024,4.365204299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 3.9,
-                "main_category": "San Wen Zhi "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "117054561887494254013",
-            "name": "'T Krokske Bistro Tearoom (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117054561887494254013"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPraogRjMGoa8Dbv0SaSkVi6-jG_D3a6rmv3fjb=w408-h608-k-no",
-        "main_category": "San Wen Zhi Dian ",
-        "categories": [
-            "San Wen Zhi Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "05:00-14:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+32 473 20 20 92",
-        "address": "'T Krokske Bistro Tearoom, Dorpsstraat 13, 2940 Stabroek, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%27%27T+Krokske+Bistro+Tearoom%27/data=!4m7!3m6!1s0x47c40bea35233c0f:0xb0af019445ce8bb4!8m2!3d51.3314366!4d4.3633364!16s%2Fg%2F11f5tzcq_h!19sChIJDzwjNeoLxEcRtIvORZQBr7A?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJyYt9afULxEcRsYLyDHJDsLY",
-        "name": "Place Du Pain",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Eetcafe De Molen",
-                "link": "https://www.google.com/maps/search/Eetcaf%C3%A9+De+Molen/@51.3507616,4.3129200999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 269,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe bij Marleen",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+bij+Marleen/@51.304679099999994,4.2897834999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 4.7,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Roxanne Brood & Banket",
-                "link": "https://www.google.com/maps/search/Roxanne+Brood+%26+Banket/@51.345689099999994,4.3215422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Place Du Pain (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OiAjUfJ4ux_YrS_N3cIOmA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.39032&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Place Du Pain, Monnikenhofstraat 68, 2040 Antwerpen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Place+Du+Pain/data=!4m7!3m6!1s0x47c40bf5697d8bc9:0xb6b043720cf282b1!8m2!3d51.3452732!4d4.3196518!16s%2Fg%2F11thsvsq36!19sChIJyYt9afULxEcRsYLyDHJDsLY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJMZPB5z8JxEcRmqEsBW6KbGQ",
@@ -2764,12 +2216,12 @@
         "rating": 5,
         "workday_timing": "21:00-03:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
             "Xing Qi San ",
             "Xing Qi Si ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Jeugdhuis 't Kot, Kerkstraat 89, 2940 Stabroek, Bi Li Shi ",
@@ -2830,53 +2282,5 @@
         "address": "Venfresh Stabroek, 2940 Stabroek, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Venfresh+Stabroek/data=!4m7!3m6!1s0x47c40bea491e8a63:0xcce956271420614b!8m2!3d51.3308438!4d4.3619102!16s%2Fg%2F1hc6crhsf!19sChIJY4oeSeoLxEcRS2EgFCdW6cw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJATMG3QUJxEcRAfY1UCURXiw",
-        "name": "Cafe de Jorres",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe De Barreel",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Barreel/@51.3138874,4.4333363?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 230,
-                "rating": 4.2,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Volksvriend",
-                "link": "https://www.google.com/maps/search/Cafe+Volksvriend/@51.3115988,4.4233477?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Verli",
-                "link": "https://www.google.com/maps/search/Cafe+Verli/@51.3131807,4.4243572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 55,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe de Jorres (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TbPnC287nyWqv0M-f1ZtCA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.36879&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 3 297 34 35",
-        "address": "Cafe de Jorres, Biartlei 1, 2950 Kapellen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+Jorres/data=!4m7!3m6!1s0x47c40905dd063301:0x2c5e11255035f601!8m2!3d51.3117088!4d4.419989!16s%2Fg%2F11bzx5blc1!19sChIJATMG3QUJxEcRAfY1UCURXiw?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

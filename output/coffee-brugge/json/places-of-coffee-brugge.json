@@ -4,12 +4,12 @@
         "name": "De Garre",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2928,
+        "reviews": 2931,
         "competitors": [
             {
                 "name": "Le Trappiste",
                 "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
+                "reviews": 2696,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -30,8 +30,8 @@
             {
                 "name": "@ The Pub",
                 "link": "https://www.google.com/maps/search/%40+The+Pub/@51.2078024,3.2246999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 763,
-                "rating": 4.5,
+                "reviews": 766,
+                "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
             {
@@ -56,7 +56,9 @@
         ],
         "rating": 4.7,
         "workday_timing": "12:00-23:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+32 50 34 10 29",
         "address": "De Garre, 1, 8000 Brugge, Bi Li Shi ",
         "review_keywords": [
@@ -81,11 +83,98 @@
                 "count": 23
             },
             {
+                "keyword": "Pi Jiu Zhong Lei ",
+                "count": 7
+            },
+            {
                 "keyword": "Pao Mo ",
                 "count": 7
             }
         ],
         "link": "https://www.google.com/maps/place/De+Garre/data=!4m7!3m6!1s0x47c350cff8807015:0xc10ac850c0b046cc!8m2!3d51.2083347!4d3.2258407!16s%2Fg%2F121l0wjw!19sChIJFXCA-M9Qw0cRzEawwFDICsE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJz3gDUdBQw0cRsRi0CVeZrhs",
+        "name": "Le Trappiste",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2696,
+        "competitors": [
+            {
+                "name": "De Garre",
+                "link": "https://www.google.com/maps/search/De+Garre/@51.208334699999995,3.2258407?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2927,
+                "rating": 4.7,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "'t Brugs Beertje",
+                "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1757,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "'t Poatersgat",
+                "link": "https://www.google.com/maps/search/%27t+Poatersgat/@51.211852799999996,3.2237332999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1429,
+                "rating": 4.6,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "The Monk",
+                "link": "https://www.google.com/maps/search/The+Monk/@51.211279399999995,3.2239792?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1153,
+                "rating": 4.3,
+                "main_category": "Yun Dong Jiu Ba "
+            },
+            {
+                "name": "Bauhaus Bar",
+                "link": "https://www.google.com/maps/search/Bauhaus+Bar/@51.211900199999995,3.2374684?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 734,
+                "rating": 4.4,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": "http://www.letrappistebrugge.be/",
+        "owner": {
+            "id": "108551372727875539159",
+            "name": "Le Trappiste (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108551372727875539159"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNH_VcgufG5gEgWBeVgPZGCtsL5IrlXUL6knAK=w427-h240-k-no",
+        "main_category": "Jiu Ba ",
+        "categories": [
+            "Jiu Ba ",
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "17:00-00:00",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi San "
+        ],
+        "phone": null,
+        "address": "Le Trappiste, Kuipersstraat 33, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Di Xia Shi ",
+                "count": 138
+            },
+            {
+                "keyword": "Lu You ",
+                "count": 27
+            },
+            {
+                "keyword": "Jian Zhu ",
+                "count": 16
+            },
+            {
+                "keyword": "Pi Jiu Zhong Lei ",
+                "count": 11
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Le+Trappiste/data=!4m7!3m6!1s0x47c350d0510378cf:0x1bae995709b418b1!8m2!3d51.210838!4d3.222809!16s%2Fg%2F1hm5c7hp9!19sChIJz3gDUdBQw0cRsRi0CVeZrhs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJa3RT4dpQw0cRkSAGqGh3-ck",
@@ -182,26 +271,26 @@
         "name": "Le Pain Quotidien",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2135,
+        "reviews": 2136,
         "competitors": [
             {
                 "name": "That's Toast",
                 "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2724,
+                "reviews": 2728,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Sanseveria Bagelsalon",
                 "link": "https://www.google.com/maps/search/Sanseveria+Bagelsalon/@51.2085157,3.2303043?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1580,
+                "reviews": 1582,
                 "rating": 4.6,
                 "main_category": "Mian Bao Quan Dian "
             },
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -215,12 +304,12 @@
             {
                 "name": "'T Eekhoetje",
                 "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
+                "reviews": 522,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             }
         ],
-        "website": "https://www.lepainquotidien.com/be/nl/locations/Simon_Stevin/Simon-Stevinplein-15%3Futm_medium%3Dbusiness-listing%26utm_source%3Dgoogle%26utm_campaign%3Dbusiness-listing%26y_source%3D1_OTQ2MDQ0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+        "website": "https://www.lepainquotidien.com/be/nl/locations/Simon_Stevin/Simon-Stevinplein-15?utm_medium=business-listing&utm_source=google&utm_campaign=business-listing&y_source=1_OTQ2MDQ0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
         "owner": {
             "id": "106009430358563182456",
             "name": "Le Pain Quotidien (Ye Zhu )",
@@ -277,19 +366,19 @@
         "name": "'t Brugs Beertje",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1758,
+        "reviews": 1759,
         "competitors": [
             {
                 "name": "De Garre",
                 "link": "https://www.google.com/maps/search/De+Garre/@51.208334699999995,3.2258407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2924,
+                "reviews": 2927,
                 "rating": 4.7,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Le Trappiste",
                 "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
+                "reviews": 2696,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -303,7 +392,7 @@
             {
                 "name": "Duvelorium Belgian Beer Bar",
                 "link": "https://www.google.com/maps/search/Duvelorium+Belgian+Beer+Bar/@51.2091809,3.224951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 398,
+                "reviews": 399,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -330,6 +419,7 @@
         "rating": 4.7,
         "workday_timing": "16:00-00:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi San "
         ],
         "phone": "+32 50 33 96 16",
@@ -371,14 +461,14 @@
             {
                 "name": "@Tattie's",
                 "link": "https://www.google.com/maps/search/%40Tattie%27s/@51.211760999999996,3.2257336999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 692,
+                "reviews": 695,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -446,19 +536,19 @@
         "name": "Carpe Diem Bakery & Tea-room",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1434,
+        "reviews": 1438,
         "competitors": [
             {
                 "name": "Le Pain Quotidien",
                 "link": "https://www.google.com/maps/search/Le+Pain+Quotidien/@51.2063658,3.2225856?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2134,
+                "reviews": 2135,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Aux Merveilleux De Fred Bruges",
                 "link": "https://www.google.com/maps/search/Aux+Merveilleux+De+Fred+Bruges/@51.2091479,3.2228833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1346,
+                "reviews": 1349,
                 "rating": 4.5,
                 "main_category": "Xi Dian "
             },
@@ -550,7 +640,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 1166,
+        "reviews": 1168,
         "competitors": [
             {
                 "name": "EspressoBar - I Love Coffee",
@@ -658,7 +748,7 @@
             {
                 "name": "The Republic",
                 "link": "https://www.google.com/maps/search/The+Republic/@51.210260100000006,3.2214601000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2514,
+                "reviews": 2515,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -672,7 +762,7 @@
             {
                 "name": "Li O Lait",
                 "link": "https://www.google.com/maps/search/Li+O+Lait/@51.2057609,3.2194206?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 826,
+                "reviews": 828,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -746,19 +836,19 @@
         "name": "Tompouce",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1056,
+        "reviews": 1057,
         "competitors": [
             {
                 "name": "Restaurant Diligence",
                 "link": "https://www.google.com/maps/search/Restaurant+Diligence/@51.209225599999996,3.2278967?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1087,
+                "reviews": 1088,
                 "rating": 4.5,
                 "main_category": "Bi Li Shi Cai "
             },
             {
                 "name": "Delice Brugge",
                 "link": "https://www.google.com/maps/search/D%C3%A9lice+Brugge/@51.201872099999996,3.225014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 736,
+                "reviews": 738,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -772,7 +862,7 @@
             {
                 "name": "PlazaCafe",
                 "link": "https://www.google.com/maps/search/PlazaCaf%C3%A9/@51.2090464,3.2272805?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 239,
+                "reviews": 240,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             }
@@ -832,16 +922,117 @@
         "link": "https://www.google.com/maps/place/Tompouce/data=!4m7!3m6!1s0x47c350cf8e4d12df:0x3fd79e2a9c1485bc!8m2!3d51.2084264!4d3.2262648!16s%2Fg%2F1tfptf41!19sChIJ3xJNjs9Qw0cRvIUUnCqe1z8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJuce3-c9Qw0cRZa4ro-RsAkM",
+        "name": "Opus Latino",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1048,
+        "competitors": [
+            {
+                "name": "Carlito's",
+                "link": "https://www.google.com/maps/search/Carlito%27s/@51.2097366,3.2293070000000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 930,
+                "rating": 4.4,
+                "main_category": "Yi Da Li Cai "
+            },
+            {
+                "name": "Amuni",
+                "link": "https://www.google.com/maps/search/Amun%C3%AC/@51.209365399999996,3.2269330999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 878,
+                "rating": 4.4,
+                "main_category": "Yi Da Li Cai "
+            },
+            {
+                "name": "Mariloup",
+                "link": "https://www.google.com/maps/search/Mariloup/@51.2060497,3.2192941999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 425,
+                "rating": 4.7,
+                "main_category": "Fa Shi Can Ting "
+            },
+            {
+                "name": "Bella Italia Brugge",
+                "link": "https://www.google.com/maps/search/Bella+Italia+Brugge/@51.210999,3.2243522?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 383,
+                "rating": 3.9,
+                "main_category": "Yi Da Li Cai "
+            },
+            {
+                "name": "Wijnbar Est",
+                "link": "https://www.google.com/maps/search/Wijnbar+Est/@51.207507,3.2281359999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 111,
+                "rating": 4.4,
+                "main_category": "Pu Tao Jiu Ba "
+            }
+        ],
+        "website": "http://www.opuslatino.be/",
+        "owner": {
+            "id": "108201992853617712839",
+            "name": "Opus Latino (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108201992853617712839"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoLAQQIJnBZk-xTn04jCc6pfYNyEUIlzQf0-3l=w408-h544-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Jiu Ba ",
+            "Ji Wei Jiu Jiu Ba ",
+            "Ka Pei Dian ",
+            "Xi Ban Ya Xiao Shi Jiu Ba "
+        ],
+        "rating": 4.3,
+        "workday_timing": "11:00-22:00",
+        "closed_on": [
+            "Xing Qi San "
+        ],
+        "phone": "+32 50 34 72 78",
+        "address": "Opus Latino, Burg 15, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Yi Da Li Mian ",
+                "count": 35
+            },
+            {
+                "keyword": "Yun He ",
+                "count": 29
+            },
+            {
+                "keyword": "Pen Quan ",
+                "count": 22
+            },
+            {
+                "keyword": "Bao Shi ",
+                "count": 14
+            },
+            {
+                "keyword": "Nong Tang ",
+                "count": 11
+            },
+            {
+                "keyword": "Song Bing ",
+                "count": 10
+            },
+            {
+                "keyword": "tapas",
+                "count": 8
+            },
+            {
+                "keyword": "Fan Qie Rou Jiang ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Opus+Latino/data=!4m7!3m6!1s0x47c350cff9b7c7b9:0x43026ce4a32bae65!8m2!3d51.2082216!4d3.2263536!16s%2Fg%2F1hdzp0sq5!19sChIJuce3-c9Qw0cRZa4ro-RsAkM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJA1bQ089Qw0cR2KdBiljoChY",
         "name": "Vero Caffe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 860,
+        "reviews": 862,
         "competitors": [
             {
                 "name": "Sanseveria Bagelsalon",
                 "link": "https://www.google.com/maps/search/Sanseveria+Bagelsalon/@51.2085157,3.2303043?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1580,
+                "reviews": 1582,
                 "rating": 4.6,
                 "main_category": "Mian Bao Quan Dian "
             },
@@ -855,7 +1046,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -956,7 +1147,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -1034,16 +1225,113 @@
         "link": "https://www.google.com/maps/place/Li+O+Lait/data=!4m7!3m6!1s0x47c350dbcc46b091:0xca084b6f0bb4db75!8m2!3d51.2057609!4d3.2194206!16s%2Fg%2F11bxwd4y86!19sChIJkbBGzNtQw0cRddu0C29LCMo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJRQZ3h9pQw0cRx4KG4GmQQ7k",
-        "name": "Kottee Kaffee",
+        "place_id": "ChIJV8PkJc5Qw0cRj32hwET4sqY",
+        "name": "@Tattie's",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 659,
+        "reviews": 695,
         "competitors": [
             {
                 "name": "That's Toast",
                 "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2724,
+                "reviews": 2728,
+                "rating": 4.8,
+                "main_category": "Zao Wu Can "
+            },
+            {
+                "name": "Tom's Diner",
+                "link": "https://www.google.com/maps/search/Tom%27s+Diner/@51.214226200000006,3.2244374?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 674,
+                "rating": 4.6,
+                "main_category": "Xiao Can Guan  (Bistro)"
+            },
+            {
+                "name": "'T Eekhoetje",
+                "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 522,
+                "rating": 4.6,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Blackbird",
+                "link": "https://www.google.com/maps/search/Blackbird/@51.2118512,3.2258364?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 459,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Restaurant - Grillhouse -Tearoom Jan van Eyck",
+                "link": "https://www.google.com/maps/search/Restaurant+-+Grillhouse+-Tearoom+Jan+van+Eyck/@51.211388,3.225907?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 165,
+                "rating": 3.7,
+                "main_category": "Bi Li Shi Cai "
+            }
+        ],
+        "website": "http://tattiesbrugge.com/",
+        "owner": {
+            "id": "110408038661801661907",
+            "name": "@Tattie's (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110408038661801661907"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMRQfLx8-9Yzy0_GXNU4L28kgQxJ68hfVxNftx1=w408-h272-k-no",
+        "main_category": "Zao Can Can Ting ",
+        "categories": [
+            "Zao Can Can Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-15:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+32 499 87 88 77",
+        "address": "@Tattie's, Jan van Eyckplein 3, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Song Bing ",
+                "count": 65
+            },
+            {
+                "keyword": "Fu You ",
+                "count": 18
+            },
+            {
+                "keyword": "Pa Ni Ni ",
+                "count": 15
+            },
+            {
+                "keyword": "Bing Sha ",
+                "count": 14
+            },
+            {
+                "keyword": "Jing Ji ",
+                "count": 12
+            },
+            {
+                "keyword": "Bei Guo ",
+                "count": 9
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 8
+            },
+            {
+                "keyword": "Fa Guo Mian Bao ",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%27@Tattie%27s%27/data=!4m7!3m6!1s0x47c350ce25e4c357:0xa6b2f844c0a17d8f!8m2!3d51.211761!4d3.2257337!16s%2Fg%2F1pxwj9qrv!19sChIJV8PkJc5Qw0cRj32hwET4sqY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJRQZ3h9pQw0cRx4KG4GmQQ7k",
+        "name": "Kottee Kaffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 660,
+        "competitors": [
+            {
+                "name": "That's Toast",
+                "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2728,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
             },
@@ -1057,21 +1345,21 @@
             {
                 "name": "Kaffee Kamiel",
                 "link": "https://www.google.com/maps/search/Kaffee+Kamiel/@51.2068096,3.2201052?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 536,
+                "reviews": 537,
                 "rating": 4.4,
                 "main_category": "Wu Can "
             },
             {
                 "name": "'T Eekhoetje",
                 "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
+                "reviews": 522,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Blackbird",
                 "link": "https://www.google.com/maps/search/Blackbird/@51.2118512,3.2258364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 457,
+                "reviews": 459,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             }
@@ -1092,8 +1380,8 @@
         "rating": 4.7,
         "workday_timing": "08:30-17:00",
         "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi San "
         ],
         "phone": "+32 493 53 87 60",
         "address": "Kottee Kaffee, Ezelstraat 68, 8000 Brugge, Bi Li Shi ",
@@ -1142,33 +1430,33 @@
         "name": "Cafe Au Lait",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 654,
+        "reviews": 657,
         "competitors": [
             {
                 "name": "That's Toast",
                 "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2724,
+                "reviews": 2728,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Li O Lait",
                 "link": "https://www.google.com/maps/search/Li+O+Lait/@51.2057609,3.2194206?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 826,
+                "reviews": 828,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Sale et sucre",
                 "link": "https://www.google.com/maps/search/Sal%C3%A9+et+sucr%C3%A9/@51.208624199999996,3.2218199?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 472,
+                "reviews": 473,
                 "rating": 4.5,
                 "main_category": "Cha Yi Guan "
             },
@@ -1195,8 +1483,8 @@
         "rating": 4.1,
         "workday_timing": "09:30-18:00",
         "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi San "
         ],
         "phone": "+32 50 34 45 34",
         "address": "Cafe Au Lait, Noordzandstraat 28, 8000 Brugge, Bi Li Shi ",
@@ -1249,7 +1537,7 @@
             {
                 "name": "Tea Room Laurent",
                 "link": "https://www.google.com/maps/search/Tea+Room+Laurent/@51.2059035,3.2218936?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 787,
+                "reviews": 788,
                 "rating": 2.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1263,7 +1551,7 @@
             {
                 "name": "Sale et sucre",
                 "link": "https://www.google.com/maps/search/Sal%C3%A9+et+sucr%C3%A9/@51.208624199999996,3.2218199?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 472,
+                "reviews": 473,
                 "rating": 4.5,
                 "main_category": "Cha Yi Guan "
             },
@@ -1327,94 +1615,6 @@
         "link": "https://www.google.com/maps/place/Tea-Room+De+Proeverie/data=!4m7!3m6!1s0x47c350c4ad023413:0xdfabd8ff84a364ae!8m2!3d51.2036218!4d3.2246492!16s%2Fg%2F11cn8zn86l!19sChIJEzQCrcRQw0cRrmSjhP_Yq98?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJa5hWa9BQw0cR8gyHOvOCiGY",
-        "name": "Cafe Pick",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 603,
-        "competitors": [
-            {
-                "name": "'t Brugs Beertje",
-                "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "The Vintage",
-                "link": "https://www.google.com/maps/search/The+Vintage/@51.2039708,3.2198149999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 464,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Du Theater - Bruges",
-                "link": "https://www.google.com/maps/search/Cafe+Du+Theater+-+Bruges/@51.210181899999995,3.2234046?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 330,
-                "rating": 3.9,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "volkscafe Sint-Jakobs",
-                "link": "https://www.google.com/maps/search/volkscaf%C3%A9+Sint-Jakobs/@51.211000999999996,3.2210389999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 271,
-                "rating": 4.7,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": "http://www.cafe-pick.be/",
-        "owner": {
-            "id": null,
-            "name": "Cafe Pick (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOS-oLLT0GNYZT8gZy0y9QKiHkp6L90-J0kODc=w493-h240-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4,
-        "workday_timing": "11:00-04:00",
-        "closed_on": "Open All Days",
-        "phone": "+32 476 41 09 90",
-        "address": "Cafe Pick, Eiermarkt 12, 8000 Brugge, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 26
-            },
-            {
-                "keyword": "Wan Shang ",
-                "count": 13
-            },
-            {
-                "keyword": "Ju Hui ",
-                "count": 9
-            },
-            {
-                "keyword": "Ce Suo ",
-                "count": 4
-            },
-            {
-                "keyword": "Yi Da Li Mian ",
-                "count": 4
-            },
-            {
-                "keyword": "Qing Jie ",
-                "count": 4
-            },
-            {
-                "keyword": "Fan Qie Rou Jiang ",
-                "count": 3
-            },
-            {
-                "keyword": "Lin Yu Jian ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Cafe+Pick/data=!4m7!3m6!1s0x47c350d06b56986b:0x668882f33a870cf2!8m2!3d51.2094712!4d3.2236961!16s%2Fg%2F11b6hhk9b1!19sChIJa5hWa9BQw0cR8gyHOvOCiGY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJZy6_d9BQw0cRbdVAv-sB89U",
         "name": "Olivier's Chocolate Shop & Bar",
         "description": "Fu She Lu Tai Ya Zuo De Gu Ya Qiao Ke Li Dian ,Fan Shou Lin Lang Man Mu De Shou Gong Qiao Ke Li . ",
@@ -1424,7 +1624,7 @@
             {
                 "name": "The Old Chocolate House",
                 "link": "https://www.google.com/maps/search/The+Old+Chocolate+House/@51.206075899999995,3.2230583999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2248,
+                "reviews": 2250,
                 "rating": 4.6,
                 "main_category": "Zhu Gu Li Dian "
             },
@@ -1503,53 +1703,97 @@
         "link": "https://www.google.com/maps/place/Olivier%27s+Chocolate+Shop+%26+Bar/data=!4m7!3m6!1s0x47c350d077bf2e67:0xd5f301ebbf40d56d!8m2!3d51.2085664!4d3.2228061!16s%2Fg%2F11btsv14gp!19sChIJZy6_d9BQw0cRbdVAv-sB89U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ-WZXzdtQw0cR9e0xr3Yem6Q",
-        "name": "Gran kaffee de Passage",
+        "place_id": "ChIJJy_4ndlQw0cRP1cMWgm_kK8",
+        "name": "'t Santpoortje",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 538,
-        "competitors": [],
-        "website": "http://www.passagebruges.com/",
+        "reviews": 573,
+        "competitors": [
+            {
+                "name": "'t Pallieterke Brugge",
+                "link": "https://www.google.com/maps/search/%27t+Pallieterke+Brugge/@51.2044344,3.2187943999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 355,
+                "rating": 3.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "De Gulden Spoor",
+                "link": "https://www.google.com/maps/search/De+Gulden+Spoor/@51.2046769,3.2185576?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 196,
+                "rating": 3.3,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Brasserie de Feniks",
+                "link": "https://www.google.com/maps/search/Brasserie+de+Feniks/@51.2060416,3.2179484?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 93,
+                "rating": 3.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Pasta la Vista",
+                "link": "https://www.google.com/maps/search/Pasta+la+Vista/@51.19667640000001,3.2165839999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 53,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://tsantpoortje.be/",
         "owner": {
-            "id": "118275554044076477738",
-            "name": "Gran kaffee de Passage (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118275554044076477738"
+            "id": "115456647269456325408",
+            "name": "'t Santpoortje (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115456647269456325408"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwpPWRzBFi-jgnvSNUzcEQ1QjTI89MxZdsPYWe=w408-h306-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMH_nslm_beLefOTR8mnKLLUUAp2X6OpwRcxw8q=w408-h306-k-no",
         "main_category": "Can Ting ",
         "categories": [
-            "Can Ting "
+            "Can Ting ",
+            "Ka Pei Ting ",
+            "Ye Zong Hui ",
+            "Bo Bing Can Ting "
         ],
-        "rating": 4.5,
-        "workday_timing": "17:30-22:00",
+        "rating": 4.2,
+        "workday_timing": "15:00-06:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi San "
         ],
-        "phone": "+32 50 34 02 32",
-        "address": "Gran kaffee de Passage, Dweersstraat 26, 8000 Brugge, Bi Li Shi ",
+        "phone": "+32 50 33 05 55",
+        "address": "'t Santpoortje, 't Zand 2, 8000 Brugge, Bi Li Shi ",
         "review_keywords": [
             {
+                "keyword": "Ba ",
+                "count": 33
+            },
+            {
+                "keyword": "Pi Sa ",
+                "count": 25
+            },
+            {
+                "keyword": "Yin Le ",
+                "count": 24
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 17
+            },
+            {
                 "keyword": "atmosphere",
-                "count": 22
-            },
-            {
-                "keyword": "Zhu Can ",
-                "count": 14
-            },
-            {
-                "keyword": "Le Pai ",
-                "count": 10
-            },
-            {
-                "keyword": "Ke Le Bing ",
                 "count": 9
             },
             {
-                "keyword": "Lang Man ",
+                "keyword": "Qian Ceng Mian ",
                 "count": 5
+            },
+            {
+                "keyword": "Wan Shang ",
+                "count": 4
+            },
+            {
+                "keyword": "Yi Fen ",
+                "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Gran+kaffee+de+Passage/data=!4m7!3m6!1s0x47c350dbcd5766f9:0xa49b1e76af31edf5!8m2!3d51.2059247!4d3.2193442!16s%2Fg%2F11f57dkl_w!19sChIJ-WZXzdtQw0cR9e0xr3Yem6Q?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/%27%27t+Santpoortje%27/data=!4m7!3m6!1s0x47c350d99df82f27:0xaf90bf095a0c573f!8m2!3d51.2060665!4d3.2174426!16s%2Fg%2F1v1skcq1!19sChIJJy_4ndlQw0cRP1cMWgm_kK8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJfyd1aUdRw0cR9JO0prgFJ8w",
@@ -1568,7 +1812,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -1610,8 +1854,8 @@
         "rating": 4.4,
         "workday_timing": "08:30-17:00",
         "closed_on": [
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Si "
         ],
         "phone": "+32 50 68 66 60",
         "address": "Kaffee Kamiel, Zilverpand 7, 8000 Brugge, Bi Li Shi ",
@@ -1646,6 +1890,113 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Kaffee+Kamiel/data=!4m7!3m6!1s0x47c351476975277f:0xcc2705b8a6b493f4!8m2!3d51.2068096!4d3.2201052!16s%2Fg%2F11h8rbvzb6!19sChIJfyd1aUdRw0cR9JO0prgFJ8w?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9_gVScNQw0cRwk5WhwaYZsQ",
+        "name": "Tonka Tearoom",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 515,
+        "competitors": [
+            {
+                "name": "Balthasar Brugge",
+                "link": "https://www.google.com/maps/search/Balthasar+Brugge/@51.2082376,3.2216663?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 939,
+                "rating": 4.6,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "@Tattie's",
+                "link": "https://www.google.com/maps/search/%40Tattie%27s/@51.211760999999996,3.2257336999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 695,
+                "rating": 4.6,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Kottee Kaffee",
+                "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 659,
+                "rating": 4.7,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Cafe Au Lait",
+                "link": "https://www.google.com/maps/search/Cafe+Au+Lait/@51.2077728,3.2204603?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 654,
+                "rating": 4.1,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "'T Eekhoetje",
+                "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 522,
+                "rating": 4.6,
+                "main_category": "Zao Can "
+            }
+        ],
+        "website": "http://www.tonkatearoom.com/",
+        "owner": {
+            "id": "105832397906157756892",
+            "name": "Tonka Tearoom (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105832397906157756892"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdUga5xTusucL1J5TOr1whDoifR4Em6lweq8mD=w408-h306-k-no",
+        "main_category": "Mei Shi Can Che Dian ",
+        "categories": [
+            "Mei Shi Can Che Dian ",
+            "Zao Can Can Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-17:30",
+        "closed_on": [
+            "Xing Qi Si ",
+            "Xing Qi Wu "
+        ],
+        "phone": "+32 495 20 73 99",
+        "address": "Tonka Tearoom, Walplein 18, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 45
+            },
+            {
+                "keyword": "Song Bing ",
+                "count": 39
+            },
+            {
+                "keyword": "Nai Dong ",
+                "count": 10
+            },
+            {
+                "keyword": "Ke Ke ",
+                "count": 10
+            },
+            {
+                "keyword": "Lu You ",
+                "count": 9
+            },
+            {
+                "keyword": "Xian Pai ",
+                "count": 8
+            },
+            {
+                "keyword": "Ka Pei Ting ",
+                "count": 8
+            },
+            {
+                "keyword": "Tang ",
+                "count": 8
+            },
+            {
+                "keyword": "Jian Dan ",
+                "count": 6
+            },
+            {
+                "keyword": "Cha Dian ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tonka+Tearoom/data=!4m7!3m6!1s0x47c350c34915f8f7:0xc466980687564ec2!8m2!3d51.202108!4d3.2247882!16s%2Fg%2F1pxwqlwm6!19sChIJ9_gVScNQw0cRwk5WhwaYZsQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJb1nwzdFQw0cRBmGPaS1jGvo",
@@ -1767,7 +2118,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -1781,7 +2132,7 @@
             {
                 "name": "Het kleine huis",
                 "link": "https://www.google.com/maps/search/Het+kleine+huis/@51.2029344,3.2246473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 243,
+                "reviews": 244,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             }
@@ -1835,6 +2186,98 @@
         "link": "https://www.google.com/maps/place/Cafe+%E2%80%99t+Klein+Veneti%C3%AB/data=!4m7!3m6!1s0x47c350c576f69d0f:0x7b6b7f928a32925d!8m2!3d51.2074567!4d3.2279464!16s%2Fg%2F11b7y87kf9!19sChIJD532dsVQw0cRXZIyipJ_a3s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJeXcXKM5Qw0cRdWf5RlOvEbc",
+        "name": "Blackbird",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 459,
+        "competitors": [
+            {
+                "name": "Balthasar Brugge",
+                "link": "https://www.google.com/maps/search/Balthasar+Brugge/@51.2082376,3.2216663?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 939,
+                "rating": 4.6,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "@Tattie's",
+                "link": "https://www.google.com/maps/search/%40Tattie%27s/@51.211760999999996,3.2257336999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 695,
+                "rating": 4.6,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Kottee Kaffee",
+                "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 659,
+                "rating": 4.7,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Coffeebar Adriaan",
+                "link": "https://www.google.com/maps/search/Coffeebar+Adriaan/@51.2108078,3.2237238?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 392,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://www.blackbird-bruges.com/",
+        "owner": {
+            "id": "117893365740698310867",
+            "name": "Blackbird (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117893365740698310867"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOW9QWW95Ir-OAAKcQiQ6kxscv0LNRfQEudl92L=w408-h306-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Zao Can Can Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-15:30",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+32 50 34 74 44",
+        "address": "Blackbird, Jan van Eyckplein 7, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 94
+            },
+            {
+                "keyword": "vegan",
+                "count": 57
+            },
+            {
+                "keyword": "Zao Wu Can ",
+                "count": 40
+            },
+            {
+                "keyword": "Bei Guo ",
+                "count": 13
+            },
+            {
+                "keyword": "Dou Fu ",
+                "count": 11
+            },
+            {
+                "keyword": "Xian Pai ",
+                "count": 10
+            },
+            {
+                "keyword": "Chao Dan ",
+                "count": 9
+            },
+            {
+                "keyword": "Shu Shi ",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Blackbird/data=!4m7!3m6!1s0x47c350ce28177779:0xb711af5346f96775!8m2!3d51.2118512!4d3.2258364!16s%2Fg%2F11bx51npf4!19sChIJeXcXKM5Qw0cRdWf5RlOvEbc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJDfcLXmpRw0cRYKLnIJhu69M",
         "name": "Sweet Home Lunch",
         "description": null,
@@ -1844,14 +2287,14 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "'T Eekhoetje",
                 "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
+                "reviews": 522,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
@@ -1885,8 +2328,8 @@
         "rating": 4.5,
         "workday_timing": "08:30-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 50 30 01 30",
         "address": "Sweet Home Lunch, Gistelse Steenweg 482, 8200 Brugge, Bi Li Shi ",
@@ -1934,7 +2377,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -1948,7 +2391,7 @@
             {
                 "name": "Blackbird",
                 "link": "https://www.google.com/maps/search/Blackbird/@51.2118512,3.2258364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 457,
+                "reviews": 459,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             }
@@ -1975,9 +2418,9 @@
         "rating": 4.7,
         "workday_timing": "08:30-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+32 499 83 87 00",
         "address": "Coffeebar Adriaan, Adriaan Willaertstraat 7, 8000 Brugge, Bi Li Shi ",
@@ -2035,21 +2478,21 @@
             {
                 "name": "Vlissinghe",
                 "link": "https://www.google.com/maps/search/Vlissinghe/@51.212993,3.2301487?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1902,
+                "reviews": 1904,
                 "rating": 4.6,
                 "main_category": "Mei Shi Can Che Dian "
             },
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "@Tattie's",
                 "link": "https://www.google.com/maps/search/%40Tattie%27s/@51.211760999999996,3.2257336999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 692,
+                "reviews": 695,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
@@ -2083,6 +2526,7 @@
         "rating": 4.3,
         "workday_timing": "12:00-21:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi San ",
             "Xing Qi Si "
         ],
@@ -2155,7 +2599,7 @@
             {
                 "name": "The Crash",
                 "link": "https://www.google.com/maps/search/The+Crash/@51.2104736,3.2355286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 217,
+                "reviews": 218,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -2220,7 +2664,7 @@
             {
                 "name": "The Republic",
                 "link": "https://www.google.com/maps/search/The+Republic/@51.210260100000006,3.2214601000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2514,
+                "reviews": 2515,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -2309,7 +2753,7 @@
             {
                 "name": "Parrilla",
                 "link": "https://www.google.com/maps/search/Parrilla/@51.2009728,3.2459936?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
+                "reviews": 480,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -2343,9 +2787,9 @@
         "rating": 4.5,
         "workday_timing": "11:30-21:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+32 479 11 39 42",
         "address": "Pistolet, Oude Kortrijkstraat 4, 8310 Brugge, Bi Li Shi ",
@@ -2366,7 +2810,7 @@
         "name": "Go.fre | Belgian Waffles on a Stick",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 323,
+        "reviews": 326,
         "competitors": [
             {
                 "name": "House of waffles",
@@ -2378,14 +2822,14 @@
             {
                 "name": "Chez Albert - Gauffres - Waffles",
                 "link": "https://www.google.com/maps/search/Chez+Albert+-+Gauffres+-+Waffles/@51.2085112,3.2258367999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2212,
+                "reviews": 2214,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Lizzie's Wafels",
                 "link": "https://www.google.com/maps/search/Lizzie%27s+Wafels/@51.2095827,3.2223336?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1150,
+                "reviews": 1151,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -2399,7 +2843,7 @@
             {
                 "name": "I Love Waffles",
                 "link": "https://www.google.com/maps/search/I+Love+Waffles/@51.203413,3.224818?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 254,
+                "reviews": 255,
                 "rating": 4.4,
                 "main_category": "Tian Pin Dian "
             }
@@ -2461,28 +2905,28 @@
             {
                 "name": "That's Toast",
                 "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2724,
+                "reviews": 2728,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "'T Eekhoetje",
                 "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
+                "reviews": 522,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Blackbird",
                 "link": "https://www.google.com/maps/search/Blackbird/@51.2118512,3.2258364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 457,
+                "reviews": 459,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             }
@@ -2552,7 +2996,7 @@
         "name": "Maro Koffie- en Eethuis",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 282,
+        "reviews": 283,
         "competitors": [
             {
                 "name": "Vero Caffe",
@@ -2564,7 +3008,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -2662,7 +3106,7 @@
             {
                 "name": "Le Trappiste",
                 "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
+                "reviews": 2696,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -2690,7 +3134,7 @@
             {
                 "name": "Duvelorium Belgian Beer Bar",
                 "link": "https://www.google.com/maps/search/Duvelorium+Belgian+Beer+Bar/@51.2091809,3.224951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 398,
+                "reviews": 399,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             }
@@ -2708,12 +3152,11 @@
             "Ka Pei Ting "
         ],
         "rating": 4.7,
-        "workday_timing": "10:00-18:30",
+        "workday_timing": "10:00-17:00",
         "closed_on": [
             "Xing Qi Er ",
             "Xing Qi Si ",
-            "Xing Qi Wu ",
-            "Xing Qi Ri "
+            "Xing Qi Wu "
         ],
         "phone": "+32 494 46 61 46",
         "address": "volkscafe Sint-Jakobs, Sint-Jakobsstraat 60, 8000 Brugge, Bi Li Shi ",
@@ -2794,9 +3237,7 @@
         ],
         "rating": 4.2,
         "workday_timing": "09:15-18:00",
-        "closed_on": [
-            "Xing Qi Er "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+32 50 33 09 29",
         "address": "Brazila Coffee Roasters & Tea Brugge, Mallebergplaats 1, 8000 Brugge, Bi Li Shi ",
         "review_keywords": [
@@ -2845,21 +3286,21 @@
             {
                 "name": "That's Toast",
                 "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2724,
+                "reviews": 2728,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "'T Eekhoetje",
                 "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
+                "reviews": 522,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
@@ -2929,7 +3370,7 @@
             {
                 "name": "Le Trappiste",
                 "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
+                "reviews": 2696,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -2950,7 +3391,7 @@
             {
                 "name": "The Crash",
                 "link": "https://www.google.com/maps/search/The+Crash/@51.2104736,3.2355286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 217,
+                "reviews": 218,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -2977,10 +3418,10 @@
         "rating": 4.7,
         "workday_timing": "20:00-03:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi San "
         ],
         "phone": "+32 497 22 03 25",
         "address": "Metalbar Walhalla, Predikherenstraat 35, 8000 Brugge, Bi Li Shi ",
@@ -3010,7 +3451,7 @@
             {
                 "name": "De Garre",
                 "link": "https://www.google.com/maps/search/De+Garre/@51.208334699999995,3.2258407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2924,
+                "reviews": 2927,
                 "rating": 4.7,
                 "main_category": "Jiu Ba "
             },
@@ -3058,9 +3499,9 @@
         "rating": 4.6,
         "workday_timing": "23:59-05:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+32 477 52 51 77",
         "address": "The Crash, Langestraat 78, 8000 Brugge, Bi Li Shi ",
@@ -3077,12 +3518,12 @@
         "name": "De Papil",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 215,
+        "reviews": 216,
         "competitors": [
             {
                 "name": "De Tijl",
                 "link": "https://www.google.com/maps/search/De+Tijl/@51.188449600000006,3.1932959?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 317,
                 "rating": 4.4,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -3125,8 +3566,8 @@
         "rating": 4.5,
         "workday_timing": "11:30-22:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 50 39 53 18",
         "address": "De Papil, Rijselstraat 78, 8200 Brugge, Bi Li Shi ",
@@ -3175,14 +3616,14 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Blackbird",
                 "link": "https://www.google.com/maps/search/Blackbird/@51.2118512,3.2258364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 457,
+                "reviews": 459,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -3268,14 +3709,14 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "'T Eekhoetje",
                 "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
+                "reviews": 522,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
@@ -3317,8 +3758,8 @@
         "rating": 4.7,
         "workday_timing": "08:30-17:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 468 28 45 29",
         "address": "Koffiehuis Ristretto, Moerkerkse Steenweg 136, 8310 Brugge, Bi Li Shi ",
@@ -3348,14 +3789,14 @@
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kaffee Kamiel",
                 "link": "https://www.google.com/maps/search/Kaffee+Kamiel/@51.2068096,3.2201052?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 536,
+                "reviews": 537,
                 "rating": 4.4,
                 "main_category": "Wu Can "
             },
@@ -3733,7 +4174,7 @@
             {
                 "name": "Bayu Brugge",
                 "link": "https://www.google.com/maps/search/Bayu+Brugge/@51.208734799999995,3.2219704?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
+                "reviews": 69,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -3801,19 +4242,19 @@
         "name": "Stoker House (T)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 126,
+        "reviews": 127,
         "competitors": [
             {
                 "name": "Le Trappiste",
                 "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
+                "reviews": 2696,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4067,14 +4508,14 @@
             {
                 "name": "Le Trappiste",
                 "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
+                "reviews": 2696,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4114,9 +4555,9 @@
         "rating": 4.7,
         "workday_timing": "19:00-00:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+32 499 76 46 92",
         "address": "Cafe Barock, Titecastraat 35, 8200 Brugge, Bi Li Shi ",
@@ -4207,109 +4648,13 @@
         "link": "https://www.google.com/maps/place/Javana+koffie+%26+thee+%E2%80%94+Brugge/data=!4m7!3m6!1s0x47c350daa14a27e7:0x6aa2332e9cd8aa34!8m2!3d51.2081796!4d3.2238667!16s%2Fg%2F1pxw3yvtb!19sChIJ5ydKodpQw0cRNKrYnC4zomo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJv-wD1w9Rw0cRgPvHnyB4sG0",
-        "name": "Matubu Coffee Roastery",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 105,
-        "competitors": [
-            {
-                "name": "Coffeebar Adriaan",
-                "link": "https://www.google.com/maps/search/Coffeebar+Adriaan/@51.2108078,3.2237238?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 392,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Brazila Coffee Roasters & Tea Brugge",
-                "link": "https://www.google.com/maps/search/Brazila+Coffee+Roasters+%26+Tea+Brugge/@51.2096893,3.2272765?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Postbar",
-                "link": "https://www.google.com/maps/search/Postbar/@51.210533999999996,3.2356377999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 125,
-                "rating": 4.9,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Javana koffie & thee -- Brugge",
-                "link": "https://www.google.com/maps/search/Javana+koffie+%26+thee+%E2%80%94+Brugge/@51.2081796,3.2238667?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 106,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Bayu Brugge",
-                "link": "https://www.google.com/maps/search/Bayu+Brugge/@51.208734799999995,3.2219704?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://www.coffee-matubu.com/",
-        "owner": {
-            "id": "105990619430281754365",
-            "name": "Matubu Coffee Roastery (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105990619430281754365"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1uzboP_0Aib21nhRYSDMaYRx6hySp1HXCT4Bx=w408-h307-k-no",
-        "main_category": "Ka Pei Hong Bei Shang ",
-        "categories": [
-            "Ka Pei Hong Bei Shang ",
-            "Jiu Ba ",
-            "Pi Jiu Zhuan Mai Dian ",
-            "Ka Pei Ji Gong Ying Shang ",
-            "Wai Dai Ka Pei Zhuan Mai Dian ",
-            "Ka Pei Dian ",
-            "Ka Pei Pi Fa Shang "
-        ],
-        "rating": 5,
-        "workday_timing": "10:00-18:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 475 20 62 36",
-        "address": "Matubu Coffee Roastery, Dorpsplein 17, 8380 Brugge, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Pi Jiu ",
-                "count": 17
-            },
-            {
-                "keyword": "espresso",
-                "count": 8
-            },
-            {
-                "keyword": "Hui Hua ",
-                "count": 5
-            },
-            {
-                "keyword": "Re Qing ",
-                "count": 5
-            },
-            {
-                "keyword": "Jing Yan ",
-                "count": 5
-            },
-            {
-                "keyword": "Li Shi ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Matubu+Coffee+Roastery/data=!4m7!3m6!1s0x47c3510fd703ecbf:0x6db078209fc7fb80!8m2!3d51.2726967!4d3.2245664!16s%2Fg%2F11mv__z2wn!19sChIJv-wD1w9Rw0cRgPvHnyB4sG0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJb4Kp8Z5Rw0cRW7kuyzAvG0I",
         "name": "The Flower Cafe Bruges",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 104,
+        "reviews": 105,
         "competitors": [],
-        "website": "https://instagram.com/theflowercafebruges?igshid=ZDdkNTZiNTM=",
+        "website": "https://instagram.com/theflowercafebruges%3Figshid%3DZDdkNTZiNTM%3D",
         "owner": {
             "id": "109032064402745877043",
             "name": "The Flower Cafe Bruges (Ye Zhu )",
@@ -4371,6 +4716,102 @@
             }
         ],
         "link": "https://www.google.com/maps/place/The+Flower+Cafe+Bruges/data=!4m7!3m6!1s0x47c3519ef1a9826f:0x421b2f30cb2eb95b!8m2!3d51.2097007!4d3.226967!16s%2Fg%2F11t5jj44xq!19sChIJb4Kp8Z5Rw0cRW7kuyzAvG0I?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJv-wD1w9Rw0cRgPvHnyB4sG0",
+        "name": "Matubu Coffee Roastery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 105,
+        "competitors": [
+            {
+                "name": "Coffeebar Adriaan",
+                "link": "https://www.google.com/maps/search/Coffeebar+Adriaan/@51.2108078,3.2237238?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 392,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Brazila Coffee Roasters & Tea Brugge",
+                "link": "https://www.google.com/maps/search/Brazila+Coffee+Roasters+%26+Tea+Brugge/@51.2096893,3.2272765?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 266,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Postbar",
+                "link": "https://www.google.com/maps/search/Postbar/@51.210533999999996,3.2356377999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Javana koffie & thee -- Brugge",
+                "link": "https://www.google.com/maps/search/Javana+koffie+%26+thee+%E2%80%94+Brugge/@51.2081796,3.2238667?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 106,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Bayu Brugge",
+                "link": "https://www.google.com/maps/search/Bayu+Brugge/@51.208734799999995,3.2219704?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 69,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.coffee-matubu.com/",
+        "owner": {
+            "id": "105990619430281754365",
+            "name": "Matubu Coffee Roastery (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105990619430281754365"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1uzboP_0Aib21nhRYSDMaYRx6hySp1HXCT4Bx=w408-h307-k-no",
+        "main_category": "Ka Pei Hong Bei Shang ",
+        "categories": [
+            "Ka Pei Hong Bei Shang ",
+            "Jiu Ba ",
+            "Pi Jiu Zhuan Mai Dian ",
+            "Ka Pei Ji Gong Ying Shang ",
+            "Wai Dai Ka Pei Zhuan Mai Dian ",
+            "Ka Pei Dian ",
+            "Ka Pei Pi Fa Shang "
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+32 475 20 62 36",
+        "address": "Matubu Coffee Roastery, Dorpsplein 17, 8380 Brugge, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Pi Jiu ",
+                "count": 17
+            },
+            {
+                "keyword": "espresso",
+                "count": 8
+            },
+            {
+                "keyword": "Hui Hua ",
+                "count": 5
+            },
+            {
+                "keyword": "Re Qing ",
+                "count": 5
+            },
+            {
+                "keyword": "Jing Yan ",
+                "count": 5
+            },
+            {
+                "keyword": "Li Shi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Matubu+Coffee+Roastery/data=!4m7!3m6!1s0x47c3510fd703ecbf:0x6db078209fc7fb80!8m2!3d51.2726967!4d3.2245664!16s%2Fg%2F11mv__z2wn!19sChIJv-wD1w9Rw0cRgPvHnyB4sG0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK5CaPG7i1q4RCH5zVhmMiN4",
@@ -4475,7 +4916,7 @@
             {
                 "name": "Tea Room Laurent",
                 "link": "https://www.google.com/maps/search/Tea+Room+Laurent/@51.2059035,3.2218936?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 787,
+                "reviews": 788,
                 "rating": 2.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -4571,71 +5012,6 @@
         "link": "https://www.google.com/maps/place/Tea-Rex+Brugge/data=!4m7!3m6!1s0x47c351049fa7c04f:0xde8479216a035f3e!8m2!3d51.2082183!4d3.2262567!16s%2Fg%2F11jt74lfz3!19sChIJT8CnnwRRw0cRPl8DaiF5hN4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJeQ07Kc9Rw0cREDhHutApdu0",
-        "name": "PerronGeluk",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 85,
-        "competitors": [
-            {
-                "name": "Vero Caffe",
-                "link": "https://www.google.com/maps/search/Vero+Caff%C3%A8/@51.210729699999995,3.2256923000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 858,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe-Cafe",
-                "link": "https://www.google.com/maps/search/Cafe-Cafe/@51.2025553,3.2258158?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 719,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tea-Room De Proeverie",
-                "link": "https://www.google.com/maps/search/Tea-Room+De+Proeverie/@51.2036218,3.2246492?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 633,
-                "rating": 4.5,
-                "main_category": "Cha Yi Guan "
-            },
-            {
-                "name": "Baron Ruzette",
-                "link": "https://www.google.com/maps/search/Baron+Ruzette/@51.1998225,3.2296814?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 290,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Brugs Hof",
-                "link": "https://www.google.com/maps/search/Brugs+Hof/@51.1999074,3.2290069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://cafe-perrongeluk.business.site/",
-        "owner": {
-            "id": "100441151500500995733",
-            "name": "PerronGeluk (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100441151500500995733"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMVQULmeOfL2UpzOpE63hRq3w3FJvO4YgA0MaIY=w408-h299-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.6,
-        "workday_timing": "10:00-20:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 473 49 08 39",
-        "address": "PerronGeluk, Spoorwegstraat 234, 8200 Brugge, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PerronGeluk/data=!4m7!3m6!1s0x47c351cf293b0d79:0xed7629d0ba473810!8m2!3d51.1844152!4d3.2238315!16s%2Fg%2F11ghlkhsds!19sChIJeQ07Kc9Rw0cREDhHutApdu0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJY37YyMlQw0cRjaA6EFKmH5I",
         "name": "tspelopdewagen vzw",
         "description": null,
@@ -4645,7 +5021,7 @@
             {
                 "name": "Verbrugghe Neverland",
                 "link": "https://www.google.com/maps/search/Verbrugghe+Neverland/@51.22873980000001,3.2065307?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 760,
+                "reviews": 762,
                 "rating": 4.5,
                 "main_category": "Wan Ju Mo Xing Dian "
             },
@@ -4732,7 +5108,7 @@
         "name": "Bayu Brugge",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 69,
+        "reviews": 70,
         "competitors": [
             {
                 "name": "Vero Caffe",
@@ -4744,14 +5120,14 @@
             {
                 "name": "Li O Lait",
                 "link": "https://www.google.com/maps/search/Li+O+Lait/@51.2057609,3.2194206?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 826,
+                "reviews": 828,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Blackbird",
                 "link": "https://www.google.com/maps/search/Blackbird/@51.2118512,3.2258364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 457,
+                "reviews": 459,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -4881,8 +5257,8 @@
         "rating": 4.6,
         "workday_timing": "08:00-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "FlavouRRs Brugge station, Stationsplein 5, 8000 Brugge, Bi Li Shi ",
@@ -4972,7 +5348,7 @@
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -5010,7 +5386,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.6,
-        "workday_timing": "12:00-18:00",
+        "workday_timing": "13:00-00:00",
         "closed_on": [
             "Xing Qi Yi "
         ],
@@ -5034,7 +5410,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -5080,9 +5456,7 @@
         ],
         "rating": 4.6,
         "workday_timing": "07:30-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+32 478 57 49 91",
         "address": "'t Staelyzer, Gentpoortstraat 2, 8000 Brugge, Bi Li Shi ",
         "review_keywords": [
@@ -5096,6 +5470,53 @@
             }
         ],
         "link": "https://www.google.com/maps/place/%27%27t+Staelyzer%27/data=!4m7!3m6!1s0x47c350c6968ccb17:0x1a017d41e2cc6c02!8m2!3d51.204398!4d3.2316182!16s%2Fg%2F11hcj3nn6d!19sChIJF8uMlsZQw0cRAmzM4kF9ARo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJDRCGcghRw0cRkFpcab221jg",
+        "name": "Gong cha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "competitors": [],
+        "website": "https://www.gongcha.be/",
+        "owner": {
+            "id": "112343302672203584857",
+            "name": "Gong cha (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112343302672203584857"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMIm5_Gh_IOplZxm7l3wk4gr_SPeHfT0WSvLJsR=w408-h544-k-no",
+        "main_category": "Zhen Zhu Nai Cha Dian ",
+        "categories": [
+            "Zhen Zhu Nai Cha Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "11:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Gong cha, Steenstraat 14, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 7
+            },
+            {
+                "keyword": "Jing Yan ",
+                "count": 4
+            },
+            {
+                "keyword": "Yu Tou ",
+                "count": 4
+            },
+            {
+                "keyword": "Xiao Rong ",
+                "count": 3
+            },
+            {
+                "keyword": "Shui ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Gong+cha/data=!4m7!3m6!1s0x47c351087286100d:0x38d6b6bd695c5a90!8m2!3d51.2081107!4d3.2236632!16s%2Fg%2F11t_cszjqj!19sChIJDRCGcghRw0cRkFpcab221jg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJWeIILSFRw0cRD_LmoLTqESc",
@@ -5159,7 +5580,7 @@
         "name": "Bruno Foodcorner Brugge",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 55,
+        "reviews": 56,
         "competitors": [
             {
                 "name": "Starbucks",
@@ -5185,7 +5606,7 @@
             {
                 "name": "Pasta-Gusto",
                 "link": "https://www.google.com/maps/search/Pasta-Gusto/@51.1976084,3.2193049?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 265,
+                "reviews": 266,
                 "rating": 3.2,
                 "main_category": "Yi Da Li Cai "
             },
@@ -5210,7 +5631,7 @@
             "Ka Pei Dian ",
             "San Wen Zhi Dian "
         ],
-        "rating": 3.8,
+        "rating": 3.7,
         "workday_timing": "05:00-22:00",
         "closed_on": "Open All Days",
         "phone": "+32 50 94 65 61",
@@ -5241,14 +5662,14 @@
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "The Crash",
                 "link": "https://www.google.com/maps/search/The+Crash/@51.2104736,3.2355286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 217,
+                "reviews": 218,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -5288,9 +5709,9 @@
         "rating": 4.7,
         "workday_timing": "13:00-18:30",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+32 494 85 73 95",
         "address": "Brocante Cafe, Langestraat 57, 8000 Brugge, Bi Li Shi ",
@@ -5314,7 +5735,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -5354,8 +5775,7 @@
         "rating": 4.8,
         "workday_timing": "10:00-17:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Yi "
         ],
         "phone": "+32 50 73 32 12",
         "address": "Les Coquettes Le Cafe, Braambergstraat 12 a, 8000 Brugge, Bi Li Shi ",
@@ -5407,6 +5827,61 @@
         "link": "https://www.google.com/maps/place/IzyCoffee+Brugge/data=!4m7!3m6!1s0x47c351a556434ef9:0x772d675cc6fb1190!8m2!3d51.206333!4d3.2214753!16s%2Fg%2F11vkkpkmst!19sChIJ-U5DVqVRw0cRkBH7xlxnLXc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJbb-IPtRQw0cRrkQncYp6P1k",
+        "name": "'t Fortuintje",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "competitors": [
+            {
+                "name": "L'Estaminet",
+                "link": "https://www.google.com/maps/search/L%27Estaminet/@51.207246399999995,3.2301748?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1165,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe 't Klein Venetie",
+                "link": "https://www.google.com/maps/search/Cafe+%E2%80%99t+Klein+Veneti%C3%AB/@51.207456699999994,3.2279464?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 469,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Terrastje",
+                "link": "https://www.google.com/maps/search/Cafe+Terrastje/@51.2131818,3.2284056999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 366,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "'t Fonteintje",
+                "link": "https://www.google.com/maps/search/%27t+Fonteintje/@51.2064338,3.2232708?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 328,
+                "rating": 3.6,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/82663",
+        "owner": {
+            "id": "102327570341956187012",
+            "name": "'t Fortuintje (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102327570341956187012"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuAfTMiThIrfaTgQFJVyW45v_KtLmabyjjzZhQ=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 473 24 29 24",
+        "address": "'t Fortuintje, Klaverstraat 27, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%27%27t+Fortuintje%27/data=!4m7!3m6!1s0x47c350d43e88bf6d:0x593f7a8a712744ae!8m2!3d51.2148953!4d3.2179593!16s%2Fg%2F11bzx4mncl!19sChIJbb-IPtRQw0cRrkQncYp6P1k?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJneeaQNBQw0cRMK0HDSz_RLQ",
         "name": "Cafe Marcel",
         "description": null,
@@ -5423,7 +5898,7 @@
             {
                 "name": "Tea Room Laurent",
                 "link": "https://www.google.com/maps/search/Tea+Room+Laurent/@51.2059035,3.2218936?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 787,
+                "reviews": 788,
                 "rating": 2.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -5474,59 +5949,30 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Marcel/data=!4m7!3m6!1s0x47c350d0409ae79d:0xb444ff2c0d07ad30!8m2!3d51.2098583!4d3.2235719!16s%2Fg%2F11b7qt9cjr!19sChIJneeaQNBQw0cRMK0HDSz_RLQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJbb-IPtRQw0cRrkQncYp6P1k",
-        "name": "'t Fortuintje",
+        "place_id": "ChIJUZ9EA_ZRw0cRA44ZVK6qwZg",
+        "name": "8tea5 Bruges",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 27,
-        "competitors": [
-            {
-                "name": "L'Estaminet",
-                "link": "https://www.google.com/maps/search/L%27Estaminet/@51.207246399999995,3.2301748?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe 't Klein Venetie",
-                "link": "https://www.google.com/maps/search/Cafe+%E2%80%99t+Klein+Veneti%C3%AB/@51.207456699999994,3.2279464?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 469,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Terrastje",
-                "link": "https://www.google.com/maps/search/Cafe+Terrastje/@51.2131818,3.2284056999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "'t Fonteintje",
-                "link": "https://www.google.com/maps/search/%27t+Fonteintje/@51.2064338,3.2232708?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 328,
-                "rating": 3.6,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/82663",
+        "reviews": 23,
+        "competitors": [],
+        "website": "https://www.8tea5.com/",
         "owner": {
-            "id": "102327570341956187012",
-            "name": "'t Fortuintje (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102327570341956187012"
+            "id": "106919418132660157014",
+            "name": "8tea5 Bruges (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106919418132660157014"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuAfTMiThIrfaTgQFJVyW45v_KtLmabyjjzZhQ=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3bwv_VJ5FSYh3N0t3hJnVhyKj9stLknP_Yn9B=w408-h306-k-no",
+        "main_category": "Zhen Zhu Nai Cha Dian ",
         "categories": [
-            "Ka Pei Ting "
+            "Zhen Zhu Nai Cha Dian "
         ],
-        "rating": 4.6,
-        "workday_timing": null,
+        "rating": 4.7,
+        "workday_timing": "12:00-19:00",
         "closed_on": "Open All Days",
-        "phone": "+32 473 24 29 24",
-        "address": "'t Fortuintje, Klaverstraat 27, 8000 Brugge, Bi Li Shi ",
+        "phone": "+32 485 21 52 68",
+        "address": "8tea5 Bruges, Sint-Jakobsstraat 14, 8000 Brugge, Bi Li Shi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%27%27t+Fortuintje%27/data=!4m7!3m6!1s0x47c350d43e88bf6d:0x593f7a8a712744ae!8m2!3d51.2148953!4d3.2179593!16s%2Fg%2F11bzx4mncl!19sChIJbb-IPtRQw0cRrkQncYp6P1k?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/8tea5+Bruges/data=!4m7!3m6!1s0x47c351f603449f51:0x98c1aaae54198e03!8m2!3d51.2095603!4d3.2224036!16s%2Fg%2F11kqr_8ysb!19sChIJUZ9EA_ZRw0cRA44ZVK6qwZg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJUcHeqWtRw0cROPih4ecDqPQ",
@@ -5566,7 +6012,7 @@
             {
                 "name": "Vlissinghe",
                 "link": "https://www.google.com/maps/search/Vlissinghe/@51.212993,3.2301487?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1902,
+                "reviews": 1904,
                 "rating": 4.6,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -5668,9 +6114,9 @@
         "rating": 5,
         "workday_timing": "11:00-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": null,
         "address": "4tea4coffee, Hoogstraat 44, 8000 Brugge, Bi Li Shi ",
@@ -5700,7 +6146,7 @@
             {
                 "name": "The Republic",
                 "link": "https://www.google.com/maps/search/The+Republic/@51.210260100000006,3.2214601000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2514,
+                "reviews": 2515,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -5747,8 +6193,8 @@
         "rating": 4.9,
         "workday_timing": "13:30-17:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 50 33 02 70",
         "address": "Kopje Troost, Biskajersplein 2, 8000 Brugge, Bi Li Shi ",
@@ -5783,32 +6229,6 @@
         "address": "We Are Coffee Makers, Sint-Jakobsstraat 36, 8000 Brugge, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/We+Are+Coffee+Makers/data=!4m7!3m6!1s0x47c35129ea5de465:0x7759f6d1f67ce3aa!8m2!3d51.2102526!4d3.2214071!16s%2Fg%2F11l6m5dg4n!19sChIJZeRd6ilRw0cRquN89tH2WXc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJR8rx2x1Rw0cRwbjjKGMJPzk",
-        "name": "Brugse boontjes",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": "https://www.brugseboontjes.com/",
-        "owner": {
-            "id": "103595543663277169920",
-            "name": "Brugse boontjes (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103595543663277169920"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CGKhxriKSOHh0Q5Uo-ZD1w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=312.9725&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Brugse boontjes, Gistelse Steenweg 32, 8200 Bruges, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Brugse+boontjes/data=!4m7!3m6!1s0x47c3511ddbf1ca47:0x393f096328e3b8c1!8m2!3d51.2038709!4d3.2084448!16s%2Fg%2F11txrnmv27!19sChIJR8rx2x1Rw0cRwbjjKGMJPzk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK9Ah6UBRw0cRUR-kQPg-IGA",
@@ -5899,69 +6319,13 @@
         "rating": 4,
         "workday_timing": "08:30-17:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 468 28 45 29",
         "address": "Pittery Klaas, Moerkerkse Steenweg 136, 8310 Brugge, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Pittery+Klaas/data=!4m7!3m6!1s0x47dcb3394a404703:0xb6ab15c1ac970d8f!8m2!3d51.2137438!4d3.2476949!16s%2Fg%2F11c6y_rd1w!19sChIJA0dASjmz3EcRjw2XrMEVq7Y?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJZQSseWdRw0cR2QMCNjVX5xE",
-        "name": "Riks Koffie & Thee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Brazila Coffee Roasters & Tea Brugge",
-                "link": "https://www.google.com/maps/search/Brazila+Coffee+Roasters+%26+Tea+Brugge/@51.2096893,3.2272765?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Het Brugs Theehuis",
-                "link": "https://www.google.com/maps/search/Het+Brugs+Theehuis/@51.2076814,3.2258215999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 175,
-                "rating": 4.7,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Javana koffie & thee -- Brugge",
-                "link": "https://www.google.com/maps/search/Javana+koffie+%26+thee+%E2%80%94+Brugge/@51.2081796,3.2238667?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 106,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Dees Koffiebranders - Brugge",
-                "link": "https://www.google.com/maps/search/Dees+Koffiebranders+-+Brugge/@51.210542399999994,3.2356349?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 5,
-                "main_category": "Ka Pei Hong Bei Shang "
-            }
-        ],
-        "website": "https://www.rikskoffieenthee.be/",
-        "owner": {
-            "id": "118093628200803075943",
-            "name": "Riks Koffie & Thee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118093628200803075943"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZtEKhNGzi7hhuW4EsDTAwg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=256.63672&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Hong Bei Shang ",
-        "categories": [
-            "Ka Pei Hong Bei Shang ",
-            "Cha Xie Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 476 21 56 81",
-        "address": "Riks Koffie & Thee, Ten Briele 14/8, 8200 Brugge, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Riks+Koffie+%26+Thee/data=!4m7!3m6!1s0x47c3516779ac0465:0x11e75735360203d9!8m2!3d51.1866452!4d3.2309794!16s%2Fg%2F11grty0gg3!19sChIJZQSseWdRw0cR2QMCNjVX5xE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJmSVc79BQw0cRDdYYhihSj2U",
@@ -5973,7 +6337,7 @@
             {
                 "name": "The Republic",
                 "link": "https://www.google.com/maps/search/The+Republic/@51.210260100000006,3.2214601000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2514,
+                "reviews": 2515,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -6028,7 +6392,7 @@
             {
                 "name": "Waffle Bar Brugge",
                 "link": "https://www.google.com/maps/search/Waffle+Bar+Brugge/@51.207396499999994,3.2281902?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 492,
+                "reviews": 498,
                 "rating": 4.7,
                 "main_category": "Wholesale food nonfood"
             },
@@ -6147,19 +6511,19 @@
         "name": "L'Estaminet",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1165,
+        "reviews": 1167,
         "competitors": [
             {
                 "name": "That's Toast",
                 "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2724,
+                "reviews": 2728,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -6245,12 +6609,12 @@
         "name": "Tea Room Laurent",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 789,
+        "reviews": 790,
         "competitors": [
             {
                 "name": "Carpe Diem Bakery & Tea-room",
                 "link": "https://www.google.com/maps/search/Carpe+Diem+Bakery+%26+Tea-room/@51.2023,3.2253277999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1427,
+                "reviews": 1430,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -6278,7 +6642,7 @@
             {
                 "name": "Sale et sucre",
                 "link": "https://www.google.com/maps/search/Sal%C3%A9+et+sucr%C3%A9/@51.208624199999996,3.2218199?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 472,
+                "reviews": 473,
                 "rating": 4.5,
                 "main_category": "Cha Yi Guan "
             }
@@ -6334,128 +6698,44 @@
         "link": "https://www.google.com/maps/place/Tea+Room+Laurent/data=!4m7!3m6!1s0x47c350da543f41d7:0xa311c8a698dabd6c!8m2!3d51.2059035!4d3.2218936!16s%2Fg%2F11bv6pg6m2!19sChIJ10E_VNpQw0cRbL3amKbIEaM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJt9fqbtBQw0cRRQ8hQJBWgEU",
-        "name": "Le Grand Cafe Belfort",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 771,
-        "competitors": [
-            {
-                "name": "Craenenburg",
-                "link": "https://www.google.com/maps/search/Craenenburg/@51.208655,3.2237199?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1002,
-                "rating": 3.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "La Taverne Brugeoise",
-                "link": "https://www.google.com/maps/search/La+Taverne+Brugeoise/@51.2092483,3.2239142999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 769,
-                "rating": 1.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Gran kaffee de Passage",
-                "link": "https://www.google.com/maps/search/Gran+kaffee+de+Passage/@51.2059247,3.2193441999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 536,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "De Carre",
-                "link": "https://www.google.com/maps/search/De+Carr%C3%A9/@51.2091563,3.2238208?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 438,
-                "rating": 3.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe Francais",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Fran%C3%A7ais/@51.20906900000001,3.223579?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 259,
-                "rating": 2.4,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Le Grand Cafe Belfort (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM4k6kIrGaaOfIN9_1pz3tVL5X1AhlpyYTyZwmn=w408-h408-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting ",
-            "Bi Li Shi Can Ting "
-        ],
-        "rating": 2.5,
-        "workday_timing": "09:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+32 50 33 22 62",
-        "address": "Le Grand Cafe Belfort, Markt 25, 8000 Brugge, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Song Bing ",
-                "count": 35
-            },
-            {
-                "keyword": "Yi Dao Cai ",
-                "count": 19
-            },
-            {
-                "keyword": "Dan Cai ",
-                "count": 15
-            },
-            {
-                "keyword": "Leng ",
-                "count": 11
-            },
-            {
-                "keyword": "Guang Chang ",
-                "count": 9
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Le+Grand+Cafe+Belfort/data=!4m7!3m6!1s0x47c350d06eead7b7:0x4580569040210f45!8m2!3d51.2091078!4d3.2236617!16s%2Fg%2F1tgx5ry3!19sChIJt9fqbtBQw0cRRQ8hQJBWgEU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ3ZQXRsNQw0cRbSHBZB6c2xM",
         "name": "Bieratelier Brugge",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 725,
+        "reviews": 726,
         "competitors": [
             {
                 "name": "Cambrinus",
                 "link": "https://www.google.com/maps/search/Cambrinus/@51.209595199999995,3.2261623999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5630,
+                "reviews": 5636,
                 "rating": 4.4,
                 "main_category": "Fa Shi Can Ting "
             },
             {
                 "name": "De Garre",
                 "link": "https://www.google.com/maps/search/De+Garre/@51.208334699999995,3.2258407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2924,
+                "reviews": 2927,
                 "rating": 4.7,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Le Trappiste",
                 "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
+                "reviews": 2696,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bierpaleis",
                 "link": "https://www.google.com/maps/search/Bierpaleis/@51.203317999999996,3.2250908?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 546,
+                "reviews": 547,
                 "rating": 4.4,
                 "main_category": "Pi Jiu Hua Yuan "
             }
@@ -6518,12 +6798,12 @@
         "name": "Cafe-Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 721,
+        "reviews": 722,
         "competitors": [
             {
                 "name": "Sanseveria Bagelsalon",
                 "link": "https://www.google.com/maps/search/Sanseveria+Bagelsalon/@51.2085157,3.2303043?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1580,
+                "reviews": 1582,
                 "rating": 4.6,
                 "main_category": "Mian Bao Quan Dian "
             },
@@ -6544,7 +6824,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -6605,77 +6885,6 @@
         "link": "https://www.google.com/maps/place/Cafe-Cafe/data=!4m7!3m6!1s0x47c350c35d056751:0xfc7367b2c4e6ceaa!8m2!3d51.2025553!4d3.2258158!16s%2Fg%2F1pxw3k789!19sChIJUWcFXcNQw0cRqs7mxLJnc_w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJTfPs7ttQw0cRzXZ4KR9g2Lw",
-        "name": "De Zandloper Brugge",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 547,
-        "competitors": [
-            {
-                "name": "Le Trappiste",
-                "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "'t Santpoortje",
-                "link": "https://www.google.com/maps/search/%27t+Santpoortje/@51.2060665,3.2174426?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 572,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "De Gulden Spoor",
-                "link": "https://www.google.com/maps/search/De+Gulden+Spoor/@51.2046769,3.2185576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 196,
-                "rating": 3.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "The Green",
-                "link": "https://www.google.com/maps/search/The+Green/@51.2046017,3.2186291?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 72,
-                "rating": 3.5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "100145387258902804804",
-            "name": "De Zandloper Brugge (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100145387258902804804"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpelVOW34aL3eUk9cRTDTIQdkgJhU-bsoPTAM6=w408-h544-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.2,
-        "workday_timing": "10:00-19:30",
-        "closed_on": [
-            "Xing Qi Si "
-        ],
-        "phone": "+32 497 36 46 29",
-        "address": "De Zandloper Brugge, 't Zand 33, 8000 Brugge, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 11
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 8
-            },
-            {
-                "keyword": "atmosphere",
-                "count": 7
-            }
-        ],
-        "link": "https://www.google.com/maps/place/De+Zandloper+Brugge/data=!4m7!3m6!1s0x47c350dbeeecf34d:0xbcd8601f297876cd!8m2!3d51.204174!4d3.2195507!16s%2Fg%2F1trqgcdj!19sChIJTfPs7ttQw0cRzXZ4KR9g2Lw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ_1HDjmlRw0cRfRDElDhnPMI",
         "name": "the Comptoir",
         "description": null,
@@ -6731,7 +6940,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "09:00-01:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
+        ],
         "phone": "+32 469 19 66 45",
         "address": "the Comptoir, Gistelse Steenweg 536, 8200 Brugge, Bi Li Shi ",
         "review_keywords": [
@@ -6759,97 +6971,6 @@
         "link": "https://www.google.com/maps/place/the+Comptoir/data=!4m7!3m6!1s0x47c351698ec351ff:0xc23c673894c4107d!8m2!3d51.1973695!4d3.1800941!16s%2Fg%2F11b6n_y_1p!19sChIJ_1HDjmlRw0cRfRDElDhnPMI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJjXsWgcVQw0cR179uNuFXZHQ",
-        "name": "Hollandse Vismijn",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 513,
-        "competitors": [
-            {
-                "name": "Vlissinghe",
-                "link": "https://www.google.com/maps/search/Vlissinghe/@51.212993,3.2301487?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1902,
-                "rating": 4.6,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Old Bruges",
-                "link": "https://www.google.com/maps/search/Old+Bruges/@51.2076114,3.2282406999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 735,
-                "rating": 2.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "The Vintage",
-                "link": "https://www.google.com/maps/search/The+Vintage/@51.2039708,3.2198149999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 464,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Duvelorium Belgian Beer Bar",
-                "link": "https://www.google.com/maps/search/Duvelorium+Belgian+Beer+Bar/@51.2091809,3.224951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 398,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "volkscafe Sint-Jakobs",
-                "link": "https://www.google.com/maps/search/volkscaf%C3%A9+Sint-Jakobs/@51.211000999999996,3.2210389999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 271,
-                "rating": 4.7,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "101352863726575760688",
-            "name": "Hollandse Vismijn (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101352863726575760688"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDFO0BX0_B88EuT6gxUmcVSdqCksg-B6sefJYX=w408-h272-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": "08:00-02:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 50 33 33 01",
-        "address": "Hollandse Vismijn, Vismarkt 4, 8000 Brugge, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 41
-            },
-            {
-                "keyword": "atmosphere",
-                "count": 12
-            },
-            {
-                "keyword": "Lu You ",
-                "count": 9
-            },
-            {
-                "keyword": "Dian Shi ",
-                "count": 6
-            },
-            {
-                "keyword": "Min Zhu ",
-                "count": 4
-            },
-            {
-                "keyword": "Shi Zhong Xin ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Hollandse+Vismijn/data=!4m7!3m6!1s0x47c350c581167b8d:0x746457e1366ebfd7!8m2!3d51.2079612!4d3.2287072!16s%2Fg%2F1tcvh77c!19sChIJjXsWgcVQw0cR179uNuFXZHQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJO5OfgdBQw0cRDSm_by7u8Bw",
         "name": "Sale et sucre",
         "description": null,
@@ -6859,14 +6980,14 @@
             {
                 "name": "Sanseveria Bagelsalon",
                 "link": "https://www.google.com/maps/search/Sanseveria+Bagelsalon/@51.2085157,3.2303043?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1580,
+                "reviews": 1582,
                 "rating": 4.6,
                 "main_category": "Mian Bao Quan Dian "
             },
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -6887,7 +7008,7 @@
             {
                 "name": "'T Eekhoetje",
                 "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
+                "reviews": 522,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             }
@@ -6908,8 +7029,8 @@
         "rating": 4.5,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 50 33 01 40",
         "address": "Sale et sucre, Geldmuntstraat 33, 8000 Brugge, Bi Li Shi ",
@@ -6959,7 +7080,7 @@
             {
                 "name": "That's Toast",
                 "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2724,
+                "reviews": 2728,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
             },
@@ -6983,13 +7104,6 @@
                 "reviews": 363,
                 "rating": 4.4,
                 "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Margil",
-                "link": "https://www.google.com/maps/search/Margil/@51.2176544,3.2122900999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 131,
-                "rating": 4.5,
-                "main_category": "Can Ting "
             }
         ],
         "website": null,
@@ -7199,8 +7313,8 @@
         "rating": 4.1,
         "workday_timing": "13:30-00:00",
         "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi San "
         ],
         "phone": null,
         "address": "Baron Ruzette, Katelijnestraat, 8000 Brugge, Bi Li Shi ",
@@ -7250,7 +7364,7 @@
             {
                 "name": "Le Panier D'Or",
                 "link": "https://www.google.com/maps/search/Le+Panier+D%27Or/@51.209273499999995,3.2239845999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1206,
+                "reviews": 1208,
                 "rating": 2.4,
                 "main_category": "Can Ting "
             },
@@ -7262,17 +7376,17 @@
                 "main_category": "Jiu Ba "
             },
             {
+                "name": "La Taverne Brugeoise",
+                "link": "https://www.google.com/maps/search/La+Taverne+Brugeoise/@51.2092483,3.2239142999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 774,
+                "rating": 1.3,
+                "main_category": "Can Ting "
+            },
+            {
                 "name": "Le Grand Cafe Belfort",
                 "link": "https://www.google.com/maps/search/Le+Grand+Cafe+Belfort/@51.2091078,3.2236617?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 771,
                 "rating": 2.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "La Taverne Brugeoise",
-                "link": "https://www.google.com/maps/search/La+Taverne+Brugeoise/@51.2092483,3.2239142999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 769,
-                "rating": 1.3,
                 "main_category": "Can Ting "
             },
             {
@@ -7345,7 +7459,7 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -7359,7 +7473,7 @@
             {
                 "name": "'T Eekhoetje",
                 "link": "https://www.google.com/maps/search/%27T+Eekhoetje/@51.2067802,3.2275853999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
+                "reviews": 522,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
@@ -7386,8 +7500,8 @@
         "rating": 4.8,
         "workday_timing": "09:30-17:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 475 55 85 35",
         "address": "Het kleine huis, Walstraat 10, 8000 Brugge, Bi Li Shi ",
@@ -7437,7 +7551,7 @@
             {
                 "name": "Le Pain Quotidien",
                 "link": "https://www.google.com/maps/search/Le+Pain+Quotidien/@51.2063658,3.2225856?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2134,
+                "reviews": 2135,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -7614,7 +7728,7 @@
             {
                 "name": "Vlissinghe",
                 "link": "https://www.google.com/maps/search/Vlissinghe/@51.212993,3.2301487?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1902,
+                "reviews": 1904,
                 "rating": 4.6,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -7709,14 +7823,14 @@
             {
                 "name": "That's Toast",
                 "link": "https://www.google.com/maps/search/That%27s+Toast/@51.2063875,3.2192167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2724,
+                "reviews": 2728,
                 "rating": 4.8,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -7737,7 +7851,7 @@
             {
                 "name": "Cropains | Croques & Burrito's | Takeaway/ Delivery Shop & Foodtrucks",
                 "link": "https://www.google.com/maps/search/Cropains+%7C+Croques+%26+Burrito%E2%80%99s+%7C+Takeaway%2F+Delivery+Shop+%26+Foodtrucks/@51.2087745,3.2221227999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 200,
+                "reviews": 201,
                 "rating": 4.7,
                 "main_category": "Wai Mai Zi Qu Can Ting "
             }
@@ -7791,7 +7905,7 @@
             {
                 "name": "The Republic",
                 "link": "https://www.google.com/maps/search/The+Republic/@51.210260100000006,3.2214601000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2514,
+                "reviews": 2515,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -7805,7 +7919,7 @@
             {
                 "name": "Cafe Terrastje",
                 "link": "https://www.google.com/maps/search/Cafe+Terrastje/@51.2131818,3.2284056999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 366,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -7864,7 +7978,7 @@
             {
                 "name": "Vlissinghe",
                 "link": "https://www.google.com/maps/search/Vlissinghe/@51.212993,3.2301487?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1902,
+                "reviews": 1904,
                 "rating": 4.6,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -7928,7 +8042,7 @@
             {
                 "name": "'t Brugs Beertje",
                 "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
+                "reviews": 1757,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -8322,8 +8436,8 @@
         "rating": 4.2,
         "workday_timing": "08:30-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 50 32 07 09",
         "address": "De Beurs, Sint-Pieterszuidstraat 69, 8000 Brugge, Bi Li Shi ",
@@ -8428,7 +8542,7 @@
             {
                 "name": "Cafe Terrastje",
                 "link": "https://www.google.com/maps/search/Cafe+Terrastje/@51.2131818,3.2284056999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 366,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -8455,15 +8569,70 @@
         "rating": 4.8,
         "workday_timing": "17:30-22:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi San "
         ],
         "phone": "+32 478 77 70 70",
         "address": "The red hunter, Genthof 43, 8000 Brugge, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/The+red+hunter/data=!4m7!3m6!1s0x47c351e30ace1ed7:0xaa375b724bdf5266!8m2!3d51.2131578!4d3.2282996!16s%2Fg%2F11t7zd236h!19sChIJ1x7OCuNRw0cRZlLfS3JbN6o?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJM8UAo9VQw0cRmYKWI4CpbTk",
+        "name": "De Achtste Dag",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "competitors": [
+            {
+                "name": "Cafe Terrastje",
+                "link": "https://www.google.com/maps/search/Cafe+Terrastje/@51.2131818,3.2284056999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 366,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "The Crash",
+                "link": "https://www.google.com/maps/search/The+Crash/@51.2104736,3.2355286?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 218,
+                "rating": 4.6,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "'T Kroegstje",
+                "link": "https://www.google.com/maps/search/%27T+Kroegstje/@51.2137946,3.2321551?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 22,
+                "rating": 4.8,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "D'herberghe",
+                "link": "https://www.google.com/maps/search/D%E2%80%99herberghe/@51.282717999999996,3.2021294?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 2.7,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "De Achtste Dag (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8LmcESs2Hv_fMgyDIt7dgwRFJr9hh-cVId-DO=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "De Achtste Dag, Werfstraat 3, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/De+Achtste+Dag/data=!4m7!3m6!1s0x47c350d5a300c533:0x396da98023968299!8m2!3d51.2159939!4d3.2151415!16s%2Fg%2F1tc_vrpb!19sChIJM8UAo9VQw0cRmYKWI4CpbTk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJHa_kSTFXw0cRl-0KYa4661s",
@@ -8475,7 +8644,7 @@
             {
                 "name": "Cafe Terrastje",
                 "link": "https://www.google.com/maps/search/Cafe+Terrastje/@51.2131818,3.2284056999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 366,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -8561,7 +8730,7 @@
             {
                 "name": "Mr.Waffle & Sandwich",
                 "link": "https://www.google.com/maps/search/Mr.Waffle+%26+Sandwich/@51.2071386,3.2276800999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 578,
+                "reviews": 581,
                 "rating": 4.7,
                 "main_category": "Kuai Can "
             },
@@ -8670,9 +8839,9 @@
         "rating": 5,
         "workday_timing": "16:00-01:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Wu ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Krachtbar Vives studentencafe, Xaverianenstraat 1, 8200 Brugge, Bi Li Shi ",
@@ -8753,7 +8922,7 @@
             {
                 "name": "Li O Lait",
                 "link": "https://www.google.com/maps/search/Li+O+Lait/@51.2057609,3.2194206?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 826,
+                "reviews": 828,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -8792,70 +8961,6 @@
         "link": "https://www.google.com/maps/place/Fresh+Waffles/data=!4m7!3m6!1s0x47c351eb6ea99097:0x787b2b1e0bd53b05!8m2!3d51.2021358!4d3.2247027!16s%2Fg%2F11rw7fs_87!19sChIJl5CpbutRw0cRBTvVCx4re3g?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJS5hkPHxRw0cRkYjNT811DbE",
-        "name": "Cafe Rozenbrouw",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 6,
-        "competitors": [
-            {
-                "name": "Le Trappiste",
-                "link": "https://www.google.com/maps/search/Le+Trappiste/@51.210837999999995,3.222809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "'t Brugs Beertje",
-                "link": "https://www.google.com/maps/search/%27t+Brugs+Beertje/@51.2068237,3.2217179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1755,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Rose Red",
-                "link": "https://www.google.com/maps/search/Cafe+Rose+Red/@51.2101103,3.2259607999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1415,
-                "rating": 4.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Bieratelier Brugge",
-                "link": "https://www.google.com/maps/search/Bieratelier+Brugge/@51.20205060000001,3.2252592?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "'t Verdriet Van Belgie",
-                "link": "https://www.google.com/maps/search/%27t+Verdriet+Van+Belgi%C3%AB/@51.2105378,3.2250699?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "116366723714222419627",
-            "name": "Cafe Rozenbrouw (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116366723714222419627"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQNaWI4UgAMp6Zk8GKRsJdVVFSSvZjtkIJzFMN=w408-h544-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.2,
-        "workday_timing": "09:00-21:00",
-        "closed_on": [
-            "Xing Qi Si "
-        ],
-        "phone": "+32 50 33 62 28",
-        "address": "Cafe Rozenbrouw, Vlamingstraat 71, 8000 Brugge, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Rozenbrouw/data=!4m7!3m6!1s0x47c3517c3c64984b:0xb10d75cd4fcd8891!8m2!3d51.2122573!4d3.2227743!16s%2Fg%2F11g474c30c!19sChIJS5hkPHxRw0cRkYjNT811DbE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJBVMAmc5Qw0cRapcnLO4fD_0",
         "name": "kahue*huritsushingu",
         "description": null,
@@ -8879,7 +8984,7 @@
             {
                 "name": "Mey's Art cafe",
                 "link": "https://www.google.com/maps/search/Mey%27s+Art+caf%C3%A9/@51.208446099999996,3.2220215?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
+                "reviews": 128,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -8976,68 +9081,6 @@
         "link": "https://www.google.com/maps/place/Oud+gemeentehuis/data=!4m7!3m6!1s0x47c351b22700de5d:0xf30567ee0c19c257!8m2!3d51.2006344!4d3.2462134!16s%2Fg%2F11fphjwl91!19sChIJXd4AJ7JRw0cRV8IZDO5nBfM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJod7MhSVRw0cRzr1pbMVGIng",
-        "name": "Tobacconist",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe-Cafe",
-                "link": "https://www.google.com/maps/search/Cafe-Cafe/@51.2025553,3.2258158?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 719,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Jerry's Cigar Bar",
-                "link": "https://www.google.com/maps/search/Jerry%27s+Cigar+Bar/@51.206282599999994,3.2227864?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
-                "rating": 4.4,
-                "main_category": "Xue Qie Dian "
-            },
-            {
-                "name": "English Tobacco Belgian Beers and Souvenirs",
-                "link": "https://www.google.com/maps/search/English+Tobacco+Belgian+Beers+and+Souvenirs/@51.2029529,3.2254681?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.1,
-                "main_category": "Ji Nian Pin Shang Dian "
-            },
-            {
-                "name": "Annapurna Souvenirs, Chocolates and Tobaccos",
-                "link": "https://www.google.com/maps/search/Annapurna+Souvenirs%2C+Chocolates+and+Tobaccos/@51.2031529,3.2250163?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4,
-                "main_category": "Yan Cao Dian "
-            },
-            {
-                "name": "J & J Tobacco Drive In",
-                "link": "https://www.google.com/maps/search/J+%26+J+Tobacco+Drive+In/@51.2026128,3.2259301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 1,
-                "main_category": ""
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tobacconist (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMf-PySMII75SQC-o6WfAsmCBAjdbGDMNmAbZKt=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Tobacconist, Katelijnestraat 45, 8000 Brugge, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tobacconist/data=!4m7!3m6!1s0x47c3512585ccdea1:0x782246c56c69bdce!8m2!3d51.2026128!4d3.2259301!16s%2Fg%2F11gtzqb7g9!19sChIJod7MhSVRw0cRzr1pbMVGIng?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJfwfVONtQw0cRqEsE6ZhSSrc",
         "name": "Cafe Mundo",
         "description": null,
@@ -9123,14 +9166,14 @@
             {
                 "name": "Kottee Kaffee",
                 "link": "https://www.google.com/maps/search/Kottee+Kaffee/@51.2137531,3.2178832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
+                "reviews": 659,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Terrastje",
                 "link": "https://www.google.com/maps/search/Cafe+Terrastje/@51.2131818,3.2284056999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 366,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -9185,14 +9228,14 @@
             {
                 "name": "Kaffee Kamiel",
                 "link": "https://www.google.com/maps/search/Kaffee+Kamiel/@51.2068096,3.2201052?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 536,
+                "reviews": 537,
                 "rating": 4.4,
                 "main_category": "Wu Can "
             },
             {
                 "name": "Sale et sucre",
                 "link": "https://www.google.com/maps/search/Sal%C3%A9+et+sucr%C3%A9/@51.208624199999996,3.2218199?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 472,
+                "reviews": 473,
                 "rating": 4.5,
                 "main_category": "Cha Yi Guan "
             },
@@ -9279,5 +9322,53 @@
         "address": "Nader, Oude Gentweg 2/Strauss, 8000 Brugge, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Nader/data=!4m7!3m6!1s0x47c3511d52e80803:0xde28d212734a220c!8m2!3d51.202738!4d3.2263902!16s%2Fg%2F11fdxws2kt!19sChIJAwjoUh1Rw0cRDCJKcxLSKN4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_-Bu8ztRw0cRb0uylr3Q_oY",
+        "name": "Drinking water",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "EspressoBar - I Love Coffee",
+                "link": "https://www.google.com/maps/search/EspressoBar+-+I+Love+Coffee/@51.2094428,3.2224904?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1160,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe-Cafe",
+                "link": "https://www.google.com/maps/search/Cafe-Cafe/@51.2025553,3.2258158?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 719,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Fresh Waffles",
+                "link": "https://www.google.com/maps/search/Fresh+Waffles/@51.20213580000001,3.2247027?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3.3,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Drinking water (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO4Udxab9uSKDKe_wOBOvk7CnsODm7YWvGmXJyB=w408-h725-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Drinking water, Begijnenvest 1, 8000 Brugge, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Drinking+water/data=!4m7!3m6!1s0x47c3513bf36ee0ff:0x86fed0bd96b24b6f!8m2!3d51.1986169!4d3.2235456!16s%2Fg%2F11hz1nlfjz!19sChIJ_-Bu8ztRw0cRb0uylr3Q_oY?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

@@ -4,7 +4,7 @@
         "name": "Cafe Kamiel",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1154,
+        "reviews": 1155,
         "competitors": [
             {
                 "name": "Mampoko",
@@ -16,7 +16,7 @@
             {
                 "name": "Kaffeenini",
                 "link": "https://www.google.com/maps/search/Kaffeenini/@51.214062,4.397660999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1044,
+                "reviews": 1045,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -53,7 +53,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "12:00-23:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+32 3 290 38 25",
         "address": "Cafe Kamiel, Markgravelei 90, 2018 Antwerpen, Bi Li Shi ",
         "review_keywords": [
@@ -91,85 +93,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Kamiel/data=!4m7!3m6!1s0x47c3f6dcddff85bf:0x303e0ace5be2ca5f!8m2!3d51.198522!4d4.402518!16s%2Fg%2F1ptyk6n55!19sChIJv4X_3dz2w0cRX8riW84KPjA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJWeDsNhH3w0cRPY2cqg3iYhw",
-        "name": "Den Draak",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 883,
-        "competitors": [
-            {
-                "name": "Cafe DeLux",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+DeLux/@51.2205133,4.4025532?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 846,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe De Zure",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Zure/@51.2068716,4.4305767?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Frits Koffiebar",
-                "link": "https://www.google.com/maps/search/Frits+Koffiebar/@51.2065652,4.4303918?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 229,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "http://www.dendraak.be/",
-        "owner": {
-            "id": "106390595377248848165",
-            "name": "Den Draak (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106390595377248848165"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTXFJYFhbWZJ5vCAOBbEwoWsw02rvdYuAQN-as=w408-h408-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": "16:00-01:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+32 3 290 53 04",
-        "address": "Den Draak, Draakplaats 1, 2018 Antwerpen, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "atmosphere",
-                "count": 16
-            },
-            {
-                "keyword": "Pi Jiu ",
-                "count": 16
-            },
-            {
-                "keyword": "Yuan Gong ",
-                "count": 11
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 10
-            },
-            {
-                "keyword": "Ju Hui ",
-                "count": 6
-            },
-            {
-                "keyword": "Ya Li ",
-                "count": 6
-            },
-            {
-                "keyword": "Yin Le ",
-                "count": 6
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Den+Draak/data=!4m7!3m6!1s0x47c3f71136ece059:0x1c62e20daa9c8d3d!8m2!3d51.2060066!4d4.4318534!16s%2Fg%2F1tgs02tw!19sChIJWeDsNhH3w0cRPY2cqg3iYhw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJOXwNLh_3w0cR0buVsM-3FbI",
@@ -365,7 +288,7 @@
             {
                 "name": "De Ketel",
                 "link": "https://www.google.com/maps/search/De+Ketel/@51.183137099999996,4.4283265?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "reviews": 232,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -488,8 +411,8 @@
         "rating": 4.6,
         "workday_timing": "08:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 3 501 59 22",
         "address": "Kornel, Sint-Lambertusstraat 1, 2600 Antwerpen, Bi Li Shi ",
@@ -524,87 +447,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Korn%C3%A9l/data=!4m7!3m6!1s0x47c3f721f2429d35:0x5632d2fe235a9bb9!8m2!3d51.1997217!4d4.4193653!16s%2Fg%2F1ptxn7j7v!19sChIJNZ1C8iH3w0cRuZtaI_7SMlY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJgWks5RD3w0cRWurCPnhixGg",
-        "name": "Cafe Moeskop",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 275,
-        "competitors": [
-            {
-                "name": "Cafe De Zure",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Zure/@51.2068716,4.4305767?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Frits Koffiebar",
-                "link": "https://www.google.com/maps/search/Frits+Koffiebar/@51.2065652,4.4303918?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 229,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Mokkakapot",
-                "link": "https://www.google.com/maps/search/Mokkakapot/@51.2133721,4.4329805?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Murukutum",
-                "link": "https://www.google.com/maps/search/Murukutum/@51.2072023,4.4309229?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Zomerhof",
-                "link": "https://www.google.com/maps/search/Cafe+Zomerhof/@51.2068228,4.4296394999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 69,
-                "rating": 3.9,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.facebook.com/Moeskop/",
-        "owner": {
-            "id": "112839826077353770352",
-            "name": "Cafe Moeskop (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112839826077353770352"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM4f_M70G6Vi9e9jzC97BOJVCy_f7-hq42LkWES=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": "16:00-01:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+32 494 98 27 14",
-        "address": "Cafe Moeskop, Dageraadplaats 17, 2018 Antwerpen, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Ba ",
-                "count": 22
-            },
-            {
-                "keyword": "Fang Xing ",
-                "count": 4
-            },
-            {
-                "keyword": "Yin Le ",
-                "count": 3
-            },
-            {
-                "keyword": "Yuan Gong ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Moeskop/data=!4m7!3m6!1s0x47c3f710e52c6981:0x68c462783ec2ea5a!8m2!3d51.2077318!4d4.4301685!16s%2Fg%2F1hhh4gf87!19sChIJgWks5RD3w0cRWurCPnhixGg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJqYZqvCL3w0cRUTno80rmO1I",
@@ -663,6 +505,7 @@
         "rating": 4.5,
         "workday_timing": "15:00-01:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er "
         ],
         "phone": "+32 3 284 05 21",
@@ -740,8 +583,8 @@
         "rating": 4.2,
         "workday_timing": "12:00-00:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 3 218 81 18",
         "address": "De Ketel, Strijdhoflaan 116, 2600 Antwerpen, Bi Li Shi ",
@@ -856,7 +699,7 @@
             {
                 "name": "Tartoer - Coffee Bar",
                 "link": "https://www.google.com/maps/search/Tartoer+-+Coffee+Bar/@51.22147950000001,4.4023659?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
+                "reviews": 483,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1057,75 +900,6 @@
         "link": "https://www.google.com/maps/place/Atelier+N%C2%B011/data=!4m7!3m6!1s0x47c3f7353f6a7385:0x172df6cb112e892b!8m2!3d51.1803765!4d4.4343958!16s%2Fg%2F11hd9wclyc!19sChIJhXNqPzX3w0cRK4kuEcv2LRc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJV9-35BD3w0cRrlhU39467l8",
-        "name": "Cafe Gorillaz",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 186,
-        "competitors": [
-            {
-                "name": "Cafe De Zure",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Zure/@51.2068716,4.4305767?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Bar Salon",
-                "link": "https://www.google.com/maps/search/Bar+Salon/@51.206809299999996,4.430561?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 451,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Moeskop",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Moeskop/@51.2077318,4.4301685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Frits Koffiebar",
-                "link": "https://www.google.com/maps/search/Frits+Koffiebar/@51.2065652,4.4303918?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 229,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Rush Rush Coffee",
-                "link": "https://www.google.com/maps/search/Rush+Rush+Coffee/@51.20675,4.4326478?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://nl-nl.facebook.com/pg/cafegorillaz/about/%3Fref%3Dpage_internal",
-        "owner": {
-            "id": null,
-            "name": "Cafe Gorillaz (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipON6NLeN0L6UxO68h4j7x3FwCtr8V7i5B3NG_hU=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "15:00-02:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": null,
-        "address": "Cafe Gorillaz, Dageraadplaats 14, 2018 Antwerpen, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Ba ",
-                "count": 14
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Gorillaz/data=!4m7!3m6!1s0x47c3f710e4b7df57:0x5fee3adedf5458ae!8m2!3d51.2076358!4d4.4303972!16s%2Fg%2F11cn8shn6f!19sChIJV9-35BD3w0cRrlhU39467l8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJuxqAC_n3w0cR4PG_qs6t_6A",
         "name": "Melbourne Coffee Berchem",
         "description": null,
@@ -1174,7 +948,9 @@
         ],
         "rating": 4.7,
         "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Melbourne Coffee Berchem, Burgemeester edgar Ryckaertsplein 1/04, 2600Bi Li Shi ",
         "review_keywords": [
@@ -1278,8 +1054,8 @@
         "rating": 4.8,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 3 239 24 54",
         "address": "Helios, Statiestraat 13, 2600 Antwerpen, Bi Li Shi ",
@@ -1411,7 +1187,7 @@
             {
                 "name": "De Ketel",
                 "link": "https://www.google.com/maps/search/De+Ketel/@51.183137099999996,4.4283265?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "reviews": 232,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -1508,6 +1284,7 @@
         "rating": 4.8,
         "workday_timing": "08:30-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi "
         ],
         "phone": "+32 456 15 30 76",
@@ -1707,7 +1484,7 @@
             {
                 "name": "De Ketel",
                 "link": "https://www.google.com/maps/search/De+Ketel/@51.183137099999996,4.4283265?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "reviews": 232,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -1742,8 +1519,8 @@
         "rating": 4.3,
         "workday_timing": "10:00-17:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 3 449 92 50",
         "address": "Mar10, Fruithoflaan 75, 2600 Antwerpen, Bi Li Shi ",
@@ -1794,7 +1571,7 @@
             {
                 "name": "HADDOK",
                 "link": "https://www.google.com/maps/search/HADDOK/@51.198031199999996,4.4418076?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
+                "reviews": 61,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
@@ -1887,8 +1664,8 @@
         "rating": 4.9,
         "workday_timing": "11:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 498 28 45 00",
         "address": "Sonam, Lange Lozanastraat 292, 2018 Antwerpen, Bi Li Shi ",
@@ -1932,7 +1709,7 @@
             {
                 "name": "HADDOK",
                 "link": "https://www.google.com/maps/search/HADDOK/@51.198031199999996,4.4418076?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
+                "reviews": 61,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
@@ -2076,7 +1853,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://nl-nl.facebook.com/pg/Het-zomerhof-204528896982021/about/%3Fref%3Dpage_internal",
+        "website": "https://nl-nl.facebook.com/pg/Het-zomerhof-204528896982021/about/?ref=page_internal",
         "owner": {
             "id": null,
             "name": "Cafe Zomerhof (Ye Zhu )",
@@ -2214,6 +1991,7 @@
         "rating": 4.3,
         "workday_timing": "14:00-00:30",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San "
         ],
@@ -2277,8 +2055,8 @@
         "rating": 4.9,
         "workday_timing": "08:00-16:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 475 56 01 46",
         "address": "MONO Coffee, Oogststraat 241, 2600 Antwerpen, Bi Li Shi ",
@@ -2358,8 +2136,8 @@
         "rating": 3.7,
         "workday_timing": "08:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 3 376 00 30",
         "address": "Foodmaker Berchem, Posthofbrug 6, 2600 Antwerpen, Bi Li Shi ",
@@ -2478,8 +2256,8 @@
             {
                 "name": "Foodmaker Berchem",
                 "link": "https://www.google.com/maps/search/Foodmaker+Berchem/@51.1937706,4.4352203999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 3.6,
+                "reviews": 20,
+                "rating": 3.7,
                 "main_category": "Wu Can "
             },
             {
@@ -2490,7 +2268,7 @@
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://www.faciliteitenthesageantwerp.be/berchem/faciliteiten?overlay=Restaurant",
+        "website": "https://www.faciliteitenthesageantwerp.be/berchem/faciliteiten%3Foverlay%3DRestaurant",
         "owner": {
             "id": null,
             "name": "The Sage Eatery Antwerp (Ye Zhu )",
@@ -2508,65 +2286,6 @@
         "address": "The Sage Eatery Antwerp, Roderveldlaan, 2600 Antwerpen, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/The+Sage+Eatery+Antwerp/data=!4m7!3m6!1s0x47c3f72602b90af7:0xdc8a0c2a40166ed6!8m2!3d51.191246!4d4.4377579!16s%2Fg%2F11qh7c4y4m!19sChIJ9wq5Aib3w0cR1m4WQCoMitw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJBSyrddr3w0cRIlSr3I5JVCk",
-        "name": "PeeCee kaffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Poppemieke, Cafe",
-                "link": "https://www.google.com/maps/search/Poppemieke%2C+Caf%C3%A9/@51.230165899999996,4.4308369999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 249,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Bar Epoq",
-                "link": "https://www.google.com/maps/search/Bar+Epoq/@51.201757799999996,4.4337962?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 138,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Eet -, Praat - en Dancecafe De Postduif",
-                "link": "https://www.google.com/maps/search/Eet+-%2C+Praat+-+en+Dancecafe+De+Postduif/@51.1977865,4.442028?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Ceryens Yeppry Cafe",
-                "link": "https://www.google.com/maps/search/Ceryens+Yeppry+Cafe/@51.188026199999996,4.4236762999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://www.peecee-kaffee.be/",
-        "owner": {
-            "id": "100017172453888370383",
-            "name": "PeeCee kaffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100017172453888370383"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qImoQvaQGw-n7UGTKvukCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=71.499344&pitch=0&thumbfov=100",
-        "main_category": "Xiao Can Guan  (Bistro)",
-        "categories": [
-            "Xiao Can Guan  (Bistro)"
-        ],
-        "rating": 4.9,
-        "workday_timing": "19:30-23:30",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Si ",
-            "Xing Qi Liu "
-        ],
-        "phone": "+32 493 21 93 68",
-        "address": "PeeCee kaffee, Helderstraat 57, 2600 Antwerpen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PeeCee+kaffee/data=!4m7!3m6!1s0x47c3f7da75ab2c05:0x2954498edcab5422!8m2!3d51.1953106!4d4.4422585!16s%2Fg%2F11qgsw4l16!19sChIJBSyrddr3w0cRIlSr3I5JVCk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJbTPeD2r3w0cRYR-VTLFdXpw",
@@ -2640,7 +2359,7 @@
             {
                 "name": "untitled.",
                 "link": "https://www.google.com/maps/search/untitled./@51.2025303,4.4234893?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
+                "reviews": 31,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -2783,8 +2502,8 @@
         "rating": null,
         "workday_timing": "09:00-13:00, 14:00-17:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 3 285 39 06",
         "address": "Coffeeteam, Generaal Lemanstraat 74, 2600 Antwerp, Bi Li Shi ",
@@ -2844,7 +2563,7 @@
         "name": "Cafe Lucien",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 288,
+        "reviews": 289,
         "competitors": [
             {
                 "name": "Butchers Coffee",
@@ -2983,8 +2702,8 @@
         "rating": 4.5,
         "workday_timing": "16:00-00:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 486 65 58 52",
         "address": "Het Been, Belpairestraat 28, 2600 Antwerpen, Bi Li Shi ",
@@ -3092,7 +2811,7 @@
             {
                 "name": "HADDOK",
                 "link": "https://www.google.com/maps/search/HADDOK/@51.198031199999996,4.4418076?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
+                "reviews": 61,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             }
@@ -3174,8 +2893,8 @@
         "rating": 4.1,
         "workday_timing": "09:30-23:00",
         "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Er "
         ],
         "phone": "+32 3 322 85 80",
         "address": "Eet -, Praat - en Dancecafe De Postduif, Minervastraat 1, 2600 Antwerpen, Bi Li Shi ",
@@ -3250,7 +2969,7 @@
             {
                 "name": "De Muze",
                 "link": "https://www.google.com/maps/search/De+Muze/@51.22052910000001,4.402855?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2850,
+                "reviews": 2853,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -3338,7 +3057,7 @@
             {
                 "name": "HADDOK",
                 "link": "https://www.google.com/maps/search/HADDOK/@51.198031199999996,4.4418076?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
+                "reviews": 61,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             }
@@ -3421,8 +3140,8 @@
         "rating": 4.7,
         "workday_timing": "09:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Kantin, Grotesteenweg 69, 2600 Antwerpen, Bi Li Shi ",
@@ -3615,86 +3334,5 @@
         "address": "Viva Bakery Berchem, Statiestraat 114, 2600 Antwerpen, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Viva+Bakery+Berchem/data=!4m7!3m6!1s0x47c3f742de4dbebb:0x10e259dba8c03729!8m2!3d51.1991176!4d4.4285586!16s%2Fg%2F11srvdp4rs!19sChIJu75N3kL3w0cRKTfAqNtZ4hA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJT53repH3w0cREjYMywPtiyg",
-        "name": "Ceryens Yeppry Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Canterbury",
-                "link": "https://www.google.com/maps/search/Canterbury/@51.1977389,4.4415339?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "PeeCee kaffee",
-                "link": "https://www.google.com/maps/search/PeeCee+kaffee/@51.1953106,4.442258499999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.9,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            },
-            {
-                "name": "Naynlop Leryy Cafe",
-                "link": "https://www.google.com/maps/search/Naynlop+Leryy+Cafe/@51.1835087,4.3963608?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Reny Ennsy Cafe",
-                "link": "https://www.google.com/maps/search/Reny+Ennsy+Cafe/@51.219043899999996,4.3993818?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Ceryens Yeppry Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mckJlj-ooIC5QOVyMCZ8oA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=36.921684&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Ceryens Yeppry Cafe, Elisabethlaan 72, 2600 Antwerp, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ceryens+Yeppry+Cafe/data=!4m7!3m6!1s0x47c3f7917aeb9d4f:0x288bed03cb0c3612!8m2!3d51.1880262!4d4.4236763!16s%2Fg%2F11snw08fh9!19sChIJT53repH3w0cREjYMywPtiyg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJn_6rNPD3w0cRwl1A3y6Y30s",
-        "name": "Relax Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Relax Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Yt2-zPINkE_5PDJPfWk6hg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=217.62308&pitch=0&thumbfov=100",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": null,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": "Open All Days",
-        "phone": "+32 491 90 13 40",
-        "address": "Relax Cafe, Statiestraat 129, 2600 Antwerpen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Relax+Caf%C3%A9/data=!4m7!3m6!1s0x47c3f7f034abfe9f:0x4bdf982edf405dc2!8m2!3d51.199008!4d4.4286189!16s%2Fg%2F11kqcrps84!19sChIJn_6rNPD3w0cRwl1A3y6Y30s?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

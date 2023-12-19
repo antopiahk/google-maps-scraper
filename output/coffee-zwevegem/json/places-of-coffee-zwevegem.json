@@ -536,8 +536,8 @@
         "rating": 4.7,
         "workday_timing": "09:00-12:00, 13:30-18:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 56 32 89 49",
         "address": "Het Smaaktafereel, Keiberg 75, 8551 Zwevegem, Bi Li Shi ",
@@ -554,7 +554,7 @@
         "name": "De Vrijheid Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 132,
+        "reviews": 133,
         "competitors": [
             {
                 "name": "Restaurant De Geit",
@@ -970,9 +970,9 @@
         "rating": 4.8,
         "workday_timing": "12:00-16:30",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+32 478 25 66 59",
         "address": "Cafe Legumes, Otegemstraat 100, 8550 Zwevegem, Bi Li Shi ",
@@ -1029,8 +1029,8 @@
         "rating": 4.7,
         "workday_timing": "14:00-18:00",
         "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi San "
         ],
         "phone": "+32 477 47 11 84",
         "address": "Tearoom Traverke, Otegemstraat, 8550 Zwevegem, Bi Li Shi ",
@@ -1385,9 +1385,9 @@
         "rating": 4.6,
         "workday_timing": "16:30-00:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+32 497 30 67 37",
         "address": "Kaffee Tende, Otegemstraat 271, 8550 Zwevegem, Bi Li Shi ",
@@ -1454,7 +1454,7 @@
             "Fa Shi Can Ting "
         ],
         "rating": 4.6,
-        "workday_timing": "16:00-23:00",
+        "workday_timing": "10:00-21:00",
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er ",
@@ -1570,7 +1570,7 @@
             {
                 "name": "Brasserie Vijverhof",
                 "link": "https://www.google.com/maps/search/Brasserie+Vijverhof/@50.8028931,3.3442065?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
+                "reviews": 36,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -1609,6 +1609,70 @@
             }
         ],
         "link": "https://www.google.com/maps/place/De+Stokerie/data=!4m7!3m6!1s0x47c33cc2cf2da617:0x36889829755efdd9!8m2!3d50.8167997!4d3.3509598!16s%2Fg%2F11hdjcw1rv!19sChIJF6Ytz8I8w0cR2f1edSmYiDY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJITzVWBc9w0cRfR8rAZOtL1M",
+        "name": "Sint Benedictus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "competitors": [
+            {
+                "name": "De Statie",
+                "link": "https://www.google.com/maps/search/De+Statie/@50.8350369,3.3523533000000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 163,
+                "rating": 4.6,
+                "main_category": "Fa Shi Can Ting "
+            },
+            {
+                "name": "Eetcafe Soeur Sourire",
+                "link": "https://www.google.com/maps/search/Eetcaf%C3%A9+Soeur+Sourire/@50.852884599999996,3.3511780000000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 134,
+                "rating": 4.4,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "De Nieuwe Stuiver",
+                "link": "https://www.google.com/maps/search/De+Nieuwe+Stuiver/@50.8592863,3.3775041999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 70,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe 'T Oud Gemeentehuis",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+%27T+Oud+Gemeentehuis/@50.852954999999994,3.354977?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Boshoek",
+                "link": "https://www.google.com/maps/search/Cafe+Boshoek/@50.8421318,3.3498775999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sint Benedictus (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPlwEdUuB4nzL3cnaEb-ULlpdjexV95cZcyb0uM=w408-h725-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "10:00-23:00",
+        "closed_on": [
+            "Xing Qi Si "
+        ],
+        "phone": null,
+        "address": "Sint Benedictus, Kerkstraat 1, 8540 Deerlijk, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sint+Benedictus/data=!4m7!3m6!1s0x47c33d1758d53c21:0x532fad93012b1f7d!8m2!3d50.8219952!4d3.3769279!16s%2Fg%2F11f04dw4jg!19sChIJITzVWBc9w0cRfR8rAZOtL1M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJo0Whwvgiw0cR2q13f1NZh-0",
@@ -1967,7 +2031,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.3,
-        "workday_timing": "16:00-00:00",
+        "workday_timing": "10:00-00:00",
         "closed_on": [
             "Xing Qi Er "
         ],
@@ -2088,7 +2152,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.6,
-        "workday_timing": "10:30-14:00, 16:00-23:00",
+        "workday_timing": "11:00-23:00",
         "closed_on": [
             "Xing Qi San "
         ],
@@ -2158,61 +2222,6 @@
         "address": "Den Doorn vzw, Otegemstraat 88, 8550 Zwevegem, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Den+Doorn+vzw/data=!4m7!3m6!1s0x47c33cc7543ab071:0x4f7b521dc201b288!8m2!3d50.8132879!4d3.3391466!16s%2Fg%2F11bzx1nz2j!19sChIJcbA6VMc8w0cRiLIBwh1Se08?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ32SAZWAYw0cRBA4d8PMefVU",
-        "name": "Cafe De Garage",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 11,
-        "competitors": [
-            {
-                "name": "Cafe 't Geheim",
-                "link": "https://www.google.com/maps/search/Cafe+%27t+Geheim/@50.7902869,3.4837761?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe local",
-                "link": "https://www.google.com/maps/search/Cafe+local/@50.775238699999996,3.4469901?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Black Jack Cafe",
-                "link": "https://www.google.com/maps/search/Black+Jack+Cafe/@50.7577703,3.431358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Sportwereld",
-                "link": "https://www.google.com/maps/search/Sportwereld/@50.7992491,3.5021690999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe De Garage (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8IgIMOksbTHK44XpVfWbl9XnbdDFmzBFtYg9i=w408-h408-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 56 64 50 18",
-        "address": "Cafe De Garage, Doorniksesteenweg 338, 8582 Avelgem, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+De+Garage/data=!4m7!3m6!1s0x47c31860658064df:0x557d1ef3f01d0e04!8m2!3d50.7556705!4d3.4290259!16s%2Fg%2F1pxw5tj7x!19sChIJ32SAZWAYw0cRBA4d8PMefVU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK8az-1YXw0cRJc-Eio2zn2k",

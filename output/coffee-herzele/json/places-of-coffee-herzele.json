@@ -51,9 +51,7 @@
         ],
         "rating": 4,
         "workday_timing": "08:30-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+32 53 80 87 00",
         "address": "Aldi, Provincieweg 247, 9550 Herzele, Bi Li Shi ",
         "review_keywords": [
@@ -136,9 +134,7 @@
         ],
         "rating": 4.2,
         "workday_timing": "08:30-19:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+32 53 78 46 85",
         "address": "Okay Herzele, Provincieweg 178, 9552 Herzele, Bi Li Shi ",
         "review_keywords": [
@@ -163,7 +159,7 @@
             {
                 "name": "Bakkerij Boerjan",
                 "link": "https://www.google.com/maps/search/Bakkerij+Boerjan/@50.896786999999996,3.8825193?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 72,
+                "reviews": 73,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -287,96 +283,13 @@
         "rating": 4.5,
         "workday_timing": "16:30-05:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": null,
         "address": "Kaffee Planchee, Hospitaalstraat 12, 9620 Zottegem, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kaffee+Planchee/data=!4m7!3m6!1s0x47c30a00f0d4fa31:0x74b84f0a1947c625!8m2!3d50.8697888!4d3.8122083!16s%2Fg%2F11cjnnl2n5!19sChIJMfrU8AAKw0cRJcZHGQpPuHQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJdadoYlCiw0cRNgauK7SdY20",
-        "name": "'t Hof schuurke",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 203,
-        "competitors": [
-            {
-                "name": "'t Vijverhof",
-                "link": "https://www.google.com/maps/search/%27t+Vijverhof/@50.92951,3.9616849999999992?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 581,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Groot Geluk",
-                "link": "https://www.google.com/maps/search/Groot+Geluk/@50.8920087,3.9492398999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 243,
-                "rating": 4.4,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Cafe 'T Hoeksken",
-                "link": "https://www.google.com/maps/search/Cafe+%27T+Hoeksken/@50.9206966,3.9691511?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Feestzaal Artichoke",
-                "link": "https://www.google.com/maps/search/Feestzaal+Artichoke/@50.9340721,3.9765679?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://www.thofschuurke.be/",
-        "owner": {
-            "id": "109575411457816611785",
-            "name": "'t Hof schuurke (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109575411457816611785"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNS8AIh1a8V0JJD2tzcL3MOvj0QN9vSzqy4wMUR=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": "11:00-22:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Wu ",
-            "Xing Qi Liu "
-        ],
-        "phone": "+32 477 13 87 07",
-        "address": "'t Hof schuurke, Wilgendries 4, 9420 Erpe-Mere, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Yi Fen ",
-                "count": 5
-            },
-            {
-                "keyword": "Song Bing ",
-                "count": 5
-            },
-            {
-                "keyword": "Zhong ",
-                "count": 4
-            },
-            {
-                "keyword": "Qiao Ke Li Niu Nai ",
-                "count": 3
-            },
-            {
-                "keyword": "Jian Xing ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%27%27t+Hof+schuurke%27/data=!4m7!3m6!1s0x47c3a2506268a775:0x6d639db42bae0636!8m2!3d50.9133769!4d3.9596435!16s%2Fg%2F11c1wy48c9!19sChIJdadoYlCiw0cRNgauK7SdY20?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJcW3wswqhw0cRZ7z-rWAX8sI",
@@ -476,7 +389,7 @@
             {
                 "name": "Torenhof",
                 "link": "https://www.google.com/maps/search/Torenhof/@50.888076,3.8904584000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 118,
+                "reviews": 119,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -592,88 +505,6 @@
         "link": "https://www.google.com/maps/place/De+Kollebloem/data=!4m10!3m9!1s0x47c3a6ac4df437fd:0x97061c4a443c0b14!5m2!4m1!1i2!8m2!3d50.8605378!4d3.9030413!16s%2Fg%2F1tdyvjbr!19sChIJ_Tf0Taymw0cRFAs8REocBpc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJK58CUh2jw0cRlh4kHX5YYqs",
-        "name": "Cafe Cabere",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 152,
-        "competitors": [
-            {
-                "name": "De Biercinema",
-                "link": "https://www.google.com/maps/search/De+Biercinema/@50.901994599999995,4.0034408?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Strokens",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Strokens/@50.909677900000005,3.9799644?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 104,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Praat- en eetcafe De Warande",
-                "link": "https://www.google.com/maps/search/Praat-+en+eetcaf%C3%A9+De+Warande/@50.9024649,4.0055376?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
-                "rating": 4.4,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "De Gouden Koterhaak",
-                "link": "https://www.google.com/maps/search/De+Gouden+Koterhaak/@50.886574599999996,3.9499085999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 70,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Ankerhof",
-                "link": "https://www.google.com/maps/search/Cafe+Ankerhof/@50.912721999999995,3.9870338999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://www.thofgotegem.be/volkscafe-cabare-of-cabaret/",
-        "owner": {
-            "id": null,
-            "name": "Cafe Cabere (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfPD0GFen_yh8IdMawyi2Tdd0ILVF2VMeAoLOF=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "14:00-00:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 53 83 11 71",
-        "address": "Cafe Cabere, Gotegemstraat 17, 9450 Haaltert, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Jian Xing ",
-                "count": 14
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 6
-            },
-            {
-                "keyword": "Zi Ran ",
-                "count": 5
-            },
-            {
-                "keyword": "Jiao Ta Che ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Caber%C3%A9/data=!4m7!3m6!1s0x47c3a31d52029f2b:0xab62587e1d241e96!8m2!3d50.9027595!4d3.9643778!16s%2Fg%2F11g8g2cqjp!19sChIJK58CUh2jw0cRlh4kHX5YYqs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJVfRZeGehw0cRn78V_Igk7Z0",
         "name": "La Folie Quatorze",
         "description": null,
@@ -683,7 +514,7 @@
             {
                 "name": "'t Schitterend Ongeluk",
                 "link": "https://www.google.com/maps/search/%27t+Schitterend+Ongeluk/@50.8825931,3.8937842000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
+                "reviews": 254,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -877,8 +708,8 @@
         "rating": 4.5,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 474 47 13 42",
         "address": "KOKON & KO, Solleveld 30, 9550 Herzele, Bi Li Shi ",
@@ -955,8 +786,8 @@
         "rating": 4.8,
         "workday_timing": "09:00-17:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 468 08 01 31",
         "address": "Tartelien, Brusselbaan 9, 9550 Herzele, Bi Li Shi ",
@@ -1055,7 +886,7 @@
         "name": "Cafe De Paling",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 83,
+        "reviews": 84,
         "competitors": [
             {
                 "name": "Cafe De Reisduif",
@@ -1226,6 +1057,7 @@
         "rating": 4.7,
         "workday_timing": "13:00-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er "
         ],
@@ -1242,78 +1074,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Het+boontje/data=!4m7!3m6!1s0x47c3a3c9047565c3:0x3f595c91c84b117f!8m2!3d50.889567!4d3.9702236!16s%2Fg%2F11g474cqk9!19sChIJw2V1BMmjw0cRfxFLyJFcWT8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJqT4r3ramw0cRWddkogN2EeQ",
-        "name": "De Tramstatie",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 76,
-        "competitors": [
-            {
-                "name": "'t Schitterend Ongeluk",
-                "link": "https://www.google.com/maps/search/%27t+Schitterend+Ongeluk/@50.8825931,3.8937842000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "'t Fonteintje",
-                "link": "https://www.google.com/maps/search/%27t+Fonteintje/@50.850699399999996,3.8625824?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Restaurant-grill Den Entrecote",
-                "link": "https://www.google.com/maps/search/Restaurant-grill+Den+Entrec%C3%B4te/@50.8957391,3.8542372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 196,
-                "rating": 4.5,
-                "main_category": "Rou Lei "
-            },
-            {
-                "name": "Taverne 'T Wijnantshof",
-                "link": "https://www.google.com/maps/search/Taverne+%27T+Wijnantshof/@50.8720394,3.9113647?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
-                "rating": 4.3,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Assiette de Juliette",
-                "link": "https://www.google.com/maps/search/Assiette+de+Juliette/@50.884405,3.8922923000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://www.detramstatie.be/",
-        "owner": {
-            "id": null,
-            "name": "De Tramstatie (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYwAjR5NoAEiL8iV2lMeaYEX2qBNFr3GXUApvq=w408-h544-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "18:00-22:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Si "
-        ],
-        "phone": "+32 54 50 21 04",
-        "address": "De Tramstatie, Kauwstraat 30, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Yi Fen ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/De+Tramstatie/data=!4m7!3m6!1s0x47c3a6b6de2b3ea9:0xe4117603a264d759!8m2!3d50.8565468!4d3.8912942!16s%2Fg%2F1tknjm5n!19sChIJqT4r3ramw0cRWddkogN2EeQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJE2G7ESWiw0cRJtItWltAf0c",
@@ -1353,7 +1113,7 @@
             {
                 "name": "Cafe Fonteintje",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Fonteintje/@50.946157199999995,3.9748866?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
+                "reviews": 34,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -1515,7 +1275,7 @@
             "Wen Hua Zhong Xin "
         ],
         "rating": 4.4,
-        "workday_timing": "09:00-13:00",
+        "workday_timing": "18:00-21:00",
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er ",
@@ -1525,71 +1285,6 @@
         "address": "'t Uilekot, Groenlaan 41, 9550 Herzele, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/%27%27t+Uilekot%27/data=!4m7!3m6!1s0x47c3a1407559d9af:0xfddb9423d7aa8c92!8m2!3d50.8834634!4d3.8904205!16s%2Fg%2F1tdqgmsm!19sChIJr9lZdUChw0cRkoyq1yOU2_0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ_Rc9YO2gw0cRCHR1ybOn82s",
-        "name": "Bakkerij Tarwena",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 58,
-        "competitors": [
-            {
-                "name": "Bakkerij Boerjan",
-                "link": "https://www.google.com/maps/search/Bakkerij+Boerjan/@50.896786999999996,3.8825193?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 72,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Bakery Van Hecke",
-                "link": "https://www.google.com/maps/search/Bakery+Van+Hecke/@50.895334,3.8539274?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Van De Walle / Wim",
-                "link": "https://www.google.com/maps/search/Van+De+Walle+%2F+Wim/@50.8740081,3.9134212999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Brood & Banket P & S",
-                "link": "https://www.google.com/maps/search/Brood+%26+Banket+P+%26+S/@50.774042699999995,3.8747371000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.9,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Kers op de Taart",
-                "link": "https://www.google.com/maps/search/Kers+op+de+Taart/@50.8861352,3.8917072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "https://www.qualiet.com/nl/bakkerij-patisserie-tarwena/",
-        "owner": {
-            "id": "113328315125033968472",
-            "name": "Bakkerij Tarwena (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113328315125033968472"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeRrGmXhTZOcpV8Uk6LwMpELEok6SmfwgCohYD=w408-h306-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "06:00-19:00",
-        "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": "+32 53 21 18 00",
-        "address": "Bakkerij Tarwena, Provincieweg 166, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bakkerij+Tarwena/data=!4m7!3m6!1s0x47c3a0ed603d17fd:0x6bf3a7b3c9757408!8m2!3d50.9029672!4d3.8862627!16s%2Fg%2F11cllvpxfl!19sChIJ_Rc9YO2gw0cRCHR1ybOn82s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJYVhE7e-gw0cRIMJSUSPKD-8",
@@ -1608,7 +1303,7 @@
             {
                 "name": "Bakkerij Boerjan",
                 "link": "https://www.google.com/maps/search/Bakkerij+Boerjan/@50.896786999999996,3.8825193?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 72,
+                "reviews": 73,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1787,68 +1482,6 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Herleving/data=!4m7!3m6!1s0x47c3a36eef489905:0x5b8486804a9e9bc1!8m2!3d50.9362256!4d3.9314792!16s%2Fg%2F11fp8bsm9v!19sChIJBZlI726jw0cRwZueSoCGhFs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJVVWSQFinw0cRInMK1a4Et3Q",
-        "name": "De Hert",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 28,
-        "competitors": [
-            {
-                "name": "De Reinaert / Taverne, Feestzaal bij ann en david",
-                "link": "https://www.google.com/maps/search/De+Reinaert+%2F+Taverne%2C+Feestzaal+bij+ann+en+david/@50.871539899999995,3.8096856000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 98,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "HET HOF VAN VLAANDEREN",
-                "link": "https://www.google.com/maps/search/HET+HOF+VAN+VLAANDEREN/@50.872595399999994,3.8101218?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 78,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cambrinus",
-                "link": "https://www.google.com/maps/search/Cambrinus/@50.8690791,3.8137488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 78,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Den Hert",
-                "link": "https://www.google.com/maps/search/Den+Hert/@50.8450175,3.5798124?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Volkshuis",
-                "link": "https://www.google.com/maps/search/Volkshuis/@50.8696045,3.8112573999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://wtcdehert.weebly.com/",
-        "owner": {
-            "id": null,
-            "name": "De Hert (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLEWhaZINg8wflQ9-CS58x6A9Ghx8CWYrzhEsh=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 477 78 61 75",
-        "address": "De Hert, Kattenberg 4, 9620 Zottegem, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/De+Hert/data=!4m7!3m6!1s0x47c3a75840925555:0x74b704aed50a7322!8m2!3d50.8549216!4d3.8139121!16s%2Fg%2F11gbky_wvj!19sChIJVVWSQFinw0cRInMK1a4Et3Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ-9UMpcWhw0cRX6FdGZn4nf4",
         "name": "Cafe De Oude Brug",
         "description": null,
@@ -1961,179 +1594,6 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+De+Zwaan/data=!4m7!3m6!1s0x47c30a00780ba265:0x4f289a9f11cbf301!8m2!3d50.8693168!4d3.8139624!16s%2Fg%2F11c4670gp3!19sChIJZaILeAAKw0cRAfPLEZ-aKE8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ9ZEq3Bahw0cR8ggCLZAhy78",
-        "name": "Ijsjes en Broodjes",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 11,
-        "competitors": [
-            {
-                "name": "Elly's In Broodjesland",
-                "link": "https://www.google.com/maps/search/Elly%27s+In+Broodjesland/@50.8841556,3.89123?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
-                "rating": 4.3,
-                "main_category": "San Wen Zhi "
-            },
-            {
-                "name": "Pitta Shop 2 Herzele",
-                "link": "https://www.google.com/maps/search/Pitta+Shop+2+Herzele/@50.888334099999994,3.890544?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 102,
-                "rating": 4,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Assiette de Juliette",
-                "link": "https://www.google.com/maps/search/Assiette+de+Juliette/@50.884405,3.8922923000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Bruudjes",
-                "link": "https://www.google.com/maps/search/Bruudjes/@50.9021981,3.8846960000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 64,
-                "rating": 4.8,
-                "main_category": "San Wen Zhi "
-            },
-            {
-                "name": "cHillegem",
-                "link": "https://www.google.com/maps/search/cHillegem/@50.8927467,3.8562073000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.9,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://ijsjes-en-broodjes.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
-        "owner": {
-            "id": "110770729716698067573",
-            "name": "Ijsjes en Broodjes (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110770729716698067573"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeBdPD9mupmZEBCfwiFU_GwL2V6YZxo0mTQZC7=w487-h240-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian ",
-            "Qing Shi Can Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 493 86 57 26",
-        "address": "Ijsjes en Broodjes, Kloosterstraat 5, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ijsjes+en+Broodjes/data=!4m7!3m6!1s0x47c3a116dc2a91f5:0xbfcb21902d0208f2!8m2!3d50.8868261!4d3.8934406!16s%2Fg%2F11mr2d67jr!19sChIJ9ZEq3Bahw0cR8ggCLZAhy78?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJuaJPZdShw0cR9F3Fg5vbvFU",
-        "name": "cHillegem",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 10,
-        "competitors": [
-            {
-                "name": "'t Schitterend Ongeluk",
-                "link": "https://www.google.com/maps/search/%27t+Schitterend+Ongeluk/@50.8825931,3.8937842000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "'t Fonteintje",
-                "link": "https://www.google.com/maps/search/%27t+Fonteintje/@50.850699399999996,3.8625824?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Restaurant-grill Den Entrecote",
-                "link": "https://www.google.com/maps/search/Restaurant-grill+Den+Entrec%C3%B4te/@50.8957391,3.8542372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 196,
-                "rating": 4.5,
-                "main_category": "Rou Lei "
-            },
-            {
-                "name": "De Tramstatie",
-                "link": "https://www.google.com/maps/search/De+Tramstatie/@50.8565468,3.8912942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Assiette de Juliette",
-                "link": "https://www.google.com/maps/search/Assiette+de+Juliette/@50.884405,3.8922923000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://www.chillegem.com/",
-        "owner": {
-            "id": "106889332324817439100",
-            "name": "cHillegem (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106889332324817439100"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeM-xcRJeN8HSqHfGtebtgA1ddLL3anIjjT0uy=w408-h408-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 496 64 27 25",
-        "address": "cHillegem, Poelstraat 1, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/cHillegem/data=!4m7!3m6!1s0x47c3a1d4654fa2b9:0x55bcdb9b83c55df4!8m2!3d50.8927467!4d3.8562073!16s%2Fg%2F11lfky6f99!19sChIJuaJPZdShw0cR9F3Fg5vbvFU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJM-BX_kyhw0cRFeidx_xF27Q",
-        "name": "De Stal Bar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Torenhof",
-                "link": "https://www.google.com/maps/search/Torenhof/@50.888076,3.8904584000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 118,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Torengalm",
-                "link": "https://www.google.com/maps/search/Torengalm/@50.888546399999996,3.890326?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "De mergelhoek",
-                "link": "https://www.google.com/maps/search/De+mergelhoek/@50.896997899999995,3.8813717999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": "https://www.facebook.com/De-Stal-Bar-101921665843975/",
-        "owner": {
-            "id": null,
-            "name": "De Stal Bar (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFM82i1oRFwCwNC-VqQVJTxnL1Vc5VSG5pCOPp=w408-h306-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "De Stal Bar, Groenlaan 96, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/De+Stal+Bar/data=!4m7!3m6!1s0x47c3a14cfe57e033:0xb4db45fcc79de815!8m2!3d50.8833928!4d3.8866455!16s%2Fg%2F11s45qqw4r!19sChIJM-BX_kyhw0cRFeidx_xF27Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJlWHNNqWmw0cRlpXJj8j2fyE",
         "name": "Studio Gelato",
         "description": null,
@@ -2208,186 +1668,6 @@
         "link": "https://www.google.com/maps/place/Broodautomaat+7+%7C+Bakkerij+De+Wilde/data=!4m7!3m6!1s0x47c3a74877d0cc95:0xca6b9ddfb58d1265!8m2!3d50.8594802!4d3.8828925!16s%2Fg%2F11vbgk53rm!19sChIJlczQd0inw0cRZRKNtd-da8o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ9ZnogxShw0cRDbqptqsJ9a4",
-        "name": "Postiljon",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Provalion Bvba",
-                "link": "https://www.google.com/maps/search/Provalion+Bvba/@50.9041796,3.8891834999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": ""
-            },
-            {
-                "name": "audiogoedkoop",
-                "link": "https://www.google.com/maps/search/audiogoedkoop/@50.8995737,3.8771171000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            },
-            {
-                "name": "Nacht Winkel",
-                "link": "https://www.google.com/maps/search/Nacht+Winkel/@50.9014153,3.8830567?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            },
-            {
-                "name": "t Pajotterke",
-                "link": "https://www.google.com/maps/search/t+Pajotterke/@50.874328399999996,3.8340050999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            },
-            {
-                "name": "Pyncket IT",
-                "link": "https://www.google.com/maps/search/Pyncket+IT/@50.886908,3.8797080999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Dian Nao Gu Wen "
-            }
-        ],
-        "website": "https://www.opcafegaan.be/herzele/postiljon",
-        "owner": {
-            "id": null,
-            "name": "Postiljon (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=STmsY7nFimvF-Tv53C-yuQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=278.4593&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Postiljon, De Tramzate, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Postiljon/data=!4m7!3m6!1s0x47c3a11483e899f5:0xaef509abb6a9ba0d!8m2!3d50.8900916!4d3.8886719!16s%2Fg%2F11f5tz9jd5!19sChIJ9ZnogxShw0cRDbqptqsJ9a4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ82SH4Lamw0cRlYmU_ZT6GSg",
-        "name": "Cafetaria Kloosterbos",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Bakkerij / Koffiehuis Cafe-Klesj",
-                "link": "https://www.google.com/maps/search/Bakkerij+%2F+Koffiehuis+Caf%C3%A9-Klesj/@50.8568948,3.8944951999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Oud Gemeentehuis",
-                "link": "https://www.google.com/maps/search/Oud+Gemeentehuis/@50.895316199999996,3.8538395?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "MOOOOD Good food good mood",
-                "link": "https://www.google.com/maps/search/MOOOOD+Good+food+good+mood/@50.9054142,3.8906353?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://www.detramstatie.be/",
-        "owner": {
-            "id": null,
-            "name": "Cafetaria Kloosterbos (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e822g4otjbHhHDR8ZAhNkA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=222.4176&pitch=0&thumbfov=100",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 54 50 21 04",
-        "address": "Cafetaria Kloosterbos, Kauwstraat 30, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafetaria+Kloosterbos/data=!4m7!3m6!1s0x47c3a6b6e08764f3:0x2819fa94fd948995!8m2!3d50.8565468!4d3.8912942!16s%2Fg%2F11bzx4pgbd!19sChIJ82SH4Lamw0cRlYmU_ZT6GSg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJK83r0K6gw0cRWz8zCcrXBag",
-        "name": "De Zoeten Inval",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 237,
-        "competitors": [
-            {
-                "name": "Kaffee Planchee",
-                "link": "https://www.google.com/maps/search/Kaffee+Planchee/@50.869788799999995,3.8122082999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 242,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Zoetegem",
-                "link": "https://www.google.com/maps/search/Zoetegem/@50.8688707,3.8095873999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
-                "rating": 4.4,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            },
-            {
-                "name": "De Reinaert / Taverne, Feestzaal bij ann en david",
-                "link": "https://www.google.com/maps/search/De+Reinaert+%2F+Taverne%2C+Feestzaal+bij+ann+en+david/@50.871539899999995,3.8096856000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 98,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "HET HOF VAN VLAANDEREN",
-                "link": "https://www.google.com/maps/search/HET+HOF+VAN+VLAANDEREN/@50.872595399999994,3.8101218?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 78,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tea-room Restaurant Poeskaffee",
-                "link": "https://www.google.com/maps/search/Tea-room+Restaurant+Poeskaffee/@50.8705347,3.8104266999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 65,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "110667470699931135546",
-            "name": "De Zoeten Inval (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110667470699931135546"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM18OufYoEhjYZOHiGj8KLcDTBgikEcChYbudn3=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": "15:00-01:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 9 345 99 56",
-        "address": "De Zoeten Inval, Vijverstraat 26, 9620 Zottegem, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Chi Tang ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/De+Zoeten+Inval/data=!4m7!3m6!1s0x47c3a0aed0ebcd2b:0xa805d7ca09333f5b!8m2!3d50.8745715!4d3.8233126!16s%2Fg%2F11bzx576j1!19sChIJK83r0K6gw0cRWz8zCcrXBag?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJR51fDQAKw0cRTTbcr1S6gYE",
         "name": "Sfeer- en Praatcafe Cocoon",
         "description": null,
@@ -2404,7 +1684,7 @@
             {
                 "name": "'t Koperen kot",
                 "link": "https://www.google.com/maps/search/%27t+Koperen+kot/@50.8876187,3.8092992?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 64,
+                "reviews": 65,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -2505,137 +1785,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/%27%27t+Aygems+Cafeetje%27/data=!4m7!3m6!1s0x47c3a3c6c51a9777:0x97274bce23c48810!8m2!3d50.8890818!4d3.9369367!16s%2Fg%2F11d_z91vy0!19sChIJd5caxcajw0cREIjEI85LJ5c?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJI-je0BShw0cRwPgwZ6ZcBN0",
-        "name": "Torenhof",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 119,
-        "competitors": [
-            {
-                "name": "De Wijngaard",
-                "link": "https://www.google.com/maps/search/De+Wijngaard/@50.904953199999994,3.8930506?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 198,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Berghof",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Berghof/@50.8406219,3.8887956000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 161,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe 't Torenhof",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+%27t+Torenhof/@50.872348699999996,4.0184234?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Torengalm",
-                "link": "https://www.google.com/maps/search/Torengalm/@50.888546399999996,3.890326?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Molenhof",
-                "link": "https://www.google.com/maps/search/Molenhof/@50.850901099999994,3.924955?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Torenhof (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEbialZXbHh_qGvIJzdJRarS6JfXrZMWdOrveS=w426-h240-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.4,
-        "workday_timing": "10:30-00:00",
-        "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi Si "
-        ],
-        "phone": "+32 497 73 87 50",
-        "address": "Torenhof, Kerkstraat 39, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Torenhof/data=!4m7!3m6!1s0x47c3a114d0dee823:0xdd045ca66730f8c0!8m2!3d50.888076!4d3.8904584!16s%2Fg%2F11cjnpkx3r!19sChIJI-je0BShw0cRwPgwZ6ZcBN0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJb9La5Gemw0cRtMPgdehLvr4",
-        "name": "De Komlamour",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 117,
-        "competitors": [
-            {
-                "name": "Cafe De Kartuizer",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Kartuizer/@50.8043963,3.8226156?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 158,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Karrewiel ('T)",
-                "link": "https://www.google.com/maps/search/Karrewiel+%28%27T%29/@50.806913900000005,3.8589871999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 131,
-                "rating": 4.3,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "De Vlaschaard",
-                "link": "https://www.google.com/maps/search/De+Vlaschaard/@50.8138818,3.8809930999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
-                "rating": 4.5,
-                "main_category": "Biao Yan Chang Di "
-            },
-            {
-                "name": "Cafe 't Kelderke",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+%27t+Kelderke/@50.817411799999995,3.8224394?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Sint-Jan",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Sint-Jan/@50.807225499999994,3.8568683999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "De Komlamour (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNHUJLg0xl3cNizUzJvf5z0qp2QcKAl2pwVffIL=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": "10:00-23:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": null,
-        "address": "De Komlamour, Gentse Steenweg 41-51, 9500 Lierde, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/De+Komlamour/data=!4m7!3m6!1s0x47c3a667e4dad26f:0xbebe4be875e0c3b4!8m2!3d50.81288!4d3.881455!16s%2Fg%2F11c6vz8c5q!19sChIJb9La5Gemw0cRtMPgdehLvr4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK9tcduShw0cR9PL7p3Rk1MA",
@@ -2769,8 +1918,8 @@
             {
                 "name": "Cafe De Paling",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Paling/@50.8611863,3.8781315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.5,
+                "reviews": 83,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -2833,7 +1982,7 @@
             {
                 "name": "Torenhof",
                 "link": "https://www.google.com/maps/search/Torenhof/@50.888076,3.8904584000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 118,
+                "reviews": 119,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -2886,64 +2035,6 @@
         "link": "https://www.google.com/maps/place/Torengalm/data=!4m7!3m6!1s0x47c3a114cfcc71e5:0x6d5219f23764534a!8m2!3d50.8885464!4d3.890326!16s%2Fg%2F11cjnn9ndl!19sChIJ5XHMzxShw0cRSlNkN_IZUm0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJJ5VeepoKw0cRjdPQV_3-cJY",
-        "name": "Cafe De Steenput",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 86,
-        "competitors": [
-            {
-                "name": "De Vlasblomme",
-                "link": "https://www.google.com/maps/search/De+Vlasblomme/@50.945723799999996,3.8037055999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe Ganzenhof",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Ganzenhof/@50.919557100000006,3.7917972?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 72,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Sekuurne",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Sekuurne/@50.9247203,3.7912505?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 55,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Central",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Central/@50.945521799999995,3.8161652999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe De Steenput (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLY6aEL0RjNwRRSOQrw0m38kJgQ8QiWfVVI6aU=w408-h272-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "11:00-22:00",
-        "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": "+32 9 362 63 65",
-        "address": "Cafe De Steenput, Berg 11, 9860 Oosterzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+De+Steenput/data=!4m7!3m6!1s0x47c30a9a7a5e9527:0x9670fefd57d0d38d!8m2!3d50.9223385!4d3.8091919!16s%2Fg%2F1tcy811k!19sChIJJ5VeepoKw0cRjdPQV_3-cJY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJK7eBaMmmw0cRorNMJoiCRhI",
         "name": "Cafe In Den Draai",
         "description": null,
@@ -2953,8 +2044,8 @@
             {
                 "name": "Cafe De Paling",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Paling/@50.8611863,3.8781315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.5,
+                "reviews": 83,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3007,61 +2098,6 @@
         "address": "Cafe In Den Draai, Terbiest 8, 9550 Herzele, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+In+Den+Draai/data=!4m7!3m6!1s0x47c3a6c96881b72b:0x12468288264cb3a2!8m2!3d50.8586693!4d3.8825517!16s%2Fg%2F1hd_nnr86!19sChIJK7eBaMmmw0cRorNMJoiCRhI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJD7PDRWShw0cR6mIRp86Gs78",
-        "name": "'t Eiland",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 45,
-        "competitors": [
-            {
-                "name": "'t Schitterend Ongeluk",
-                "link": "https://www.google.com/maps/search/%27t+Schitterend+Ongeluk/@50.8825931,3.8937842000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "La Folie Quatorze",
-                "link": "https://www.google.com/maps/search/La+Folie+Quatorze/@50.884371699999996,3.8933451?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Torengalm",
-                "link": "https://www.google.com/maps/search/Torengalm/@50.888546399999996,3.890326?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Schepenhuis",
-                "link": "https://www.google.com/maps/search/Schepenhuis/@50.884209,3.893171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 3.5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "'t Eiland (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNb5dJu6TpJ8f84SCavlKbGqXSvqAcjoRxwECqx=w408-h544-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.3,
-        "workday_timing": "10:00-01:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "'t Eiland, Ressegemstraat 64, 9551 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%27%27t+Eiland%27/data=!4m7!3m6!1s0x47c3a16445c3b30f:0xbfb386cea71162ea!8m2!3d50.8913774!4d3.9079304!16s%2Fg%2F11cjp9gzy4!19sChIJD7PDRWShw0cR6mIRp86Gs78?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJLzCC1R6hw0cRvYl_-U170sw",
@@ -3212,8 +2248,8 @@
             {
                 "name": "Cafe De Paling",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Paling/@50.8611863,3.8781315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.5,
+                "reviews": 83,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3448,7 +2484,7 @@
             {
                 "name": "Torenhof",
                 "link": "https://www.google.com/maps/search/Torenhof/@50.888076,3.8904584000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 118,
+                "reviews": 119,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -3488,9 +2524,9 @@
         "rating": 4.8,
         "workday_timing": "09:00-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Si ",
-            "Xing Qi Wu ",
-            "Xing Qi Ri "
+            "Xing Qi Wu "
         ],
         "phone": "+32 475 23 04 64",
         "address": "NR. 20, Solleveld 20, 9550 Herzele, Bi Li Shi ",
@@ -3572,7 +2608,7 @@
             {
                 "name": "'t Schitterend Ongeluk",
                 "link": "https://www.google.com/maps/search/%27t+Schitterend+Ongeluk/@50.8825931,3.8937842000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
+                "reviews": 254,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -3644,8 +2680,8 @@
             {
                 "name": "Cafe De Paling",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Paling/@50.8611863,3.8781315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.5,
+                "reviews": 83,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3690,126 +2726,6 @@
         "link": "https://www.google.com/maps/place/De+mergelhoek/data=!4m7!3m6!1s0x47c3a10feaadd15b:0x6441fe91fc7ac5ad!8m2!3d50.8969979!4d3.8813718!16s%2Fg%2F11bzx1qw7b!19sChIJW9Gt6g-hw0cRrcV6_JH-QWQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJxXP2Oimgw0cR3W5SedB9Dj0",
-        "name": "Cafe Sint-Antonius",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 19,
-        "competitors": [
-            {
-                "name": "De Put",
-                "link": "https://www.google.com/maps/search/De+Put/@50.941102099999995,3.9079805?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 96,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "'t Champetterke",
-                "link": "https://www.google.com/maps/search/%27t+Champetterke/@50.9268023,3.8812288999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Pallieter bij Prilleken & Caro",
-                "link": "https://www.google.com/maps/search/Pallieter+bij+Prilleken+%26+Caro/@50.9209404,3.8539236?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "'t Stamcafe",
-                "link": "https://www.google.com/maps/search/%27t+Stamcaf%C3%A9/@50.920563099999995,3.8540506?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
-                "rating": 4.2,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Praat-en degustatiecafe Belgie Bierland",
-                "link": "https://www.google.com/maps/search/Praat-en+degustatiecaf%C3%A9+Belgi%C3%AB+Bierland/@50.9441683,3.8658489999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe Sint-Antonius (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPToPQvLS1bXTAOhQfytqJn5ZLkHQWigABieKVR=w425-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 3.9,
-        "workday_timing": "12:00-02:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 9 362 80 52",
-        "address": "Cafe Sint-Antonius, Sint-Antoniusstraat 5, 9520 Sint-Lievens-Houtem, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sint-Antonius/data=!4m7!3m6!1s0x47c3a0293af673c5:0x3d0e7dd079526edd!8m2!3d50.9440956!4d3.8657584!16s%2Fg%2F1tqnkscr!19sChIJxXP2Oimgw0cR3W5SedB9Dj0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJvyUMWmCkw0cRMydvCTM62rQ",
-        "name": "Voetbalkantine Aspelare",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 19,
-        "competitors": [
-            {
-                "name": "'t Stalleke",
-                "link": "https://www.google.com/maps/search/%27t+Stalleke/@50.7917961,4.0527228?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "De Groeneweg",
-                "link": "https://www.google.com/maps/search/De+Groeneweg/@50.8422327,4.0248012?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Aspelare (Voetbalploeg Palingl) FV",
-                "link": "https://www.google.com/maps/search/Aspelare+%28Voetbalploeg+Palingl%29+FV/@50.8430493,3.9572540000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            },
-            {
-                "name": "Fizik",
-                "link": "https://www.google.com/maps/search/Fizik/@50.843723999999995,3.9572922999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Voetbalkantine Aspelare (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOLkdsgV6Nidl8nqcF19t8za6Ti3es-YKfvJn9O=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "10:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Voetbalkantine Aspelare, Geraardsbergsesteenweg 279, 9404 Ninove, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Voetbalkantine+Aspelare/data=!4m7!3m6!1s0x47c3a4605a0c25bf:0xb4da3a33096f2733!8m2!3d50.843132!4d3.9566566!16s%2Fg%2F11ggsgh3pc!19sChIJvyUMWmCkw0cRMydvCTM62rQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ-8T2SGCkw0cRcGjOAJYTi8c",
         "name": "Prieels / Elie",
         "description": null,
@@ -3826,7 +2742,7 @@
             {
                 "name": "Vinnie's Easy Food Fair",
                 "link": "https://www.google.com/maps/search/Vinnie%27s+Easy+Food+Fair/@50.835290699999995,4.0222601?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
+                "reviews": 80,
                 "rating": 4.3,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -3936,7 +2852,7 @@
             {
                 "name": "Torenhof",
                 "link": "https://www.google.com/maps/search/Torenhof/@50.888076,3.8904584000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 118,
+                "reviews": 119,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -4201,9 +3117,9 @@
         "rating": 5,
         "workday_timing": "08:30-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Si "
         ],
         "phone": "+32 9 360 07 74",
         "address": "Huis Van de Sande, Stationsstraat 45, 9620 Zottegem, Bi Li Shi ",
@@ -4268,7 +3184,7 @@
             {
                 "name": "De Zoeten Inval",
                 "link": "https://www.google.com/maps/search/De+Zoeten+Inval/@50.874571499999995,3.8233125999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 236,
+                "reviews": 237,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4305,32 +3221,6 @@
         "address": "Soldo / Darco, Vijverstraat 26, 9620 Zottegem, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Soldo+%2F+Darco/data=!4m7!3m6!1s0x47c3a0aed0ebcd39:0xd44b1b802bd6c634!8m2!3d50.8745694!4d3.8233234!16s%2Fg%2F1pxwmyp6w!19sChIJOc3r0K6gw0cRNMbWK4AbS9Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ652TerKhw0cRfUtx58lIxfY",
-        "name": "Krantewinkel herzele",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "106265661478955080768",
-            "name": "Krantewinkel herzele (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106265661478955080768"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fRNrQy3MqKkyUZASaFaR6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.27248&pitch=0&thumbfov=100",
-        "main_category": "Shang Dian ",
-        "categories": [
-            "Shang Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Krantewinkel herzele, Groenlaan, 9550 Herzele, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Krantewinkel+herzele/data=!4m7!3m6!1s0x47c3a1b27a939deb:0xf6c548c9e7714b7d!8m2!3d50.883715!4d3.8911037!16s%2Fg%2F11v69zx3yy!19sChIJ652TerKhw0cRfUtx58lIxfY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJq_8R-Yehw0cR5pmIFt-obUs",

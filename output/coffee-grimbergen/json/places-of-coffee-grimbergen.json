@@ -16,7 +16,7 @@
             {
                 "name": "Paviljoen Strombeek",
                 "link": "https://www.google.com/maps/search/Paviljoen+Strombeek/@50.909239299999996,4.357467199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
+                "reviews": 61,
                 "rating": 4.1,
                 "main_category": "Ying Shi Gao Ji Jiu Ba "
             },
@@ -309,7 +309,7 @@
             {
                 "name": "Het Fenikshof",
                 "link": "https://www.google.com/maps/search/Het+Fenikshof/@50.934377999999995,4.369402?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1745,
+                "reviews": 1746,
                 "rating": 4.1,
                 "main_category": "Bi Li Shi Cai "
             },
@@ -423,12 +423,12 @@
         "rating": 4.1,
         "workday_timing": "24 Xiao Shi Ying Ye ",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San ",
             "Xing Qi Si ",
             "Xing Qi Wu ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "De Parel Cafe, 1850 Grimbergen, Bi Li Shi ",
@@ -675,7 +675,7 @@
             {
                 "name": "Eldorado",
                 "link": "https://www.google.com/maps/search/Eldorado/@50.97769650000001,4.389279999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.3,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -712,6 +712,61 @@
         "address": "Tavernier / Roger, Westvaartdijk 303, 1851 Grimbergen, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Tavernier+%2F+Roger/data=!4m7!3m6!1s0x47c3e8f75a1c50d1:0x416aeb1c6e90917f!8m2!3d50.9757636!4d4.391588!16s%2Fg%2F1thr6bh3!19sChIJ0VAcWvfow0cRf5GQbhzrakE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJVZYUfVPow0cRlAuZFVrdomg",
+        "name": "Van Hoeck / C.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "CoMarkt Humbeek",
+                "link": "https://www.google.com/maps/search/CoMarkt+Humbeek/@50.9734378,4.3863778?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 545,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "VERS VAN CROES",
+                "link": "https://www.google.com/maps/search/VERS+VAN+CROES/@50.980533799999996,4.5739841?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 80,
+                "rating": 4.5,
+                "main_category": "Gao Ji Shi Cai Dian "
+            },
+            {
+                "name": "Den Hert (taverne)",
+                "link": "https://www.google.com/maps/search/Den+Hert+%28taverne%29/@50.9344002,4.363739499999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Ons Goe Gedacht",
+                "link": "https://www.google.com/maps/search/Ons+Goe+Gedacht/@50.9668005,4.3795272?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Van Hoeck / C. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qmnbViAIkdgeLn1RtxnYcA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=96.93456&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 2 270 01 54",
+        "address": "Van Hoeck / C., Dorpsstraat 37, 1851 Grimbergen, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Van+Hoeck+%2F+C./data=!4m7!3m6!1s0x47c3e8537d149655:0x68a2dd5a15990b94!8m2!3d50.9668153!4d4.3793956!16s%2Fg%2F1tf39pzp!19sChIJVZYUfVPow0cRlAuZFVrdomg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJhzYP5FXow0cRx-Q66eu6-FA",
@@ -781,32 +836,6 @@
         "address": "Remi Centrum, Kerkstraat 77, 1851 Grimbergen, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Remi+Centrum/data=!4m7!3m6!1s0x47c3e855e40f3687:0x50f8baebe93ae4c7!8m2!3d50.9710461!4d4.3836881!16s%2Fg%2F11f08pr9zk!19sChIJhzYP5FXow0cRx-Q66eu6-FA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ7z0UMvPpw0cRl88nKregMKk",
-        "name": "Dennenhof Bij Sophie",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Dennenhof Bij Sophie (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JIuEFG2MBAe4YyyO--t1xg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.00781&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 497 75 31 92",
-        "address": "Dennenhof Bij Sophie, Hof van Obbergenstraat, 1852 Grimbergen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Dennenhof+Bij+Sophie/data=!4m7!3m6!1s0x47c3e9f332143def:0xa930a0b72a27cf97!8m2!3d50.9526983!4d4.3650377!16s%2Fg%2F11y1w0pzcm!19sChIJ7z0UMvPpw0cRl88nKregMKk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJV2mE1l_Cw0cRcBBw0YLVFgM",

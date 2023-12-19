@@ -58,6 +58,7 @@
         "rating": 4.4,
         "workday_timing": "12:00-16:00, 17:00-19:20, 19:30-21:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi "
         ],
         "phone": "+32 3 778 05 07",
@@ -100,7 +101,7 @@
             {
                 "name": "King George Cafe",
                 "link": "https://www.google.com/maps/search/King+George+Cafe/@51.1732386,4.1407932999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 277,
                 "rating": 4.2,
                 "main_category": "Wu Can "
             },
@@ -146,7 +147,9 @@
         ],
         "rating": 4.1,
         "workday_timing": "07:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+32 3 777 17 70",
         "address": "De Graanmaat, Grote Markt 24, 9100 Sint-Niklaas, Bi Li Shi ",
         "review_keywords": [
@@ -190,7 +193,7 @@
         "name": "Pedro's",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 563,
+        "reviews": 564,
         "competitors": [
             {
                 "name": "Caro's",
@@ -439,8 +442,8 @@
         "rating": 4.2,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 3 746 10 19",
         "address": "King George Cafe, Driekoningenstraat 48, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -608,6 +611,7 @@
         "rating": 4.7,
         "workday_timing": "10:00-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi "
         ],
         "phone": "+32 3 689 44 34",
@@ -645,103 +649,6 @@
         "link": "https://www.google.com/maps/place/Manuv%C3%A8l/data=!4m7!3m6!1s0x47c38f964c226621:0x3c1bfc1ad04f79c4!8m2!3d51.1684998!4d4.1424266!16s%2Fg%2F11h10t855c!19sChIJIWYiTJaPw0cRxHlP0Br8Gzw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJzUxcWpeOw0cRq9Hk_LISiVQ",
-        "name": "Biko",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 210,
-        "competitors": [
-            {
-                "name": "Soep&Zoet",
-                "link": "https://www.google.com/maps/search/Soep%26Zoet/@51.1636968,4.1417145?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 518,
-                "rating": 4.4,
-                "main_category": "Zao Wu Can "
-            },
-            {
-                "name": "Capeau",
-                "link": "https://www.google.com/maps/search/Cap%C3%A9au/@51.166030799999994,4.1417234999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 234,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Koek&Ei",
-                "link": "https://www.google.com/maps/search/Koek%26Ei/@51.162326,4.1395152?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Marcel",
-                "link": "https://www.google.com/maps/search/Marcel/@51.1680115,4.1450426?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 156,
-                "rating": 4.6,
-                "main_category": "Zao Wu Can "
-            },
-            {
-                "name": "Tartinneke",
-                "link": "https://www.google.com/maps/search/Tartinneke/@51.1680455,4.145129799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
-                "rating": 4.5,
-                "main_category": "Zao Can "
-            }
-        ],
-        "website": "http://www.denbiko.be/",
-        "owner": {
-            "id": "107094907280999477120",
-            "name": "Biko (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107094907280999477120"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDhyg3GVWb-zJ6qpP9DjWzeWT5srGS9yyjt-tv=w408-h272-k-no",
-        "main_category": "Zao Can Can Ting ",
-        "categories": [
-            "Zao Can Can Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "09:00-16:00",
-        "closed_on": [
-            "Xing Qi Er "
-        ],
-        "phone": "+32 3 689 03 01",
-        "address": "Biko, Sacramentsstraat 3, 9100 Sint-Niklaas, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Zao Wu Can ",
-                "count": 10
-            },
-            {
-                "keyword": "Yuan Gong ",
-                "count": 7
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 6
-            },
-            {
-                "keyword": "Chan Pin ",
-                "count": 5
-            },
-            {
-                "keyword": "Di Tu ",
-                "count": 5
-            },
-            {
-                "keyword": "Jian Kang ",
-                "count": 3
-            },
-            {
-                "keyword": "Song Bing ",
-                "count": 3
-            },
-            {
-                "keyword": "Zhuo ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Biko/data=!4m7!3m6!1s0x47c38e975a5c4ccd:0x548912b2fce4d1ab!8m2!3d51.1645563!4d4.1427082!16s%2Fg%2F11bzx52lvt!19sChIJzUxcWpeOw0cRq9Hk_LISiVQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJfclF2D-Pw0cRhgTgelt8X5c",
         "name": "Skippy's",
         "description": null,
@@ -765,7 +672,7 @@
             {
                 "name": "King George Cafe",
                 "link": "https://www.google.com/maps/search/King+George+Cafe/@51.1732386,4.1407932999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 277,
                 "rating": 4.2,
                 "main_category": "Wu Can "
             },
@@ -802,6 +709,7 @@
         "rating": 4.8,
         "workday_timing": "08:00-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er "
         ],
         "phone": "+32 3 776 38 00",
@@ -974,8 +882,8 @@
         "rating": 4.6,
         "workday_timing": "09:00-16:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 470 95 37 34",
         "address": "Marcel, Regentieplein 1, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -1045,8 +953,8 @@
         "rating": 4.5,
         "workday_timing": "16:00-00:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": null,
         "address": "'t Stamcafeken, Nieuwstraat 3, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -1199,7 +1107,7 @@
             {
                 "name": "King George Cafe",
                 "link": "https://www.google.com/maps/search/King+George+Cafe/@51.1732386,4.1407932999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 277,
                 "rating": 4.2,
                 "main_category": "Wu Can "
             },
@@ -1306,8 +1214,8 @@
         "rating": 4.8,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 3 776 02 04",
         "address": "Delicatessen Van Poeck, Stationsstraat 38, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -1575,11 +1483,11 @@
         "rating": 4.2,
         "workday_timing": "20:00-00:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
             "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Si "
         ],
         "phone": null,
         "address": "Masereelhuis, Truweelstraat 85, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -1709,8 +1617,8 @@
         "rating": 4.5,
         "workday_timing": "09:00-17:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 3 232 25 23",
         "address": "Coffee Co., Houtbriel 19, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -1815,9 +1723,9 @@
         "rating": 4.9,
         "workday_timing": "09:30-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi San "
         ],
         "phone": null,
         "address": "JAT, Stationsstraat 69, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -2257,77 +2165,6 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Cong%C3%A9/data=!4m7!3m6!1s0x47c38e9ccacfffff:0x23542f371ff3fcda!8m2!3d51.1581925!4d4.1511242!16s%2Fg%2F11j8lm_22t!19sChIJ___PypyOw0cR2vzzHzcvVCM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJT20WmPaLw0cRjDnj6woVnUs",
-        "name": "Woodstock, cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 97,
-        "competitors": [
-            {
-                "name": "'t Zonneken",
-                "link": "https://www.google.com/maps/search/%27t+Zonneken/@51.176532699999996,4.1820273?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1187,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "'t Stamcafeken",
-                "link": "https://www.google.com/maps/search/%27t+Stamcaf%C3%A9ken/@51.163790399999996,4.1392345?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 139,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "De Kikker Vof",
-                "link": "https://www.google.com/maps/search/De+Kikker+Vof/@51.193568299999995,4.1774087?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe De Ster",
-                "link": "https://www.google.com/maps/search/Cafe+De+Ster/@51.177645899999995,4.1925254999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 73,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Co.",
-                "link": "https://www.google.com/maps/search/Coffee+Co./@51.164932199999996,4.1431819?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "111405667379915056446",
-            "name": "Woodstock, cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111405667379915056446"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMM72BiwW29yeKRqHC1foMOpwugMKlo92bjsJdd=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": "20:00-00:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Si "
-        ],
-        "phone": "+32 3 777 79 87",
-        "address": "Woodstock, cafe, z, Nieuwkerkenstraat 14, 9100 Sint-Niklaas, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Ba ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Woodstock,+caf%C3%A9/data=!4m7!3m6!1s0x47c38bf698166d4f:0x4b9d150aebe3398c!8m2!3d51.192494!4d4.178307!16s%2Fg%2F1tj451ph!19sChIJT20WmPaLw0cRjDnj6woVnUs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJBf2Qg2mPw0cRpePkF07Argo",
         "name": "Boba Eetcafe",
         "description": null,
@@ -2384,8 +2221,8 @@
         "rating": 4.7,
         "workday_timing": "12:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": null,
         "address": "Boba Eetcafe, Stationsstraat 42, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -2793,127 +2630,6 @@
         "link": "https://www.google.com/maps/place/De+Nieuwe+Zwaan/data=!4m7!3m6!1s0x47c38fa66925e515:0xd28b5ec404470d2d!8m2!3d51.1460545!4d4.0881087!16s%2Fg%2F1vspqnsz!19sChIJFeUlaaaPw0cRLQ1HBMRei9I?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ4ZIpDOOPw0cRknPqafLCFTs",
-        "name": "Zomerhof 'De Dry Coninghen'",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 37,
-        "competitors": [
-            {
-                "name": "Keysershof",
-                "link": "https://www.google.com/maps/search/Keysershof/@51.1555002,4.0004325?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 614,
-                "rating": 4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe Conge",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Cong%C3%A9/@51.1581925,4.1511242?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Jeugdhuis Troelant",
-                "link": "https://www.google.com/maps/search/Jeugdhuis+Troelant/@51.1553481,4.0497353?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 88,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Vleeschouwer Nancy",
-                "link": "https://www.google.com/maps/search/Vleeschouwer+Nancy/@51.1566767,4.0422828?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kaffee Plansjee",
-                "link": "https://www.google.com/maps/search/Kaffee+Plansjee/@51.164506599999996,4.142817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Zomerhof 'De Dry Coninghen' (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjm1AoR6KxSx2SNhT0cWmtMXegmnm16Ti1cEbH=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "16:00-22:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": "+32 477 55 36 59",
-        "address": "Zomerhof 'De Dry Coninghen', Hooimanstraat 100, 9112 Sint-Niklaas, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Zomerhof+%27De+Dry+Coninghen%27/data=!4m7!3m6!1s0x47c38fe30c2992e1:0x3b15c2f269ea7392!8m2!3d51.1523067!4d4.0556716!16s%2Fg%2F11f61jdbwf!19sChIJ4ZIpDOOPw0cRknPqafLCFTs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJbbAN5FCPw0cRumw4tpmdWb4",
-        "name": "Statie 9113",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 36,
-        "competitors": [
-            {
-                "name": "'t Uitzicht",
-                "link": "https://www.google.com/maps/search/%27t+Uitzicht/@51.145616,4.0836638999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 3.9,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "De Nieuwe Zwaan",
-                "link": "https://www.google.com/maps/search/De+Nieuwe+Zwaan/@51.146054500000005,4.088108699999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe De Locomotief",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Locomotief/@51.1434418,4.067702?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "'T Cafe",
-                "link": "https://www.google.com/maps/search/%27T+Caf%C3%A9/@51.1581943,4.1151401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.8,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Statie 9113 (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNr0Nuk8yB0dytdmYwy-AVMwzfGXpqnESQQ1e4=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Statie 9113, Stationswegel 4, 9111 Sint-Niklaas, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Statie+9113/data=!4m7!3m6!1s0x47c38f50e40db06d:0xbe599d99b6386cba!8m2!3d51.1434371!4d4.06773!16s%2Fg%2F11gsml93rl!19sChIJbbAN5FCPw0cRumw4tpmdWb4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJW-tAmaSOw0cRTNgNk8ZK2uM",
         "name": "Cafe Impulse",
         "description": null,
@@ -2923,7 +2639,7 @@
             {
                 "name": "King George Cafe",
                 "link": "https://www.google.com/maps/search/King+George+Cafe/@51.1732386,4.1407932999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 277,
                 "rating": 4.2,
                 "main_category": "Wu Can "
             },
@@ -3129,7 +2845,7 @@
             {
                 "name": "Fortuin",
                 "link": "https://www.google.com/maps/search/Fortuin/@51.1353538,4.4446601999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 400,
+                "reviews": 401,
                 "rating": 4.2,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -3301,11 +3017,11 @@
         "rating": 5,
         "workday_timing": "17:00-20:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi Si ",
             "Xing Qi Wu ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+32 488 92 17 07",
         "address": "RAW.reload coffee & lunchbar, Grote Heimelinkstraat 206b, 9100 Sint-Niklaas, Bi Li Shi ",
@@ -3334,72 +3050,17 @@
         "rating": 4.5,
         "workday_timing": "09:00-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San ",
             "Xing Qi Si ",
             "Xing Qi Wu ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+32 476 66 40 51",
         "address": "Local Cafe, Apostelstraat 2, 9100 Sint-Niklaas, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Local+Caf%C3%A9/data=!4m7!3m6!1s0x47c38fddae59dced:0xdcdb77a84c0490f9!8m2!3d51.1641472!4d4.1428629!16s%2Fg%2F11v004kyrd!19sChIJ7dxZrt2Pw0cR-ZAETKh329w?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJXYzQUvGLw0cR3VHvgYwig_E",
-        "name": "Van Limbergen / Hilde",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Het Vershuisje",
-                "link": "https://www.google.com/maps/search/Het+Vershuisje/@51.1743333,4.1860341?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 398,
-                "rating": 4.4,
-                "main_category": "Xian Shi Shi Chang "
-            },
-            {
-                "name": "Taverne Eethuis Den Brave",
-                "link": "https://www.google.com/maps/search/Taverne+Eethuis+Den+Brave/@51.194030999999995,4.1785651999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 183,
-                "rating": 4.2,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Pavo",
-                "link": "https://www.google.com/maps/search/Pavo/@51.1920767,4.175294?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
-                "rating": 4.5,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "De Kikker Vof",
-                "link": "https://www.google.com/maps/search/De+Kikker+Vof/@51.193568299999995,4.1774087?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Van Limbergen / Hilde (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPAGTipMSHDoMeGJujhX9tzxwBht3z9ZFYv7zYj=w408-h725-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 3.5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 3 766 32 07",
-        "address": "Van Limbergen / Hilde, Ten Bos 14, 9100 Sint-Niklaas, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Van+Limbergen+%2F+Hilde/data=!4m7!3m6!1s0x47c38bf152d08c5d:0xf183228c81ef51dd!8m2!3d51.1940215!4d4.1785659!16s%2Fg%2F1tj83_ty!19sChIJXYzQUvGLw0cR3VHvgYwig_E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJL6xuYh-Mw0cRYLqcb3DKXhs",
@@ -3617,67 +3278,5 @@
         "address": "Meetingbox, Stationsplein 8/C, 9100 Sint-Niklaas, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Meetingbox/data=!4m7!3m6!1s0x47c38ebd1565874f:0x895f14fa29b585d1!8m2!3d51.1703259!4d4.1422793!16s%2Fg%2F1ttq180j!19sChIJT4dlFb2Ow0cR0YW1KfoUX4k?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJw_UW8puLw0cRNTWOXDBcoz4",
-        "name": "ten bos 11",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "De Graanmaat",
-                "link": "https://www.google.com/maps/search/De+Graanmaat/@51.1634378,4.1401971?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 595,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Taverne Eethuis Den Brave",
-                "link": "https://www.google.com/maps/search/Taverne+Eethuis+Den+Brave/@51.194030999999995,4.1785651999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 183,
-                "rating": 4.2,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Boba Eetcafe",
-                "link": "https://www.google.com/maps/search/Boba+Eetcafe/@51.166521499999995,4.1417291999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.7,
-                "main_category": "Zhen Zhu Nai Cha "
-            },
-            {
-                "name": "D&A Vastgoed BV",
-                "link": "https://www.google.com/maps/search/D%26A+Vastgoed+BV/@51.1940476,4.1781694?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.7,
-                "main_category": "Fang Di Chan Gu Wen "
-            },
-            {
-                "name": "9100 Sint-Niklaas",
-                "link": "https://www.google.com/maps/search/9100+Sint-Niklaas/@51.194539899999995,4.1788948999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "ten bos 11 (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uy0UFBgU98vahogtQpLLEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=204.09006&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "ten bos 11, N451 9-37, 9100, 9100 Sint-Niklaas, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/ten+bos+11/data=!4m7!3m6!1s0x47c38b9bf216f5c3:0x3ea35c305c8e3535!8m2!3d51.1949812!4d4.1797361!16s%2Fg%2F11ffj6pqq1!19sChIJw_UW8puLw0cRNTWOXDBcoz4?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

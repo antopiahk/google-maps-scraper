@@ -1,5 +1,99 @@
 [
     {
+        "place_id": "ChIJeza2oNVpw0cRrtSWoi8gSnE",
+        "name": "BARZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 688,
+        "competitors": [
+            {
+                "name": "De Genieter",
+                "link": "https://www.google.com/maps/search/De+Genieter/@51.084161099999996,3.4481827?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 421,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Sparrenhof",
+                "link": "https://www.google.com/maps/search/Sparrenhof/@51.079791400000005,3.4501177?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 358,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "'t Stoveke",
+                "link": "https://www.google.com/maps/search/%27t+Stoveke/@51.085204999999995,3.4477438?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 203,
+                "rating": 4.2,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "'t Brouwershuys",
+                "link": "https://www.google.com/maps/search/%27t+Brouwershuys/@51.0839831,3.4485273?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 161,
+                "rating": 4.3,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "La Bella Italia",
+                "link": "https://www.google.com/maps/search/La+Bella+Italia/@51.0862294,3.4482928?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 145,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://www.barz-aalter.be/",
+        "owner": {
+            "id": "110420183969778641954",
+            "name": "BARZ (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110420183969778641954"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPnCxK58ZOMmg2Y4YXVCaQ1b5M5yj-OWT0WPPSG=w408-h544-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "10:00-22:00",
+        "closed_on": [
+            "Xing Qi Er ",
+            "Xing Qi San "
+        ],
+        "phone": "+32 475 55 95 96",
+        "address": "BARZ, Markt 8, 9880 Aalter, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Han Bao ",
+                "count": 19
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 19
+            },
+            {
+                "keyword": "Yuan Gong ",
+                "count": 16
+            },
+            {
+                "keyword": "tapas",
+                "count": 9
+            },
+            {
+                "keyword": "Di Tu ",
+                "count": 7
+            },
+            {
+                "keyword": "Diao Jiu ",
+                "count": 7
+            },
+            {
+                "keyword": "Xiao Chi ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/BARZ/data=!4m7!3m6!1s0x47c369d5a0b6367b:0x714a202fa296d4ae!8m2!3d51.0837915!4d3.4488844!16s%2Fg%2F11gfmbjvl3!19sChIJeza2oNVpw0cRrtSWoi8gSnE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ6fzjqdVpw0cRRyVzuFwuKB0",
         "name": "t Koffieboontje",
         "description": null,
@@ -236,9 +330,7 @@
         ],
         "rating": 4.2,
         "workday_timing": "08:30-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "closed_on": "Open All Days",
         "phone": null,
         "address": "ALDI, Lostraat 81, 9880 Aalter, Bi Li Shi ",
         "review_keywords": [
@@ -285,7 +377,7 @@
             {
                 "name": "Kris bakery",
                 "link": "https://www.google.com/maps/search/Kris+bakery/@51.098961900000006,3.4414645999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
@@ -474,12 +566,12 @@
         "name": "Brasserie De Swaene",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 226,
+        "reviews": 227,
         "competitors": [
             {
                 "name": "Brasserie Het Jagershof",
                 "link": "https://www.google.com/maps/search/Brasserie+Het+Jagershof/@51.1508168,3.4775869?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 435,
                 "rating": 4,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -658,9 +750,7 @@
         ],
         "rating": 4.4,
         "workday_timing": "08:30-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+32 9 374 23 92",
         "address": "Carrefour market, IJzerstraat 8, 9880 Aalter, Bi Li Shi ",
         "review_keywords": [
@@ -807,66 +897,6 @@
         "link": "https://www.google.com/maps/place/Mr.+Blend/data=!4m7!3m6!1s0x47c35dc282b0856b:0xd819250bc722247f!8m2!3d51.1386616!4d3.4132956!16s%2Fg%2F11j1httg_9!19sChIJa4WwgsJdw0cRfyQixwslGdg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ2zaOIwFqw0cRHwi8HmbbI1o",
-        "name": "Den Zoeten Inval",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 106,
-        "competitors": [
-            {
-                "name": "Cafe De Tijl",
-                "link": "https://www.google.com/maps/search/Cafe+De+Tijl/@51.0412545,3.4438874999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Den Arrivee",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Den+Arriv%C3%A9e/@51.049304899999996,3.4603753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Den Ouwe Prins",
-                "link": "https://www.google.com/maps/search/Den+Ouwe+Prins/@51.0202503,3.4487365?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://www.denzoeteninval.info/",
-        "owner": {
-            "id": "106443981975009632541",
-            "name": "Den Zoeten Inval (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106443981975009632541"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM-nbyHkJ6gTr_esiLyR-1jRJj79xVTasSIR85A=w408-h272-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.3,
-        "workday_timing": "10:00-21:00",
-        "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Liu "
-        ],
-        "phone": "+32 51 68 62 45",
-        "address": "Den Zoeten Inval, Poekedorpstraat 2, 9880 Aalter, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Jiao Ta Che ",
-                "count": 4
-            },
-            {
-                "keyword": "Cun ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Den+Zoeten+Inval/data=!4m7!3m6!1s0x47c36a01238e36db:0x5a23db661ebc081f!8m2!3d51.0408333!4d3.4438889!16s%2Fg%2F1ty73f90!19sChIJ2zaOIwFqw0cRHwi8HmbbI1o?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJycOPqXNpw0cRIeNQdh2hJcg",
         "name": "Den Overzet",
         "description": null,
@@ -958,7 +988,7 @@
             {
                 "name": "Kris bakery",
                 "link": "https://www.google.com/maps/search/Kris+bakery/@51.098961900000006,3.4414645999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -998,71 +1028,6 @@
         "address": "De Baets, Wingenestraat 35, 9880 Aalter, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/De+Baets/data=!4m7!3m6!1s0x47c34373c99c84a3:0xbf0090321d395ed3!8m2!3d51.0966446!4d3.368163!16s%2Fg%2F1wrtc03_!19sChIJo4ScyXNDw0cR0145HTKQAL8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJjRZgeoRBw0cR3uuVuJ2T2Ic",
-        "name": "Cafe 't Fonteintje",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 90,
-        "competitors": [
-            {
-                "name": "cafe Boltra",
-                "link": "https://www.google.com/maps/search/caf%C3%A9+Boltra/@51.070607200000005,3.3899207?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 75,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "'T Dorpshuis",
-                "link": "https://www.google.com/maps/search/%27T+Dorpshuis/@50.9971895,3.4219891?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "De Nieuwe Muide",
-                "link": "https://www.google.com/maps/search/De+Nieuwe+Muide/@51.043442299999995,3.4005882?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "De Plaetse Marktcafe",
-                "link": "https://www.google.com/maps/search/De+Plaetse+Marktcaf%C3%A9/@51.0416343,3.3973891?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe De Molen",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Molen/@51.037542099999996,3.3950457999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.facebook.com/profile.php%3Fid%3D100057408881130",
-        "owner": {
-            "id": "111833877809855702798",
-            "name": "Cafe 't Fonteintje (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111833877809855702798"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_XNmSdyUXc5agNTVicI-ipB2c1xuSYzTCAa9c=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "16:00-00:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 472 37 33 06",
-        "address": "Cafe 't Fonteintje, Tramweg 1, 8755 Ruiselede, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+%E2%80%99t+Fonteintje/data=!4m7!3m6!1s0x47c341847a60168d:0x87d8939db895ebde!8m2!3d51.0405447!4d3.3984781!16s%2Fg%2F11c54411qh!19sChIJjRZgeoRBw0cR3uuVuJ2T2Ic?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJnYslSrRDw0cRfFGrFXaRnIE",
@@ -1139,7 +1104,7 @@
             {
                 "name": "Brasserie Het Jagershof",
                 "link": "https://www.google.com/maps/search/Brasserie+Het+Jagershof/@51.1508168,3.4775869?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 435,
                 "rating": 4,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -1250,8 +1215,8 @@
         "rating": 4.6,
         "workday_timing": "09:00-12:00, 13:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 9 374 23 24",
         "address": "PedeDrinks Aalter, Hoge Kouter 20, 9880 Aalter, Bi Li Shi ",
@@ -1377,10 +1342,10 @@
         "rating": 4.7,
         "workday_timing": "19:00-04:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi San "
         ],
         "phone": "+32 473 43 94 79",
         "address": "Nobis, De Plaats 1, 9910 Aalter, Bi Li Shi ",
@@ -1437,8 +1402,8 @@
         "rating": 4.8,
         "workday_timing": "10:00-17:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 9 279 66 22",
         "address": "Koren, Stationsstraat 200/0A, 9880 Aalter, Bi Li Shi ",
@@ -1498,8 +1463,7 @@
         "workday_timing": "06:30-18:00",
         "closed_on": [
             "Xing Qi Er ",
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Si "
         ],
         "phone": "+32 9 374 19 43",
         "address": "Kris bakery, Tervennelaan 1, 9880 Aalter, Bi Li Shi ",
@@ -1557,72 +1521,6 @@
         "link": "https://www.google.com/maps/place/caf%C3%A9+De+Sportman/data=!4m7!3m6!1s0x47c369d452264be7:0xce6378d6fdd1329!8m2!3d51.0837417!4d3.4490019!16s%2Fg%2F11g81tf62b!19sChIJ50smUtRpw0cRKRPdb4035gw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJVwEnbo1Dw0cRzqOV0v7f32w",
-        "name": "Cafe New York",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 14,
-        "competitors": [
-            {
-                "name": "De Radio",
-                "link": "https://www.google.com/maps/search/De+Radio/@51.0808501,3.3490799?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 441,
-                "rating": 4.2,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "cafe Boltra",
-                "link": "https://www.google.com/maps/search/caf%C3%A9+Boltra/@51.070607200000005,3.3899207?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 75,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "De Nieuwe Muide",
-                "link": "https://www.google.com/maps/search/De+Nieuwe+Muide/@51.043442299999995,3.4005882?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "De Plaetse Marktcafe",
-                "link": "https://www.google.com/maps/search/De+Plaetse+Marktcaf%C3%A9/@51.0416343,3.3973891?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe De Molen",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Molen/@51.037542099999996,3.3950457999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.doomkerke.be/zaak/cafenewyork/",
-        "owner": {
-            "id": null,
-            "name": "Cafe New York (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOlXkj0ocpjkLTddV_8qi8eOg3ZF1bmbmsYdl2T=w408-h725-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "15:00-22:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": "+32 51 68 81 11",
-        "address": "Cafe New York, Brandstraat 57, 8755 Ruiselede, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafe+New+York/data=!4m7!3m6!1s0x47c3438d6e270157:0x6cdfdffed295a3ce!8m2!3d51.0704249!4d3.3563609!16s%2Fg%2F1tdn37nv!19sChIJVwEnbo1Dw0cRzqOV0v7f32w?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJeQjuRs5Dw0cRBIT5Hu1coNQ",
         "name": "Cafe Vitesse",
         "description": null,
@@ -1643,9 +1541,9 @@
         "rating": 5,
         "workday_timing": "09:30-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+32 478 02 55 89",
         "address": "Cafe Vitesse, Brugstraat 117, 9880 Aalter, Bi Li Shi ",
@@ -1757,34 +1655,6 @@
         "address": "Ijsatelier Lehoucq, Venakker 50, 9880 Aalter, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Ijsatelier+Lehoucq/data=!4m7!3m6!1s0x47c343465ef553f1:0x4af6855ce91c315b!8m2!3d51.0986034!4d3.4461307!16s%2Fg%2F11rc6fjbv1!19sChIJ8VP1XkZDw0cRWzEc6VyF9ko?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ0f_oJuBpw0cR6AK2jJQY4A4",
-        "name": "Bakkerij Lanckriet (Aalter)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": "https://www.bakkerijlanckriet.be/",
-        "owner": {
-            "id": "117217879816959033689",
-            "name": "Bakkerij Lanckriet (Aalter) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117217879816959033689"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2YXwEluWpWATmuDgi9O9_mq7zsQ8jIu7wJ_Gv=w408-h544-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": "07:00-18:00",
-        "closed_on": [
-            "Xing Qi San "
-        ],
-        "phone": "+32 9 342 94 44",
-        "address": "Bakkerij Lanckriet (Aalter), Stationsstraat 131, 9880 Aalter, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bakkerij+Lanckriet+%28Aalter%29/data=!4m7!3m6!1s0x47c369e026e8ffd1:0xee018948cb602e8!8m2!3d51.0885063!4d3.4476538!16s%2Fg%2F11l6ylxdn8!19sChIJ0f_oJuBpw0cR6AK2jJQY4A4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ0wYOIgFqw0cRqZ0WuqH9m8k",
@@ -2274,7 +2144,7 @@
             {
                 "name": "Brasserie Het Jagershof",
                 "link": "https://www.google.com/maps/search/Brasserie+Het+Jagershof/@51.1508168,3.4775869?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 435,
                 "rating": 4,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -2515,115 +2385,6 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Dewillemtel+-+Patrick+Vercruyse/data=!4m7!3m6!1s0x47c35d311afaee33:0xb380e938c6ad71bc!8m2!3d51.1369172!4d3.4189415!16s%2Fg%2F11bzx4gg6g!19sChIJM-76GjFdw0cRvHGtxjjpgLM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJk9zjoNVpw0cREhA3V54jflU",
-        "name": "Chapiteau Aalter",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 31,
-        "competitors": [
-            {
-                "name": "BARZ",
-                "link": "https://www.google.com/maps/search/BARZ/@51.0837915,3.4488844?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 687,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "'t Brouwershuys",
-                "link": "https://www.google.com/maps/search/%27t+Brouwershuys/@51.0839831,3.4485273?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 161,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Champagnebar Aalter",
-                "link": "https://www.google.com/maps/search/Champagnebar+Aalter/@51.084731899999994,3.45029?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Chapiteau Aalter (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjYREx88mHwOq1EgQiMH1THNYFrtnFTuipqxYC=w408-h544-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.2,
-        "workday_timing": "11:00-01:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Chapiteau Aalter, Markt 13, 9880 Aalter, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Chapiteau+Aalter/data=!4m7!3m6!1s0x47c369d5a0e3dc93:0x557e239e57371012!8m2!3d51.084052!4d3.448195!16s%2Fg%2F11j1hxv8d9!19sChIJk9zjoNVpw0cREhA3V54jflU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJF5WVHKBpw0cR0KhxckrntJA",
-        "name": "Cafe Den Arrivee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 23,
-        "competitors": [
-            {
-                "name": "Cafe De Tijl",
-                "link": "https://www.google.com/maps/search/Cafe+De+Tijl/@51.0412545,3.4438874999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Den Zoeten Inval",
-                "link": "https://www.google.com/maps/search/Den+Zoeten+Inval/@51.040833299999996,3.4438888999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 106,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Den Overzet",
-                "link": "https://www.google.com/maps/search/Den+Overzet/@51.106638,3.466608?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 100,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "'t Kafee",
-                "link": "https://www.google.com/maps/search/%27t+Kafee/@51.0919181,3.4470885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 78,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "108378580051806087804",
-            "name": "Cafe Den Arrivee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108378580051806087804"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOdh59pc2ku2bf3D9YecsRgelmatUdKzEnBjAgP=w408-h306-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.3,
-        "workday_timing": "14:00-22:00",
-        "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": null,
-        "address": "Cafe Den Arrivee, Lodorp 97, 9880 Aalter, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Den+Arriv%C3%A9e/data=!4m7!3m6!1s0x47c369a01c959517:0x90b4e74a7271a8d0!8m2!3d51.0493049!4d3.4603753!16s%2Fg%2F11rs2r8lbx!19sChIJF5WVHKBpw0cR0KhxckrntJA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJO0OzeS9dw0cRYcviTBaNn8U",
         "name": "Cafe Sportkring",
         "description": null,
@@ -2704,7 +2465,7 @@
             {
                 "name": "Mr. Blend",
                 "link": "https://www.google.com/maps/search/Mr.+Blend/@51.1386616,3.4132955999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 107,
+                "reviews": 108,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -2759,8 +2520,8 @@
         "rating": 4.7,
         "workday_timing": "10:00-00:00",
         "closed_on": [
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Si "
         ],
         "phone": "+32 473 12 10 21",
         "address": "Cafe de valse keu, Aalterbaan 235, 9990 Maldegem, Bi Li Shi ",
@@ -2839,7 +2600,7 @@
             {
                 "name": "Mr. Blend",
                 "link": "https://www.google.com/maps/search/Mr.+Blend/@51.1386616,3.4132955999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 107,
+                "reviews": 108,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -2926,68 +2687,6 @@
         "link": "https://www.google.com/maps/place/SUPER+8/data=!4m7!3m6!1s0x47c369858a603db9:0x7218b27f36493092!8m2!3d51.0836457!4d3.4487513!16s%2Fg%2F11gxr4c4hw!19sChIJuT1gioVpw0cRkjBJNn-yGHI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJK5TCC8Rdw0cRdtvxrDXaZVk",
-        "name": "knesselare",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "De Litanie",
-                "link": "https://www.google.com/maps/search/De+Litanie/@51.1391931,3.4120668?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Brasserie De Swaene",
-                "link": "https://www.google.com/maps/search/Brasserie+De+Swaene/@51.1388563,3.4131247?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 226,
-                "rating": 4.3,
-                "main_category": "Cha Yi Guan "
-            },
-            {
-                "name": "Cafe De Medard",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+De+Medard/@51.1296677,3.4854919?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Nobis",
-                "link": "https://www.google.com/maps/search/Nobis/@51.1392147,3.4131335999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Sportkring",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Sportkring/@51.1397124,3.4119547999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "knesselare (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wvD40sdVegoOD1bQ8m7c_A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=54.506542&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "knesselare, 9910 Aalter, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/knesselare/data=!4m7!3m6!1s0x47c35dc40bc2942b:0x5965da35acf1db76!8m2!3d51.1389261!4d3.4127817!16s%2Fg%2F11tmk2fp92!19sChIJK5TCC8Rdw0cRdtvxrDXaZVk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJo0TVD_Rpw0cRCKGQJAI9heM",
         "name": "Cafe Hoger Op-Hilmar Snoekerza",
         "description": null,
@@ -3041,39 +2740,5 @@
         "address": "Cafe Hoger Op-Hilmar Snoekerza, Lodorp 101, 9880 Aalter, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Hoger+Op-Hilmar+Snoekerza/data=!4m7!3m6!1s0x47c369f40fd544a3:0xe3853d022490a108!8m2!3d51.0492179!4d3.4609399!16s%2Fg%2F11c1szspdr!19sChIJo0TVD_Rpw0cRCKGQJAI9heM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJW1boRtRpw0cRetFVopjzmKA",
-        "name": "Staf's Corner",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Sportkring",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Sportkring/@51.1397124,3.4119547999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "103063636967838985374",
-            "name": "Staf's Corner (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103063636967838985374"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ktajZwHQ4SUb4MXzcnAjkA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=204.81773&pitch=0&thumbfov=100",
-        "main_category": "Gou Er Ka Pei Guan ",
-        "categories": [
-            "Gou Er Ka Pei Guan "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Staf's Corner, Gouvernementstraat 14b, 9880 Aalter, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Staf%27s+Corner/data=!4m7!3m6!1s0x47c369d446e8565b:0xa098f398a255d17a!8m2!3d51.0910757!4d3.4484787!16s%2Fg%2F11jspz64v6!19sChIJW1boRtRpw0cRetFVopjzmKA?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

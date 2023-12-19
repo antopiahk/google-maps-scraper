@@ -643,33 +643,6 @@
         "link": "https://www.google.com/maps/place/Dobronom/data=!4m7!3m6!1s0x46d21f9c75685d51:0x9ca19091d896d1e8!8m2!3d53.7128116!4d31.7273549!16s%2Fg%2F11sg50y436!19sChIJUV1odZwf0kYR6NGW2JGQoZw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJs_bMgzkf0kYR46c-atfJ8lA",
-        "name": "Kopeyechka",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": "https://kopeechka.by/",
-        "owner": {
-            "id": "103223877671578994887",
-            "name": "Kopeyechka (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103223877671578994887"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbUn162dZ4jJyN8eg9zQXIUl5cu784s_TMg72s=w426-h240-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian ",
-            "Chao Ji Shi Chang "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+375 29 144-70-00",
-        "address": "Kopeyechka, 22A, Krychaw 213500Bai E Luo Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Kopeyechka/data=!4m7!3m6!1s0x46d21f3983ccf6b3:0x50f2c9d76a3ea7e3!8m2!3d53.7127346!4d31.7169054!16s%2Fg%2F11v022p5cb!19sChIJs_bMgzkf0kYR46c-atfJ8lA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJw-A-gs0f0kYRvmy43gAUmnc",
         "name": "Dobronom",
         "description": null,
@@ -717,6 +690,33 @@
         "address": "Dobronom, Krichev mikroraion Sozh 22A, 213500Bai E Luo Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Dobronom/data=!4m7!3m6!1s0x46d21fcd823ee0c3:0x779a1400deb86cbe!8m2!3d53.7123!4d31.7231599!16s%2Fg%2F11sg59sc01!19sChIJw-A-gs0f0kYRvmy43gAUmnc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJs_bMgzkf0kYR46c-atfJ8lA",
+        "name": "Kopeyechka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": "https://kopeechka.by/",
+        "owner": {
+            "id": "103223877671578994887",
+            "name": "Kopeyechka (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103223877671578994887"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbUn162dZ4jJyN8eg9zQXIUl5cu784s_TMg72s=w426-h240-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian ",
+            "Chao Ji Shi Chang "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+375 29 144-70-00",
+        "address": "Kopeyechka, 22A, Krychaw 213500Bai E Luo Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kopeyechka/data=!4m7!3m6!1s0x46d21f3983ccf6b3:0x50f2c9d76a3ea7e3!8m2!3d53.7127346!4d31.7169054!16s%2Fg%2F11v022p5cb!19sChIJs_bMgzkf0kYR46c-atfJ8lA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJJ7-dXPsf0kYRGx9YL2Sy1dc",
@@ -1061,6 +1061,61 @@
         "address": "Kvartal Vkusa, m-n Komsomol'skii (vozle zhilogo doma, Krychaw 213495Bai E Luo Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kvartal+Vkusa/data=!4m7!3m6!1s0x46d21f3495c244db:0x5173d3a9f3422957!8m2!3d53.7140378!4d31.7125109!16s%2Fg%2F11ppc3prg0!19sChIJ20TClTQf0kYRVylC86nTc1E?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJg7tr2Zv10UYRGiS5C9A7vwI",
+        "name": "Stolovaya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "competitors": [
+            {
+                "name": "Kafe \"Moderato\"",
+                "link": "https://www.google.com/maps/search/Kafe+%22Moderato%22/@53.693816999999996,31.7156807?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 90,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Khorosho",
+                "link": "https://www.google.com/maps/search/Khorosho/@53.7119554,31.718822099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 3.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Oao \"Krichevobshchepit\"",
+                "link": "https://www.google.com/maps/search/Oao+%22Krichevobshchepit%22/@53.6936762,31.715583499999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kapriz Kafe Krichevskogo Raipo",
+                "link": "https://www.google.com/maps/search/Kapriz+Kafe+Krichevskogo+Raipo/@53.7194444,31.713888899999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 2,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Stolovaya (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMO5M8-AHPmc16y8JIw6eDPGJTkZMSxVShxMgZP=w408-h544-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 3.7,
+        "workday_timing": "09:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Stolovaya, Ulitsa Zaslonova 6, Krychaw, Mogilev Region, Bai E Luo Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Stolovaya/data=!4m7!3m6!1s0x46d1f59bd96bbb83:0x2bf3bd00bb9241a!8m2!3d53.7393035!4d31.7054251!16s%2Fg%2F11lbxfjpbd!19sChIJg7tr2Zv10UYRGiS5C9A7vwI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJVTQWhtQf0kYRAYkJoSj0TVY",
@@ -1668,54 +1723,6 @@
         "address": "Denivest-Treyd, Ulitsa Leninskaya 195, Krychaw, Mogilev Region, Bai E Luo Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Denivest-Treyd/data=!4m7!3m6!1s0x46d2213d57f7f175:0x5e56b1561199cf91!8m2!3d53.6788765!4d31.6836483!16s%2Fg%2F11pcrs05g8!19sChIJdfH3Vz0h0kYRkc-ZEVaxVl4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJX-c6nk8f0kYRmVH0xHEuGCQ",
-        "name": "Oao \"Sashabelyy\"",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Magazin Suzor'ye",
-                "link": "https://www.google.com/maps/search/Magazin+Suzor%27ye/@53.705414600000005,31.724500799999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
-                "rating": 3.8,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Domochay",
-                "link": "https://www.google.com/maps/search/Domochay/@53.7138007,31.724390299999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 104,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Svyatogorskiy",
-                "link": "https://www.google.com/maps/search/Svyatogorskiy/@53.7405118,31.708207599999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 2.3,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Oao \"Sashabelyy\" (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Oao \"Sashabelyy\", ulitsa mikroraion Sozh, Krychaw, Mogilev Region, Bai E Luo Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Oao+%22Sashabelyy%22/data=!4m7!3m6!1s0x46d21f4f9e3ae75f:0x24182e71c4f45199!8m2!3d53.7140071!4d31.717476!16s%2Fg%2F11rkp2m0db!19sChIJX-c6nk8f0kYRmVH0xHEuGCQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJJ7-dXPsf0kYRPzYgc41UuLg",

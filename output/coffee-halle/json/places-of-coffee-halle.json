@@ -4,12 +4,12 @@
         "name": "Cafe N8",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1371,
+        "reviews": 1372,
         "competitors": [
             {
                 "name": "Roter Horizont",
                 "link": "https://www.google.com/maps/search/Roter+Horizont/@51.485565199999996,11.9665535?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 647,
+                "reviews": 648,
                 "rating": 4.3,
                 "main_category": "Cha Yi Guan "
             },
@@ -108,7 +108,7 @@
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -198,7 +198,7 @@
             {
                 "name": "Roter Horizont",
                 "link": "https://www.google.com/maps/search/Roter+Horizont/@51.485565199999996,11.9665535?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 647,
+                "reviews": 648,
                 "rating": 4.3,
                 "main_category": "Cha Yi Guan "
             },
@@ -292,7 +292,7 @@
             {
                 "name": "HARIBO Shop Halle-Leipzig",
                 "link": "https://www.google.com/maps/search/HARIBO+Shop+Halle-Leipzig/@51.5540209,12.192955999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 354,
+                "reviews": 355,
                 "rating": 4.3,
                 "main_category": "Tang Guo Dian "
             },
@@ -306,7 +306,7 @@
             {
                 "name": "Schoko Ladchen -Angelika Burchardt",
                 "link": "https://www.google.com/maps/search/Schoko+L%C3%A4dchen+-Angelika+Burchardt/@51.483296499999994,11.967557099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.7,
                 "main_category": "Zhu Gu Li Dian "
             },
@@ -429,7 +429,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "06:30-18:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+49 345 68493817",
         "address": "Backhaus Hennig - Backcafe, Willy-Brandt-Str 72, 06110 Halle (Saale), De Guo ",
         "review_keywords": [
@@ -473,12 +475,12 @@
         "name": "Roter Horizont",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 648,
+        "reviews": 649,
         "competitors": [
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -595,7 +597,7 @@
             {
                 "name": "Restaurant Olea",
                 "link": "https://www.google.com/maps/search/Restaurant+Olea/@51.480449199999995,11.9731545?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 320,
+                "reviews": 322,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -627,6 +629,7 @@
         "rating": 4.3,
         "workday_timing": "11:00-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi "
         ],
         "phone": "+49 345 2036338",
@@ -669,7 +672,7 @@
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -730,7 +733,7 @@
             },
             {
                 "keyword": "Zhuo ",
-                "count": 16
+                "count": 17
             },
             {
                 "keyword": "Dan Gao ",
@@ -869,7 +872,7 @@
             {
                 "name": "7 Gramm",
                 "link": "https://www.google.com/maps/search/7+Gramm/@51.48538,11.9698301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 650,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -973,7 +976,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1055,7 +1058,7 @@
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1140,19 +1143,19 @@
         "name": "The Shabby",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 432,
+        "reviews": 433,
         "competitors": [
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Avecio",
                 "link": "https://www.google.com/maps/search/Avecio/@51.4801855,11.9700651?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 609,
+                "reviews": 610,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -1288,7 +1291,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "13:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+49 345 22602882",
         "address": "Kaffeehaus Wittekind, Seebener Str. 20, 06114 Halle (Saale), De Guo ",
         "review_keywords": [
@@ -1329,7 +1334,7 @@
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1448,7 +1453,7 @@
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
-        "website": "https://m.facebook.com/wendl.brotagonist/%3Ftsid%3D0.2434615364164434%26source%3Dresult",
+        "website": "https://m.facebook.com/wendl.brotagonist/?tsid=0.2434615364164434&source=result",
         "owner": {
             "id": "102270725203590856116",
             "name": "Konditorei & Backerei Wendl GmbH (Ye Zhu )",
@@ -1699,7 +1704,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1777,7 +1782,7 @@
         "name": "Kaffee Fleck",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 308,
+        "reviews": 309,
         "competitors": [
             {
                 "name": "nt-Cafe",
@@ -1803,7 +1808,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -1824,8 +1829,8 @@
         "rating": 4.7,
         "workday_timing": "12:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+49 345 51721559",
         "address": "Kaffee Fleck, Hackebornstrasse 4, 06108 Halle (Saale), De Guo ",
@@ -1870,7 +1875,7 @@
         "name": "kafe [kaju]",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 306,
+        "reviews": 307,
         "competitors": [
             {
                 "name": "cafe _oo",
@@ -1903,7 +1908,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -2053,9 +2058,9 @@
         "name": "Cafe&mehr Halle - Pension|Fruhstuck|Mittag|Feiern",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 287,
+        "reviews": 289,
         "competitors": [],
-        "website": "https://cafeundmehr.business.site/?utm_source=gmb&utm_medium=referral",
+        "website": "https://cafeundmehr.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
         "owner": {
             "id": "108187046149123332193",
             "name": "Cafe&mehr Halle - Pension|Fruhstuck|Mittag|Feiern (Ye Zhu )",
@@ -2165,8 +2170,8 @@
         "rating": 4.4,
         "workday_timing": "17:00-01:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+49 345 13256026",
         "address": "Cafe Brohmers, Bernburger Str. 9, 06108 Halle (Saale), De Guo ",
@@ -2191,97 +2196,80 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Brohmers/data=!4m7!3m6!1s0x47a67caaafe0904b:0x12439ce61e82f0bc!8m2!3d51.4938806!4d11.965897!16s%2Fg%2F11g_lx1bh!19sChIJS5Dgr6p8pkcRvPCCHuacQxI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJL-hYaFh7pkcRI2aGXjsCWYw",
-        "name": "Elfengrund am Riveufer",
+        "place_id": "ChIJYakVVgdjpkcRhVnV8OnDZN8",
+        "name": "Tekiez - Turkisches Fruhstuckscafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 238,
+        "reviews": 244,
         "competitors": [
             {
-                "name": "Orig. Thuringer Rostbratwurstgrill",
-                "link": "https://www.google.com/maps/search/Orig.+Th%C3%BCringer+Rostbratwurstgrill/@51.4357519,11.9837481?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 702,
-                "rating": 4.3,
-                "main_category": "Xiao Shi /Ling Shi Ba "
-            },
-            {
-                "name": "FelsenPavillon",
-                "link": "https://www.google.com/maps/search/FelsenPavillon/@51.4992477,11.9498685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 462,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Bootshaus 5",
-                "link": "https://www.google.com/maps/search/Bootshaus+5/@51.496853300000005,11.951823099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "name": "SUN DECK - Cafe, Bar & Bistro",
+                "link": "https://www.google.com/maps/search/SUN+DECK+-+Cafe%2C+Bar+%26+Bistro/@51.485206299999994,11.960887999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 550,
                 "rating": 4.4,
-                "main_category": "Xiao Shi /Ling Shi Ba "
-            },
-            {
-                "name": "Curry 15",
-                "link": "https://www.google.com/maps/search/Curry+15/@51.481443299999995,11.956991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 4.6,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Cafe am Riveufer",
-                "link": "https://www.google.com/maps/search/Cafe+am+Riveufer/@51.50269910000001,11.9505538?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "nt-Cafe",
+                "link": "https://www.google.com/maps/search/nt-Caf%C3%A9/@51.4852917,11.968594?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 434,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Bistro Antalya",
+                "link": "https://www.google.com/maps/search/Bistro+Antalya/@51.4668388,11.977893799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 151,
+                "rating": 4.2,
+                "main_category": "Xiao Can Guan  (Bistro)"
+            },
+            {
+                "name": "The Taste Kitchen",
+                "link": "https://www.google.com/maps/search/The+Taste+Kitchen/@51.4705892,11.969407499999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "ismet tekin",
+                "link": "https://www.google.com/maps/search/ismet+tekin/@51.4914163,11.9741945?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
             }
         ],
-        "website": "https://elfengrund-am-riveufer.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "http://www.kiezdoener.de/",
         "owner": {
-            "id": "114191712227653217202",
-            "name": "Elfengrund am Riveufer (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114191712227653217202"
+            "id": "111821740149056239342",
+            "name": "Tekiez - Turkisches Fruhstuckscafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111821740149056239342"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMq-ATxH68AjwJ6e_1MisBMIjgLT7j_5gocYagn=w426-h240-k-no",
-        "main_category": "Pi Jiu Hua Yuan ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUZOkwoYDpifnvjgsISzaI9mxDjknze1yxB0Vn=w408-h306-k-no",
+        "main_category": "Yi Lang Ka Pei Ting ",
         "categories": [
-            "Pi Jiu Hua Yuan ",
-            "Xue Gao Dian ",
-            "Xiao Shi /Ling Shi Ba "
+            "Yi Lang Ka Pei Ting ",
+            "Zao Can Can Ting "
         ],
-        "rating": 4.6,
-        "workday_timing": "11:00-19:00",
+        "rating": 4.4,
+        "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": "+49 178 5247319",
-        "address": "Elfengrund am Riveufer, Riveufer 10, 06114 Halle (Saale), De Guo ",
+        "phone": "+49 163 2066392",
+        "address": "Tekiez - Turkisches Fruhstuckscafe, Ludwig-Wucherer-Strasse 12, 06108 Halle (Saale), De Guo ",
         "review_keywords": [
             {
-                "keyword": "Xiao Chi ",
-                "count": 14
-            },
-            {
                 "keyword": "Jia Ge ",
-                "count": 9
+                "count": 11
             },
             {
-                "keyword": "San Bu ",
+                "keyword": "star",
                 "count": 4
             },
             {
-                "keyword": "Gong Ying ",
-                "count": 3
-            },
-            {
-                "keyword": "Niu Pai ",
-                "count": 3
-            },
-            {
-                "keyword": "Zuo ",
-                "count": 3
-            },
-            {
-                "keyword": "Tian Qi ",
+                "keyword": "Rou ",
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Elfengrund+am+Riveufer/data=!4m7!3m6!1s0x47a67b586858e82f:0x8c59023b5e866623!8m2!3d51.4973518!4d11.9510809!16s%2Fg%2F12hk5_d5r!19sChIJL-hYaFh7pkcRI2aGXjsCWYw?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Tekiez+-+T%C3%BCrkisches+Fr%C3%BChst%C3%BCckscaf%C3%A9/data=!4m7!3m6!1s0x47a663075615a961:0xdf64c3e9f0d55985!8m2!3d51.4914413!4d11.9741027!16s%2Fg%2F11f61f7g5f!19sChIJYakVVgdjpkcRhVnV8OnDZN8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJv6XYMExjpkcRMLfwTlzjSZo",
@@ -2485,7 +2473,7 @@
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2576,7 +2564,7 @@
             {
                 "name": "7 Gramm",
                 "link": "https://www.google.com/maps/search/7+Gramm/@51.48538,11.9698301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 650,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2754,7 +2742,7 @@
             {
                 "name": "BWG Erlebnishaus",
                 "link": "https://www.google.com/maps/search/BWG+Erlebnishaus/@51.480010899999996,11.9568242?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 917,
+                "reviews": 918,
                 "rating": 4.3,
                 "main_category": "Shi Nei You Le Chang "
             },
@@ -2843,7 +2831,7 @@
             {
                 "name": "Bar Haley",
                 "link": "https://www.google.com/maps/search/Bar+Haley/@51.4851259,11.966446000000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 228,
+                "reviews": 227,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -2884,7 +2872,9 @@
         ],
         "rating": 4.8,
         "workday_timing": "15:00-23:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+49 172 2082248",
         "address": "Mischbatt'rie - Bar & Cafe, Wormlitzer Str. 1, 06110 Halle (Saale), De Guo ",
         "review_keywords": [
@@ -2940,7 +2930,7 @@
             {
                 "name": "Bakery & Cafe Tannert Thomas",
                 "link": "https://www.google.com/maps/search/Bakery+%26+Cafe+Tannert+Thomas/@51.48723090000001,11.980655899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 150,
+                "reviews": 151,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3035,7 +3025,7 @@
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
-        "website": "https://de-de.facebook.com/LeCroissant-2233027160271005/%3Fref%3Dpage_internal",
+        "website": "https://de-de.facebook.com/LeCroissant-2233027160271005/?ref=page_internal",
         "owner": {
             "id": "115315623234950612995",
             "name": "Le Croissant (Ye Zhu )",
@@ -3326,7 +3316,7 @@
             {
                 "name": "Mischbatt'rie - Bar & Cafe",
                 "link": "https://www.google.com/maps/search/Mischbatt%27rie+-+Bar+%26+Caf%C3%A9/@51.4735698,11.969428299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 155,
+                "reviews": 154,
                 "rating": 4.8,
                 "main_category": "Jiu Ba "
             },
@@ -3555,7 +3545,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -3802,7 +3792,7 @@
             {
                 "name": "dean&david",
                 "link": "https://www.google.com/maps/search/dean%26david/@51.476713,11.987947199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
+                "reviews": 69,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -4026,7 +4016,7 @@
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4066,6 +4056,7 @@
         "rating": 4.9,
         "workday_timing": "09:00-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi "
         ],
         "phone": "+49 345 13256833",
@@ -4279,7 +4270,7 @@
             {
                 "name": "7 Gramm",
                 "link": "https://www.google.com/maps/search/7+Gramm/@51.48538,11.9698301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 650,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -4436,7 +4427,7 @@
             {
                 "name": "Bakery & Cafe Tannert Thomas",
                 "link": "https://www.google.com/maps/search/Bakery+%26+Cafe+Tannert+Thomas/@51.48723090000001,11.980655899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 150,
+                "reviews": 151,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4615,8 +4606,8 @@
         "rating": 5,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+49 345 2026966",
         "address": "TEA-BOX Susanne Stelzer-Fiedler, Grosse Steinstrasse 9, 06108 Halle (Saale), De Guo ",
@@ -4752,8 +4743,8 @@
         "rating": 4.5,
         "workday_timing": "10:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Welcome-Treff, Geiststrasse 58, 06108 Halle (Saale), De Guo ",
@@ -4818,8 +4809,8 @@
         "rating": 4.7,
         "workday_timing": "09:00-21:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+49 345 5220611",
         "address": "Waschhaus Dunte, Bockstrasse 1, 06114 Halle (Saale), De Guo ",
@@ -5221,8 +5212,8 @@
         "rating": 4,
         "workday_timing": "07:00-17:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+49 34672 81506",
         "address": "Der Backer Lampe, Steinweg 6, 06110 Halle (Saale), De Guo ",
@@ -5244,7 +5235,7 @@
             {
                 "name": "Bar Haley",
                 "link": "https://www.google.com/maps/search/Bar+Haley/@51.4851259,11.966446000000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 228,
+                "reviews": 227,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -5258,15 +5249,15 @@
             {
                 "name": "Mischbatt'rie - Bar & Cafe",
                 "link": "https://www.google.com/maps/search/Mischbatt%27rie+-+Bar+%26+Caf%C3%A9/@51.4735698,11.969428299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 155,
+                "reviews": 154,
                 "rating": 4.8,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "LOUNGE- Shisha & Cocktailbar",
                 "link": "https://www.google.com/maps/search/LOUNGE-+Shisha+%26+Cocktailbar/@51.48345,11.926485999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.4,
+                "reviews": 88,
+                "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
@@ -5331,7 +5322,7 @@
             {
                 "name": "Kaffeehaus Wittekind",
                 "link": "https://www.google.com/maps/search/Kaffeehaus+Wittekind/@51.504810199999994,11.959031999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -5434,8 +5425,8 @@
         "rating": 5,
         "workday_timing": "11:30-18:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Cup der guten Hoffnung, Reilstrasse 129, 06114 Halle (Saale), De Guo ",
@@ -5501,7 +5492,7 @@
             {
                 "name": "Schoko Ladchen -Angelika Burchardt",
                 "link": "https://www.google.com/maps/search/Schoko+L%C3%A4dchen+-Angelika+Burchardt/@51.483296499999994,11.967557099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.7,
                 "main_category": "Zhu Gu Li Dian "
             }
@@ -5587,8 +5578,8 @@
         "rating": 5,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+49 345 5821920",
         "address": "Allerlei Tee, Schmeerstrasse 3, 06108 Halle (Saale), De Guo ",
@@ -5658,8 +5649,8 @@
         "rating": 4.4,
         "workday_timing": "08:00-17:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+49 345 5524980",
         "address": "Cafebar Steintor-Campus des Studentenwerkes Halle, Adam-Kuckhoff-Strasse 34, 06108 Halle (Saale), De Guo ",
@@ -5776,8 +5767,8 @@
         "rating": 4.8,
         "workday_timing": "11:00-17:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+49 173 8237660",
         "address": "Konditorei >>Torte und Praline<<, Kleine Ulrichstrasse 24a, 06108 Halle (Saale), De Guo ",
@@ -5840,8 +5831,8 @@
         "rating": 5,
         "workday_timing": "10:00-17:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Roy Coffee Hub, Weinbergweg 23, 06120 Halle (Saale), De Guo ",
@@ -5906,9 +5897,9 @@
         "rating": 4.4,
         "workday_timing": "09:30-12:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+49 345 68133701",
         "address": "Familiencafe Volkchen, Platz der Volkerfreundschaft 2, 06128 Halle (Saale), De Guo ",
@@ -6013,9 +6004,9 @@
         "rating": 5,
         "workday_timing": "09:00-14:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Stullenwerk Cafe, Fritz-Hoffmann-Strasse 64, 06116 Halle (Saale), De Guo ",
@@ -6032,7 +6023,7 @@
             {
                 "name": "REWE",
                 "link": "https://www.google.com/maps/search/REWE/@51.4883373,11.9824516?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1112,
+                "reviews": 1113,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -6096,17 +6087,17 @@
         "reviews": 1,
         "competitors": [
             {
+                "name": "Kaffeehaus Wittekind",
+                "link": "https://www.google.com/maps/search/Kaffeehaus+Wittekind/@51.504810199999994,11.959031999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 428,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
                 "name": "Haus und Hof",
                 "link": "https://www.google.com/maps/search/Haus+und+Hof/@51.494800899999994,11.965864199999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 428,
                 "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Kaffeehaus Wittekind",
-                "link": "https://www.google.com/maps/search/Kaffeehaus+Wittekind/@51.504810199999994,11.959031999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
-                "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
@@ -6145,8 +6136,8 @@
         "rating": 4,
         "workday_timing": "09:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+49 345 7787220",
         "address": "Cafeteria im Diakoniekrankenhaus, Muhlweg 7, 06114 Halle (Saale), De Guo ",
@@ -6170,14 +6161,14 @@
             {
                 "name": "Ristorante Bella Italia",
                 "link": "https://www.google.com/maps/search/Ristorante+Bella+Italia/@51.4821302,11.970781299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 824,
+                "reviews": 825,
                 "rating": 4,
                 "main_category": "Yi Da Li Cai "
             },
             {
                 "name": "Stella - Restaurant & Pizzeria",
                 "link": "https://www.google.com/maps/search/Stella+-+Restaurant+%26+Pizzeria/@51.4803709,11.972396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 702,
+                "reviews": 703,
                 "rating": 4.1,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -6254,12 +6245,12 @@
         "name": "7 Gramm",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 650,
+        "reviews": 651,
         "competitors": [
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6305,7 +6296,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "08:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+49 345 68589767",
         "address": "7 Gramm, Barfusserstrasse 11, 06108 Halle (Saale), De Guo ",
         "review_keywords": [
@@ -6450,7 +6443,7 @@
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6478,7 +6471,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -6542,7 +6535,7 @@
             {
                 "name": "Cafe N8",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+N8/@51.484150799999995,11.9679539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1368,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6556,7 +6549,7 @@
             {
                 "name": "7 Gramm",
                 "link": "https://www.google.com/maps/search/7+Gramm/@51.48538,11.9698301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 650,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -6724,7 +6717,7 @@
             {
                 "name": "7 Gramm",
                 "link": "https://www.google.com/maps/search/7+Gramm/@51.48538,11.9698301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 650,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -6818,7 +6811,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -6932,8 +6925,8 @@
         "rating": 4.7,
         "workday_timing": "07:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+49 345 5170234",
         "address": "Bakery & Cafe Tannert Thomas, Krausenstrasse 23, 06112 Halle (Saale), De Guo ",
@@ -7135,7 +7128,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -7193,44 +7186,83 @@
         "link": "https://www.google.com/maps/place/Heide-Caf%C3%A9/data=!4m7!3m6!1s0x47a67c62c66315df:0xba89134e93791d0!8m2!3d51.4894533!4d11.9038903!16s%2Fg%2F1v62gp9f!19sChIJ3xVjxmJ8pkcR0JE36TSRqAs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJS4NhR0N7pkcR-GAXCT-y0rI",
-        "name": "Cafe Eismurmel",
+        "place_id": "ChIJL4ChkeNjpkcRSAndAYy4paE",
+        "name": "Cafe Polenka",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 110,
+        "reviews": 114,
         "competitors": [
             {
-                "name": "Eiscafe \"For Softi\"",
-                "link": "https://www.google.com/maps/search/Eiscafe+%22For+Softi%22/@51.479975599999996,11.976621699999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
-                "rating": 4.6,
-                "main_category": "Bing Qi Lin "
+                "name": "Kaffee Fleck",
+                "link": "https://www.google.com/maps/search/Kaffee+Fleck/@51.482750800000005,11.9660955?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 308,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Miss August UG",
+                "link": "https://www.google.com/maps/search/Miss+August+UG/@51.491332899999996,11.9692951?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 247,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Lekkerey",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Lekkerey/@51.485990699999995,11.9665548?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 212,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Wolkenkuckucksheim",
+                "link": "https://www.google.com/maps/search/Wolkenkuckucksheim/@51.49192,11.9684599?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 149,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "NEKO-Cafe",
+                "link": "https://www.google.com/maps/search/NEKO-Caf%C3%A9/@51.4855757,11.9720961?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 88,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
             }
         ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Cafe Eismurmel (Ye Zhu )",
-            "link": null
+            "id": "109938221061565802352",
+            "name": "Cafe Polenka (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109938221061565802352"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOh9c0FjY4t0Q7qpPkPW49LGuygnI0w1lCfjJeo=w408-h523-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9OydFWt08Bxr14gj3l375XbpfYKCrMk0-Ftmi=w426-h240-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
-            "Ka Pei Ting ",
-            "Xue Gao Dian "
+            "Ka Pei Ting "
         ],
         "rating": 4.6,
         "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Cafe Eismurmel, Senffstrasse 25, 06120 Halle (Saale), De Guo ",
+        "phone": "+49 176 80642015",
+        "address": "Cafe Polenka, Schillerstrasse 41, 06114 Halle (Saale), De Guo ",
         "review_keywords": [
             {
-                "keyword": "Jia Ge ",
-                "count": 11
+                "keyword": "Dan Gao ",
+                "count": 21
+            },
+            {
+                "keyword": "Yin Le ",
+                "count": 8
+            },
+            {
+                "keyword": "vegan",
+                "count": 4
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Eismurmel/data=!4m7!3m6!1s0x47a67b434761834b:0xb2d2b23f091760f8!8m2!3d51.5074218!4d11.9490339!16s%2Fg%2F11fmz3j8tb!19sChIJS4NhR0N7pkcR-GAXCT-y0rI?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Polenka/data=!4m7!3m6!1s0x47a663e391a1802f:0xa1a5b88c01dd0948!8m2!3d51.4929896!4d11.9793294!16s%2Fg%2F11h5dx9m92!19sChIJL4ChkeNjpkcRSAndAYy4paE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJH3to0E5jpkcRKjAwSTFzaIc",
@@ -7256,7 +7288,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -7291,8 +7323,8 @@
         "rating": 4.4,
         "workday_timing": "09:00-17:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+49 345 2023672",
         "address": "Cafe Hopfgarten, Rannische Str. 13, 06108 Halle (Saale), De Guo ",
@@ -7408,7 +7440,7 @@
             {
                 "name": "Colonne Morris - coffee bar in Paulusviertel",
                 "link": "https://www.google.com/maps/search/Colonne+Morris+-+coffee+bar+in+Paulusviertel/@51.49331,11.9744601?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 475,
+                "reviews": 474,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -7460,6 +7492,90 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Bar+-+Cafe+Oberst%C3%BCbchen/data=!4m7!3m6!1s0x47a67b6077cb24c7:0x7c243397febc691b!8m2!3d51.4961657!4d11.965617!16s%2Fg%2F11qmmfs9r1!19sChIJxyTLd2B7pkcRG2m8_pczJHw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6wYOlLN7pkcRzvvdR0Tk6oM",
+        "name": "Reileins",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 55,
+        "competitors": [
+            {
+                "name": "nt-Cafe",
+                "link": "https://www.google.com/maps/search/nt-Caf%C3%A9/@51.4852917,11.968594?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 434,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Rosenburg",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Rosenburg/@51.4972462,11.963815?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 310,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Miss August UG",
+                "link": "https://www.google.com/maps/search/Miss+August+UG/@51.491332899999996,11.9692951?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 247,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Lekkerey",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Lekkerey/@51.485990699999995,11.9665548?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 212,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Wolkenkuckucksheim",
+                "link": "https://www.google.com/maps/search/Wolkenkuckucksheim/@51.49192,11.9684599?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 149,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "115153276291600649535",
+            "name": "Reileins (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115153276291600649535"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcSif_sbOhgVDOvssj0Wl-21co6-U2uaCW3rTy=w408-h410-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Xue Gao Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+49 345 56644163",
+        "address": "Reileins, Reilstrasse 1, 06114 Halle (Saale), De Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Dan Gao ",
+                "count": 11
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 7
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 6
+            },
+            {
+                "keyword": "Shuang Qi Lin ",
+                "count": 3
+            },
+            {
+                "keyword": "Ke Song ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Reileins/data=!4m7!3m6!1s0x47a67bb3940e06eb:0x83eae44447ddfbce!8m2!3d51.4957021!4d11.9659735!16s%2Fg%2F11ngjrhvfr!19sChIJ6wYOlLN7pkcRzvvdR0Tk6oM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJg6vJ_Fl7pkcRX4_y5N2x5FI",
@@ -7536,7 +7652,7 @@
             {
                 "name": "Restaurant Schnitzelwirtin",
                 "link": "https://www.google.com/maps/search/Restaurant+Schnitzelwirtin/@51.4807413,11.9712634?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1645,
+                "reviews": 1646,
                 "rating": 4.6,
                 "main_category": "De Guo Cai "
             },
@@ -7557,7 +7673,7 @@
             {
                 "name": "Dompfaff-Restaurant",
                 "link": "https://www.google.com/maps/search/Dompfaff-Restaurant/@51.484665799999995,11.9656735?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 404,
+                "reviews": 406,
                 "rating": 4.5,
                 "main_category": "De Guo Cai "
             }
@@ -7762,7 +7878,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -7781,8 +7897,8 @@
         "rating": 5,
         "workday_timing": "10:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+49 179 5158084",
         "address": "Cafe Faust, Harz 1, 06108 Halle (Saale), De Guo ",
@@ -7845,7 +7961,7 @@
             {
                 "name": "7 Gramm",
                 "link": "https://www.google.com/maps/search/7+Gramm/@51.48538,11.9698301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 650,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -7886,8 +8002,8 @@
         "rating": 4.6,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+49 345 7828994",
         "address": "Cafe H7, Hohe Str. 7, 06132 Halle (Saale), De Guo ",
@@ -7920,8 +8036,8 @@
         "rating": 3.9,
         "workday_timing": "09:00-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+49 345 5522932",
         "address": "Cafeteria im Juridicum, Universitatsplatz, 06108 Halle (Saale), De Guo ",
@@ -7952,7 +8068,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -8173,14 +8289,14 @@
             {
                 "name": "Kaffeehaus Wittekind",
                 "link": "https://www.google.com/maps/search/Kaffeehaus+Wittekind/@51.504810199999994,11.959031999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -8290,7 +8406,7 @@
             {
                 "name": "7 Gramm",
                 "link": "https://www.google.com/maps/search/7+Gramm/@51.48538,11.9698301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 650,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -8311,7 +8427,7 @@
             {
                 "name": "Cafe Konig",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -8344,6 +8460,70 @@
         "link": "https://www.google.com/maps/place/Cafe+22/data=!4m7!3m6!1s0x47a66338eb44cc69:0x7b2ea3d0229440f3!8m2!3d51.4924577!4d11.9684532!16s%2Fg%2F11fl9h3f3h!19sChIJacxE6zhjpkcR80CUItCjLns?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJEfR_Z8BjpkcRlNqMEuR0OG8",
+        "name": "Transparenz. Cafe - Working - Kultur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "7 Gramm",
+                "link": "https://www.google.com/maps/search/7+Gramm/@51.48538,11.9698301?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 650,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Roter Horizont",
+                "link": "https://www.google.com/maps/search/Roter+Horizont/@51.485565199999996,11.9665535?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 648,
+                "rating": 4.3,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "nt-Cafe",
+                "link": "https://www.google.com/maps/search/nt-Caf%C3%A9/@51.4852917,11.968594?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 434,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Kuckhoff",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Kuckhoff/@51.4910523,11.971898999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 343,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Moritzkunstcafe",
+                "link": "https://www.google.com/maps/search/Moritzkunstcaf%C3%A9/@51.4868181,11.963487899999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 189,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "104224413792998059633",
+            "name": "Transparenz. Cafe - Working - Kultur (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104224413792998059633"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpppTxfSwOtlF3OdKx-ofgZA3DqyFMSgJlGZGf=w408-h272-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Gong Tong Gong Zuo Kong Jian ",
+            "Wen Hua Zhong Xin "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Transparenz. Cafe - Working - Kultur, Kleine Marktstrasse 7, 06108 Halle (Saale), De Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Transparenz.+Cafe+-+Working+-+Kultur/data=!4m7!3m6!1s0x47a663c0677ff411:0x6f3874e4128cda94!8m2!3d51.4847482!4d11.9674095!16s%2Fg%2F11rgc9vkx1!19sChIJEfR_Z8BjpkcRlNqMEuR0OG8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ753I9FB7pkcRO-UjnlDAgkc",
         "name": "Cafe am Landesmuseum Halle",
         "description": null,
@@ -8360,7 +8540,7 @@
             {
                 "name": "Kaffeehaus Wittekind",
                 "link": "https://www.google.com/maps/search/Kaffeehaus+Wittekind/@51.504810199999994,11.959031999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -8406,34 +8586,6 @@
         "address": "Cafe am Landesmuseum Halle, State Museum of Prehistory Halle (Saale), 06114 Halle (Saale), De Guo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+am+Landesmuseum+Halle/data=!4m7!3m6!1s0x47a67b50f4c89def:0x4782c0509e23e53b!8m2!3d51.4982397!4d11.9627074!16s%2Fg%2F11rwpk2rpp!19sChIJ753I9FB7pkcRO-UjnlDAgkc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJz9iDVL1jpkcRsxd38kzewk0",
-        "name": "Backerei Lantzsch GmbH, Grosse Ulrichstrasse",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "113669096659216010647",
-            "name": "Backerei Lantzsch GmbH, Grosse Ulrichstrasse (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113669096659216010647"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOiaL8I5KhnaLLcNrlHiXYPGg6qr469tcwkvd6n=w408-h612-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+49 340 503420",
-        "address": "Backerei Lantzsch GmbH, Grosse Ulrichstrasse, Grosse Ulrichstrasse 40, 06108 Halle (Saale), De Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/B%C3%A4ckerei+Lantzsch+GmbH,+Gro%C3%9Fe+Ulrichstra%C3%9Fe/data=!4m7!3m6!1s0x47a663bd5483d8cf:0x4dc2de4cf27717b3!8m2!3d51.4864203!4d11.9674078!16s%2Fg%2F11l5h_jbjp!19sChIJz9iDVL1jpkcRsxd38kzewk0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJhRL9fStlpkcRnl3XWb21D6U",
@@ -8493,6 +8645,55 @@
         "link": "https://www.google.com/maps/place/ADAM+EIS/data=!4m7!3m6!1s0x47a6652b7dfd1285:0xa50fb5bd59d75d9e!8m2!3d51.509293!4d11.9946509!16s%2Fg%2F11khs2nnxp!19sChIJhRL9fStlpkcRnl3XWb21D6U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ_UD4Y0xjpkcRXD8JdNEgNjw",
+        "name": "Pino Pinguino",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Kaffeehaus Wittekind",
+                "link": "https://www.google.com/maps/search/Kaffeehaus+Wittekind/@51.504810199999994,11.959031999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 428,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Cafe Konig",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+K%C3%B6nig/@51.4830118,11.963703899999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 202,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafeteria im Diakoniekrankenhaus",
+                "link": "https://www.google.com/maps/search/Cafeteria+im+Diakoniekrankenhaus/@51.4939561,11.9601194?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pino Pinguino (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgAGYjdx1fUV0EvlwJDMlGMRzLRhzAqmwbGZ5v=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Pino Pinguino, Geiststrasse 33, 06108 Halle (Saale), De Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pino+Pinguino/data=!4m7!3m6!1s0x47a6634c63f840fd:0x3c3620d174093f5c!8m2!3d51.491399!4d11.966136!16s%2Fg%2F11f9z104sx!19sChIJ_UD4Y0xjpkcRXD8JdNEgNjw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJWXpn_lpjpkcRBP5ddWXW-kI",
         "name": "McCafe",
         "description": "Mai Dang Lao Qi Xia De Lian Suo Dian ,Gong Ying Duo Zhong Te Se Ka Pei Yin Pin , Hong Bei Can Dian Yu Qi Ta Liao Li . ",
@@ -8519,32 +8720,6 @@
         "link": "https://www.google.com/maps/place/McCaf%C3%A9/data=!4m7!3m6!1s0x47a6635afe677a59:0x42fad665755dfe04!8m2!3d51.4775638!4d11.9870865!16s%2Fg%2F11krfh5h1k!19sChIJWXpn_lpjpkcRBP5ddWXW-kI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJBcO5RD5lpkcRqkbREB9y9JQ",
-        "name": "McCafe",
-        "description": "Mai Dang Lao Qi Xia De Lian Suo Dian ,Gong Ying Duo Zhong Te Se Ka Pei Yin Pin , Hong Bei Can Dian Yu Qi Ta Liao Li . ",
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "109944394267668485039",
-            "name": "McCafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109944394267668485039"
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": "07:00-00:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "McCafe, Rosenfelder Str. 11, 06116 Halle (Saale), De Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/McCaf%C3%A9/data=!4m7!3m6!1s0x47a6653e44b9c305:0x94f4721f10d146aa!8m2!3d51.5016483!4d12.033086!16s%2Fg%2F11kqt59vsy!19sChIJBcO5RD5lpkcRqkbREB9y9JQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ___P_VljpkcRcI8rf_TsVu8",
         "name": "Cafe Wilhelm",
         "description": null,
@@ -8561,7 +8736,7 @@
             {
                 "name": "Colonne Morris - coffee bar in Paulusviertel",
                 "link": "https://www.google.com/maps/search/Colonne+Morris+-+coffee+bar+in+Paulusviertel/@51.49331,11.9744601?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 475,
+                "reviews": 474,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -8575,7 +8750,7 @@
             {
                 "name": "Brasserie LOZIUS - Steintor-Variete",
                 "link": "https://www.google.com/maps/search/Brasserie+L%C3%96ZIUS+-+Steintor-Variet%C3%A9/@51.488771299999996,11.977921199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 248,
+                "reviews": 249,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -8671,32 +8846,6 @@
         "link": "https://www.google.com/maps/place/Kaffee+Trinken/data=!4m7!3m6!1s0x47a66350fca01d59:0x48e5f39dfc6ba1f0!8m2!3d51.4863232!4d11.9747348!16s%2Fg%2F11j4sv3ld3!19sChIJWR2g_FBjpkcR8KFr_J3z5Ug?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJEZMBnqljpkcRl3jH7EAVL9Y",
-        "name": "Halle / an der Saale",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Halle / an der Saale (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJDvJgZXWXFoG8n5mxJ8PkfIiAsyiOnWRpIWr9=w408-h452-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Halle / an der Saale, Grosse Klausstrasse, 06108 Halle (Saale), De Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Halle+%2F+an+der+Saale/data=!4m7!3m6!1s0x47a663a99e019311:0xd62f1540ecc77897!8m2!3d51.4835196!4d11.9670448!16s%2Fg%2F11svqhm3q0!19sChIJEZMBnqljpkcRl3jH7EAVL9Y?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJOffo3jtjpkcRIHvMlc2XJww",
         "name": "Rengo Cafebar",
         "description": null,
@@ -8752,32 +8901,6 @@
         "link": "https://www.google.com/maps/place/Rengo+Cafebar/data=!4m7!3m6!1s0x47a6633bdee8f739:0xc2797cd95cc7b20!8m2!3d51.4752454!4d11.9701436!16s%2Fg%2F11lfzz87qh!19sChIJOffo3jtjpkcRIHvMlc2XJww?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJUeOyTHJjpkcRyCktkv_nU4U",
-        "name": "Pikniko",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "109543425958011116192",
-            "name": "Pikniko (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109543425958011116192"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M83aX0pv-sS5wK2GQjVE5w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=14.517914&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+49 176 41940350",
-        "address": "Pikniko, Mansfelder Str. 57, 06108 Halle (Saale), De Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Pikniko/data=!4m7!3m6!1s0x47a663724cb2e351:0x8553e7ff922d29c8!8m2!3d51.4821238!4d11.9626854!16s%2Fg%2F11kp9lblwk!19sChIJUeOyTHJjpkcRyCktkv_nU4U?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJAwrgaoZjpkcRbIZg77ZamN0",
         "name": "Cafe am Riebeckplatz",
         "description": null,
@@ -8804,5 +8927,54 @@
         "address": "Cafe am Riebeckplatz, Leipziger Str. 62, 06108 Halle (Saale), De Guo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+am+Riebeckplatz/data=!4m7!3m6!1s0x47a663866ae00a03:0xdd985ab6ef60866c!8m2!3d51.4791156!4d11.9812949!16s%2Fg%2F11l72pzpyb!19sChIJAwrgaoZjpkcRbIZg77ZamN0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJn0fHRa5jpkcRQbZSY1ajEsQ",
+        "name": "blaa-shop Cafeteria in der IHK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Haus und Hof",
+                "link": "https://www.google.com/maps/search/Haus+und+Hof/@51.494800899999994,11.965864199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 428,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Coffee Fellows - Kaffee, Bagels, Fruhstuck",
+                "link": "https://www.google.com/maps/search/Coffee+Fellows+-+Kaffee%2C+Bagels%2C+Fr%C3%BChst%C3%BCck/@51.4775193,11.987262099999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 64,
+                "rating": 3.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "LE CROBAG",
+                "link": "https://www.google.com/maps/search/LE+CROBAG/@51.4775254,11.9874922?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 51,
+                "rating": 3.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "blaa-shop Cafeteria in der IHK (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "blaa-shop Cafeteria in der IHK, Julius-Ebeling-Strasse 6, 06112 Halle (Saale), De Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/blaa-shop+Cafeteria+in+der+IHK/data=!4m7!3m6!1s0x47a663ae45c7479f:0xc412a3566352b641!8m2!3d51.4668249!4d11.9881578!16s%2Fg%2F11f7n124q6!19sChIJn0fHRa5jpkcRQbZSY1ajEsQ?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

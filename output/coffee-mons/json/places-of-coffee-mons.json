@@ -4,7 +4,7 @@
         "name": "Citizen Fox",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1355,
+        "reviews": 1354,
         "competitors": [
             {
                 "name": "Twenty Buns",
@@ -85,12 +85,12 @@
         "name": "Le Saint-Germain",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 805,
+        "reviews": 806,
         "competitors": [
             {
                 "name": "Le Copenhagen",
                 "link": "https://www.google.com/maps/search/Le+Copenhagen/@50.4545852,3.9528317?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 662,
+                "reviews": 663,
                 "rating": 3.6,
                 "main_category": "Can Ting "
             },
@@ -232,8 +232,8 @@
         "rating": 4.7,
         "workday_timing": "08:30-17:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 65 36 47 78",
         "address": "Moma Coffee, Rue de la Coupe 10, 7000 Mons, Bi Li Shi ",
@@ -286,7 +286,7 @@
         "name": "Le Pain Quotidien Mons",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 498,
+        "reviews": 500,
         "competitors": [
             {
                 "name": "Pigalle Delice Mons",
@@ -368,7 +368,7 @@
             {
                 "name": "L'Atelier",
                 "link": "https://www.google.com/maps/search/L%27Atelier/@50.452037,3.9518752999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
+                "reviews": 328,
                 "rating": 4.2,
                 "main_category": "Jiu Ba "
             },
@@ -521,7 +521,7 @@
             {
                 "name": "Le Copenhagen",
                 "link": "https://www.google.com/maps/search/Le+Copenhagen/@50.4545852,3.9528317?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 662,
+                "reviews": 663,
                 "rating": 3.6,
                 "main_category": "Can Ting "
             },
@@ -547,7 +547,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.facebook.com/Nomaisonmons/?ref=page_internal",
+        "website": "https://www.facebook.com/Nomaisonmons/%3Fref%3Dpage_internal",
         "owner": {
             "id": null,
             "name": "No Maison (Ye Zhu )",
@@ -616,7 +616,7 @@
                 "main_category": ""
             }
         ],
-        "website": "https://m.facebook.com/profile.php?id=102305708666994&ref=content_filter",
+        "website": "https://m.facebook.com/profile.php%3Fid%3D102305708666994%26ref%3Dcontent_filter",
         "owner": {
             "id": "113610760444859819060",
             "name": "Zenzou Mons (Ye Zhu )",
@@ -629,7 +629,9 @@
         ],
         "rating": 4.8,
         "workday_timing": "12:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+32 496 65 75 98",
         "address": "Zenzou Mons, Rue de la Clef 24, 7000 Mons, Bi Li Shi ",
         "review_keywords": [
@@ -878,7 +880,7 @@
         "name": "Texas Coffee House Mons",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 74,
+        "reviews": 75,
         "competitors": [],
         "website": "https://www.facebook.com/texascoffeehousemons",
         "owner": {
@@ -991,6 +993,7 @@
         "rating": 4.7,
         "workday_timing": "10:00-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er "
         ],
@@ -1069,7 +1072,7 @@
                 "main_category": "Kuai Can "
             }
         ],
-        "website": "https://www.shape2day.com/community/morale-and-welfare-comment-card-within-description/lodging-and-dining/rendezvous?",
+        "website": "https://www.shape2day.com/community/morale-and-welfare-comment-card-within-description/lodging-and-dining/rendezvous%3F",
         "owner": {
             "id": null,
             "name": "Rendez Vous (Ye Zhu )",
@@ -1087,73 +1090,6 @@
         "address": "Rendez Vous, 7010 Mons, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Rendez+Vous/data=!4m7!3m6!1s0x47c24fdff1c67165:0xac9960927b39391c!8m2!3d50.5043455!4d3.972314!16s%2Fg%2F11g2p5w8l4!19sChIJZXHG8d9PwkcRHDk5e5Jgmaw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJhYc9pARRwkcRjJ49wXObYZo",
-        "name": "Dreams Donuts Mons",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 52,
-        "competitors": [
-            {
-                "name": "Dreams Donuts",
-                "link": "https://www.google.com/maps/search/Dreams+Donuts/@50.4084655,4.4394687?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 134,
-                "rating": 4.2,
-                "main_category": "Tian Tian Quan "
-            },
-            {
-                "name": "Dreams Donuts - Valenciennes",
-                "link": "https://www.google.com/maps/search/Dreams+Donuts+-+Valenciennes/@50.3583399,3.5225948?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 88,
-                "rating": 4.4,
-                "main_category": "Tian Tian Quan "
-            },
-            {
-                "name": "Dreams Donuts Binche",
-                "link": "https://www.google.com/maps/search/Dreams+Donuts+Binche/@50.4121933,4.1656655?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 64,
-                "rating": 4.3,
-                "main_category": "Tian Tian Quan "
-            },
-            {
-                "name": "Original Donuts",
-                "link": "https://www.google.com/maps/search/Original+Donuts/@50.437792599999995,3.8383539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Tian Tian Quan "
-            }
-        ],
-        "website": "https://m.facebook.com/DreamsdonutsM/",
-        "owner": {
-            "id": "110961004497264259791",
-            "name": "Dreams Donuts Mons (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110961004497264259791"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkTTCV6V-y85ge_q47xQwohW5Drq_bHdFb2zY=w408-h544-k-no",
-        "main_category": "Dong Shuai Dian ",
-        "categories": [
-            "Dong Shuai Dian "
-        ],
-        "rating": 3.9,
-        "workday_timing": "13:00-18:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+32 477 34 38 71",
-        "address": "Dreams Donuts Mons, Grand'Rue 99, 7000 Mons, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Qiao Ke Li ",
-                "count": 3
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Dreams+Donuts+Mons/data=!4m7!3m6!1s0x47c25104a43d8785:0x9a619b73c13d9e8c!8m2!3d50.4494924!4d3.9495036!16s%2Fg%2F11rc41vkj2!19sChIJhYc9pARRwkcRjJ49wXObYZo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJiegbmQJQwkcRxV_vZsX6VWE",
@@ -1227,7 +1163,7 @@
         "name": "The Lock",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 41,
+        "reviews": 42,
         "competitors": [
             {
                 "name": "Cafe Le Ducal",
@@ -1258,7 +1194,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.facebook.com/profile.php?id=100090575498731",
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100090575498731",
         "owner": {
             "id": null,
             "name": "The Lock (Ye Zhu )",
@@ -1272,8 +1208,8 @@
         "rating": 4.5,
         "workday_timing": "11:00-20:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "The Lock, Quai Nord 48, 7000 Mons, Bi Li Shi ",
@@ -1337,9 +1273,9 @@
         "rating": 4.5,
         "workday_timing": "18:00-03:30",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": null,
         "address": "Tango Factory, Marche aux Herbes 8, 7000 Mons, Bi Li Shi ",
@@ -1511,8 +1447,8 @@
         "rating": 5,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 65 97 76 32",
         "address": "Bekane \"Bike, Ride & Coffee\" - Magasin de velo a Mons, Rue des Juifs 5, 7000 Mons, Bi Li Shi ",
@@ -1524,7 +1460,7 @@
         "name": "Jolicoeur coffee roasters",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 21,
+        "reviews": 22,
         "competitors": [],
         "website": "https://jolicoeurcoffee.be/",
         "owner": {
@@ -1600,7 +1536,7 @@
             "Gao Bing Dian "
         ],
         "rating": 4.7,
-        "workday_timing": "14:00-19:00",
+        "workday_timing": "10:00-18:00",
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er ",
@@ -1627,7 +1563,7 @@
             {
                 "name": "La vie est Belge",
                 "link": "https://www.google.com/maps/search/La+vie+est+Belge/@50.4537966,3.9524342000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
+                "reviews": 670,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -1715,8 +1651,8 @@
         "rating": 4.8,
         "workday_timing": "11:00-21:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 65 35 48 71",
         "address": "Au Derby, Av. du Tir 78, 7000 Mons, Bi Li Shi ",
@@ -1770,8 +1706,8 @@
         "rating": 5,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 491 74 97 03",
         "address": "Moon Coffee, Grand'Rue 11, 7000 Mons, Bi Li Shi ",
@@ -1829,7 +1765,7 @@
             {
                 "name": "L'Atelier",
                 "link": "https://www.google.com/maps/search/L%27Atelier/@50.452037,3.9518752999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
+                "reviews": 328,
                 "rating": 4.2,
                 "main_category": "Jiu Ba "
             },
@@ -1870,8 +1806,8 @@
         "rating": 4.3,
         "workday_timing": "15:00-03:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 477 45 22 98",
         "address": "Mood bar, Rue de la Raquette 4, 7000 Mons, Bi Li Shi ",
@@ -2166,7 +2102,7 @@
             {
                 "name": "Georges Doutrelepont Chocolatier Glacier",
                 "link": "https://www.google.com/maps/search/Georges+Doutrelepont+Chocolatier+Glacier/@50.490035299999995,3.9413606999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 702,
+                "reviews": 703,
                 "rating": 4.4,
                 "main_category": "Zhu Gu Li Dian "
             },
@@ -2286,7 +2222,7 @@
             {
                 "name": "Maxens",
                 "link": "https://www.google.com/maps/search/Maxens/@50.438960699999996,4.0116732?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 238,
+                "reviews": 239,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             }
@@ -2547,7 +2483,7 @@
             {
                 "name": "La vie est Belge",
                 "link": "https://www.google.com/maps/search/La+vie+est+Belge/@50.4537966,3.9524342000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
+                "reviews": 670,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -3310,7 +3246,7 @@
             {
                 "name": "La Trattoria",
                 "link": "https://www.google.com/maps/search/La+Trattoria/@50.453999599999996,3.951865?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 268,
                 "rating": 3.5,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -3539,7 +3475,7 @@
             {
                 "name": "Alex Friterie",
                 "link": "https://www.google.com/maps/search/Alex+Friterie/@50.4100756,3.8935701?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 208,
+                "reviews": 209,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -3629,8 +3565,8 @@
         "rating": 4.3,
         "workday_timing": "11:00-23:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 471 87 03 32",
         "address": "Bar CEFUC, Chau. de Binche 151, 7000 Mons, Bi Li Shi ",
@@ -4349,7 +4285,7 @@
             {
                 "name": "La vie est Belge",
                 "link": "https://www.google.com/maps/search/La+vie+est+Belge/@50.4537966,3.9524342000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
+                "reviews": 670,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -4705,6 +4641,61 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+De+La+Place/data=!4m7!3m6!1s0x47c25a68a91d7243:0x37b8f86ddf0f3f72!8m2!3d50.4327026!4d3.8892362!16s%2Fg%2F11ghfbyr79!19sChIJQ3IdqWhawkcRcj8P3234uDc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJs7gtwAJQwkcRv4njRyGasbo",
+        "name": "Margot Pre",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Les Chartriers",
+                "link": "https://www.google.com/maps/search/Les+Chartriers/@50.450483999999996,3.9535967999999992?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 126,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "La Table Ronde",
+                "link": "https://www.google.com/maps/search/La+Table+Ronde/@50.453388,3.9437178?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Gouvart / Benoit",
+                "link": "https://www.google.com/maps/search/Gouvart+%2F+Benoit/@50.453489499999996,3.9438864999999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "La Croix d'Or",
+                "link": "https://www.google.com/maps/search/La+Croix+d%27Or/@50.4501741,3.9523161999999994?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Margot Pre (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UVhcCODBUn9kE8juAsuzwQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=150.48404&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Margot Pre, Rue Neuve, 7000 Mons, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Margot+Pr%C3%A9/data=!4m7!3m6!1s0x47c25002c02db8b3:0xbab19a2147e389bf!8m2!3d50.4556674!4d3.9521476!16s%2Fg%2F11g8682hxl!19sChIJs7gtwAJQwkcRv4njRyGasbo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ76l1KwJQwkcRgF_jw1c4vEw",
         "name": "Cafe Le London",
         "description": null,
@@ -4813,61 +4804,6 @@
         "address": "Cafe du Sud, Rue de Ciply 118, 7033 Mons, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+du+Sud/data=!4m7!3m6!1s0x47c25abd84a22023:0x701f0e0f34cdd251!8m2!3d50.4341565!4d3.9270537!16s%2Fg%2F11dxhz1p9_!19sChIJIyCihL1awkcRUdLNNA8OH3A?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJs7gtwAJQwkcRv4njRyGasbo",
-        "name": "Margot Pre",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Les Chartriers",
-                "link": "https://www.google.com/maps/search/Les+Chartriers/@50.450483999999996,3.9535967999999992?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "La Table Ronde",
-                "link": "https://www.google.com/maps/search/La+Table+Ronde/@50.453388,3.9437178?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Gouvart / Benoit",
-                "link": "https://www.google.com/maps/search/Gouvart+%2F+Benoit/@50.453489499999996,3.9438864999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "La Croix d'Or",
-                "link": "https://www.google.com/maps/search/La+Croix+d%27Or/@50.4501741,3.9523161999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Margot Pre (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UVhcCODBUn9kE8juAsuzwQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=150.48404&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Margot Pre, Rue Neuve, 7000 Mons, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Margot+Pr%C3%A9/data=!4m7!3m6!1s0x47c25002c02db8b3:0xbab19a2147e389bf!8m2!3d50.4556674!4d3.9521476!16s%2Fg%2F11g8682hxl!19sChIJs7gtwAJQwkcRv4njRyGasbo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK2xlwkRPwkcRhSKRPhW2agk",

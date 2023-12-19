@@ -42,10 +42,10 @@
         "rating": 4.7,
         "workday_timing": "14:00-19:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi San "
         ],
         "phone": "+32 16 53 99 63",
         "address": "'t Ijshoorntje, Hellichtstraat 103, 3110 Rotselaar, Bi Li Shi ",
@@ -405,7 +405,7 @@
             {
                 "name": "Bistro Mariette",
                 "link": "https://www.google.com/maps/search/Bistro+Mariette/@50.9257093,4.7111646?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 276,
+                "reviews": 277,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -576,8 +576,8 @@
         "rating": 4.5,
         "workday_timing": "16:00-01:00",
         "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Er "
         ],
         "phone": "+32 16 53 83 03",
         "address": "De Glazen Boterham, Sint Jansstraat 89, 3118 Rotselaar, Bi Li Shi ",
@@ -599,7 +599,7 @@
             {
                 "name": "De Pelgrim",
                 "link": "https://www.google.com/maps/search/De+Pelgrim/@50.9864372,4.7746892999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 469,
+                "reviews": 471,
                 "rating": 4.2,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -709,7 +709,7 @@
             "Kuai Can Dian "
         ],
         "rating": 4.4,
-        "workday_timing": "12:00-20:30",
+        "workday_timing": "11:00-20:30",
         "closed_on": [
             "Xing Qi San ",
             "Xing Qi Si "
@@ -970,11 +970,11 @@
         "rating": 5,
         "workday_timing": "10:00-16:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
             "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Si "
         ],
         "phone": null,
         "address": "replica roasters, Wijgmaalsesteenweg 168, 3020 Herent, Bi Li Shi ",
@@ -1044,6 +1044,54 @@
         "link": "https://www.google.com/maps/place/Radio+Utopia/data=!4m7!3m6!1s0x47c15c08cf6c9ccb:0x9a00c2b4d96ae3b0!8m2!3d50.9950628!4d4.7492893!16s%2Fg%2F11c5st4kxs!19sChIJy5xszwhcwUcRsONq2bTCAJo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJyxPfN0xfwUcRJm1nKKhOmOQ",
+        "name": "BOW-Cafe Ymeria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Ambiorix",
+                "link": "https://www.google.com/maps/search/Ambiorix/@50.8786424,4.700103599999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 490,
+                "rating": 3.9,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Cafe In Den Boule",
+                "link": "https://www.google.com/maps/search/Cafe+In+Den+Boule/@50.8813317,4.7015541?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 156,
+                "rating": 4.1,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Cafe Den Brosser",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Den+Brosser/@50.8783284,4.6992807?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 130,
+                "rating": 3.8,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.bergopwijgmaal.be/",
+        "owner": {
+            "id": null,
+            "name": "BOW-Cafe Ymeria (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJhzCKlWiswwTLkvviLBnV4HrFhiVMcVVLj2jL=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "BOW-Cafe Ymeria, Pastoor Bellonstraat 29, 3018 Leuven, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BOW-Caf%C3%A9+Ymeria/data=!4m7!3m6!1s0x47c15f4c37df13cb:0xe4984ea828676d26!8m2!3d50.9256877!4d4.7060859!16s%2Fg%2F11gvzlgs8d!19sChIJyxPfN0xfwUcRJm1nKKhOmOQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJrdb-wmJcwUcRNy0hzqA6fPE",
         "name": "Cafe 't Pleintje",
         "description": null,
@@ -1104,54 +1152,6 @@
         "address": "Cafe 't Pleintje, Corneel Vissenaekensplein 23, 3130 Begijnendijk, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+%27t+Pleintje/data=!4m7!3m6!1s0x47c15c62c2fed6ad:0xf17c3aa0ce212d37!8m2!3d50.9854744!4d4.7825905!16s%2Fg%2F1tg9m8h0!19sChIJrdb-wmJcwUcRNy0hzqA6fPE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJyxPfN0xfwUcRJm1nKKhOmOQ",
-        "name": "BOW-Cafe Ymeria",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Ambiorix",
-                "link": "https://www.google.com/maps/search/Ambiorix/@50.8786424,4.700103599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 490,
-                "rating": 3.9,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe In Den Boule",
-                "link": "https://www.google.com/maps/search/Cafe+In+Den+Boule/@50.8813317,4.7015541?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 156,
-                "rating": 4.1,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Den Brosser",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Den+Brosser/@50.8783284,4.6992807?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 130,
-                "rating": 3.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.bergopwijgmaal.be/",
-        "owner": {
-            "id": null,
-            "name": "BOW-Cafe Ymeria (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJhzCKlWiswwTLkvviLBnV4HrFhiVMcVVLj2jL=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "BOW-Cafe Ymeria, Pastoor Bellonstraat 29, 3018 Leuven, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/BOW-Caf%C3%A9+Ymeria/data=!4m7!3m6!1s0x47c15f4c37df13cb:0xe4984ea828676d26!8m2!3d50.9256877!4d4.7060859!16s%2Fg%2F11gvzlgs8d!19sChIJyxPfN0xfwUcRJm1nKKhOmOQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJryuh93xewUcRR440XzvSx0A",
@@ -1225,7 +1225,7 @@
             {
                 "name": "Belomi",
                 "link": "https://www.google.com/maps/search/Belomi/@50.993428699999996,4.7071105?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 349,
+                "reviews": 350,
                 "rating": 4.5,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -1267,10 +1267,10 @@
         "rating": 4.4,
         "workday_timing": "12:00-21:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi San ",
             "Xing Qi Si ",
-            "Xing Qi Wu ",
-            "Xing Qi Ri "
+            "Xing Qi Wu "
         ],
         "phone": "+32 16 53 11 30",
         "address": "Elmiki, Kruisstraat 22, 3120 Tremelo, Bi Li Shi ",
@@ -1824,8 +1824,8 @@
         "rating": 4.6,
         "workday_timing": "11:00-23:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": null,
         "address": "Cafe Jerom, Stationsstraat 165, 3110 Rotselaar, Bi Li Shi ",
@@ -1915,7 +1915,7 @@
             {
                 "name": "De Pelgrim",
                 "link": "https://www.google.com/maps/search/De+Pelgrim/@50.9864372,4.7746892999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 469,
+                "reviews": 471,
                 "rating": 4.2,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -1992,7 +1992,7 @@
             {
                 "name": "Furbetto",
                 "link": "https://www.google.com/maps/search/Furbetto/@50.8622242,4.6960833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 86,
                 "rating": 4.9,
                 "main_category": "Can Ting "
             },
@@ -2016,7 +2016,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.5,
-        "workday_timing": "10:00-00:00",
+        "workday_timing": "10:00-22:00",
         "closed_on": [
             "Xing Qi Yi "
         ],
@@ -2231,10 +2231,10 @@
         "rating": 4.5,
         "workday_timing": "18:00-02:30",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi San "
         ],
         "phone": "+32 16 53 01 32",
         "address": "De Pink, Grote Bollostraat 30, 3120 Tremelo, Bi Li Shi ",
@@ -2344,7 +2344,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.6,
-        "workday_timing": "14:00-23:00",
+        "workday_timing": "10:00-23:00",
         "closed_on": [
             "Xing Qi Er ",
             "Xing Qi San "
@@ -2798,54 +2798,6 @@
         "address": "De Cremerie Rotselaar, Aarschotsesteenweg 31, 3110 Rotselaar, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/De+Cremerie+Rotselaar/data=!4m7!3m6!1s0x47c15ddd21b9d135:0xc8ea7c105201e08a!8m2!3d50.9397266!4d4.7366657!16s%2Fg%2F11j08bm44w!19sChIJNdG5Id1dwUcRiuABUhB86sg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ2xFyQchdwUcRxC-4WOjZmvA",
-        "name": "De Cat / Johan",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Delicatessen Laermans / Danny",
-                "link": "https://www.google.com/maps/search/Delicatessen+Laermans+%2F+Danny/@50.9385347,4.735233?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
-                "rating": 4.1,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Bakker Stijn",
-                "link": "https://www.google.com/maps/search/Bakker+Stijn/@50.9590955,4.7446587?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Lemmens K",
-                "link": "https://www.google.com/maps/search/Lemmens+K/@50.9551589,4.7637292?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "De Cat / Johan (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=THVWxAHz_x_6c_TH4sQoQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=155.55879&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 16 23 43 23",
-        "address": "De Cat / Johan, Vleugtweg 23, 3111 Rotselaar, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/De+Cat+%2F+Johan/data=!4m7!3m6!1s0x47c15dc8417211db:0xf09ad9e858b82fc4!8m2!3d50.9486482!4d4.7507063!16s%2Fg%2F1pxwmrblv!19sChIJ2xFyQchdwUcRxC-4WOjZmvA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJHVxsg-JdwUcRGGqxm41wYJA",

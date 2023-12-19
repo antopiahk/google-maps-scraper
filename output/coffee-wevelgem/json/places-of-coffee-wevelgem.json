@@ -50,8 +50,8 @@
         "rating": 4.4,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 496 51 27 69",
         "address": "Caramello, Kortrijkstraat 6, 8560 Wevelgem, Bi Li Shi ",
@@ -95,7 +95,7 @@
             {
                 "name": "De Koekedoze",
                 "link": "https://www.google.com/maps/search/De+Koekedoze/@50.844361,3.228125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 417,
+                "reviews": 418,
                 "rating": 4.8,
                 "main_category": "Zao Can "
             },
@@ -132,6 +132,7 @@
         "rating": 4.8,
         "workday_timing": "11:00-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San "
         ],
@@ -224,7 +225,7 @@
             "Ka Pei Dian "
         ],
         "rating": 4.4,
-        "workday_timing": "10:00-18:00",
+        "workday_timing": "10:00-21:00",
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er ",
@@ -351,8 +352,8 @@
         "rating": 4.6,
         "workday_timing": "10:00-12:00, 14:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 468 15 88 31",
         "address": "Coffee & Wol, Roeselarestraat 106, 8560 Wevelgem, Bi Li Shi ",
@@ -413,13 +414,61 @@
         "rating": 4.6,
         "workday_timing": "08:00-12:30, 13:00-17:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+32 56 41 21 89",
         "address": "Grootmoeders Koffie, Kleine Ieperstraat 11, 8560 Wevelgem, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Grootmoeders+Koffie/data=!4m7!3m6!1s0x47c33067affdf74d:0x1f729a0ce71fcf29!8m2!3d50.8351621!4d3.1967811!16s%2Fg%2F11fxvykjft!19sChIJTff9r2cww0cRKc8f5wyach8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJSz2cBtYxw0cRHIt5lxPTzqo",
+        "name": "Rubens",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "'T Bankske",
+                "link": "https://www.google.com/maps/search/%27T+Bankske/@50.8098349,3.1822961999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 198,
+                "rating": 4.3,
+                "main_category": "Mei Shi Can Che Dian "
+            },
+            {
+                "name": "Yummy",
+                "link": "https://www.google.com/maps/search/Yummy/@50.8032818,3.160101?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 112,
+                "rating": 4.3,
+                "main_category": "San Wen Zhi "
+            },
+            {
+                "name": "Kaffee Bolero",
+                "link": "https://www.google.com/maps/search/Kaffee+Bolero/@50.8095943,3.1852948?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 86,
+                "rating": 4.5,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": "http://brasserie-rubens.be/",
+        "owner": {
+            "id": null,
+            "name": "Rubens (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8FsSlRHBdcbr5L-WNfFtug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=127.91125&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 56 42 75 12",
+        "address": "Rubens, Menenstraat 359, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rubens/data=!4m7!3m6!1s0x47c331d6069c3d4b:0xaaced31397798b1c!8m2!3d50.8032895!4d3.1600971!16s%2Fg%2F1v9gj4h6!19sChIJSz2cBtYxw0cRHIt5lxPTzqo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJRxweX_0xw0cReitbdukW8ok",
@@ -479,8 +528,8 @@
         "rating": 5,
         "workday_timing": "10:00-13:00, 15:00-18:30",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 476 66 89 29",
         "address": "Mi KaaZa Koffiebar enkel take away, Stationsstraat 1, 8560 Wevelgem, Bi Li Shi ",
@@ -504,7 +553,7 @@
             {
                 "name": "'T Bankske",
                 "link": "https://www.google.com/maps/search/%27T+Bankske/@50.8098349,3.1822961999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.3,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -518,7 +567,7 @@
             {
                 "name": "'t Roterietje",
                 "link": "https://www.google.com/maps/search/%27t+Roterietje/@50.830037499999996,3.1487281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
+                "reviews": 67,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             }
@@ -843,6 +892,109 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Alfa/data=!4m7!3m6!1s0x47c330239ed9fef7:0x59c7a27fd57c553f!8m2!3d50.8097232!4d3.1869225!16s%2Fg%2F11g6wf344g!19sChIJ9_7ZniMww0cRP1V81X-ix1k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJO-qf-zMww0cRurxY5v-qUoI",
+        "name": "Cafe - Feestzaal Ter Wijngaard",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "competitors": [
+            {
+                "name": "Cultuurcafe de Barriere",
+                "link": "https://www.google.com/maps/search/Cultuurcaf%C3%A9+de+Barriere/@50.812636,3.185427?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 158,
+                "rating": 4.8,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Middenstandshuis",
+                "link": "https://www.google.com/maps/search/Middenstandshuis/@50.808718899999995,3.1836735?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 149,
+                "rating": 4.4,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Cafe t'Pleintje",
+                "link": "https://www.google.com/maps/search/Cafe+t%E2%80%99Pleintje/@50.839137799999996,3.2006948?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 127,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Feestzalen Bordeau",
+                "link": "https://www.google.com/maps/search/Feestzalen+Bordeau/@50.8084141,3.1853501?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 3.5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe - Feestzaal Ter Wijngaard (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gunNkFdcQp_c39hWMAVfig&cb_client=search.gws-prod.gps&w=408&h=240&yaw=127.99036&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Cafe - Feestzaal Ter Wijngaard, Kastanjestraat 7, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+-+Feestzaal+Ter+Wijngaard/data=!4m7!3m6!1s0x47c33033fb9fea3b:0x8252aaffe658bcba!8m2!3d50.8177776!4d3.1742965!16s%2Fg%2F11c6yz5qtn!19sChIJO-qf-zMww0cRurxY5v-qUoI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3WpUWxoxw0cRRTpT4dhD-Dg",
+        "name": "Cafe in de Kroone",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "competitors": [
+            {
+                "name": "De Kroone",
+                "link": "https://www.google.com/maps/search/De+Kroone/@50.850846,3.2866641999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 191,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "De Kroon",
+                "link": "https://www.google.com/maps/search/De+Kroon/@50.8520207,3.0972410999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 46,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Carlton",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Carlton/@50.8391854,3.1641391999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe in de Kroone (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNu1npLCFzRcE6053dyCOrT0hvyL9DUzu7jNvP7=w408-h408-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Cafe in de Kroone, Ieperstraat 2, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+in+de+Kroone/data=!4m7!3m6!1s0x47c3311a5b546add:0x38f843d8e1533a45!8m2!3d50.8402934!4d3.1633067!16s%2Fg%2F11fb2xhsg8!19sChIJ3WpUWxoxw0cRRTpT4dhD-Dg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ73fGJA4xw0cRFthR7JDLavg",
         "name": "Cafe In De Barakken",
         "description": null,
@@ -1001,6 +1153,104 @@
         "link": "https://www.google.com/maps/place/Cafe+Klokke+Roeland/data=!4m7!3m6!1s0x47c330244712df2f:0x38bd6cd253dcb264!8m2!3d50.8089302!4d3.1834572!16s%2Fg%2F11bzx4kx2g!19sChIJL98SRyQww0cRZLLcU9JsvTg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJdZN3NCQww0cRTNZEy70YVJs",
+        "name": "Huysentruit / Liliane",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [
+            {
+                "name": "Cafe T Leeuwke",
+                "link": "https://www.google.com/maps/search/Cafe+T+Leeuwke/@50.816935199999996,3.1874262?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 484,
+                "rating": 4.5,
+                "main_category": "Mei Shi Can Che Dian "
+            },
+            {
+                "name": "Bierhuis De Mythe",
+                "link": "https://www.google.com/maps/search/Bierhuis+De+Mythe/@50.8087332,3.1842759?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 265,
+                "rating": 4.4,
+                "main_category": "Mei Shi Can Che Dian "
+            },
+            {
+                "name": "Mi KaaZa Koffiebar enkel take away",
+                "link": "https://www.google.com/maps/search/Mi+KaaZa+Koffiebar+enkel+take+away/@50.8111348,3.1830127999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Huysentruit / Liliane (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dvgE1ZTyN1J7c6FCIqxQ7A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.76112&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3.6,
+        "workday_timing": "10:15-23:00",
+        "closed_on": [
+            "Xing Qi Si "
+        ],
+        "phone": "+32 56 41 27 70",
+        "address": "Huysentruit / Liliane, Vanackerestraat 11, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Huysentruit+%2F+Liliane/data=!4m7!3m6!1s0x47c3302434779375:0x9b5418bdcb44d64c!8m2!3d50.8085659!4d3.1825094!16s%2Fg%2F1hc30ncwg!19sChIJdZN3NCQww0cRTNZEy70YVJs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJOykJfsMxw0cRyAsDeEsf16Y",
+        "name": "Natuur- educatief centrum De Rand",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [
+            {
+                "name": "Brasserie Bergelen",
+                "link": "https://www.google.com/maps/search/Brasserie+Bergelen/@50.8399012,3.1944288?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1375,
+                "rating": 4.3,
+                "main_category": "Fa Shi Can Ting "
+            },
+            {
+                "name": "Koffiehuis De Hofnar, volledig lactosevrij",
+                "link": "https://www.google.com/maps/search/Koffiehuis+De+Hofnar%2C+volledig+lactosevrij/@50.8416779,3.2032539?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 101,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "'t Centrumke",
+                "link": "https://www.google.com/maps/search/%27t+Centrumke/@50.8144968,3.1865943999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Natuur- educatief centrum De Rand (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5GexVD36IBBu26MM04F4Mfwf-Eis4oW2MMtTU=w408-h725-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 479 51 43 17",
+        "address": "Natuur- educatief centrum De Rand, Rijksweg, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Natuur-+educatief+centrum+De+Rand/data=!4m7!3m6!1s0x47c331c37e09293b:0xa6d71f4b78030bc8!8m2!3d50.840542!4d3.1831052!16s%2Fg%2F11hf03_bw6!19sChIJOykJfsMxw0cRyAsDeEsf16Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJvbl7Eccxw0cRT1R1kytB_hI",
         "name": "Cafe Carlton",
         "description": null,
@@ -1058,6 +1308,123 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Carlton/data=!4m7!3m6!1s0x47c331c7117bb9bd:0x12fe412b9375544f!8m2!3d50.8391854!4d3.1641392!16s%2Fg%2F11q95jnpfx!19sChIJvbl7Eccxw0cRT1R1kytB_hI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJs9WgGhgww0cRJ6vgKvtUjTU",
+        "name": "De Handboog",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Bierhuis De Mythe",
+                "link": "https://www.google.com/maps/search/Bierhuis+De+Mythe/@50.8087332,3.1842759?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 265,
+                "rating": 4.4,
+                "main_category": "Mei Shi Can Che Dian "
+            },
+            {
+                "name": "Cultuurcafe de Barriere",
+                "link": "https://www.google.com/maps/search/Cultuurcaf%C3%A9+de+Barriere/@50.812636,3.185427?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 158,
+                "rating": 4.8,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Kaffee Bolero",
+                "link": "https://www.google.com/maps/search/Kaffee+Bolero/@50.8095943,3.1852948?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 86,
+                "rating": 4.5,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "De Herder",
+                "link": "https://www.google.com/maps/search/De+Herder/@50.8131273,3.1857121000000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 76,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "De Handboog (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0aBPDVjk6xBnJC0Q_Cnr8w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=308.02444&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 56 40 30 22",
+        "address": "De Handboog, Kortrijkstraat 155, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/De+Handboog/data=!4m7!3m6!1s0x47c330181aa0d5b3:0x358d54fb2ae0ab27!8m2!3d50.8118536!4d3.1928515!16s%2Fg%2F1thd5vb6!19sChIJs9WgGhgww0cRJ6vgKvtUjTU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0XQGrokww0cR-GiwR8Jg50A",
+        "name": "Las Palmas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "'t Lindeke",
+                "link": "https://www.google.com/maps/search/%27t+Lindeke/@50.83667750000001,3.1668355?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 178,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe t'Pleintje",
+                "link": "https://www.google.com/maps/search/Cafe+t%E2%80%99Pleintje/@50.839137799999996,3.2006948?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 127,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Irma's Feest- en Koffiehuis",
+                "link": "https://www.google.com/maps/search/Irma%27s+Feest-+en+Koffiehuis/@50.849741800000004,3.2054679000000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 80,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Olympia",
+                "link": "https://www.google.com/maps/search/Olympia/@50.8426167,3.2038404?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 73,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Ponderosa",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Ponderosa/@50.8506755,3.2050609?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 47,
+                "rating": 4.2,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Las Palmas (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7oWj2nOkBbhAuNqo3Pb82_Snt7F9QHn9GSD4=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 484 18 00 17",
+        "address": "Las Palmas, Poststraat 28, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Las+Palmas/data=!4m7!3m6!1s0x47c33089ae0674d1:0x40e760c247b068f8!8m2!3d50.8453582!4d3.2045608!16s%2Fg%2F11fy2pbd5s!19sChIJ0XQGrokww0cR-GiwR8Jg50A?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJh_E-SC4xw0cR7MoYozSRKNs",
         "name": "Chez Celine",
         "description": null,
@@ -1074,7 +1441,7 @@
             {
                 "name": "'T Bankske",
                 "link": "https://www.google.com/maps/search/%27T+Bankske/@50.8098349,3.1822961999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.3,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -1111,5 +1478,163 @@
         "address": "Chez Celine, Warandestraat, 8560 Wevelgem, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Chez+C%C3%A9line/data=!4m7!3m6!1s0x47c3312e483ef187:0xdb289134a318caec!8m2!3d50.8325851!4d3.1691268!16s%2Fg%2F11n06fsfkw!19sChIJh_E-SC4xw0cR7MoYozSRKNs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_a-8nDwww0cRN_XAnq477cg",
+        "name": "'t Centrumke",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Cafe T Leeuwke",
+                "link": "https://www.google.com/maps/search/Cafe+T+Leeuwke/@50.816935199999996,3.1874262?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 484,
+                "rating": 4.5,
+                "main_category": "Mei Shi Can Che Dian "
+            },
+            {
+                "name": "'T Bankske",
+                "link": "https://www.google.com/maps/search/%27T+Bankske/@50.8098349,3.1822961999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 198,
+                "rating": 4.3,
+                "main_category": "Mei Shi Can Che Dian "
+            },
+            {
+                "name": "Ontmoetingscentrum OC Stekke",
+                "link": "https://www.google.com/maps/search/Ontmoetingscentrum+OC+Stekke/@50.8409425,3.1632547?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 167,
+                "rating": 4.1,
+                "main_category": "Wen Hua Zhong Xin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "'t Centrumke (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ds-SuPpr0LWBBlPw2_OfCQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=47.144814&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 56 42 62 05",
+        "address": "'t Centrumke, Gullegemstraat 52, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%27%27t+Centrumke%27/data=!4m7!3m6!1s0x47c3303c9cbcaffd:0xc8ed3bae9ec0f537!8m2!3d50.8144968!4d3.1865944!16s%2Fg%2F11bzx3ftmd!19sChIJ_a-8nDwww0cRN_XAnq477cg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJYUkN_Soww0cRbQkOZdXO4SE",
+        "name": "Balleux / Patricia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Cultuurcafe de Barriere",
+                "link": "https://www.google.com/maps/search/Cultuurcaf%C3%A9+de+Barriere/@50.812636,3.185427?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 158,
+                "rating": 4.8,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Eetcafe De Platse",
+                "link": "https://www.google.com/maps/search/Eetcaf%C3%A9+De+Platse/@50.8404703,3.1643915999999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 115,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Huysentruit / Liliane",
+                "link": "https://www.google.com/maps/search/Huysentruit+%2F+Liliane/@50.8085659,3.1825094?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 3.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Aardappelen Valcke",
+                "link": "https://www.google.com/maps/search/Aardappelen+Valcke/@50.824484,3.1399242999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Balleux / Patricia (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xIlK2Kd7SkRoHzwCg5JHNA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=315.36664&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 56 41 00 31",
+        "address": "Balleux / Patricia, Menenstraat 154, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Balleux+%2F+Patricia/data=!4m7!3m6!1s0x47c3302afd0d4961:0x21e1ced5650e096d!8m2!3d50.8052709!4d3.169175!16s%2Fg%2F1tscn4pl!19sChIJYUkN_Soww0cRbQkOZdXO4SE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJuYemeSkww0cRcYHV6XVKEng",
+        "name": "Middenstand, Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "De Middenstand Kuurne",
+                "link": "https://www.google.com/maps/search/De+Middenstand+Kuurne/@50.8504923,3.2872253?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 202,
+                "rating": 4.3,
+                "main_category": "Xiao Can Guan  (Bistro)"
+            },
+            {
+                "name": "Middenstandshuis",
+                "link": "https://www.google.com/maps/search/Middenstandshuis/@50.808718899999995,3.1836735?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 149,
+                "rating": 4.4,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "De Middenstand",
+                "link": "https://www.google.com/maps/search/De+Middenstand/@50.8072387,3.234101?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "De Middenstand, Restaurant",
+                "link": "https://www.google.com/maps/search/De+Middenstand%2C+Restaurant/@50.8432149,3.20484?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 3.5,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Middenstand, Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e5bD0mY1LB0XBg689083RQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=190.43503&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+32 56 41 22 94",
+        "address": "Middenstand, Cafe, Parkstraat 29, 8560 Wevelgem, Bi Li Shi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Middenstand,+Caf%C3%A9/data=!4m7!3m6!1s0x47c3302979a687b9:0x78124a75e9d58171!8m2!3d50.8053239!4d3.173578!16s%2Fg%2F11bzx2stpn!19sChIJuYemeSkww0cRcYHV6XVKEng?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

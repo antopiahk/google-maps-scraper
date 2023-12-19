@@ -23,7 +23,7 @@
             {
                 "name": "Bakkerij Mariman",
                 "link": "https://www.google.com/maps/search/Bakkerij+Mariman/@51.110583299999995,4.0872743?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 70,
+                "reviews": 71,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -110,7 +110,7 @@
             {
                 "name": "De Bierhoeve",
                 "link": "https://www.google.com/maps/search/De+Bierhoeve/@51.097826,4.1200117999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 334,
+                "reviews": 336,
                 "rating": 4.4,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -236,6 +236,7 @@
         "rating": 4.2,
         "workday_timing": "12:00-23:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er "
         ],
@@ -364,69 +365,6 @@
         "link": "https://www.google.com/maps/place/Wuitensnest/data=!4m7!3m6!1s0x47c39209d5edb0f9:0x7de67911ee39ebd7!8m2!3d51.105154!4d4.164197!16s%2Fg%2F11b8_tx97b!19sChIJ-bDt1QmSw0cR1-s57hF55n0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJNRCDUPqRw0cR8JaNCR4c3gw",
-        "name": "Brasserie Tegentij",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 211,
-        "competitors": [
-            {
-                "name": "Brasserie Den Bunt",
-                "link": "https://www.google.com/maps/search/Brasserie+Den+Bunt/@51.1046701,4.1633289?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 356,
-                "rating": 4.2,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Het Patronaat",
-                "link": "https://www.google.com/maps/search/Het+Patronaat/@51.0963986,4.1355441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
-                "rating": 4.5,
-                "main_category": "Bi Li Shi Cai "
-            },
-            {
-                "name": "Brasserie Den Tram",
-                "link": "https://www.google.com/maps/search/Brasserie+Den+Tram/@51.095232499999995,4.129926800000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 193,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "'t Hartje van Hamme",
-                "link": "https://www.google.com/maps/search/%27t+Hartje+van+Hamme/@51.0984067,4.134578800000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.4,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            }
-        ],
-        "website": "http://www.brasserie-tegentij.be/",
-        "owner": {
-            "id": "109548859671491395371",
-            "name": "Brasserie Tegentij (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109548859671491395371"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNL6i6Mq0dhdoJwZM92Z5mBrytRLm-98KZdNHUZ=w408-h306-k-no",
-        "main_category": "Fa Shi Can Ting ",
-        "categories": [
-            "Fa Shi Can Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "11:00-22:00",
-        "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": "+32 477 41 77 23",
-        "address": "Brasserie Tegentij, Marktplein 12, 9220 Hamme, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 7
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Brasserie+Tegentij/data=!4m7!3m6!1s0x47c391fa50831035:0xcde1c1e098d96f0!8m2!3d51.097933!4d4.137065!16s%2Fg%2F11bxfyrwc3!19sChIJNRCDUPqRw0cR8JaNCR4c3gw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ_f-P6vuRw0cRgGLMqsUmlEI",
         "name": "Cafe Den Benghel",
         "description": null,
@@ -476,8 +414,8 @@
         "rating": 4.5,
         "workday_timing": "16:00-01:00",
         "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi San "
         ],
         "phone": null,
         "address": "Cafe Den Benghel, Marktplein 27, 9220 Hamme, Bi Li Shi ",
@@ -488,64 +426,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Cafe+Den+Benghel/data=!4m7!3m6!1s0x47c391fbea8ffffd:0x429426c5aacc6280!8m2!3d51.0998304!4d4.1386035!16s%2Fg%2F11c6dzvp3y!19sChIJ_f-P6vuRw0cRgGLMqsUmlEI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJa0FAQeORw0cRHMwCRt7hJh4",
-        "name": "Durmedroom",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 199,
-        "competitors": [
-            {
-                "name": "Brasserie 't Ekskuus",
-                "link": "https://www.google.com/maps/search/Brasserie+%27t+Ekskuus/@51.100631899999996,4.1395406?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 528,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Kaai 31",
-                "link": "https://www.google.com/maps/search/Kaai+31/@51.1042181,4.1352085999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 267,
-                "rating": 4,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Brasserie Tegentij",
-                "link": "https://www.google.com/maps/search/Brasserie+Tegentij/@51.097933,4.137065?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 210,
-                "rating": 4.3,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Brasserie Den Tram",
-                "link": "https://www.google.com/maps/search/Brasserie+Den+Tram/@51.095232499999995,4.129926800000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 193,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://www.opcafegaan.be/hamme-oost-vlaanderen/durmedroom",
-        "owner": {
-            "id": "103453896768296209161",
-            "name": "Durmedroom (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103453896768296209161"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsLMtlFpTm9xlWLomlXbfKuKg1pGoegZQJ6WKK=w408-h306-k-no",
-        "main_category": "Mei Shi Can Che Dian ",
-        "categories": [
-            "Mei Shi Can Che Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "14:00-23:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi San "
-        ],
-        "phone": "+32 52 48 03 41",
-        "address": "Durmedroom, Kaaiplein 28, 9220 Hamme, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Durmedroom/data=!4m7!3m6!1s0x47c391e34140416b:0x1e26e1de4602cc1c!8m2!3d51.1029189!4d4.1328998!16s%2Fg%2F1tdhd4_t!19sChIJa0FAQeORw0cRHMwCRt7hJh4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ61IegR6Sw0cRTHepF7W1fkk",
@@ -614,7 +494,7 @@
             {
                 "name": "Colruyt Hamme",
                 "link": "https://www.google.com/maps/search/Colruyt+Hamme/@51.0895823,4.138046?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -956,7 +836,7 @@
             {
                 "name": "De Bierhoeve",
                 "link": "https://www.google.com/maps/search/De+Bierhoeve/@51.097826,4.1200117999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 334,
+                "reviews": 336,
                 "rating": 4.4,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -977,7 +857,7 @@
             {
                 "name": "'t Zoggehof",
                 "link": "https://www.google.com/maps/search/%27t+Zoggehof/@51.07560970000001,4.0926388?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -1027,14 +907,14 @@
             {
                 "name": "Colruyt Hamme",
                 "link": "https://www.google.com/maps/search/Colruyt+Hamme/@51.0895823,4.138046?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Super 5000",
                 "link": "https://www.google.com/maps/search/Super+5000/@51.091716399999996,4.1362296?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 105,
+                "reviews": 106,
                 "rating": 4.4,
                 "main_category": "Shang Dian "
             },
@@ -1132,9 +1012,7 @@
         ],
         "rating": 4.9,
         "workday_timing": "09:30-17:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+32 52 48 00 60",
         "address": "KaffeeSocial, Zwaarveld 57, 9220 Hamme, Bi Li Shi ",
         "review_keywords": [
@@ -1173,7 +1051,7 @@
             {
                 "name": "Colruyt Hamme",
                 "link": "https://www.google.com/maps/search/Colruyt+Hamme/@51.0895823,4.138046?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1217,114 +1095,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Kruidvat/data=!4m7!3m6!1s0x47c391fa51a6f38d:0x70ba06bd66a05126!8m2!3d51.1022142!4d4.1452321!16s%2Fg%2F1tr8kr28!19sChIJjfOmUfqRw0cRJlGgZr0GunA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJJVUnIY6Tw0cRn-JtRYQzbn8",
-        "name": "Cafe Hier Est",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 38,
-        "competitors": [
-            {
-                "name": "Cafe Taverne 't PEIRT",
-                "link": "https://www.google.com/maps/search/Cafe+Taverne+%27t+PEIRT/@51.0323541,4.1022161?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "De Kring",
-                "link": "https://www.google.com/maps/search/De+Kring/@51.0370117,4.1663157?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
-                "rating": 4.4,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Cafe Marquise",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Marquise/@51.0377478,4.1617427?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://www.hier-est.be/",
-        "owner": {
-            "id": "110877910510739937077",
-            "name": "Cafe Hier Est (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110877910510739937077"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgZYdnUU6cY773sc1VwgHwkir9mstkBzAYumfV=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "10:00-00:00",
-        "closed_on": [
-            "Xing Qi San ",
-            "Xing Qi Si "
-        ],
-        "phone": "+32 52 21 13 39",
-        "address": "Cafe Hier Est, Theodoor Vermijlenstraat 50, 9200 Dendermonde, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafe+Hier+Est/data=!4m7!3m6!1s0x47c3938e21275525:0x7f6e3384456de29f!8m2!3d51.0319342!4d4.1693222!16s%2Fg%2F11hcfm4h7w!19sChIJJVUnIY6Tw0cRn-JtRYQzbn8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ_dQkp4eTw0cRSjQgZn1n5B4",
-        "name": "Den boomgaard",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 25,
-        "competitors": [
-            {
-                "name": "Taverne De Pomp",
-                "link": "https://www.google.com/maps/search/Taverne+De+Pomp/@51.10177710000001,4.1614794999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 416,
-                "rating": 4.3,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Barbaar",
-                "link": "https://www.google.com/maps/search/Barbaar/@51.095234299999994,4.143464799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 111,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Mieke Macke",
-                "link": "https://www.google.com/maps/search/Mieke+Macke/@51.089512299999996,4.152262299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 107,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe de Cup",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+de+Cup/@51.094342,4.1434917?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://denboomgaard.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
-        "owner": {
-            "id": "107907621570619708033",
-            "name": "Den boomgaard (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107907621570619708033"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOpurWgK0j_o67xDS23erH6YvZudLuyBtFf6M=w408-h550-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.3,
-        "workday_timing": "14:00-01:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+32 476 25 31 44",
-        "address": "Den boomgaard, Broekstraat 8, 9220 Hamme, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Den+boomgaard/data=!4m7!3m6!1s0x47c39387a724d4fd:0x1ee4677d6620344a!8m2!3d51.0928115!4d4.1569142!16s%2Fg%2F11q8whb5fg!19sChIJ_dQkp4eTw0cRSjQgZn1n5B4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ-6Cirj2Rw0cRbO65RdC1E-c",
@@ -1604,8 +1374,8 @@
         "rating": 5,
         "workday_timing": "09:00-12:00, 14:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 472 03 87 34",
         "address": "Peters Koffie, Tramstraat 3, 9220 Hamme, Bi Li Shi ",
@@ -1638,68 +1408,6 @@
         "address": null,
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Rupert+Coffee/data=!4m7!3m6!1s0x85954d9f2be9f325:0x1e1464bf2b90c71a!8m2!3d51.5642759!4d4.875805!16s%2Fg%2F11tfdc9qbt!19sChIJJfPpK59NlYURGseQK79kFB4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJCUnpdvORw0cRCZux4I3jmTk",
-        "name": "Caftec Bvba",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Kaffeeklets",
-                "link": "https://www.google.com/maps/search/Kaffeeklets/@51.0616398,4.1549262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 73,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Zwerte Koffiebranderij",
-                "link": "https://www.google.com/maps/search/Zwerte+Koffiebranderij/@51.0928191,4.0795107999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Ka Pei Hong Bei Shang "
-            },
-            {
-                "name": "Tecnico Service",
-                "link": "https://www.google.com/maps/search/Tecnico+Service/@51.0385667,3.920342?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Ji Jie Wei Xiu Fu Wu "
-            },
-            {
-                "name": "Peters Koffie",
-                "link": "https://www.google.com/maps/search/Peters+Koffie/@51.0499357,4.164825899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Hendrickx-Coffee-Tec",
-                "link": "https://www.google.com/maps/search/Hendrickx-Coffee-Tec/@51.1030674,4.302833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Fan Mai Ji "
-            }
-        ],
-        "website": "http://www.caftec.be/",
-        "owner": {
-            "id": "109288702862465503187",
-            "name": "Caftec Bvba (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109288702862465503187"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wXcRQ6Lg9tZXQDxCTbHMzg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=69.32925&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ji Gong Ying Shang ",
-        "categories": [
-            "Ka Pei Ji Gong Ying Shang "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 492 68 13 53",
-        "address": "Caftec Bvba, Damstraat 95, 9220 Hamme, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caftec+Bvba/data=!4m7!3m6!1s0x47c391f376e94909:0x3999e38de0b19b09!8m2!3d51.0878879!4d4.137281!16s%2Fg%2F11dxhyvrb0!19sChIJCUnpdvORw0cRCZux4I3jmTk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJO25OgaKRw0cRMJ4z9gEaNJM",
@@ -1766,85 +1474,6 @@
         "link": "https://www.google.com/maps/place/%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8+%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+Hamme/data=!4m7!3m6!1s0x47c391a2814e6e3b:0x93341a01f6339e30!8m2!3d51.096524!4d4.1362536!16s%2Fg%2F11j_1qsh4k!19sChIJO25OgaKRw0cRMJ4z9gEaNJM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJiRZ3YN2Rw0cRGQ3apRf61E8",
-        "name": "De Bierhoeve",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 336,
-        "competitors": [
-            {
-                "name": "De Watermolen",
-                "link": "https://www.google.com/maps/search/De+Watermolen/@51.099931899999994,4.1150833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1023,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Taverne De Pomp",
-                "link": "https://www.google.com/maps/search/Taverne+De+Pomp/@51.10177710000001,4.1614794999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 416,
-                "rating": 4.3,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Brasserie Tegentij",
-                "link": "https://www.google.com/maps/search/Brasserie+Tegentij/@51.097933,4.137065?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 210,
-                "rating": 4.3,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "'t Hofstedeke",
-                "link": "https://www.google.com/maps/search/%27t+Hofstedeke/@51.0752673,4.0922868?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "103717748390903985412",
-            "name": "De Bierhoeve (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103717748390903985412"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZxQMU-FnBXVUdN_f14TfVLCqrlRTNpVchZZMu=w408-h544-k-no",
-        "main_category": "Mei Shi Can Che Dian ",
-        "categories": [
-            "Mei Shi Can Che Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "11:00-23:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 52 48 07 03",
-        "address": "De Bierhoeve, Kaaldries 162, 9220 Hamme, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Yuan Gong ",
-                "count": 8
-            },
-            {
-                "keyword": "Xiao Chi ",
-                "count": 8
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 8
-            },
-            {
-                "keyword": "Jian Xing ",
-                "count": 5
-            },
-            {
-                "keyword": "Yi Fen ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/De+Bierhoeve/data=!4m7!3m6!1s0x47c391dd60771689:0x4fd4fa17a5da0d19!8m2!3d51.097826!4d4.1200118!16s%2Fg%2F1tdwp7nh!19sChIJiRZ3YN2Rw0cRGQ3apRf61E8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ7bnBCdOTw0cRd1E9C0DPyY4",
         "name": "De Vier Gekroonden",
         "description": null,
@@ -1894,6 +1523,7 @@
         "rating": 4.4,
         "workday_timing": "15:00-00:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San "
         ],
@@ -2164,64 +1794,6 @@
         "link": "https://www.google.com/maps/place/Sportarena/data=!4m7!3m6!1s0x47c391f78f71d6f9:0x35d960955f21c46b!8m2!3d51.0952885!4d4.1432521!16s%2Fg%2F11cp18p0qm!19sChIJ-dZxj_eRw0cRa8QhX5Vg2TU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJGS7yTK2Rw0cRgNU6gH86SBg",
-        "name": "'t Zoggehof",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 85,
-        "competitors": [
-            {
-                "name": "Brasserie Tegentij",
-                "link": "https://www.google.com/maps/search/Brasserie+Tegentij/@51.097933,4.137065?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 210,
-                "rating": 4.3,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "'t Hofstedeke",
-                "link": "https://www.google.com/maps/search/%27t+Hofstedeke/@51.0752673,4.0922868?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Manoush",
-                "link": "https://www.google.com/maps/search/Manoush/@51.0757443,4.0947629999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Vlierkouter",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Vlierkouter/@51.0896728,4.1316065?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "108547392605945614877",
-            "name": "'t Zoggehof (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108547392605945614877"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPATHhMBqkYrcQ6FTV8ehSQVGdp78GUaFiQzkkc=w408-h544-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.4,
-        "workday_timing": "10:00-00:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+32 486 88 65 51",
-        "address": "'t Zoggehof, Zogge 2, 9220 Hamme, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%27%27t+Zoggehof%27/data=!4m7!3m6!1s0x47c391ad4cf22e19:0x18483a7f803ad580!8m2!3d51.0756097!4d4.0926388!16s%2Fg%2F1ptw40k71!19sChIJGS7yTK2Rw0cRgNU6gH86SBg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJaT96lO2Rw0cRTxIA4yqwiZ0",
         "name": "De Nieuwe Buren",
         "description": null,
@@ -2276,7 +1848,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.1,
-        "workday_timing": "09:30-13:00",
+        "workday_timing": "10:00-23:00",
         "closed_on": [
             "Xing Qi Er ",
             "Xing Qi San "
@@ -2285,75 +1857,6 @@
         "address": "De Nieuwe Buren, Vlierkouter 19, 9220 Hamme, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/De+Nieuwe+Buren/data=!4m7!3m6!1s0x47c391ed947a3f69:0x9d89b02ae300124f!8m2!3d51.0893707!4d4.1309099!16s%2Fg%2F1pxwnn5gf!19sChIJaT96lO2Rw0cRTxIA4yqwiZ0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJMZnM3vqRw0cRV0Wo_nUJbEo",
-        "name": "'t Hartje van Hamme",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 82,
-        "competitors": [
-            {
-                "name": "De Bierhoeve",
-                "link": "https://www.google.com/maps/search/De+Bierhoeve/@51.097826,4.1200117999999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 334,
-                "rating": 4.4,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Het Patronaat",
-                "link": "https://www.google.com/maps/search/Het+Patronaat/@51.0963986,4.1355441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
-                "rating": 4.5,
-                "main_category": "Bi Li Shi Cai "
-            },
-            {
-                "name": "Brasserie Tegentij",
-                "link": "https://www.google.com/maps/search/Brasserie+Tegentij/@51.097933,4.137065?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 210,
-                "rating": 4.3,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Bistro lounge Jachthuis",
-                "link": "https://www.google.com/maps/search/Bistro+lounge+Jachthuis/@51.075369599999995,4.1648289?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 188,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "106828724452422451885",
-            "name": "'t Hartje van Hamme (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106828724452422451885"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGe133tMVy0E1gsrRfav3Gbm6CUeITn0hCAL2D=w408-h240-k-no-pi0-ya219.54416-ro-0-fo100",
-        "main_category": "Xiao Can Guan  (Bistro)",
-        "categories": [
-            "Xiao Can Guan  (Bistro)",
-            "Zao Can Can Ting ",
-            "Wu Can Can Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "09:00-18:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+32 52 25 64 50",
-        "address": "'t Hartje van Hamme, Kerkstraat 39, 9220 Hamme, Bi Li Shi ",
-        "review_keywords": [
-            {
-                "keyword": "Zao Can ",
-                "count": 5
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%27%27t+Hartje+van+Hamme%27/data=!4m7!3m6!1s0x47c391fadecc9931:0x4a6c0975fea84557!8m2!3d51.0984067!4d4.1345788!16s%2Fg%2F1pxwlwthx!19sChIJMZnM3vqRw0cRV0Wo_nUJbEo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ36pjT_aRw0cR3S4bQkA-B3I",
@@ -2898,7 +2401,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4,
-        "workday_timing": "13:00-23:00",
+        "workday_timing": "13:00-00:00",
         "closed_on": [
             "Xing Qi San "
         ],
@@ -3014,8 +2517,8 @@
         "rating": 4.8,
         "workday_timing": "08:00-22:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+32 474 77 20 77",
         "address": "Cafe de Cup, Tweebruggenplein 19, 9220 Hamme, Bi Li Shi ",
@@ -3265,34 +2768,6 @@
         "link": "https://www.google.com/maps/place/Boleroo%27s/data=!4m7!3m6!1s0x47c391d5793198bf:0x2e8365b7368cd396!8m2!3d51.098312!4d4.137146!16s%2Fg%2F11vln02tcy!19sChIJv5gxedWRw0cRltOMNrdlgy4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJFfgQUxGRw0cRZHADy8mkgEU",
-        "name": "Cafe Wembley",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "107596422948733166165",
-            "name": "Cafe Wembley (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107596422948733166165"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJzJSLdOEoVTC0Xe_KeawWf-0rRNzTgwFpTT28=w408-h427-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": null,
-        "workday_timing": "09:30-00:00",
-        "closed_on": [
-            "Xing Qi San "
-        ],
-        "phone": null,
-        "address": "Cafe Wembley, Marktplein 33, 9220 Hamme, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Wembley/data=!4m7!3m6!1s0x47c391115310f815:0x4580a4c9cb037064!8m2!3d51.0993505!4d4.1383085!16s%2Fg%2F11kjj3xpyz!19sChIJFfgQUxGRw0cRZHADy8mkgEU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJm6B6p36Tw0cRJsvmk_3AIhU",
         "name": "Bakker Gerry",
         "description": null,
@@ -3342,6 +2817,7 @@
         "rating": null,
         "workday_timing": "24 Xiao Shi Ying Ye ",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Wu ",
             "Xing Qi Liu "
         ],

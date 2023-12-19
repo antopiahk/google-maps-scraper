@@ -1,5 +1,495 @@
 [
     {
+        "place_id": "ChIJQ8fnvmUBBDQRKOtJnEK8Aro",
+        "name": "COTI (Fu Lin Ji Tuan )",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 117,
+        "competitors": [
+            {
+                "name": "MG Cafe",
+                "link": "https://www.google.com/maps/search/MG+Cafe/@22.3129003,114.2172106?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 363,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee Art",
+                "link": "https://www.google.com/maps/search/Coffee+Art/@22.3109587,114.2262485?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 340,
+                "rating": 3.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "UCC Coffee Shop",
+                "link": "https://www.google.com/maps/search/UCC+Coffee+Shop/@22.3122535,114.22511829999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 91,
+                "rating": 3.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee or tea",
+                "link": "https://www.google.com/maps/search/Coffee+or+tea/@22.3148834,114.2246718?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 47,
+                "rating": 3.9,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.cotihk.com/",
+        "owner": {
+            "id": "107759737512367276227",
+            "name": "COTI (Fu Lin Ji Tuan ) (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107759737512367276227"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlUeJ6pe91dPmwnKxwOzwCaA3H-L53veuSulMQ=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 3.7,
+        "workday_timing": "08:00-17:00",
+        "closed_on": "Open All Days",
+        "phone": "3106 0601",
+        "address": "Guan Tang Hong Tu Dao 90Hao COTI (Fu Lin Ji Tuan )",
+        "review_keywords": [
+            {
+                "keyword": "Sha Lu ",
+                "count": 16
+            },
+            {
+                "keyword": "Tian ",
+                "count": 12
+            },
+            {
+                "keyword": "Ji Lian ",
+                "count": 9
+            },
+            {
+                "keyword": "Mu ",
+                "count": 8
+            },
+            {
+                "keyword": "Yan San Wen Yu ",
+                "count": 7
+            },
+            {
+                "keyword": "Chao Dan ",
+                "count": 7
+            },
+            {
+                "keyword": "Dun ",
+                "count": 6
+            },
+            {
+                "keyword": "Ji Ba ",
+                "count": 6
+            },
+            {
+                "keyword": "Man Zhu ",
+                "count": 5
+            },
+            {
+                "keyword": "Ha Mi Gua ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/COTI+%28%E5%AF%8C%E8%87%A8%E9%9B%86%E5%9C%98%29/data=!4m7!3m6!1s0x34040165bee7c743:0xba02bc429c49eb28!8m2!3d22.3076566!4d114.2247865!16s%2Fg%2F11g4fp5q0j!19sChIJQ8fnvmUBBDQRKOtJnEK8Aro?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJGR9vcAABBDQRceYtWVZLx6c",
+        "name": "Studio Caffeine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "competitors": [
+            {
+                "name": "Ka Pei Kong Jian ",
+                "link": "https://www.google.com/maps/search/%E5%92%96%E5%95%A1%E7%A9%BA%E9%96%93/@22.2899049,114.193765?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 109,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "IntiMATE Coffee",
+                "link": "https://www.google.com/maps/search/IntiMATE+Coffee/@22.2902962,114.20036759999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 24,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Coffee Academics (North Point)",
+                "link": "https://www.google.com/maps/search/The+Coffee+Academ%C3%AFcs+%28North+Point%29/@22.292155899999997,114.196514?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 3.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Insane",
+                "link": "https://www.google.com/maps/search/Insane/@22.2909231,114.19604?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Xing Ba Ke  (He Fu )",
+                "link": "https://www.google.com/maps/search/%E6%98%9F%E5%B7%B4%E5%85%8B+%28%E5%92%8C%E5%AF%8C%29/@22.2921044,114.1961182?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 3,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://linktr.ee/studiocaffeinenp",
+        "owner": {
+            "id": "114917798004161787186",
+            "name": "Studio Caffeine (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114917798004161787186"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7U1iSERTGfJva2LsbWN00Ya7BTJag1vjvm4Rs=w408-h271-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Ka Pei Hong Bei Shang ",
+            "Ka Pei Pi Fa Shang ",
+            "Tian Pin Dian ",
+            "Yi Da Li Mian Shi Dian ",
+            "Can Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "10:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "3709 2565",
+        "address": "Bei Jiao He Fu Dao 126Hao Studio Caffeine",
+        "review_keywords": [
+            {
+                "keyword": "Yi Fen ",
+                "count": 21
+            },
+            {
+                "keyword": "Man Zhu ",
+                "count": 7
+            },
+            {
+                "keyword": "Le Rou ",
+                "count": 7
+            },
+            {
+                "keyword": "Niu ",
+                "count": 7
+            },
+            {
+                "keyword": "Lu Sun ",
+                "count": 6
+            },
+            {
+                "keyword": "Pa Ma Sen ",
+                "count": 6
+            },
+            {
+                "keyword": "La Hua ",
+                "count": 6
+            },
+            {
+                "keyword": "risotto",
+                "count": 6
+            },
+            {
+                "keyword": "Bei Cha ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Studio+Caffeine/data=!4m7!3m6!1s0x34040100706f1f19:0xa7c74b56592de671!8m2!3d22.2921866!4d114.1980316!16s%2Fg%2F11s3chm2q4!19sChIJGR9vcAABBDQRceYtWVZLx6c?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJb-y9K_EBBDQRSlr1qudRw9c",
+        "name": "Coffeelin Espresso (Wan Chai)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 56,
+        "competitors": [
+            {
+                "name": "Hong Kong Coffee",
+                "link": "https://www.google.com/maps/search/Hong+Kong+Coffee/@22.2784788,114.172056?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 130,
+                "rating": 3.7,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Latter Cafe",
+                "link": "https://www.google.com/maps/search/Latter+Cafe/@22.2788267,114.1740186?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 3.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "N1 Coffee & Co. (Wan Chai)",
+                "link": "https://www.google.com/maps/search/N1+Coffee+%26+Co.+%28Wan+Chai%29/@22.279110499999998,114.1761635?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 65,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Alley Coffee",
+                "link": "https://www.google.com/maps/search/Alley+Coffee/@22.2741005,114.17427509999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 53,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://www.coffeelin.net/",
+        "owner": {
+            "id": "102154247456731612558",
+            "name": "Coffeelin Espresso (Wan Chai) (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102154247456731612558"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhDXse21W7-PHl3fo-7EbR-_aBd7uVesEnhJ3I=w427-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:30-17:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "6012 6486",
+        "address": "Coffeelin Espresso (Wan Chai), 104 Jaffe Rd, Wan Chai",
+        "review_keywords": [
+            {
+                "keyword": "Huo Tui ",
+                "count": 15
+            },
+            {
+                "keyword": "La Hua ",
+                "count": 10
+            },
+            {
+                "keyword": "Qing Jiang ",
+                "count": 8
+            },
+            {
+                "keyword": "Yi Da Li ",
+                "count": 7
+            },
+            {
+                "keyword": "Ya Rou ",
+                "count": 6
+            },
+            {
+                "keyword": "Man Zhu ",
+                "count": 6
+            },
+            {
+                "keyword": "Kuan Bian Mian ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Coffeelin+Espresso+%28Wan+Chai%29/data=!4m7!3m6!1s0x340401f12bbdec6f:0xd7c351e7aaf55a4a!8m2!3d22.278468!4d114.172259!16s%2Fg%2F11rn1jpc8p!19sChIJb-y9K_EBBDQRSlr1qudRw9c?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJrag5n4IBBDQRHl_t2OUCHXY",
+        "name": "mato.coffee.wine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "competitors": [
+            {
+                "name": "You Yi  Cafe Another",
+                "link": "https://www.google.com/maps/search/%E5%8F%88%E4%B8%80+Cafe+Another/@22.284998599999998,114.1556121?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 3.9,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Cleopatra's Shish Restaurant & Bar",
+                "link": "https://www.google.com/maps/search/Cleopatra%27s+Shish+Restaurant+%26+Bar/@22.2823548,114.1525849?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Simplicity",
+                "link": "https://www.google.com/maps/search/Simplicity/@22.280623,114.154984?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Pamukkale",
+                "link": "https://www.google.com/maps/search/Pamukkale/@22.298116999999998,114.173987?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Wu Can "
+            }
+        ],
+        "website": "http://www.matocoffeewine.com/",
+        "owner": {
+            "id": "117470501793506042179",
+            "name": "mato.coffee.wine (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117470501793506042179"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipND4a5Zd2PeCeRlV1AXjv1TRIfSikxFfK___xoi=w408-h612-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Zhong Huan Nan Fung Place 173 Des Voeux Road Centralmato.coffee.wineG07",
+        "review_keywords": [
+            {
+                "keyword": "Yi Da Li Mian ",
+                "count": 4
+            },
+            {
+                "keyword": "Wu Can ",
+                "count": 3
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/mato.coffee.wine/data=!4m7!3m6!1s0x340401829f39a8ad:0x761d02e5d8ed5f1e!8m2!3d22.2858371!4d114.1542739!16s%2Fg%2F11tjs5yjqc!19sChIJrag5n4IBBDQRHl_t2OUCHXY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJIXRPIwwBBDQRaOgZ7uCqX5Y",
+        "name": "Craft Coffee Roaster (Wan Chai)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "competitors": [
+            {
+                "name": "Crew (Wan Zi )",
+                "link": "https://www.google.com/maps/search/Crew+%28%E7%81%A3%E4%BB%94%29/@22.2754402,114.1713133?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 105,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Joint",
+                "link": "https://www.google.com/maps/search/Joint/@22.277133799999998,114.17760829999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 95,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "N1 Coffee & Co. (Wan Chai)",
+                "link": "https://www.google.com/maps/search/N1+Coffee+%26+Co.+%28Wan+Chai%29/@22.279110499999998,114.1761635?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 65,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffeelin Espresso (Wan Chai)",
+                "link": "https://www.google.com/maps/search/Coffeelin+Espresso+%28Wan+Chai%29/@22.278468,114.172259?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Alley Coffee",
+                "link": "https://www.google.com/maps/search/Alley+Coffee/@22.2741005,114.17427509999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 53,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://craftcoffeeroaster.hk/",
+        "owner": {
+            "id": null,
+            "name": "Craft Coffee Roaster (Wan Chai) (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrsFq5nPuYZ9ohXccOduX3tniEXHZVcbIvMlgV=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "5109 6770",
+        "address": "G/F, Shop B1, Craft Coffee Roaster (Wan Chai), Jing Xin Shang Ye Da Sha 4-6 Morrison Hill Rd, Wan Chai",
+        "review_keywords": [
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Craft+Coffee+Roaster+%28Wan+Chai%29/data=!4m7!3m6!1s0x3404010c234f7421:0x965faae0ee19e868!8m2!3d22.2777794!4d114.1796289!16s%2Fg%2F11tn2rz5db!19sChIJIXRPIwwBBDQRaOgZ7uCqX5Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJMxcQ-7gBBDQRquymz7Pe548",
+        "name": "Pei Ren Qian  Coffeer",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "competitors": [
+            {
+                "name": "UCC Coffee Shop (Causeway Bay Plaza)",
+                "link": "https://www.google.com/maps/search/UCC+Coffee+Shop+%28Causeway+Bay+Plaza%29/@22.280138299999997,114.18277219999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 425,
+                "rating": 3.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "18 Grams Speciality Coffee",
+                "link": "https://www.google.com/maps/search/18+Grams+Speciality+Coffee/@22.281562899999997,114.18354149999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 339,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Urban Coffee Roaster (Causeway Bay)",
+                "link": "https://www.google.com/maps/search/Urban+Coffee+Roaster+%28Causeway+Bay%29/@22.2819838,114.1857915?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 214,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Caflex by the coffeeology",
+                "link": "https://www.google.com/maps/search/Caflex+by+the+coffeeology/@22.277604,114.182445?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 95,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee/Tea/Breakfast",
+                "link": "https://www.google.com/maps/search/Coffee%2FTea%2FBreakfast/@22.280381,114.1843545?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 3.5,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/coffeerbrew/",
+        "owner": {
+            "id": "115683643783379867158",
+            "name": "Pei Ren Qian  Coffeer (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115683643783379867158"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3mKf3L2zLjcndiXk3vxF1o1-63YYjCWhkAMmY=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "12:00-19:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "9377 9702",
+        "address": "Tong Luo Wan Xin Hui Dao 6-10Hao Jing Cheng Da Sha Pei Ren Qian  CoffeerShop G95, G/F",
+        "review_keywords": [
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%E5%95%A1%E4%BA%BA%E5%89%8D+Coffeer/data=!4m7!3m6!1s0x340401b8fb101733:0x8fe7deb3cfa6ecaa!8m2!3d22.2777158!4d114.1847377!16s%2Fg%2F11j6st1bg6!19sChIJMxcQ-7gBBDQRquymz7Pe548?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJt5YOv7sBBDQRIAtJwejU7fI",
         "name": "Coffee Roasters Asia Ltd",
         "description": null,
@@ -51,6 +541,7 @@
         "rating": 4.4,
         "workday_timing": "09:00-18:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -58,6 +549,329 @@
         "address": "236, Coffee Roasters Asia Ltd, Xiang Gang Zi Gong Ye Da Sha 10/F Aberdeen Main Rd, Aberdeen",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Coffee+Roasters+Asia+Ltd/data=!4m7!3m6!1s0x340401bbbf0e96b7:0xf2edd4e8c1490b20!8m2!3d22.2486971!4d114.1524001!16s%2Fg%2F11h4w_cn1j!19sChIJt5YOv7sBBDQRIAtJwejU7fI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJidC5PP3_AzQRcIwy2DGGISs",
+        "name": "First Boy Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "competitors": [
+            {
+                "name": "Blend & Grind Kennedy Town",
+                "link": "https://www.google.com/maps/search/Blend+%26+Grind+Kennedy+Town/@22.2832708,114.1284577?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 336,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Winstons Coffee - Kennedy Town",
+                "link": "https://www.google.com/maps/search/Winstons+Coffee+-+Kennedy+Town/@22.2814613,114.1271506?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 263,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Cofftea Shop",
+                "link": "https://www.google.com/maps/search/The+Cofftea+Shop/@22.2829774,114.12691199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 142,
+                "rating": 4.5,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "For Single",
+                "link": "https://www.google.com/maps/search/For+Single/@22.2827847,114.1277781?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 107,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Blueplace Cafe",
+                "link": "https://www.google.com/maps/search/Blueplace+Cafe/@22.282826,114.12877?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 80,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "108176987182602972292",
+            "name": "First Boy Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108176987182602972292"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtCuSZhW_3YQwnsPdbV0nmt6sqdQhz91crXuFF=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-17:30",
+        "closed_on": "Open All Days",
+        "phone": "3611 3851",
+        "address": "First Boy Coffee, G/F, 33 Praya, Kennedy Town",
+        "review_keywords": [
+            {
+                "keyword": "Ji Che ",
+                "count": 8
+            },
+            {
+                "keyword": "pancake",
+                "count": 5
+            },
+            {
+                "keyword": "espresso",
+                "count": 5
+            },
+            {
+                "keyword": "latte",
+                "count": 5
+            },
+            {
+                "keyword": "Dou ",
+                "count": 4
+            },
+            {
+                "keyword": "Guang ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/First+Boy+Coffee/data=!4m7!3m6!1s0x3403fffd3cb9d089:0x2b218631d8328c70!8m2!3d22.2847352!4d114.1308779!16s%2Fg%2F11fss0sx_k!19sChIJidC5PP3_AzQRcIwy2DGGISs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJdYH5LXkBBDQR6M02CR3ZJE8",
+        "name": "7 Coffee Corner Ka Pei Ge ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "competitors": [
+            {
+                "name": "Li Xiang Dian Wang Wang Ka Pei Zuo ",
+                "link": "https://www.google.com/maps/search/%E7%90%86%E6%83%B3%E5%BA%97%E6%97%BA%E6%97%BA%E5%92%96%E5%95%A1%E5%BA%A7/@22.2661066,114.2517199?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 215,
+                "rating": 3.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "JO CAFE",
+                "link": "https://www.google.com/maps/search/JO+CAFE/@22.2660976,114.2343174?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 65,
+                "rating": 3.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Shelter Cafe",
+                "link": "https://www.google.com/maps/search/Shelter+Cafe/@22.2676458,114.2424501?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 3.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Ka Pei Lang ",
+                "link": "https://www.google.com/maps/search/%E5%92%96%E5%95%A1%E5%BB%8A/@22.277831,114.23243?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "102100081409810049377",
+            "name": "7 Coffee Corner Ka Pei Ge  (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102100081409810049377"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMp9diOlWcj3KdxOGqH8du6b63TD6vBV9w9Y8Hw=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "11:00-17:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "9639 3066",
+        "address": "Chai Wan Lei Yue Mun Road75Hao  7 block7 Coffee Corner Ka Pei Ge ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/7+Coffee+Corner+%E5%92%96%E5%95%A1%E9%96%A3/data=!4m7!3m6!1s0x340401792df98175:0x4f24d91d0936cde8!8m2!3d22.2801029!4d114.2326602!16s%2Fg%2F11hc_7tgw2!19sChIJdYH5LXkBBDQR6M02CR3ZJE8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-xu6If8BBDQRd_CG4C0QwZo",
+        "name": "Zero One Coffee & Roastery (Wan Chai)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "104742525194639567749",
+            "name": "Zero One Coffee & Roastery (Wan Chai) (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104742525194639567749"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNCuCuJPGXvNYJXf2mRI_wLaVK28ZhXjq43Utdz=w408-h387-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Zero One Coffee & Roastery (Wan Chai), 77 Queen's Rd E, Wan Chai",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zero+One+Coffee+%26+Roastery+%28Wan+Chai%29/data=!4m7!3m6!1s0x340401ff21ba1bfb:0x9ac1102de086f077!8m2!3d22.2761972!4d114.1697604!16s%2Fg%2F11t_k5mtmx!19sChIJ-xu6If8BBDQRd_CG4C0QwZo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJLVPqPzUBBDQRz3HZTxeuCUw",
+        "name": "Santo Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "102865706194156231371",
+            "name": "Santo Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102865706194156231371"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNni1euw4bxxGe8fJGSF_5wJ60vqB7R4Y3kT3f2=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-17:30",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "9011 4811",
+        "address": "No 223, Santo Coffee, Manulife Financial Centre, Shop 2, 1/F., Tower B, Wai Yip St, Kwun Tong",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Santo+Coffee/data=!4m7!3m6!1s0x340401353fea532d:0x4c09ae174fd971cf!8m2!3d22.30784!4d114.22333!16s%2Fg%2F11vb7bc3nn!19sChIJLVPqPzUBBDQRz3HZTxeuCUw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJn-1h0Tn0AzQRVvtXl2d_QGo",
+        "name": "ITALIAN BEST COFFEE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Italian Bain Coffee",
+                "link": "https://www.google.com/maps/search/Italian+Bain+Coffee/@22.537702,114.067528?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Yi Da Li Feng Wei Bing Qi Lin ",
+                "link": "https://www.google.com/maps/search/%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A2%A8%E5%91%B3%E5%86%B0%E6%B7%87%E6%B7%8B/@22.535822,114.082989?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Italian Best Coffee",
+                "link": "https://www.google.com/maps/search/Italian+Best+Coffee/@22.546011,113.97549?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Yi Li Ka Pei ",
+                "link": "https://www.google.com/maps/search/%E6%84%8F%E5%88%A9%E5%92%96%E5%95%A1/@22.541874999999997,114.08904899999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "LTALIANBEST COFFEE",
+                "link": "https://www.google.com/maps/search/LTALIANBEST+COFFEE/@22.546636499999998,114.05877029999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "ITALIAN BEST COFFEE (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+86 755 8320 5937",
+        "address": "Zhong Guo Yan Dong Sheng Shen Zhen Shi Fu Tian Qu Zhen Zhong Lu 233ITALIAN BEST COFFEE",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ITALIAN+BEST+COFFEE/data=!4m7!3m6!1s0x3403f439d161ed9f:0x6a407f679757fb56!8m2!3d22.542636!4d114.083995!16s%2Fg%2F1wh4cgg2!19sChIJn-1h0Tn0AzQRVvtXl2d_QGo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJh3F2xjL5AzQRqLiTZmQLS28",
+        "name": "Ching Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Roasters Alchemy",
+                "link": "https://www.google.com/maps/search/Roasters+Alchemy/@22.356773,114.123716?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.5,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "degC Foam Cafe",
+                "link": "https://www.google.com/maps/search/%C2%B0C+Foam+Cafe/@22.3631269,114.13192799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 3.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Sun Tin Shing Coffee Co",
+                "link": "https://www.google.com/maps/search/Sun+Tin+Shing+Coffee+Co/@22.357284999999997,114.122937?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Win City Coffee Company",
+                "link": "https://www.google.com/maps/search/Win+City+Coffee+Company/@22.3600104,114.132184?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Clusters Coffee",
+                "link": "https://www.google.com/maps/search/Clusters+Coffee/@22.3672994,114.13814330000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "118289306126088070570",
+            "name": "Ching Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/118289306126088070570"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SGMyOD77RTJZp1xtd4_J0w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=105.03109&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": "3588 3976",
+        "address": "Unit 1204, Ching Coffee, Hong Da Gong Ye Zhong Xin 21 Tai Lin Pai Rd, Kwai Chung",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ching+Coffee/data=!4m7!3m6!1s0x3403f932c6767187:0x6f4b0b646693b8a8!8m2!3d22.3648262!4d114.1345529!16s%2Fg%2F11nl9k8_kl!19sChIJh3F2xjL5AzQRqLiTZmQLS28?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJRcxtfnMtljMRN8jJlMsNXxg",

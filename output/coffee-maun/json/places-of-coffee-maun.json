@@ -4,7 +4,7 @@
         "name": "Marc's Eatery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 256,
+        "reviews": 257,
         "competitors": [
             {
                 "name": "The Duck Cafe",
@@ -86,11 +86,11 @@
                 "count": 5
             },
             {
-                "keyword": "Liao Li ",
+                "keyword": "Jian Kang Yin Shi ",
                 "count": 5
             },
             {
-                "keyword": "Jian Kang Yin Shi ",
+                "keyword": "Liao Li ",
                 "count": 5
             },
             {
@@ -376,7 +376,7 @@
             {
                 "name": "The Boma Restaurant & Riverview Bar",
                 "link": "https://www.google.com/maps/search/The+Boma+Restaurant+%26+Riverview+Bar/@-20.0046039,23.4281568?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 134,
+                "reviews": 135,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -404,7 +404,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "07:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+267 77 012 978",
         "address": "The Duck Cafe, 20739, Maun, Bo Ci Wa Na ",
         "review_keywords": [
@@ -442,89 +444,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/The+Duck+Caf%C3%A9/data=!4m7!3m6!1s0x19544d7655a197c9:0x2f1bb334d7c1407e!8m2!3d-19.9762815!4d23.4286287!16s%2Fg%2F11nn16r0vd!19sChIJyZehVXZNVBkRfkDB1zSzGy8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJwdx_iXpNVBkRaCp34ZR3HNE",
-        "name": "Akacia Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 103,
-        "competitors": [
-            {
-                "name": "Dusty Donkey Cafe",
-                "link": "https://www.google.com/maps/search/Dusty+Donkey+Caf%C3%A9/@-19.977822099999997,23.429424299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 332,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Marc's Eatery",
-                "link": "https://www.google.com/maps/search/Marc%27s+Eatery/@-19.964234899999997,23.4540795?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 256,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Hilary's Restaurant",
-                "link": "https://www.google.com/maps/search/Hilary%27s+Restaurant/@-19.9777961,23.4270849?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Maun Monateng cafe",
-                "link": "https://www.google.com/maps/search/Maun+Monateng+cafe/@-19.999507599999998,23.435068299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Miguels Taco Shack",
-                "link": "https://www.google.com/maps/search/Miguels+Taco+Shack/@-19.9757937,23.4337083?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "103480932001485389400",
-            "name": "Akacia Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103480932001485389400"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMD7fLD-L64RH7ZJaNHACJbmSvdujnx5_Q6VARi=w408-h254-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+267 74 064 091",
-        "address": "Akacia Cafe, Sir Seretse Khama Rd, Maun, Bo Ci Wa Na ",
-        "review_keywords": [
-            {
-                "keyword": "Pi Sa ",
-                "count": 6
-            },
-            {
-                "keyword": "Ka Pei ",
-                "count": 6
-            },
-            {
-                "keyword": "Guo Zhi ",
-                "count": 6
-            },
-            {
-                "keyword": "Han Bao ",
-                "count": 4
-            },
-            {
-                "keyword": "Ru Luo Dan Gao ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Akacia+Cafe/data=!4m7!3m6!1s0x19544d7a897fdcc1:0xd11c7794e1772a68!8m2!3d-19.9790295!4d23.4289466!16s%2Fg%2F11j7dtdnp1!19sChIJwdx_iXpNVBkRaCp34ZR3HNE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJW8rHuV5NVBkRGcFK3QmRUHE",
@@ -724,31 +643,5 @@
         "address": "XCP3+7P6 Mzanzi's tuckshop, Maun, Bo Ci Wa Na ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Mzanzi%27s+tuckshop/data=!4m7!3m6!1s0x19544dc470534f99:0x135e8cfdab342f68!8m2!3d-20.0143475!4d23.4042699!16s%2Fg%2F11l6zjx0jx!19sChIJmU9TcMRNVBkRaC80q_2MXhM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJAXAKUB5NVBkRYyVCtIwIdsM",
-        "name": "Mauna",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Mauna (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kmQerqbtNVHveZdAXQGWew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.00557&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "2C39+V5X Mauna, Maun, Bo Ci Wa Na ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mauna/data=!4m7!3m6!1s0x19544d1e500a7001:0xc376088cb4422563!8m2!3d-19.9952525!4d23.4179956!16s%2Fg%2F11y1m0jh4x!19sChIJAXAKUB5NVBkRYyVCtIwIdsM?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

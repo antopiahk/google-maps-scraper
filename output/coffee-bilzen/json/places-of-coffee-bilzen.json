@@ -798,9 +798,9 @@
         "rating": 4.5,
         "workday_timing": "14:00-00:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Si "
         ],
         "phone": "+32 473 76 61 68",
         "address": "Cafe 't Jonckholt, 't Jonckholt, Hoelbeekstraat 83, 3746 Bilzen, Bi Li Shi ",
@@ -1050,7 +1050,7 @@
         "name": "Cafe Jengske",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 170,
+        "reviews": 171,
         "competitors": [
             {
                 "name": "cafe bij Guske",
@@ -1099,6 +1099,75 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Cafe+Jengske/data=!4m7!3m6!1s0x47c0de3b5ea926b1:0x62c7688e79ba75db!8m2!3d50.8944707!4d5.4989761!16s%2Fg%2F11dxr4xvnv!19sChIJsSapXjvewEcR23W6eY5ox2I?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJW508XOjgwEcRwM9fcwgrwT4",
+        "name": "Cafe Ter Waert",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 135,
+        "competitors": [
+            {
+                "name": "Restaurant Foodcafe De Vrije Valk",
+                "link": "https://www.google.com/maps/search/Restaurant+Foodcaf%C3%A9+De+Vrije+Valk/@50.8280356,5.4934408999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "the Hoeseler",
+                "link": "https://www.google.com/maps/search/the+Hoeseler/@50.8493065,5.486351099999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 181,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Den Engel",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Den+Engel/@50.849866399999996,5.487686999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "C@fe.COMM - Hoeselt",
+                "link": "https://www.google.com/maps/search/C%40f%C3%A9.COMM+-+Hoeselt/@50.848503099999995,5.484713?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 44,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "In d'oude gewoonte",
+                "link": "https://www.google.com/maps/search/In+d%E2%80%99oude+gewoonte/@50.81815640000001,5.463703799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.terwaert.be/",
+        "owner": {
+            "id": "101667590835525199201",
+            "name": "Cafe Ter Waert (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101667590835525199201"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8TfqFnczws1Kmwq9yNhsHeofyYk27FUYN5hII=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.4,
+        "workday_timing": "14:00-02:00",
+        "closed_on": [
+            "Xing Qi Si "
+        ],
+        "phone": "+32 89 41 74 89",
+        "address": "Cafe Ter Waert, Bilzersteenweg 29, 3730 Hoeselt, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Pi Jiu ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Ter+Waert/data=!4m7!3m6!1s0x47c0e0e85c3c9d5b:0x3ec12b08735fcfc0!8m2!3d50.8534271!4d5.4949597!16s%2Fg%2F1tmqfbvs!19sChIJW508XOjgwEcRwM9fcwgrwT4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJE02iwH7nwEcR7lKPFacp_iM",
@@ -1299,7 +1368,7 @@
             {
                 "name": "Wonderland Strips",
                 "link": "https://www.google.com/maps/search/Wonderland+Strips/@50.9320516,5.339479100000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 155,
+                "reviews": 156,
                 "rating": 4.5,
                 "main_category": "Shu Dian "
             },
@@ -1335,10 +1404,10 @@
         "rating": 4.7,
         "workday_timing": "10:00-17:30",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Si "
         ],
         "phone": null,
         "address": "Stripwinkel en koffiebar Wokka Mokka, Genutstraat 11, 3740 Bilzen, Bi Li Shi ",
@@ -1506,11 +1575,11 @@
         "rating": 4.5,
         "workday_timing": "15:30-17:30, 20:30-02:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
             "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Ri "
+            "Xing Qi Si "
         ],
         "phone": "+32 476 93 99 60",
         "address": "Jeugdhuis De Haajf, Zoemerik 4, 3740 Bilzen, Bi Li Shi ",
@@ -1536,7 +1605,7 @@
             "Ka Pei Dian "
         ],
         "rating": 5,
-        "workday_timing": "10:00-17:00",
+        "workday_timing": "09:00-17:00",
         "closed_on": [
             "Xing Qi San ",
             "Xing Qi Si ",
@@ -1602,8 +1671,8 @@
         "rating": 4.3,
         "workday_timing": "08:00-17:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": null,
         "address": "Nicky's, Markt 16, 3740 Bilzen, Bi Li Shi ",
@@ -1615,7 +1684,7 @@
         "name": "Marguerite delicieux",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 6,
+        "reviews": 7,
         "competitors": [],
         "website": "https://www.marguerite-delicieux.be/",
         "owner": {
@@ -1757,6 +1826,73 @@
         "address": "Sint Martinus, Maastrichterstraat 385, 3740 Bilzen, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Sint+Martinus/data=!4m7!3m6!1s0x47c0e79ed1140515:0x89b7b49e10e79227!8m2!3d50.8610711!4d5.5819966!16s%2Fg%2F1td5f7zl!19sChIJFQUU0Z7nwEcRJ5LnEJ60t4k?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJwa05R8rhwEcRCNng5aNoksc",
+        "name": "Eetcafe 't Lindje",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "competitors": [
+            {
+                "name": "De Brasserie",
+                "link": "https://www.google.com/maps/search/De+Brasserie/@50.870176199999996,5.5176902?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 560,
+                "rating": 4.2,
+                "main_category": "Fa Shi Can Ting "
+            },
+            {
+                "name": "Cafe 't Jonckholt",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+%27t+Jonckholt/@50.873419399999996,5.5591861?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 210,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "'t Biesefritje",
+                "link": "https://www.google.com/maps/search/%27t+Biesefritje/@50.8408404,5.5186961?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 104,
+                "rating": 4.6,
+                "main_category": "Kuai Can "
+            },
+            {
+                "name": "Restaurant Nif",
+                "link": "https://www.google.com/maps/search/Restaurant+Nif/@50.871011599999996,5.5158472?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "105755435282622500931",
+            "name": "Eetcafe 't Lindje (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105755435282622500931"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1JKrxd26wm4Pv1Npgtyzp3NEjXpuEt12uKldb=w408-h306-k-no",
+        "main_category": "Mei Shi Can Che Dian ",
+        "categories": [
+            "Mei Shi Can Che Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "11:00-23:30",
+        "closed_on": [
+            "Xing Qi San ",
+            "Xing Qi Si "
+        ],
+        "phone": "+32 477 23 84 18",
+        "address": "Eetcafe 't Lindje, Kogelstraat 1, 3740 Bilzen, Bi Li Shi ",
+        "review_keywords": [
+            {
+                "keyword": "Yuan Gong ",
+                "count": 5
+            },
+            {
+                "keyword": "Jian Xing ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Eetcaf%C3%A9+%27t+Lindje/data=!4m7!3m6!1s0x47c0e1ca4739adc1:0xc79268a3e5e0d908!8m2!3d50.8396031!4d5.5176239!16s%2Fg%2F11tfy2g1rw!19sChIJwa05R8rhwEcRCNng5aNoksc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJqwYOwqTgwEcR1Qm9f0IHizI",
@@ -2402,60 +2538,5 @@
         "address": "'t Korentje, Bunderstraat 6, 3740 Bilzen, Bi Li Shi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/%27%27t+Korentje%27/data=!4m7!3m6!1s0x47c0ddfe6d9618bb:0xd4b6b16aca159c25!8m2!3d50.8856881!4d5.5311393!16s%2Fg%2F11c575q4v3!19sChIJuxiWbf7dwEcRJZwVymqxttQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJBTaZMkHnwEcRzzRFIzdYoGM",
-        "name": "Machiels / Jean Paul",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "DELLO",
-                "link": "https://www.google.com/maps/search/DELLO/@50.895714899999994,5.5249201?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 108,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Patisserie Gilles",
-                "link": "https://www.google.com/maps/search/Patisserie+Gilles/@50.863128,5.5447622999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.6,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Machiels / Benny",
-                "link": "https://www.google.com/maps/search/Machiels+%2F+Benny/@50.7952699,5.6191163?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Confiserie Carla",
-                "link": "https://www.google.com/maps/search/Confiserie+Carla/@50.8463686,5.578418999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Machiels / Jean Paul (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Y1JkAL4XNPyL0jrjnDV3w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.51527&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+32 89 41 16 72",
-        "address": "Machiels / Jean Paul, Maastrichterstraat 175, 3740 Bilzen, Bi Li Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Machiels+%2F+Jean+Paul/data=!4m7!3m6!1s0x47c0e74132993605:0x63a05837234534cf!8m2!3d50.8631367!4d5.5447102!16s%2Fg%2F1tdn7tlf!19sChIJBTaZMkHnwEcRzzRFIzdYoGM?authuser=0&hl=zh-TW&rclk=1"
     }
 ]
