@@ -1,0 +1,796 @@
+[
+    {
+        "place_id": "ChIJr3s5vbJ954gRxa3oV7Oka64",
+        "name": "Starbucks",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Dunkin'",
+                "link": "https://www.google.com/maps/search/Dunkin%27/@28.4403904,-81.4032261?authuser=0&hl=en&entry=ttu",
+                "reviews": 575,
+                "rating": 3.8,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "THE BOBA COMPANY",
+                "link": "https://www.google.com/maps/search/THE+BOBA+COMPANY/@28.448114099999998,-81.4024548?authuser=0&hl=en&entry=ttu",
+                "reviews": 494,
+                "rating": 4.4,
+                "main_category": "Bubble Tea"
+            },
+            {
+                "name": "Magic Pearls",
+                "link": "https://www.google.com/maps/search/Magic+Pearls/@28.4459296,-81.3954881?authuser=0&hl=en&entry=ttu",
+                "reviews": 133,
+                "rating": 3.5,
+                "main_category": "Bubble Tea"
+            },
+            {
+                "name": "Barb's Coffee House",
+                "link": "https://www.google.com/maps/search/Barb%27s+Coffee+House/@28.4452696,-81.4015391?authuser=0&hl=en&entry=ttu",
+                "reviews": 49,
+                "rating": 4.7,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "reviews": 3636,
+        "website": "https://www.starbucks.com/store-locator/store/1022762",
+        "owner": {
+            "id": "112247345399318435240",
+            "name": "Starbucks (Owner)",
+            "link": "https://www.google.com/maps/contrib/112247345399318435240"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNcdulCs-RSoFxBe42clhx7U6IznRJlDqoti7-E=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop",
+            "Cafe",
+            "Coffee store",
+            "Espresso bar"
+        ],
+        "rating": 4.3,
+        "workday_timing": "10 AM-8 PM",
+        "closed_on": "Open All Days",
+        "phone": "(407) 854-2272",
+        "address": "Starbucks, 8001 S Orange Blossom Trl, Sky Lake, FL 32809",
+        "review_keywords": [
+            {
+                "keyword": "clothes",
+                "count": 85
+            },
+            {
+                "keyword": "department store",
+                "count": 47
+            },
+            {
+                "keyword": "perfume",
+                "count": 32
+            },
+            {
+                "keyword": "supply",
+                "count": 23
+            },
+            {
+                "keyword": "mall",
+                "count": 14
+            },
+            {
+                "keyword": "outlets",
+                "count": 11
+            },
+            {
+                "keyword": "merchandise",
+                "count": 10
+            },
+            {
+                "keyword": "suit",
+                "count": 9
+            },
+            {
+                "keyword": "black friday",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x88e77db2bd397baf:0xae6ba4b357e8adc5!8m2!3d28.4467242!4d-81.3952717!16s%2Fg%2F1tv3phxz!19sChIJr3s5vbJ954gRxa3oV7Oka64?authuser=0&hl=en&rclk=1",
+        "status": "Closed  Opens 10 AM Wed",
+        "price_range": "$$",
+        "reviews_per_rating": {
+            "1": 107,
+            "2": 94,
+            "3": 396,
+            "4": 873,
+            "5": 2166
+        },
+        "featured_question": {
+            "question": "Hello, on which floor is the shoes department for girls??",
+            "answer": "Sorry...I don't remember! ",
+            "question_date": "2019-10-31T22:03:14",
+            "question_ago": "4 years ago",
+            "asked_by": {
+                "name": "Julio Rivera",
+                "link": "https://www.google.com/maps/contrib/115822547916027732066"
+            },
+            "answer_date": "2019-10-31T23:17:51",
+            "answer_ago": "4 years ago",
+            "answered_by": {
+                "name": "zarita cyrino",
+                "link": "https://www.google.com/maps/contrib/102174597077991081082"
+            }
+        },
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJr3s5vbJ954gRxa3oV7Oka64&q=Starbucks&authuser=0&hl=en&gl=US",
+        "coordinates": {
+            "latitude": 28.4467242,
+            "longitude": -81.3952717
+        },
+        "plus_code": "CJW3+MV Sky Lake, Florida",
+        "detailed_address": {
+            "ward": null,
+            "street": "8001 S Orange Blossom Trl",
+            "city": "Sky Lake",
+            "postal_code": "32809",
+            "state": "Florida",
+            "country_code": "US"
+        },
+        "time_zone": "America/New_York",
+        "cid": "12568320275288468933",
+        "data_id": "0x88e77db2bd397baf:0xae6ba4b357e8adc5",
+        "menu": {
+            "link": "http://www.starbucks.com/menu",
+            "source": "starbucks.com"
+        },
+        "reservations": [],
+        "order_online_links": [],
+        "about": [
+            {
+                "id": "service_options",
+                "name": "Service options",
+                "options": [
+                    {
+                        "name": "Drive-through",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Takeout",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Dine-in",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Delivery",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "highlights",
+                "name": "Highlights",
+                "options": [
+                    {
+                        "name": "Great coffee",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Great tea selection",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "popular_for",
+                "name": "Popular for",
+                "options": [
+                    {
+                        "name": "Breakfast",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Solo dining",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Good for working on laptop",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "accessibility",
+                "name": "Accessibility",
+                "options": [
+                    {
+                        "name": "Wheelchair accessible entrance",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Wheelchair accessible parking lot",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Wheelchair accessible restroom",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Wheelchair accessible seating",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "offerings",
+                "name": "Offerings",
+                "options": [
+                    {
+                        "name": "Coffee",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Healthy options",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Prepared foods",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Quick bite",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Small plates",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "dining_options",
+                "name": "Dining options",
+                "options": [
+                    {
+                        "name": "Breakfast",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Brunch",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Lunch",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Dessert",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "amenities",
+                "name": "Amenities",
+                "options": [
+                    {
+                        "name": "Restroom",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "atmosphere",
+                "name": "Atmosphere",
+                "options": [
+                    {
+                        "name": "Casual",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Cozy",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Trendy",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "crowd",
+                "name": "Crowd",
+                "options": [
+                    {
+                        "name": "College students",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Family-friendly",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Tourists",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Transgender safespace",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "planning",
+                "name": "Planning",
+                "options": [
+                    {
+                        "name": "Accepts reservations",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "payments",
+                "name": "Payments",
+                "options": [
+                    {
+                        "name": "Credit cards",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Debit cards",
+                        "enabled": true
+                    },
+                    {
+                        "name": "NFC mobile payments",
+                        "enabled": true
+                    },
+                    {
+                        "name": "Credit cards",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "children",
+                "name": "Children",
+                "options": [
+                    {
+                        "name": "Good for kids",
+                        "enabled": true
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNcdulCs-RSoFxBe42clhx7U6IznRJlDqoti7-E=w397-h298-k-no"
+            },
+            {
+                "about": "Menu",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN_ciwIQs5_NW_nrhW8v1eON9jBVnXd0rLnswYe=w224-h398-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOqz6dCc9Ldof34xu0CeHDT07HvPsF6jWcYaWqv=w224-h398-k-no"
+            },
+            {
+                "about": "Food & drink",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPOPxSL0QtgitJsdw9RJHwEz-DGQqg6YElxGtbn=w527-h298-k-no"
+            },
+            {
+                "about": "Vibe",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNG30L5Ala39t_eTyQ-Nl75Ovzp_GkbFwxKZgeA=w397-h298-k-no"
+            },
+            {
+                "about": "By owner",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMy1nGOcA0ScEbYV7SeAmNK6VEbsMJraKeDoLPV=w298-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOilzUuuLIeUcDoaVtahC_7Gg3Bk4bMwxXCGpuE=w224-h298-k-no-pi0.87713987-ya58.82603-ro8.367642-fo100"
+            }
+        ],
+        "hours": [
+            {
+                "day": "Sunday",
+                "times": [
+                    "11 AM-7 PM"
+                ]
+            },
+            {
+                "day": "Monday",
+                "times": [
+                    "10 AM-8 PM"
+                ]
+            },
+            {
+                "day": "Tuesday",
+                "times": [
+                    "10 AM-8 PM"
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "times": [
+                    "10 AM-8 PM"
+                ]
+            },
+            {
+                "day": "Thursday",
+                "times": [
+                    "10 AM-8 PM"
+                ]
+            },
+            {
+                "day": "Friday",
+                "times": [
+                    "10 AM-8 PM"
+                ]
+            },
+            {
+                "day": "Saturday",
+                "times": [
+                    "10 AM-8 PM"
+                ]
+            }
+        ],
+        "most_popular_times": "Not Present",
+        "popular_times": "Not Present",
+        "featured_reviews": [
+            {
+                "review_id": "Very beautiful inside of macy store by the front door. Very nice people who are working here, they love to interact with customers to create a positive impact.\nBy the way 6 shot espresso is fabulous!",
+                "reviewer_name": "J S",
+                "rating": 5,
+                "review_text": "Very beautiful inside of macy store by the front door. Very nice people who are working here, they love to interact with customers to create a positive impact.\nBy the way 6 shot espresso is fabulous!",
+                "published_at": "9 months ago",
+                "published_at_date": "2023-02-14T23:10:04.316000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 386,
+                "total_number_of_photos_by_reviewer": 157,
+                "reviewer_url": "https://www.google.com/maps/contrib/115161362963801170621/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLIx1Q4SBWP0VGTCIwI4F1I7PLLMSMxA5CcegWueDQe=s120-c-rp-mo-ba5-br100",
+                "is_local_guide": true,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": [
+                    "https://lh5.googleusercontent.com/p/AF1QipMZt8EjDVCW4Pa_1YJLuOrj2gvPafG_LmUNrLYS=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipMbdBa7rjfUeuTIhw2AUhPVfacrgF-xsZmwMsMr=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipMd9iLvOkqIdfSVT3TElHebXTRCDC1P8qcBZR7j=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipPR-3RnAldWLnq7QHzLeBoiNIx5jkeDM_m94hsE=w150-h150-k-no-p"
+                ]
+            },
+            {
+                "review_id": "Average Starbucks, we all know what to expect and what the coffee tastes like.\n\nNice seating area, located in The Florida Hotel.\n\nGood selection of sandwiches, muffins and cookies.",
+                "reviewer_name": "Jason Olson",
+                "rating": 4,
+                "review_text": "Average Starbucks, we all know what to expect and what the coffee tastes like.\n\nNice seating area, located in The Florida Hotel.\n\nGood selection of sandwiches, muffins and cookies.",
+                "published_at": "a year ago",
+                "published_at_date": "2022-09-11T18:01:00.222000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 465,
+                "total_number_of_photos_by_reviewer": 4211,
+                "reviewer_url": "https://www.google.com/maps/contrib/117472096528621405239/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVKor2lKwSU5pQma5scJlLZUJ6QeqijCBP8x3oimCDCxI4=s120-c-rp-mo-ba6-br100",
+                "is_local_guide": true,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": [
+                    "https://lh5.googleusercontent.com/p/AF1QipNG30L5Ala39t_eTyQ-Nl75Ovzp_GkbFwxKZgeA=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipNmHNlVNv1C2exCAC5gotTJMCz9hPLHiEyYTdQq=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipNG8N4jqSBSFWgp62shIsRdWTX8vXs9TXtunisC=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOf_YuGQfRCc881nOWS99QrKJ-gPSMf7PDQSw0D=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipNo1DaWLOm70A_9I5IOW-SNAnthi5wMmXAcYsx4=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipPXfsCKcuKgQYvlkIFjBzI1R6vhiNo83LMvMDzl=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOD-TVel5Uojz1dGfbV0LCGCNDPyf1wuOyL-2O3=w150-h150-k-no-p"
+                ]
+            },
+            {
+                "review_id": "It was a wonderful experience thanks to Sharon on the dresses department. She helped my wife find a dress after I have spent all day running around without any luck. So again Sharon thank you!",
+                "reviewer_name": "Ariel Jimenez",
+                "rating": 4,
+                "review_text": "It was a wonderful experience thanks to Sharon on the dresses department. She helped my wife find a dress after I have spent all day running around without any luck. So again Sharon thank you!",
+                "published_at": "5 years ago",
+                "published_at_date": "2018-10-30T19:37:20.963000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 56,
+                "total_number_of_photos_by_reviewer": 2842,
+                "reviewer_url": "https://www.google.com/maps/contrib/103527661810319903900/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVzgmPY7e7DGMT0WfPTPLKcrMhoZXlFYB75q_ndQCBQnilM=s120-c-rp-mo-ba6-br100",
+                "is_local_guide": true,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": [
+                    "https://lh5.googleusercontent.com/p/AF1QipNDE4R5CxszkeMB31Hz0nsRrJUk4zNBez3PHxE_=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOM4n83ZA_C-pwuxbGf7F6K8YiuOYw27F41EM2g=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipMR_t-E5QDECnpXYQ5p-QH3f8bu91kNGMwQ9FIh=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipP_yPe1Mwz4vO5q1OsBbD6Rw4gEcd9RAevBlEiN=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipPFzplkzzzvApXdVuIf6GJevpG2Kst7cyNEd9on=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOBZYuzpNGfqNf2u5w0VLDGNHBl4AAdSNCjC4Ox=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipPY0E0Pf_4J514jo2Lx3blALSGUhLCqMixH0C6f=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipPOnQUl69nIGHAfYkdFVVep1GfUE3h0sA9S7OVE=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOOHsvOWOrsg5vB9d7-D9V9zHG5ppnhCuoQ4F2E=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOgFSahK7PkVC5PzKKaFDPpe0fmH8oSh2-EdV6h=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipObTtCW03ZrSXJrUjs15LtFYwlfR6CUYKT16de4=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipNT8Y9vJPhV6ypW4odOtzjRf8QgtOQsMOcILR_2=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipNvt-HbuazDPGJTy4UaNB4iJQkr_-hz_ipnOxKs=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOOwtWaP5wd4CegHvFkd-Z5qE7bUHXJU3ajOFlo=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipMa4ZOU4N2hSD4PthSJ2Bq15Lj2gYAlBXyFWzS3=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipMxDYCu_LEpsVVeCVWiLpEI0c253zyVq1JL0iAU=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipNzuqFsYHp2L0YBxeuvXtZdyr1Qw0z8k1ydnhB7=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOLuMifuyhrlfCj_SErtWqgWN1DIa8hrp44VsFr=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipNPXvqIb3fWYqh1yr9UBrTr4G9heqMLZbOPkdHP=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipOe0r-SeGfJtvMTJ3ZVGXgLDJTmYQ2ZvFvyN_Ay=w150-h150-k-no-p"
+                ]
+            },
+            {
+                "review_id": "One of my favorite places, I had one of my favorite sandwiches and my favorite drink (grilled cheese and Caramel ribbon crunch Frappuccino)  they did the Starbucks name proud.",
+                "reviewer_name": "JJIMMIE PRODUCTIONS",
+                "rating": 5,
+                "review_text": "One of my favorite places, I had one of my favorite sandwiches and my favorite drink (grilled cheese and Caramel ribbon crunch Frappuccino)  they did the Starbucks name proud.",
+                "published_at": "a year ago",
+                "published_at_date": "2022-10-29T09:50:05.806000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 6,
+                "total_number_of_reviews_by_reviewer": 195,
+                "total_number_of_photos_by_reviewer": 317,
+                "reviewer_url": "https://www.google.com/maps/contrib/102690125506215242511/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJWSD0QkL9HDFj3sf20gU5kvc5KEC9MXom0TguIV_SL=s120-c-rp-mo-ba5-br100",
+                "is_local_guide": true,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": [
+                    "https://lh5.googleusercontent.com/p/AF1QipM9O-egck__dGWt0lmoT86FwfeTASMfSJ3VW2A-=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipMYzsc30Hg9Dbdnu3xrpjdnkn6_ni9VhQsMUmKO=w150-h150-k-no-p"
+                ]
+            },
+            {
+                "review_id": "Went here for the Believe display. This display is for children to write letters to Santa and drop them in a special mailbox. Plus a $1 is donated to Make a Wish for each letter! So cute!",
+                "reviewer_name": "Leah Fouts",
+                "rating": 5,
+                "review_text": "Went here for the Believe display. This display is for children to write letters to Santa and drop them in a special mailbox. Plus a $1 is donated to Make a Wish for each letter! So cute!",
+                "published_at": "4 years ago",
+                "published_at_date": "2019-11-17T22:37:44.434000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 31,
+                "total_number_of_photos_by_reviewer": 22,
+                "reviewer_url": "https://www.google.com/maps/contrib/108870062504003323213/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXYV0gfBiE8ed4z6n3H4Q3nFXgGNxhx0hYE4J_0rFNZ6g=s120-c-rp-mo-ba2-br100",
+                "is_local_guide": true,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": [
+                    "https://lh5.googleusercontent.com/p/AF1QipOtNv9Sq-d34G07fdxh_j76z1t6uc5x1pQ8VtjG=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipNSBqFEVe3rSWmR7OHIcfAUETyb8Ep_pPDKySIe=w150-h150-k-no-p"
+                ]
+            },
+            {
+                "review_id": "This should be the national Starbucks model for customer service. Freddy and the entire staff are incredibly friendly and welcoming. I feel like I'm at my neighborhood coffee shop with my neighbors. Makes the coffee taste that much better.",
+                "reviewer_name": "Trevor Clark",
+                "rating": 5,
+                "review_text": "This should be the national Starbucks model for customer service. Freddy and the entire staff are incredibly friendly and welcoming. I feel like I'm at my neighborhood coffee shop with my neighbors. Makes the coffee taste that much better.",
+                "published_at": "6 months ago",
+                "published_at_date": "2023-06-09T14:21:14.147000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 6,
+                "total_number_of_photos_by_reviewer": 1,
+                "reviewer_url": "https://www.google.com/maps/contrib/110307802879666703446/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWwBApvKjPfCC9HYWdmhnoSmGKnnVpuRw76a972NmaWRg=s120-c-rp-mo-br100",
+                "is_local_guide": false,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": []
+            },
+            {
+                "review_id": "On Black Friday I went to the watch store in Macy's with my wife, Tere Pizarro  and bought a Bulova Accutron II Crystal Swarovski watch with a great deal although we had to wait 2 hours to complete the service! They were going to remove 2 links on the watch because it was big for my wrist! They tried but the tools to size the watch and remove 2 links broke! Then they told us that they will send the watch to the Bulova Company to size the watch and that we had to wait for 7 to 10 days and they will call us back to pick up the watch to the store. The Manager of the store told us that and we accepted and we where happy and treated with excellent Customer service that day! 15 days passed by and no call from the store so we decided to go today to the Macy's store in the Florida Mall to check what happened to the watch! We talked to 2 different employees who sent us to 2 different places who they did not what to do to solve the problem. Finally we saw the Manager who checked in the computer and found out that the watch was in the store since yesterday! She checked in 2 safes and the watch was not there! Then she called by phone and in the floor there were 2 UPS boxes and there was the watch in one of them! She took the watch out of the box and there were no links and the watch was not done anything for sizing ! The watch was sent by the store to remove 2 links and they did nothing in 15 days! That's no way to treat a Customer! Then they did not have any options for fixing the problem! Then my wife asked the manager if we could go to remove the links in another watch store independent from Macy's and pay for it and come back for a refund and they will deduct that from the watch price and she said yes! We went to a watch store near the dining room and payed 21 dollars for sizing the watch! We came back to Macy's for the refund of the money spend for sizing the watch and we had to wait 1 hour for them to give us the money! I will not recommend this store to anyone! This is a good example of bad treatment to a Customer!",
+                "reviewer_name": "Jorge Berrios",
+                "rating": 1,
+                "review_text": "On Black Friday I went to the watch store in Macy's with my wife, Tere Pizarro  and bought a Bulova Accutron II Crystal Swarovski watch with a great deal although we had to wait 2 hours to complete the service! They were going to remove 2 links on the watch because it was big for my wrist! They tried but the tools to size the watch and remove 2 links broke! Then they told us that they will send the watch to the Bulova Company to size the watch and that we had to wait for 7 to 10 days and they will call us back to pick up the watch to the store. The Manager of the store told us that and we accepted and we where happy and treated with excellent Customer service that day! 15 days passed by and no call from the store so we decided to go today to the Macy's store in the Florida Mall to check what happened to the watch! We talked to 2 different employees who sent us to 2 different places who they did not what to do to solve the problem. Finally we saw the Manager who checked in the computer and found out that the watch was in the store since yesterday! She checked in 2 safes and the watch was not there! Then she called by phone and in the floor there were 2 UPS boxes and there was the watch in one of them! She took the watch out of the box and there were no links and the watch was not done anything for sizing ! The watch was sent by the store to remove 2 links and they did nothing in 15 days! That's no way to treat a Customer! Then they did not have any options for fixing the problem! Then my wife asked the manager if we could go to remove the links in another watch store independent from Macy's and pay for it and come back for a refund and they will deduct that from the watch price and she said yes! We went to a watch store near the dining room and payed 21 dollars for sizing the watch! We came back to Macy's for the refund of the money spend for sizing the watch and we had to wait 1 hour for them to give us the money! I will not recommend this store to anyone! This is a good example of bad treatment to a Customer!",
+                "published_at": "7 years ago",
+                "published_at_date": "2016-12-10T21:48:57.554000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 242,
+                "total_number_of_photos_by_reviewer": 441,
+                "reviewer_url": "https://www.google.com/maps/contrib/104098769647913627552/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXz1S9T3_tS4S2GKSsH7MvubJxnACKWVa7wBRsfFPaUybzE=s120-c-rp-mo-br100",
+                "is_local_guide": false,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": [
+                    "https://lh5.googleusercontent.com/p/AF1QipP9gSU9A28YUiL1Sc_2h-ZcaF5RYSR5z40WxkqM=w150-h150-k-no-p",
+                    "https://lh5.googleusercontent.com/p/AF1QipP_NZczR5RwwRxwylPX6ShEim-gj7Gmuh-C8Th1=w150-h150-k-no-p"
+                ]
+            },
+            {
+                "review_id": "This store was nuts when I went in. They had a photo booth, a DJ, run way models, drinks, and giveaways. Can't believe Macy's of all places does stuff like this for their customers. Can't wait to see what they have in store next!",
+                "reviewer_name": "D B",
+                "rating": 5,
+                "review_text": "This store was nuts when I went in. They had a photo booth, a DJ, run way models, drinks, and giveaways. Can't believe Macy's of all places does stuff like this for their customers. Can't wait to see what they have in store next!",
+                "published_at": "4 years ago",
+                "published_at_date": "2019-01-30T01:43:07.245000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 525,
+                "total_number_of_photos_by_reviewer": 1129,
+                "reviewer_url": "https://www.google.com/maps/contrib/111755184370573741053/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKOYUuyxz1Ml1plhjHhVlp8iiMQQLZho0GL_AKRlkWz=s120-c-rp-mo-ba6-br100",
+                "is_local_guide": true,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": [
+                    "https://lh5.googleusercontent.com/p/AF1QipNrhrnTTnEz7d1TNdswvccZxTGVq39qhkzFgcx7=w150-h150-k-no-p"
+                ]
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJq39ij_2PlKARpb22DtR-hXs",
+        "name": "Mascara Bros Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "competitors": [],
+        "reviews": 1,
+        "website": "https://mascarabroscoffee.com/",
+        "owner": {
+            "id": "108198098019396788678",
+            "name": "Mascara Bros Coffee (Owner)",
+            "link": "https://www.google.com/maps/contrib/108198098019396788678"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipME9SA9iE2A-XDJZEK4ov2TamCas1SCUbg7oGx3=w408-h408-k-no",
+        "main_category": "Coffee roasters",
+        "categories": [
+            "Coffee roasters",
+            "Service establishment"
+        ],
+        "rating": 5,
+        "workday_timing": "Open 24 hours",
+        "closed_on": "Open All Days",
+        "phone": "(513) 204-9269",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mascara+Bros+Coffee/data=!4m7!3m6!1s0xa0948ffd8f627fab:0x7b857ed40eb6bda5!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11v0pxnq2z!19sChIJq39ij_2PlKARpb22DtR-hXs?authuser=0&hl=en&rclk=1",
+        "status": "Open 24 hours",
+        "price_range": null,
+        "reviews_per_rating": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "featured_question": null,
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq39ij_2PlKARpb22DtR-hXs&q=Mascara+Bros+Coffee&authuser=0&hl=en&gl=None",
+        "coordinates": {
+            "latitude": 46.423669,
+            "longitude": -129.9427086
+        },
+        "plus_code": null,
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": null,
+            "postal_code": null,
+            "state": null,
+            "country_code": null
+        },
+        "time_zone": "America/Detroit",
+        "cid": "8900659687812677029",
+        "data_id": "0xa0948ffd8f627fab:0x7b857ed40eb6bda5",
+        "menu": {
+            "link": null,
+            "source": null
+        },
+        "reservations": [],
+        "order_online_links": [],
+        "about": [
+            {
+                "id": "service_options",
+                "name": "Service options",
+                "options": [
+                    {
+                        "name": "Delivery",
+                        "enabled": true
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipME9SA9iE2A-XDJZEK4ov2TamCas1SCUbg7oGx3=w298-h298-k-no"
+            },
+            {
+                "about": "By owner",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipME9SA9iE2A-XDJZEK4ov2TamCas1SCUbg7oGx3=w298-h298-k-no"
+            }
+        ],
+        "hours": [
+            {
+                "day": "Sunday",
+                "times": [
+                    "Open 24 hours"
+                ]
+            },
+            {
+                "day": "Monday",
+                "times": [
+                    "Open 24 hours"
+                ]
+            },
+            {
+                "day": "Tuesday",
+                "times": [
+                    "Open 24 hours"
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "times": [
+                    "Open 24 hours"
+                ]
+            },
+            {
+                "day": "Thursday",
+                "times": [
+                    "Open 24 hours"
+                ]
+            },
+            {
+                "day": "Friday",
+                "times": [
+                    "Open 24 hours"
+                ]
+            },
+            {
+                "day": "Saturday",
+                "times": [
+                    "Open 24 hours"
+                ]
+            }
+        ],
+        "most_popular_times": "Not Present",
+        "popular_times": "Not Present",
+        "featured_reviews": [
+            {
+                "review_id": "Excellent cup of coffee! Perfect for my daily French press.",
+                "reviewer_name": "Cameron Williams",
+                "rating": 5,
+                "review_text": "Excellent cup of coffee! Perfect for my daily French press.",
+                "published_at": "4 months ago",
+                "published_at_date": "2023-07-26T12:38:38.444000",
+                "response_from_owner_text": null,
+                "response_from_owner_ago": null,
+                "response_from_owner_date": null,
+                "review_likes_count": 1,
+                "total_number_of_reviews_by_reviewer": 1,
+                "total_number_of_photos_by_reviewer": 0,
+                "reviewer_url": "https://www.google.com/maps/contrib/100896961488166055078/reviews?entry=ttu",
+                "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXiOXkEhiCBzm-2CFuFRCieyc9IXxQ4qwqBQsqKAy8sAHtO=s120-c-rp-mo-br100",
+                "is_local_guide": false,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null,
+                "review_photos": []
+            }
+        ]
+    }
+]

@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "place_id": "ChIJEcHLdJLBlzMR1XsqbCuKJnY",
         "name": "Rxpresso cafe - Morong Rizal",
         "description": null,
@@ -200,11 +201,223 @@
                 "reviews": 3,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
+=======
+        "place_id": "ChIJk6GIvGMMljMRGcgFyK4WETg",
+        "name": "Fernando's Restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "competitors": [
+            {
+                "name": "Pawikan Beach Bar & Grill ( MUST BE A MEMBER)",
+                "link": "https://www.google.com/maps/search/Pawikan+Beach+Bar+%26+Grill+%28+MUST+BE+A+MEMBER%29/@14.7203114,120.25556419999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 63,
+                "rating": 4.4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Morongstar Restaurant",
+                "link": "https://www.google.com/maps/search/Morongstar+Restaurant/@14.670894200000001,120.27260889999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 20,
+                "rating": 5,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Eugenia's Kitchen",
+                "link": "https://www.google.com/maps/search/Eugenia%27s+Kitchen/@14.67248,120.26719309999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 14,
+                "rating": 4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Morong Bistro and Catering",
+                "link": "https://www.google.com/maps/search/Morong+Bistro+and+Catering/@14.6780023,120.26624530000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            }
+        ],
+        "website": "http://www.bataanwhitecorals.ph/",
+        "owner": {
+            "id": "103404918174788237236",
+            "name": "Fernando's Restaurant (Owner)",
+            "link": "https://www.google.com/maps/contrib/103404918174788237236"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKn0izPogOEOR1-0WMJ4B0-zLijkh-BwCyC_7u=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Open 24 hours",
+        "closed_on": "Open All Days",
+        "phone": "+63 917 840 2648",
+        "address": "Fernando's Restaurant, Bataan White Corals Beach Resort Poblacion, Panibatuhan, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fernando%27s+Restaurant/data=!4m7!3m6!1s0x33960c63bc88a193:0x381116aec805c819!8m2!3d14.6689482!4d120.2665815!16s%2Fg%2F11ggz58wq8!19sChIJk6GIvGMMljMRGcgFyK4WETg?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJM-WyBDUNljMR1jhIVRDxfU8",
+        "name": "Bungad Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Ceylon Coffee Club - Morong",
+                "link": "https://www.google.com/maps/search/Ceylon+Coffee+Club+-+Morong/@14.6824951,120.2731103?authuser=0&hl=en&entry=ttu",
+                "reviews": 7,
+                "rating": 4.7,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "banawang bagac bataan",
+                "link": "https://www.google.com/maps/search/banawang+bagac+bataan/@14.621408200000001,120.38715759999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "D'Magic Cup",
+                "link": "https://www.google.com/maps/search/D%E2%80%99Magic+Cup/@14.679058,120.36661?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Cafe.TEA.ria Milktea Shop",
+                "link": "https://www.google.com/maps/search/Cafe.TEA.ria+Milktea+Shop/@14.6542827,120.34409470000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Beanleaf",
+                "link": "https://www.google.com/maps/search/Beanleaf/@14.802548499999999,120.53428009999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": "https://www.facebook.com/bungad.brew",
+        "owner": {
+            "id": null,
+            "name": "Bungad Coffee Shop (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJMcAc9oO7eVFx9kJ46TJouQ5YLKkw3PIxcz1C=w426-h240-k-no",
+        "main_category": "Coffee store",
+        "categories": [
+            "Coffee store"
+        ],
+        "rating": 3,
+        "workday_timing": "3-10 PM",
+        "closed_on": [
+            "Monday"
+        ],
+        "phone": "+63 975 457 2410",
+        "address": "Bungad Coffee Shop, NA Sitio Mauban, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bungad+Coffee+Shop/data=!4m7!3m6!1s0x33960d3504b2e533:0x4f7df110554838d6!8m2!3d14.6475504!4d120.3093392!16s%2Fg%2F11t9y26skb!19sChIJM-WyBDUNljMR1jhIVRDxfU8?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJs7V1b3ANljMRZPoGMvyMKoI",
+        "name": "Thirstea-Morong",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "TwenTEA - TwenTEA Milktea",
+                "link": "https://www.google.com/maps/search/TwenTEA+-+TwenTEA+Milktea/@14.6578337,120.2939392?authuser=0&hl=en&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Tea house"
+            },
+            {
+                "name": "Thirstea Forever Milktea Nagwaling Pilar",
+                "link": "https://www.google.com/maps/search/Thirstea+Forever+Milktea+Nagwaling+Pilar/@14.6345868,120.5296158?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Beverage distributor"
+            },
+            {
+                "name": "Cafe.TEA.ria Milktea Shop",
+                "link": "https://www.google.com/maps/search/Cafe.TEA.ria+Milktea+Shop/@14.6542827,120.34409470000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "ThirTea Ann Balanga Bataan",
+                "link": "https://www.google.com/maps/search/ThirTea+Ann+Balanga+Bataan/@14.6798088,120.5373836?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Happy Thirstday Milktea Shop",
+                "link": "https://www.google.com/maps/search/Happy+Thirstday+Milktea+Shop/@14.4357259,120.48627599999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Fast Food"
+            }
+        ],
+        "website": "https://m.facebook.com/thirstea.morong/",
+        "owner": {
+            "id": "113556989691469861332",
+            "name": "Thirstea-Morong (Owner)",
+            "link": "https://www.google.com/maps/contrib/113556989691469861332"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeI7TM_JNzmj3y3ubUyKdxaoeaWA63bz7Colh3=w408-h552-k-no",
+        "main_category": "Tea store",
+        "categories": [
+            "Tea store"
+        ],
+        "rating": null,
+        "workday_timing": "10 AM-8 PM",
+        "closed_on": [
+            "Saturday"
+        ],
+        "phone": "+63 965 837 5818",
+        "address": "Thirstea-Morong, Rizal St, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Thirstea-Morong/data=!4m7!3m6!1s0x33960d706f75b5b3:0x822a8cfc3206fa64!8m2!3d14.6793306!4d120.2669141!16s%2Fg%2F11rvbhsg_k!19sChIJs7V1b3ANljMRZPoGMvyMKoI?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJWSWoFo0MljMRkyGdH4IVUxs",
+        "name": "Pamilihang Bayan Ng Morong",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 169,
+        "competitors": [
+            {
+                "name": "Bitanga Supermarket",
+                "link": "https://www.google.com/maps/search/Bitanga+Supermarket/@14.6591911,120.29637859999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Grocery store"
+            },
+            {
+                "name": "Cunanan's Store",
+                "link": "https://www.google.com/maps/search/Cunanan%27s+Store/@14.678420800000001,120.266745?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "LMY Store",
+                "link": "https://www.google.com/maps/search/LMY+Store/@14.6859566,120.26398929999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Grocery store"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "AlJen's Coffee Break (Ye Zhu )",
             "link": null
         },
@@ -425,11 +638,142 @@
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
+=======
+            "name": "Pamilihang Bayan Ng Morong (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOe2LhCLYBWEQMx43KQfZTtLF2MKR91v1ov4RUp=w408-h306-k-no",
+        "main_category": "Grocery store",
+        "categories": [
+            "Grocery store"
+        ],
+        "rating": 3.8,
+        "workday_timing": "5 AM-9 PM",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "M7JF+52F Pamilihang Bayan Ng Morong, Morong, Bataan, Philippines",
+        "review_keywords": [
+            {
+                "keyword": "seafoods",
+                "count": 7
+            },
+            {
+                "keyword": "prices",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Pamilihang+Bayan+Ng+Morong/data=!4m7!3m6!1s0x33960c8d16a82559:0x1b5315821f9d2193!8m2!3d14.6804323!4d120.2725592!16s%2Fg%2F11dyp5vs3_!19sChIJWSWoFo0MljMRkyGdH4IVUxs?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJjRr1ZjcRljMRBV09o3p5YCQ",
+        "name": "Hideout",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "competitors": [
+            {
+                "name": "Bagac View Point Cafe Little Baguio",
+                "link": "https://www.google.com/maps/search/Bagac+View+Point+Cafe+Little+Baguio/@14.527160299999997,120.40342759999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 77,
+                "rating": 4.4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "UNA Cafe",
+                "link": "https://www.google.com/maps/search/UNA+Caf%C3%A9/@14.606885799999999,120.40005020000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 59,
+                "rating": 4.4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "F & B Cafe",
+                "link": "https://www.google.com/maps/search/F+%26+B+Cafe/@14.628703000000002,120.4571143?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Booze Cafe",
+                "link": "https://www.google.com/maps/search/Booze+Cafe/@14.606108599999999,120.39715899999997?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Cofiti Cafe",
+                "link": "https://www.google.com/maps/search/Cofiti+Cafe/@14.608994500000001,120.40447599999997?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "101637769094669290561",
+            "name": "Hideout (Owner)",
+            "link": "https://www.google.com/maps/contrib/101637769094669290561"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbLRkYrVTsQfG3NyZ8MuNuqPu9tcXVo5nNcKOy=w408-h407-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": 4.8,
+        "workday_timing": "3-10 PM",
+        "closed_on": "Open All Days",
+        "phone": "+63 960 690 5688",
+        "address": "Hideout, Sitio Salapao, Bagac, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hideout/data=!4m7!3m6!1s0x3396113766f51a8d:0x2460797aa33d5d05!8m2!3d14.6122864!4d120.3925112!16s%2Fg%2F11qrpvb57l!19sChIJjRr1ZjcRljMRBV09o3p5YCQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJtVYxs1ZzljMRxdPe5JgfR20",
+        "name": "Bamboo Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "competitors": [
+            {
+                "name": "Pawikan Beach Bar & Grill ( MUST BE A MEMBER)",
+                "link": "https://www.google.com/maps/search/Pawikan+Beach+Bar+%26+Grill+%28+MUST+BE+A+MEMBER%29/@14.7203114,120.25556419999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 63,
+                "rating": 4.4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Morongstar Restaurant",
+                "link": "https://www.google.com/maps/search/Morongstar+Restaurant/@14.670894200000001,120.27260889999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 20,
+                "rating": 5,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Fernando's Restaurant",
+                "link": "https://www.google.com/maps/search/Fernando%27s+Restaurant/@14.668948199999999,120.2665815?authuser=0&hl=en&entry=ttu",
+                "reviews": 17,
+                "rating": 4.4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Ceylon Coffee Club - Morong",
+                "link": "https://www.google.com/maps/search/Ceylon+Coffee+Club+-+Morong/@14.6824951,120.2731103?authuser=0&hl=en&entry=ttu",
+                "reviews": 7,
+                "rating": 4.7,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Morong Bistro and Catering",
+                "link": "https://www.google.com/maps/search/Morong+Bistro+and+Catering/@14.6780023,120.26624530000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "The Village Cafe (Ye Zhu )",
             "link": null
         },
@@ -445,6 +789,87 @@
         "address": "G69F+497 The Village Cafe, Morong, Lalawigan ng Rizal, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/The+Village+Cafe/data=!4m7!3m6!1s0x3397c1a3f0e4f277:0xc8e0d81584ef1cea!8m2!3d14.5177807!4d121.2234369!16s%2Fg%2F1hd_2jsxb!19sChIJd_Lk8KPBlzMR6hzvhBXY4Mg?authuser=0&hl=zh-TW&rclk=1"
+=======
+            "name": "Bamboo Cafe (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkbbkkuBAyg_MXdonEs8A6_RaTJG1RDDsyakoQ=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 3.9,
+        "workday_timing": "6 AM-10 PM",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "P7C4+MQG Bamboo Cafe, Morong, Bataan, Philippines",
+        "review_keywords": [
+            {
+                "keyword": "buffet",
+                "count": 5
+            },
+            {
+                "keyword": "a la carte",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bamboo+Cafe/data=!4m7!3m6!1s0x33967356b33156b5:0x6d471f98e4ded3c5!8m2!3d14.721678!4d120.2569576!16s%2Fg%2F11_dr7354!19sChIJtVYxs1ZzljMRxdPe5JgfR20?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6zWKMIwMljMRLgNxstQ3gZw",
+        "name": "MORONG STORE, MORONG, BATAAN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "competitors": [
+            {
+                "name": "7-Eleven Morong",
+                "link": "https://www.google.com/maps/search/7-Eleven+Morong/@14.680015200000001,120.2686432?authuser=0&hl=en&entry=ttu",
+                "reviews": 5,
+                "rating": 4.6,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Seven-O-One Convenience Store",
+                "link": "https://www.google.com/maps/search/Seven-O-One+Convenience+Store/@14.678480299999997,120.2647559?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Grey Store",
+                "link": "https://www.google.com/maps/search/Grey+Store/@14.658608899999999,120.29325419999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "MAU STORE",
+                "link": "https://www.google.com/maps/search/MAU+STORE/@14.6713786,120.27061630000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Variety store"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "MORONG STORE, MORONG, BATAAN (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPopbxw1p-I9qpLqS4B7Ohs7i6TnS_-ihw_4buL=w408-h544-k-no",
+        "main_category": "Convenience store",
+        "categories": [
+            "Convenience store"
+        ],
+        "rating": 4.6,
+        "workday_timing": "6:30 AM-7:30 PM",
+        "closed_on": "Open All Days",
+        "phone": "+63 906 472 0485",
+        "address": "MORONG STORE, MORONG, BATAAN, B Juan Luna, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MORONG+STORE,+MORONG,+BATAAN/data=!4m7!3m6!1s0x33960c8c308a35eb:0x9c8137d4b271032e!8m2!3d14.6793797!4d120.2694914!16s%2Fg%2F11c72sbthm!19sChIJ6zWKMIwMljMRLgNxstQ3gZw?authuser=0&hl=en&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJw687s68NljMRYF2HZRXqPmk",
@@ -455,6 +880,7 @@
         "competitors": [
             {
                 "name": "The Coffee Bean & Tea Leaf",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/The+Coffee+Bean+%26+Tea+Leaf/@14.824344300000002,120.2803942?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 188,
                 "rating": 4.4,
@@ -487,11 +913,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Can Ting "
+=======
+                "link": "https://www.google.com/maps/search/The+Coffee+Bean+%26+Tea+Leaf/@14.824344300000002,120.2803942?authuser=0&hl=en&entry=ttu",
+                "reviews": 188,
+                "rating": 4.4,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Bamboo Cafe",
+                "link": "https://www.google.com/maps/search/Bamboo+Cafe/@14.721678,120.25695759999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 23,
+                "rating": 3.9,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Love You a Latte",
+                "link": "https://www.google.com/maps/search/Love+You+a+Latte/@14.677030300000002,120.2650674?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Morong Bistro and Catering",
+                "link": "https://www.google.com/maps/search/Morong+Bistro+and+Catering/@14.6780023,120.26624530000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "CELI CAFE",
+                "link": "https://www.google.com/maps/search/CELI+CAF%C3%89/@14.849139699999998,120.4211673?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": "114250817986882898817",
+<<<<<<< HEAD
             "name": "Ceylon Coffee Club - Morong (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/114250817986882898817"
         },
@@ -511,11 +972,95 @@
     {
         "place_id": "ChIJfzuh2c_BlzMRj3GN9vlnhPg",
         "name": "Peborit Cafe",
+=======
+            "name": "Ceylon Coffee Club - Morong (Owner)",
+            "link": "https://www.google.com/maps/contrib/114250817986882898817"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMRSR49IREaW81Mix292MlSVk39EYKVWM1wqE_d=w408-h544-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": 4.7,
+        "workday_timing": "9 AM-10 PM",
+        "closed_on": "Open All Days",
+        "phone": "+63 977 177 1081",
+        "address": "Ceylon Coffee Club - Morong, Bernabe II Brgy, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ceylon+Coffee+Club+-+Morong/data=!4m7!3m6!1s0x33960dafb33bafc3:0x693eea1565875d60!8m2!3d14.6824951!4d120.2731103!16s%2Fg%2F11t59z71ph!19sChIJw687s68NljMRYF2HZRXqPmk?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJW-VcqS0NljMRylj10H8vEiU",
+        "name": "7-Eleven Morong",
+        "description": "Convenience chain offering grab-&-go bites & beverages, plus assorted newsstand items.",
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Petron Gas Station",
+                "link": "https://www.google.com/maps/search/Petron+Gas+Station/@14.683689699999997,120.26390549999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 23,
+                "rating": 3.8,
+                "main_category": "Gas station"
+            },
+            {
+                "name": "MORONG STORE, MORONG, BATAAN",
+                "link": "https://www.google.com/maps/search/MORONG+STORE%2C+MORONG%2C+BATAAN/@14.6793797,120.26949139999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 8,
+                "rating": 4.6,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "MVQ Shell Gas Station",
+                "link": "https://www.google.com/maps/search/MVQ+Shell+Gas+Station/@14.678728399999999,120.27006899999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 7,
+                "rating": 4,
+                "main_category": "Gas station"
+            },
+            {
+                "name": "ATM Morong Bataan",
+                "link": "https://www.google.com/maps/search/ATM+Morong+Bataan/@14.681390100000002,120.27182739999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Store"
+            },
+            {
+                "name": "Seven-O-One Convenience Store",
+                "link": "https://www.google.com/maps/search/Seven-O-One+Convenience+Store/@14.678480299999997,120.2647559?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "7-Eleven Morong (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNC0qwKHF090AwMMMPkXZLgpENxWTzbkJ4eTYRk=w508-h240-k-no",
+        "main_category": "Convenience store",
+        "categories": [
+            "Convenience store"
+        ],
+        "rating": 4.6,
+        "workday_timing": "Open 24 hours",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "M7J9+2F2 7-Eleven Morong, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/7-Eleven+Morong/data=!4m7!3m6!1s0x33960d2da95ce55b:0x25122f7fd0f558ca!8m2!3d14.6800152!4d120.2686432!16s%2Fg%2F11j85xr3ks!19sChIJW-VcqS0NljMRylj10H8vEiU?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8wbArF1tljMRi1jyfvvoCn8",
+        "name": "Kofetala",
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 4,
         "competitors": [
             {
+<<<<<<< HEAD
                 "name": "Bukid Cafe",
                 "link": "https://www.google.com/maps/search/Bukid+Cafe/@14.510405199999997,121.21100679999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 59,
@@ -597,11 +1142,40 @@
                 "reviews": 2,
                 "rating": 5,
                 "main_category": "Cha Yi Guan "
+=======
+                "name": "Little Seoul Cafe",
+                "link": "https://www.google.com/maps/search/Little+Seoul+Cafe/@14.7500208,120.42576349999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 24,
+                "rating": 4.6,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Sinagtala Cafe",
+                "link": "https://www.google.com/maps/search/Sinagtala+Cafe/@14.757519799999999,120.42659599999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 12,
+                "rating": 4.9,
+                "main_category": "Family-friendly"
+            },
+            {
+                "name": "Tsokolate de Batirol ni Nanay Dory",
+                "link": "https://www.google.com/maps/search/Tsokolate+de+Batirol+ni+Nanay+Dory/@14.752856399999997,120.41828230000002?authuser=0&hl=en&entry=ttu",
+                "reviews": 12,
+                "rating": 4.2,
+                "main_category": "Chocolate cafe"
+            },
+            {
+                "name": "La Casa De Cafe",
+                "link": "https://www.google.com/maps/search/La+Casa+De+Cafe/@14.7977333,120.52913189999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Le Cafe et Le The (Ye Zhu )",
             "link": null
         },
@@ -659,11 +1233,71 @@
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
+=======
+            "name": "Kofetala (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPh2GphllYBv3nS5NBPMUO1QSZC8n1B_ZNLqVOX=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": 4.5,
+        "workday_timing": "1-9 PM",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "PCV9+MXP Kofetala, Orani, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/K%C3%B4f%C4%93tala/data=!4m7!3m6!1s0x33966d5dacc006f3:0x7f0ae8fb7ef2588b!8m2!3d14.7442249!4d120.4199625!16s%2Fg%2F11r9t9c0_s!19sChIJ8wbArF1tljMRi1jyfvvoCn8?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJcwv5EZsNljMRRm89qL0qliU",
+        "name": "TwenTEA - TwenTEA Milktea",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "8teas Cafe / Eighteas Cafe",
+                "link": "https://www.google.com/maps/search/8teas+Cafe+%2F+Eighteas+Cafe/@14.675765499999999,120.5332102?authuser=0&hl=en&entry=ttu",
+                "reviews": 31,
+                "rating": 4.3,
+                "main_category": "Bubble Tea"
+            },
+            {
+                "name": "Yetito",
+                "link": "https://www.google.com/maps/search/Yetito/@14.800549700000001,120.536209?authuser=0&hl=en&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Bubble Tea"
+            },
+            {
+                "name": "Cafe.TEA.ria Milktea Shop",
+                "link": "https://www.google.com/maps/search/Cafe.TEA.ria+Milktea+Shop/@14.6542827,120.34409470000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Thirstea-Morong",
+                "link": "https://www.google.com/maps/search/Thirstea-Morong/@14.6793306,120.26691410000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Tea store"
+            },
+            {
+                "name": "ThirTea Ann Balanga Bataan",
+                "link": "https://www.google.com/maps/search/ThirTea+Ann+Balanga+Bataan/@14.6798088,120.5373836?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Morong san jose poblacion (Ye Zhu )",
             "link": null
         },
@@ -679,6 +1313,140 @@
         "address": "G6GP+288 Morong san jose poblacion, Morong, Rizal, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Morong+san+jose+poblacion/data=!4m7!3m6!1s0x3397c1ceb3fb8eff:0xc98ed55284832a2c!8m2!3d14.5250289!4d121.2358233!16s%2Fg%2F11sy0t5csp!19sChIJ_477s87BlzMRLCqDhFLVjsk?authuser=0&hl=zh-TW&rclk=1"
+=======
+            "name": "TwenTEA - TwenTEA Milktea (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8HHvITM5QH0DlIdJRG7wE3KXh5kmzFkfPBLlE=w408-h306-k-no",
+        "main_category": "Tea house",
+        "categories": [
+            "Tea house"
+        ],
+        "rating": 5,
+        "workday_timing": "11 AM-8 PM",
+        "closed_on": "Open All Days",
+        "phone": "+63 939 561 5498",
+        "address": "TwenTEA - TwenTEA Milktea, Purok 2 Cabildo St, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TwenTEA+-+TwenTEA+Milktea/data=!4m7!3m6!1s0x33960d9b11f90b73:0x25962abda83d6f46!8m2!3d14.6578337!4d120.2939392!16s%2Fg%2F11m_gx_92n!19sChIJcwv5EZsNljMRRm89qL0qliU?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJwastSX8TljMRXCQCtzE5hrQ",
+        "name": "Cullarin Cashew Store",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Pasalubong Center (Cashew n' More)",
+                "link": "https://www.google.com/maps/search/Pasalubong+Center+%28Cashew+n%27+More%29/@14.605986499999998,120.3973805?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 4,
+                "main_category": "Grocery store"
+            },
+            {
+                "name": "Alvin & Jeanny's Cashew Nuts",
+                "link": "https://www.google.com/maps/search/Alvin+%26+Jeanny%27s+Cashew+Nuts/@14.654419,120.3413733?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Nut store"
+            },
+            {
+                "name": "Tess Cahew Nuts & Delicacy",
+                "link": "https://www.google.com/maps/search/Tess+Cahew+Nuts+%26+Delicacy/@14.6569069,120.34845299999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Nut store"
+            },
+            {
+                "name": "Willy's Cashew Nuts",
+                "link": "https://www.google.com/maps/search/Willy%27s+Cashew+Nuts/@14.657012199999999,120.34916090000002?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Food manufacturing supply"
+            },
+            {
+                "name": "GRACE CASHEW NUTS",
+                "link": "https://www.google.com/maps/search/GRACE+CASHEW+NUTS/@14.6414737,120.3723532?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Store"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cullarin Cashew Store (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UWb5C5VpJnaJxr4cVZMOaA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.25493&pitch=0&thumbfov=100",
+        "main_category": "Grocery store",
+        "categories": [
+            "Grocery store"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "M936+JJC Cullarin Cashew Store, Governor J.J. Linao Road, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cullarin+Cashew+Store/data=!4m7!3m6!1s0x3396137f492dabc1:0xb4863931b702245c!8m2!3d14.6540547!4d120.3615261!16s%2Fg%2F11rvjh6sbb!19sChIJwastSX8TljMRXCQCtzE5hrQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJCbMqaq4NljMRLwP0IzLYViE",
+        "name": "Mama K's Stop & Shop And General Merchandise",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "MORONG STORE, MORONG, BATAAN",
+                "link": "https://www.google.com/maps/search/MORONG+STORE%2C+MORONG%2C+BATAAN/@14.6793797,120.26949139999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 8,
+                "rating": 4.6,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Cunanan's Store",
+                "link": "https://www.google.com/maps/search/Cunanan%27s+Store/@14.678420800000001,120.266745?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Ma'am Raquel's Mini-mart",
+                "link": "https://www.google.com/maps/search/Ma%27am+Raquel%27s+Mini-mart/@14.6558513,120.29549220000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "MAU STORE",
+                "link": "https://www.google.com/maps/search/MAU+STORE/@14.6713786,120.27061630000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Variety store"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mama K's Stop & Shop And General Merchandise (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeG3jqGeGAloksdTyieoJZxwYs1RiTI6eiZ6fy=w408-h544-k-no",
+        "main_category": "Convenience store",
+        "categories": [
+            "Convenience store"
+        ],
+        "rating": 3,
+        "workday_timing": "8 AM-9 PM",
+        "closed_on": "Open All Days",
+        "phone": "+63 920 982 9882",
+        "address": "M7H9+XGF Mama K's Stop & Shop And General Merchandise, Juan Luna, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mama+K%27s+Stop+%26+Shop+And+General+Merchandise/data=!4m7!3m6!1s0x33960dae6a2ab309:0x2156d83223f4032f!8m2!3d14.6799381!4d120.2687954!16s%2Fg%2F11grvxtjh7!19sChIJCbMqaq4NljMRLwP0IzLYViE?authuser=0&hl=en&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJ15pthqcNljMRHq5BS1IMNqg",
@@ -689,6 +1457,7 @@
         "competitors": [
             {
                 "name": "BigBrew Balanga",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/BigBrew+Balanga/@14.680607300000002,120.5388837?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 19,
                 "rating": 4.6,
@@ -721,11 +1490,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Can Ting "
+=======
+                "link": "https://www.google.com/maps/search/BigBrew+Balanga/@14.680607300000002,120.5388837?authuser=0&hl=en&entry=ttu",
+                "reviews": 19,
+                "rating": 4.6,
+                "main_category": "Bubble Tea"
+            },
+            {
+                "name": "BigBrew Orani",
+                "link": "https://www.google.com/maps/search/BigBrew+Orani/@14.801249999999998,120.53530429999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "BigBrew Mariveles",
+                "link": "https://www.google.com/maps/search/BigBrew+Mariveles/@14.4358075,120.4885099?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "BigBrew Subic",
+                "link": "https://www.google.com/maps/search/BigBrew+Subic/@14.879962500000001,120.23448440000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Bigbrew Barretto",
+                "link": "https://www.google.com/maps/search/Bigbrew+Barretto/@14.850805300000001,120.26320720000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": "116362687968791298999",
+<<<<<<< HEAD
             "name": "BigBrew Morong (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/116362687968791298999"
         },
@@ -733,11 +1537,21 @@
         "main_category": "Cha Yi Guan ",
         "categories": [
             "Cha Yi Guan "
+=======
+            "name": "BigBrew Morong (Owner)",
+            "link": "https://www.google.com/maps/contrib/116362687968791298999"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6_DsAswWpBswgbuxWZOzJQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=169.96605&pitch=0&thumbfov=100",
+        "main_category": "Tea house",
+        "categories": [
+            "Tea house"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 5,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": "+63 938 865 1833",
+<<<<<<< HEAD
         "address": "BigBrew Morong, National highway, Brgy.Poblacion, Morong, 2108 Bataan, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/BigBrew+Morong/data=!4m7!3m6!1s0x33960da7866d9ad7:0xa8360c524b41ae1e!8m2!3d14.6796443!4d120.2688233!16s%2Fg%2F11kc1zsdbg!19sChIJ15pthqcNljMRHq5BS1IMNqg?authuser=0&hl=zh-TW&rclk=1"
@@ -745,11 +1559,21 @@
     {
         "place_id": "ChIJj5ZWrE3BlzMRsoy-pRS0Wmo",
         "name": "Tagpuan Restaurant",
+=======
+        "address": "BigBrew Morong, National highway, Brgy.Poblacion, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BigBrew+Morong/data=!4m7!3m6!1s0x33960da7866d9ad7:0xa8360c524b41ae1e!8m2!3d14.6796443!4d120.2688233!16s%2Fg%2F11kc1zsdbg!19sChIJ15pthqcNljMRHq5BS1IMNqg?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-zSaUeINljMRSm2DzO7qabE",
+        "name": "JC's Balloons",
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 1,
         "competitors": [
             {
+<<<<<<< HEAD
                 "name": "TAGPUAN LAKEVIEW",
                 "link": "https://www.google.com/maps/search/TAGPUAN+LAKEVIEW/@14.544594700000001,121.1547901?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 447,
@@ -783,11 +1607,40 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Ka Pei Dian "
+=======
+                "name": "MORONG STORE, MORONG, BATAAN",
+                "link": "https://www.google.com/maps/search/MORONG+STORE%2C+MORONG%2C+BATAAN/@14.6793797,120.26949139999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 8,
+                "rating": 4.6,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Jun's Balloons",
+                "link": "https://www.google.com/maps/search/Jun%27s+Balloons/@14.8310894,120.2803801?authuser=0&hl=en&entry=ttu",
+                "reviews": 5,
+                "rating": 5,
+                "main_category": "Party store"
+            },
+            {
+                "name": "J and D Balloons and Gift Connection",
+                "link": "https://www.google.com/maps/search/J+and+D+Balloons+and+Gift+Connection/@14.679882000000001,120.54128899999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Party store"
+            },
+            {
+                "name": "JSL PARTY NEEDS STORE",
+                "link": "https://www.google.com/maps/search/JSL+PARTY+NEEDS+STORE/@14.632494399999999,120.44842440000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Party store"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Tagpuan Restaurant (Ye Zhu )",
             "link": null
         },
@@ -795,14 +1648,117 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "JC's Balloons (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsCd-16LJW3cB5NCINDbmfiDSRJj_GiLIJMBnN=w408-h544-k-no",
+        "main_category": "General store",
+        "categories": [
+            "General store"
+        ],
+        "rating": 3,
+        "workday_timing": "7 AM-10 PM",
+        "closed_on": "Open All Days",
+        "phone": "+63 915 693 1954",
+        "address": "JC's Balloons, Poblacion Juan Luna, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/JC%27s+Balloons/data=!4m7!3m6!1s0x33960de2519a34fb:0xb169eaeecc836d4a!8m2!3d14.679318!4d120.2667344!16s%2Fg%2F11gmcfpvg0!19sChIJ-zSaUeINljMRSm2DzO7qabE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJjf7KSmcTljMRz0tRq7OpWMo",
+        "name": "Ka Espi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Grey Store",
+                "link": "https://www.google.com/maps/search/Grey+Store/@14.658608899999999,120.29325419999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Kathy's Store",
+                "link": "https://www.google.com/maps/search/Kathy%27s+Store/@14.6546074,120.29580329999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "General store"
+            },
+            {
+                "name": "ESA",
+                "link": "https://www.google.com/maps/search/ESA/@14.589227500000002,120.4127161?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bakery"
+            },
+            {
+                "name": "Paguio",
+                "link": "https://www.google.com/maps/search/Paguio/@14.434600999999999,120.478364?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Cunanan's Store",
+                "link": "https://www.google.com/maps/search/Cunanan%27s+Store/@14.678420800000001,120.266745?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ka Espi (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3cUKc7hYt3W8E9RKY_OzHEvngwEXD2eaFoypQ=w408-h544-k-no",
+        "main_category": "Convenience store",
+        "categories": [
+            "Convenience store"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 5,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "Tagpuan Restaurant, 733 Sumulong St, Morong, Rizal, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Tagpuan+Restaurant/data=!4m7!3m6!1s0x3397c14dac56968f:0x6a5ab414a5be8cb2!8m2!3d14.5165439!4d121.2375949!16s%2Fg%2F11rz5ct16j!19sChIJj5ZWrE3BlzMRsoy-pRS0Wmo?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "M84V+2PJ Ka Espi, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ka+Espi/data=!4m7!3m6!1s0x339613674acafe8d:0xca58a9b3ab514bcf!8m2!3d14.6550856!4d120.3442678!16s%2Fg%2F11mvxlgpcf!19sChIJjf7KSmcTljMRz0tRq7OpWMo?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJR8g9NcoNljMRHXQ3yfnV2Ms",
+        "name": "G-cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "104948886279486326427",
+            "name": "G-cafe (Owner)",
+            "link": "https://www.google.com/maps/contrib/104948886279486326427"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOz5oJSLCokGogcJfUJDW_lye47OsKHvo6Nozxy=w408-h544-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": null,
+        "workday_timing": "7 AM-12 AM",
+        "closed_on": "Open All Days",
+        "phone": "+63 977 177 1081",
+        "address": "G-cafe, Brgy, Gov J j Linao street, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/G-cafe/data=!4m7!3m6!1s0x33960dca353dc847:0xcbd8d5f9c937741d!8m2!3d14.6801341!4d120.2682154!16s%2Fg%2F11ssj1w54m!19sChIJR8g9NcoNljMRHXQ3yfnV2Ms?authuser=0&hl=en&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJsxVTaMdzljMRsX-76-Ykblg",
@@ -814,6 +1770,7 @@
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Morong Bataan (Ye Zhu )",
             "link": null
         },
@@ -821,11 +1778,21 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "Morong Bataan (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Z5zVSyTVL6ymUpP1tnxYg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=160.80928&pitch=0&thumbfov=100",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": "+63 938 865 1833",
+<<<<<<< HEAD
         "address": "P894+GCR Morong Bataan, Morong, Bataan, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Morong+Bataan/data=!4m7!3m6!1s0x339673c7685315b3:0x586e24e6ebbb7fb1!8m2!3d14.7188504!4d120.3060025!16s%2Fg%2F11twh3t62v!19sChIJsxVTaMdzljMRsX-76-Ykblg?authuser=0&hl=zh-TW&rclk=1"
@@ -859,11 +1826,21 @@
     {
         "place_id": "ChIJA-gJfa3BlzMRSO2RcGRsrJA",
         "name": "Coffee Rush Morong Rizal",
+=======
+        "address": "P894+GCR Morong Bataan, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Morong+Bataan/data=!4m7!3m6!1s0x339673c7685315b3:0x586e24e6ebbb7fb1!8m2!3d14.7188504!4d120.3060025!16s%2Fg%2F11twh3t62v!19sChIJsxVTaMdzljMRsX-76-Ykblg?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJF3w0XHwNljMRXPXLkn4Okfw",
+        "name": "D'Magic Cup",
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [
             {
+<<<<<<< HEAD
                 "name": "Coffee Rush Eastridge",
                 "link": "https://www.google.com/maps/search/Coffee+Rush+Eastridge/@14.526956000000002,121.1725551?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1045,
@@ -890,11 +1867,47 @@
                 "reviews": 5,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
+=======
+                "name": "Bungad Coffee Shop",
+                "link": "https://www.google.com/maps/search/Bungad+Coffee+Shop/@14.6475504,120.3093392?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Coffee store"
+            },
+            {
+                "name": "Granny's Cafe",
+                "link": "https://www.google.com/maps/search/Granny%E2%80%99s+Cafe/@14.590955,120.404919?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Mug Dessert",
+                "link": "https://www.google.com/maps/search/Mug+Dessert/@14.793031,120.5408672?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Ladao Compound",
+                "link": "https://www.google.com/maps/search/Ladao+Compound/@14.655090900000001,120.29668759999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Cafe Amor",
+                "link": "https://www.google.com/maps/search/Cafe+Amor/@14.5641786,120.5977304?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Coffee Rush Morong Rizal (Ye Zhu )",
             "link": null
         },
@@ -902,11 +1915,21 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "D'Magic Cup (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jM7nxukjYu3_WQinPuBHnQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=220.43001&pitch=0&thumbfov=100",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "Coffee Rush Morong Rizal, Coffee Rush Manila East Lakeview Farms, Morong, Rizal, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Coffee+Rush+Morong+Rizal/data=!4m7!3m6!1s0x3397c1ad7d09e803:0x90ac6c647091ed48!8m2!3d14.5175577!4d121.2236815!16s%2Fg%2F11trn41sqq!19sChIJA-gJfa3BlzMRSO2RcGRsrJA?authuser=0&hl=zh-TW&rclk=1"
@@ -938,6 +1961,127 @@
         "address": "G69Q+7J BigBrew Morong Rizal, Morong, 1960 Rizal, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/BigBrew+Morong+Rizal/data=!4m7!3m6!1s0x3397c34506f4f4cd:0x2c56121ea84b91e0!8m2!3d14.5181875!4d121.2390625!16s%2Fg%2F11l1y06bvl!19sChIJzfT0BkXDlzMR4JFLqB4SViw?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "M75R+MR2 D'Magic Cup, Cabildo street, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/D%E2%80%99Magic+Cup/data=!4m7!3m6!1s0x33960d7c5c347c17:0xfc910e7e92cbf55c!8m2!3d14.65915!4d120.2920305!16s%2Fg%2F11tmwyp0h4!19sChIJF3w0XHwNljMRXPXLkn4Okfw?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_X-cddENljMRbG_e722f-7M",
+        "name": "D'Magic Cup",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Bungad Coffee Shop",
+                "link": "https://www.google.com/maps/search/Bungad+Coffee+Shop/@14.6475504,120.3093392?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Coffee store"
+            },
+            {
+                "name": "Granny's Cafe",
+                "link": "https://www.google.com/maps/search/Granny%E2%80%99s+Cafe/@14.590955,120.404919?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Full Cha Tea & Coffee Shop",
+                "link": "https://www.google.com/maps/search/Full+Cha+Tea+%26+Coffee+Shop/@14.678792099999999,120.53928959999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Mug Dessert",
+                "link": "https://www.google.com/maps/search/Mug+Dessert/@14.793031,120.5408672?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Magic Cup",
+                "link": "https://www.google.com/maps/search/Magic+Cup/@14.9703875,120.60425760000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "111487647798370112268",
+            "name": "D'Magic Cup (Owner)",
+            "link": "https://www.google.com/maps/contrib/111487647798370112268"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqYfZZGNc0geyhnkGqFjVjp0nUonTd6tOBxZ2w=w408-h307-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": null,
+        "workday_timing": "2:30-8:30 PM",
+        "closed_on": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "phone": "+63 981 572 1150",
+        "address": "D'Magic Cup, Purok 5, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/D%E2%80%99Magic+Cup/data=!4m7!3m6!1s0x33960dd1759c7ffd:0xb3fb9f6defde6f6c!8m2!3d14.679058!4d120.36661!16s%2Fg%2F11jzp_8mvs!19sChIJ_X-cddENljMRbG_e722f-7M?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJOTQM8SwNljMRa1bPHjYxUBE",
+        "name": "Ladao Compound",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Hideout",
+                "link": "https://www.google.com/maps/search/Hideout/@14.612286399999999,120.39251119999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 37,
+                "rating": 4.8,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Bungad Coffee Shop",
+                "link": "https://www.google.com/maps/search/Bungad+Coffee+Shop/@14.6475504,120.3093392?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Coffee store"
+            },
+            {
+                "name": "D'Magic Cup",
+                "link": "https://www.google.com/maps/search/D%E2%80%99Magic+Cup/@14.659149999999999,120.2920305?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ladao Compound (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OUAC3dZF1zlzdEH7UkMDqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=127.832985&pitch=0&thumbfov=100",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "M74W+2C2 Ladao Compound, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ladao+Compound/data=!4m7!3m6!1s0x33960d2cf10c3439:0x115031361ecf566b!8m2!3d14.6550909!4d120.2966876!16s%2Fg%2F11t86bcgqb!19sChIJOTQM8SwNljMRa1bPHjYxUBE?authuser=0&hl=en&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJVU0BebANljMRNFibYTIAL9s",
@@ -949,6 +2093,7 @@
         "website": null,
         "owner": {
             "id": "105221829995105578479",
+<<<<<<< HEAD
             "name": "KKOPI.Tea - Morong, Bataan (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/105221829995105578479"
         },
@@ -956,11 +2101,21 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "KKOPI.Tea - Morong, Bataan (Owner)",
+            "link": "https://www.google.com/maps/contrib/105221829995105578479"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPT0WARA3mMULv7rxM91i5YvDb5515RGqWxYraA=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": "+63 907 429 6473",
+<<<<<<< HEAD
         "address": "KKOPI.Tea - Morong, Bataan, Bernabe Village, Morong, 2108 Bataan, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/KKOPI.Tea+-+Morong,+Bataan/data=!4m7!3m6!1s0x33960db079014d55:0xdb2f0032619b5834!8m2!3d14.6797165!4d120.2696256!16s%2Fg%2F11l35vr55y!19sChIJVU0BebANljMRNFibYTIAL9s?authuser=0&hl=zh-TW&rclk=1"
@@ -968,11 +2123,21 @@
     {
         "place_id": "ChIJF3w0XHwNljMRXPXLkn4Okfw",
         "name": "D'Magic Cup",
+=======
+        "address": "KKOPI.Tea - Morong, Bataan, Bernabe Village, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/KKOPI.Tea+-+Morong,+Bataan/data=!4m7!3m6!1s0x33960db079014d55:0xdb2f0032619b5834!8m2!3d14.6797165!4d120.2696256!16s%2Fg%2F11l35vr55y!19sChIJVU0BebANljMRNFibYTIAL9s?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJccPaOmoNljMRwuyaN-yiLsA",
+        "name": "Love You a Latte",
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [
             {
+<<<<<<< HEAD
                 "name": "Bungad Coffee Shop",
                 "link": "https://www.google.com/maps/search/Bungad+Coffee+Shop/@14.6475504,120.3093392?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 2,
@@ -1006,10 +2171,39 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Ka Pei Dian "
+=======
+                "name": "Ceylon Coffee Club - Morong",
+                "link": "https://www.google.com/maps/search/Ceylon+Coffee+Club+-+Morong/@14.6824951,120.2731103?authuser=0&hl=en&entry=ttu",
+                "reviews": 7,
+                "rating": 4.7,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Tea Loves Me",
+                "link": "https://www.google.com/maps/search/Tea+Loves+Me/@14.8386862,120.47642069999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Cafe.TEA.ria Milktea Shop",
+                "link": "https://www.google.com/maps/search/Cafe.TEA.ria+Milktea+Shop/@14.6542827,120.34409470000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Iloveyou",
+                "link": "https://www.google.com/maps/search/Iloveyou/@14.6189782,120.57422299999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ice Cream"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
+<<<<<<< HEAD
             "id": null,
             "name": "D'Magic Cup (Ye Zhu )",
             "link": null
@@ -1018,13 +2212,453 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "id": "108670527453100727731",
+            "name": "Love You a Latte (Owner)",
+            "link": "https://www.google.com/maps/contrib/108670527453100727731"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i7YVJdt6JlnwKbSSDbIm-w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=246.11267&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "M75R+MR2 D'Magic Cup, Cabildo street, Morong, Bataan, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/D%E2%80%99Magic+Cup/data=!4m7!3m6!1s0x33960d7c5c347c17:0xfc910e7e92cbf55c!8m2!3d14.65915!4d120.2920305!16s%2Fg%2F11tmwyp0h4!19sChIJF3w0XHwNljMRXPXLkn4Okfw?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "Love You a Latte, Panibatuhan, Barangay Poblacion, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Love+You+a+Latte/data=!4m7!3m6!1s0x33960d6a3adac371:0xc02ea2ec379aecc2!8m2!3d14.6770303!4d120.2650674!16s%2Fg%2F11k9b50675!19sChIJccPaOmoNljMRwuyaN-yiLsA?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJt5JF75ETljMRoHcj6RgvkUE",
+        "name": "Cafe.TEA.ria Milktea Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Rosa's Chill N Dine",
+                "link": "https://www.google.com/maps/search/Rosa%27s+Chill+N+Dine/@14.6065495,120.3997225?authuser=0&hl=en&entry=ttu",
+                "reviews": 5,
+                "rating": 4.4,
+                "main_category": "Asian"
+            },
+            {
+                "name": "TwenTEA - TwenTEA Milktea",
+                "link": "https://www.google.com/maps/search/TwenTEA+-+TwenTEA+Milktea/@14.6578337,120.2939392?authuser=0&hl=en&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Tea house"
+            },
+            {
+                "name": "MR.Tea Coffee Shop",
+                "link": "https://www.google.com/maps/search/MR.Tea+Coffee+Shop/@14.714026399999998,120.53646080000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Anda's lutong bahay",
+                "link": "https://www.google.com/maps/search/Anda%27s+lutong+bahay/@14.6797096,120.2672844?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 3.5,
+                "main_category": "Asian"
+            },
+            {
+                "name": "Thirstea-Morong",
+                "link": "https://www.google.com/maps/search/Thirstea-Morong/@14.6793306,120.26691410000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Tea store"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "107719410637233643750",
+            "name": "Cafe.TEA.ria Milktea Shop (Owner)",
+            "link": "https://www.google.com/maps/contrib/107719410637233643750"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHA6dRmiC3V_TJPCt9dXLGAcHWgceUDqhfUWVt=w520-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": null,
+        "workday_timing": "10 AM-11:30 PM",
+        "closed_on": "Open All Days",
+        "phone": "+63 943 651 0841",
+        "address": "M83V+HH9 Cafe.TEA.ria Milktea Shop, Bayan, Sitio Palayan, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe.TEA.ria+Milktea+Shop/data=!4m7!3m6!1s0x33961391ef4592b7:0x41912f18e92377a0!8m2!3d14.6542827!4d120.3440947!16s%2Fg%2F11rq10v4yr!19sChIJt5JF75ETljMRoHcj6RgvkUE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-ytxFowNljMR0xdQt_Lfq_o",
+        "name": "Mihko's House",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Ice Cream Shop Business",
+                "link": "https://www.google.com/maps/search/Ice+Cream+Shop+Business/@14.681273699999998,120.26793699999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ice Cream"
+            },
+            {
+                "name": "Miukis General Merchandise & Ice Cream Store",
+                "link": "https://www.google.com/maps/search/Miukis+General+Merchandise+%26+Ice+Cream+Store/@14.4358443,120.48858829999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Dessert shop"
+            },
+            {
+                "name": "Mimi's Cones And Munchies- Orani",
+                "link": "https://www.google.com/maps/search/Mimi%27s+Cones+And+Munchies-+Orani/@14.811746,120.5222726?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ice Cream"
+            },
+            {
+                "name": "Cunanan's Store",
+                "link": "https://www.google.com/maps/search/Cunanan%27s+Store/@14.678420800000001,120.266745?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "House of K hauseu obeu kei",
+                "link": "https://www.google.com/maps/search/House+of+K+%ED%95%98%EC%9A%B0%EC%8A%A4+%EC%98%A4%EB%B8%8C+%EC%BC%80%EC%9D%B4/@14.74936,120.44248029999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mihko's House (Owner)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ice cream shop",
+        "categories": [
+            "Ice cream shop"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "M7JC+M5M Mihko's House, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mihko%27s+House/data=!4m7!3m6!1s0x33960d8c16712bfb:0xfaabdff2b75017d3!8m2!3d14.6817045!4d120.2704138!16s%2Fg%2F11pd0q1k8d!19sChIJ-ytxFowNljMR0xdQt_Lfq_o?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJg1T1lToNljMRZxZ85Lcmo-I",
+        "name": "Ice Cream Shop Business",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Scoop n' bell icecream",
+                "link": "https://www.google.com/maps/search/Scoop+n%E2%80%99+bell+icecream/@14.717928400000002,120.53618499999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 7,
+                "rating": 5,
+                "main_category": "Ice Cream"
+            },
+            {
+                "name": "Scooperia Bataan by Geno's IceCream- Dinalupihan",
+                "link": "https://www.google.com/maps/search/Scooperia+Bataan+by+Geno%27s+IceCream-+Dinalupihan/@14.8693589,120.46821600000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 6,
+                "rating": 5,
+                "main_category": "Ice Cream"
+            },
+            {
+                "name": "Sundaes & Cones By HR",
+                "link": "https://www.google.com/maps/search/Sundaes+%26+Cones+By+HR/@14.681407799999999,120.2685305?authuser=0&hl=en&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ice Cream"
+            },
+            {
+                "name": "Mihko's House",
+                "link": "https://www.google.com/maps/search/Mihko%27s+House/@14.6817045,120.27041380000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ice Cream"
+            },
+            {
+                "name": "Smiley Sweets",
+                "link": "https://www.google.com/maps/search/Smiley+Sweets/@14.677410199999999,120.26750360000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Dessert shop"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ice Cream Shop Business (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BmAbSGvVsbRCnUBxM2uU_w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=9.390316&pitch=0&thumbfov=100",
+        "main_category": "Ice cream shop",
+        "categories": [
+            "Ice cream shop"
+        ],
+        "rating": null,
+        "workday_timing": "10 AM-8 PM",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "M7J9+G53 Ice Cream Shop Business, Sulangi, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ice+Cream+Shop+Business/data=!4m7!3m6!1s0x33960d3a95f55483:0xe2a326b7e47c1667!8m2!3d14.6812737!4d120.267937!16s%2Fg%2F11rp0jd8kb!19sChIJg1T1lToNljMRZxZ85Lcmo-I?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJNZ97AEgNljMRxI-vmDkVhRg",
+        "name": "In.Tea.Mate Milktea Station Morong Branch",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "112199796080857247567",
+            "name": "In.Tea.Mate Milktea Station Morong Branch (Owner)",
+            "link": "https://www.google.com/maps/contrib/112199796080857247567"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqBxUvmrgu5w0UkZJO5Mb8zbUbvWX5MnCECSAn=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+63 947 558 3080",
+        "address": "In.Tea.Mate Milktea Station Morong Branch, Bernabe, Beside Generika Ibabao, Morong, 2108 Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/In.Tea.Mate+Milktea+Station+Morong+Branch/data=!4m7!3m6!1s0x33960d48007b9f35:0x1885153998af8fc4!8m2!3d14.6799907!4d120.2699955!16s%2Fg%2F11l77x13f2!19sChIJNZ97AEgNljMRxI-vmDkVhRg?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7b0u9oULljMRT13wFYV91XE",
+        "name": "Mamita's Minimart",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mamita's Minimart (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gc5gO2a2LyvS03secrhXtg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.3582&pitch=0&thumbfov=100",
+        "main_category": "Convenience store",
+        "categories": [
+            "Convenience store"
+        ],
+        "rating": null,
+        "workday_timing": "5:45 AM-10:30 PM",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "M7V2+62Q Mamita's Minimart, Labandilo Beach, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mamita%E2%80%99s+Minimart/data=!4m7!3m6!1s0x33960b85f62ebded:0x71d57d8515f05d4f!8m2!3d14.6935139!4d120.2499065!16s%2Fg%2F11v62vjrw0!19sChIJ7b0u9oULljMRT13wFYV91XE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJrUQDXS8NljMR2BEpWNJonQA",
+        "name": "Galvez's Store",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "MORONG STORE, MORONG, BATAAN",
+                "link": "https://www.google.com/maps/search/MORONG+STORE%2C+MORONG%2C+BATAAN/@14.6793797,120.26949139999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 8,
+                "rating": 4.6,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "7-Eleven Morong",
+                "link": "https://www.google.com/maps/search/7-Eleven+Morong/@14.680015200000001,120.2686432?authuser=0&hl=en&entry=ttu",
+                "reviews": 5,
+                "rating": 4.6,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "HARVEY STORE",
+                "link": "https://www.google.com/maps/search/HARVEY+STORE/@14.597295299999999,120.39248179999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Grocery store"
+            },
+            {
+                "name": "Evangeline store",
+                "link": "https://www.google.com/maps/search/Evangeline+store/@14.648572000000001,120.33208899999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 1,
+                "rating": 1,
+                "main_category": "Grocery store"
+            },
+            {
+                "name": "Grey Store",
+                "link": "https://www.google.com/maps/search/Grey+Store/@14.658608899999999,120.29325419999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Galvez's Store (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1JBKULAoDjkwqeUEtEYQCA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=347.87265&pitch=0&thumbfov=100",
+        "main_category": "Convenience store",
+        "categories": [
+            "Convenience store"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "J8WJ+R6Q Galvez's Store, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Galvez%27s+Store/data=!4m7!3m6!1s0x33960d2f5d0344ad:0x9d68d2582911d8!8m2!3d14.6470983!4d120.3306168!16s%2Fg%2F11pfwzptp2!19sChIJrUQDXS8NljMR2BEpWNJonQA?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJdWF11-sNljMRVY8EpRUPJQQ",
+        "name": "Grey Store",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "MORONG STORE, MORONG, BATAAN",
+                "link": "https://www.google.com/maps/search/MORONG+STORE%2C+MORONG%2C+BATAAN/@14.6793797,120.26949139999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 8,
+                "rating": 4.6,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "7-Eleven Morong",
+                "link": "https://www.google.com/maps/search/7-Eleven+Morong/@14.680015200000001,120.2686432?authuser=0&hl=en&entry=ttu",
+                "reviews": 5,
+                "rating": 4.6,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Galvez's Store",
+                "link": "https://www.google.com/maps/search/Galvez%27s+Store/@14.6470983,120.3306168?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Convenience store"
+            },
+            {
+                "name": "Alvin Vicente - Alvin Store",
+                "link": "https://www.google.com/maps/search/Alvin+Vicente+-+Alvin+Store/@14.658107,120.29315390000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Grocery store"
+            },
+            {
+                "name": "Bitanga Supermarket",
+                "link": "https://www.google.com/maps/search/Bitanga+Supermarket/@14.6591911,120.29637859999998?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Grocery store"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Grey Store (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfaain-8dI8rCOXoyYMNJ1BK9r1XlsSzrY0Axv=w408-h306-k-no",
+        "main_category": "Convenience store",
+        "categories": [
+            "Convenience store"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "M75V+C8R Grey Store, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Grey+Store/data=!4m7!3m6!1s0x33960debd7756175:0x4250f15a5048f55!8m2!3d14.6586089!4d120.2932542!16s%2Fg%2F11pb799j7m!19sChIJdWF11-sNljMRVY8EpRUPJQQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJf2fqqclzljMREasPWCO9a0s",
+        "name": "Bhal Ramirez",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Le' Parilya Grill and Resto Bar",
+                "link": "https://www.google.com/maps/search/Le%27+Parilya+Grill+and+Resto+Bar/@14.675958,120.27278179999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 3,
+                "rating": 4.3,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Boni Food Hub",
+                "link": "https://www.google.com/maps/search/Boni+Food+Hub/@14.7188504,120.3060025?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Family-friendly"
+            },
+            {
+                "name": "Arellano Family",
+                "link": "https://www.google.com/maps/search/Arellano+Family/@14.6188939,120.38747380000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Love You a Latte",
+                "link": "https://www.google.com/maps/search/Love+You+a+Latte/@14.677030300000002,120.2650674?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Morong Bistro and Catering",
+                "link": "https://www.google.com/maps/search/Morong+Bistro+and+Catering/@14.6780023,120.26624530000001?authuser=0&hl=en&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bhal Ramirez (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMy--YMnAPajDCr0F9_RvjZtRkP8uwtRXVBPMzD=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+63 908 176 0379",
+        "address": "P7GR+GM2 Bhal Ramirez, Morong, Bataan, Philippines",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bhal+Ramirez/data=!4m7!3m6!1s0x339673c9a9ea677f:0x4b6bbd23580fab11!8m2!3d14.7262691!4d120.2916524!16s%2Fg%2F11h0w9vs1s!19sChIJf2fqqclzljMREasPWCO9a0s?authuser=0&hl=en&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     }
 ]

@@ -4,7 +4,11 @@
         "name": "San Pedro Cafe",
         "description": null,
         "is_spending_on_ads": false,
+<<<<<<< HEAD
         "reviews": 835,
+=======
+        "reviews": 836,
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "competitors": [
             {
                 "name": "Pacific Diner",
@@ -16,7 +20,11 @@
             {
                 "name": "Happy Diner",
                 "link": "https://www.google.com/maps/search/Happy+Diner/@33.7382026,-118.2836621?authuser=0&hl=zh-TW&entry=ttu",
+<<<<<<< HEAD
                 "reviews": 736,
+=======
+                "reviews": 737,
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
                 "rating": 4.6,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -65,6 +73,13 @@
                 "count": 26
             },
             {
+<<<<<<< HEAD
+=======
+                "keyword": "Song Bing ",
+                "count": 23
+            },
+            {
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
                 "keyword": "Fa Shi Tu Si ",
                 "count": 17
             },
@@ -77,10 +92,13 @@
                 "count": 10
             },
             {
+<<<<<<< HEAD
                 "keyword": "Shu Tiao ",
                 "count": 8
             },
             {
+=======
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
                 "keyword": "Zha Niu Pai ",
                 "count": 8
             },
@@ -389,6 +407,187 @@
         "link": "https://www.google.com/maps/place/The+Corner+Store/data=!4m7!3m6!1s0x80dd48261bed76a1:0xbe2011b39cdb0ff3!8m2!3d33.7138587!4d-118.304309!16s%2Fg%2F1tgnmcv8!19sChIJoXbtGyZI3YAR8w_bnLMRIL4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+<<<<<<< HEAD
+=======
+        "place_id": "ChIJ19IirR033YARb4Ns9sbv3ow",
+        "name": "Colossus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 145,
+        "competitors": [
+            {
+                "name": "Rex's Cafe",
+                "link": "https://www.google.com/maps/search/Rex%27s+Cafe/@33.7243626,-118.28779309999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 530,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Joseph's Bakery",
+                "link": "https://www.google.com/maps/search/Joseph%27s+Bakery/@33.734687799999996,-118.2970066?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 221,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Acacia Bakery",
+                "link": "https://www.google.com/maps/search/Acacia+Bakery/@33.741717099999995,-118.2882597?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 155,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Polly Ann Bakery",
+                "link": "https://www.google.com/maps/search/Polly+Ann+Bakery/@33.737176,-118.30911940000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 121,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Tropicana Bakery",
+                "link": "https://www.google.com/maps/search/Tropicana+Bakery/@33.7424867,-118.28751070000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 34,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://colossusbread.com/",
+        "owner": {
+            "id": "101304348545237507660",
+            "name": "Colossus (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101304348545237507660"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPhgBfB3oDCOXA4ro8k-c0_6KNV5GuLQFzZWDM=w408-h612-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+1 213-444-0077",
+        "address": "Colossus, 2311 S Alma St, San Pedro, CA 90731Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Ke Song ",
+                "count": 13
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 9
+            },
+            {
+                "keyword": "Qiao Ke Li ",
+                "count": 9
+            },
+            {
+                "keyword": "Suan Zhong ",
+                "count": 5
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 5
+            },
+            {
+                "keyword": "Ting Che ",
+                "count": 5
+            },
+            {
+                "keyword": "Cai Shi Chang ",
+                "count": 3
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Colossus/data=!4m7!3m6!1s0x80dd371dad22d2d7:0x8cdeefc6f66c836f!8m2!3d33.7230778!4d-118.2991894!16s%2Fg%2F11fmnsh47q!19sChIJ19IirR033YARb4Ns9sbv3ow?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJm-g0jiw23YARS8Oc-BXSdEE",
+        "name": "The Donut",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 120,
+        "competitors": [
+            {
+                "name": "Granny's Donuts",
+                "link": "https://www.google.com/maps/search/Granny%27s+Donuts/@33.7466416,-118.3092113?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 421,
+                "rating": 4.5,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Yum Yum Donuts",
+                "link": "https://www.google.com/maps/search/Yum+Yum+Donuts/@33.7389432,-118.2921535?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 215,
+                "rating": 4.2,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Donut Star",
+                "link": "https://www.google.com/maps/search/Donut+Star/@33.753974299999996,-118.2918988?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 163,
+                "rating": 4.3,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Kenny's Donuts",
+                "link": "https://www.google.com/maps/search/Kenny%27s+Donuts/@33.7304221,-118.29201110000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 66,
+                "rating": 4.4,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Christy's Donuts",
+                "link": "https://www.google.com/maps/search/Christy%27s+Donuts/@33.7318667,-118.28744909999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.2,
+                "main_category": "Tian Tian Quan "
+            }
+        ],
+        "website": "http://donut-san-pedro.jany.io/",
+        "owner": {
+            "id": null,
+            "name": "The Donut (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNu3LWRWeDjWAFO2TbAz-sxndy2IcO1REg66gwl=w408-h306-k-no",
+        "main_category": "Dong Shuai Dian ",
+        "categories": [
+            "Dong Shuai Dian ",
+            "Tian Pin Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "04:00-13:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 310-831-2123",
+        "address": "The Donut, 1615 S Gaffey St, San Pedro, CA 90731Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Ke Song ",
+                "count": 5
+            },
+            {
+                "keyword": "Xue Xiao ",
+                "count": 3
+            },
+            {
+                "keyword": "Qia Shi Da ",
+                "count": 3
+            },
+            {
+                "keyword": "Pin Guo ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/The+Donut/data=!4m7!3m6!1s0x80dd362c8e34e89b:0x4174d215f89cc34b!8m2!3d33.7294049!4d-118.2926836!16s%2Fg%2F1tf4384x!19sChIJm-g0jiw23YARS8Oc-BXSdEE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "place_id": "ChIJiZWJPBld1moRzRRnstRvi9k",
         "name": "SAN PEDRO Coffee",
         "description": null,
@@ -540,6 +739,64 @@
         "link": "https://www.google.com/maps/place/AMPERSAND+Coffee/data=!4m7!3m6!1s0x340407deafc173a7:0x2c250dbcf43c4ab6!8m2!3d22.3355!4d114.1977184!16s%2Fg%2F11h3m7h7k1!19sChIJp3PBr94HBDQRtko89LwNJSw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+<<<<<<< HEAD
+=======
+        "place_id": "ChIJyW4mWf9jtTMRc_rnJhjm02o",
+        "name": "Siblings Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 46,
+        "competitors": [
+            {
+                "name": "Gold * Cup Specialty Coffee Roaster's",
+                "link": "https://www.google.com/maps/search/Gold+%E2%80%A2+Cup+Specialty+Coffee+Roaster%E2%80%99s/@9.7403077,118.74205020000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 181,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Coffee Bean & Tea Leaf",
+                "link": "https://www.google.com/maps/search/The+Coffee+Bean+%26+Tea+Leaf/@9.743584199999999,118.73928190000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 72,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Scool Coffee Shop",
+                "link": "https://www.google.com/maps/search/Scool+Coffee+Shop/@9.778943199999999,118.736507?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Espassio Cafe",
+                "link": "https://www.google.com/maps/search/Espassio+Caf%C3%A9/@9.7406185,118.74426160000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/SiblingsCafePPC",
+        "owner": {
+            "id": null,
+            "name": "Siblings Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAyRSGyck7nj97N6lzlMysHkK7v2nCzCbZpbDg=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "10:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Siblings Cafe, Near 5300, D. Cabanillas Road, Puerto Princesa, Palawan, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Siblings+Caf%C3%A9/data=!4m7!3m6!1s0x33b563ff59266ec9:0x6ad3e61826e7fa73!8m2!3d9.7831358!4d118.7382941!16s%2Fg%2F11nwbc0kkc!19sChIJyW4mWf9jtTMRc_rnJhjm02o?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "place_id": "ChIJ3ws8gIPRlzMRq3U4wAV4j3g",
         "name": "Daily Grind Coffee",
         "description": null,
@@ -708,7 +965,11 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
+<<<<<<< HEAD
         "website": "https://www.facebook.com/profile.php?id=100066719923727",
+=======
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100066719923727",
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "owner": {
             "id": "108137404211514507697",
             "name": "Cafe Pepita (Ye Zhu )",
@@ -1043,6 +1304,195 @@
         "link": "https://www.google.com/maps/place/Kofee+Manila+Calendola/data=!4m7!3m6!1s0x3397d72b96f28405:0x4dbd878139fe2d44!8m2!3d14.341817!4d121.035338!16s%2Fg%2F11td6ctttb!19sChIJBYTylivXlzMRRC3-OYGHvU0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+<<<<<<< HEAD
+=======
+        "place_id": "ChIJEWn-adpRljMRrMb85AMziU8",
+        "name": "Modern Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "TekpuGamingPilipinas",
+                "link": "https://www.google.com/maps/search/TekpuGamingPilipinas/@14.823414900000001,120.7248994?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "348 cafe",
+                "link": "https://www.google.com/maps/search/348+cafe/@14.8392906,120.7597347?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Mc Friendshoppe Cafe + Boutique",
+                "link": "https://www.google.com/maps/search/Mc+Friendshoppe+Cafe+%2B+Boutique/@14.834582699999999,120.7336655?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Lugawonders Foodhouse",
+                "link": "https://www.google.com/maps/search/Lugawonders+Foodhouse/@14.838852,120.7565187?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Kape Gusto",
+                "link": "https://www.google.com/maps/search/Kape+Gusto/@14.836718800000002,120.73410100000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/moderncafeph/",
+        "owner": {
+            "id": "118099461964851694056",
+            "name": "Modern Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/118099461964851694056"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8JSy3KSxMKevEqhsvJVsFmoh_bIRrPwyZcXxa=w408-h408-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "11:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+63 926 546 3352",
+        "address": "Modern Cafe, 017, Hagonoy, 3002 Bulacan, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Modern+Cafe/data=!4m7!3m6!1s0x339651da69fe6911:0x4f893303e4fcc6ac!8m2!3d14.8376428!4d120.7517674!16s%2Fg%2F11rvb80wvv!19sChIJEWn-adpRljMRrMb85AMziU8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJuVE7jKTvljMRu-zGQS4CmT8",
+        "name": "BAY Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "COFFEEBAY",
+                "link": "https://www.google.com/maps/search/COFFEEBAY/@15.1355592,120.5667761?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 249,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Beni",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+B%C3%A9ni/@15.2139043,120.6625278?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Bale Cafe",
+                "link": "https://www.google.com/maps/search/Bale+Caf%C3%A9/@15.214866899999999,120.6644471?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Moonlight Cafe",
+                "link": "https://www.google.com/maps/search/Moonlight+Cafe/@15.2173047,120.66165050000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Station One",
+                "link": "https://www.google.com/maps/search/Cafe+Station+One/@15.216296599999998,120.71275789999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/baycafe.magalang",
+        "owner": {
+            "id": "112152341537137302741",
+            "name": "BAY Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112152341537137302741"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOF9Fiq5yJ9L2LBDp_lCP0p55eHxbn9sgi9wi5b=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "14:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "BAY Cafe, D&E bldg, Stall #2 Morales, 1 Poblacion, Magalang, 2011 Pampanga, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BAY+Caf%C3%A9/data=!4m7!3m6!1s0x3396efa48c3b51b9:0x3f99022e41c6ecbb!8m2!3d15.215455!4d120.6584456!16s%2Fg%2F11sdb5y4ln!19sChIJuVE7jKTvljMRu-zGQS4CmT8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJybMH3iPvljMRRTdSf6n-O4U",
+        "name": "Poteatorrific",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Bale Cafe",
+                "link": "https://www.google.com/maps/search/Bale+Caf%C3%A9/@15.214866899999999,120.6644471?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Milk Fridge - Magalang",
+                "link": "https://www.google.com/maps/search/Milk+Fridge+-+Magalang/@15.2115961,120.65425099999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Mangchai cafe Magalang",
+                "link": "https://www.google.com/maps/search/Mangchai+cafe+Magalang/@15.2108583,120.6531886?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.3,
+                "main_category": "Zhen Zhu Nai Cha "
+            },
+            {
+                "name": "Kofika cafe",
+                "link": "https://www.google.com/maps/search/Kofika+cafe/@15.2171062,120.66138950000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 3.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "BangBang Milk T - Magalang",
+                "link": "https://www.google.com/maps/search/BangBang+Milk+T+-+Magalang/@15.2169983,120.66169989999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Cha Yi Guan "
+            }
+        ],
+        "website": "http://fb.me/poteatorrific",
+        "owner": {
+            "id": null,
+            "name": "Poteatorrific (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZoxm-35bhSrJnLAUAFxVeHLYIR-8G41Tb9KbG=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-20:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "6M75+W8M Poteatorrific, Morales, Magalang, Pampanga, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poteatorrific/data=!4m7!3m6!1s0x3396ef23de07b3c9:0x853bfea97f523745!8m2!3d15.2148425!4d120.6582813!16s%2Fg%2F11fmqbyrvl!19sChIJybMH3iPvljMRRTdSf6n-O4U?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "place_id": "ChIJ3Sobxs3XlzMRHc_eveKZJCQ",
         "name": "Fidelite",
         "description": null,
@@ -1107,6 +1557,328 @@
         "link": "https://www.google.com/maps/place/Fidelit%C3%A9/data=!4m7!3m6!1s0x3397d7cdc61b2add:0x242499e2bddecf1d!8m2!3d14.3389203!4d121.034397!16s%2Fg%2F11rpzcb4hc!19sChIJ3Sobxs3XlzMRHc_eveKZJCQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+<<<<<<< HEAD
+=======
+        "place_id": "ChIJ66YYiqSvlzMReePIsbW1zA8",
+        "name": "Coffee Break",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "BigBrew Lambakin",
+                "link": "https://www.google.com/maps/search/BigBrew+Lambakin/@14.7727352,120.97892970000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Super Daddy - Marilao",
+                "link": "https://www.google.com/maps/search/Super+Daddy+-+Marilao/@14.7930277,121.0066306?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Break - Bagong Silang",
+                "link": "https://www.google.com/maps/search/Coffee+Break+-+Bagong+Silang/@14.7734943,121.0489002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "coffeecrib marilao",
+                "link": "https://www.google.com/maps/search/coffeecrib+marilao/@14.7782493,120.9738683?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/coffeebreak.3019",
+        "owner": {
+            "id": "113386495429102199938",
+            "name": "Coffee Break (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113386495429102199938"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tukXV16FlvswbZqmbRp4bA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=235.89697&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+63 966 889 0448",
+        "address": "Coffee Break, San Pedro St, Marilao, 3019 Bulacan, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Break/data=!4m7!3m6!1s0x3397afa48a18a6eb:0xfccb5b5b1c8e379!8m2!3d14.81055!4d121.0458895!16s%2Fg%2F11ptjfm2yb!19sChIJ66YYiqSvlzMReePIsbW1zA8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3fN0JRXHwoARI38rPiDeG5A",
+        "name": "Sprouts Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Sprouts Farmers Market",
+                "link": "https://www.google.com/maps/search/Sprouts+Farmers+Market/@34.04942,-118.34377219999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 602,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Tee's Cafe",
+                "link": "https://www.google.com/maps/search/Tee%27s+Cafe/@34.0340664,-118.25369380000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 44,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Green House",
+                "link": "https://www.google.com/maps/search/Green+House/@34.0340061,-118.25241439999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Sprouts cafe",
+                "link": "https://www.google.com/maps/search/Sprouts+cafe/@34.0629102,-118.3635929?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://sprouts-cafe.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "108848572408183680567",
+            "name": "Sprouts Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108848572408183680567"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN6oZH135ichzTqvaJgfxCAqIyflA2ufAgrtNDv=w408-h544-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian ",
+            "Ka Pei Ting ",
+            "San Wen Zhi Dian "
+        ],
+        "rating": null,
+        "workday_timing": "07:30-16:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+1 213-749-1231",
+        "address": "Sprouts Cafe, 1300 San Pedro St #111, Los Angeles, CA 90015Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sprouts+Cafe/data=!4m7!3m6!1s0x80c2c7152574f3dd:0x901bde203e2b7f23!8m2!3d34.0321501!4d-118.2541765!16s%2Fg%2F11j1r59m0k!19sChIJ3fN0JRXHwoARI38rPiDeG5A?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJb8NSSOZJ3YARRrn8Ll143Dc",
+        "name": "Granny's Donuts",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 421,
+        "competitors": [
+            {
+                "name": "Yum Yum Donuts",
+                "link": "https://www.google.com/maps/search/Yum+Yum+Donuts/@33.7389432,-118.2921535?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 215,
+                "rating": 4.2,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Donut Star",
+                "link": "https://www.google.com/maps/search/Donut+Star/@33.753974299999996,-118.2918988?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 163,
+                "rating": 4.3,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "The Donut",
+                "link": "https://www.google.com/maps/search/The+Donut/@33.7294049,-118.29268359999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 120,
+                "rating": 4.6,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Kenny's Donuts",
+                "link": "https://www.google.com/maps/search/Kenny%27s+Donuts/@33.7304221,-118.29201110000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 66,
+                "rating": 4.4,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Grannys Yogurt",
+                "link": "https://www.google.com/maps/search/Grannys+Yogurt/@33.7465677,-118.30941419999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
+                "rating": 4.2,
+                "main_category": "Shuang Dong You Ge "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "105440938504867496644",
+            "name": "Granny's Donuts (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105440938504867496644"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNt1ih41M0rY7A_tixkrnIjUwafyc2auSoRoG97=w446-h240-k-no",
+        "main_category": "Dong Shuai Dian ",
+        "categories": [
+            "Dong Shuai Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "05:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 310-547-0715",
+        "address": "Granny's Donuts, 316 N Western Ave, San Pedro, CA 90732Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Xian Jin ",
+                "count": 19
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 17
+            },
+            {
+                "keyword": "Yin Liao ",
+                "count": 15
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 12
+            },
+            {
+                "keyword": "Zhen Zhu ",
+                "count": 10
+            },
+            {
+                "keyword": "Ke Song ",
+                "count": 10
+            },
+            {
+                "keyword": "Cai Piao ",
+                "count": 7
+            },
+            {
+                "keyword": "Gao ",
+                "count": 5
+            },
+            {
+                "keyword": "Men Piao ",
+                "count": 3
+            },
+            {
+                "keyword": "Wei Yu ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Granny%27s+Donuts/data=!4m7!3m6!1s0x80dd49e64852c36f:0x37dc785d2efcb946!8m2!3d33.7466416!4d-118.3092113!16s%2Fg%2F1v5_9r7r!19sChIJb8NSSOZJ3YARRrn8Ll143Dc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJwQJtWig23YARgQ_GETijexo",
+        "name": "Joseph's Bakery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 221,
+        "competitors": [
+            {
+                "name": "Pirozzi's Italian Deli",
+                "link": "https://www.google.com/maps/search/Pirozzi%27s+Italian+Deli/@33.7368376,-118.3094527?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 210,
+                "rating": 4.6,
+                "main_category": "San Wen Zhi "
+            },
+            {
+                "name": "Acacia Bakery",
+                "link": "https://www.google.com/maps/search/Acacia+Bakery/@33.741717099999995,-118.2882597?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 155,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Colossus",
+                "link": "https://www.google.com/maps/search/Colossus/@33.7230778,-118.29918939999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 144,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Polly Ann Bakery",
+                "link": "https://www.google.com/maps/search/Polly+Ann+Bakery/@33.737176,-118.30911940000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 121,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Tropicana Bakery",
+                "link": "https://www.google.com/maps/search/Tropicana+Bakery/@33.7424867,-118.28751070000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 34,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Joseph's Bakery (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOW5qU1-T3ymaKaWTX15DXUR2a8usABEQ-nAecj=w408-h544-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "05:00-13:30",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
+        ],
+        "phone": "+1 310-833-1921",
+        "address": "Joseph's Bakery, 1027 S Meyler St, San Pedro, CA 90731Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Pi Sa ",
+                "count": 74
+            },
+            {
+                "keyword": "Bing Gan ",
+                "count": 18
+            },
+            {
+                "keyword": "Bu Lang Ni ",
+                "count": 13
+            },
+            {
+                "keyword": "Ke Song ",
+                "count": 12
+            },
+            {
+                "keyword": "Bao Shi ",
+                "count": 10
+            },
+            {
+                "keyword": "Fan Mai ",
+                "count": 8
+            },
+            {
+                "keyword": "Zao Shang ",
+                "count": 7
+            },
+            {
+                "keyword": "Xue Xiao ",
+                "count": 7
+            },
+            {
+                "keyword": "Ning Meng ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Joseph%27s+Bakery/data=!4m7!3m6!1s0x80dd36285a6d02c1:0x1a7ba33811c60f81!8m2!3d33.7346878!4d-118.2970066!16s%2Fg%2F1tht1rvg!19sChIJwQJtWig23YARgQ_GETijexo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "place_id": "ChIJ2Yjz0LrXlzMRF7qVqLM1iwM",
         "name": "Kapetbahay",
         "description": null,
@@ -1231,6 +2003,126 @@
         "link": "https://www.google.com/maps/place/Tea+Back+Cafe+-+Sapang+Palay/data=!4m7!3m6!1s0x3397a94b09a4d0d1:0xe21df3f116b2cdfd!8m2!3d14.8501347!4d121.0520295!16s%2Fg%2F11qnys8lbv!19sChIJ0dCkCUuplzMR_c2yFvHzHeI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+<<<<<<< HEAD
+=======
+        "place_id": "ChIJkzQpqdlrrjMRCF6XR3JfTe0",
+        "name": "Neighbourhood Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "competitors": [
+            {
+                "name": "Eduardo's f/stop Cafe",
+                "link": "https://www.google.com/maps/search/Eduardo%27s+f%2Fstop+Caf%C3%A9/@10.5883358,122.13730040000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Dabrun's Cafe",
+                "link": "https://www.google.com/maps/search/Dabrun%27s+Caf%C3%A9/@10.5262657,122.0733809?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Jil's Place",
+                "link": "https://www.google.com/maps/search/Jil%27s+Place/@10.5877337,122.14062999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "MIN-MIN'S CAFE",
+                "link": "https://www.google.com/maps/search/MIN-MIN%27S+CAFE/@10.5870537,122.14023909999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "116197572618825008219",
+            "name": "Neighbourhood Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116197572618825008219"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOuT8TtRrEsa4Xvwv4naHdCYF9vS3ueVmcLIyCF=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "09:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Neighbourhood Cafe, San Joaquin, 5024 Iloilo, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Neighbourhood+Caf%C3%A9/data=!4m7!3m6!1s0x33ae6bd9a9293493:0xed4d5f7247975e08!8m2!3d10.5489584!4d122.0788542!16s%2Fg%2F11t7j7hl88!19sChIJkzQpqdlrrjMRCF6XR3JfTe0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJtVNsVEzXlzMRQ6kJqp0R9hE",
+        "name": "Universal Bakery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "competitors": [
+            {
+                "name": "Universal Bakery (San Pedro - Bayan)",
+                "link": "https://www.google.com/maps/search/Universal+Bakery+%28San+Pedro+-+Bayan%29/@14.36282,121.05752?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 93,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Universal Bakery - Main Branch",
+                "link": "https://www.google.com/maps/search/Universal+Bakery+-+Main+Branch/@14.3577331,121.06025160000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Goldilocks San Pedro",
+                "link": "https://www.google.com/maps/search/Goldilocks+San+Pedro/@14.362363499999999,121.0574981?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 39,
+                "rating": 4.1,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Mar Cel Bakery",
+                "link": "https://www.google.com/maps/search/Mar+Cel+Bakery/@14.3489869,121.04992750000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "VicBake Cakes and Pastries",
+                "link": "https://www.google.com/maps/search/VicBake+Cakes+and+Pastries/@14.358884800000002,121.0424086?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Universal Bakery (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jz35B6FRRwtleDpHt0pfXQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.02142&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-17:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "83W7+XVW Universal Bakery, San Pedro, Laguna, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Universal+Bakery/data=!4m7!3m6!1s0x3397d74c546c53b5:0x11f6119daa09a943!8m2!3d14.3474808!4d121.0647065!16s%2Fg%2F1tglwhmp!19sChIJtVNsVEzXlzMRQ6kJqp0R9hE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "place_id": "ChIJAaX5uTLRlzMR7wo67-FAj-0",
         "name": "Broo Coffee Shop",
         "description": null,
@@ -1355,6 +2247,35 @@
         "link": "https://www.google.com/maps/place/Dining+Pod/data=!4m7!3m6!1s0x3397d18bf10b80eb:0x856c049277ac5053!8m2!3d14.3658902!4d121.0503859!16s%2Fg%2F11tnbvpvm1!19sChIJ64AL8YvRlzMRU1Csd5IEbIU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+<<<<<<< HEAD
+=======
+        "place_id": "ChIJ27Wc6_DJlzMRqmRsAxmzEfM",
+        "name": "But First, Coffee (BFC) - Bez Tower",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "107542647041716936116",
+            "name": "But First, Coffee (BFC) - Bez Tower (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107542647041716936116"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNw5n78e7cYLieA4JgVzIy2yDXSvj9ujEz9tvR_=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:30-23:30",
+        "closed_on": "Open All Days",
+        "phone": "+63 917 538 8465",
+        "address": "But First, Coffee (BFC) - Bez Tower, 205 F. Blumentritt, San Juan, 1500 Metro Manila, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/But+First,+Coffee+%28BFC%29+-+Bez+Tower/data=!4m7!3m6!1s0x3397c9f0eb9cb5db:0xf311b319036c64aa!8m2!3d14.6039817!4d121.0251453!16s%2Fg%2F11kjnzc8c5!19sChIJ27Wc6_DJlzMRqmRsAxmzEfM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         "place_id": "ChIJYf4zU0LRlzMRHfF23-MkKCk",
         "name": "Kofee Manila - San Vicente,Laguna",
         "description": null,
@@ -1408,5 +2329,32 @@
         "address": "Kofee Manila - San Vicente,Laguna, G. Garcia St, San Pedro, 4023 Laguna, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kofee+Manila+-+San+Vicente,Laguna/data=!4m7!3m6!1s0x3397d1425333fe61:0x292824e3df76f11d!8m2!3d14.359997!4d121.0535969!16s%2Fg%2F11tg80s4wx!19sChIJYf4zU0LRlzMRHfF23-MkKCk?authuser=0&hl=zh-TW&rclk=1"
+<<<<<<< HEAD
+=======
+    },
+    {
+        "place_id": "ChIJC9Of4knXlzMR9ryhvrnV8lI",
+        "name": "KOFFEE MANILA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "KOFFEE MANILA (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v-APpaQLxx76CJeGRQ--Og&cb_client=search.gws-prod.gps&w=408&h=240&yaw=131.459&pitch=0&thumbfov=100",
+        "main_category": null,
+        "categories": null,
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "KOFFEE MANILA, San Jose St, San Pedro, Laguna, Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/KOFFEE+MANILA/data=!4m7!3m6!1s0x3397d749e29fd30b:0x52f2d5b9bea1bcf6!8m2!3d14.3456748!4d121.0564443!16s%2Fg%2F11l5dllm9w!19sChIJC9Of4knXlzMR9ryhvrnV8lI?authuser=0&hl=zh-TW&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     }
 ]

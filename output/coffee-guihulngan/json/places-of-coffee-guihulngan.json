@@ -8,6 +8,7 @@
         "competitors": [
             {
                 "name": "Jorelyn's Roast & Grill",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Jorelyn%27s+Roast+%26+Grill/@10.1187091,123.2680342?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 61,
                 "rating": 4.2,
@@ -40,11 +41,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Can Ting "
+=======
+                "link": "https://www.google.com/maps/search/Jorelyn%27s+Roast+%26+Grill/@10.1187091,123.2680342?authuser=0&hl=nl&entry=ttu",
+                "reviews": 61,
+                "rating": 4.2,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "PIZZARO",
+                "link": "https://www.google.com/maps/search/PIZZARO/@10.1177722,123.27114499999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 41,
+                "rating": 3.8,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Nilo's Eatery",
+                "link": "https://www.google.com/maps/search/Nilo%27s+Eatery/@10.1213231,123.2696456?authuser=0&hl=nl&entry=ttu",
+                "reviews": 25,
+                "rating": 4.5,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Admiral Eatery",
+                "link": "https://www.google.com/maps/search/Admiral+Eatery/@10.119122700000002,123.27175729999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Onel's Eatery",
+                "link": "https://www.google.com/maps/search/Onel%27s+Eatery/@10.1222388,123.2726706?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": "http://www.facebook.com/cafesaira",
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Cafe Saira (Ye Zhu )",
             "link": null
         },
@@ -52,11 +88,21 @@
         "main_category": "Can Ting ",
         "categories": [
             "Can Ting "
+=======
+            "name": "Cafe Saira (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNT7iHu37H6Fbiziwd-FuLhwKJ6L18F4br2wVx3=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 4.1,
         "workday_timing": "09:30-19:00",
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "4789+VR7 Cafe Saira, S Villegas St, Dakbayan sa Guihulngan, Lalawigan ng Negros Oriental, Fei Lu Bin ",
         "review_keywords": [
             {
@@ -65,6 +111,140 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Cafe+Saira/data=!4m7!3m6!1s0x33abe2c87187c7ef:0x83d173da5552eda!8m2!3d10.117167!4d123.2695592!16s%2Fg%2F11crt9zd13!19sChIJ78eHccjiqzMR2i5VpT0XPQg?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "4789+VR7 Cafe Saira, S Villegas St, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [
+            {
+                "keyword": "pizza",
+                "count": 10
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafe+Saira/data=!4m7!3m6!1s0x33abe2c87187c7ef:0x83d173da5552eda!8m2!3d10.117167!4d123.2695592!16s%2Fg%2F11crt9zd13!19sChIJ78eHccjiqzMR2i5VpT0XPQg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJocc69_bjqzMRfK1YzYnNLYQ",
+        "name": "Te de la Leche",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Mamas choice",
+                "link": "https://www.google.com/maps/search/Mamas+choice/@10.119745199999999,123.2723203?authuser=0&hl=nl&entry=ttu",
+                "reviews": 128,
+                "rating": 4.3,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Lucio's Resto Bar",
+                "link": "https://www.google.com/maps/search/Lucio%27s+Resto+Bar/@10.119152,123.2724645?authuser=0&hl=nl&entry=ttu",
+                "reviews": 9,
+                "rating": 4.2,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Ludy's Kitchen",
+                "link": "https://www.google.com/maps/search/Ludy%27s+Kitchen/@10.1162739,123.2693851?authuser=0&hl=nl&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Sebu Cha Milk Tea",
+                "link": "https://www.google.com/maps/search/Sebu+Cha+Milk+Tea/@10.1200044,123.2725794?authuser=0&hl=nl&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Afhaalrestaurants"
+            },
+            {
+                "name": "Lorena's Lutong Bahay",
+                "link": "https://www.google.com/maps/search/Lorena%27s+Lutong+Bahay/@10.1190313,123.272139?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 1,
+                "main_category": "Restaurant"
+            }
+        ],
+        "website": "https://www.facebook.com/TeDeLaLeche",
+        "owner": {
+            "id": "111711788037669678843",
+            "name": "Te de la Leche (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111711788037669678843"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPs7AoTziQCzqT2aJOis6RSZnPKgmhM-4Ci2SJJ=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+63 917 701 0970",
+        "address": "Te de la Leche, E Villegas St, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/T%C3%A9+de+la+Leche/data=!4m7!3m6!1s0x33abe3f6f73ac7a1:0x842dcd89cd58ad7c!8m2!3d10.118733!4d123.26799!16s%2Fg%2F11lp9xf9cx!19sChIJocc69_bjqzMRfK1YzYnNLYQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJHVLmGeHjqzMR9__riktqtzo",
+        "name": "CheapSilog atbp.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Cozy Corner Fastfood Inn",
+                "link": "https://www.google.com/maps/search/Cozy+Corner+Fastfood+Inn/@10.119128,123.271772?authuser=0&hl=nl&entry=ttu",
+                "reviews": 11,
+                "rating": 3.9,
+                "main_category": "Fastfood"
+            },
+            {
+                "name": "Guilhulngan Tambayan",
+                "link": "https://www.google.com/maps/search/Guilhulngan+Tambayan/@10.129879599999999,123.2770407?authuser=0&hl=nl&entry=ttu",
+                "reviews": 5,
+                "rating": 4.6,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Admiral Eatery",
+                "link": "https://www.google.com/maps/search/Admiral+Eatery/@10.119122700000002,123.27175729999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Eighth Cup",
+                "link": "https://www.google.com/maps/search/Eighth+Cup/@10.120381,123.26996319999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Pakals",
+                "link": "https://www.google.com/maps/search/Pakals/@10.1203878,123.2713069?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Geschikt voor het hele gezin"
+            }
+        ],
+        "website": "https://m.facebook.com/CHEAPsilogatbp/",
+        "owner": {
+            "id": "114116927840664094544",
+            "name": "CheapSilog atbp. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114116927840664094544"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LqOhD6i-TcFb-Zu9_PZrhg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=305.76172&pitch=0&thumbfov=100",
+        "main_category": "Ontbijtrestaurant",
+        "categories": [
+            "Ontbijtrestaurant"
+        ],
+        "rating": null,
+        "workday_timing": "06:00-12:00, 18:00-23:00",
+        "closed_on": "Open All Days",
+        "phone": "+63 967 733 7003",
+        "address": "CheapSilog atbp., Roxas St, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CheapSilog+atbp./data=!4m7!3m6!1s0x33abe3e119e6521d:0x3ab76a4b8aebfff7!8m2!3d10.1220913!4d123.272024!16s%2Fg%2F11r36484xc!19sChIJHVLmGeHjqzMR9__riktqtzo?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJWTj4kkHjqzMRbROxZVNSWk8",
@@ -75,6 +255,7 @@
         "competitors": [
             {
                 "name": "Guihulngan Bulado Port",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Guihulngan+Bulado+Port/@10.1895993,123.29134540000001?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 24,
                 "rating": 3.7,
@@ -107,11 +288,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Mian Bao Xi Bing Dian "
+=======
+                "link": "https://www.google.com/maps/search/Guihulngan+Bulado+Port/@10.1895993,123.29134540000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 24,
+                "rating": 3.7,
+                "main_category": "Zeehaven"
+            },
+            {
+                "name": "Angel's Hamburger",
+                "link": "https://www.google.com/maps/search/Angel%27s+Hamburger/@10.1195364,123.2719222?authuser=0&hl=nl&entry=ttu",
+                "reviews": 12,
+                "rating": 3.6,
+                "main_category": "Hamburgerrestaurant"
+            },
+            {
+                "name": "Port of Guihulngan",
+                "link": "https://www.google.com/maps/search/Port+of+Guihulngan/@10.108751999999999,123.2710674?authuser=0&hl=nl&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Veerboot"
+            },
+            {
+                "name": "Admiral Eatery",
+                "link": "https://www.google.com/maps/search/Admiral+Eatery/@10.119122700000002,123.27175729999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Angelo's Bakeshop",
+                "link": "https://www.google.com/maps/search/Angelo%27s+Bakeshop/@10.118491599999999,123.27066539999998?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bakkerij"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": "http://www.facebook.com/goodjao13",
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Angelo's Docking Bay (Ye Zhu )",
             "link": null
         },
@@ -127,6 +343,23 @@
         "address": "Angelo's Docking Bay, Tanon Strait, Guihulngan City, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Angelo%27s+Docking+Bay/data=!4m7!3m6!1s0x33abe34192f83859:0x4f5a525365b1136d!8m2!3d10.1086516!4d123.2706711!16s%2Fg%2F11k8fbgcgn!19sChIJWTj4kkHjqzMRbROxZVNSWk8?authuser=0&hl=zh-TW&rclk=1"
+=======
+            "name": "Angelo's Docking Bay (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": null,
+        "workday_timing": "24 uur geopend",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Angelo's Docking Bay, Tanon Strait, Guihulngan City, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Angelo%27s+Docking+Bay/data=!4m7!3m6!1s0x33abe34192f83859:0x4f5a525365b1136d!8m2!3d10.1086516!4d123.2706711!16s%2Fg%2F11k8fbgcgn!19sChIJWTj4kkHjqzMRbROxZVNSWk8?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJ2RKIhVJZqTMRMfhNLT7bECM",
@@ -137,6 +370,7 @@
         "competitors": [
             {
                 "name": "Mamas choice",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Mamas+choice/@10.119745199999999,123.2723203?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 128,
                 "rating": 4.3,
@@ -169,11 +403,46 @@
                 "reviews": 3,
                 "rating": 5,
                 "main_category": "Shao Kao "
+=======
+                "link": "https://www.google.com/maps/search/Mamas+choice/@10.119745199999999,123.2723203?authuser=0&hl=nl&entry=ttu",
+                "reviews": 128,
+                "rating": 4.3,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Cafe Saira",
+                "link": "https://www.google.com/maps/search/Cafe+Saira/@10.117167,123.2695592?authuser=0&hl=nl&entry=ttu",
+                "reviews": 52,
+                "rating": 4.1,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "PIZZARO",
+                "link": "https://www.google.com/maps/search/PIZZARO/@10.1177722,123.27114499999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 41,
+                "rating": 3.8,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "The Hide",
+                "link": "https://www.google.com/maps/search/The+Hide/@10.108767499999999,123.25436200000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 4,
+                "rating": 3.8,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Wawo's House Grill and Restobar",
+                "link": "https://www.google.com/maps/search/Wawo%27s+House+Grill+and+Restobar/@10.120296,123.27178110000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Gril"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": "107792665878214022295",
+<<<<<<< HEAD
             "name": "WAWO's House (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/107792665878214022295"
         },
@@ -181,16 +450,34 @@
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
+=======
+            "name": "WAWO's House (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107792665878214022295"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNoft8PThoWP78vCkvnWGJND7NbnqOSv76lCgF1=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 4.7,
         "workday_timing": "16:00-22:00",
         "closed_on": [
+<<<<<<< HEAD
             "Xing Qi Ri "
         ],
         "phone": "+63 917 802 9549",
         "address": "WAWO's House, Barba Subdivision Lamacan, Guihulngan City, 6214 Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/WAWO%27s+House/data=!4m7!3m6!1s0x33a95952858812d9:0x2310db3e2d4df831!8m2!3d10.1389001!4d123.2756324!16s%2Fg%2F11q1rx75qk!19sChIJ2RKIhVJZqTMRMfhNLT7bECM?authuser=0&hl=zh-TW&rclk=1"
+=======
+            "zondag"
+        ],
+        "phone": "+63 917 802 9549",
+        "address": "WAWO's House, Barba Subdivision Lamacan, Guihulngan City, 6214 Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/WAWO%27s+House/data=!4m7!3m6!1s0x33a95952858812d9:0x2310db3e2d4df831!8m2!3d10.1389001!4d123.2756324!16s%2Fg%2F11q1rx75qk!19sChIJ2RKIhVJZqTMRMfhNLT7bECM?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJr_B5tHXjqzMRrmiV4hFaotI",
@@ -201,6 +488,7 @@
         "competitors": [
             {
                 "name": "WAWO's House",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 35,
                 "rating": 4.7,
@@ -233,11 +521,46 @@
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Cha Xie Dian "
+=======
+                "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 34,
+                "rating": 4.7,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Panero Bakery and Cafe",
+                "link": "https://www.google.com/maps/search/Panero+Bakery+and+Cafe/@10.119921399999999,123.2710677?authuser=0&hl=nl&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Sebu Cha Milk Tea",
+                "link": "https://www.google.com/maps/search/Sebu+Cha+Milk+Tea/@10.1200044,123.2725794?authuser=0&hl=nl&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Afhaalrestaurants"
+            },
+            {
+                "name": "Eighth Cup",
+                "link": "https://www.google.com/maps/search/Eighth+Cup/@10.120381,123.26996319999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Mimo Milktea and more",
+                "link": "https://www.google.com/maps/search/Mimo+Milktea+and+more/@10.12515,123.26380830000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Theewinkel"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "MoPee & Co. (Ye Zhu )",
             "link": null
         },
@@ -245,14 +568,91 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "MoPee & Co. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPNW_o-GJeWDJbL3G45ekPBadL0u3ILrwItJMt=w426-h240-k-no",
+        "main_category": "Koffiebar",
+        "categories": [
+            "Koffiebar"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 4.8,
         "workday_timing": "09:00-20:00",
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "4799+F8M MoPee & Co., E Villegas St, Guihulngan City, Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/MoPee+%26+Co./data=!4m7!3m6!1s0x33abe375b479f0af:0xd2a25a11e29568ae!8m2!3d10.1187193!4d123.2683088!16s%2Fg%2F11rb4syfmy!19sChIJr_B5tHXjqzMRrmiV4hFaotI?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "4799+F8M MoPee & Co., E Villegas St, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MoPee+%26+Co./data=!4m7!3m6!1s0x33abe375b479f0af:0xd2a25a11e29568ae!8m2!3d10.1187193!4d123.2683088!16s%2Fg%2F11rb4syfmy!19sChIJr_B5tHXjqzMRrmiV4hFaotI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJu5T8tMbjqzMRJ_YCGSRnyMk",
+        "name": "Guilhulngan Tambayan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Mamas choice",
+                "link": "https://www.google.com/maps/search/Mamas+choice/@10.119745199999999,123.2723203?authuser=0&hl=nl&entry=ttu",
+                "reviews": 128,
+                "rating": 4.3,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Nilo's Eatery",
+                "link": "https://www.google.com/maps/search/Nilo%27s+Eatery/@10.1213231,123.2696456?authuser=0&hl=nl&entry=ttu",
+                "reviews": 25,
+                "rating": 4.5,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Insteagram Guihulngan",
+                "link": "https://www.google.com/maps/search/Insteagram+Guihulngan/@10.1181167,123.2689151?authuser=0&hl=nl&entry=ttu",
+                "reviews": 17,
+                "rating": 3.8,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Lucio's Resto Bar",
+                "link": "https://www.google.com/maps/search/Lucio%27s+Resto+Bar/@10.119152,123.2724645?authuser=0&hl=nl&entry=ttu",
+                "reviews": 9,
+                "rating": 4.2,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Ludy's Kitchen",
+                "link": "https://www.google.com/maps/search/Ludy%27s+Kitchen/@10.1162739,123.2693851?authuser=0&hl=nl&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Restaurant"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Guilhulngan Tambayan (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnmpWlPFv4syG6ppFEc1h92qCWm7Et5DlCcaAx=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.6,
+        "workday_timing": "15:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "47HG+XR3 Guilhulngan Tambayan, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Guilhulngan+Tambayan/data=!4m7!3m6!1s0x33abe3c6b4fc94bb:0xc9c867241902f627!8m2!3d10.1298796!4d123.2770407!16s%2Fg%2F11rsq8czd4!19sChIJu5T8tMbjqzMRJ_YCGSRnyMk?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJnxDKwqf9qzMRK7RUs1WEC7g",
@@ -263,6 +663,7 @@
         "competitors": [
             {
                 "name": "WAWO's House",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 35,
                 "rating": 4.7,
@@ -295,11 +696,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Can Ting "
+=======
+                "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 34,
+                "rating": 4.7,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Lucio's Resto Bar",
+                "link": "https://www.google.com/maps/search/Lucio%27s+Resto+Bar/@10.119152,123.2724645?authuser=0&hl=nl&entry=ttu",
+                "reviews": 9,
+                "rating": 4.2,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "HungryGrill Resto and Pub",
+                "link": "https://www.google.com/maps/search/HungryGrill+Resto+and+Pub/@10.096843699999999,123.26527399999998?authuser=0&hl=nl&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Guilhulngan Tambayan",
+                "link": "https://www.google.com/maps/search/Guilhulngan+Tambayan/@10.129879599999999,123.2770407?authuser=0&hl=nl&entry=ttu",
+                "reviews": 5,
+                "rating": 4.6,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Cooking Shack",
+                "link": "https://www.google.com/maps/search/Cooking+Shack/@10.134494499999999,123.27772970000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "The Hide (Ye Zhu )",
             "link": null
         },
@@ -307,14 +743,29 @@
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
+=======
+            "name": "The Hide (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXuPSj55FWwVqtyT0IioWS-h7FLLLjiyYUApYZ=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 3.8,
         "workday_timing": "08:00-20:30",
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "4753+GP5 The Hide, Guihulngan City, Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/The+Hide/data=!4m7!3m6!1s0x33abfda7c2ca109f:0xb80b8455b354b42b!8m2!3d10.1087675!4d123.254362!16s%2Fg%2F11nnt_5w0s!19sChIJnxDKwqf9qzMRK7RUs1WEC7g?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "4753+GP5 The Hide, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Hide/data=!4m7!3m6!1s0x33abfda7c2ca109f:0xb80b8455b354b42b!8m2!3d10.1087675!4d123.254362!16s%2Fg%2F11nnt_5w0s!19sChIJnxDKwqf9qzMRK7RUs1WEC7g?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJ5fqzKn_jqzMRtJOv6AUmRCo",
@@ -325,6 +776,7 @@
         "competitors": [
             {
                 "name": "Mamas choice",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Mamas+choice/@10.119745199999999,123.2723203?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 128,
                 "rating": 4.3,
@@ -357,11 +809,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Ka Pei Dian "
+=======
+                "link": "https://www.google.com/maps/search/Mamas+choice/@10.119745199999999,123.2723203?authuser=0&hl=nl&entry=ttu",
+                "reviews": 128,
+                "rating": 4.3,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "MoPee & Co.",
+                "link": "https://www.google.com/maps/search/MoPee+%26+Co./@10.1187193,123.2683088?authuser=0&hl=nl&entry=ttu",
+                "reviews": 8,
+                "rating": 4.8,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "The Hide",
+                "link": "https://www.google.com/maps/search/The+Hide/@10.108767499999999,123.25436200000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 4,
+                "rating": 3.8,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Golde Glo Bakeshop",
+                "link": "https://www.google.com/maps/search/Golde+Glo+Bakeshop/@10.1192464,123.2718716?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Bakkerij"
+            },
+            {
+                "name": "Chieng Coffee Shop",
+                "link": "https://www.google.com/maps/search/Chieng+Coffee+Shop/@10.1689983,123.28110269999998?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Koffiebar"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": "116285160711612155336",
+<<<<<<< HEAD
             "name": "Panero Bakery and Cafe (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/116285160711612155336"
         },
@@ -369,14 +856,29 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "Panero Bakery and Cafe (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116285160711612155336"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNhJyB9o5WBPpysvDh8RX8vvf_pPZuqpsuSf7l0=w408-h544-k-no",
+        "main_category": "Koffiebar",
+        "categories": [
+            "Koffiebar"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 3.7,
         "workday_timing": "09:00-17:00",
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "Panero Bakery and Cafe, Paterno coner ML, Manuel L. Quezon St, Guihulngan City, 6214 Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Panero+Bakery+and+Cafe/data=!4m7!3m6!1s0x33abe37f2ab3fae5:0x2a442605e8af93b4!8m2!3d10.1199214!4d123.2710677!16s%2Fg%2F11h_7m8762!19sChIJ5fqzKn_jqzMRtJOv6AUmRCo?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "Panero Bakery and Cafe, Paterno coner ML, Manuel L. Quezon St, Guihulngan City, 6214 Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Panero+Bakery+and+Cafe/data=!4m7!3m6!1s0x33abe37f2ab3fae5:0x2a442605e8af93b4!8m2!3d10.1199214!4d123.2710677!16s%2Fg%2F11h_7m8762!19sChIJ5fqzKn_jqzMRtJOv6AUmRCo?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJQXIcVbviqzMR3xo84zZNOOQ",
@@ -387,6 +889,7 @@
         "competitors": [
             {
                 "name": "Dulcet Skin And Sweets",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Dulcet+Skin+And+Sweets/@10.1215379,123.27141929999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
@@ -395,12 +898,23 @@
             {
                 "name": "C&N Purified Water Refilling Station",
                 "link": "https://www.google.com/maps/search/C%26N+Purified+Water+Refilling+Station/@10.139638699999999,123.24683499999999?authuser=0&hl=zh-TW&entry=ttu",
+=======
+                "link": "https://www.google.com/maps/search/Dulcet+Skin+And+Sweets/@10.1215379,123.27141929999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "C&N Purified Water Refilling Station",
+                "link": "https://www.google.com/maps/search/C%26N+Purified+Water+Refilling+Station/@10.139638699999999,123.24683499999999?authuser=0&hl=nl&entry=ttu",
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
                 "reviews": 0,
                 "rating": 0,
                 "main_category": ""
             },
             {
                 "name": "Aquasil refilling station",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Aquasil+refilling+station/@10.1864444,123.1314508?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
@@ -412,11 +926,25 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Shui Beng Gong Ying Shang "
+=======
+                "link": "https://www.google.com/maps/search/Aquasil+refilling+station/@10.1864444,123.1314508?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Waterzuiveringsbedrijf"
+            },
+            {
+                "name": "Benhekai Water Refilling Station",
+                "link": "https://www.google.com/maps/search/Benhekai+Water+Refilling+Station/@10.120700099999999,123.26930399999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Waterpompleverancier"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "AquaTek Water Refilling Station, Surf & Play Station, & Cafe' Clemente (Ye Zhu )",
             "link": null
         },
@@ -427,14 +955,94 @@
             "Ping Zhuang Shui Gong Ying Shang ",
             "Fei Lu Bin Can Ting ",
             "Wang Ba "
+=======
+            "name": "AquaTek Water Refilling Station, Surf & Play Station, & Cafe' Clemente (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNWpGlA0bEC47EWuF2BeSfljHzXt9q19DNi1UR1=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Leverancier van flessenwater",
+            "Filippijns restaurant",
+            "Internetcafe"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 5,
         "workday_timing": "08:00-18:00",
         "closed_on": "Open All Days",
         "phone": "+63 32 231 3058",
+<<<<<<< HEAD
         "address": "47GG+R9G AquaTek Water Refilling Station, Surf & Play Station, & Cafe' Clemente, Dakbayan sa Guihulngan, 6214 Lalawigan ng Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/AquaTek+Water+Refilling+Station,+Surf+%26+Play+Station,+%26+Cafe%27+Clemente/data=!4m7!3m6!1s0x33abe2bb551c7241:0xe4384d36e33c1adf!8m2!3d10.1270502!4d123.2759604!16s%2Fg%2F1w0h513w!19sChIJQXIcVbviqzMR3xo84zZNOOQ?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "47GG+R9G AquaTek Water Refilling Station, Surf & Play Station, & Cafe' Clemente, Guihulngan City, 6214 Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/AquaTek+Water+Refilling+Station,+Surf+%26+Play+Station,+%26+Cafe%27+Clemente/data=!4m7!3m6!1s0x33abe2bb551c7241:0xe4384d36e33c1adf!8m2!3d10.1270502!4d123.2759604!16s%2Fg%2F1w0h513w!19sChIJQXIcVbviqzMR3xo84zZNOOQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJgWOfbEjjqzMRZoPlo0nla_Q",
+        "name": "Sebu Cha Milk Tea",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Cafe Saira",
+                "link": "https://www.google.com/maps/search/Cafe+Saira/@10.117167,123.2695592?authuser=0&hl=nl&entry=ttu",
+                "reviews": 52,
+                "rating": 4.1,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "WAWO's House",
+                "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 34,
+                "rating": 4.7,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "MoPee & Co.",
+                "link": "https://www.google.com/maps/search/MoPee+%26+Co./@10.1187193,123.2683088?authuser=0&hl=nl&entry=ttu",
+                "reviews": 8,
+                "rating": 4.8,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Sho Sho - Kwek kwek, Tempura & Siomai",
+                "link": "https://www.google.com/maps/search/Sho+Sho+-+Kwek+kwek%2C+Tempura+%26+Siomai/@10.1192161,123.2738166?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Fastfood"
+            },
+            {
+                "name": "CheapSilog atbp.",
+                "link": "https://www.google.com/maps/search/CheapSilog+atbp./@10.122091300000001,123.27202399999997?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ontbijt"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sebu Cha Milk Tea (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1sHKDSNJ5UBxl4veWwNTzSYFfH7xmO6BxhvYS=w408-h544-k-no",
+        "main_category": "Afhaalrestaurants",
+        "categories": [
+            "Afhaalrestaurants"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "47CF+224 Sebu Cha Milk Tea, S Villegas St, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sebu+Cha+Milk+Tea/data=!4m7!3m6!1s0x33abe3486c9f6381:0xf46be549a3e58366!8m2!3d10.1200044!4d123.2725794!16s%2Fg%2F11s0svzhh7!19sChIJgWOfbEjjqzMRZoPlo0nla_Q?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJLYEowatVqTMR_eV5RfBbWUw",
@@ -445,6 +1053,7 @@
         "competitors": [
             {
                 "name": "Kenkies Cafe",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Kenkies+Cafe/@10.2199452,123.05308409999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
@@ -477,11 +1086,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Ka Pei Ting "
+=======
+                "link": "https://www.google.com/maps/search/Kenkies+Cafe/@10.2199452,123.05308409999998?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Kenkies cafe",
+                "link": "https://www.google.com/maps/search/Kenkies+cafe/@10.2140185,123.0345919?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Kapehan ni Lety",
+                "link": "https://www.google.com/maps/search/Kapehan+ni+Lety/@10.229618199999999,123.0877694?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Foodhub Cafe",
+                "link": "https://www.google.com/maps/search/Foodhub+Cafe/@10.2144061,123.03120980000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "crumbcoat cafe",
+                "link": "https://www.google.com/maps/search/crumbcoat+cafe/@10.202937,122.98998429999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Khim's Cafe (Ye Zhu )",
             "link": null
         },
@@ -489,11 +1133,21 @@
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
+=======
+            "name": "Khim's Cafe (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d1kfYYU2SG_pDWSVDaDaXw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=161.8302&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 5,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "54QH+M4P Khim's Cafe, Guihulngan - Isabela - Hinigaran Rd, Banwa sang Isabela, Negros Occidental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Khim%27s+Cafe/data=!4m7!3m6!1s0x33a955abc128812d:0x4c595bf04579e5fd!8m2!3d10.1892219!4d123.1278141!16s%2Fg%2F11s7tc52fk!19sChIJLYEowatVqTMR_eV5RfBbWUw?authuser=0&hl=zh-TW&rclk=1"
@@ -559,6 +1213,11 @@
         "address": "47CC+JH7 Dulcet Skin And Sweets, Guihulngan City, Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Dulcet+Skin+And+Sweets/data=!4m7!3m6!1s0x33abe3166b1eb227:0x1d5becdf807bdcf!8m2!3d10.1215379!4d123.2714193!16s%2Fg%2F11pkcmx7db!19sChIJJ7IeaxbjqzMRz70H-M2-1QE?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "54QH+M4P Khim's Cafe, Guihulngan - Isabela - Hinigaran Rd, Banwa sang Isabela, Negros Occidental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Khim%27s+Cafe/data=!4m7!3m6!1s0x33a955abc128812d:0x4c595bf04579e5fd!8m2!3d10.1892219!4d123.1278141!16s%2Fg%2F11s7tc52fk!19sChIJLYEowatVqTMR_eV5RfBbWUw?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJt6eOEULjqzMRWC3bJcC6_qM",
@@ -569,6 +1228,7 @@
         "competitors": [
             {
                 "name": "MoPee & Co.",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/MoPee+%26+Co./@10.1187193,123.2683088?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 8,
                 "rating": 4.8,
@@ -601,11 +1261,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Ka Pei Dian "
+=======
+                "link": "https://www.google.com/maps/search/MoPee+%26+Co./@10.1187193,123.2683088?authuser=0&hl=nl&entry=ttu",
+                "reviews": 8,
+                "rating": 4.8,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Panero Bakery and Cafe",
+                "link": "https://www.google.com/maps/search/Panero+Bakery+and+Cafe/@10.119921399999999,123.2710677?authuser=0&hl=nl&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Sebu Cha Milk Tea",
+                "link": "https://www.google.com/maps/search/Sebu+Cha+Milk+Tea/@10.1200044,123.2725794?authuser=0&hl=nl&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Afhaalrestaurants"
+            },
+            {
+                "name": "CheapSilog atbp.",
+                "link": "https://www.google.com/maps/search/CheapSilog+atbp./@10.122091300000001,123.27202399999997?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ontbijt"
+            },
+            {
+                "name": "Chieng Coffee Shop",
+                "link": "https://www.google.com/maps/search/Chieng+Coffee+Shop/@10.1689983,123.28110269999998?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Koffiebar"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Eighth Cup (Ye Zhu )",
             "link": null
         },
@@ -613,14 +1308,91 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "Eighth Cup (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lgPovocKH1OOeTPlT02yeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.81284&pitch=0&thumbfov=100",
+        "main_category": "Koffiebar",
+        "categories": [
+            "Koffiebar"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": 4,
         "workday_timing": "08:00-19:00",
         "closed_on": "Open All Days",
         "phone": "+63 917 187 4214",
+<<<<<<< HEAD
         "address": "47C9+5X4 Eighth Cup, Roxas St, Guihulngan City, Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Eighth+Cup/data=!4m7!3m6!1s0x33abe342118ea7b7:0xa3febac025db2d58!8m2!3d10.120381!4d123.2699632!16s%2Fg%2F11p4q788_q!19sChIJt6eOEULjqzMRWC3bJcC6_qM?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "47C9+5X4 Eighth Cup, Roxas St, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Eighth+Cup/data=!4m7!3m6!1s0x33abe342118ea7b7:0xa3febac025db2d58!8m2!3d10.120381!4d123.2699632!16s%2Fg%2F11p4q788_q!19sChIJt6eOEULjqzMRWC3bJcC6_qM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ7IeaxbjqzMRz70H-M2-1QE",
+        "name": "Dulcet Skin And Sweets",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Cafe Saira",
+                "link": "https://www.google.com/maps/search/Cafe+Saira/@10.117167,123.2695592?authuser=0&hl=nl&entry=ttu",
+                "reviews": 52,
+                "rating": 4.1,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "The Hide",
+                "link": "https://www.google.com/maps/search/The+Hide/@10.108767499999999,123.25436200000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 4,
+                "rating": 3.8,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Panero Bakery and Cafe",
+                "link": "https://www.google.com/maps/search/Panero+Bakery+and+Cafe/@10.119921399999999,123.2710677?authuser=0&hl=nl&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Eighth Cup",
+                "link": "https://www.google.com/maps/search/Eighth+Cup/@10.120381,123.26996319999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Chieng Coffee Shop",
+                "link": "https://www.google.com/maps/search/Chieng+Coffee+Shop/@10.1689983,123.28110269999998?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Koffiebar"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dulcet Skin And Sweets (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DqeRBCjHrClNXzVCnIlPkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=298.31653&pitch=0&thumbfov=100",
+        "main_category": "Koffiebar",
+        "categories": [
+            "Koffiebar"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+63 917 326 6469",
+        "address": "47CC+JH7 Dulcet Skin And Sweets, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dulcet+Skin+And+Sweets/data=!4m7!3m6!1s0x33abe3166b1eb227:0x1d5becdf807bdcf!8m2!3d10.1215379!4d123.2714193!16s%2Fg%2F11pkcmx7db!19sChIJJ7IeaxbjqzMRz70H-M2-1QE?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJs5T3B6XjqzMR7YgHpbJ_m0U",
@@ -632,6 +1404,7 @@
         "website": null,
         "owner": {
             "id": "117147571411113934118",
+<<<<<<< HEAD
             "name": "Cafe Javii (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/117147571411113934118"
         },
@@ -640,14 +1413,30 @@
         "categories": [
             "Ka Pei Ting ",
             "Can Ting "
+=======
+            "name": "Cafe Javii (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117147571411113934118"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tp3KAuF9HIvG7z3-Z-rECA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=288.7421&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": "+63 945 426 2955",
+<<<<<<< HEAD
         "address": "Cafe Javii, Roxas St, Guihulngan City, 6214 Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Cafe+Javii/data=!4m7!3m6!1s0x33abe3a507f794b3:0x459b7fb2a50788ed!8m2!3d10.1213977!4d123.2712531!16s%2Fg%2F11svk2r16m!19sChIJs5T3B6XjqzMR7YgHpbJ_m0U?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "Cafe Javii, Roxas St, Guihulngan City, 6214 Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Javii/data=!4m7!3m6!1s0x33abe3a507f794b3:0x459b7fb2a50788ed!8m2!3d10.1213977!4d123.2712531!16s%2Fg%2F11svk2r16m!19sChIJs5T3B6XjqzMR7YgHpbJ_m0U?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJIbHEjClZqTMRw-0-N-bS0yw",
@@ -658,6 +1447,7 @@
         "competitors": [
             {
                 "name": "Panero Bakery and Cafe",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Panero+Bakery+and+Cafe/@10.119921399999999,123.2710677?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 3,
                 "rating": 3.7,
@@ -690,11 +1480,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Zao Can "
+=======
+                "link": "https://www.google.com/maps/search/Panero+Bakery+and+Cafe/@10.119921399999999,123.2710677?authuser=0&hl=nl&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Eighth Cup",
+                "link": "https://www.google.com/maps/search/Eighth+Cup/@10.120381,123.26996319999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Dulcet Skin And Sweets",
+                "link": "https://www.google.com/maps/search/Dulcet+Skin+And+Sweets/@10.1215379,123.27141929999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "CyberPenguin Internet & Gaming",
+                "link": "https://www.google.com/maps/search/CyberPenguin+Internet+%26+Gaming/@10.11905,123.269906?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 1,
+                "main_category": "Internet"
+            },
+            {
+                "name": "CheapSilog atbp.",
+                "link": "https://www.google.com/maps/search/CheapSilog+atbp./@10.122091300000001,123.27202399999997?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ontbijt"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Chieng Coffee Shop (Ye Zhu )",
             "link": null
         },
@@ -702,14 +1527,29 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "Chieng Coffee Shop (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oG8vda7WAQ_rYpP4WHX5NQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=29.526594&pitch=0&thumbfov=100",
+        "main_category": "Koffiebar",
+        "categories": [
+            "Koffiebar"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "Chieng Coffee Shop, Bitoclan Bridge, Guihulngan - Isabela - Hinigaran Rd, Guihulngan City, Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Chieng+Coffee+Shop/data=!4m7!3m6!1s0x33a959298cc4b121:0x2cd3d2e6373eedc3!8m2!3d10.1689983!4d123.2811027!16s%2Fg%2F11tj600zlh!19sChIJIbHEjClZqTMRw-0-N-bS0yw?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "Chieng Coffee Shop, Bitoclan Bridge, Guihulngan - Isabela - Hinigaran Rd, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chieng+Coffee+Shop/data=!4m7!3m6!1s0x33a959298cc4b121:0x2cd3d2e6373eedc3!8m2!3d10.1689983!4d123.2811027!16s%2Fg%2F11tj600zlh!19sChIJIbHEjClZqTMRw-0-N-bS0yw?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJ8waCQ5b9qzMRWGTntm-wZVo",
@@ -720,6 +1560,7 @@
         "competitors": [
             {
                 "name": "WAWO's House",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 35,
                 "rating": 4.7,
@@ -752,11 +1593,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Can Ting "
+=======
+                "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 34,
+                "rating": 4.7,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "MoPee & Co.",
+                "link": "https://www.google.com/maps/search/MoPee+%26+Co./@10.1187193,123.2683088?authuser=0&hl=nl&entry=ttu",
+                "reviews": 8,
+                "rating": 4.8,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Mimo Milktea and more",
+                "link": "https://www.google.com/maps/search/Mimo+Milktea+and+more/@10.12515,123.26380830000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Theewinkel"
+            },
+            {
+                "name": "Chieng Coffee Shop",
+                "link": "https://www.google.com/maps/search/Chieng+Coffee+Shop/@10.1689983,123.28110269999998?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Onel's Eatery",
+                "link": "https://www.google.com/maps/search/Onel%27s+Eatery/@10.1222388,123.2726706?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "Mansion ni Vonel (Ye Zhu )",
             "link": null
         },
@@ -764,11 +1640,21 @@
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
+=======
+            "name": "Mansion ni Vonel (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Koffiebar",
+        "categories": [
+            "Koffiebar"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "36MW+9HV Mansion ni Vonel, Guihulngan City, Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Mansion+ni+Vonel/data=!4m7!3m6!1s0x33abfd96438206f3:0x5a65b06fb6e76458!8m2!3d10.0834751!4d123.2464156!16s%2Fg%2F11try27tvn!19sChIJ8waCQ5b9qzMRWGTntm-wZVo?authuser=0&hl=zh-TW&rclk=1"
@@ -827,6 +1713,11 @@
         "address": "57HM+597 JZ Internet Cafe, Western Nautical Hwy, Dakbayan sa Guihulngan, 6214 Lalawigan ng Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/JZ+Internet+Cafe/data=!4m7!3m6!1s0x33a959b5a8918d11:0x23bf9dcf4e75633!8m2!3d10.1779116!4d123.2834254!16s%2Fg%2F11f40msm2x!19sChIJEY2RqLVZqTMRM1bn9Nz5OwI?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "36MW+9HV Mansion ni Vonel, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mansion+ni+Vonel/data=!4m7!3m6!1s0x33abfd96438206f3:0x5a65b06fb6e76458!8m2!3d10.0834751!4d123.2464156!16s%2Fg%2F11try27tvn!19sChIJ8waCQ5b9qzMRWGTntm-wZVo?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJY52bNytZqTMRSOpuQk6TH-M",
@@ -837,6 +1728,7 @@
         "competitors": [
             {
                 "name": "WAWO's House",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 35,
                 "rating": 4.7,
@@ -855,11 +1747,32 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Can Ting "
+=======
+                "link": "https://www.google.com/maps/search/WAWO%27s+House/@10.138900099999999,123.27563239999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 34,
+                "rating": 4.7,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Seaside Surfers Internet Cafe",
+                "link": "https://www.google.com/maps/search/Seaside+Surfers+Internet+Cafe/@10.118070999999999,123.270016?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Internetcafe"
+            },
+            {
+                "name": "Twin N One",
+                "link": "https://www.google.com/maps/search/Twin+N+One/@10.1188867,123.27107660000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "AndzWIFI (Ye Zhu )",
             "link": null
         },
@@ -867,14 +1780,84 @@
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
+=======
+            "name": "AndzWIFI (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D-P9nwpaqb7aKpcYuaHOJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=56.700054&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "57GM+79H AndzWIFI, Guihulngan City, Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/AndzWIFI/data=!4m7!3m6!1s0x33a9592b379b9d63:0xe31f934e426eea48!8m2!3d10.1756909!4d123.2834828!16s%2Fg%2F11q_56269m!19sChIJY52bNytZqTMRSOpuQk6TH-M?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "57GM+79H AndzWIFI, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/AndzWIFI/data=!4m7!3m6!1s0x33a9592b379b9d63:0xe31f934e426eea48!8m2!3d10.1756909!4d123.2834828!16s%2Fg%2F11q_56269m!19sChIJY52bNytZqTMRSOpuQk6TH-M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEY2RqLVZqTMRM1bn9Nz5OwI",
+        "name": "JZ Internet Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "CafeLink",
+                "link": "https://www.google.com/maps/search/CafeLink/@10.2436264,123.31965799999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Internetcafe"
+            },
+            {
+                "name": "AndzWIFI",
+                "link": "https://www.google.com/maps/search/AndzWIFI/@10.1756909,123.2834828?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "MEGA Internet Cafe and Services",
+                "link": "https://www.google.com/maps/search/MEGA+Internet+Cafe+and+Services/@10.1832304,123.213851?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Internetcafe"
+            },
+            {
+                "name": "JOC FOODS",
+                "link": "https://www.google.com/maps/search/JOC+FOODS/@10.119494999999999,123.27163399999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "JZ Internet Cafe (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jXuL5eYQNPiGbvV_1dbeHQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=150.0599&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "57HM+597 JZ Internet Cafe, Western Nautical Hwy, Guihulngan City, 6214 Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/JZ+Internet+Cafe/data=!4m7!3m6!1s0x33a959b5a8918d11:0x23bf9dcf4e75633!8m2!3d10.1779116!4d123.2834254!16s%2Fg%2F11f40msm2x!19sChIJEY2RqLVZqTMRM1bn9Nz5OwI?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     },
     {
         "place_id": "ChIJu1ud68fiqzMRAGNB_Kz4YJU",
@@ -885,6 +1868,7 @@
         "competitors": [
             {
                 "name": "Cafe Saira",
+<<<<<<< HEAD
                 "link": "https://www.google.com/maps/search/Cafe+Saira/@10.117167,123.2695592?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 52,
                 "rating": 4.1,
@@ -917,11 +1901,46 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Can Ting "
+=======
+                "link": "https://www.google.com/maps/search/Cafe+Saira/@10.117167,123.2695592?authuser=0&hl=nl&entry=ttu",
+                "reviews": 52,
+                "rating": 4.1,
+                "main_category": "Restaurant"
+            },
+            {
+                "name": "Panero Bakery and Cafe",
+                "link": "https://www.google.com/maps/search/Panero+Bakery+and+Cafe/@10.119921399999999,123.2710677?authuser=0&hl=nl&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "Bake Away Bakeshop",
+                "link": "https://www.google.com/maps/search/Bake+Away+Bakeshop/@10.1201856,123.27110010000001?authuser=0&hl=nl&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Bakkerij"
+            },
+            {
+                "name": "Dulcet Skin And Sweets",
+                "link": "https://www.google.com/maps/search/Dulcet+Skin+And+Sweets/@10.1215379,123.27141929999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Koffiebar"
+            },
+            {
+                "name": "JOC FOODS",
+                "link": "https://www.google.com/maps/search/JOC+FOODS/@10.119494999999999,123.27163399999999?authuser=0&hl=nl&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Restaurant"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
             }
         ],
         "website": null,
         "owner": {
             "id": null,
+<<<<<<< HEAD
             "name": "JABEE BAKESHOP (Ye Zhu )",
             "link": null
         },
@@ -929,13 +1948,28 @@
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
+=======
+            "name": "JABEE BAKESHOP (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WwOs3cVZjSS16c3jvQ7dmw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=325.4917&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
+<<<<<<< HEAD
         "address": "479C+3FG JABEE BAKESHOP, Ian's Place, Hiway, Oriental, Guihulngan City, Negros Oriental, Fei Lu Bin ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/JABEE+BAKESHOP/data=!4m7!3m6!1s0x33abe2c7eb9d5bbb:0x9560f8acfc416300!8m2!3d10.1176822!4d123.2711941!16s%2Fg%2F11g70wvpy_!19sChIJu1ud68fiqzMRAGNB_Kz4YJU?authuser=0&hl=zh-TW&rclk=1"
+=======
+        "address": "479C+3FG JABEE BAKESHOP, Ian's Place, Hiway, Oriental, Guihulngan City, Negros Oriental, Filipijnen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/JABEE+BAKESHOP/data=!4m7!3m6!1s0x33abe2c7eb9d5bbb:0x9560f8acfc416300!8m2!3d10.1176822!4d123.2711941!16s%2Fg%2F11g70wvpy_!19sChIJu1ud68fiqzMRAGNB_Kz4YJU?authuser=0&hl=nl&rclk=1"
+>>>>>>> 46b2deeb7cb297d228e4459498d9e5545817a850
     }
 ]
