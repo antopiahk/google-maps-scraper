@@ -37,8 +37,8 @@
             {
                 "name": "So.High Coffee Bar",
                 "link": "https://www.google.com/maps/search/So.High+Coffee+Bar/@22.285255,114.14227799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.1,
+                "reviews": 18,
+                "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             }
         ],
@@ -102,10 +102,6 @@
             {
                 "keyword": "Yan San Wen Yu ",
                 "count": 3
-            },
-            {
-                "keyword": "Mao ",
-                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Hashtag/data=!4m7!3m6!1s0x3403ff53f217e7ab:0x7db2ec4b9be00871!8m2!3d22.2852803!4d114.1404032!16s%2Fg%2F11h0vsng94!19sChIJq-cX8lP_AzQRcQjgm0vssn0?authuser=0&hl=zh-TW&rclk=1"
@@ -115,12 +111,12 @@
         "name": "The Cofftea Shop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 141,
+        "reviews": 142,
         "competitors": [
             {
                 "name": "Blend & Grind Kennedy Town",
                 "link": "https://www.google.com/maps/search/Blend+%26+Grind+Kennedy+Town/@22.2832708,114.1284577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 328,
+                "reviews": 336,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -410,6 +406,61 @@
         "link": "https://www.google.com/maps/place/ICE+CHEERS+%2F+Bestbite+Cafe/data=!4m7!3m6!1s0xfdbbdac6ffc4ca3:0xa514917a3738c7c4!8m2!3d6.771813!4d-1.6456827!16s%2Fg%2F11qnbrxz9r!19sChIJo0z8b6y92w8RxMc4N3qRFKU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJiVdfUtxxATQRW3u2Vjidj6c",
+        "name": "Feng Da Ka Pei ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "competitors": [
+            {
+                "name": "CuppaCoffee Taipa",
+                "link": "https://www.google.com/maps/search/CuppaCoffee+Taipa/@22.1565723,113.55958570000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 140,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Bidas Bran Dessert Coffee",
+                "link": "https://www.google.com/maps/search/Bidas+Bran+Dessert+Coffee/@22.1539218,113.5569276?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 94,
+                "rating": 3.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "ROOFTOP MACAU",
+                "link": "https://www.google.com/maps/search/ROOFTOP+MACAU/@22.1529462,113.55727460000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 40,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Hideout Coffee Taipa",
+                "link": "https://www.google.com/maps/search/Hideout+Coffee+Taipa/@22.1540401,113.5579919?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://fongdacoffee.hk/",
+        "owner": {
+            "id": "102369831495254287631",
+            "name": "Feng Da Ka Pei  (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102369831495254287631"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMs5GCswXdxRuyfI2U82xerUdVxLI-c4Z9gT_q5=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.9,
+        "workday_timing": "12:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+853 6388 5018",
+        "address": "Ao Men Bing Fang Xie Xiang 22Hao Feng Da Ka Pei ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%E8%9C%82%E5%A4%A7%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x340171dc525f5789:0xa78f9d3856b67b5b!8m2!3d22.1530889!4d113.5577365!16s%2Fg%2F11j1c_qqgg!19sChIJiVdfUtxxATQRW3u2Vjidj6c?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJQxNQuLmX2w8RR7U_QUnYbjM",
         "name": "Ihlas internet cafe",
         "description": null,
@@ -481,7 +532,7 @@
             {
                 "name": "Ike's Cafe and Grill",
                 "link": "https://www.google.com/maps/search/Ike%E2%80%99s+Cafe+and+Grill/@6.7016805999999995,-1.6281002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3466,
+                "reviews": 3468,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -664,7 +715,7 @@
                 "main_category": "Can Ting "
             }
         ],
-        "website": "https://vicbaboos-cafe.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://vicbaboos-cafe.business.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": "103952311997704899688",
             "name": "Vicbaboos Cafe (Ye Zhu )",
@@ -682,105 +733,6 @@
         "address": "Vicbaboos Cafe, Opp. Future Impex, Kumasi, Jia Na ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Vicbaboos+Cafe/data=!4m7!3m6!1s0xfdb97b7919bba2f:0xc46bf2066ded05dd!8m2!3d6.6918767!4d-1.6287204!16s%2Fg%2F11nx66znw6!19sChIJL7qbkbeX2w8R3QXtbQbya8Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJebInrh0JBDQRDhGwPudBQlk",
-        "name": "BOUNDLESS by REACTION (Tai Po)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 134,
-        "competitors": [
-            {
-                "name": "Chi Cha chiyoubo",
-                "link": "https://www.google.com/maps/search/%E5%96%AB%E8%8C%B6%E3%81%A1%E3%82%87%E3%81%86%E3%81%BC/@22.4516048,114.1708791?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 62,
-                "rating": 3.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Tang Yuan ",
-                "link": "https://www.google.com/maps/search/%E5%94%90%E6%BA%90/@22.4540065,114.1680648?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
-                "rating": 4.1,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "BOUNDLESS by REACTION (Tsuen Wan)",
-                "link": "https://www.google.com/maps/search/BOUNDLESS+by+REACTION+%28Tsuen+Wan%29/@22.3701354,114.1143099?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
-                "rating": 4.1,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee Lover Taipo",
-                "link": "https://www.google.com/maps/search/Coffee+Lover+Taipo/@22.452051299999997,114.1647685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Underground Rise",
-                "link": "https://www.google.com/maps/search/Underground+Rise/@22.452941199999998,114.1627462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "111231207859959267494",
-            "name": "BOUNDLESS by REACTION (Tai Po) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111231207859959267494"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM-DNHcGPx8E2f7Zh0Tbs44YW58EIzhiYsCZgEp=w408-h272-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "09:00-21:30",
-        "closed_on": "Open All Days",
-        "phone": "2365 1888",
-        "address": "Da Bu  Ting Kok Rd, 15Hao BOUNDLESS by REACTION (Tai Po)Di Xia CPu ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 14
-            },
-            {
-                "keyword": "tiramisu",
-                "count": 8
-            },
-            {
-                "keyword": "Gou ",
-                "count": 6
-            },
-            {
-                "keyword": "Shu Tiao ",
-                "count": 6
-            },
-            {
-                "keyword": "Can ",
-                "count": 6
-            },
-            {
-                "keyword": "qr code",
-                "count": 5
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 5
-            },
-            {
-                "keyword": "Tian ",
-                "count": 5
-            },
-            {
-                "keyword": "espresso",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/BOUNDLESS+by+REACTION+%28Tai+Po%29/data=!4m7!3m6!1s0x3404091dae27b279:0x594241e73eb0110e!8m2!3d22.4520883!4d114.1651496!16s%2Fg%2F11n__1qd3j!19sChIJebInrh0JBDQRDhGwPudBQlk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJjyBSm1OX2w8R4PyHSYz1OhA",
@@ -907,8 +859,8 @@
         "rating": 3.8,
         "workday_timing": "08:00-17:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Coke Stand, Kumasi, Jia Na ",
@@ -1013,6 +965,65 @@
         "link": "https://www.google.com/maps/place/Out+Of+Office/data=!4m7!3m6!1s0x340401eea47fefdb:0x82ad0c1a734ae9d1!8m2!3d22.3194336!4d114.1868399!16s%2Fg%2F11rqwwt29j!19sChIJ2-9_pO4BBDQR0elKcxoMrYI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJNwVstsEJBDQRXZA0RzhSzo4",
+        "name": "Tamora",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 55,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "114351093089570428974",
+            "name": "Tamora (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114351093089570428974"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJP8qTRzosUwAE20q5rlco_76GZLrJpAQTc1mC=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 3,
+        "workday_timing": "11:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "F6FM+CM Tamora, Ting Kok",
+        "review_keywords": [
+            {
+                "keyword": "latte",
+                "count": 6
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 5
+            },
+            {
+                "keyword": "Chong Wu ",
+                "count": 4
+            },
+            {
+                "keyword": "matcha",
+                "count": 4
+            },
+            {
+                "keyword": "Cha Bao ",
+                "count": 3
+            },
+            {
+                "keyword": "Zhuang Xiu ",
+                "count": 3
+            },
+            {
+                "keyword": "Di Ban ",
+                "count": 3
+            },
+            {
+                "keyword": "Bei ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tamora/data=!4m7!3m6!1s0x340409c1b66c0537:0x8ece52384734905d!8m2!3d22.4735625!4d114.2341875!16s%2Fg%2F11l2fd12dk!19sChIJNwVstsEJBDQRXZA0RzhSzo4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJu0Vg8yCW2w8R4v8fNSBrGuA",
         "name": "mac-geez internet cafe",
         "description": null,
@@ -1068,57 +1079,6 @@
         "address": "P9WH+4QP mac-geez internet cafe, Mampong Rd, Kumasi, Jia Na ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/mac-geez+internet+cafe/data=!4m7!3m6!1s0xfdb9620f36045bb:0xe01a6b20351fffe2!8m2!3d6.7453499!4d-1.6205376!16s%2Fg%2F11b6zwbmm3!19sChIJu0Vg8yCW2w8R4v8fNSBrGuA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJNwVstsEJBDQRXZA0RzhSzo4",
-        "name": "Tamora",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 52,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "114351093089570428974",
-            "name": "Tamora (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114351093089570428974"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJP8qTRzosUwAE20q5rlco_76GZLrJpAQTc1mC=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 3.1,
-        "workday_timing": "11:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "F6FM+CM Tamora, Ting Kok",
-        "review_keywords": [
-            {
-                "keyword": "latte",
-                "count": 6
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 5
-            },
-            {
-                "keyword": "Chong Wu ",
-                "count": 4
-            },
-            {
-                "keyword": "matcha",
-                "count": 4
-            },
-            {
-                "keyword": "Cha Bao ",
-                "count": 3
-            },
-            {
-                "keyword": "Bei ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Tamora/data=!4m7!3m6!1s0x340409c1b66c0537:0x8ece52384734905d!8m2!3d22.4735625!4d114.2341875!16s%2Fg%2F11l2fd12dk!19sChIJNwVstsEJBDQRXZA0RzhSzo4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJaWcdbZaW2w8RlnIiIg3e3_M",
@@ -1719,6 +1679,35 @@
         "link": "https://www.google.com/maps/place/Express+Foods/data=!4m7!3m6!1s0xfdb95c871c8850d:0xc552204072917140!8m2!3d6.6700283!4d-1.5878076!16s%2Fg%2F11h6r32238!19sChIJDYXIcciV2w8RQHGRckAgUsU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJC0Dtnsq92w8RccaanEj4bds",
+        "name": "Fauzia Koko Special",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "102638485962213415294",
+            "name": "Fauzia Koko Special (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102638485962213415294"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4vqIXnDHFCAN5gsa-UGhxhjeZHGo5hstL5Ojs=w408-h906-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Mei Shi Guang Chang "
+        ],
+        "rating": 4,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": [
+            "Xing Qi Liu "
+        ],
+        "phone": "+233 24 407 9131",
+        "address": "Q979+2C5 Fauzia Koko Special, Kwapra, Kumasi, Jia Na ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fauzia+Koko+Special/data=!4m7!3m6!1s0xfdbbdca9eed400b:0xdb6df8489c9ac671!8m2!3d6.7633889!4d-1.6313026!16s%2Fg%2F11vdq3rwhc!19sChIJC0Dtnsq92w8RccaanEj4bds?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJYy2RvUGW2w8RdMhJ_Fy29sg",
         "name": "Kofi Frimpong",
         "description": null,
@@ -1841,35 +1830,6 @@
         "address": "M9WX+63H ABK Cafe, Ethiopia, Jia Na ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/ABK+Cafe/data=!4m7!3m6!1s0xfdb973310dadec7:0xf55c975ce10d4a89!8m2!3d6.6955694!4d-1.6022737!16s%2Fg%2F11ptqdjb2p!19sChIJx97aEDOX2w8RiUoN4VyXXPU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJC0Dtnsq92w8RccaanEj4bds",
-        "name": "Fauzia Koko Special",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "102638485962213415294",
-            "name": "Fauzia Koko Special (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102638485962213415294"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4vqIXnDHFCAN5gsa-UGhxhjeZHGo5hstL5Ojs=w408-h906-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Mei Shi Guang Chang "
-        ],
-        "rating": 4,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": [
-            "Xing Qi Liu "
-        ],
-        "phone": "+233 24 407 9131",
-        "address": "Q979+2C5 Fauzia Koko Special, Kwapra, Kumasi, Jia Na ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Fauzia+Koko+Special/data=!4m7!3m6!1s0xfdbbdca9eed400b:0xdb6df8489c9ac671!8m2!3d6.7633889!4d-1.6313026!16s%2Fg%2F11vdq3rwhc!19sChIJC0Dtnsq92w8RccaanEj4bds?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJE0LmBfCV2w8RS-AZDwAo-uM",
@@ -2067,6 +2027,32 @@
         "link": "https://www.google.com/maps/place/Incotel+Computers+Ltd,+Kumasi/data=!4m7!3m6!1s0xfdb9684a4207b2f:0x5411950bbc79ab32!8m2!3d6.6942787!4d-1.6036063!16s%2Fg%2F11cp5rh8pw!19sChIJL3sgpISW2w8RMqt5vAuVEVQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJI6bHlBCX2w8RKtwY2sE7nUY",
+        "name": "Chillings joint",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chillings joint (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "P98P+MXC Chillings joint, Kumasi, Jia Na ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chillings+joint/data=!4m7!3m6!1s0xfdb971094c7a623:0x469d3bc1da18dc2a!8m2!3d6.7165676!4d-1.6119427!16s%2Fg%2F11ks2tby16!19sChIJI6bHlBCX2w8RKtwY2sE7nUY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJa404dcqX2w8R7zsaDlShCFk",
         "name": "Jacob's coffee shop",
         "description": null,
@@ -2129,32 +2115,6 @@
         "link": "https://www.google.com/maps/place/Jacob%27s+coffee+shop/data=!4m7!3m6!1s0xfdb97ca75388d6b:0x5908a1540e1a3bef!8m2!3d6.7058009!4d-1.6092694!16s%2Fg%2F11k40l0zbq!19sChIJa404dcqX2w8R7zsaDlShCFk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJI6bHlBCX2w8RKtwY2sE7nUY",
-        "name": "Chillings joint",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Chillings joint (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "P98P+MXC Chillings joint, Kumasi, Jia Na ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Chillings+joint/data=!4m7!3m6!1s0xfdb971094c7a623:0x469d3bc1da18dc2a!8m2!3d6.7165676!4d-1.6119427!16s%2Fg%2F11ks2tby16!19sChIJI6bHlBCX2w8RKtwY2sE7nUY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJT6YtDBCX2w8RP4lXifECpLk",
         "name": "Aunt Julie's Breakfast Cafe",
         "description": null,
@@ -2171,8 +2131,8 @@
             {
                 "name": "Aunty's Inn",
                 "link": "https://www.google.com/maps/search/Aunty%27s+Inn/@6.7189084999999995,-1.5602254999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.3,
+                "reviews": 10,
+                "rating": 4.2,
                 "main_category": "Can Ting "
             },
             {
@@ -2460,7 +2420,7 @@
             {
                 "name": "Ike's Cafe and Grill",
                 "link": "https://www.google.com/maps/search/Ike%E2%80%99s+Cafe+and+Grill/@6.7016805999999995,-1.6281002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3466,
+                "reviews": 3468,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
