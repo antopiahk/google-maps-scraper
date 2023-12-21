@@ -4,7 +4,7 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 436,
+        "reviews": 437,
         "competitors": [
             {
                 "name": "McDonald's La Jaille 1",
@@ -324,7 +324,9 @@
         ],
         "rating": 4.9,
         "workday_timing": "08:15-18:45",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+590 590 25 39 26",
         "address": "DE LA GRAINE AU BOCAL, Residence Beauregard, Bat A Marina de, Gourbeyre 97113Gua Di Luo Pu ",
         "review_keywords": [
@@ -334,75 +336,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/DE+LA+GRAINE+AU+BOCAL/data=!4m7!3m6!1s0x8c149fca43f757bb:0x8342842ee8870f8!8m2!3d15.9837086!4d-61.7157204!16s%2Fg%2F11t0vz6m3w!19sChIJu1f3Q8qfFIwR-HCI7kIoNAg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJr2ivF7WfFIwRZlN-MJ09uJg",
-        "name": "Jah Kingdom Shop",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 10,
-        "competitors": [
-            {
-                "name": "Tacos Legend Basse-Terre",
-                "link": "https://www.google.com/maps/search/Tacos+Legend+Basse-Terre/@15.9946577,-61.729612200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 3.1,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "GWADMIX JUICE BAR",
-                "link": "https://www.google.com/maps/search/GWADMIX+JUICE+BAR/@16.000360999999998,-61.7189853?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 34,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Hu Die Yuan ",
-                "link": "https://www.google.com/maps/search/%E8%9D%B4%E8%9D%B6%E5%9C%92/@15.9940099,-61.7261047?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
-                "rating": 4.4,
-                "main_category": "Zhong Guo Cai "
-            },
-            {
-                "name": "Pekin Restaurant",
-                "link": "https://www.google.com/maps/search/Pekin+Restaurant/@15.9928314,-61.727775599999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.4,
-                "main_category": "Zhong Guo Cai "
-            },
-            {
-                "name": "Kafe Mousse",
-                "link": "https://www.google.com/maps/search/Kaf%C3%A9+Mousse/@15.993854200000001,-61.7218157?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 3.8,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://www.facebook.com/JAH-Kingdom-SHOP-291637707564690/",
-        "owner": {
-            "id": null,
-            "name": "Jah Kingdom Shop (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO70UcbXbC11I4hKzIoiekbeRMt3iq5geyC31A9=w408-h544-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 3.9,
-        "workday_timing": "09:00-17:00, 19:00-22:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+590 690 76 72 07",
-        "address": "X7VC+WV8 Jah Kingdom Shop, Rue Ali Tur, Basse-Terre 97100Gua Di Luo Pu ",
-        "review_keywords": [
-            {
-                "keyword": "Yu ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Jah+Kingdom+Shop/data=!4m7!3m6!1s0x8c149fb517af68af:0x98b83d9d307e5366!8m2!3d15.9947918!4d-61.7277918!16s%2Fg%2F11gxslkz15!19sChIJr2ivF7WfFIwRZlN-MJ09uJg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ8SLh7GefFIwRdWiU5rwvZsQ",
@@ -552,7 +485,7 @@
             },
             {
                 "name": "A.G.COM",
-                "link": "https://www.google.com/maps/search/A.G.COM/@16.011249,-61.711227900000004?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/A.G.COM/@16.0112828,-61.71123060000001?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Qing Jie She Bei Gong Ying Shang "
@@ -603,7 +536,7 @@
         "is_spending_on_ads": false,
         "reviews": 3,
         "competitors": [],
-        "website": "https://azen-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+        "website": "https://azen-restaurant.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
         "owner": {
             "id": "118379509679589085369",
             "name": "azen restaurant (Ye Zhu )",
@@ -640,8 +573,8 @@
             {
                 "name": "Pizza Delice",
                 "link": "https://www.google.com/maps/search/Pizza+D%C3%A9lice/@15.9998646,-61.721800599999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
-                "rating": 4.1,
+                "reviews": 53,
+                "rating": 4,
                 "main_category": "Can Ting "
             },
             {
@@ -686,77 +619,15 @@
         "link": "https://www.google.com/maps/place/Saveur+nature+drive/data=!4m7!3m6!1s0x8c149f5d014070a9:0xbcab505bf4a2906e!8m2!3d15.9997686!4d-61.7218415!16s%2Fg%2F11t288zcfj!19sChIJqXBAAV2fFIwRbpCi9FtQq7w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJYXq6OwufFIwRik_KX_DvPsQ",
-        "name": "Restaurant Basse Terre Guadeloupe - Le Studio",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Le Tablier du Chef",
-                "link": "https://www.google.com/maps/search/Le+Tablier+du+Chef/@15.9966715,-61.7312659?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
-                "rating": 4.4,
-                "main_category": "Gao Ji Fa Shi Liao Li "
-            },
-            {
-                "name": "L Estrade De Charline",
-                "link": "https://www.google.com/maps/search/L+Estrade+De+Charline/@16.0148008,-61.71698059999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Kowai",
-                "link": "https://www.google.com/maps/search/Kowai/@15.993758999999999,-61.7253144?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Pekin Restaurant",
-                "link": "https://www.google.com/maps/search/Pekin+Restaurant/@15.9928314,-61.727775599999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.4,
-                "main_category": "Zhong Guo Cai "
-            },
-            {
-                "name": "Le Canton",
-                "link": "https://www.google.com/maps/search/Le+Canton/@15.994423,-61.72987429999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.7,
-                "main_category": "Ya Zhou Liao Li "
-            }
-        ],
-        "website": "https://restaurant-basse-terre-guadeloupe.com/",
-        "owner": {
-            "id": null,
-            "name": "Restaurant Basse Terre Guadeloupe - Le Studio (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMt1QyxGcEAMqX2Ijc72_Jg6DVSWHP1D3nXOrrf=w408-h246-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+590 590 86 20 84",
-        "address": "Restaurant Basse Terre Guadeloupe - Le Studio, 10 97100, Rue Lardenoy, Basse-Terre, Gua Di Luo Pu ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Restaurant+Basse+Terre+Guadeloupe+-+Le+Studio/data=!4m7!3m6!1s0x8c149f0b3bba7a61:0xc43eeff05fca4f8a!8m2!3d15.9935718!4d-61.7253327!16s%2Fg%2F11fmbdhj72!19sChIJYXq6OwufFIwRik_KX_DvPsQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJU9MGy8qfFIwR_qR6iFqGHaI",
         "name": "Super U",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 581,
+        "reviews": 582,
         "competitors": [
             {
                 "name": "Super U et Drive",
-                "link": "https://www.google.com/maps/search/Super+U+et+Drive/@16.012758899999998,-61.7436254?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Super+U+et+Drive/@16.01213,-61.74443?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 379,
                 "rating": 3.7,
                 "main_category": "Chao Ji Shi Chang "
@@ -764,8 +635,8 @@
             {
                 "name": "Super U Supermarket",
                 "link": "https://www.google.com/maps/search/Super+U+Supermarket/@16.242321,-61.534426599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 3.6,
+                "reviews": 145,
+                "rating": 3.7,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -822,11 +693,11 @@
                 "count": 3
             },
             {
-                "keyword": "Xuan Ze ",
+                "keyword": "Zhu Yi ",
                 "count": 3
             },
             {
-                "keyword": "Zhu Yi ",
+                "keyword": "Xuan Ze ",
                 "count": 3
             },
             {
@@ -1175,8 +1046,8 @@
         "rating": 4.7,
         "workday_timing": "11:00-15:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+590 590 86 12 47",
         "address": "SALAD & JUICE BAR, 14 Rue du Dr Pitat Basse-Terre GP 97100, Rue du Dr Pitat, Basse-Terre, Gua Di Luo Pu ",
@@ -1230,70 +1101,6 @@
         "address": "Bokit et Boisson, 1, 97100 Boulevard Felix Eboue, Basse-Terre, Gua Di Luo Pu ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Bokit+et+Boisson/data=!4m7!3m6!1s0x8c149fec77b0bc5b:0x8488f04e54223123!8m2!3d15.9914953!4d-61.7285715!16s%2Fg%2F11j0sflr1l!19sChIJW7ywd-yfFIwRIzEiVE7wiIQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ71g27H2fFIwRNTurPzqWEJo",
-        "name": "David Vignau - Maitre Chocolatier Patissier Basse-Terre",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 12,
-        "competitors": [
-            {
-                "name": "David Vignau - Maitre Chocolatier Patissier Jarry",
-                "link": "https://www.google.com/maps/search/David+Vignau+-+Ma%C3%AEtre+Chocolatier+P%C3%A2tissier+Jarry/@16.238455,-61.574940000000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 4.5,
-                "main_category": "Fa Shi Gao Bing Dian "
-            },
-            {
-                "name": "O Pains",
-                "link": "https://www.google.com/maps/search/%C3%94+Pains/@15.9999059,-61.72149650000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "David Vignau - Maitre Chocolatier Patissier Destreland",
-                "link": "https://www.google.com/maps/search/David+Vignau+-+Ma%C3%AEtre+Chocolatier+P%C3%A2tissier+Destreland/@16.251953999999998,-61.589807199999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 3.8,
-                "main_category": "Fa Shi Gao Bing Dian "
-            },
-            {
-                "name": "Epi-Centre Artisan Boulanger Patissier",
-                "link": "https://www.google.com/maps/search/%C3%89pi-Centre+Artisan+Boulanger+P%C3%A2tissier/@15.9946586,-61.730876499999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 2.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "La Boulangette",
-                "link": "https://www.google.com/maps/search/La+Boulangette/@15.992049299999998,-61.728652600000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 2.9,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "117562526120319493464",
-            "name": "David Vignau - Maitre Chocolatier Patissier Basse-Terre (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117562526120319493464"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtU9eVxXV6q_m6roq0F-VIO8HDmZri95q8G-DS=w408-h306-k-no",
-        "main_category": "Gao Bing Dian ",
-        "categories": [
-            "Gao Bing Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "09:00-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+590 590 32 82 10",
-        "address": "David Vignau - Maitre Chocolatier Patissier Basse-Terre, Immeuble SCI Japama, ZAE de Calebassier, 97100, Basse-Terre 97100Gua Di Luo Pu ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/David+Vignau+-+Ma%C3%AEtre+Chocolatier+P%C3%A2tissier+Basse-Terre/data=!4m7!3m6!1s0x8c149f7dec3658ef:0x9a10963a3fab3b35!8m2!3d16.0056598!4d-61.7360161!16s%2Fg%2F11j2zfz8zc!19sChIJ71g27H2fFIwRNTurPzqWEJo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJbZCeEMSfFIwRUDbhD_uSIwk",
@@ -1413,35 +1220,6 @@
         "link": "https://www.google.com/maps/place/La+Boulangette/data=!4m7!3m6!1s0x8c149f5a80f64dc9:0x7d892b41d6aea28a!8m2!3d15.9920493!4d-61.7286526!16s%2Fg%2F11h4b77xx_!19sChIJyU32gFqfFIwRiqKu1kEriX0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJvUmlezyfFIwR_DaTaYMq6N8",
-        "name": "Ludy.food",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "102615572049768421116",
-            "name": "Ludy.food (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102615572049768421116"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqstW9ZVyCb3QhT5hBFcrqq31FmJXwr2vIaZw=w408-h544-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": "10:00-15:30",
-        "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi San "
-        ],
-        "phone": "+590 590 94 18 61",
-        "address": "Ludy.food, 10 Rue Lardenoy, Basse-Terre 97100Gua Di Luo Pu ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ludy.food/data=!4m7!3m6!1s0x8c149f3c7ba549bd:0xdfe82a83699336fc!8m2!3d15.9935682!4d-61.7253208!16s%2Fg%2F11l2lpvjb0!19sChIJvUmlezyfFIwR_DaTaYMq6N8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJDw61ww-fFIwRF6ZxB81briQ",
         "name": "Bubble Tea Time",
         "description": null,
@@ -1506,63 +1284,6 @@
         "link": "https://www.google.com/maps/place/Bubble+Tea+Time/data=!4m7!3m6!1s0x8c149f0fc3b50e0f:0x24ae5bcd0771a617!8m2!3d15.9909998!4d-61.7274463!16s%2Fg%2F11fjbt7_gd!19sChIJDw61ww-fFIwRF6ZxB81briQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJo4SQd5ufFIwRpgbXQ0n8ZpI",
-        "name": "Coco snack",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 6,
-        "competitors": [
-            {
-                "name": "Tacos Legend Basse-Terre",
-                "link": "https://www.google.com/maps/search/Tacos+Legend+Basse-Terre/@15.9946577,-61.729612200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 3.1,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Dada's Food follies",
-                "link": "https://www.google.com/maps/search/Dada%E2%80%99s+Food+follies/@16.009485599999998,-61.740862199999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 4.6,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "oriento kebabe",
-                "link": "https://www.google.com/maps/search/oriento+kebabe/@15.99294,-61.72920539999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.9,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Jakoto Burger",
-                "link": "https://www.google.com/maps/search/Jakoto+Burger/@15.993531499999998,-61.730215799999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Kuai Can "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Coco snack (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmYoCZcQCNEIlqLLj2tK5lryIUyxqn5UUcUrOc=w408-h725-k-no",
-        "main_category": "Han Bao Can Ting ",
-        "categories": [
-            "Han Bao Can Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "11:00-22:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+590 690 49 74 49",
-        "address": "Coco snack, 97100 Av. de l'Abbe Gregoire, Basse-Terre 97100Gua Di Luo Pu ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coco+snack/data=!4m7!3m6!1s0x8c149f9b779084a3:0x9266fc4943d706a6!8m2!3d15.9968793!4d-61.7225265!16s%2Fg%2F11p15tx0bl!19sChIJo4SQd5ufFIwRpgbXQ0n8ZpI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJRyIR-qifFIwROoQw-WyV300",
         "name": "LA RIVIERE AUX HERBES",
         "description": null,
@@ -1612,8 +1333,8 @@
         "rating": 4.4,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+590 590 95 70 95",
         "address": "LA RIVIERE AUX HERBES, Place des esclaves, Basse-Terre 97100Gua Di Luo Pu ",
@@ -1732,8 +1453,8 @@
         "rating": 3.8,
         "workday_timing": "07:30-15:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+590 690 74 46 46",
         "address": "X7VH+G7V Kafe Mousse, Basse-Terre 97100Gua Di Luo Pu ",
@@ -1765,6 +1486,61 @@
         "address": "Owada, 97100 Bd du gouverneur general Felix Eboue, Basse-Terre 97100Gua Di Luo Pu ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Owada/data=!4m7!3m6!1s0x8c149fa494e40dc3:0x5bfb41f6abb583ee!8m2!3d15.9940369!4d-61.7260593!16s%2Fg%2F11l2ytln5f!19sChIJww3klKSfFIwR7oO1q_ZB-1s?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJu-2I3HGfFIwRVWYnO54jzsI",
+        "name": "Le Macaroni",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "McDonald's",
+                "link": "https://www.google.com/maps/search/McDonald%27s/@15.996266700000001,-61.7312131?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 436,
+                "rating": 3.4,
+                "main_category": "Kuai Can "
+            },
+            {
+                "name": "La marlone",
+                "link": "https://www.google.com/maps/search/La+marlone/@15.9914772,-61.726758?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4.3,
+                "main_category": "Pi Sa Wai Dai "
+            },
+            {
+                "name": "Le Mac Caroni",
+                "link": "https://www.google.com/maps/search/Le+Mac+Caroni/@15.9936482,-61.7252671?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Coco snack",
+                "link": "https://www.google.com/maps/search/Coco+snack/@15.9968793,-61.72252650000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Han Bao Bao "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le Macaroni (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKieY6z-0wuCCq7XX_HvrMUgktyrfhJYr24HAP=w408-h306-k-no",
+        "main_category": "Kuai Can Dian ",
+        "categories": [
+            "Kuai Can Dian "
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "X7VF+GRQ Le Macaroni, Rue Lardenoy, Basse-Terre 97100Gua Di Luo Pu ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Macaroni/data=!4m7!3m6!1s0x8c149f71dc88edbb:0xc2ce239e3b276655!8m2!3d15.9938461!4d-61.725379!16s%2Fg%2F11h4w0t8zh!19sChIJu-2I3HGfFIwRVWYnO54jzsI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJscFkOfKfFIwRVeZCh9cv0ww",
@@ -1827,61 +1603,6 @@
         "address": "X7VF+M7C Agoulou, N3, Basse-Terre 97100Gua Di Luo Pu ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Agoulou/data=!4m7!3m6!1s0x8c149ff23964c1b1:0xcd32fd78742e655!8m2!3d15.9941768!4d-61.7268459!16s%2Fg%2F11sczt79rk!19sChIJscFkOfKfFIwRVeZCh9cv0ww?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJu-2I3HGfFIwRVWYnO54jzsI",
-        "name": "Le Macaroni",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "McDonald's",
-                "link": "https://www.google.com/maps/search/McDonald%27s/@15.996266700000001,-61.7312131?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 436,
-                "rating": 3.4,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "La marlone",
-                "link": "https://www.google.com/maps/search/La+marlone/@15.9914772,-61.726758?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 4.3,
-                "main_category": "Pi Sa Wai Dai "
-            },
-            {
-                "name": "Le Mac Caroni",
-                "link": "https://www.google.com/maps/search/Le+Mac+Caroni/@15.9936482,-61.7252671?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Coco snack",
-                "link": "https://www.google.com/maps/search/Coco+snack/@15.9968793,-61.72252650000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.8,
-                "main_category": "Han Bao Bao "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Le Macaroni (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKieY6z-0wuCCq7XX_HvrMUgktyrfhJYr24HAP=w408-h306-k-no",
-        "main_category": "Kuai Can Dian ",
-        "categories": [
-            "Kuai Can Dian "
-        ],
-        "rating": 4,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "X7VF+GRQ Le Macaroni, Rue Lardenoy, Basse-Terre 97100Gua Di Luo Pu ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Le+Macaroni/data=!4m7!3m6!1s0x8c149f71dc88edbb:0xc2ce239e3b276655!8m2!3d15.9938461!4d-61.725379!16s%2Fg%2F11h4w0t8zh!19sChIJu-2I3HGfFIwRVWYnO54jzsI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJF2CdO-ufFIwRYXlTRnzhMo4",
@@ -2003,34 +1724,32 @@
         "link": "https://www.google.com/maps/place/Chacha+Lounge/data=!4m7!3m6!1s0x8c149f94b7a923f9:0xfbf21c31f69f1ce1!8m2!3d15.9939494!4d-61.7254914!16s%2Fg%2F11jt5h2pn4!19sChIJ-SOpt5SfFIwR4Ryf9jEc8vs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJyxKCpSifFIwRjjmXUVe0GSc",
-        "name": "FOODYZ",
+        "place_id": "ChIJB6Zif06fFIwRFfOjvwVsRj0",
+        "name": "Le Tyty",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2,
+        "reviews": 1,
         "competitors": [],
         "website": null,
         "owner": {
-            "id": "106817528654048397357",
-            "name": "FOODYZ (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106817528654048397357"
+            "id": "113196387295812820707",
+            "name": "Le Tyty (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113196387295812820707"
         },
-        "featured_image": null,
-        "main_category": "Kuai Can Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1AaruiGHErvZs7ngidSxa4HLVbZCYEhUSOPk=w408-h544-k-no",
+        "main_category": "Gao Ji Shi Cai Dian ",
         "categories": [
-            "Kuai Can Dian ",
-            "Zao Wu Can Can Ting ",
-            "Bo Bing Wai Mai Zi Qu "
+            "Gao Ji Shi Cai Dian ",
+            "Xue Gao Dian ",
+            "Xiao Shi /Ling Shi Ba "
         ],
         "rating": 5,
-        "workday_timing": "06:00-14:00, 19:00-23:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "FOODYZ, 2 place Saint-Francois, Basse-Terre 97100Gua Di Luo Pu ",
+        "workday_timing": "11:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+590 690 56 52 91",
+        "address": "Le Tyty, Galerie Marchande de Desmarais, 30, Basse-Terre 97100Gua Di Luo Pu ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/FOODYZ/data=!4m7!3m6!1s0x8c149f28a58212cb:0x2719b4575197398e!8m2!3d15.995084!4d-61.730162!16s%2Fg%2F11ssp_lx7m!19sChIJyxKCpSifFIwRjjmXUVe0GSc?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Le+Tyty/data=!4m7!3m6!1s0x8c149f4e7f62a607:0x3d466c05bfa3f315!8m2!3d15.9986992!4d-61.7268731!16s%2Fg%2F11l2fq8pxg!19sChIJB6Zif06fFIwRFfOjvwVsRj0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJx_T-YCqfFIwR2-qHjtlBCpQ",
@@ -2090,34 +1809,6 @@
         "link": "https://www.google.com/maps/place/O%27meli+bar+salade+%26+cr%C3%AApe/data=!4m7!3m6!1s0x8c149f2a60fef4c7:0x940a41d98e87eadb!8m2!3d15.9947589!4d-61.7302227!16s%2Fg%2F11qprx15f7!19sChIJx_T-YCqfFIwR2-qHjtlBCpQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJB6Zif06fFIwRFfOjvwVsRj0",
-        "name": "Le Tyty",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "113196387295812820707",
-            "name": "Le Tyty (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113196387295812820707"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1AaruiGHErvZs7ngidSxa4HLVbZCYEhUSOPk=w408-h544-k-no",
-        "main_category": "Gao Ji Shi Cai Dian ",
-        "categories": [
-            "Gao Ji Shi Cai Dian ",
-            "Xue Gao Dian ",
-            "Xiao Shi /Ling Shi Ba "
-        ],
-        "rating": 5,
-        "workday_timing": "11:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+590 690 56 52 91",
-        "address": "Le Tyty, Galerie Marchande de Desmarais, 30, Basse-Terre 97100Gua Di Luo Pu ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Le+Tyty/data=!4m7!3m6!1s0x8c149f4e7f62a607:0x3d466c05bfa3f315!8m2!3d15.9986992!4d-61.7268731!16s%2Fg%2F11l2fq8pxg!19sChIJB6Zif06fFIwRFfOjvwVsRj0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJuTLZLNKfFIwRwGN7W-oknkQ",
         "name": "SVJ NANOUNE PATISSERIE",
         "description": null,
@@ -2137,13 +1828,6 @@
                 "reviews": 12,
                 "rating": 4.3,
                 "main_category": "Xi Dian "
-            },
-            {
-                "name": "Jah Kingdom Shop",
-                "link": "https://www.google.com/maps/search/Jah+Kingdom+Shop/@15.9947918,-61.727791800000006?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 3.9,
-                "main_category": "Can Ting "
             },
             {
                 "name": "Chez San San",
@@ -2180,61 +1864,6 @@
         "link": "https://www.google.com/maps/place/SVJ+NANOUNE+PATISSERIE/data=!4m7!3m6!1s0x8c149fd22cd932b9:0x449e24ea5b7b63c0!8m2!3d15.9952695!4d-61.7308723!16s%2Fg%2F11js8nmwjz!19sChIJuTLZLNKfFIwRwGN7W-oknkQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJqYOrrw6fFIwR7v3oRYTZ2Ys",
-        "name": "Dealer Food & Drinks",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Tacos Legend Basse-Terre",
-                "link": "https://www.google.com/maps/search/Tacos+Legend+Basse-Terre/@15.9946577,-61.729612200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 3.1,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Dada's Food follies",
-                "link": "https://www.google.com/maps/search/Dada%E2%80%99s+Food+follies/@16.009485599999998,-61.740862199999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 4.6,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Chez San San",
-                "link": "https://www.google.com/maps/search/Chez+San+San/@15.990805199999999,-61.7283898?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.7,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Pondi snack",
-                "link": "https://www.google.com/maps/search/Pondi+snack/@15.991107599999998,-61.727341300000006?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "110356071643714726496",
-            "name": "Dealer Food & Drinks (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110356071643714726496"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMwBA32F4OSj2RmV3C6wXCEb1haBKuzZNss9sA9=w565-h240-k-no",
-        "main_category": "Kuai Can Dian ",
-        "categories": [
-            "Kuai Can Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "07:00-17:00",
-        "closed_on": "Open All Days",
-        "phone": "+590 690 12 71 22",
-        "address": "Dealer Food & Drinks, 34 Rue Paul Baudot, Basse-Terre 97100Gua Di Luo Pu ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Dealer+Food+%26+Drinks/data=!4m7!3m6!1s0x8c149f0eafab83a9:0x8bd9d98445e8fdee!8m2!3d15.9977968!4d-61.7315094!16s%2Fg%2F11ts9mzncb!19sChIJqYOrrw6fFIwR7v3oRYTZ2Ys?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ0yZfnEqfFIwREAZQfmKarhc",
         "name": "Restaurant chez Marlene",
         "description": null,
@@ -2251,8 +1880,8 @@
             {
                 "name": "LAURA SNACK",
                 "link": "https://www.google.com/maps/search/LAURA+SNACK/@15.993787900000001,-61.729627?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.2,
+                "reviews": 6,
+                "rating": 4.3,
                 "main_category": "Xu Li Ya Cai "
             },
             {

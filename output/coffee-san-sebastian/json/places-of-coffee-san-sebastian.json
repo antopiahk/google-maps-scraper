@@ -4,26 +4,26 @@
         "name": "Cafe de La Concha",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3205,
+        "reviews": 3206,
         "competitors": [
             {
                 "name": "La Pei Er La Ba Er Lei Si Tao Lan Te ",
                 "link": "https://www.google.com/maps/search/%E6%8B%89%E4%BD%A9%E7%88%BE%E6%8B%89%E5%B7%B4%E7%88%BE%E9%9B%B7%E6%96%AF%E9%99%B6%E8%98%AD%E7%89%B9/@43.3154178,-1.9891851999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4178,
+                "reviews": 4183,
                 "rating": 4.2,
                 "main_category": "Di Zhong Hai Cai "
             },
             {
                 "name": "La Madame",
                 "link": "https://www.google.com/maps/search/La+Madame/@43.314929299999996,-1.9876935000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 969,
+                "reviews": 972,
                 "rating": 4.5,
                 "main_category": "Xian Dai Ou Zhou Liao Li "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -37,7 +37,7 @@
             {
                 "name": "La Hora del Cafe",
                 "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
@@ -78,41 +78,127 @@
                 "count": 12
             },
             {
-                "keyword": "Feng Jing ",
-                "count": 11
-            },
-            {
                 "keyword": "You Yu ",
                 "count": 10
+            },
+            {
+                "keyword": "Hai Jing ",
+                "count": 7
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+de+La+Concha/data=!4m7!3m6!1s0xd51baa9a8265f15:0x87f1cd0421cd9659!8m2!3d43.3156828!4d-1.9885929!16s%2Fg%2F1vr1xy_4!19sChIJFV8mqKm6UQ0RWZbNIQTN8Yc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJE7VjSlelUQ0RwdNgII-SUtk",
+        "name": "Kafe Botanika",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2249,
+        "competitors": [
+            {
+                "name": "Tedone Jatetxea",
+                "link": "https://www.google.com/maps/search/Tedone+Jatetxea/@43.3215169,-1.9748429?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1075,
+                "rating": 4.6,
+                "main_category": "Jian Kang Shi Pin "
+            },
+            {
+                "name": "Mapa Verde",
+                "link": "https://www.google.com/maps/search/Mapa+Verde/@43.3223871,-1.9741699?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 652,
+                "rating": 4.7,
+                "main_category": "Yan Ge Su Shi Liao Li "
+            },
+            {
+                "name": "Fresh Green",
+                "link": "https://www.google.com/maps/search/Fresh+Green/@43.3281231,-1.9705731?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 376,
+                "rating": 4.6,
+                "main_category": "Su Shi Liao Li "
+            },
+            {
+                "name": "Cafe Con Leche",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Con+Leche/@43.3180682,-1.9806993?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 373,
+                "rating": 4.5,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "Donebastian taberna",
+                "link": "https://www.google.com/maps/search/Donebastian+taberna/@43.3165693,-1.9827062?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 164,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://kafebotanika.eus/qr/",
+        "owner": {
+            "id": "116845597474244355676",
+            "name": "Kafe Botanika (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116845597474244355676"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMON0yRHj85lrc3NgLENqDyyfZmmd7kVF1jqZ4X=w427-h240-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Zi Zhu Can Ting "
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:00-00:00",
+        "closed_on": [
+            "Xing Qi Er "
+        ],
+        "phone": "+34 943 44 34 75",
+        "address": "Kafe Botanika, Gernikako Arbola Pasealekua, 8, 20006 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Hua Yuan ",
+                "count": 81
+            },
+            {
+                "keyword": "vegan",
+                "count": 70
+            },
+            {
+                "keyword": "Hu Luo Bo Dan Gao ",
+                "count": 27
+            },
+            {
+                "keyword": "He ",
+                "count": 14
+            },
+            {
+                "keyword": "Sheng Tai ",
+                "count": 12
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kafe+Botanika/data=!4m7!3m6!1s0xd51a5574a63b513:0xd952928f2060d3c1!8m2!3d43.3170708!4d-1.9794496!16s%2Fg%2F11bbrs0_3v!19sChIJE7VjSlelUQ0RwdNgII-SUtk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJz9jOiVGlUQ0Rb0zbE8czOzQ",
         "name": "Cafeteria Bideluze",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2045,
+        "reviews": 2046,
         "competitors": [
             {
                 "name": "BIDELUZE KAFE TABERNA",
                 "link": "https://www.google.com/maps/search/BIDELUZE+KAFE+TABERNA/@43.3207336,-1.9817458?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2394,
+                "reviews": 2395,
                 "rating": 3.9,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "IruBi Kafea",
                 "link": "https://www.google.com/maps/search/IruBi+Kafea/@43.31615550000001,-1.9818947999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 603,
+                "reviews": 604,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Udaberri",
                 "link": "https://www.google.com/maps/search/Udaberri/@43.3156037,-1.9808739999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 557,
+                "reviews": 559,
                 "rating": 4.1,
                 "main_category": "Jiu Ba "
             },
@@ -153,10 +239,6 @@
         "address": "Cafeteria Bideluze, Garibai Kalea, 24, 20004 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [
             {
-                "keyword": "Han Bao ",
-                "count": 47
-            },
-            {
                 "keyword": "Sha La ",
                 "count": 30
             },
@@ -165,8 +247,12 @@
                 "count": 23
             },
             {
-                "keyword": "Yin Le ",
-                "count": 6
+                "keyword": "Fu You ",
+                "count": 19
+            },
+            {
+                "keyword": "Dao Gong ",
+                "count": 8
             }
         ],
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Bideluze/data=!4m7!3m6!1s0xd51a55189ced8cf:0x343b33c713db4c6f!8m2!3d43.320479!4d-1.983377!16s%2Fg%2F1hc1_q48f!19sChIJz9jOiVGlUQ0Rb0zbE8czOzQ?authuser=0&hl=zh-TW&rclk=1"
@@ -176,7 +262,7 @@
         "name": "Old Town Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1559,
+        "reviews": 1562,
         "competitors": [
             {
                 "name": "BB Kafe",
@@ -188,7 +274,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -256,12 +342,12 @@
         "name": "Koh Tao",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1267,
+        "reviews": 1269,
         "competitors": [
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -275,14 +361,14 @@
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "La Hora del Cafe",
                 "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -352,14 +438,14 @@
             {
                 "name": "MendaurBerria",
                 "link": "https://www.google.com/maps/search/MendaurBerria/@43.3234935,-1.9836863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2163,
+                "reviews": 2165,
                 "rating": 4.7,
                 "main_category": "Xi Ban Ya Xiao Shi Jiu Ba "
             },
             {
                 "name": "Txistu taberna",
                 "link": "https://www.google.com/maps/search/Txistu+taberna/@43.3234157,-1.9850145?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 517,
+                "reviews": 519,
                 "rating": 2.6,
                 "main_category": "Xi Ban Ya Xiao Shi Jiu Ba "
             },
@@ -426,19 +512,19 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 1210,
+        "reviews": 1211,
         "competitors": [
             {
                 "name": "Cafe de La Concha",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+de+La+Concha/@43.3156828,-1.9885929?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3204,
+                "reviews": 3206,
                 "rating": 3.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -470,7 +556,7 @@
             "name": "Starbucks (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/111516137994312557927"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKEmwMqqAYH5ZKkfl4OiNB7zzCt5dlydbB7QII=w426-h240-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxIL6HjUO1VcMt2nB3X6X2OWUUgLxjIx8lz5hH=w408-h544-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting ",
@@ -539,7 +625,7 @@
             {
                 "name": "ALABAMA CAFE slow Food - Healthy Food",
                 "link": "https://www.google.com/maps/search/ALABAMA+CAF%C3%89+slow+Food+-+Healthy+Food/@43.325495000000004,-1.971718?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 663,
+                "reviews": 665,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -595,6 +681,10 @@
                 "count": 19
             },
             {
+                "keyword": "Ru Luo Dan Gao ",
+                "count": 7
+            },
+            {
                 "keyword": "Huo ",
                 "count": 6
             }
@@ -606,26 +696,26 @@
         "name": "ALABAMA CAFE slow Food - Healthy Food",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 663,
+        "reviews": 666,
         "competitors": [
             {
                 "name": "Maiatza",
                 "link": "https://www.google.com/maps/search/Maiatza/@43.3243259,-1.9839746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1180,
+                "reviews": 1182,
                 "rating": 4.5,
                 "main_category": "Zi Zhu Can Ting "
             },
             {
                 "name": "La Guinda Deli & Coffe",
                 "link": "https://www.google.com/maps/search/La+Guinda+Deli+%26+Coffe/@43.32557980000001,-1.972951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 868,
+                "reviews": 869,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Enxalao brunch, coffee & bowls",
                 "link": "https://www.google.com/maps/search/Enxalao+brunch%2C+coffee+%26+bowls/@43.3246288,-1.9757557?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 462,
+                "reviews": 464,
                 "rating": 4.5,
                 "main_category": "Jian Kang Shi Pin "
             },
@@ -686,12 +776,12 @@
         "name": "Quebec Krep'Herria",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 633,
+        "reviews": 634,
         "competitors": [
             {
                 "name": "Maiatza",
                 "link": "https://www.google.com/maps/search/Maiatza/@43.3243259,-1.9839746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1180,
+                "reviews": 1182,
                 "rating": 4.5,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -705,7 +795,7 @@
             {
                 "name": "LE COMIDARE",
                 "link": "https://www.google.com/maps/search/LE+COMIDARE/@43.323659,-1.9780232000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 764,
+                "reviews": 766,
                 "rating": 4,
                 "main_category": "Can Ting "
             },
@@ -779,14 +869,14 @@
             {
                 "name": "Old Town Coffee",
                 "link": "https://www.google.com/maps/search/Old+Town+Coffee/@43.3157193,-1.9809877000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1559,
+                "reviews": 1561,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -857,7 +947,7 @@
         "name": "BB Kafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 609,
+        "reviews": 610,
         "competitors": [
             {
                 "name": "Caffe - Berri",
@@ -869,14 +959,14 @@
             {
                 "name": "IruBi Kafea",
                 "link": "https://www.google.com/maps/search/IruBi+Kafea/@43.31615550000001,-1.9818947999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 603,
+                "reviews": 604,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -938,19 +1028,19 @@
         "name": "Donostea& Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 597,
+        "reviews": 598,
         "competitors": [
             {
                 "name": "Old Town Coffee",
                 "link": "https://www.google.com/maps/search/Old+Town+Coffee/@43.3157193,-1.9809877000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1559,
+                "reviews": 1561,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Maiatza",
                 "link": "https://www.google.com/maps/search/Maiatza/@43.3243259,-1.9839746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1180,
+                "reviews": 1182,
                 "rating": 4.5,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -971,7 +1061,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -1029,19 +1119,19 @@
         "name": "Tahona Okindegia",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 591,
+        "reviews": 593,
         "competitors": [
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "La Tahona",
                 "link": "https://www.google.com/maps/search/La+Tahona/@43.3141612,-2.0015991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 460,
+                "reviews": 461,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1055,14 +1145,14 @@
             {
                 "name": "Errotaundi",
                 "link": "https://www.google.com/maps/search/Errotaundi/@43.3173889,-1.9844158?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 195,
+                "reviews": 196,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -1106,15 +1196,15 @@
                 "count": 10
             },
             {
+                "keyword": "Cheng ",
+                "count": 5
+            },
+            {
                 "keyword": "Mian Bao Dian ",
                 "count": 5
             },
             {
                 "keyword": "Huo Tui ",
-                "count": 5
-            },
-            {
-                "keyword": "Ke Ke ",
                 "count": 5
             }
         ],
@@ -1151,7 +1241,7 @@
             {
                 "name": "La Hora del Cafe",
                 "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
@@ -1199,7 +1289,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1227,7 +1317,7 @@
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -1286,7 +1376,7 @@
             {
                 "name": "Teresatxo Taberna",
                 "link": "https://www.google.com/maps/search/Teresatxo+Taberna/@43.30561,-2.004987?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1133,
+                "reviews": 1135,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -1314,7 +1404,7 @@
             {
                 "name": "Arkaitzak taberna",
                 "link": "https://www.google.com/maps/search/Arkaitzak+taberna/@43.305363799999995,-2.0046527?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 89,
+                "reviews": 90,
                 "rating": 4.6,
                 "main_category": "Shao Kao "
             }
@@ -1392,7 +1482,7 @@
             {
                 "name": "Tribeka Arima Bio",
                 "link": "https://www.google.com/maps/search/Tribeka+Arima+Bio/@43.3135092,-1.9574017000000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
+                "reviews": 13,
                 "rating": 5,
                 "main_category": "Jian Kang Shi Pin Zhuan Mai Dian "
             }
@@ -1451,14 +1541,14 @@
             {
                 "name": "IruBi Kafea",
                 "link": "https://www.google.com/maps/search/IruBi+Kafea/@43.31615550000001,-1.9818947999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 603,
+                "reviews": 604,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1472,14 +1562,14 @@
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -1499,6 +1589,7 @@
         "rating": 4.8,
         "workday_timing": "07:00-20:30",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+34 943 42 86 90",
@@ -1548,7 +1639,7 @@
         "name": "Kafe Taberna Aspaldiko",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 416,
+        "reviews": 417,
         "competitors": [
             {
                 "name": "Federiko Taberna",
@@ -1567,7 +1658,7 @@
             {
                 "name": "ALBOKA kafea taberna",
                 "link": "https://www.google.com/maps/search/ALBOKA+kafea+taberna/@43.315881499999996,-1.9830124999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 346,
+                "reviews": 347,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1620,111 +1711,23 @@
         "link": "https://www.google.com/maps/place/Kafe+Taberna+Aspaldiko/data=!4m7!3m6!1s0xd51b00a86b4660b:0x5690a6ceb107f08c!8m2!3d43.3116152!4d-2.0055218!16s%2Fg%2F12qf877v4!19sChIJC2a0hgqwUQ0RjPAHsc6mkFY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJP9Nqn1alUQ0RHn8bQccAkH4",
-        "name": "ALBOKA kafea taberna",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 346,
-        "competitors": [
-            {
-                "name": "Iruna Kafe Taberna",
-                "link": "https://www.google.com/maps/search/Iru%C3%B1a+Kafe+Taberna/@43.3135449,-1.9813301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 629,
-                "rating": 4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Tahona Okindegia",
-                "link": "https://www.google.com/maps/search/Tahona+Okindegia/@43.317124799999995,-1.9838974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 590,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe la Habana",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+la+Habana/@43.3163799,-1.9833413?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 261,
-                "rating": 4.4,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Urban Coffee",
-                "link": "https://www.google.com/maps/search/Urban+Coffee/@43.3146171,-1.9825195999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Topobide",
-                "link": "https://www.google.com/maps/search/Topobide/@43.3132391,-1.9815080999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
-                "rating": 3.7,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": "https://albokabardonostia.blogspot.com.es/%3Fm%3D1",
-        "owner": {
-            "id": null,
-            "name": "ALBOKA kafea taberna (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMblmUy7I5spXSni7lGktVctvQPRy76139xRUwc=w408-h243-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Ka Pei Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "15:00-03:30",
-        "closed_on": "Open All Days",
-        "phone": "+34 943 47 04 28",
-        "address": "ALBOKA kafea taberna, Easo Kalea, 39, 20006 Donostia, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Yin Le ",
-                "count": 52
-            },
-            {
-                "keyword": "Pi Jiu ",
-                "count": 38
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 25
-            },
-            {
-                "keyword": "Zhou Si ",
-                "count": 17
-            },
-            {
-                "keyword": "Bei ",
-                "count": 6
-            },
-            {
-                "keyword": "Qia Bu Qi Nuo ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/ALBOKA+kafea+taberna/data=!4m7!3m6!1s0xd51a5569f6ad33f:0x7e9000c7411b7f1e!8m2!3d43.3158815!4d-1.9830125!16s%2Fg%2F11bzzn8604!19sChIJP9Nqn1alUQ0RHn8bQccAkH4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJH1KuCmilUQ0RjdW-atBLoAw",
         "name": "MEYVI Cafe & Cakes",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 322,
+        "reviews": 323,
         "competitors": [
             {
                 "name": "Maiatza",
                 "link": "https://www.google.com/maps/search/Maiatza/@43.3243259,-1.9839746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1180,
+                "reviews": 1182,
                 "rating": 4.5,
                 "main_category": "Zi Zhu Can Ting "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1805,12 +1808,12 @@
         "name": "Somos - Coffee & Bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 297,
+        "reviews": 298,
         "competitors": [
             {
                 "name": "Old Town Coffee",
                 "link": "https://www.google.com/maps/search/Old+Town+Coffee/@43.3157193,-1.9809877000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1559,
+                "reviews": 1561,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1824,21 +1827,21 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Ogi Berri Matia",
                 "link": "https://www.google.com/maps/search/Ogi+Berri+Matia/@43.3146273,-2.0009888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 3.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Fusion Kafe & Okindegia BENTABERRI",
                 "link": "https://www.google.com/maps/search/Fusion+Kafe+%26+Okindegia+BENTABERRI/@43.3106116,-2.008027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 445,
+                "reviews": 446,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             }
@@ -1872,7 +1875,7 @@
             },
             {
                 "keyword": "Zao Wu Can ",
-                "count": 19
+                "count": 20
             },
             {
                 "keyword": "Bu Li Ou ",
@@ -1899,14 +1902,14 @@
             {
                 "name": "La Guinda Deli & Coffe",
                 "link": "https://www.google.com/maps/search/La+Guinda+Deli+%26+Coffe/@43.32557980000001,-1.972951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 868,
+                "reviews": 869,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1964,8 +1967,12 @@
                 "count": 5
             },
             {
-                "keyword": "Tian Dian ",
-                "count": 5
+                "keyword": "Bing Gan ",
+                "count": 4
+            },
+            {
+                "keyword": "Mian Bao ",
+                "count": 4
             },
             {
                 "keyword": "Wu ",
@@ -1973,10 +1980,6 @@
             },
             {
                 "keyword": "Ta ",
-                "count": 3
-            },
-            {
-                "keyword": "Xiao Rong ",
                 "count": 3
             }
         ],
@@ -1999,7 +2002,7 @@
             {
                 "name": "Fusion Kafe & Okindegia BENTABERRI",
                 "link": "https://www.google.com/maps/search/Fusion+Kafe+%26+Okindegia+BENTABERRI/@43.3106116,-2.008027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 445,
+                "reviews": 446,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -2044,7 +2047,7 @@
         "review_keywords": [
             {
                 "keyword": "Tu Si ",
-                "count": 34
+                "count": 35
             },
             {
                 "keyword": "Jia Ge ",
@@ -2063,12 +2066,16 @@
                 "count": 10
             },
             {
+                "keyword": "Huo Tui ",
+                "count": 7
+            },
+            {
                 "keyword": "Zhuo ",
                 "count": 7
             },
             {
-                "keyword": "Huo Tui ",
-                "count": 6
+                "keyword": "Ji Rou ",
+                "count": 5
             },
             {
                 "keyword": "Luo Li ",
@@ -2082,7 +2089,7 @@
         "name": "EsCafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 236,
+        "reviews": 237,
         "competitors": [
             {
                 "name": "El Cafe De Gros",
@@ -2108,7 +2115,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -2138,6 +2145,10 @@
                 "count": 24
             },
             {
+                "keyword": "Chan Pin ",
+                "count": 16
+            },
+            {
                 "keyword": "Nai Xi ",
                 "count": 11
             },
@@ -2154,20 +2165,16 @@
                 "count": 8
             },
             {
-                "keyword": "wifi",
-                "count": 6
-            },
-            {
                 "keyword": "Chao Dan ",
                 "count": 6
             },
             {
-                "keyword": "Ke Song ",
+                "keyword": "wifi",
                 "count": 6
             },
             {
-                "keyword": "Zao Wu Can ",
-                "count": 5
+                "keyword": "Wan ",
+                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/EsCaf%C3%A9/data=!4m7!3m6!1s0xd51a5e9b44cfe97:0xa64377246ff8cd1f!8m2!3d43.3235297!4d-1.9726763!16s%2Fg%2F11pc1lrgvy!19sChIJl_5MtOmlUQ0RH834byR3Q6Y?authuser=0&hl=zh-TW&rclk=1"
@@ -2217,6 +2224,10 @@
                 "count": 5
             },
             {
+                "keyword": "Fu You ",
+                "count": 5
+            },
+            {
                 "keyword": "Bing Gan ",
                 "count": 4
             },
@@ -2227,10 +2238,6 @@
             {
                 "keyword": "Dou ",
                 "count": 3
-            },
-            {
-                "keyword": "Fu You ",
-                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Syra+Coffee+-+Plaza+Gipuzkoa/data=!4m7!3m6!1s0xd51a5e71ad4d2a3:0xa257a08223087240!8m2!3d43.3210478!4d-1.9815066!16s%2Fg%2F11kjgjf1b0!19sChIJo9LUGuelUQ0RQHIII4KgV6I?authuser=0&hl=zh-TW&rclk=1"
@@ -2240,7 +2247,7 @@
         "name": "Simona Specialty Coffee Club",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 161,
+        "reviews": 164,
         "competitors": [],
         "website": "https://simonacoffeeclub.com/",
         "owner": {
@@ -2253,7 +2260,7 @@
         "categories": [
             "Zao Wu Can Can Ting "
         ],
-        "rating": 4.4,
+        "rating": 4.5,
         "workday_timing": "09:00-19:00",
         "closed_on": "Open All Days",
         "phone": null,
@@ -2308,14 +2315,14 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -2329,14 +2336,14 @@
             {
                 "name": "La Hora del Cafe",
                 "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -2393,14 +2400,14 @@
             {
                 "name": "Old Town Coffee",
                 "link": "https://www.google.com/maps/search/Old+Town+Coffee/@43.3157193,-1.9809877000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1559,
+                "reviews": 1561,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -2467,95 +2474,102 @@
         "link": "https://www.google.com/maps/place/Panchito/data=!4m7!3m6!1s0xd51a55195b79aa1:0x15c838d83766dedf!8m2!3d43.3205986!4d-1.9820694!16s%2Fg%2F11ckvgdd42!19sChIJoZq3lVGlUQ0R395mN9g4yBU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJpz7Bo_GvUQ0RuePzQroFQLs",
-        "name": "Panaderia Lekuona",
+        "place_id": "ChIJLwunSlalUQ0Rh3XVGthfQOY",
+        "name": "La Casita De Caramelo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 107,
+        "reviews": 142,
         "competitors": [
             {
-                "name": "La Tahona",
-                "link": "https://www.google.com/maps/search/La+Tahona/@43.3049052,-1.9768031000000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 437,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
+                "name": "Antojitos Donostia",
+                "link": "https://www.google.com/maps/search/Antojitos+Donostia/@43.3245584,-1.9757158?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 169,
+                "rating": 4.4,
+                "main_category": "Xi Bing Dian "
             },
             {
-                "name": "Olaeta Kafetegia",
-                "link": "https://www.google.com/maps/search/Olaeta+Kafetegia/@43.302516999999995,-1.9781452?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 344,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
+                "name": "el saloncito",
+                "link": "https://www.google.com/maps/search/el+saloncito/@43.3029169,-1.9766218000000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 41,
+                "rating": 4.6,
+                "main_category": "Er Tong You Le Zhong Xin "
             },
             {
-                "name": "Lekuona Sagastieder Okindegia",
-                "link": "https://www.google.com/maps/search/Lekuona+Sagastieder+Okindegia/@43.312767199999996,-1.9566074999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.5,
-                "main_category": "Zi Zhu Can Ting "
+                "name": "Ana Araujo",
+                "link": "https://www.google.com/maps/search/Ana+Araujo/@43.3065223,-2.0056830999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 41,
+                "rating": 3.5,
+                "main_category": "Biao Yan Chang Di "
             },
             {
-                "name": "Ekain Cafe",
-                "link": "https://www.google.com/maps/search/Ekain+Caf%C3%A9/@43.3051256,-1.9753269000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
-                "rating": 4.1,
-                "main_category": "Mian Bao Xi Bing Dian "
+                "name": "Dulces Caprichos de Susan",
+                "link": "https://www.google.com/maps/search/Dulces+Caprichos+de+Susan/@43.317681,-1.9361168?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 4.6,
+                "main_category": "Xian Bing Dian "
             },
             {
-                "name": "Ogi Berri",
-                "link": "https://www.google.com/maps/search/Ogi+Berri/@43.3049436,-1.9795223?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.3,
-                "main_category": "Zheng Liu Ka Pei Ba "
+                "name": "Txikiplanes",
+                "link": "https://www.google.com/maps/search/Txikiplanes/@43.3056257,-1.9941853?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Er Tong You Le Zhong Xin "
             }
         ],
-        "website": "http://www.lekuona.com/",
+        "website": "https://lacasitadecaramelo.com/",
         "owner": {
-            "id": null,
-            "name": "Panaderia Lekuona (Ye Zhu )",
-            "link": null
+            "id": "103698176321301665799",
+            "name": "La Casita De Caramelo (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103698176321301665799"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwzwZ761QeudvJHI7nizcp--rYrZLh9OaB2AjI=w408-h302-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPavtaUZPAwVLpq4WFAJKjwOZgkmm_RDOCqbz7=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
         "categories": [
-            "Mian Bao Xi Bing Dian ",
-            "Ka Pei Dian "
+            "Ka Pei Ting ",
+            "Er Tong You Le Zhong Xin ",
+            "Xian Bing Dian "
         ],
-        "rating": 4.2,
-        "workday_timing": "08:00-14:15, 17:00-20:15",
-        "closed_on": "Open All Days",
-        "phone": "+34 943 44 68 50",
-        "address": "Panaderia Lekuona, Isabel II.a Etorb., 1, 20011 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "rating": 4.4,
+        "workday_timing": "09:00-13:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+34 943 01 93 13",
+        "address": "La Casita De Caramelo, Pedro Egana Kalea, 6, 20006 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [
             {
-                "keyword": "Zao Can ",
+                "keyword": "Sheng Ri ",
+                "count": 16
+            },
+            {
+                "keyword": "Xiao Hai ",
+                "count": 15
+            },
+            {
+                "keyword": "Jia Ting ",
                 "count": 7
             },
             {
-                "keyword": "Can Bao ",
+                "keyword": "Tian ",
                 "count": 6
             },
             {
-                "keyword": "Ka Pei Ting ",
-                "count": 6
+                "keyword": "You Xi ",
+                "count": 4
             },
             {
-                "keyword": "Huan Jing ",
-                "count": 3
-            },
-            {
-                "keyword": "Chan Pin ",
+                "keyword": "Zhuo ",
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Panader%C3%ADa+Lekuona/data=!4m7!3m6!1s0xd51aff1a3c13ea7:0xbb4005ba42f3e3b9!8m2!3d43.3049144!4d-1.9748508!16s%2Fg%2F11cn93crg1!19sChIJpz7Bo_GvUQ0RuePzQroFQLs?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/La+Casita+De+Caramelo/data=!4m7!3m6!1s0xd51a5564aa70b2f:0xe6405fd81ad57587!8m2!3d43.3136111!4d-1.9809499!16s%2Fg%2F1ttdzs0q!19sChIJLwunSlalUQ0Rh3XVGthfQOY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJTdTR-sqlUQ0RcganFk4e3So",
         "name": "Syra Coffee - San Jeronimo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 103,
+        "reviews": 109,
         "competitors": [],
         "website": "http://www.syra.coffee/",
         "owner": {
@@ -2580,7 +2594,7 @@
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 7
+                "count": 8
             },
             {
                 "keyword": "Yan Mai Nai ",
@@ -2627,7 +2641,7 @@
             {
                 "name": "Cafeteria Atotxa",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Atotxa/@43.3197925,-1.9750010999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 510,
+                "reviews": 511,
                 "rating": 3.8,
                 "main_category": "Shao Kao "
             },
@@ -2719,7 +2733,7 @@
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -2733,15 +2747,15 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Ogiberri Altuna",
                 "link": "https://www.google.com/maps/search/Ogiberri+Altuna/@43.3173652,-1.9831579000000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 88,
-                "rating": 3.6,
+                "reviews": 89,
+                "rating": 3.5,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -2799,14 +2813,14 @@
             {
                 "name": "Olaeta Kafetegia",
                 "link": "https://www.google.com/maps/search/Olaeta+Kafetegia/@43.302516999999995,-1.9781452?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 344,
+                "reviews": 345,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "ART Cafe",
                 "link": "https://www.google.com/maps/search/ART+Caf%C3%A9/@43.304027,-1.9737772?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 305,
+                "reviews": 304,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -2940,78 +2954,6 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9s+Panchito+Reina+Regente/data=!4m7!3m6!1s0xd51a54e3dcf9669:0x94f8a50b31939fdd!8m2!3d43.3231191!4d-1.9817654!16s%2Fg%2F11c6cy345v!19sChIJaZbPPU6lUQ0R3Z-TMQul-JQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJwTCUWS-vUQ0RSNrOYITQ7fk",
-        "name": "Ogiberri Sancho Sabio",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 52,
-        "competitors": [
-            {
-                "name": "Donostea& Coffee",
-                "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
-                "rating": 4.4,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Ogi Berri Matia",
-                "link": "https://www.google.com/maps/search/Ogi+Berri+Matia/@43.3146273,-2.0009888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
-                "rating": 3.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Ogiberri",
-                "link": "https://www.google.com/maps/search/Ogiberri/@43.3098642,-2.0078603999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 153,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Ogi Berri",
-                "link": "https://www.google.com/maps/search/Ogi+Berri/@43.3059357,-1.9755532999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 57,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "http://www.ogiberri.com/",
-        "owner": {
-            "id": "112659009441916156804",
-            "name": "Ogiberri Sancho Sabio (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112659009441916156804"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMInrzNS4W5RUncHcE8yB0nkw9gzz3I2X1JFWPF=w408-h544-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 3.9,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+34 943 47 24 19",
-        "address": "Ogiberri Sancho Sabio, Antso Jakituna Hiribidea, 24, 20010 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Can Bao ",
-                "count": 5
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 4
-            },
-            {
-                "keyword": "Tian ",
-                "count": 3
-            },
-            {
-                "keyword": "Zhuo ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Ogiberri+Sancho+Sabio/data=!4m7!3m6!1s0xd51af2f599430c1:0xf9edd08460ceda48!8m2!3d43.3088492!4d-1.9800274!16s%2Fg%2F11k3ljhzsh!19sChIJwTCUWS-vUQ0RSNrOYITQ7fk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ7VBDQUWlUQ0RVfFdrV02Ah4",
         "name": "Fam Kafe",
         "description": null,
@@ -3021,7 +2963,7 @@
             {
                 "name": "La Guinda Deli & Coffe",
                 "link": "https://www.google.com/maps/search/La+Guinda+Deli+%26+Coffe/@43.32557980000001,-1.972951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 868,
+                "reviews": 869,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -3054,7 +2996,7 @@
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://m.facebook.com/famkafe?refsrc=https://www.facebook.com/famkafe",
+        "website": "https://m.facebook.com/famkafe%3Frefsrc%3Dhttps://www.facebook.com/famkafe",
         "owner": {
             "id": "103048723409684608208",
             "name": "Fam Kafe (Ye Zhu )",
@@ -3116,7 +3058,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -3151,6 +3093,7 @@
         "rating": 4.9,
         "workday_timing": "09:00-13:00, 17:00-19:30",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -3245,7 +3188,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -3282,6 +3225,7 @@
         "rating": 4.8,
         "workday_timing": "09:45-13:15, 16:30-19:30",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+34 943 46 49 35",
@@ -3318,7 +3262,7 @@
             {
                 "name": "Fusion cafe y Panaderia gros.",
                 "link": "https://www.google.com/maps/search/Fusion+caf%C3%A9+y+Panaderia+gros./@43.3224873,-1.9745606000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 242,
+                "reviews": 244,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -3384,7 +3328,12 @@
         ],
         "phone": "+34 682 35 60 78",
         "address": "Pistacho coffee brunch gros, Zabaleta Kalea, 57, 20001 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [],
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 3
+            }
+        ],
         "link": "https://www.google.com/maps/place/Pistacho+coffee+brunch+gros/data=!4m7!3m6!1s0xd51a515a858c4b3:0x16e43a549102cf45!8m2!3d43.3257265!4d-1.9727413!16s%2Fg%2F11l6hmqfz3!19sChIJs8RYqBWlUQ0RRc8CkVQ65BY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
@@ -3430,7 +3379,7 @@
             {
                 "name": "Ogi Berri Matia",
                 "link": "https://www.google.com/maps/search/Ogi+Berri+Matia/@43.3146273,-2.0009888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 3.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3476,6 +3425,44 @@
         "link": "https://www.google.com/maps/place/Ogi+Berri/data=!4m7!3m6!1s0xd51affa8b3e7f83:0x2007a048d568af4!8m2!3d43.3049436!4d-1.9795223!16s%2Fg%2F11dfhszvg0!19sChIJg38-i_qvUQ0R9IpWjQR6AAI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJaSEWSyalUQ0Rorr3MO__BDo",
+        "name": "E PRONTO",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [],
+        "website": "http://instagram.com/epronto__",
+        "owner": {
+            "id": "117389762416904107797",
+            "name": "E PRONTO (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117389762416904107797"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPX69iBAlnLZh61228M0evv0u9-IfEhO6BwgWjc=w408-h544-k-no",
+        "main_category": "Wai Mai Zi Qu Can Ting ",
+        "categories": [
+            "Wai Mai Zi Qu Can Ting ",
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-13:00, 20:00-22:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+34 651 40 52 03",
+        "address": "E PRONTO, C. Jose Miguel Barandiaran, 24, 20013 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Tu Si ",
+                "count": 3
+            },
+            {
+                "keyword": "Ka Pei ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%C3%88+PRONTO/data=!4m7!3m6!1s0xd51a5264b162169:0x3a04ffef30f7baa2!8m2!3d43.3282481!4d-1.9705605!16s%2Fg%2F11v9b_hn03!19sChIJaSEWSyalUQ0Rorr3MO__BDo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ_4tTKIuvUQ0R8epvqZOyZO8",
         "name": "larraitz kafetegia",
         "description": null,
@@ -3485,7 +3472,7 @@
             {
                 "name": "Olaeta Kafetegia",
                 "link": "https://www.google.com/maps/search/Olaeta+Kafetegia/@43.302516999999995,-1.9781452?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 344,
+                "reviews": 345,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3541,61 +3528,6 @@
         "link": "https://www.google.com/maps/place/larraitz+kafetegia/data=!4m7!3m6!1s0xd51af8b28538bff:0xef64b293a96feaf1!8m2!3d43.309911!4d-1.9678997!16s%2Fg%2F1q66xqc8m!19sChIJ_4tTKIuvUQ0R8epvqZOyZO8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJg35TBNa7UQ0RxTEjnlBXLa0",
-        "name": "Terraza Santa Clara - La Perla",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "La Pei Er La Ba Er Lei Si Tao Lan Te ",
-                "link": "https://www.google.com/maps/search/%E6%8B%89%E4%BD%A9%E7%88%BE%E6%8B%89%E5%B7%B4%E7%88%BE%E9%9B%B7%E6%96%AF%E9%99%B6%E8%98%AD%E7%89%B9/@43.3154178,-1.9891851999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4178,
-                "rating": 4.2,
-                "main_category": "Di Zhong Hai Cai "
-            },
-            {
-                "name": "Pirpira cafe",
-                "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "La Hora del Cafe",
-                "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Urban Coffee",
-                "link": "https://www.google.com/maps/search/Urban+Coffee/@43.3146171,-1.9825195999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "http://www.la-perla.net/",
-        "owner": {
-            "id": "107506716160183577519",
-            "name": "Terraza Santa Clara - La Perla (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107506716160183577519"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMl67wga-ubEmJwLMmL2v5q91Ny6HdXJi6fd82p=w408-h271-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 3.3,
-        "workday_timing": "11:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+34 943 45 88 56",
-        "address": "Terraza Santa Clara - La Perla, Edificio La Perla, Kontxa Pasealekua, 20007 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Terraza+Santa+Clara+-+La+Perla/data=!4m7!3m6!1s0xd51bbd604537e83:0xad2d57509e2331c5!8m2!3d43.3153043!4d-1.9893499!16s%2Fg%2F11sj7zqgzh!19sChIJg35TBNa7UQ0RxTEjnlBXLa0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJa2jpN0OlUQ0RquY1triIS04",
         "name": "Syra Coffee - Kolon",
         "description": null,
@@ -3622,61 +3554,6 @@
         "link": "https://www.google.com/maps/place/Syra+Coffee+-+Kolon/data=!4m7!3m6!1s0xd51a54337e9686b:0x4e4b88b8b635e6aa!8m2!3d43.3225385!4d-1.9774203!16s%2Fg%2F11y1rz6d8c!19sChIJa2jpN0OlUQ0RquY1triIS04?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ_-KAfVmlUQ0RZ7VoIzMn96c",
-        "name": "Konekta Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Pirpira cafe",
-                "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Taba",
-                "link": "https://www.google.com/maps/search/Taba/@43.3170998,-1.9757718999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 101,
-                "rating": 3.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Caffe Terzi",
-                "link": "https://www.google.com/maps/search/Caff%C3%A8+Terzi/@43.317102999999996,-1.9757907000000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 3.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafeteria tabakalera",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+tabakalera/@43.317222,-1.9760000000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 2.5,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": "http://konektacafe.com/",
-        "owner": {
-            "id": null,
-            "name": "Konekta Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VhNVglVN2WklNUQS-T3Zow&cb_client=search.gws-prod.gps&w=408&h=240&yaw=275.34286&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+34 943 30 90 30",
-        "address": "Konekta Cafe, Tabakalera, Pl. Nestor Basterretxea, 1, 20012 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Konekta+Caf%C3%A9/data=!4m7!3m6!1s0xd51a5597d80e2ff:0xa7f727332368b567!8m2!3d43.3172832!4d-1.9754742!16s%2Fg%2F11f541d81m!19sChIJ_-KAfVmlUQ0RZ7VoIzMn96c?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJRxdrA1elUQ0RdHPlAKRDFnw",
         "name": "Cafeteria Express",
         "description": null,
@@ -3686,14 +3563,14 @@
             {
                 "name": "Old Town Coffee",
                 "link": "https://www.google.com/maps/search/Old+Town+Coffee/@43.3157193,-1.9809877000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1559,
+                "reviews": 1561,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Restaurante El Rincon",
                 "link": "https://www.google.com/maps/search/Restaurante+El+Rinc%C3%B3n/@43.3149136,-1.9804023999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 565,
+                "reviews": 567,
                 "rating": 3.9,
                 "main_category": "Shao Kao "
             },
@@ -3707,7 +3584,7 @@
             {
                 "name": "Viena",
                 "link": "https://www.google.com/maps/search/Viena/@43.3155546,-1.9805503999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
+                "reviews": 282,
                 "rating": 4,
                 "main_category": "Xi Ban Ya Xiao Shi Jiu Ba "
             }
@@ -3756,14 +3633,14 @@
             {
                 "name": "Teresatxo Taberna",
                 "link": "https://www.google.com/maps/search/Teresatxo+Taberna/@43.30561,-2.004987?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1133,
+                "reviews": 1135,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Munto Berri Kafe Taberna",
                 "link": "https://www.google.com/maps/search/Munto+Berri+Kafe+Taberna/@43.307600099999995,-1.9934945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 599,
+                "reviews": 600,
                 "rating": 3.6,
                 "main_category": "Shao Kao "
             },
@@ -3784,7 +3661,7 @@
             {
                 "name": "Arkaitzak taberna",
                 "link": "https://www.google.com/maps/search/Arkaitzak+taberna/@43.305363799999995,-2.0046527?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 89,
+                "reviews": 90,
                 "rating": 4.6,
                 "main_category": "Shao Kao "
             }
@@ -3809,12 +3686,12 @@
         "address": "Caffe - Berri, Zarautz Kalea, 82, 20018 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [
             {
-                "keyword": "Jia Ge ",
-                "count": 77
-            },
-            {
                 "keyword": "Zao Can ",
                 "count": 35
+            },
+            {
+                "keyword": "Chu Fang ",
+                "count": 8
             },
             {
                 "keyword": "Fu You ",
@@ -3836,7 +3713,7 @@
         "name": "IruBi Kafea",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 603,
+        "reviews": 604,
         "competitors": [
             {
                 "name": "BB Kafe",
@@ -3848,14 +3725,14 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Udaberri",
                 "link": "https://www.google.com/maps/search/Udaberri/@43.3156037,-1.9808739999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 558,
+                "reviews": 559,
                 "rating": 4.1,
                 "main_category": "Jiu Ba "
             },
@@ -3869,7 +3746,7 @@
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -3889,6 +3766,7 @@
         "rating": 4.1,
         "workday_timing": "08:30-20:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+34 943 46 66 61",
@@ -3930,19 +3808,19 @@
         "name": "Avenida XXI",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 573,
+        "reviews": 574,
         "competitors": [
             {
                 "name": "Yellow Deli San Sebastian",
                 "link": "https://www.google.com/maps/search/Yellow+Deli+San+Sebastian/@43.3237209,-1.9819445?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1029,
+                "reviews": 1032,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4022,14 +3900,14 @@
             {
                 "name": "Tahona Okindegia",
                 "link": "https://www.google.com/maps/search/Tahona+Okindegia/@43.317124799999995,-1.9838974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 590,
+                "reviews": 592,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "La Bodeguilla",
                 "link": "https://www.google.com/maps/search/La+Bodeguilla/@43.314509799999996,-1.9825451?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 581,
+                "reviews": 583,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
@@ -4043,7 +3921,7 @@
             {
                 "name": "Bells taberna",
                 "link": "https://www.google.com/maps/search/Bells+taberna/@43.3242906,-1.9841137999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 100,
+                "reviews": 101,
                 "rating": 4.9,
                 "main_category": "Jiu Ba "
             },
@@ -4076,16 +3954,12 @@
         "address": "La Bella Easo, Easo Plaza, 7, 20006 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [
             {
+                "keyword": "Chan Pin ",
+                "count": 11
+            },
+            {
                 "keyword": "Huo Tui ",
                 "count": 10
-            },
-            {
-                "keyword": "Pi Jiu ",
-                "count": 10
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 9
             },
             {
                 "keyword": "Guang Chang ",
@@ -4094,28 +3968,129 @@
             {
                 "keyword": "tapas",
                 "count": 7
+            },
+            {
+                "keyword": "Fu You ",
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/La+Bella+Easo/data=!4m7!3m6!1s0xd51a5566e485cdd:0xa6fcc57cb43ca9a3!8m2!3d43.3140439!4d-1.9825816!16s%2Fg%2F1226mnhk!19sChIJ3VxIblalUQ0Ro6k8tHzF_KY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJj-DW_Ka6UQ0R2xqFdlulNac",
+        "name": "Ogi Berri Matia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 562,
+        "competitors": [
+            {
+                "name": "La Tahona",
+                "link": "https://www.google.com/maps/search/La+Tahona/@43.3141612,-2.0015991?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 461,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Ogi Berri",
+                "link": "https://www.google.com/maps/search/Ogi+Berri/@43.3135163,-2.0026492?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 159,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Ogiberri",
+                "link": "https://www.google.com/maps/search/Ogiberri/@43.3098642,-2.0078603999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 153,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Ogi Berri Okindegia",
+                "link": "https://www.google.com/maps/search/Ogi+Berri+Okindegia/@43.316497,-1.9723031?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 135,
+                "rating": 3.9,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Otaegui Gozotegia - Matia Kalea - Donostia",
+                "link": "https://www.google.com/maps/search/Otaegui+Gozotegia+-+Matia+Kalea+-+Donostia/@43.3143276,-2.0012849999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 34,
+                "rating": 4.6,
+                "main_category": "Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "106813788955785497334",
+            "name": "Ogi Berri Matia (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106813788955785497334"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMSbQlJQQq6iP6StZ0QLk-6utEfxk92UAvyA3Gl=w408-h544-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian ",
+            "Ka Pei Dian ",
+            "Gao Bing Dian "
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Ogi Berri Matia, Matia Kalea, 6, 20008 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 63
+            },
+            {
+                "keyword": "Chan Pin ",
+                "count": 32
+            },
+            {
+                "keyword": "Ka Pei Ting ",
+                "count": 28
+            },
+            {
+                "keyword": "Lu You ",
+                "count": 14
+            },
+            {
+                "keyword": "Xiao Rong ",
+                "count": 12
+            },
+            {
+                "keyword": "Fan Qie ",
+                "count": 9
+            },
+            {
+                "keyword": "Qiao Ke Li Ke Song ",
+                "count": 7
+            },
+            {
+                "keyword": "Qiang Jie ",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ogi+Berri+Matia/data=!4m7!3m6!1s0xd51baa6fcd6e08f:0xa735a55b76851adb!8m2!3d43.3146273!4d-2.0009888!16s%2Fg%2F1wfvnzm0!19sChIJj-DW_Ka6UQ0R2xqFdlulNac?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJEYdY4lalUQ0RJNSGvGoGhUw",
         "name": "Udaberri",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 558,
+        "reviews": 559,
         "competitors": [
             {
                 "name": "Cafeteria Bideluze",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Bideluze/@43.320479,-1.983377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2044,
+                "reviews": 2046,
                 "rating": 4.1,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "IruBi Kafea",
                 "link": "https://www.google.com/maps/search/IruBi+Kafea/@43.31615550000001,-1.9818947999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 603,
+                "reviews": 604,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -4129,7 +4104,7 @@
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -4204,7 +4179,7 @@
             {
                 "name": "Fusion cafe y Panaderia gros.",
                 "link": "https://www.google.com/maps/search/Fusion+caf%C3%A9+y+Panaderia+gros./@43.3224873,-1.9745606000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 242,
+                "reviews": 244,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -4218,7 +4193,7 @@
             {
                 "name": "La Hora del Cafe",
                 "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
@@ -4261,95 +4236,11 @@
         "link": "https://www.google.com/maps/place/El+Caf%C3%A9+De+Gros/data=!4m7!3m6!1s0xd51a544b9ac95a1:0x592fea2989dd1923!8m2!3d43.3229031!4d-1.9745255!16s%2Fg%2F11b6ycmgrn!19sChIJoZWsuUSlUQ0RIxndiSnqL1k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJbTq_T6C6UQ0RDY20oLIYwfE",
-        "name": "Urgain",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 540,
-        "competitors": [
-            {
-                "name": "Bar Campus",
-                "link": "https://www.google.com/maps/search/Bar+Campus/@43.312720399999996,-2.0092575999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 993,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Trikua",
-                "link": "https://www.google.com/maps/search/Trikua/@43.3108745,-2.0079485999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 376,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Ogiberri",
-                "link": "https://www.google.com/maps/search/Ogiberri/@43.3098642,-2.0078603999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 153,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Bidea",
-                "link": "https://www.google.com/maps/search/Bidea/@43.3189518,-1.9666346999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 108,
-                "rating": 3.9,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Ondarreta",
-                "link": "https://www.google.com/maps/search/Ondarreta/@43.3140991,-2.0040736999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
-                "rating": 3.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Urgain (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOJnqZFIvZNMjb5cmd6CeKdfg3nArUa6DSkBPK=w408-h240-k-no-pi-0-ya127.22426-ro0-fo100",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba ",
-            "Zi Zhu Can Ting "
-        ],
-        "rating": 3.9,
-        "workday_timing": "07:00-00:00",
-        "closed_on": "Open All Days",
-        "phone": "+34 943 31 26 06",
-        "address": "Urgain, Trento Kalea, 6, 20018 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Sha Tan ",
-                "count": 11
-            },
-            {
-                "keyword": "Pi Jiu ",
-                "count": 7
-            },
-            {
-                "keyword": "Chu Fang ",
-                "count": 6
-            },
-            {
-                "keyword": "E Gan ",
-                "count": 5
-            },
-            {
-                "keyword": "tapas",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Urgain/data=!4m7!3m6!1s0xd51baa04fbf3a6d:0xf1c118b2a0b48d0d!8m2!3d43.3140023!4d-2.0058708!16s%2Fg%2F1tgyy0l3!19sChIJbTq_T6C6UQ0RDY20oLIYwfE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJXTSz8nCwUQ0RKgtLd1KMvwI",
         "name": "MARUGAME Cafe Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 539,
+        "reviews": 540,
         "competitors": [
             {
                 "name": "Mantangorri",
@@ -4446,6 +4337,90 @@
         "link": "https://www.google.com/maps/place/MARUGAME+Caf%C3%A9+Bar/data=!4m7!3m6!1s0xd51b070f2b3345d:0x2bf8c52774b0b2a!8m2!3d43.3051153!4d-2.0163502!16s%2Fg%2F11y06sf46!19sChIJXTSz8nCwUQ0RKgtLd1KMvwI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJbTq_T6C6UQ0RDY20oLIYwfE",
+        "name": "Urgain",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 540,
+        "competitors": [
+            {
+                "name": "Bar Campus",
+                "link": "https://www.google.com/maps/search/Bar+Campus/@43.312720399999996,-2.0092575999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 993,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Trikua",
+                "link": "https://www.google.com/maps/search/Trikua/@43.3108745,-2.0079485999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 376,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Ogiberri",
+                "link": "https://www.google.com/maps/search/Ogiberri/@43.3098642,-2.0078603999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 153,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Bidea",
+                "link": "https://www.google.com/maps/search/Bidea/@43.3189518,-1.9666346999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 108,
+                "rating": 3.9,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Ondarreta",
+                "link": "https://www.google.com/maps/search/Ondarreta/@43.3140991,-2.0040736999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 39,
+                "rating": 3.8,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Urgain (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOJnqZFIvZNMjb5cmd6CeKdfg3nArUa6DSkBPK=w408-h240-k-no-pi-0-ya127.22426-ro0-fo100",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba ",
+            "Zi Zhu Can Ting "
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-00:00",
+        "closed_on": "Open All Days",
+        "phone": "+34 943 31 26 06",
+        "address": "Urgain, Trento Kalea, 6, 20018 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Sha Tan ",
+                "count": 11
+            },
+            {
+                "keyword": "Pi Jiu ",
+                "count": 7
+            },
+            {
+                "keyword": "Chu Fang ",
+                "count": 6
+            },
+            {
+                "keyword": "E Gan ",
+                "count": 5
+            },
+            {
+                "keyword": "tapas",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Urgain/data=!4m7!3m6!1s0xd51baa04fbf3a6d:0xf1c118b2a0b48d0d!8m2!3d43.3140023!4d-2.0058708!16s%2Fg%2F1tgyy0l3!19sChIJbTq_T6C6UQ0RDY20oLIYwfE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJgRdQSk6lUQ0RNJghL3i4eMA",
         "name": "ARGITAN",
         "description": null,
@@ -4469,7 +4444,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4544,7 +4519,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4565,7 +4540,7 @@
             {
                 "name": "La Hora del Cafe",
                 "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -4624,7 +4599,7 @@
         "name": "Tahona Okindegia",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 466,
+        "reviews": 467,
         "competitors": [
             {
                 "name": "El Cafe De Gros",
@@ -4721,12 +4696,12 @@
         "name": "La Tahona",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 460,
+        "reviews": 461,
         "competitors": [
             {
                 "name": "Ogi Berri Matia",
                 "link": "https://www.google.com/maps/search/Ogi+Berri+Matia/@43.3146273,-2.0009888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 3.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4821,7 +4796,7 @@
         "name": "Fusion Kafe & Okindegia BENTABERRI",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 445,
+        "reviews": 446,
         "competitors": [
             {
                 "name": "BB Kafe",
@@ -4840,7 +4815,7 @@
             {
                 "name": "Fusion cafe y Panaderia gros.",
                 "link": "https://www.google.com/maps/search/Fusion+caf%C3%A9+y+Panaderia+gros./@43.3224873,-1.9745606000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 242,
+                "reviews": 244,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -4910,7 +4885,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4931,7 +4906,7 @@
             {
                 "name": "Fusion Kafe & Okindegia BENTABERRI",
                 "link": "https://www.google.com/maps/search/Fusion+Kafe+%26+Okindegia+BENTABERRI/@43.3106116,-2.008027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 445,
+                "reviews": 446,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             }
@@ -4991,14 +4966,14 @@
             {
                 "name": "BIDELUZE KAFE TABERNA",
                 "link": "https://www.google.com/maps/search/BIDELUZE+KAFE+TABERNA/@43.3207336,-1.9817458?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2394,
+                "reviews": 2395,
                 "rating": 3.9,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "CARAVANSERAI",
                 "link": "https://www.google.com/maps/search/CARAVANSERAI/@43.3164844,-1.9820084?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2107,
+                "reviews": 2110,
                 "rating": 3.9,
                 "main_category": "Shao Kao "
             },
@@ -5037,7 +5012,7 @@
         "review_keywords": [
             {
                 "keyword": "Zao Can ",
-                "count": 29
+                "count": 30
             },
             {
                 "keyword": "Jia Ge ",
@@ -5045,7 +5020,7 @@
             },
             {
                 "keyword": "Xian Pai ",
-                "count": 8
+                "count": 9
             },
             {
                 "keyword": "Ke Song ",
@@ -5067,12 +5042,12 @@
         "name": "Olaeta Kafetegia",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 344,
+        "reviews": 345,
         "competitors": [
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -5120,6 +5095,7 @@
         "rating": 4,
         "workday_timing": "07:00-22:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+34 943 46 03 99",
@@ -5228,11 +5204,107 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Loft/data=!4m7!3m6!1s0xd51a544d06dd6fb:0xe9132d6ecdd5815f!8m2!3d43.3227778!4d-1.9752778!16s%2Fg%2F11bwy_qr52!19sChIJ-9Zt0ESlUQ0RX4HVzW4tE-k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJVxzqZFalUQ0RePZ3QwLxyns",
+        "name": "Pirpira cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 304,
+        "competitors": [
+            {
+                "name": "IruBi Kafea",
+                "link": "https://www.google.com/maps/search/IruBi+Kafea/@43.31615550000001,-1.9818947999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 604,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Donostea& Coffee",
+                "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 598,
+                "rating": 4.4,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Cafeteria Iturralde",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Iturralde/@43.3199452,-1.9806796999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 466,
+                "rating": 4.8,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Panchito",
+                "link": "https://www.google.com/maps/search/Panchito/@43.320598600000004,-1.9820693999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 145,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Ekafetegia",
+                "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 99,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "102913056823956909263",
+            "name": "Pirpira cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102913056823956909263"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPnsaNlS80wiQy-AznfoyQXX0RWLKVthkFKeGdT=w408-h272-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-22:30",
+        "closed_on": "Open All Days",
+        "phone": "+34 943 05 13 40",
+        "address": "Pirpira cafe, Easo Plaza, 4, 20006 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 28
+            },
+            {
+                "keyword": "Pi Jiu ",
+                "count": 9
+            },
+            {
+                "keyword": "Tu Si ",
+                "count": 8
+            },
+            {
+                "keyword": "Yin Le ",
+                "count": 5
+            },
+            {
+                "keyword": "Liu Cheng Zhi ",
+                "count": 5
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 5
+            },
+            {
+                "keyword": "Ke Song ",
+                "count": 3
+            },
+            {
+                "keyword": "Fu You ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Pirpira+caf%C3%A9/data=!4m7!3m6!1s0xd51a55664ea1c57:0x7bcaf1024377f678!8m2!3d43.3143816!4d-1.9825393!16s%2Fg%2F11b5wm5rg2!19sChIJVxzqZFalUQ0RePZ3QwLxyns?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJI1Zd9PGvUQ0R0dW_A45Zek8",
         "name": "ART Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 305,
+        "reviews": 304,
         "competitors": [
             {
                 "name": "Arrate * Tasca de aperitivos",
@@ -5301,184 +5373,6 @@
         "link": "https://www.google.com/maps/place/ART+Caf%C3%A9/data=!4m7!3m6!1s0xd51aff1f45d5623:0x4f7a598e03bfd5d1!8m2!3d43.304027!4d-1.9737772!16s%2Fg%2F1v8j1rtz!19sChIJI1Zd9PGvUQ0R0dW_A45Zek8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJVxzqZFalUQ0RePZ3QwLxyns",
-        "name": "Pirpira cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 303,
-        "competitors": [
-            {
-                "name": "IruBi Kafea",
-                "link": "https://www.google.com/maps/search/IruBi+Kafea/@43.31615550000001,-1.9818947999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 603,
-                "rating": 4.1,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Donostea& Coffee",
-                "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
-                "rating": 4.4,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Cafeteria Iturralde",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Iturralde/@43.3199452,-1.9806796999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 466,
-                "rating": 4.8,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Panchito",
-                "link": "https://www.google.com/maps/search/Panchito/@43.320598600000004,-1.9820693999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Ekafetegia",
-                "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "102913056823956909263",
-            "name": "Pirpira cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102913056823956909263"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPnsaNlS80wiQy-AznfoyQXX0RWLKVthkFKeGdT=w408-h272-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Ka Pei Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "08:00-22:30",
-        "closed_on": "Open All Days",
-        "phone": "+34 943 05 13 40",
-        "address": "Pirpira cafe, Easo Plaza, 4, 20006 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 28
-            },
-            {
-                "keyword": "Pi Jiu ",
-                "count": 9
-            },
-            {
-                "keyword": "Tu Si ",
-                "count": 8
-            },
-            {
-                "keyword": "Yin Le ",
-                "count": 5
-            },
-            {
-                "keyword": "Liu Cheng Zhi ",
-                "count": 5
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 5
-            },
-            {
-                "keyword": "Ke Song ",
-                "count": 3
-            },
-            {
-                "keyword": "Fu You ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Pirpira+caf%C3%A9/data=!4m7!3m6!1s0xd51a55664ea1c57:0x7bcaf1024377f678!8m2!3d43.3143816!4d-1.9825393!16s%2Fg%2F11b5wm5rg2!19sChIJVxzqZFalUQ0RePZ3QwLxyns?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJx5c4U1ulUQ0Roi3M-FQOHuM",
-        "name": "Kaiola",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 233,
-        "competitors": [
-            {
-                "name": "Kai Street food & Drinks",
-                "link": "https://www.google.com/maps/search/Kai+Street+food+%26+Drinks/@43.3252283,-1.9738346?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 363,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "RKA Pub Kafea",
-                "link": "https://www.google.com/maps/search/RKA+Pub+Kafea/@43.323287199999996,-1.9734578999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 224,
-                "rating": 4.2,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Bar Soroa",
-                "link": "https://www.google.com/maps/search/Bar+Soroa/@43.3230103,-1.9706762999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 179,
-                "rating": 3.9,
-                "main_category": "Xi Ban Ya Xiao Shi Jiu Ba "
-            },
-            {
-                "name": "Kaioak Taberna",
-                "link": "https://www.google.com/maps/search/Kaioak+Taberna/@43.2907705,-1.9964020000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Katilu Kafetegia",
-                "link": "https://www.google.com/maps/search/Katilu+Kafetegia/@43.325131,-1.970525?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "105280546175596068406",
-            "name": "Kaiola (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105280546175596068406"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPMOkmcMCfF5sbvFvWp5D_kkSfWYvQKdP6k0fO=w408-h408-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "12:00-02:30",
-        "closed_on": [
-            "Xing Qi Er "
-        ],
-        "phone": null,
-        "address": "Kaiola, Mirakruz Kalea, 24, 20001 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Yin Le ",
-                "count": 18
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 10
-            },
-            {
-                "keyword": "Fei Biao ",
-                "count": 8
-            },
-            {
-                "keyword": "Bei ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Kaiola/data=!4m7!3m6!1s0xd51a55b533897c7:0xe31e0e54f8cc2da2!8m2!3d43.3220618!4d-1.9739043!16s%2Fg%2F11cmf_7bj2!19sChIJx5c4U1ulUQ0Roi3M-FQOHuM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJsZ4PYPqvUQ0RbF7gIztjiH8",
         "name": "Plaza Kafe - Taberna",
         "description": null,
@@ -5488,7 +5382,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -5575,7 +5469,7 @@
             {
                 "name": "Bar y Cafeteria Zuhaizti, VENEZUELASNACKS",
                 "link": "https://www.google.com/maps/search/Bar+y+Cafeter%C3%ADa+Zuhaizti%2C+VENEZUELASNACKS/@43.321643099999996,-1.9732629000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.6,
                 "main_category": "Shao Kao "
             },
@@ -5606,7 +5500,7 @@
         "review_keywords": [
             {
                 "keyword": "Tu Si ",
-                "count": 35
+                "count": 36
             },
             {
                 "keyword": "Zhuo ",
@@ -5618,14 +5512,14 @@
             },
             {
                 "keyword": "Zao Wu Can ",
-                "count": 9
+                "count": 10
             },
             {
-                "keyword": "Huan Jing ",
-                "count": 7
+                "keyword": "Luo Li ",
+                "count": 5
             },
             {
-                "keyword": "Nai Xi ",
+                "keyword": "vegan",
                 "count": 5
             }
         ],
@@ -5648,14 +5542,14 @@
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "La Hora del Cafe",
                 "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -5669,7 +5563,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -5718,7 +5612,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -5805,7 +5699,7 @@
         "name": "Delices Maiatza",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 174,
+        "reviews": 176,
         "competitors": [],
         "website": null,
         "owner": {
@@ -5865,7 +5759,7 @@
         "name": "La Hora del Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 172,
+        "reviews": 173,
         "competitors": [
             {
                 "name": "El Cafe De Gros",
@@ -5877,7 +5771,7 @@
             {
                 "name": "Cafeteria Atotxa",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Atotxa/@43.3197925,-1.9750010999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 510,
+                "reviews": 511,
                 "rating": 3.8,
                 "main_category": "Shao Kao "
             },
@@ -5898,7 +5792,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -5973,7 +5867,7 @@
             {
                 "name": "IruBi Kafea",
                 "link": "https://www.google.com/maps/search/IruBi+Kafea/@43.31615550000001,-1.9818947999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 603,
+                "reviews": 604,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -5987,7 +5881,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -6034,7 +5928,7 @@
             {
                 "name": "Ogi Berri Matia",
                 "link": "https://www.google.com/maps/search/Ogi+Berri+Matia/@43.3146273,-2.0009888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 3.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -6055,7 +5949,7 @@
             {
                 "name": "Ogi Berri Altuna",
                 "link": "https://www.google.com/maps/search/Ogi+Berri+Altuna/@43.3055121,-2.0053514?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 198,
+                "reviews": 199,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -6114,7 +6008,7 @@
             {
                 "name": "HARITZA 22",
                 "link": "https://www.google.com/maps/search/HARITZA+22/@43.303456399999995,-1.9760790000000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 850,
+                "reviews": 851,
                 "rating": 4.1,
                 "main_category": "Shao Kao "
             },
@@ -6177,7 +6071,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -6252,14 +6146,14 @@
             {
                 "name": "Ogi Berri Matia",
                 "link": "https://www.google.com/maps/search/Ogi+Berri+Matia/@43.3146273,-2.0009888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 3.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "La Tahona",
                 "link": "https://www.google.com/maps/search/La+Tahona/@43.3141612,-2.0015991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 460,
+                "reviews": 461,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -6332,19 +6226,19 @@
         "name": "De Norte a Sur",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 110,
+        "reviews": 111,
         "competitors": [
             {
                 "name": "La Guinda Deli & Coffe",
                 "link": "https://www.google.com/maps/search/La+Guinda+Deli+%26+Coffe/@43.32557980000001,-1.972951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 868,
+                "reviews": 869,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -6432,7 +6326,7 @@
             {
                 "name": "Cafeteria Atotxa",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Atotxa/@43.3197925,-1.9750010999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 510,
+                "reviews": 511,
                 "rating": 3.8,
                 "main_category": "Shao Kao "
             },
@@ -6494,14 +6388,14 @@
             {
                 "name": "Rojo y Negro",
                 "link": "https://www.google.com/maps/search/Rojo+y+Negro/@43.318082499999996,-1.9841492?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1831,
+                "reviews": 1834,
                 "rating": 4,
                 "main_category": "Xi Ban Ya Xiao Shi Jiu Ba "
             },
             {
                 "name": "Bar Desy",
                 "link": "https://www.google.com/maps/search/Bar+Desy/@43.3220525,-1.9764283999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 876,
+                "reviews": 879,
                 "rating": 4.7,
                 "main_category": "Xi Ban Ya Xiao Shi Jiu Ba "
             },
@@ -6522,7 +6416,7 @@
             {
                 "name": "Viena",
                 "link": "https://www.google.com/maps/search/Viena/@43.3155546,-1.9805503999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
+                "reviews": 282,
                 "rating": 4,
                 "main_category": "Xi Ban Ya Xiao Shi Jiu Ba "
             }
@@ -6557,19 +6451,19 @@
         "name": "Ekafetegia",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 98,
+        "reviews": 99,
         "competitors": [
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Tahona Okindegia",
                 "link": "https://www.google.com/maps/search/Tahona+Okindegia/@43.317124799999995,-1.9838974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 590,
+                "reviews": 592,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -6615,7 +6509,7 @@
         "review_keywords": [
             {
                 "keyword": "Mian Bao Dian ",
-                "count": 8
+                "count": 9
             },
             {
                 "keyword": "Can Bao ",
@@ -6626,11 +6520,11 @@
                 "count": 5
             },
             {
-                "keyword": "Fu You ",
-                "count": 3
+                "keyword": "Ke Song ",
+                "count": 4
             },
             {
-                "keyword": "Ke Song ",
+                "keyword": "Fu You ",
                 "count": 3
             },
             {
@@ -6664,7 +6558,7 @@
             {
                 "name": "Pirpira cafe",
                 "link": "https://www.google.com/maps/search/Pirpira+caf%C3%A9/@43.3143816,-1.9825393000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 304,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -6712,7 +6606,7 @@
         "name": "ZOOM Cafe & Mas",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 93,
+        "reviews": 95,
         "competitors": [],
         "website": null,
         "owner": {
@@ -6793,7 +6687,7 @@
             {
                 "name": "Kafe Taberna Aspaldiko",
                 "link": "https://www.google.com/maps/search/Kafe+Taberna+Aspaldiko/@43.3116152,-2.0055218?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 415,
+                "reviews": 417,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -6853,12 +6747,12 @@
         "name": "Ogiberri Altuna",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 88,
+        "reviews": 89,
         "competitors": [
             {
                 "name": "Tahona Okindegia",
                 "link": "https://www.google.com/maps/search/Tahona+Okindegia/@43.317124799999995,-1.9838974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 590,
+                "reviews": 592,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -6902,7 +6796,7 @@
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": 3.6,
+        "rating": 3.5,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
@@ -6940,12 +6834,12 @@
         "name": "Cafeteria Astoria",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 78,
+        "reviews": 79,
         "competitors": [
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -7056,7 +6950,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-13:00, 16:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+34 943 27 23 82",
         "address": "Cafe Salvador, Pasaia Kalea, 1, 20013 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [
@@ -7066,75 +6962,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Salvador/data=!4m7!3m6!1s0xd51a568097e83bf:0x2b61aaa0bcddcb03!8m2!3d43.3223576!4d-1.9677788!16s%2Fg%2F12qgy65h0!19sChIJv4N-CWilUQ0RA8vdvKCqYSs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJDW4bfeWxUQ0R90_FQtmdr8s",
-        "name": "Tripontxi Kafetegia",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 74,
-        "competitors": [
-            {
-                "name": "Caffe - Berri",
-                "link": "https://www.google.com/maps/search/Caffe+-+Berri/@43.30595340000001,-2.0058366999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 618,
-                "rating": 4.2,
-                "main_category": "Shao Kao "
-            },
-            {
-                "name": "Restaurante Tripontzi",
-                "link": "https://www.google.com/maps/search/Restaurante+Tripontzi/@43.2655385,-1.9748632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 455,
-                "rating": 4.6,
-                "main_category": "Ba Si Ke Liao Li "
-            },
-            {
-                "name": "Trikua",
-                "link": "https://www.google.com/maps/search/Trikua/@43.3108745,-2.0079485999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 376,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Inausti",
-                "link": "https://www.google.com/maps/search/I%C3%B1austi/@43.3005813,-2.0044527?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kafe Izozkitegia Opil Okindegia Gozotegia",
-                "link": "https://www.google.com/maps/search/Kafe+Izozkitegia+Opil+Okindegia+Gozotegia/@43.3055121,-2.0053514?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "112507536011282245268",
-            "name": "Tripontxi Kafetegia (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112507536011282245268"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqpZYUbuLgGM13ZBa2yOnSmgBYrPvzB4CXaHUV=w408-h543-k-no",
-        "main_category": "Zi Zhu Can Ting ",
-        "categories": [
-            "Zi Zhu Can Ting ",
-            "Ka Pei Ting ",
-            "Ka Pei Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+34 943 31 71 00",
-        "address": "Tripontxi Kafetegia, Pinu Bidea, 35, 20018 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 10
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Tripontxi+Kafetegia/data=!4m7!3m6!1s0xd51b1e57d1b6e0d:0xcbaf9dd942c54ff7!8m2!3d43.3038708!4d-2.0016091!16s%2Fg%2F11g0j96504!19sChIJDW4bfeWxUQ0R90_FQtmdr8s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJn5UEf1mlUQ0RW-cvZVYKVCg",
@@ -7153,7 +6980,7 @@
             {
                 "name": "La Hora del Cafe",
                 "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -7218,7 +7045,7 @@
             {
                 "name": "La Guinda Deli & Coffe",
                 "link": "https://www.google.com/maps/search/La+Guinda+Deli+%26+Coffe/@43.32557980000001,-1.972951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 868,
+                "reviews": 869,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -7281,7 +7108,7 @@
             {
                 "name": "BIDELUZE KAFE TABERNA",
                 "link": "https://www.google.com/maps/search/BIDELUZE+KAFE+TABERNA/@43.3207336,-1.9817458?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2394,
+                "reviews": 2395,
                 "rating": 3.9,
                 "main_category": "Jiu Ba "
             },
@@ -7295,7 +7122,7 @@
             {
                 "name": "Etxabe Taberna",
                 "link": "https://www.google.com/maps/search/Etxabe+Taberna/@43.319760699999996,-1.9669365999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 215,
+                "reviews": 216,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -7380,7 +7207,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -7430,12 +7257,12 @@
         "name": "Bar y Cafeteria Zuhaizti, VENEZUELASNACKS",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 43,
+        "reviews": 44,
         "competitors": [
             {
                 "name": "Cafeteria Atotxa",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Atotxa/@43.3197925,-1.9750010999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 510,
+                "reviews": 511,
                 "rating": 3.8,
                 "main_category": "Shao Kao "
             },
@@ -7496,6 +7323,68 @@
         "link": "https://www.google.com/maps/place/Bar+y+Cafeter%C3%ADa+Zuhaizti,+VENEZUELASNACKS/data=!4m7!3m6!1s0xd51a55ca8dcbde1:0x46d194165283f7f0!8m2!3d43.3216431!4d-1.9732629!16s%2Fg%2F11cmcj6v7r!19sChIJ4b3cqFylUQ0R8PeDUhaU0UY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJgaHOp5OvUQ0RRx0VkkrHMoE",
+        "name": "Trebol de 4 hojas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "competitors": [
+            {
+                "name": "Olaeta Kafetegia",
+                "link": "https://www.google.com/maps/search/Olaeta+Kafetegia/@43.302516999999995,-1.9781452?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 345,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafeteria Los Javis",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Los+Javis/@43.305869200000004,-1.9747692?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Ogiberri Sancho Sabio",
+                "link": "https://www.google.com/maps/search/Ogiberri+Sancho+Sabio/@43.3088492,-1.9800274?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 3.9,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "larraitz kafetegia",
+                "link": "https://www.google.com/maps/search/larraitz+kafetegia/@43.309911,-1.9678996999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3.2,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Trebol de 4 hojas (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdJGRx-CfVpygyhkwY7Xbb6CtCtmirG9ar8CII=w532-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:30-19:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+34 943 44 57 72",
+        "address": "Trebol de 4 hojas, Felipe IV A. Hiribidea, 5, 20011 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tr%C3%A9bol+de+4+hojas/data=!4m7!3m6!1s0xd51af93a7cea181:0x8132c74a92151d47!8m2!3d43.3059909!4d-1.9757174!16s%2Fg%2F11n7wmrkw0!19sChIJgaHOp5OvUQ0RRx0VkkrHMoE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJMRPY5qC6UQ0RRt377_fY3tM",
         "name": "Ondarreta",
         "description": null,
@@ -7519,7 +7408,7 @@
             {
                 "name": "Fusion Kafe & Okindegia BENTABERRI",
                 "link": "https://www.google.com/maps/search/Fusion+Kafe+%26+Okindegia+BENTABERRI/@43.3106116,-2.008027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 445,
+                "reviews": 446,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -7557,6 +7446,68 @@
         "address": "Ondarreta, De Zumalakarregi Hiribidea, 20, 20008 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Ondarreta/data=!4m7!3m6!1s0xd51baa0e6d81331:0xd3ded8f7effbdd46!8m2!3d43.3140991!4d-2.0040737!16s%2Fg%2F12qhcj8n2!19sChIJMRPY5qC6UQ0RRt377_fY3tM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJuWZEWAywUQ0ROb5fNklnjH0",
+        "name": "Kafe Izozkitegia Opil Okindegia Gozotegia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "competitors": [
+            {
+                "name": "Caffe - Berri",
+                "link": "https://www.google.com/maps/search/Caffe+-+Berri/@43.30595340000001,-2.0058366999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 618,
+                "rating": 4.2,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "Cafeteria Lorea",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Lorea/@43.3049287,-2.0056857999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 509,
+                "rating": 3.9,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "Ogi-Berri BI-Lorea",
+                "link": "https://www.google.com/maps/search/Ogi-Berri+BI-Lorea/@43.3069128,-2.0069578999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 135,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Panaderia Opil",
+                "link": "https://www.google.com/maps/search/Panader%C3%ADa+Opil/@43.3130835,-2.0033285?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 91,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Opil Lorea",
+                "link": "https://www.google.com/maps/search/Opil+Lorea/@43.305441699999996,-2.0051953?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 3.4,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "101073942292391017978",
+            "name": "Kafe Izozkitegia Opil Okindegia Gozotegia (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101073942292391017978"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeUtS1YAAsoVJ-1ugdB485llPOH4pdNO4cQWC9=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+34 943 24 33 53",
+        "address": "Kafe Izozkitegia Opil Okindegia Gozotegia, Zarautz Kalea, 86, 20018 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kafe+Izozkitegia+Opil+Okindegia+Gozotegia/data=!4m7!3m6!1s0xd51b00c584466b9:0x7d8c6749365fbe39!8m2!3d43.3055121!4d-2.0053514!16s%2Fg%2F11cs2wsvb5!19sChIJuWZEWAywUQ0ROb5fNklnjH0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJG73FgVGvUQ0RxEwF1NBeLs8",
@@ -7639,7 +7590,7 @@
             {
                 "name": "Donostea& Coffee",
                 "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
+                "reviews": 598,
                 "rating": 4.4,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -7683,19 +7634,19 @@
         "name": "Boga Boga cafeteria",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 32,
+        "reviews": 33,
         "competitors": [
             {
                 "name": "Cafeteria Bideluze",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Bideluze/@43.320479,-1.983377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2044,
+                "reviews": 2046,
                 "rating": 4.1,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Tahona Okindegia",
                 "link": "https://www.google.com/maps/search/Tahona+Okindegia/@43.317124799999995,-1.9838974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 590,
+                "reviews": 592,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -7716,7 +7667,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -7762,6 +7713,79 @@
         "link": "https://www.google.com/maps/place/Boga+Boga+cafeter%C3%ADa/data=!4m7!3m6!1s0xd51a5393e84c8cb:0xd65cdccce6bb34ba!8m2!3d43.3174595!4d-1.9837083!16s%2Fg%2F11k40qpghk!19sChIJy8iEPjmlUQ0RujS75szcXNY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJMYvLxlalUQ0RlmJck40VtS4",
+        "name": "El Cafe De Donosti",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "competitors": [
+            {
+                "name": "Donostea& Coffee",
+                "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 598,
+                "rating": 4.4,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "El Cafe De Gros",
+                "link": "https://www.google.com/maps/search/El+Caf%C3%A9+De+Gros/@43.3229031,-1.9745255?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 555,
+                "rating": 3.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafeteria Iturralde",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Iturralde/@43.3199452,-1.9806796999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 466,
+                "rating": 4.8,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Cafe Con Leche",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Con+Leche/@43.3180682,-1.9806993?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 373,
+                "rating": 4.5,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "Ekafetegia",
+                "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 99,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "117766310247937822518",
+            "name": "El Cafe De Donosti (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117766310247937822518"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5STA9e1yK5StmG78c4Dq6piUkDvbrFuazPiU=w408-h306-k-no",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:30-20:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": null,
+        "address": "El Cafe De Donosti, San Martin Kalea, 48, 20005 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 4
+            },
+            {
+                "keyword": "Tu Si ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/El+Caf%C3%A9+De+Donosti/data=!4m7!3m6!1s0xd51a556c6cb8b31:0x2eb5158d935c6296!8m2!3d43.3167236!4d-1.9842272!16s%2Fg%2F11j1j70smy!19sChIJMYvLxlalUQ0RlmJck40VtS4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJTcs0wUSlUQ0R4Cn6pO-tWxc",
         "name": "El Cafetal",
         "description": null,
@@ -7785,7 +7809,7 @@
             {
                 "name": "Fusion cafe y Panaderia gros.",
                 "link": "https://www.google.com/maps/search/Fusion+caf%C3%A9+y+Panaderia+gros./@43.3224873,-1.9745606000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 242,
+                "reviews": 244,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -7817,6 +7841,44 @@
         "address": "El Cafetal, San Frantzisko Kalea, 5, 20001 Donostia, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/El+Cafetal/data=!4m7!3m6!1s0xd51a544c134cb4d:0x175badefa4fa29e0!8m2!3d43.3230056!4d-1.9753164!16s%2Fg%2F11cs0d1nbp!19sChIJTcs0wUSlUQ0R4Cn6pO-tWxc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJPeNDgBm7UQ0RW9qLXWQVjUU",
+        "name": "Groutxo Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "111379211088084310508",
+            "name": "Groutxo Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111379211088084310508"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoOdM-A1u3a98VBqswIB8r8SJ1fWASMdw0kGCY=w408-h544-k-no",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:30-18:30",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Groutxo Cafe, Maule Kalea, 4, 20018 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Huan Jing ",
+                "count": 3
+            },
+            {
+                "keyword": "Hu Luo Bo Dan Gao ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Groutxo+Caf%C3%A9/data=!4m7!3m6!1s0xd51bb198043e33d:0x458d15645d8bda5b!8m2!3d43.3122885!4d-2.0089256!16s%2Fg%2F11vkgjt9_l!19sChIJPeNDgBm7UQ0RW9qLXWQVjUU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJq6r6rFelUQ0RnKsuJ7ZRy8A",
@@ -7870,6 +7932,7 @@
         "rating": 4.7,
         "workday_timing": "08:30-13:30",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+34 656 41 57 23",
@@ -7885,44 +7948,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Bta+B+ARTEAN/data=!4m7!3m6!1s0xd51a557acfaaaab:0xc0cb51b6272eab9c!8m2!3d43.3143877!4d-1.9807192!16s%2Fg%2F11d_d3qf53!19sChIJq6r6rFelUQ0RnKsuJ7ZRy8A?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJPeNDgBm7UQ0RW9qLXWQVjUU",
-        "name": "Groutxo Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 22,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "111379211088084310508",
-            "name": "Groutxo Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111379211088084310508"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoOdM-A1u3a98VBqswIB8r8SJ1fWASMdw0kGCY=w408-h544-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 5,
-        "workday_timing": "07:30-18:30",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Groutxo Cafe, Maule Kalea, 4, 20018 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Huan Jing ",
-                "count": 3
-            },
-            {
-                "keyword": "Hu Luo Bo Dan Gao ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Groutxo+Caf%C3%A9/data=!4m7!3m6!1s0xd51bb198043e33d:0x458d15645d8bda5b!8m2!3d43.3122885!4d-2.0089256!16s%2Fg%2F11vkgjt9_l!19sChIJPeNDgBm7UQ0RW9qLXWQVjUU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJdwgRmUGlUQ0RnP_Xd4vpwOU",
@@ -7976,77 +8001,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/The+Simpson%27s/data=!4m7!3m6!1s0xd51a54199110877:0xe5c0e98b77d7ff9c!8m2!3d43.3280305!4d-1.9705627!16s%2Fg%2F11f122k_t0!19sChIJdwgRmUGlUQ0RnP_Xd4vpwOU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJJQd2kealUQ0RqNWT8LuaCUE",
-        "name": "Eas8",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 12,
-        "competitors": [
-            {
-                "name": "Donostea& Coffee",
-                "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
-                "rating": 4.4,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Tahona Okindegia",
-                "link": "https://www.google.com/maps/search/Tahona+Okindegia/@43.317124799999995,-1.9838974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 590,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "La Bella Easo",
-                "link": "https://www.google.com/maps/search/La+Bella+Easo/@43.3140439,-1.9825816?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 562,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Urban Coffee",
-                "link": "https://www.google.com/maps/search/Urban+Coffee/@43.3146171,-1.9825195999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Ekafetegia",
-                "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Eas8 (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2Tv4XDFdtpylcbywFTZYYoE0WzAbLkyis3G5X=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 3.8,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eas8, Easo Kalea, 8, 20006 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Tu Si ",
-                "count": 3
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Eas8/data=!4m7!3m6!1s0xd51a5e691760725:0x41099abbf093d5a8!8m2!3d43.3174992!4d-1.9844161!16s%2Fg%2F11hh4qff3l!19sChIJJQd2kealUQ0RqNWT8LuaCUE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJk_wMVIevUQ0RUrJNjdOodCw",
@@ -8104,6 +8058,77 @@
         "link": "https://www.google.com/maps/place/Arturo+Cafe+Bar/data=!4m7!3m6!1s0xd51af87540cfc93:0x2c74a8d38d4db252!8m2!3d43.3125548!4d-1.9541474!16s%2Fg%2F11cmf_bdw3!19sChIJk_wMVIevUQ0RUrJNjdOodCw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJJQd2kealUQ0RqNWT8LuaCUE",
+        "name": "Eas8",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "competitors": [
+            {
+                "name": "Donostea& Coffee",
+                "link": "https://www.google.com/maps/search/Donostea%26+Coffee/@43.3112521,-1.9799364999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 598,
+                "rating": 4.4,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Tahona Okindegia",
+                "link": "https://www.google.com/maps/search/Tahona+Okindegia/@43.317124799999995,-1.9838974?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 592,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "La Bella Easo",
+                "link": "https://www.google.com/maps/search/La+Bella+Easo/@43.3140439,-1.9825816?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 563,
+                "rating": 4.3,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Urban Coffee",
+                "link": "https://www.google.com/maps/search/Urban+Coffee/@43.3146171,-1.9825195999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 146,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Ekafetegia",
+                "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 99,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Eas8 (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2Tv4XDFdtpylcbywFTZYYoE0WzAbLkyis3G5X=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Eas8, Easo Kalea, 8, 20006 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Tu Si ",
+                "count": 3
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Eas8/data=!4m7!3m6!1s0xd51a5e691760725:0x41099abbf093d5a8!8m2!3d43.3174992!4d-1.9844161!16s%2Fg%2F11hh4qff3l!19sChIJJQd2kealUQ0RqNWT8LuaCUE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJExDQZ3SwUQ0RScLeD2DtkLI",
         "name": "Kampus Topagunea, Cafeteria Gureak",
         "description": null,
@@ -8113,7 +8138,7 @@
             {
                 "name": "Cafeteria Atotxa",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Atotxa/@43.3197925,-1.9750010999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 510,
+                "reviews": 511,
                 "rating": 3.8,
                 "main_category": "Shao Kao "
             },
@@ -8127,7 +8152,7 @@
             {
                 "name": "Bar y Cafeteria Zuhaizti, VENEZUELASNACKS",
                 "link": "https://www.google.com/maps/search/Bar+y+Cafeter%C3%ADa+Zuhaizti%2C+VENEZUELASNACKS/@43.321643099999996,-1.9732629000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.6,
                 "main_category": "Shao Kao "
             },
@@ -8186,14 +8211,14 @@
             {
                 "name": "Ogi-Berri BI-Lorea",
                 "link": "https://www.google.com/maps/search/Ogi-Berri+BI-Lorea/@43.3069128,-2.0069578999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 134,
+                "reviews": 135,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Panaderia Opil",
                 "link": "https://www.google.com/maps/search/Panader%C3%ADa+Opil/@43.3130835,-2.0033285?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
+                "reviews": 91,
                 "rating": 4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -8253,7 +8278,7 @@
             {
                 "name": "Fusion cafe y Panaderia gros.",
                 "link": "https://www.google.com/maps/search/Fusion+caf%C3%A9+y+Panaderia+gros./@43.3224873,-1.9745606000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 242,
+                "reviews": 244,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -8306,7 +8331,7 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@43.319127,-1.9840419999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1210,
+                "reviews": 1211,
                 "rating": 3.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -8438,7 +8463,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -8470,6 +8495,68 @@
         "link": "https://www.google.com/maps/place/FESTIVAL+Cafe%26Store/data=!4m7!3m6!1s0xd51a5afe8a06bbd:0xc0079ca9a7cc05c9!8m2!3d43.3158936!4d-1.9865162!16s%2Fg%2F11j8vjp0pd!19sChIJvWug6K-lUQ0RyQXMp6mcB8A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJxXwFIlqlUQ0RnEYIjgpprVY",
+        "name": "El Cafecito",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "El Cafe De Gros",
+                "link": "https://www.google.com/maps/search/El+Caf%C3%A9+De+Gros/@43.3229031,-1.9745255?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 555,
+                "rating": 3.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafeteria Iturralde",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Iturralde/@43.3199452,-1.9806796999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 466,
+                "rating": 4.8,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "La Hora del Cafe",
+                "link": "https://www.google.com/maps/search/La+Hora+del+Cafe/@43.3197688,-1.9747530000000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 173,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Taba",
+                "link": "https://www.google.com/maps/search/Taba/@43.3170998,-1.9757718999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 101,
+                "rating": 3.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Caffe Terzi",
+                "link": "https://www.google.com/maps/search/Caff%C3%A8+Terzi/@43.317102999999996,-1.9757907000000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 3.2,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "110719745236336463727",
+            "name": "El Cafecito (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110719745236336463727"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOG1h1vnGEHw5VFdo-tiRIjL8dQOxIQeCzClh7P=w408-h302-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:30-20:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "El Cafecito, Frantzia Pasealekua, 22, 20012 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+Cafecito/data=!4m7!3m6!1s0xd51a55a22057cc5:0x56ad690a8e08469c!8m2!3d43.3177411!4d-1.9768809!16s%2Fg%2F11cnbdgslt!19sChIJxXwFIlqlUQ0RnEYIjgpprVY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJu2oZ4d-lUQ0RUTrbdircoFw",
         "name": "Calle Palacio Del Barrio Antiguo de San Sebastian Guipuzcoa",
         "description": null,
@@ -8479,7 +8566,7 @@
             {
                 "name": "Old Town Coffee",
                 "link": "https://www.google.com/maps/search/Old+Town+Coffee/@43.3157193,-1.9809877000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1559,
+                "reviews": 1561,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -8493,7 +8580,7 @@
             {
                 "name": "Ekafetegia",
                 "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 99,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -8541,7 +8628,7 @@
             {
                 "name": "Bar y Cafeteria Zuhaizti, VENEZUELASNACKS",
                 "link": "https://www.google.com/maps/search/Bar+y+Cafeter%C3%ADa+Zuhaizti%2C+VENEZUELASNACKS/@43.321643099999996,-1.9732629000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.6,
                 "main_category": "Shao Kao "
             },
@@ -8645,52 +8732,66 @@
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Facultad+Psicolog%C3%ADa/data=!4m7!3m6!1s0xd51b1522e9842b1:0x1920271a7dd666b1!8m2!3d43.3072042!4d-2.0095532!16s%2Fg%2F11t6fgrwb6!19sChIJsUKYLlKxUQ0RsWbWfRonIBk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJyX6xqxWlUQ0R8qutZ-cPfrk",
-        "name": "Alaiak",
+        "place_id": "ChIJJ4JzWCilUQ0R5lpjP_xZcIk",
+        "name": "Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2,
+        "reviews": 1,
         "competitors": [
             {
-                "name": "ALBOKA kafea taberna",
-                "link": "https://www.google.com/maps/search/ALBOKA+kafea+taberna/@43.315881499999996,-1.9830124999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 346,
-                "rating": 4.7,
+                "name": "Old Town Coffee",
+                "link": "https://www.google.com/maps/search/Old+Town+Coffee/@43.3157193,-1.9809877000000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1561,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafeteria Express",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Express/@43.315397399999995,-1.9807378999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 757,
+                "rating": 4,
+                "main_category": "Xi Ban Ya Cai "
+            },
+            {
+                "name": "Cafeteria Iturralde",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Iturralde/@43.3199452,-1.9806796999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 466,
+                "rating": 4.8,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Ekafetegia",
+                "link": "https://www.google.com/maps/search/Ekafetegia/@43.3174589,-1.9843724?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 99,
+                "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Kaiola",
-                "link": "https://www.google.com/maps/search/Kaiola/@43.3220618,-1.9739042999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 233,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Bar Alaska cafeteria",
-                "link": "https://www.google.com/maps/search/Bar+Alaska+cafeteria/@43.304988699999996,-1.9818629?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
+                "name": "El Cafecito",
+                "link": "https://www.google.com/maps/search/El+Cafecito/@43.3177411,-1.9768808999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Alaiak (Ye Zhu )",
+            "name": "Cafe (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP41Zq7S-Lzvu0x1cXBFR9P9uOKfyAyp3W8r8qZ=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=btGXmatGvH2ReCX1BLSE8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=288.24896&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Ka Pei Ting "
+            "Ka Pei Dian "
         ],
-        "rating": 1,
-        "workday_timing": "09:50-10:10",
+        "rating": 4,
+        "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Alaiak, Easo Kalea, 14, 20006 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
+        "address": "Cafe, Moraza Kalea, 12, 20006 Donostia, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Alaiak/data=!4m7!3m6!1s0xd51a515abb17ec9:0xb97e0fe767adabf2!8m2!3d43.3169162!4d-1.9840198!16s%2Fg%2F11k0lvj6t2!19sChIJyX6xqxWlUQ0R8qutZ-cPfrk?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Caf%C3%A9/data=!4m7!3m6!1s0xd51a52858738227:0x897059fc3f635ae6!8m2!3d43.3144557!4d-1.9813792!16s%2Fg%2F11q963gvrh!19sChIJJ4JzWCilUQ0R5lpjP_xZcIk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJm9rlGU6lUQ0RQGgq1_k3dJU",
@@ -8753,31 +8854,5 @@
         "address": "Destino Cafetero, Boulevard Zumardia, 3, 20003 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Destino+Cafetero/data=!4m7!3m6!1s0xd51a54e19e5da9b:0x957437f9d72a6840!8m2!3d43.32256!4d-1.98221!16s%2Fg%2F12qhj5379!19sChIJm9rlGU6lUQ0RQGgq1_k3dJU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJWY-FgAWlUQ0RYJiaf_n0DBQ",
-        "name": "Ogi Berri la Paz",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Ogi Berri la Paz (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dwa2ZnzLX0wFFc9x0nC22A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=167.75182&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Ogi Berri la Paz, De Julio Urkijo Ibilbidea, 45, 20016 Donostia-San Sebastian, Gipuzkoa, Xi Ban Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ogi+Berri+la+Paz/data=!4m7!3m6!1s0xd51a50580858f59:0x140cf4f97f9a9860!8m2!3d43.3232506!4d-1.9426021!16s%2Fg%2F11vk_s9ctb!19sChIJWY-FgAWlUQ0RYJiaf_n0DBQ?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

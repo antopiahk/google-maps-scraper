@@ -4,7 +4,7 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1077,
+        "reviews": 1078,
         "competitors": [
             {
                 "name": "Real Elelmiszer",
@@ -56,7 +56,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Hajdunanas, Lidl, Dorogi utca 108, 4080 Xiong Ya Li ",
         "review_keywords": [],
@@ -67,7 +71,7 @@
         "name": "PENNY Hajdunanas",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 512,
+        "reviews": 513,
         "competitors": [
             {
                 "name": "Lidl",
@@ -124,68 +128,6 @@
         "address": "Hajdunanas, PENNY Hajdunanas, Martirok utja 6-8, 4080 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/PENNY+Hajd%C3%BAn%C3%A1n%C3%A1s/data=!4m7!3m6!1s0x47475b142e8b4727:0xb243c86a40c08974!8m2!3d47.8444595!4d21.4310016!16s%2Fg%2F1pp2v9z4l!19sChIJJ0eLLhRbR0cRdInAQGrIQ7I?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJV2ozbhZbR0cRk3_xn3brhOg",
-        "name": "Koros Pizzeria & Doner Kebab",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 242,
-        "competitors": [
-            {
-                "name": "KIS HELLASZ Gyorsetterem",
-                "link": "https://www.google.com/maps/search/KIS+HELLASZ+Gyors%C3%A9tterem/@47.8424836,21.433152?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 157,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Halido etterem",
-                "link": "https://www.google.com/maps/search/Halid%C3%B3+%C3%A9tterem/@47.831681499999995,21.4207485?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 3.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Csulok Etelbar",
-                "link": "https://www.google.com/maps/search/Cs%C3%BCl%C3%B6k+%C3%89telb%C3%A1r/@47.831764,21.4190792?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 1.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Joy etelbar Hajdunanas",
-                "link": "https://www.google.com/maps/search/Joy+%C3%A9telb%C3%A1r+Hajd%C3%BAn%C3%A1n%C3%A1s/@47.844851299999995,21.4298981?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Hajdugrill etelbar",
-                "link": "https://www.google.com/maps/search/Hajd%C3%BAgrill+%C3%A9telb%C3%A1r/@47.8427322,21.428943399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.7,
-                "main_category": "Shao Kao "
-            }
-        ],
-        "website": "http://www.korospizza.hu/",
-        "owner": {
-            "id": null,
-            "name": "Koros Pizzeria & Doner Kebab (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPCXGQW0xQn_1lXcowbXklkikqe4DeGwui-RjFm=w426-h240-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4,
-        "workday_timing": "12:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 70 200 5544",
-        "address": "Hajdunanas, Koros Pizzeria & Doner Kebab, Koztarsasag ter 8, 4080 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/K%C3%B6r%C3%B6s+Pizz%C3%A9ria+%26+D%C3%B6ner+Kebab/data=!4m7!3m6!1s0x47475b166e336a57:0xe884eb769ff17f93!8m2!3d47.843916!4d21.4285568!16s%2Fg%2F11d_9hpx7w!19sChIJV2ozbhZbR0cRk3_xn3brhOg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJLbe-LxFbR0cRyPEUAdsgvyg",
@@ -259,14 +201,14 @@
             {
                 "name": "Pepco",
                 "link": "https://www.google.com/maps/search/Pepco/@47.9580756,21.7170259?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 359,
+                "reviews": 361,
                 "rating": 4.4,
                 "main_category": "Fu Zhuang Dian "
             },
             {
                 "name": "PEPCO Balmazujvaros",
                 "link": "https://www.google.com/maps/search/PEPCO+Balmaz%C3%BAjv%C3%A1ros/@47.6125725,21.3439159?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
+                "reviews": 64,
                 "rating": 4.6,
                 "main_category": "Fu Zhuang Dian "
             },
@@ -345,70 +287,6 @@
         "address": "Hajdunanas, Eden Cukraszda, Kossuth u. 3, 4080 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/%C3%89den+Cukr%C3%A1szda/data=!4m7!3m6!1s0x47475b1690583223:0xf49f69615924f4b5!8m2!3d47.8453291!4d21.4295777!16s%2Fg%2F11f4m69qw_!19sChIJIzJYkBZbR0cRtfQkWWFpn_Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJndFzvG5bR0cRkS_GrhxNbZM",
-        "name": "Di Stefano Bisztro",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 86,
-        "competitors": [
-            {
-                "name": "Latvany Bufe",
-                "link": "https://www.google.com/maps/search/L%C3%A1tv%C3%A1ny+B%C3%BCf%C3%A9/@47.844756,21.4328281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Halido etterem",
-                "link": "https://www.google.com/maps/search/Halid%C3%B3+%C3%A9tterem/@47.831681499999995,21.4207485?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 3.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Joy etelbar Hajdunanas",
-                "link": "https://www.google.com/maps/search/Joy+%C3%A9telb%C3%A1r+Hajd%C3%BAn%C3%A1n%C3%A1s/@47.844851299999995,21.4298981?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Kis Kacsa Bisztro",
-                "link": "https://www.google.com/maps/search/Kis+Kacsa+Bisztr%C3%B3/@47.845929899999994,21.431708399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.4,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            },
-            {
-                "name": "Virag Bufe",
-                "link": "https://www.google.com/maps/search/Vir%C3%A1g+B%C3%BCf%C3%A9/@47.8318534,21.414602499999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mei Shi Can Che Dian "
-            }
-        ],
-        "website": "http://www.distefano.hu/",
-        "owner": {
-            "id": "101727876450183844325",
-            "name": "Di Stefano Bisztro (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101727876450183844325"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJlk1tajzk2_-CVNSZn9wjwiAXN8urEre-r6QI=w408-h250-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.6,
-        "workday_timing": "10:00-21:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+36 30 574 4414",
-        "address": "Hajdunanas, Di Stefano Bisztro, Bocskai u. 18, 4080 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Di+Stefano+Bisztro/data=!4m7!3m6!1s0x47475b6ebc73d19d:0x936d4d1caec62f91!8m2!3d47.8408597!4d21.4281234!16s%2Fg%2F11s8vsmx0r!19sChIJndFzvG5bR0cRkS_GrhxNbZM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJXdlyCz5bR0cRynfefUv8DgI",
@@ -521,61 +399,6 @@
         "address": "Hajdunanas, ZSIGA BACSI GAZDABOLTJA, Hunyadi u. 56, 4080 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/ZSIGA+B%C3%81CSI+GAZDABOLTJA/data=!4m7!3m6!1s0x47475b4cc8fcb48d:0x443a363af3761206!8m2!3d47.8415381!4d21.4160097!16s%2Fg%2F11gnrg0llz!19sChIJjbT8yExbR0cRBhJ28zo2OkQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJFz_DlyhNR0cReyNi8-brRd0",
-        "name": "California Coffee Company",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 56,
-        "competitors": [
-            {
-                "name": "M3 Outlet Polgar",
-                "link": "https://www.google.com/maps/search/M3+Outlet+Polg%C3%A1r/@47.843484,21.141206999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5818,
-                "rating": 4.2,
-                "main_category": "Gou Wu Zhong Xin "
-            },
-            {
-                "name": "Outlet Hotel es Etterem Polgar",
-                "link": "https://www.google.com/maps/search/Outlet+Hotel+%C3%A9s+%C3%89tterem+Polg%C3%A1r/@47.844093,21.140804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 664,
-                "rating": 4.8,
-                "main_category": "4 Xing Ji Fan Dian "
-            },
-            {
-                "name": "Magyaros Izvilag Etterem & Kifozde",
-                "link": "https://www.google.com/maps/search/Magyaros+%C3%8Dzvil%C3%A1g+%C3%89tterem+%26+Kif%C5%91zde/@47.872895,21.1109217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Almaskert sorozo",
-                "link": "https://www.google.com/maps/search/Alm%C3%A1skert+s%C3%B6r%C3%B6z%C5%91/@47.8708238,21.1096201?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://californiacoffeeco.net/",
-        "owner": {
-            "id": "107650955948715704066",
-            "name": "California Coffee Company (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107650955948715704066"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMS59AguWJOxGsbUVeGTjJL8zm6TLW3KuSy3V94=w408-h466-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 4.5,
-        "workday_timing": "10:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 649 1341",
-        "address": "Polgar, California Coffee Company, Hajdu ut 52, 4090 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/California+Coffee+Company/data=!4m7!3m6!1s0x47474d2897c33f17:0xdd45ebe6f362237b!8m2!3d47.8425864!4d21.1440877!16s%2Fg%2F11s_z5xdf2!19sChIJFz_DlyhNR0cReyNi8-brRd0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJb6xZXj5bR0cRn-XaJ2PeM6E",
@@ -693,7 +516,11 @@
         ],
         "rating": 4.3,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 1 701 4222",
         "address": "Hajdunanas, JYSK Hajdunanas, Martirok utja 14 14, 4080 Xiong Ya Li ",
         "review_keywords": [],
@@ -704,7 +531,7 @@
         "name": "Ecofamily",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 37,
+        "reviews": 39,
         "competitors": [
             {
                 "name": "NON-STOP ABC",
@@ -746,75 +573,17 @@
         "categories": [
             "Zhe Kou Shang Dian "
         ],
-        "rating": 4.6,
+        "rating": 4.7,
         "workday_timing": "08:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Hajdunanas, Ecofamily, Martirok utja 14, 4080 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Ecofamily/data=!4m7!3m6!1s0x47475b56576cf16d:0xa4ca7ff60e530faa!8m2!3d47.8453984!4d21.4308192!16s%2Fg%2F11pd0sdcy5!19sChIJbfFsV1ZbR0cRqg9TDvZ_yqQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJadMrKC5bR0cR9lQPe9SxNg8",
-        "name": "Halasz Etterem",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 25,
-        "competitors": [
-            {
-                "name": "Hungarian Restaurant",
-                "link": "https://www.google.com/maps/search/Hungarian+Restaurant/@47.844285,21.4286077?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 596,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "KIS HELLASZ Gyorsetterem",
-                "link": "https://www.google.com/maps/search/KIS+HELLASZ+Gyors%C3%A9tterem/@47.8424836,21.433152?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 157,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Latvany Bufe",
-                "link": "https://www.google.com/maps/search/L%C3%A1tv%C3%A1ny+B%C3%BCf%C3%A9/@47.844756,21.4328281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Halido etterem",
-                "link": "https://www.google.com/maps/search/Halid%C3%B3+%C3%A9tterem/@47.831681499999995,21.4207485?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 3.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Csulok Etelbar",
-                "link": "https://www.google.com/maps/search/Cs%C3%BCl%C3%B6k+%C3%89telb%C3%A1r/@47.831764,21.4190792?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 1.6,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://m.facebook.com/Hal%25C3%25A1sz-%25C3%2589tterem-1710912162487384/",
-        "owner": {
-            "id": null,
-            "name": "Halasz Etterem (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOP4ygqMca33R5xFVdiNCNS_rPPnFSZmwURkxze=w408-h544-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hajdunanas, Halasz Etterem, Furdo u. 7, 4080 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Hal%C3%A1sz+%C3%89tterem/data=!4m7!3m6!1s0x47475b2e282bd369:0xf36b1d47b0f54f6!8m2!3d47.8318421!4d21.4177031!16s%2Fg%2F11f57cm2yj!19sChIJadMrKC5bR0cR9lQPe9SxNg8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJxYsFuHpbR0cRMzRgOowSRg0",
@@ -960,6 +729,70 @@
         "address": "Hajdunanas, Zserbo Kavezo es Fagylaltozo, Koztarsasag ter 7, 4080 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Zserb%C3%B3+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Fagylaltoz%C3%B3/data=!4m7!3m6!1s0x47475b7cd1382f13:0xbfd62f3d96fa8ea6!8m2!3d47.843835!4d21.4285272!16s%2Fg%2F11pxrthxb3!19sChIJEy840XxbR0cRpo76lj0v1r8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJW_rePRVbR0cRsMkwV0HcOW8",
+        "name": "Balla Butor",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Arbarat Aruhaz",
+                "link": "https://www.google.com/maps/search/%C3%81rbar%C3%A1t+%C3%81ruh%C3%A1z/@47.8439288,21.4308527?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 106,
+                "rating": 4.4,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "JYSK Hajdunanas",
+                "link": "https://www.google.com/maps/search/JYSK+Hajd%C3%BAn%C3%A1n%C3%A1s/@47.8454257,21.4303268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 47,
+                "rating": 4.3,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Szerencsi Butorhaz",
+                "link": "https://www.google.com/maps/search/Szerencsi+B%C3%BAtorh%C3%A1z/@48.156475699999994,21.2030697?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 4.4,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Butorlapok es Butorkellekek Boltja",
+                "link": "https://www.google.com/maps/search/B%C3%BAtorlapok+%C3%A9s+B%C3%BAtorkell%C3%A9kek+Boltja/@47.8373334,21.432794899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Goliat-Butor Kft.",
+                "link": "https://www.google.com/maps/search/G%C3%B3li%C3%A1t-B%C3%BAtor+Kft./@47.839928,21.4141679?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Jia Ju Zhuang Xiu Dian "
+            }
+        ],
+        "website": "http://www.ballabutor.hu/%3Fq%3Dtaxonomy/term/1528",
+        "owner": {
+            "id": null,
+            "name": "Balla Butor (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUV-ltIz33fDW1DoVOkuVtXvf8qe9MTjEmWEg-=w408-h544-k-no",
+        "main_category": "Jia Dian ",
+        "categories": [
+            "Jia Dian "
+        ],
+        "rating": 3,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Hajdunanas, Balla Butor, Dorogi utca 18, 4080 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Balla+B%C3%BAtor/data=!4m7!3m6!1s0x47475b153ddefa5b:0x6f39dc415730c9b0!8m2!3d47.843011!4d21.433555!16s%2Fg%2F11gxw4r7_n!19sChIJW_rePRVbR0cRsMkwV0HcOW8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJAU0f8_FbR0cRr3NIyB7jeEc",
@@ -1147,6 +980,10 @@
         "rating": 4.8,
         "workday_timing": "11:00-20:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
         "phone": "+36 30 245 5456",
@@ -1410,7 +1247,7 @@
         "name": "Arbarat Aruhaz",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 106,
+        "reviews": 107,
         "competitors": [
             {
                 "name": "Balla Butor",
@@ -1467,7 +1304,7 @@
         "name": "CENTES ITALHAZ B-KER HUNGARY KFT.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 83,
+        "reviews": 84,
         "competitors": [
             {
                 "name": "CBA Haziasszonyok boltja",
@@ -1820,7 +1657,7 @@
         "name": "Prima Hajdunanas",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 29,
+        "reviews": 30,
         "competitors": [
             {
                 "name": "Real Elelmiszer",
@@ -1942,68 +1779,6 @@
         "link": "https://www.google.com/maps/place/M%C3%81RV%C3%81NY+ABC/data=!4m7!3m6!1s0x47475b16b972a1f1:0x6078d9e87f31f4bd!8m2!3d47.8462834!4d21.4298925!16s%2Fg%2F1pp2x81t6!19sChIJ8aFyuRZbR0cRvfQxf-jZeGA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJKWb99BFbR0cRuIkylVdc77c",
-        "name": "Csulok Etelbar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 17,
-        "competitors": [
-            {
-                "name": "Hungarian Restaurant",
-                "link": "https://www.google.com/maps/search/Hungarian+Restaurant/@47.844285,21.4286077?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 596,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Koros Pizzeria & Doner Kebab",
-                "link": "https://www.google.com/maps/search/K%C3%B6r%C3%B6s+Pizz%C3%A9ria+%26+D%C3%B6ner+Kebab/@47.843916,21.4285568?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 242,
-                "rating": 4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "KIS HELLASZ Gyorsetterem",
-                "link": "https://www.google.com/maps/search/KIS+HELLASZ+Gyors%C3%A9tterem/@47.8424836,21.433152?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 157,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Halasz Etterem",
-                "link": "https://www.google.com/maps/search/Hal%C3%A1sz+%C3%89tterem/@47.8318421,21.4177031?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Joy etelbar Hajdunanas",
-                "link": "https://www.google.com/maps/search/Joy+%C3%A9telb%C3%A1r+Hajd%C3%BAn%C3%A1n%C3%A1s/@47.844851299999995,21.4298981?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Csulok Etelbar (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQHNIXiPekyvS5SSbi4WMJwQUGMY5YN7nW0Qf-=w480-h240-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 1.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hajdunanas, Csulok Etelbar, Furdo u. 5, 4080 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cs%C3%BCl%C3%B6k+%C3%89telb%C3%A1r/data=!4m7!3m6!1s0x47475b11f4fd6629:0xb7ef5c57953289b8!8m2!3d47.831764!4d21.4190792!16s%2Fg%2F11k2r6_v12!19sChIJKWb99BFbR0cRuIkylVdc77c?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJQXJSroxbR0cRIj0Ie00Th4o",
         "name": "Nemzeti dohanybolt",
         "description": null,
@@ -2028,68 +1803,6 @@
         "address": "Hajdunanas, Nemzeti dohanybolt, Attila u. 77, 4080 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Nemzeti+doh%C3%A1nybolt/data=!4m7!3m6!1s0x47475b8cae527241:0x8a87134d7b083d22!8m2!3d47.837906!4d21.4391709!16s%2Fg%2F11rsd1h1y3!19sChIJQXJSroxbR0cRIj0Ie00Th4o?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJk5bauRZbR0cRKM3BABXhi98",
-        "name": "Mari-Jo Langossuto - Falatozo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 10,
-        "competitors": [
-            {
-                "name": "Hungarian Restaurant",
-                "link": "https://www.google.com/maps/search/Hungarian+Restaurant/@47.844285,21.4286077?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 596,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Latvany Bufe",
-                "link": "https://www.google.com/maps/search/L%C3%A1tv%C3%A1ny+B%C3%BCf%C3%A9/@47.844756,21.4328281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Halido etterem",
-                "link": "https://www.google.com/maps/search/Halid%C3%B3+%C3%A9tterem/@47.831681499999995,21.4207485?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 3.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Langossuto",
-                "link": "https://www.google.com/maps/search/L%C3%A1ngoss%C3%BCt%C5%91/@47.846253399999995,21.4299411?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.8,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Marton es Tarsai 2002. Kft. F.A.",
-                "link": "https://www.google.com/maps/search/Marton+%C3%A9s+T%C3%A1rsai+2002.+Kft.+F.A./@47.8418945,21.4111829?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Mari-Jo Langossuto - Falatozo (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOFnUgnnM2eI85RvMrCx7koLAirgKQpv8jhHjR=w408-h306-k-no",
-        "main_category": "Xiao Shi Dian ",
-        "categories": [
-            "Xiao Shi Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 52 315 315",
-        "address": "Hajdunanas, Mari-Jo Langossuto - Falatozo, Varosi piac, Martirok utja, 4080 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mari-J%C3%B3+L%C3%A1ngoss%C3%BCt%C5%91+-+Falatoz%C3%B3/data=!4m7!3m6!1s0x47475b16b9da9693:0xdf8be11500c1cd28!8m2!3d47.8463427!4d21.4299065!16s%2Fg%2F11b5wl62tl!19sChIJk5bauRZbR0cRKM3BABXhi98?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJhxnAqxZbR0cRJ3Fe3xnG1I4",
@@ -2424,65 +2137,29 @@
         "link": "https://www.google.com/maps/place/AKCI%C3%93+3-Priv%C3%A1t+max/data=!4m7!3m6!1s0x47475b3105963cf7:0xc671f6dcf917c1dd!8m2!3d47.8416043!4d21.4166314!16s%2Fg%2F11v4m27xgx!19sChIJ9zyWBTFbR0cR3cEX-dz2ccY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJaRcXaSFbR0cRbLu4iXtsIhU",
-        "name": "Marton es Tarsai 2002. Kft. F.A.",
+        "place_id": "ChIJIayJVN9bR0cRbwB1W3Ybog8",
+        "name": "Sklep",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
-        "competitors": [
-            {
-                "name": "Beer Bar 2000 Kft.",
-                "link": "https://www.google.com/maps/search/Beer+Bar+2000+Kft./@47.8434563,21.4320202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 347,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Halasz Etterem",
-                "link": "https://www.google.com/maps/search/Hal%C3%A1sz+%C3%89tterem/@47.8318421,21.4177031?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Hajdugrill etelbar",
-                "link": "https://www.google.com/maps/search/Hajd%C3%BAgrill+%C3%A9telb%C3%A1r/@47.8427322,21.428943399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.7,
-                "main_category": "Shao Kao "
-            },
-            {
-                "name": "Virag Bufe",
-                "link": "https://www.google.com/maps/search/Vir%C3%A1g+B%C3%BCf%C3%A9/@47.8318534,21.414602499999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mei Shi Can Che Dian "
-            },
-            {
-                "name": "Banya Tanya etelbar",
-                "link": "https://www.google.com/maps/search/Banya+Tanya+%C3%A9telb%C3%A1r/@47.846325,21.4299696?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Kuai Can "
-            }
-        ],
+        "competitors": [],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Marton es Tarsai 2002. Kft. F.A. (Ye Zhu )",
+            "name": "Sklep (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-jT-taelwKSUyBSOV25xXQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=68.6127&pitch=0&thumbfov=100",
-        "main_category": "Can Ting ",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pPGHcTR_tadGohkHCIeQYw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=20.988398&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
         "categories": [
-            "Can Ting "
+            "Za Huo Dian "
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": "+36 47 311 907",
-        "address": "Hajdunanas, Marton es Tarsai 2002. Kft. F.A., Csiha Gyozo u. 30, 4080 Xiong Ya Li ",
+        "phone": null,
+        "address": "Hajdunanas, Sklep, Csoka u. 1, 4080 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Marton+%C3%A9s+T%C3%A1rsai+2002.+Kft.+F.A./data=!4m7!3m6!1s0x47475b2169171769:0x15226c7b89b8bb6c!8m2!3d47.8418945!4d21.4111829!16s%2Fg%2F1hhw4vr8h!19sChIJaRcXaSFbR0cRbLu4iXtsIhU?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Sklep/data=!4m7!3m6!1s0x47475bdf5489ac21:0xfa21b765b75006f!8m2!3d47.83502!4d21.424136!16s%2Fg%2F11v66hwf5f!19sChIJIayJVN9bR0cRbwB1W3Ybog8?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

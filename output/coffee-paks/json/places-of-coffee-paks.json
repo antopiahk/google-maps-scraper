@@ -4,7 +4,7 @@
         "name": "ALDI",
         "description": "Fan Shou Ge Zhong Za Huo , Rou Lei He Ru Zhi Pin De Lian Suo Ling Shou Shang . ",
         "is_spending_on_ads": false,
-        "reviews": 812,
+        "reviews": 813,
         "competitors": [
             {
                 "name": "SPAR szupermarket",
@@ -56,7 +56,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Paks, ALDI, Vasut u. 4, 7030 Xiong Ya Li ",
         "review_keywords": [],
@@ -79,7 +82,7 @@
             {
                 "name": "Vagamary Cukraszda",
                 "link": "https://www.google.com/maps/search/Vagamary+Cukr%C3%A1szda/@46.619517599999995,18.8538413?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 221,
+                "reviews": 222,
                 "rating": 4.6,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -189,74 +192,15 @@
         ],
         "rating": 4.1,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7511",
         "address": "Paks, SPAR szupermarket, Dozsa Gyorgy ut 51-53, 7030 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/SPAR+szupermarket/data=!4m7!3m6!1s0x47425c8a4cc19e87:0x811b16702d30acf3!8m2!3d46.624349!4d18.8585268!16s%2Fg%2F1hjh7d8c8!19sChIJh57BTIpcQkcR86wwLXAWG4E?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJT3TthURcQkcRw2oSXTQmutc",
-        "name": "SPAR szupermarket",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 273,
-        "competitors": [
-            {
-                "name": "ALDI",
-                "link": "https://www.google.com/maps/search/ALDI/@46.610182099999996,18.8514281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 812,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Coop",
-                "link": "https://www.google.com/maps/search/Coop/@46.6183884,18.8399726?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 72,
-                "rating": 3.8,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "COOP Szupermarket",
-                "link": "https://www.google.com/maps/search/COOP+Szupermarket/@46.6255823,18.8638807?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
-                "rating": 4,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "COOP 10. SZ. ABC",
-                "link": "https://www.google.com/maps/search/COOP+10.+SZ.+ABC/@46.6158673,18.8432556?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.3,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Mini Go Aruhaz",
-                "link": "https://www.google.com/maps/search/Mini+Go+%C3%81ruh%C3%A1z/@46.614965,18.844043?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Chao Ji Shi Chang "
-            }
-        ],
-        "website": "https://www.spar.hu/uzletek/spar-szupermarket-paks-7030-baratsag-utja-3-",
-        "owner": {
-            "id": "106267806049187827606",
-            "name": "SPAR szupermarket (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106267806049187827606"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNjXnGqt0JGuxrS10cg6b6hlGLyRimHFBDjjBf=w427-h240-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang ",
-            "Za Huo Dian "
-        ],
-        "rating": 3.9,
-        "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 823 7963",
-        "address": "Paks, SPAR szupermarket, Baratsag utja 3, 7030 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/SPAR+szupermarket/data=!4m7!3m6!1s0x47425c4485ed744f:0xd7ba26345d126ac3!8m2!3d46.6149783!4d18.8434795!16s%2Fg%2F1hjhdy61r!19sChIJT3TthURcQkcRw2oSXTQmutc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJAQxXWIlcQkcRF7Zci0J-E-k",
@@ -443,71 +387,6 @@
         "link": "https://www.google.com/maps/place/%C3%8Dnyenc+Falatoz%C3%B3+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47425def2b9e0a3d:0xaf89611435f04a59!8m2!3d46.6153755!4d18.8434391!16s%2Fg%2F11q958q37j!19sChIJPQqeK-9dQkcRWUrwNRRhia8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJVwOW4KFdQkcRFxNC_ag0anI",
-        "name": "EdesCake Macaronozo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 72,
-        "competitors": [
-            {
-                "name": "Milano Cukraszda",
-                "link": "https://www.google.com/maps/search/Mil%C3%A1n%C3%B3+Cukr%C3%A1szda/@46.624783900000004,18.8582657?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 400,
-                "rating": 4.7,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Vagamary Cukraszda",
-                "link": "https://www.google.com/maps/search/Vagamary+Cukr%C3%A1szda/@46.619517599999995,18.8538413?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 221,
-                "rating": 4.6,
-                "main_category": "Tang Guo Gao Bing Dian "
-            },
-            {
-                "name": "Eva Cukraszda",
-                "link": "https://www.google.com/maps/search/%C3%89va+Cukr%C3%A1szda/@46.6174512,18.841643299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.2,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Kezmuves Tortamuhely Peri Zoltan",
-                "link": "https://www.google.com/maps/search/K%C3%A9zm%C5%B1ves+Tortam%C5%B1hely+P%C3%A9ri+Zolt%C3%A1n/@46.6254949,18.8573924?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.9,
-                "main_category": "Xi Dian "
-            },
-            {
-                "name": "Otthon ize cukraszda",
-                "link": "https://www.google.com/maps/search/Otthon+%C3%ADze+cukr%C3%A1szda/@46.624210999999995,18.8600982?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Tian Pin Dian "
-            }
-        ],
-        "website": "https://www.facebook.com/edescakemacaronozo",
-        "owner": {
-            "id": "113292878842241464496",
-            "name": "EdesCake Macaronozo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113292878842241464496"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0RCMRyJtzfKaDjaH33pY8YCKuCaSQFwEG5YhN=w426-h240-k-no",
-        "main_category": "Fa Shi Gao Bing Dian ",
-        "categories": [
-            "Fa Shi Gao Bing Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-17:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 20 511 5902",
-        "address": "Paks, EdesCake Macaronozo, Villany u. 2/B, 7030 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%C3%89desCake+Macaronoz%C3%B3/data=!4m7!3m6!1s0x47425da1e0960357:0x726a34a8fd421317!8m2!3d46.624426!4d18.8626237!16s%2Fg%2F11fpr800tg!19sChIJVwOW4KFdQkcRFxNC_ag0anI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJcfvdWzVdQkcRGlYr9sOu5eE",
         "name": "COOP Szupermarket",
         "description": null,
@@ -529,18 +408,18 @@
                 "main_category": "Chao Ji Shi Chang "
             },
             {
+                "name": "COOP ABC",
+                "link": "https://www.google.com/maps/search/COOP+ABC/@46.629397399999995,18.8551809?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
                 "name": "COOP 10. SZ. ABC",
                 "link": "https://www.google.com/maps/search/COOP+10.+SZ.+ABC/@46.6158673,18.8432556?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 24,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "COOP ABC",
-                "link": "https://www.google.com/maps/search/COOP+ABC/@46.629397399999995,18.8551809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
             },
             {
                 "name": "Paks es Videke AFESZ",
@@ -550,7 +429,7 @@
                 "main_category": "Shang Dian "
             }
         ],
-        "website": "http://coop.hu/bolt/%3Fid%3D1001707",
+        "website": "http://coop.hu/bolt/?id=1001707",
         "owner": {
             "id": null,
             "name": "COOP Szupermarket (Ye Zhu )",
@@ -600,8 +479,8 @@
             {
                 "name": "COOP ABC",
                 "link": "https://www.google.com/maps/search/COOP+ABC/@46.629397399999995,18.8551809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4,
+                "reviews": 25,
+                "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
             {
@@ -630,69 +509,6 @@
         "address": "Paks, Kakukk ABC, Dozsa Gyorgy ut 4, 7030 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kakukk+ABC/data=!4m7!3m6!1s0x47425daea0e9e491:0x4687fd2f6103b7a1!8m2!3d46.6260776!4d18.8650177!16s%2Fg%2F11fkm81z52!19sChIJkeTpoK5dQkcRobcDYS_9h0Y?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJEwhXF7VdQkcRb7N2bVIL-CY",
-        "name": "Dolce Vita Fagyizo es Gofrizo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 24,
-        "competitors": [
-            {
-                "name": "Dolce Vita Etterem es Pizzeria",
-                "link": "https://www.google.com/maps/search/Dolce+Vita+%C3%89tterem+%C3%A9s+Pizz%C3%A9ria/@46.619881799999995,18.858796599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Stella Cukraszda",
-                "link": "https://www.google.com/maps/search/Stella+Cukr%C3%A1szda/@46.6267279,18.865216?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 436,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Milano Cukraszda",
-                "link": "https://www.google.com/maps/search/Mil%C3%A1n%C3%B3+Cukr%C3%A1szda/@46.624783900000004,18.8582657?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 400,
-                "rating": 4.7,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Vagamary Cukraszda",
-                "link": "https://www.google.com/maps/search/Vagamary+Cukr%C3%A1szda/@46.619517599999995,18.8538413?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 221,
-                "rating": 4.6,
-                "main_category": "Tang Guo Gao Bing Dian "
-            },
-            {
-                "name": "Eva Cukraszda",
-                "link": "https://www.google.com/maps/search/%C3%89va+Cukr%C3%A1szda/@46.6174512,18.841643299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.2,
-                "main_category": "Tian Pin Dian "
-            }
-        ],
-        "website": "https://dolce-vita-fagyizo.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
-        "owner": {
-            "id": "109283911957109242094",
-            "name": "Dolce Vita Fagyizo es Gofrizo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109283911957109242094"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWKfgBFZL_R8WWGtxHZEjgFt48P0eIyncR1R0g=w408-h306-k-no",
-        "main_category": "Ru Luo Xue Gao Dian ",
-        "categories": [
-            "Ru Luo Xue Gao Dian ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Paks, Dolce Vita Fagyizo es Gofrizo, SPAR mellett, Baratsag utja 1-3, 7030 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Dolce+Vita+Fagyiz%C3%B3+%C3%A9s+Gofriz%C3%B3/data=!4m7!3m6!1s0x47425db517570813:0x26f80b526d76b36f!8m2!3d46.615631!4d18.844158!16s%2Fg%2F11h07wsbfr!19sChIJEwhXF7VdQkcRb7N2bVIL-CY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJd6IlvyRdQkcRuULkuf1d2Xc",
@@ -744,6 +560,63 @@
         "address": "Paks, Virag Kavezo Paks, Dozsa Gyorgy ut 29, 7030 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Vir%C3%A1g+K%C3%A1v%C3%A9z%C3%B3+Paks/data=!4m7!3m6!1s0x47425d24bf25a277:0x77d95dfdb9e442b9!8m2!3d46.6250873!4d18.8618735!16s%2Fg%2F11sg2_xwtq!19sChIJd6IlvyRdQkcRuULkuf1d2Xc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJHaSXkYpcQkcRDzxJsTTLhQs",
+        "name": "Goods Market",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "SPAR szupermarket",
+                "link": "https://www.google.com/maps/search/SPAR+szupermarket/@46.624348999999995,18.8585268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 336,
+                "rating": 4.1,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Tom Market Paks, Epitok utja",
+                "link": "https://www.google.com/maps/search/Tom+Market+Paks%2C+%C3%89p%C3%ADt%C5%91k+%C3%BAtja/@46.6178562,18.8414987?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.7,
+                "main_category": "Bian Li Dian "
+            },
+            {
+                "name": "Szuper diszkont",
+                "link": "https://www.google.com/maps/search/Szuper+diszkont/@46.6254136,18.8627261?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "Angol Ruha Kft. Paks",
+                "link": "https://www.google.com/maps/search/Angol+Ruha+Kft.+Paks/@46.6244243,18.859833?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": "http://www.goodsmarket.eu/",
+        "owner": {
+            "id": null,
+            "name": "Goods Market (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YlwC2Syc9mPLj76tq84b7w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=311.84222&pitch=0&thumbfov=100",
+        "main_category": "12 Yuan Dian ",
+        "categories": [
+            "12 Yuan Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 70 317 6101",
+        "address": "Paks, Goods Market, Dozsa Gyorgy ut 21, 7030 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Goods+Market/data=!4m7!3m6!1s0x47425c8a9197a41d:0xb85cb34b1493c0f!8m2!3d46.6255393!4d18.862986!16s%2Fg%2F11ddwstr42!19sChIJHaSXkYpcQkcRDzxJsTTLhQs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJqXpEYNBdQkcREbOwKfO35QM",
@@ -970,7 +843,7 @@
             {
                 "name": "fresh bakery",
                 "link": "https://www.google.com/maps/search/fresh+bakery/@46.6188669,18.8523276?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 203,
+                "reviews": 204,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1011,7 +884,8 @@
         "rating": 4.4,
         "workday_timing": "05:30-18:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+36 20 510 0698",
         "address": "Paks, Lipoti Pekseg, Dozsa Gyorgy ut 18, 7030 Xiong Ya Li ",
@@ -1023,7 +897,7 @@
         "name": "fresh bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 203,
+        "reviews": 204,
         "competitors": [
             {
                 "name": "Lipoti Pekseg",
@@ -1065,80 +939,6 @@
         "address": "Paks, fresh bakery, Tolnai ut 5, 7030 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/fresh+bakery/data=!4m7!3m6!1s0x47425c5da537e44f:0x1caf3a372343891b!8m2!3d46.6188669!4d18.8523276!16s%2Fg%2F11c6f1gf86!19sChIJT-Q3pV1cQkcRG4lDIzc6rxw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ_TdsFhRdQkcRyIJk-tmmSGI",
-        "name": "Chili - csak lazan",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 114,
-        "competitors": [
-            {
-                "name": "Trattoria da Matteo Paks",
-                "link": "https://www.google.com/maps/search/Trattoria+da+Matteo+Paks/@46.6133999,18.8436852?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 555,
-                "rating": 4.7,
-                "main_category": "Yi Da Li Cai "
-            },
-            {
-                "name": "Dolce Vita Etterem es Pizzeria",
-                "link": "https://www.google.com/maps/search/Dolce+Vita+%C3%89tterem+%C3%A9s+Pizz%C3%A9ria/@46.619881799999995,18.858796599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 521,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Istanbul Kebab Paks",
-                "link": "https://www.google.com/maps/search/Istanbul+Kebab+Paks/@46.625243,18.8617173?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 166,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Familia Pizzeria & Panzio",
-                "link": "https://www.google.com/maps/search/Familia+Pizz%C3%A9ria+%26+Panzi%C3%B3/@46.6222011,18.850301299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 149,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Pizza Karavan Paks",
-                "link": "https://www.google.com/maps/search/Pizza+Karav%C3%A1n+Paks/@46.618539899999995,18.841552399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 2.7,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "116047586918163123787",
-            "name": "Chili - csak lazan (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116047586918163123787"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNADy3lNKksqhUVSgVohleMLHPRiAUPRQv5asdz=w408-h306-k-no",
-        "main_category": "Xiao Can Guan  (Bistro)",
-        "categories": [
-            "Xiao Can Guan  (Bistro)"
-        ],
-        "rating": 4.7,
-        "workday_timing": "14:00-22:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 70 335 8076",
-        "address": "Paks, Chili - csak lazan, Dozsa Gyorgy ut 94, 7030 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Pi Sa ",
-                "count": 8
-            },
-            {
-                "keyword": "Yin Le ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Chili+-+csak+laz%C3%A1n/data=!4m7!3m6!1s0x47425d14166c37fd:0x6248a6d9fa6482c8!8m2!3d46.6210667!4d18.8545355!16s%2Fg%2F11j0jd9gyd!19sChIJ_TdsFhRdQkcRyIJk-tmmSGI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJreWSOkVcQkcRgn2l26vZ3n0",
@@ -1246,12 +1046,76 @@
         "rating": 5,
         "workday_timing": "08:00-17:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 20 572 1117",
         "address": "Paks, Preshaz Kavezo, Kapolna u. 37, 7030 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Pr%C3%A9sh%C3%A1z+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47425de50fe188e3:0x5856eb8911eaaed0!8m2!3d46.624217!4d18.85132!16s%2Fg%2F11rsc1m699!19sChIJ44jhD-VdQkcR0K7qEYnrVlg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJN8YPsvZcQkcRbGXbh_PPwW4",
+        "name": "COOP ABC",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "competitors": [
+            {
+                "name": "Coop",
+                "link": "https://www.google.com/maps/search/Coop/@46.6183884,18.8399726?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 72,
+                "rating": 3.8,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "COOP Szupermarket",
+                "link": "https://www.google.com/maps/search/COOP+Szupermarket/@46.6255823,18.8638807?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Kakukk ABC",
+                "link": "https://www.google.com/maps/search/Kakukk+ABC/@46.626077599999995,18.8650177?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "COOP 10. SZ. ABC",
+                "link": "https://www.google.com/maps/search/COOP+10.+SZ.+ABC/@46.6158673,18.8432556?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 24,
+                "rating": 4.3,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Paks es Videke AFESZ",
+                "link": "https://www.google.com/maps/search/Paks+%C3%A9s+Vid%C3%A9ke+%C3%81F%C3%89SZ/@46.6244614,18.860579700000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "COOP ABC (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3gLr6h7WpWVMZvILmXJCCQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=232.66309&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Paks, COOP ABC, Fehervari ut 6/b, 7030 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/COOP+ABC/data=!4m7!3m6!1s0x47425cf6b20fc637:0x6ec1cff387db656c!8m2!3d46.6293974!4d18.8551809!16s%2Fg%2F11gbl3c1r9!19sChIJN8YPsvZcQkcRbGXbh_PPwW4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJRwXkjp9dQkcRiYdzjSF6sGg",
@@ -1291,8 +1155,8 @@
             {
                 "name": "COOP ABC",
                 "link": "https://www.google.com/maps/search/COOP+ABC/@46.629397399999995,18.8551809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4,
+                "reviews": 25,
+                "rating": 4.1,
                 "main_category": "Za Huo Dian "
             }
         ],

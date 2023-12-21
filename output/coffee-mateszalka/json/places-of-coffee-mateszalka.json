@@ -4,7 +4,7 @@
         "name": "Tesco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2645,
+        "reviews": 2648,
         "competitors": [
             {
                 "name": "PENNY Mateszalka",
@@ -56,7 +56,10 @@
         ],
         "rating": 4,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Mateszalka, Tesco, Alkotmany ut 1/A, 4700 Xiong Ya Li ",
         "review_keywords": [
@@ -139,7 +142,7 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.946252199999996,22.323874399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2644,
+                "reviews": 2647,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -202,7 +205,7 @@
             {
                 "name": "Provolone Etterem",
                 "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 454,
+                "reviews": 451,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -223,7 +226,7 @@
             {
                 "name": "Szatmar Etterem",
                 "link": "https://www.google.com/maps/search/Szatm%C3%A1r+%C3%89tterem/@47.9522754,22.314255700000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
+                "reviews": 2,
                 "rating": 5,
                 "main_category": "Can Ting "
             }
@@ -295,7 +298,11 @@
         ],
         "rating": 4.2,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7904",
         "address": "Mateszalka, SPAR szupermarket, Szalkay Laszlo u. 4, 4700 Xiong Ya Li ",
         "review_keywords": [],
@@ -306,12 +313,12 @@
         "name": "Provolone Etterem",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 454,
+        "reviews": 451,
         "competitors": [
             {
                 "name": "Kekfrankos Etterem",
                 "link": "https://www.google.com/maps/search/K%C3%A9kfrankos+%C3%89tterem/@47.9535786,22.3180747?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -368,7 +375,7 @@
         "name": "EDUO Kft.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 343,
+        "reviews": 344,
         "competitors": [
             {
                 "name": "JYSK",
@@ -437,7 +444,7 @@
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -499,7 +506,7 @@
             {
                 "name": "Provolone Etterem",
                 "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 454,
+                "reviews": 451,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -527,7 +534,7 @@
             {
                 "name": "Szatmar Etterem",
                 "link": "https://www.google.com/maps/search/Szatm%C3%A1r+%C3%89tterem/@47.9522754,22.314255700000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
+                "reviews": 2,
                 "rating": 5,
                 "main_category": "Can Ting "
             }
@@ -639,7 +646,7 @@
             {
                 "name": "A Pekseg Es Reggelizo",
                 "link": "https://www.google.com/maps/search/A+P%C3%A9ks%C3%A9g+%C3%89s+Reggelizo/@47.9546789,22.323264599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
+                "reviews": 26,
                 "rating": 4.5,
                 "main_category": ""
             },
@@ -742,6 +749,68 @@
         "link": "https://www.google.com/maps/place/Alfi-Re%C3%A1l+9.sz+Kalm%C3%A1r+ABC/data=!4m7!3m6!1s0x47387d719bcb829b:0x7b66adaf054e7984!8m2!3d47.960581!4d22.3142585!16s%2Fg%2F11h037sprj!19sChIJm4LLm3F9OEcRhHlOBa-tZns?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJa8Dx82B7OEcRCKG9nFSL0Ms",
+        "name": "Belvarosi Falatozo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 139,
+        "competitors": [
+            {
+                "name": "Mustafa Gyros",
+                "link": "https://www.google.com/maps/search/Mustafa+Gyros/@47.961192,22.3054633?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1186,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Alibaba Falatozo",
+                "link": "https://www.google.com/maps/search/Alibaba+Falatoz%C3%B3/@47.962514999999996,22.299675399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 570,
+                "rating": 4.5,
+                "main_category": "Kuai Can "
+            },
+            {
+                "name": "Provolone Etterem",
+                "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 451,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Belvarosi Pizzeria",
+                "link": "https://www.google.com/maps/search/Belv%C3%A1rosi+Pizz%C3%A9ria/@47.954402699999996,22.322483599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 104,
+                "rating": 3.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Profi Gyros Etelbar",
+                "link": "https://www.google.com/maps/search/Profi+Gyros+%C3%89telb%C3%A1r/@47.9494508,22.3254403?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://gastro.hu/helyek/belvarosi-falatozo",
+        "owner": {
+            "id": null,
+            "name": "Belvarosi Falatozo (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKSAaYnn81hh_Oz17N9zYxGUOxpONc6OclJFC5=w408-h306-k-no",
+        "main_category": "Kuai Can Dian ",
+        "categories": [
+            "Kuai Can Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-23:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Mateszalka, Belvarosi Falatozo, 4700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Belv%C3%A1rosi+Falatoz%C3%B3/data=!4m7!3m6!1s0x47387b60f3f1c06b:0xcbd08b549cbda108!8m2!3d47.9533113!4d22.3184957!16s%2Fg%2F11g8wgyyrq!19sChIJa8Dx82B7OEcRCKG9nFSL0Ms?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJXRc4l4Z9OEcRAJydM7wAT4Q",
         "name": "Yellowstone Burger & BBQ",
         "description": null,
@@ -821,7 +890,7 @@
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -881,14 +950,14 @@
             {
                 "name": "Mustafa Gyros",
                 "link": "https://www.google.com/maps/search/Mustafa+Gyros/@47.961192,22.3054633?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1185,
+                "reviews": 1186,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Provolone Etterem",
                 "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 454,
+                "reviews": 451,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -936,7 +1005,7 @@
             {
                 "name": "MOL Gas station",
                 "link": "https://www.google.com/maps/search/MOL+Gas+station/@47.9598386,22.320113199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 585,
                 "rating": 4.3,
                 "main_category": "You Zhan "
             },
@@ -995,11 +1064,11 @@
         "name": "DIEGO Mateszalka",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 132,
+        "reviews": 133,
         "competitors": [
             {
                 "name": "dm-drogerie markt Kft.",
-                "link": "https://www.google.com/maps/search/dm-drogerie+markt+Kft./@47.954898799999995,22.3238921?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/dm-drogerie+markt+Kft./@47.95483,22.32395?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 78,
                 "rating": 4.6,
                 "main_category": "Yao Fang "
@@ -1049,7 +1118,9 @@
         ],
         "rating": 4.8,
         "workday_timing": "09:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+36 44 502 895",
         "address": "Mateszalka, DIEGO Mateszalka, Jarmi u. 67, 4700 Xiong Ya Li ",
         "review_keywords": [],
@@ -1120,68 +1191,6 @@
         "link": "https://www.google.com/maps/place/Alfi-Re%C3%A1l+15.sz+Delik%C3%A1tesz+ABC/data=!4m7!3m6!1s0x47387bea0f6b3e5d:0xbd6c8e55cae9109c!8m2!3d47.9529096!4d22.3171656!16s%2Fg%2F11g0ks9glp!19sChIJXT5rD-p7OEcRnBDpylWObL0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJeQXV5l17OEcRtieo4VigAgk",
-        "name": "dm-drogerie markt Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 78,
-        "competitors": [
-            {
-                "name": "Rossmann Drugstore Perfumery",
-                "link": "https://www.google.com/maps/search/Rossmann+Drugstore+Perfumery/@47.9544402,22.3237591?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 333,
-                "rating": 4.5,
-                "main_category": "Mei Rong Yi Qi Yong Pin Dian "
-            },
-            {
-                "name": "Nemzeti Dohanybolt Mateszalka",
-                "link": "https://www.google.com/maps/search/Nemzeti+Doh%C3%A1nybolt+M%C3%A1t%C3%A9szalka/@47.9515466,22.3161998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.7,
-                "main_category": "Yan Cao Dian "
-            },
-            {
-                "name": "Diak Csemege",
-                "link": "https://www.google.com/maps/search/Di%C3%A1k+Csemege/@47.945497499999995,22.3110233?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Ezerjofu Gyogynoveny Drogeria",
-                "link": "https://www.google.com/maps/search/Ezerj%C3%B3f%C5%B1+Gy%C3%B3gyn%C3%B6v%C3%A9ny+Drog%C3%A9ria/@47.9528683,22.3171301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Medicine Bt.",
-                "link": "https://www.google.com/maps/search/Medicine+Bt./@47.952320799999995,22.3080917?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Yao Fang "
-            }
-        ],
-        "website": "https://www.dm.hu/store/u05i/mateszalka/bajcsy-zsilinszky-utca-23",
-        "owner": {
-            "id": "108181719227826094565",
-            "name": "dm-drogerie markt Kft. (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108181719227826094565"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEDwzjbkeppCccvSFYx4vdudzM3mtDQ-lbW2Fc=w408-h544-k-no",
-        "main_category": "Yao Fang ",
-        "categories": [
-            "Yao Fang "
-        ],
-        "rating": 4.6,
-        "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 401 0456",
-        "address": "Mateszalka, dm-drogerie markt Kft., Bajcsy-Zsilinszky u. 23, 4700 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/dm-drogerie+markt+Kft./data=!4m7!3m6!1s0x47387b5de6d50579:0x902a058e1a827b6!8m2!3d47.9548988!4d22.3238921!16s%2Fg%2F11fx91lm7f!19sChIJeQXV5l17OEcRtieo4VigAgk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJlcm50O17OEcR7II-HYWVWJs",
         "name": "Defekt Bufe",
         "description": null,
@@ -1191,7 +1200,7 @@
             {
                 "name": "Provolone Etterem",
                 "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 454,
+                "reviews": 451,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1246,6 +1255,63 @@
         "link": "https://www.google.com/maps/place/Defekt+B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x47387bedd0b9c995:0x9b5895851d3e82ec!8m2!3d47.9381525!4d22.3031456!16s%2Fg%2F11ghrbwxhh!19sChIJlcm50O17OEcR7II-HYWVWJs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJl1wkuVh7OEcRgFZr5rAlXEQ",
+        "name": "Mateszalkai Butordiszkont TrendXbutor.hu",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 71,
+        "competitors": [
+            {
+                "name": "Koncz Furniture",
+                "link": "https://www.google.com/maps/search/Koncz+Furniture/@47.9689292,22.322070999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 79,
+                "rating": 4.7,
+                "main_category": "Chu Fang Jia Ju Dian "
+            },
+            {
+                "name": "Nemet minosegi hasznaltcikk kereskedes",
+                "link": "https://www.google.com/maps/search/N%C3%A9met+min%C5%91s%C3%A9gi+haszn%C3%A1ltcikk+keresked%C3%A9s/@47.9529497,22.313108000000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Jia Ju Yong Pin Dian "
+            },
+            {
+                "name": "Roza butor es lakberendezes",
+                "link": "https://www.google.com/maps/search/Roza+b%C3%BAtor+%C3%A9s+lakberendez%C3%A9s/@47.9531624,22.302684?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Szatmar Butorgyar Kft.",
+                "link": "https://www.google.com/maps/search/Szatm%C3%A1r+B%C3%BAtorgy%C3%A1r+Kft./@47.9586385,22.303288?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Jia Ju Pi Fa Shang "
+            }
+        ],
+        "website": "http://trendxbutor.hu/",
+        "owner": {
+            "id": null,
+            "name": "Mateszalkai Butordiszkont TrendXbutor.hu (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBxEvAgyYzaTlWj7OZpEpZQkMYjXJwr1ZKCfcs=w408-h306-k-no",
+        "main_category": "Jia Dian ",
+        "categories": [
+            "Jia Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 394 2808",
+        "address": "Mateszalka, Mateszalkai Butordiszkont TrendXbutor.hu, Jozsef Attila u. 70, 4700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/M%C3%A1t%C3%A9szalkai+B%C3%BAtordiszkont+TrendXb%C3%BAtor.hu/data=!4m7!3m6!1s0x47387b58b9245c97:0x445c25b0e66b5680!8m2!3d47.9603976!4d22.3216224!16s%2Fg%2F11fz9wr9xs!19sChIJl1wkuVh7OEcRgFZr5rAlXEQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJMUob_mN7OEcROSBxPy2xGb8",
         "name": "Mateszalkai Sutoipari Kft. - Kredenc - Kenyermester",
         "description": null,
@@ -1269,7 +1335,7 @@
             {
                 "name": "A Pekseg Es Reggelizo",
                 "link": "https://www.google.com/maps/search/A+P%C3%A9ks%C3%A9g+%C3%89s+Reggelizo/@47.9546789,22.323264599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
+                "reviews": 26,
                 "rating": 4.5,
                 "main_category": ""
             },
@@ -1402,7 +1468,7 @@
                 "main_category": "Jia Ju Pi Fa Shang "
             }
         ],
-        "website": "https://jysk.hu/aruhazak%3Fstoreid%3DH890",
+        "website": "https://jysk.hu/aruhazak?storeid=H890",
         "owner": {
             "id": "114905809503540608956",
             "name": "JYSK (Ye Zhu )",
@@ -1418,80 +1484,22 @@
         ],
         "rating": 4.5,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 1 701 4222",
         "address": "Mateszalka, JYSK, Zoldfa u. 89/b, 4700 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/JYSK/data=!4m7!3m6!1s0x47387babb5e22803:0xd35ccfed730d45da!8m2!3d47.9480039!4d22.323162!16s%2Fg%2F11pf81mbry!19sChIJAyjitat7OEcR2kUNc-3PXNM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJtfkfSWZ7OEcR1KupyjDX6F8",
-        "name": "Profi Gyros Etelbar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 49,
-        "competitors": [
-            {
-                "name": "Mustafa Gyros",
-                "link": "https://www.google.com/maps/search/Mustafa+Gyros/@47.961192,22.3054633?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1185,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Alibaba Falatozo",
-                "link": "https://www.google.com/maps/search/Alibaba+Falatoz%C3%B3/@47.962514999999996,22.299675399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 570,
-                "rating": 4.5,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Provolone Etterem",
-                "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 454,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Belvarosi Falatozo",
-                "link": "https://www.google.com/maps/search/Belv%C3%A1rosi+Falatoz%C3%B3/@47.953311299999996,22.3184957?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 139,
-                "rating": 4.3,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Fresh buffet",
-                "link": "https://www.google.com/maps/search/Fresh+buffet/@47.9576115,22.306071499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.9,
-                "main_category": "Kuai Can "
-            }
-        ],
-        "website": "http://www.profigyros.hu/",
-        "owner": {
-            "id": null,
-            "name": "Profi Gyros Etelbar (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOPZHdY0LhUhd65IpPMzb_LyJWfGgFDWb4nLCpp=w408-h306-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 70 614 6132",
-        "address": "Mateszalka, Profi Gyros Etelbar, Alkotmany ut 1, 4700 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Profi+Gyros+%C3%89telb%C3%A1r/data=!4m7!3m6!1s0x47387b66491ff9b5:0x5fe8d730caa9abd4!8m2!3d47.9494508!4d22.3254403!16s%2Fg%2F11c6ts3q4x!19sChIJtfkfSWZ7OEcR1KupyjDX6F8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJAfDoHyt7OEcR_R5P4zP1KfQ",
         "name": "Ecofamily",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 39,
+        "reviews": 40,
         "competitors": [
             {
                 "name": "PEPCO",
@@ -1542,7 +1550,11 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 88 508 290",
         "address": "Mateszalka, Ecofamily, Zoldfa u. 89/B, 4700 Xiong Ya Li ",
         "review_keywords": [],
@@ -1636,7 +1648,7 @@
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1682,68 +1694,6 @@
         "link": "https://www.google.com/maps/place/Fal%C3%A1nk+Fanni+Cukr%C3%A1szda/data=!4m7!3m6!1s0x47387bac698a7931:0xd0de0e89c107539a!8m2!3d47.9551219!4d22.3247769!16s%2Fg%2F11ghpyrbhn!19sChIJMXmKaax7OEcRmlMHwYkO3tA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJs05TU_J7OEcRZ8D0xiZbZ_8",
-        "name": "Langos",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "Belvarosi Falatozo",
-                "link": "https://www.google.com/maps/search/Belv%C3%A1rosi+Falatoz%C3%B3/@47.953311299999996,22.3184957?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 139,
-                "rating": 4.3,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Raczkerti Falatozo",
-                "link": "https://www.google.com/maps/search/R%C3%A1czkerti+Falatoz%C3%B3/@47.9576175,22.3061015?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Fresh buffet",
-                "link": "https://www.google.com/maps/search/Fresh+buffet/@47.9576115,22.306071499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.9,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Siraly bufe-falatozo",
-                "link": "https://www.google.com/maps/search/Sir%C3%A1ly+b%C3%BCf%C3%A9-falatoz%C3%B3/@47.9542345,22.320909699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 2.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "KisCseko Cafe",
-                "link": "https://www.google.com/maps/search/KisCsek%C5%91+Caf%C3%A9/@47.9503961,22.3252024?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://langos.hu/",
-        "owner": {
-            "id": "104838607209311515711",
-            "name": "Langos (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104838607209311515711"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSA6CYp-cHob2tONaaFe_PSvlGa4cd4PwU-Ukj=w408-h306-k-no",
-        "main_category": "Kuai Can Dian ",
-        "categories": [
-            "Kuai Can Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Mateszalka, Langos, Alkotmany ut 1, 4700 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/L%C3%A1ngos/data=!4m7!3m6!1s0x47387bf253534eb3:0xff675b26c6f4c067!8m2!3d47.9469108!4d22.3237663!16s%2Fg%2F11rmt0m_vv!19sChIJs05TU_J7OEcRZ8D0xiZbZ_8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJFVEtdHB7OEcRUXcvNInzeZc",
         "name": "KisCseko Cafe",
         "description": null,
@@ -1753,14 +1703,14 @@
             {
                 "name": "Kekfrankos Etterem",
                 "link": "https://www.google.com/maps/search/K%C3%A9kfrankos+%C3%89tterem/@47.9535786,22.3180747?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1774,7 +1724,7 @@
             {
                 "name": "Szatmar Etterem",
                 "link": "https://www.google.com/maps/search/Szatm%C3%A1r+%C3%89tterem/@47.9522754,22.314255700000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
+                "reviews": 2,
                 "rating": 5,
                 "main_category": "Can Ting "
             }
@@ -1878,6 +1828,63 @@
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+M%C3%A1t%C3%A9szalka/data=!4m7!3m6!1s0x47387b4074fd777b:0xdcb93a8939e489c5!8m2!3d47.9574934!4d22.3247918!16s%2Fg%2F11hrh41mb3!19sChIJe3f9dEB7OEcRxYnkOYk6udw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJo3H3XCd9OEcRHC-4Y5W7S94",
+        "name": "Raczkerti Kredenc Pekbisztro",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Mindig Kredenc",
+                "link": "https://www.google.com/maps/search/Mindig+Kredenc/@47.949796,22.3182247?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.9,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Raczkerti Zoldsegbolt - Juzsaker Kft.",
+                "link": "https://www.google.com/maps/search/R%C3%A1czkerti+Z%C3%B6lds%C3%A9gbolt+-+Juzsaker+Kft./@47.9575879,22.305981300000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Shu Guo Dian "
+            },
+            {
+                "name": "Nyirmada kenyergyar IX. szamu Mintaboltja",
+                "link": "https://www.google.com/maps/search/Ny%C3%ADrmada+keny%C3%A9rgy%C3%A1r+IX.+sz%C3%A1m%C3%BA+Mintaboltja/@47.9604423,22.313483599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Nyirmada kenyergyar XI. szamu Mintaboltja",
+                "link": "https://www.google.com/maps/search/Ny%C3%ADrmada+keny%C3%A9rgy%C3%A1r+XI.+sz%C3%A1m%C3%BA+Mintaboltja/@47.957408699999995,22.3295505?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://www.kenyermester.hu/",
+        "owner": {
+            "id": null,
+            "name": "Raczkerti Kredenc Pekbisztro (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOYFFgkKsOjmRanb0ZxulWVPhdYjXk49Zi2CqEr=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 811 7829",
+        "address": "Mateszalka, Raczkerti Kredenc Pekbisztro, Moricz Zsigmond u. 91, 4700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/R%C3%A1czkerti+Kredenc+P%C3%A9kbisztr%C3%B3/data=!4m7!3m6!1s0x47387d275cf771a3:0xde4bbb9563b82f1c!8m2!3d47.9576115!4d22.3060715!16s%2Fg%2F11s86qqpsl!19sChIJo3H3XCd9OEcRHC-4Y5W7S94?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJjV3yP7x8OEcRR9KHgMqWaiA",
         "name": "Alibaba Falatozo",
         "description": null,
@@ -1887,14 +1894,14 @@
             {
                 "name": "Mustafa Gyros",
                 "link": "https://www.google.com/maps/search/Mustafa+Gyros/@47.961192,22.3054633?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1185,
+                "reviews": 1186,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Provolone Etterem",
                 "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 454,
+                "reviews": 451,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1944,7 +1951,7 @@
         "name": "Grillazs Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 240,
+        "reviews": 241,
         "competitors": [
             {
                 "name": "Cousin Fagyizo",
@@ -2011,7 +2018,7 @@
             {
                 "name": "Municipal Market Hall",
                 "link": "https://www.google.com/maps/search/Municipal+Market+Hall/@48.221229099999995,22.0856381?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 335,
+                "reviews": 336,
                 "rating": 4.2,
                 "main_category": "Shi Chang "
             },
@@ -2064,6 +2071,70 @@
         "link": "https://www.google.com/maps/place/V%C3%A1rosi+Piac/data=!4m7!3m6!1s0x47387b6d9567b755:0x6cb1ced0412c94b7!8m2!3d47.9393888!4d22.3048566!16s%2Fg%2F11j0tm652s!19sChIJVbdnlW17OEcRt5QsQdDOsWw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJP0t_pmF7OEcRiCBZ7-d-ye8",
+        "name": "Electro Expert",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 97,
+        "competitors": [
+            {
+                "name": "Elektrix Rendszerhaz Kft.",
+                "link": "https://www.google.com/maps/search/Elektrix+Rendszerh%C3%A1z+Kft./@47.9539973,22.3217593?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 98,
+                "rating": 4.8,
+                "main_category": "Dian Nao Zhuan Men Dian "
+            },
+            {
+                "name": "Elektronikai es Autohifi Szakuzlet",
+                "link": "https://www.google.com/maps/search/Elektronikai+%C3%A9s+Aut%C3%B3hifi+Szak%C3%BCzlet/@47.9529961,22.320207099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.9,
+                "main_category": "Dian Qi Ling Shou "
+            },
+            {
+                "name": "Remenyi Laszlone Muszaki Aruk Boltja",
+                "link": "https://www.google.com/maps/search/Rem%C3%A9nyi+L%C3%A1szl%C3%B3n%C3%A9+M%C5%B1szaki+%C3%81ruk+Boltja/@47.943695,22.3101079?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.7,
+                "main_category": "Qi Che Ling Jian Dian "
+            },
+            {
+                "name": "Elektro Studio-Muszaki Diszkont",
+                "link": "https://www.google.com/maps/search/Elektro+Studio-M%C3%BCszaki+Diszkont/@47.9539585,22.3216116?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 5,
+                "main_category": "Dian Qi Ling Shou "
+            },
+            {
+                "name": "Elektro Sarok Bt",
+                "link": "https://www.google.com/maps/search/Elektro+Sarok+Bt/@47.9525706,22.3178263?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Dian Qi Xing "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "102954977361660314897",
+            "name": "Electro Expert (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102954977361660314897"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLZKdbOscW9NL6CTUFjaGGO6CGuteW7d1l-TO0=w408-h544-k-no",
+        "main_category": "Dian Qi Ling Shou ",
+        "categories": [
+            "Dian Qi Ling Shou "
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 967 3261",
+        "address": "Mateszalka, Electro Expert, Szalkay Laszlo u. 19/B, 4700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Electro+Expert/data=!4m7!3m6!1s0x47387b61a67f4b3f:0xefc97ee7ef592088!8m2!3d47.9522899!4d22.3171484!16s%2Fg%2F11g8w9p6td!19sChIJP0t_pmF7OEcRiCBZ7-d-ye8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJpekCglx7OEcR5HPc-xYVER8",
         "name": "Anetta Cukraszat",
         "description": null,
@@ -2073,7 +2144,7 @@
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2161,7 +2232,7 @@
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2271,7 +2342,7 @@
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2321,7 +2392,7 @@
         "name": "B Kozep",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 43,
+        "reviews": 44,
         "competitors": [
             {
                 "name": "Backstage Pub",
@@ -2626,7 +2697,7 @@
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2676,7 +2747,7 @@
             {
                 "name": "Grillazs Cukraszda",
                 "link": "https://www.google.com/maps/search/Grill%C3%A1zs+Cukr%C3%A1szda/@47.9538649,22.3198942?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2873,7 +2944,7 @@
             {
                 "name": "B Kozep",
                 "link": "https://www.google.com/maps/search/B+K%C3%B6z%C3%A9p/@47.9574929,22.330133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.5,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -2887,7 +2958,7 @@
             {
                 "name": "Szatmar Etterem",
                 "link": "https://www.google.com/maps/search/Szatm%C3%A1r+%C3%89tterem/@47.9522754,22.314255700000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
+                "reviews": 2,
                 "rating": 5,
                 "main_category": "Can Ting "
             }
@@ -2985,14 +3056,14 @@
             {
                 "name": "Kekfrankos Etterem",
                 "link": "https://www.google.com/maps/search/K%C3%A9kfrankos+%C3%89tterem/@47.9535786,22.3180747?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Provolone Etterem",
                 "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 454,
+                "reviews": 451,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -3006,7 +3077,7 @@
             {
                 "name": "Szatmar Etterem",
                 "link": "https://www.google.com/maps/search/Szatm%C3%A1r+%C3%89tterem/@47.9522754,22.314255700000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
+                "reviews": 2,
                 "rating": 5,
                 "main_category": "Can Ting "
             }
@@ -3355,7 +3426,7 @@
             {
                 "name": "Mustafa Gyros",
                 "link": "https://www.google.com/maps/search/Mustafa+Gyros/@47.961192,22.3054633?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1185,
+                "reviews": 1186,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -3526,68 +3597,6 @@
         "address": "Mateszalka, 9.sz Diszkont, Jarmi u. 6, 4700 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/9.sz+Diszkont/data=!4m7!3m6!1s0x47387b58b1f46d23:0xce29235ad6829cb0!8m2!3d47.960314!4d22.3132571!16s%2Fg%2F1xn_m4pq!19sChIJI230sVh7OEcRsJyC1lojKc4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJZaWivph7OEcRpv3rzIr2ipQ",
-        "name": "COOP ELMA ABC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Coop Uzlet",
-                "link": "https://www.google.com/maps/search/Coop+%C3%9Czlet/@47.9576199,22.3053484?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "1.sz.ABC Aruhaz",
-                "link": "https://www.google.com/maps/search/1.sz.ABC+%C3%81ruh%C3%A1z/@47.9543574,22.323387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Coop Abc",
-                "link": "https://www.google.com/maps/search/Coop+Abc/@47.95429420000001,22.3232495?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "5.sz. ABC",
-                "link": "https://www.google.com/maps/search/5.sz.+ABC/@47.9590088,22.3199906?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Coop Mini",
-                "link": "https://www.google.com/maps/search/Coop+Mini/@47.9652666,22.3116424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "COOP ELMA ABC (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPaRF1_IBLKmrTfwb9zyXMxT6p4wOMwCgbrQ0hj=w408-h306-k-no",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Mateszalka, COOP ELMA ABC, Alkotmany ut 6, 4700 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/COOP+ELMA+ABC/data=!4m7!3m6!1s0x47387b98bea2a565:0x948af68accebfda6!8m2!3d47.9514177!4d22.325575!16s%2Fg%2F11rhxvcnhz!19sChIJZaWivph7OEcRpv3rzIr2ipQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJGV_vaON7OEcRZOwkUN5jupU",
@@ -3777,6 +3786,68 @@
         "link": "https://www.google.com/maps/place/Tuti+%C3%81ruk+Boltja/data=!4m7!3m6!1s0x47387b60ea09f855:0xb79cb768c8f80bbf!8m2!3d47.9528223!4d22.3196342!16s%2Fg%2F1ptwy0147!19sChIJVfgJ6mB7OEcRvwv4yGi3nLc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJZaWivph7OEcRpv3rzIr2ipQ",
+        "name": "COOP ELMA ABC",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Coop Uzlet",
+                "link": "https://www.google.com/maps/search/Coop+%C3%9Czlet/@47.9576199,22.3053484?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 43,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "1.sz.ABC Aruhaz",
+                "link": "https://www.google.com/maps/search/1.sz.ABC+%C3%81ruh%C3%A1z/@47.9543574,22.323387?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 15,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop Abc",
+                "link": "https://www.google.com/maps/search/Coop+Abc/@47.95429420000001,22.3232495?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.6,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "5.sz. ABC",
+                "link": "https://www.google.com/maps/search/5.sz.+ABC/@47.9590088,22.3199906?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop Mini",
+                "link": "https://www.google.com/maps/search/Coop+Mini/@47.9652666,22.3116424?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "COOP ELMA ABC (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPaRF1_IBLKmrTfwb9zyXMxT6p4wOMwCgbrQ0hj=w408-h306-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Mateszalka, COOP ELMA ABC, Alkotmany ut 6, 4700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/COOP+ELMA+ABC/data=!4m7!3m6!1s0x47387b98bea2a565:0x948af68accebfda6!8m2!3d47.9514177!4d22.325575!16s%2Fg%2F11rhxvcnhz!19sChIJZaWivph7OEcRpv3rzIr2ipQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ0btdQV97OEcRR3whs6l3amE",
         "name": "5.sz. ABC",
         "description": null,
@@ -3850,7 +3921,7 @@
             {
                 "name": "Kekfrankos Etterem",
                 "link": "https://www.google.com/maps/search/K%C3%A9kfrankos+%C3%89tterem/@47.9535786,22.3180747?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -3897,6 +3968,61 @@
         "address": "Mateszalka, Ifj. Brader Mihaly, Katona Jozsef u. 34, 4700 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Ifj.+Br%C3%A1der+Mih%C3%A1ly/data=!4m7!3m6!1s0x47387ca483d1b445:0x767de8e8320b1677!8m2!3d47.9623615!4d22.3091965!16s%2Fg%2F1tftvqxs!19sChIJRbTRg6R8OEcRdxYLMujofXY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJq-K61M17OEcRp9GBvUNm3d8",
+        "name": "Vegyesbolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Coop Abc",
+                "link": "https://www.google.com/maps/search/Coop+Abc/@47.957509099999996,22.3303583?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop Mini",
+                "link": "https://www.google.com/maps/search/Coop+Mini/@47.9652666,22.3116424?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Real Pont Vegyes Elelmiszer Uzlet",
+                "link": "https://www.google.com/maps/search/Re%C3%A1l+Pont+Vegyes+%C3%89lelmiszer+%C3%9Czlet/@47.955362799999996,22.3283681?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "9.sz Diszkont",
+                "link": "https://www.google.com/maps/search/9.sz+Diszkont/@47.960314,22.313257099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 1,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Vegyesbolt (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNmjAnM3wioWeB5cvoJFleR8y0s61fqgvTOZgGa=w486-h240-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-11:00, 14:30-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Mateszalka, Vegyesbolt, Bencsi koz, 4700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vegyesbolt/data=!4m7!3m6!1s0x47387bcdd4bae2ab:0xdfdd6643bd81d1a7!8m2!3d47.9628515!4d22.3286308!16s%2Fg%2F11tckq3ks4!19sChIJq-K61M17OEcRp9GBvUNm3d8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJBWXqYnN7OEcR-S_tYxQNiVY",
@@ -3954,6 +4080,68 @@
         "link": "https://www.google.com/maps/place/Therm%C3%A1l+b%C3%BCf%C3%A9/data=!4m7!3m6!1s0x47387b7362ea6505:0x56890d1463ed2ff9!8m2!3d47.9491217!4d22.3262296!16s%2Fg%2F11jjmv6b0r!19sChIJBWXqYnN7OEcR-S_tYxQNiVY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ9ZrwlHJ7OEcRB4AQy4I64s4",
+        "name": "Fornetti Pekseg es Bufe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "M.Gy. Pekseg Kft.",
+                "link": "https://www.google.com/maps/search/M.Gy.+P%C3%A9ks%C3%A9g+Kft./@47.9528335,22.316786?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 212,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Hazi Pekseg",
+                "link": "https://www.google.com/maps/search/H%C3%A1zi+P%C3%A9ks%C3%A9g/@47.9418289,22.3085728?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 188,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Mateszalkai Sutoipari Kft. - Kredenc - Kenyermester",
+                "link": "https://www.google.com/maps/search/M%C3%A1t%C3%A9szalkai+S%C3%BCt%C5%91ipari+Kft.+-+Kredenc+-+Keny%C3%A9rmester/@47.949618099999995,22.318530499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 58,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Mindig Kredenc",
+                "link": "https://www.google.com/maps/search/Mindig+Kredenc/@47.949796,22.3182247?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.9,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Nyirmada kenyergyar IX. szamu Mintaboltja",
+                "link": "https://www.google.com/maps/search/Ny%C3%ADrmada+keny%C3%A9rgy%C3%A1r+IX.+sz%C3%A1m%C3%BA+Mintaboltja/@47.9604423,22.313483599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fornetti Pekseg es Bufe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOMadHnY_huaGrxRdPqel-rt-UIzolNj-UfDoB0=w426-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Mateszalka, Fornetti Pekseg es Bufe, Seregely u. 1, 4700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fornetti+P%C3%A9ks%C3%A9g+%C3%A9s+B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x47387b7294f09af5:0xcee23a82cb108007!8m2!3d47.950846!4d22.3143023!16s%2Fg%2F11p5nfhp17!19sChIJ9ZrwlHJ7OEcRB4AQy4I64s4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJj2QoP6N8OEcRdCTdPg1Nj3E",
         "name": "Gold Juice Kft.",
         "description": null,
@@ -4009,32 +4197,6 @@
         "link": "https://www.google.com/maps/place/Gold+Juice+Kft./data=!4m7!3m6!1s0x47387ca33f28648f:0x718f4d0d3edd2474!8m2!3d47.961123!4d22.306135!16s%2Fg%2F1hhwt3x57!19sChIJj2QoP6N8OEcRdCTdPg1Nj3E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJa7BA7kF7OEcRTDtxpw833Kk",
-        "name": "Csilla4bolt",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Csilla4bolt (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zBXEsD5YMLJbJW6Fw4fLrw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=138.35544&pitch=0&thumbfov=100",
-        "main_category": "Dian Qi Ling Shou ",
-        "categories": [
-            "Dian Qi Ling Shou "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Mateszalka, Csilla4bolt, Szalkay Laszlo u. 16, 4700 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Csill%C3%A14bolt/data=!4m7!3m6!1s0x47387b41ee40b06b:0xa9dc370fa7713b4c!8m2!3d47.9530778!4d22.3205421!16s%2Fg%2F11txkz295_!19sChIJa7BA7kF7OEcRTDtxpw833Kk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ51aD77l9OEcRzYiezCv2ba0",
         "name": "St. Patrick Sorozo",
         "description": null,
@@ -4044,7 +4206,7 @@
             {
                 "name": "Provolone Etterem",
                 "link": "https://www.google.com/maps/search/Provolone+%C3%89tterem/@47.9520638,22.3146585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 454,
+                "reviews": 451,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -4072,7 +4234,7 @@
             {
                 "name": "Szatmar Etterem",
                 "link": "https://www.google.com/maps/search/Szatm%C3%A1r+%C3%89tterem/@47.9522754,22.314255700000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
+                "reviews": 2,
                 "rating": 5,
                 "main_category": "Can Ting "
             }

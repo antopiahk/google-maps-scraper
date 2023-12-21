@@ -4,19 +4,19 @@
         "name": "Jam Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2599,
+        "reviews": 2602,
         "competitors": [
             {
                 "name": "John's Place Restaurant",
                 "link": "https://www.google.com/maps/search/John%27s+Place+Restaurant/@48.427841699999995,-123.3637292?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2846,
+                "reviews": 2852,
                 "rating": 4.6,
                 "main_category": "Jia Na Da Cai "
             },
             {
                 "name": "The Ruby on Johnson",
                 "link": "https://www.google.com/maps/search/The+Ruby+on+Johnson/@48.427369,-123.3653465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1060,
+                "reviews": 1064,
                 "rating": 4.5,
                 "main_category": "Zao Can "
             },
@@ -37,7 +37,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -63,20 +63,20 @@
         "address": "Jam Cafe, 542 Herald St, Victoria, BC V8W 1S5Jia Na Da ",
         "review_keywords": [
             {
-                "keyword": "Zao Wu Can ",
-                "count": 191
-            },
-            {
                 "keyword": "Ban Ni Di Ke Dan ",
-                "count": 87
+                "count": 88
             },
             {
                 "keyword": "Shu Bing ",
-                "count": 33
+                "count": 34
             },
             {
                 "keyword": "Wu Hua Rou ",
                 "count": 28
+            },
+            {
+                "keyword": "Yan ",
+                "count": 11
             }
         ],
         "link": "https://www.google.com/maps/place/Jam+Cafe/data=!4m7!3m6!1s0x548f748373a9a707:0xbe5e36f16d2e9a09!8m2!3d48.4303107!4d-123.3678618!16s%2Fg%2F1hc5tlhbc!19sChIJB6epc4N0j1QRCZoubfE2Xr4?authuser=0&hl=zh-TW&rclk=1"
@@ -86,7 +86,7 @@
         "name": "Murchie's Fine Tea & Coffee - Victoria",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1960,
+        "reviews": 1962,
         "competitors": [
             {
                 "name": "Pendray Inn and Tea House",
@@ -183,19 +183,19 @@
         "name": "Nourish Kitchen & Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1006,
+        "reviews": 1008,
         "competitors": [
             {
                 "name": "John's Place Restaurant",
                 "link": "https://www.google.com/maps/search/John%27s+Place+Restaurant/@48.427841699999995,-123.3637292?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2846,
+                "reviews": 2852,
                 "rating": 4.6,
                 "main_category": "Jia Na Da Cai "
             },
             {
                 "name": "Be Love",
                 "link": "https://www.google.com/maps/search/Be+Love/@48.4239865,-123.36234470000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 951,
+                "reviews": 950,
                 "rating": 4.5,
                 "main_category": "Su Shi Liao Li "
             },
@@ -230,13 +230,16 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-14:00, 17:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-590-3426",
         "address": "Nourish Kitchen & Cafe, 225 Quebec St, Victoria, BC V8V 1W2Jia Na Da ",
         "review_keywords": [
             {
                 "keyword": "Zao Wu Can ",
-                "count": 65
+                "count": 66
             },
             {
                 "keyword": "Song Bing ",
@@ -252,11 +255,11 @@
             },
             {
                 "keyword": "Ban Ni Di Ke Dan ",
-                "count": 30
+                "count": 31
             },
             {
                 "keyword": "Na Tie ",
-                "count": 20
+                "count": 21
             },
             {
                 "keyword": "Yao Guo ",
@@ -278,12 +281,12 @@
         "name": "Moka House Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 878,
+        "reviews": 879,
         "competitors": [
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@48.4153288,-123.35648469999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 396,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -304,7 +307,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -366,95 +369,11 @@
         "link": "https://www.google.com/maps/place/Moka+House+Coffee/data=!4m7!3m6!1s0x548f74ed24e47847:0x74c309a07c4e2a68!8m2!3d48.4152595!4d-123.3558752!16s%2Fg%2F1tj4grcv!19sChIJR3jkJO10j1QRaCpOfKAJw3Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJmSBWfoN0j1QR416gSTKElf0",
-        "name": "QV Cafe & Bakery",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 766,
-        "competitors": [
-            {
-                "name": "Dutch Bakery & Diner",
-                "link": "https://www.google.com/maps/search/Dutch+Bakery+%26+Diner/@48.4246499,-123.3645834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 857,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "BeaverTails Victoria",
-                "link": "https://www.google.com/maps/search/BeaverTails+Victoria/@48.4242608,-123.36764400000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 572,
-                "rating": 4.6,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "La Roux Patisserie",
-                "link": "https://www.google.com/maps/search/La+Roux+Patisserie/@48.4291334,-123.3687974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 538,
-                "rating": 4.7,
-                "main_category": "Xi Dian "
-            },
-            {
-                "name": "Soupa Cafe",
-                "link": "https://www.google.com/maps/search/Soupa+Cafe/@48.425553,-123.363678?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 213,
-                "rating": 4.6,
-                "main_category": "Tang Geng "
-            }
-        ],
-        "website": "https://qvcafe.ca/",
-        "owner": {
-            "id": "114220593042547741377",
-            "name": "QV Cafe & Bakery (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114220593042547741377"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFWThkVmNF2NGTZQ28xW8r4XeOK3pfuVE3McSd=w408-h306-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting ",
-            "Mian Bao Xi Bing Dian ",
-            "Jia Na Da Can Ting ",
-            "Ka Pei Dian ",
-            "Kuai Can Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "08:30-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 250-384-8831",
-        "address": "QV Cafe & Bakery, 1701 Government St, Victoria, BC V8W 1Z4Jia Na Da ",
-        "review_keywords": [
-            {
-                "keyword": "Ru Luo Dan Gao ",
-                "count": 92
-            },
-            {
-                "keyword": "Ka Pei ",
-                "count": 69
-            },
-            {
-                "keyword": "Song Bing ",
-                "count": 12
-            },
-            {
-                "keyword": "Qiao Ke Li Dan Gao ",
-                "count": 10
-            },
-            {
-                "keyword": "Hua Sheng Jiang ",
-                "count": 7
-            },
-            {
-                "keyword": "Ban Ni Di Ke Dan ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/QV+Cafe+%26+Bakery/data=!4m7!3m6!1s0x548f74837e562099:0xfd95843249a05ee3!8m2!3d48.429595!4d-123.366671!16s%2Fg%2F1tdwpswz!19sChIJmSBWfoN0j1QR416gSTKElf0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJl1iBTJt0j1QRH-itacBiFM0",
         "name": "Hey Happy",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 766,
+        "reviews": 768,
         "competitors": [
             {
                 "name": "Habit Coffee",
@@ -538,28 +457,28 @@
             {
                 "name": "Jam Cafe",
                 "link": "https://www.google.com/maps/search/Jam+Cafe/@48.4303107,-123.36786180000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2598,
+                "reviews": 2602,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@48.4541472,-123.37337909999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2289,
+                "reviews": 2291,
                 "rating": 3.3,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Wendy's",
                 "link": "https://www.google.com/maps/search/Wendy%27s/@48.4358351,-123.36315570000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1299,
+                "reviews": 1300,
                 "rating": 3.3,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "The Ruby on Johnson",
                 "link": "https://www.google.com/maps/search/The+Ruby+on+Johnson/@48.427369,-123.3653465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1060,
+                "reviews": 1064,
                 "rating": 4.5,
                 "main_category": "Zao Can "
             },
@@ -589,7 +508,9 @@
         ],
         "rating": 3.8,
         "workday_timing": "05:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-978-9305",
         "address": "Tim Hortons, 2680 Blanshard St Unit 3 Unit 3, Victoria, BC V8T 5E1Jia Na Da ",
         "review_keywords": [
@@ -663,14 +584,14 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Saint Cecilia Coffee & Brands",
                 "link": "https://www.google.com/maps/search/Saint+Cecilia+Coffee+%26+Brands/@48.4265678,-123.36915830000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 162,
+                "reviews": 163,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -689,7 +610,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "06:00-18:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-383-4448",
         "address": "Starbucks, 1301 Government St, Victoria, BC V8W 1Y9Jia Na Da ",
         "review_keywords": [
@@ -742,7 +665,7 @@
             {
                 "name": "Hey Happy",
                 "link": "https://www.google.com/maps/search/Hey+Happy/@48.4278458,-123.36916029999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 766,
+                "reviews": 767,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -822,14 +745,14 @@
             {
                 "name": "Jam Cafe",
                 "link": "https://www.google.com/maps/search/Jam+Cafe/@48.4303107,-123.36786180000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2598,
+                "reviews": 2602,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Hey Happy",
                 "link": "https://www.google.com/maps/search/Hey+Happy/@48.4278458,-123.36916029999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 766,
+                "reviews": 767,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -916,7 +839,7 @@
             {
                 "name": "Tim Hortons",
                 "link": "https://www.google.com/maps/search/Tim+Hortons/@48.4485916,-123.37222829999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 364,
                 "rating": 3.7,
                 "main_category": "Kuai Can "
             },
@@ -993,12 +916,12 @@
         "name": "Tim Hortons",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 636,
+        "reviews": 639,
         "competitors": [
             {
                 "name": "Blue Fox Cafe",
                 "link": "https://www.google.com/maps/search/Blue+Fox+Cafe/@48.423684599999994,-123.3587526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2189,
+                "reviews": 2190,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1049,7 +972,9 @@
         ],
         "rating": 3.7,
         "workday_timing": "05:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 778-440-2122",
         "address": "Tim Hortons, 754 Fort St #101, Victoria, BC V8W 1H2Jia Na Da ",
         "review_keywords": [
@@ -1106,21 +1031,21 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@48.4296939,-123.4091184?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1186,
+                "reviews": 1188,
                 "rating": 2.9,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "A&W Canada",
                 "link": "https://www.google.com/maps/search/A%26W+Canada/@48.4315011,-123.3992782?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 611,
+                "reviews": 612,
                 "rating": 3.9,
                 "main_category": "Han Bao Bao "
             },
             {
                 "name": "Sunnyside Cafe",
                 "link": "https://www.google.com/maps/search/Sunnyside+Cafe/@48.4302882,-123.4146273?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 571,
+                "reviews": 572,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1157,7 +1082,9 @@
         ],
         "rating": 3.6,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-361-4610",
         "address": "Tim Hortons, 880 Esquimalt Rd, Victoria, BC V9A 3M5Jia Na Da ",
         "review_keywords": [
@@ -1205,26 +1132,26 @@
         "name": "Fern Cafe and Bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 612,
+        "reviews": 614,
         "competitors": [
             {
                 "name": "Nourish Kitchen & Cafe",
                 "link": "https://www.google.com/maps/search/Nourish+Kitchen+%26+Cafe/@48.421701999999996,-123.37680429999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1006,
+                "reviews": 1008,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Be Love",
                 "link": "https://www.google.com/maps/search/Be+Love/@48.4239865,-123.36234470000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 951,
+                "reviews": 950,
                 "rating": 4.5,
                 "main_category": "Su Shi Liao Li "
             },
             {
                 "name": "Virtuous Pie",
                 "link": "https://www.google.com/maps/search/Virtuous+Pie/@48.428624899999996,-123.368496?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 596,
+                "reviews": 599,
                 "rating": 4.5,
                 "main_category": "Yan Ge Su Shi Liao Li "
             },
@@ -1252,7 +1179,11 @@
         ],
         "rating": 4.8,
         "workday_timing": "09:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-590-3376",
         "address": "Fern Cafe and Bakery, 1115 N Park St #1, Victoria, BC V8T 1C7Jia Na Da ",
         "review_keywords": [
@@ -1304,14 +1235,14 @@
             {
                 "name": "Caffe Fantastico",
                 "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 542,
+                "reviews": 544,
                 "rating": 4.4,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
             {
                 "name": "Bean Around The World",
                 "link": "https://www.google.com/maps/search/Bean+Around+The+World/@48.4292429,-123.3684344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 504,
+                "reviews": 505,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1343,7 +1274,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-477-2323",
         "address": "Discovery Coffee, 664 Discovery St, Victoria, BC V8T 1G9Jia Na Da ",
         "review_keywords": [
@@ -1399,14 +1333,14 @@
             {
                 "name": "Caffe Fantastico",
                 "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 542,
+                "reviews": 544,
                 "rating": 4.4,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
             {
                 "name": "Bean Around The World",
                 "link": "https://www.google.com/maps/search/Bean+Around+The+World/@48.4292429,-123.3684344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 504,
+                "reviews": 505,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1439,7 +1373,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 778-406-1111",
         "address": "Discovery Coffee, 1001 Blanshard St, Victoria, BC V8W 2H4Jia Na Da ",
         "review_keywords": [
@@ -1463,11 +1400,102 @@
         "link": "https://www.google.com/maps/place/Discovery+Coffee/data=!4m7!3m6!1s0x548f7382461d630f:0xe87dc0eae26eeade!8m2!3d48.4236544!4d-123.3623524!16s%2Fg%2F11b6qjl3gs!19sChIJD2MdRoJzj1QR3upu4urAfeg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJxwFyDYp0j1QR8MnyanBUsXY",
+        "name": "Fernwood Coffee Company/Parsonage Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 588,
+        "competitors": [
+            {
+                "name": "Caffe Fantastico",
+                "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 544,
+                "rating": 4.4,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Koffi",
+                "link": "https://www.google.com/maps/search/Koffi/@48.436037999999996,-123.34019199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 308,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Grindstone Cafe",
+                "link": "https://www.google.com/maps/search/Grindstone+Cafe/@48.4303143,-123.3694771?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 268,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Shatterbox Coffee Company",
+                "link": "https://www.google.com/maps/search/Shatterbox+Coffee+Company/@48.429561799999995,-123.3635467?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 235,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Farmhouse Victoria",
+                "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 198,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://fernwoodcoffee.com/",
+        "owner": {
+            "id": "116489966917280830023",
+            "name": "Fernwood Coffee Company/Parsonage Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116489966917280830023"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMc-l8ZZq3J_YqdyANyNn901tWrfBSjfSjR2Ao6=w408-h305-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+1 250-383-5999",
+        "address": "Fernwood Coffee Company/Parsonage Cafe, 1105 Caledonia Ave, Victoria, BC V8T 1E9Jia Na Da ",
+        "review_keywords": [
+            {
+                "keyword": "Song Bing ",
+                "count": 14
+            },
+            {
+                "keyword": "Kao ",
+                "count": 12
+            },
+            {
+                "keyword": "wifi",
+                "count": 11
+            },
+            {
+                "keyword": "Wai Dai ",
+                "count": 7
+            },
+            {
+                "keyword": "Bo Cai ",
+                "count": 6
+            },
+            {
+                "keyword": "Fan Qie ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Fernwood+Coffee+Company%2FParsonage+Cafe/data=!4m7!3m6!1s0x548f748a0d7201c7:0x76b154706af2c9f0!8m2!3d48.4303421!4d-123.3526433!16s%2Fg%2F11gjt2vqqg!19sChIJxwFyDYp0j1QR8MnyanBUsXY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJQ5vkI1Bzj1QRDNPbDD__8pw",
         "name": "Sunnyside Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 571,
+        "reviews": 574,
         "competitors": [
             {
                 "name": "Serious Coffee Esquimalt",
@@ -1486,14 +1514,14 @@
             {
                 "name": "Bunny's Nook Kitchen",
                 "link": "https://www.google.com/maps/search/Bunny%27s+Nook+Kitchen/@48.4305454,-123.4009811?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 188,
+                "reviews": 189,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Miche Cafe & Bar",
                 "link": "https://www.google.com/maps/search/Miche+Cafe+%26+Bar/@48.434386499999995,-123.39918680000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 180,
+                "reviews": 181,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -1549,7 +1577,7 @@
         "name": "Caffe Fantastico",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 543,
+        "reviews": 545,
         "competitors": [
             {
                 "name": "Discovery Coffee",
@@ -1603,8 +1631,11 @@
             "Can Ting "
         ],
         "rating": 4.4,
-        "workday_timing": "07:00-18:30",
-        "closed_on": "Open All Days",
+        "workday_timing": "07:00-21:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-385-2326",
         "address": "Caffe Fantastico, 965 Kings Rd, Victoria, BC V8T 1W7Jia Na Da ",
         "review_keywords": [
@@ -1617,20 +1648,20 @@
                 "count": 30
             },
             {
-                "keyword": "Dou ",
-                "count": 23
+                "keyword": "Cai Dan ",
+                "count": 13
             },
             {
-                "keyword": "latte",
-                "count": 22
-            },
-            {
-                "keyword": "Song Bing ",
-                "count": 12
+                "keyword": "Bei Guo ",
+                "count": 9
             },
             {
                 "keyword": "Yin Le ",
                 "count": 8
+            },
+            {
+                "keyword": "Mei Shi Ka Pei ",
+                "count": 7
             },
             {
                 "keyword": "Gao ",
@@ -1648,7 +1679,7 @@
         "name": "Bean Around The World",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 504,
+        "reviews": 505,
         "competitors": [
             {
                 "name": "Habit Coffee",
@@ -1667,7 +1698,7 @@
             {
                 "name": "Milano Victoria",
                 "link": "https://www.google.com/maps/search/Milano+Victoria/@48.4233973,-123.36801330000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 452,
+                "reviews": 453,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1700,13 +1731,16 @@
         ],
         "rating": 4.7,
         "workday_timing": "07:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-386-7115",
         "address": "Bean Around The World, 533 Fisgard St, Victoria, BC V8W 1R4Jia Na Da ",
         "review_keywords": [
             {
-                "keyword": "Na Tie ",
-                "count": 20
+                "keyword": "atmosphere",
+                "count": 24
             },
             {
                 "keyword": "Dou ",
@@ -1733,8 +1767,8 @@
                 "count": 10
             },
             {
-                "keyword": "Ke Ke ",
-                "count": 7
+                "keyword": "Tang ",
+                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/Bean+Around+The+World/data=!4m7!3m6!1s0x548f748367467b51:0xb9e7c194bc92e829!8m2!3d48.4292429!4d-123.3684344!16s%2Fg%2F1tlmn048!19sChIJUXtGZ4N0j1QRKeiSvJTB57k?authuser=0&hl=zh-TW&rclk=1"
@@ -1744,12 +1778,12 @@
         "name": "Bubby Rose's Bakery & Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 493,
+        "reviews": 494,
         "competitors": [
             {
                 "name": "Dutch Bakery & Diner",
                 "link": "https://www.google.com/maps/search/Dutch+Bakery+%26+Diner/@48.4246499,-123.3645834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 857,
+                "reviews": 858,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1853,7 +1887,7 @@
             {
                 "name": "KAPPO Marta (Modern Japanese Cuisine)",
                 "link": "https://www.google.com/maps/search/KAPPO+Marta+%28Modern+Japanese+Cuisine%29/@48.43428,-123.3359584?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 261,
+                "reviews": 266,
                 "rating": 4.7,
                 "main_category": "Ri Ben Cai "
             },
@@ -1893,7 +1927,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "07:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-590-7307",
         "address": "Little June, 1301 Gladstone Ave, Victoria, BC V8R 1R9Jia Na Da ",
         "review_keywords": [
@@ -1906,8 +1943,8 @@
                 "count": 15
             },
             {
-                "keyword": "Wu Can ",
-                "count": 12
+                "keyword": "Ka Pei Shi ",
+                "count": 13
             },
             {
                 "keyword": "Bing Gan ",
@@ -1946,7 +1983,7 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@48.4256343,-123.36556929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1919,
+                "reviews": 1921,
                 "rating": 3.2,
                 "main_category": "Kuai Can "
             },
@@ -2072,7 +2109,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:30-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-590-6323",
         "address": "Discovery Coffee, 281 Menzies St, Victoria, BC V8V 2G6Jia Na Da ",
         "review_keywords": [
@@ -2141,7 +2181,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -2213,7 +2253,7 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@48.4441193,-123.33593629999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1133,
+                "reviews": 1134,
                 "rating": 2.8,
                 "main_category": "Kuai Can "
             },
@@ -2227,7 +2267,7 @@
             {
                 "name": "Caffe Fantastico",
                 "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 542,
+                "reviews": 544,
                 "rating": 4.4,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -2260,7 +2300,9 @@
         ],
         "rating": 3.9,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-370-0776",
         "address": "Starbucks, Hillside Shopping Centre, 1644 Hillside Ave, Victoria, BC V8T 2C5Jia Na Da ",
         "review_keywords": [
@@ -2312,7 +2354,7 @@
         "name": "Bear & Joey Cafe",
         "description": "Ying Ye Shi Jian Wei Bai Tian De Can Ting ,Zhao Pai Cai Shi Ao Shi Zao Wu Can ,Cai Shi Shang Shi Nei Zhuang Huang . ",
         "is_spending_on_ads": false,
-        "reviews": 439,
+        "reviews": 440,
         "competitors": [
             {
                 "name": "Earls Kitchen + Bar",
@@ -2324,7 +2366,7 @@
             {
                 "name": "The Ruby on Johnson",
                 "link": "https://www.google.com/maps/search/The+Ruby+on+Johnson/@48.427369,-123.3653465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1060,
+                "reviews": 1064,
                 "rating": 4.5,
                 "main_category": "Zao Can "
             },
@@ -2356,7 +2398,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "08:00-14:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-590-9193",
         "address": "Bear & Joey Cafe, 1025 Cook St, Victoria, BC V8V 3Z7Jia Na Da ",
         "review_keywords": [
@@ -2396,7 +2441,7 @@
             {
                 "name": "Sandwich Corner Cafe",
                 "link": "https://www.google.com/maps/search/Sandwich+Corner+Cafe/@48.4235592,-123.3675403?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 239,
+                "reviews": 241,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2410,7 +2455,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -2429,7 +2474,11 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-15:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 778-265-8101",
         "address": "Rise and Grind Coffee & All Day Breakfast Sandwiches, 1294 Broad St, Victoria, BC V8W 2A5Jia Na Da ",
         "review_keywords": [
@@ -2489,14 +2538,14 @@
             {
                 "name": "La Roux Patisserie",
                 "link": "https://www.google.com/maps/search/La+Roux+Patisserie/@48.4291334,-123.3687974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 538,
+                "reviews": 539,
                 "rating": 4.7,
                 "main_category": "Xi Dian "
             },
             {
                 "name": "Bubby Rose's Bakery & Cafe",
                 "link": "https://www.google.com/maps/search/Bubby+Rose%27s+Bakery+%26+Cafe/@48.422735499999995,-123.35452160000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 492,
+                "reviews": 494,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2583,14 +2632,14 @@
             {
                 "name": "The Ruby on Johnson",
                 "link": "https://www.google.com/maps/search/The+Ruby+on+Johnson/@48.427369,-123.3653465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1060,
+                "reviews": 1064,
                 "rating": 4.5,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Sandwich Corner Cafe",
                 "link": "https://www.google.com/maps/search/Sandwich+Corner+Cafe/@48.4235592,-123.3675403?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 239,
+                "reviews": 241,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2604,7 +2653,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2666,16 +2715,118 @@
         "link": "https://www.google.com/maps/place/Picnic+Too/data=!4m7!3m6!1s0x548f748eebb44037:0x3eeae968c661ee51!8m2!3d48.4235172!4d-123.3560287!16s%2Fg%2F1q67ddntp!19sChIJN0C06450j1QRUe5hxmjp6j4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJf1CQ-mt0j1QRErbh46SY1vc",
+        "name": "Starbucks",
+        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
+        "is_spending_on_ads": false,
+        "reviews": 396,
+        "competitors": [
+            {
+                "name": "Discovery Coffee",
+                "link": "https://www.google.com/maps/search/Discovery+Coffee/@48.4320996,-123.36496720000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 604,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Koffi",
+                "link": "https://www.google.com/maps/search/Koffi/@48.436037999999996,-123.34019199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 308,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Good Earth Coffeehouse - Village Walk",
+                "link": "https://www.google.com/maps/search/Good+Earth+Coffeehouse+-+Village+Walk/@48.426210499999996,-123.32306489999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 216,
+                "rating": 3.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "QV Coffee House",
+                "link": "https://www.google.com/maps/search/QV+Coffee+House/@48.429172400000006,-123.3307159?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 207,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Jumbo",
+                "link": "https://www.google.com/maps/search/Cafe+Jumbo/@48.42527,-123.36927999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 40,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.starbucks.ca/store-locator/store/1369",
+        "owner": {
+            "id": "116686545883905084701",
+            "name": "Starbucks (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116686545883905084701"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGlXoHH76zOXqq10Q9bx21upmm8eI6NfdhpWGh=w408-h408-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Ka Pei Ting "
+        ],
+        "rating": 3.9,
+        "workday_timing": "05:30-19:30",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+1 250-370-9071",
+        "address": "Starbucks, 1959 Fort St, Victoria, BC V8R 1K4Jia Na Da ",
+        "review_keywords": [
+            {
+                "keyword": "Qing Jie ",
+                "count": 10
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 9
+            },
+            {
+                "keyword": "Zao Shang ",
+                "count": 7
+            },
+            {
+                "keyword": "Ting Che ",
+                "count": 6
+            },
+            {
+                "keyword": "Jiu ",
+                "count": 6
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 6
+            },
+            {
+                "keyword": "Di Ban ",
+                "count": 5
+            },
+            {
+                "keyword": "Fan Xin ",
+                "count": 4
+            },
+            {
+                "keyword": "Yi Yuan ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x548f746bfa90507f:0xf7d698a4e3e1b612!8m2!3d48.431453!4d-123.32368!16s%2Fg%2F1tj2177k!19sChIJf1CQ-mt0j1QRErbh46SY1vc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJPb59L-10j1QRG3sG-6LdNOk",
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 395,
+        "reviews": 394,
         "competitors": [
             {
                 "name": "Moka House Coffee",
                 "link": "https://www.google.com/maps/search/Moka+House+Coffee/@48.4152595,-123.3558752?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 876,
+                "reviews": 879,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -2759,106 +2910,6 @@
         "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x548f74ed2f7dbe3d:0xe934dda2fb067b1b!8m2!3d48.4153288!4d-123.3564847!16s%2Fg%2F1vxz99mb!19sChIJPb59L-10j1QRG3sG-6LdNOk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJf1CQ-mt0j1QRErbh46SY1vc",
-        "name": "Starbucks",
-        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
-        "is_spending_on_ads": false,
-        "reviews": 395,
-        "competitors": [
-            {
-                "name": "Discovery Coffee",
-                "link": "https://www.google.com/maps/search/Discovery+Coffee/@48.4320996,-123.36496720000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Koffi",
-                "link": "https://www.google.com/maps/search/Koffi/@48.436037999999996,-123.34019199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Good Earth Coffeehouse - Village Walk",
-                "link": "https://www.google.com/maps/search/Good+Earth+Coffeehouse+-+Village+Walk/@48.426210499999996,-123.32306489999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 216,
-                "rating": 3.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "QV Coffee House",
-                "link": "https://www.google.com/maps/search/QV+Coffee+House/@48.429172400000006,-123.3307159?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 207,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Jumbo",
-                "link": "https://www.google.com/maps/search/Cafe+Jumbo/@48.42527,-123.36927999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.starbucks.ca/store-locator/store/1369",
-        "owner": {
-            "id": "116686545883905084701",
-            "name": "Starbucks (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116686545883905084701"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGlXoHH76zOXqq10Q9bx21upmm8eI6NfdhpWGh=w408-h408-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Ka Pei Ting "
-        ],
-        "rating": 3.9,
-        "workday_timing": "05:30-19:30",
-        "closed_on": "Open All Days",
-        "phone": "+1 250-370-9071",
-        "address": "Starbucks, 1959 Fort St, Victoria, BC V8R 1K4Jia Na Da ",
-        "review_keywords": [
-            {
-                "keyword": "Qing Jie ",
-                "count": 10
-            },
-            {
-                "keyword": "Ka Pei Shi ",
-                "count": 9
-            },
-            {
-                "keyword": "Zao Shang ",
-                "count": 7
-            },
-            {
-                "keyword": "Ting Che ",
-                "count": 6
-            },
-            {
-                "keyword": "Jiu ",
-                "count": 6
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 6
-            },
-            {
-                "keyword": "Di Ban ",
-                "count": 5
-            },
-            {
-                "keyword": "Fan Xin ",
-                "count": 4
-            },
-            {
-                "keyword": "Yi Yuan ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x548f746bfa90507f:0xf7d698a4e3e1b612!8m2!3d48.431453!4d-123.32368!16s%2Fg%2F1tj2177k!19sChIJf1CQ-mt0j1QRErbh46SY1vc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJQ3I_XnV0j1QRezK5Crksh3k",
         "name": "Tim Hortons",
         "description": null,
@@ -2868,14 +2919,14 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@48.4441193,-123.33593629999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1133,
+                "reviews": 1134,
                 "rating": 2.8,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Tim Hortons",
                 "link": "https://www.google.com/maps/search/Tim+Hortons/@48.424578,-123.36381000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 635,
+                "reviews": 637,
                 "rating": 3.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2919,7 +2970,9 @@
         ],
         "rating": 3.8,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-595-8343",
         "address": "Tim Hortons, 1644 Hillside Ave Unit 201, Victoria, BC V8T 2C5Jia Na Da ",
         "review_keywords": [
@@ -2976,7 +3029,7 @@
             {
                 "name": "Dutch Bakery & Diner",
                 "link": "https://www.google.com/maps/search/Dutch+Bakery+%26+Diner/@48.4246499,-123.3645834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 857,
+                "reviews": 858,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2990,7 +3043,7 @@
             {
                 "name": "La Roux Patisserie",
                 "link": "https://www.google.com/maps/search/La+Roux+Patisserie/@48.4291334,-123.3687974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 538,
+                "reviews": 539,
                 "rating": 4.7,
                 "main_category": "Xi Dian "
             },
@@ -3070,7 +3123,7 @@
             {
                 "name": "Crust Bakery",
                 "link": "https://www.google.com/maps/search/Crust+Bakery/@48.4246321,-123.36424539999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 983,
+                "reviews": 984,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3084,21 +3137,21 @@
             {
                 "name": "Fern Cafe and Bakery",
                 "link": "https://www.google.com/maps/search/Fern+Cafe+and+Bakery/@48.429450599999996,-123.3524242?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 612,
+                "reviews": 613,
                 "rating": 4.8,
                 "main_category": "Yan Ge Su Shi Liao Li "
             },
             {
                 "name": "Origin Gluten-Free Bakery",
                 "link": "https://www.google.com/maps/search/Origin+Gluten-Free+Bakery/@48.4263439,-123.33923259999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 320,
+                "reviews": 322,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "The Art of Slow Food",
                 "link": "https://www.google.com/maps/search/The+Art+of+Slow+Food/@48.4297456,-123.36320269999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 87,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
@@ -3149,10 +3202,6 @@
                 "count": 13
             },
             {
-                "keyword": "Song Bing ",
-                "count": 9
-            },
-            {
                 "keyword": "Qiao Ke Li Bing Gan ",
                 "count": 6
             }
@@ -3169,7 +3218,7 @@
             {
                 "name": "Frankie's Modern Diner",
                 "link": "https://www.google.com/maps/search/Frankie%27s+Modern+Diner/@48.4236363,-123.36834709999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2584,
+                "reviews": 2586,
                 "rating": 4.4,
                 "main_category": "He Jia Jie Yi Liao Li "
             },
@@ -3212,7 +3261,10 @@
         ],
         "rating": 4.2,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-590-8014",
         "address": "Tre Fantastico, 810 Humboldt St, Victoria, BC V8V 5B1Jia Na Da ",
         "review_keywords": [
@@ -3222,7 +3274,7 @@
             },
             {
                 "keyword": "Na Tie ",
-                "count": 14
+                "count": 15
             },
             {
                 "keyword": "espresso",
@@ -3256,19 +3308,19 @@
         "name": "Tim Hortons",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 365,
+        "reviews": 364,
         "competitors": [
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@48.4541472,-123.37337909999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2289,
+                "reviews": 2291,
                 "rating": 3.3,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "A&W Canada",
                 "link": "https://www.google.com/maps/search/A%26W+Canada/@48.450732599999995,-123.37365500000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1234,
+                "reviews": 1235,
                 "rating": 3.9,
                 "main_category": "Han Bao Bao "
             }
@@ -3358,7 +3410,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -3444,7 +3496,7 @@
             {
                 "name": "Hey Happy",
                 "link": "https://www.google.com/maps/search/Hey+Happy/@48.4278458,-123.36916029999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 766,
+                "reviews": 767,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -3535,7 +3587,7 @@
         "name": "Roundhouse Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 336,
+        "reviews": 337,
         "competitors": [
             {
                 "name": "Rise and Grind Coffee & All Day Breakfast Sandwiches",
@@ -3561,7 +3613,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -3617,12 +3669,12 @@
                 "count": 8
             },
             {
-                "keyword": "Ke Song ",
+                "keyword": "Qia Bu Qi Nuo ",
                 "count": 6
             },
             {
-                "keyword": "Qia Bu Qi Nuo ",
-                "count": 6
+                "keyword": "Cai ",
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Roundhouse+Caf%C3%A9/data=!4m7!3m6!1s0x548f73998f03ad7d:0x9483af8d6a468e60!8m2!3d48.4527151!4d-123.3653135!16s%2Fg%2F11b764qmrn!19sChIJfa0Dj5lzj1QRYI5Gao2vg5Q?authuser=0&hl=zh-TW&rclk=1"
@@ -3658,7 +3710,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -3686,7 +3738,10 @@
         ],
         "rating": 4.2,
         "workday_timing": "07:30-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-590-2315",
         "address": "Fantastico bar-deli, 398 Harbour Rd, Victoria, BC V9A 0B7Jia Na Da ",
         "review_keywords": [
@@ -3739,21 +3794,21 @@
             {
                 "name": "Blue Fox Cafe",
                 "link": "https://www.google.com/maps/search/Blue+Fox+Cafe/@48.423684599999994,-123.3587526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2189,
+                "reviews": 2190,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Moka House Coffee",
                 "link": "https://www.google.com/maps/search/Moka+House+Coffee/@48.4152595,-123.3558752?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 876,
+                "reviews": 879,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bear & Joey Cafe",
                 "link": "https://www.google.com/maps/search/Bear+%26+Joey+Cafe/@48.4230118,-123.3539625?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 438,
+                "reviews": 439,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -3801,6 +3856,10 @@
                 "count": 25
             },
             {
+                "keyword": "Cai ",
+                "count": 20
+            },
+            {
                 "keyword": "vegan",
                 "count": 18
             },
@@ -3811,10 +3870,6 @@
             {
                 "keyword": "Fo Qia Xia ",
                 "count": 10
-            },
-            {
-                "keyword": "Ye ",
-                "count": 9
             },
             {
                 "keyword": "Ji Tang ",
@@ -3840,7 +3895,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -4050,7 +4105,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -4076,7 +4131,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-590-7717",
         "address": "Discovery Coffee, 1964 Oak Bay Ave, Victoria, BC V8R 1E2Jia Na Da ",
         "review_keywords": [
@@ -4225,7 +4283,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 298,
+        "reviews": 299,
         "competitors": [
             {
                 "name": "Tim Hortons",
@@ -4306,19 +4364,19 @@
         "name": "Esquimalt Roasting Company",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 291,
+        "reviews": 292,
         "competitors": [
             {
                 "name": "Sunnyside Cafe",
                 "link": "https://www.google.com/maps/search/Sunnyside+Cafe/@48.4302882,-123.4146273?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 571,
+                "reviews": 572,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Spiral Cafe",
                 "link": "https://www.google.com/maps/search/Spiral+Cafe/@48.4365756,-123.38829029999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 325,
+                "reviews": 326,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4332,7 +4390,7 @@
             {
                 "name": "iluka espresso",
                 "link": "https://www.google.com/maps/search/iluka+espresso/@48.4513898,-123.42368590000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 204,
+                "reviews": 205,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -4433,7 +4491,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -4459,7 +4517,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "06:00-18:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-598-8666",
         "address": "Starbucks, 2182 Oak Bay Ave, Victoria, BC V8R 1G3Jia Na Da ",
         "review_keywords": [
@@ -4510,7 +4570,7 @@
             {
                 "name": "Spiral Cafe",
                 "link": "https://www.google.com/maps/search/Spiral+Cafe/@48.4365756,-123.38829029999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 325,
+                "reviews": 326,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4524,7 +4584,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -4543,7 +4603,9 @@
         ],
         "rating": 4,
         "workday_timing": "05:30-18:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-360-1140",
         "address": "Starbucks, 176 Wilson St #140, Victoria, BC V9A 7N6Jia Na Da ",
         "review_keywords": [
@@ -4584,14 +4646,14 @@
             {
                 "name": "Jam Cafe",
                 "link": "https://www.google.com/maps/search/Jam+Cafe/@48.4303107,-123.36786180000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2598,
+                "reviews": 2602,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bean Around The World",
                 "link": "https://www.google.com/maps/search/Bean+Around+The+World/@48.4292429,-123.3684344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 504,
+                "reviews": 505,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -4612,7 +4674,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -4679,28 +4741,28 @@
             {
                 "name": "Sunnyside Cafe",
                 "link": "https://www.google.com/maps/search/Sunnyside+Cafe/@48.4302882,-123.4146273?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 571,
+                "reviews": 572,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Spiral Cafe",
                 "link": "https://www.google.com/maps/search/Spiral+Cafe/@48.4365756,-123.38829029999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 325,
+                "reviews": 326,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Esquimalt Roasting Company",
                 "link": "https://www.google.com/maps/search/Esquimalt+Roasting+Company/@48.429812999999996,-123.4146799?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 291,
+                "reviews": 292,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
             {
                 "name": "Miche Cafe & Bar",
                 "link": "https://www.google.com/maps/search/Miche+Cafe+%26+Bar/@48.434386499999995,-123.39918680000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 180,
+                "reviews": 181,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -4779,7 +4841,7 @@
         "name": "Imagine Studio Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 260,
+        "reviews": 261,
         "competitors": [
             {
                 "name": "Discovery Coffee",
@@ -4805,7 +4867,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -4920,7 +4982,9 @@
         ],
         "rating": 4,
         "workday_timing": "06:00-18:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-361-4884",
         "address": "Starbucks, 425 Simcoe Street James Bay Square, Victoria, BC V8V 4T3Jia Na Da ",
         "review_keywords": [
@@ -5075,7 +5139,7 @@
             {
                 "name": "Caffe Fantastico",
                 "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 542,
+                "reviews": 544,
                 "rating": 4.4,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -5109,7 +5173,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "07:00-15:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-384-5282",
         "address": "2% Jazz Coffee, 740 Hillside Ave, Victoria, BC V8T 1Z4Jia Na Da ",
         "review_keywords": [
@@ -5169,14 +5235,14 @@
             {
                 "name": "Discovery Coffee",
                 "link": "https://www.google.com/maps/search/Discovery+Coffee/@48.4236544,-123.36235239999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 588,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Milano Victoria",
                 "link": "https://www.google.com/maps/search/Milano+Victoria/@48.4233973,-123.36801330000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 452,
+                "reviews": 453,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5190,7 +5256,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -5209,7 +5275,8 @@
         "rating": 4.6,
         "workday_timing": "07:30-16:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+1 250-385-8900",
         "address": "Macchiato Caffe, 1002 Broad St, Victoria, BC V8W 1Z9Jia Na Da ",
@@ -5241,6 +5308,10 @@
             {
                 "keyword": "Jia Ge ",
                 "count": 6
+            },
+            {
+                "keyword": "Xiao Chi ",
+                "count": 5
             },
             {
                 "keyword": "Su Shi Dian ",
@@ -5291,7 +5362,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -5370,7 +5441,7 @@
             {
                 "name": "John's Place Restaurant",
                 "link": "https://www.google.com/maps/search/John%27s+Place+Restaurant/@48.427841699999995,-123.3637292?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2846,
+                "reviews": 2852,
                 "rating": 4.6,
                 "main_category": "Jia Na Da Cai "
             },
@@ -5571,7 +5642,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -5656,21 +5727,21 @@
             {
                 "name": "Sunnyside Cafe",
                 "link": "https://www.google.com/maps/search/Sunnyside+Cafe/@48.4302882,-123.4146273?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 571,
+                "reviews": 572,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Roundhouse Cafe",
                 "link": "https://www.google.com/maps/search/Roundhouse+Caf%C3%A9/@48.4527151,-123.36531349999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Spiral Cafe",
                 "link": "https://www.google.com/maps/search/Spiral+Cafe/@48.4365756,-123.38829029999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 325,
+                "reviews": 326,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5706,9 +5777,11 @@
             "Yun Dong Jiu Ba "
         ],
         "rating": 4.8,
-        "workday_timing": "09:00-15:00",
+        "workday_timing": "09:00-20:30",
         "closed_on": [
             "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi San ",
             "Xing Qi Si ",
             "Xing Qi Liu "
@@ -5718,18 +5791,18 @@
         "review_keywords": [
             {
                 "keyword": "Wu Can ",
-                "count": 13
+                "count": 14
             },
             {
                 "keyword": "atmosphere",
                 "count": 11
             },
             {
-                "keyword": "Shu Tiao ",
-                "count": 8
+                "keyword": "Ma Ma ",
+                "count": 9
             },
             {
-                "keyword": "Ma Ma ",
+                "keyword": "Shu Tiao ",
                 "count": 8
             },
             {
@@ -5772,14 +5845,14 @@
             {
                 "name": "Milano Victoria",
                 "link": "https://www.google.com/maps/search/Milano+Victoria/@48.4233973,-123.36801330000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 452,
+                "reviews": 453,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -5817,6 +5890,8 @@
         "workday_timing": "07:30-15:30",
         "closed_on": [
             "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Liu "
         ],
         "phone": "+1 250-590-5985",
@@ -6039,6 +6114,10 @@
                 "count": 7
             },
             {
+                "keyword": "Tang ",
+                "count": 6
+            },
+            {
                 "keyword": "Sha La ",
                 "count": 6
             },
@@ -6057,10 +6136,6 @@
             {
                 "keyword": "Zhi Kao ",
                 "count": 3
-            },
-            {
-                "keyword": "San Ming Zhi ",
-                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Sol+Food+Cafe+Deli+Catering/data=!4m7!3m6!1s0x548f737a5310c381:0xe00525baaf94f519!8m2!3d48.4392065!4d-123.3784154!16s%2Fg%2F1td_y8w3!19sChIJgcMQU3pzj1QRGfWUr7olBeA?authuser=0&hl=zh-TW&rclk=1"
@@ -6070,7 +6145,7 @@
         "name": "Saint Cecilia Coffee & Brands",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 162,
+        "reviews": 163,
         "competitors": [
             {
                 "name": "Starbucks",
@@ -6089,7 +6164,7 @@
             {
                 "name": "Discovery Coffee",
                 "link": "https://www.google.com/maps/search/Discovery+Coffee/@48.4236544,-123.36235239999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 588,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -6164,6 +6239,109 @@
         "link": "https://www.google.com/maps/place/Saint+Cecilia+Coffee+%26+Brands/data=!4m7!3m6!1s0x548f75a4d32898ad:0xc6dd051a1a98d892!8m2!3d48.4265678!4d-123.3691583!16s%2Fg%2F11h39pfbgx!19sChIJrZgo06R1j1QRktiYGhoF3cY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ3X36ye11j1QR6FX1aT0pc6U",
+        "name": "Torch Song Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 157,
+        "competitors": [
+            {
+                "name": "QV Cafe & Bakery",
+                "link": "https://www.google.com/maps/search/QV+Cafe+%26+Bakery/@48.429595,-123.366671?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 766,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Habit Coffee",
+                "link": "https://www.google.com/maps/search/Habit+Coffee/@48.4286454,-123.36769329999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 346,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Grindstone Cafe",
+                "link": "https://www.google.com/maps/search/Grindstone+Cafe/@48.4303143,-123.3694771?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 268,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Shatterbox Coffee Company",
+                "link": "https://www.google.com/maps/search/Shatterbox+Coffee+Company/@48.429561799999995,-123.3635467?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 235,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Songhees Gallery Cafe",
+                "link": "https://www.google.com/maps/search/Songhees+Gallery+Cafe/@48.441522299999995,-123.42859370000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "http://torchsong.ca/",
+        "owner": {
+            "id": "110641166228366603711",
+            "name": "Torch Song Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110641166228366603711"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOPdDi6IqGJzGUAnTstSZNI-dfTfsrGIoM1yRU=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.9,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+1 250-590-9005",
+        "address": "Torch Song Cafe, 1812 Government St, Victoria, BC V8T 4N5Jia Na Da ",
+        "review_keywords": [
+            {
+                "keyword": "Shu ",
+                "count": 20
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 11
+            },
+            {
+                "keyword": "Hei Jiao Chang Pian ",
+                "count": 10
+            },
+            {
+                "keyword": "She Qu ",
+                "count": 9
+            },
+            {
+                "keyword": "Xuan Ze ",
+                "count": 8
+            },
+            {
+                "keyword": "Sheng Yi ",
+                "count": 8
+            },
+            {
+                "keyword": "Yin Le ",
+                "count": 5
+            },
+            {
+                "keyword": "Gao ",
+                "count": 5
+            },
+            {
+                "keyword": "Qiao Ke Li Bing Gan ",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Torch+Song+Cafe/data=!4m7!3m6!1s0x548f75edc9fa7ddd:0xa573293d69f555e8!8m2!3d48.4305956!4d-123.3673002!16s%2Fg%2F11tmrtnrd2!19sChIJ3X36ye11j1QR6FX1aT0pc6U?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ_XKhfEJ0j1QRjMJ-OGXAGNg",
         "name": "Just Matcha Tea Shop",
         "description": null,
@@ -6173,7 +6351,7 @@
             {
                 "name": "Murchie's Fine Tea & Coffee - Victoria",
                 "link": "https://www.google.com/maps/search/Murchie%27s+Fine+Tea+%26+Coffee+-+Victoria/@48.42532,-123.36790810000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1959,
+                "reviews": 1961,
                 "rating": 4.5,
                 "main_category": "Cha Xie Dian "
             },
@@ -6273,7 +6451,7 @@
             {
                 "name": "Superbaba (Victoria)",
                 "link": "https://www.google.com/maps/search/Superbaba+%28Victoria%29/@48.4267028,-123.36150839999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1222,
+                "reviews": 1223,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -6358,14 +6536,14 @@
             {
                 "name": "Jam Cafe",
                 "link": "https://www.google.com/maps/search/Jam+Cafe/@48.4303107,-123.36786180000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2598,
+                "reviews": 2602,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Hey Happy",
                 "link": "https://www.google.com/maps/search/Hey+Happy/@48.4278458,-123.36916029999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 766,
+                "reviews": 767,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -6470,7 +6648,7 @@
             {
                 "name": "Caffe Fantastico",
                 "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 542,
+                "reviews": 544,
                 "rating": 4.4,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -6559,14 +6737,14 @@
             {
                 "name": "Bubby Rose's Bakery & Cafe",
                 "link": "https://www.google.com/maps/search/Bubby+Rose%27s+Bakery+%26+Cafe/@48.422735499999995,-123.35452160000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 492,
+                "reviews": 494,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Bear & Joey Cafe",
                 "link": "https://www.google.com/maps/search/Bear+%26+Joey+Cafe/@48.4230118,-123.3539625?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 438,
+                "reviews": 439,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -6611,7 +6789,7 @@
             "Can Ting "
         ],
         "rating": 4.6,
-        "workday_timing": "08:00-16:00",
+        "workday_timing": "08:00-15:00",
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er "
@@ -6668,14 +6846,14 @@
             {
                 "name": "Roundhouse Cafe",
                 "link": "https://www.google.com/maps/search/Roundhouse+Caf%C3%A9/@48.4527151,-123.36531349999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Spiral Cafe",
                 "link": "https://www.google.com/maps/search/Spiral+Cafe/@48.4365756,-123.38829029999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 325,
+                "reviews": 326,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -6717,6 +6895,8 @@
         "workday_timing": "07:30-14:00",
         "closed_on": [
             "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Liu "
         ],
         "phone": "+1 250-383-9339",
@@ -6739,6 +6919,10 @@
                 "count": 5
             },
             {
+                "keyword": "Xiao Chi ",
+                "count": 5
+            },
+            {
                 "keyword": "Qing Jie ",
                 "count": 5
             },
@@ -6756,10 +6940,6 @@
             },
             {
                 "keyword": "Mian Ji ",
-                "count": 3
-            },
-            {
-                "keyword": "Gan Jue ",
                 "count": 3
             }
         ],
@@ -6796,7 +6976,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6849,15 +7029,15 @@
                 "count": 4
             },
             {
-                "keyword": "Jia Ting ",
-                "count": 4
-            },
-            {
                 "keyword": "Pin Guo ",
                 "count": 3
             },
             {
                 "keyword": "Huo Tui ",
+                "count": 3
+            },
+            {
+                "keyword": "Bing Gan ",
                 "count": 3
             }
         ],
@@ -6873,28 +7053,28 @@
             {
                 "name": "Cora Breakfast and Lunch",
                 "link": "https://www.google.com/maps/search/Cora+Breakfast+and+Lunch/@48.4229006,-123.36621719999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1821,
+                "reviews": 1822,
                 "rating": 4.2,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Floyd's Diner James Bay",
                 "link": "https://www.google.com/maps/search/Floyd%27s+Diner+James+Bay/@48.4179661,-123.3726609?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1091,
+                "reviews": 1093,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Nourish Kitchen & Cafe",
                 "link": "https://www.google.com/maps/search/Nourish+Kitchen+%26+Cafe/@48.421701999999996,-123.37680429999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1006,
+                "reviews": 1008,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "James Bay Inn Restaurant",
                 "link": "https://www.google.com/maps/search/James+Bay+Inn+Restaurant/@48.4153947,-123.3694605?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 573,
+                "reviews": 574,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -7011,7 +7191,7 @@
             "Can Ting "
         ],
         "rating": 3.9,
-        "workday_timing": "07:00-18:00",
+        "workday_timing": "07:30-18:00",
         "closed_on": "Open All Days",
         "phone": "+1 250-386-0450",
         "address": "Courtyard Cafe, 463 Belleville St., Victoria, BC V8V 1X3Jia Na Da ",
@@ -7049,7 +7229,7 @@
             {
                 "name": "Little June",
                 "link": "https://www.google.com/maps/search/Little+June/@48.430408,-123.3450269?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 483,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -7097,8 +7277,10 @@
             "Can Ting "
         ],
         "rating": 3.9,
-        "workday_timing": "06:30-19:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-598-1144",
         "address": "Good Earth Coffeehouse -Royal Jubilee Hospital, 1952 Bay St, Victoria, BC V8R 1J8Jia Na Da ",
         "review_keywords": [
@@ -7138,7 +7320,7 @@
             {
                 "name": "Bubby Rose's Bakery & Cafe",
                 "link": "https://www.google.com/maps/search/Bubby+Rose%27s+Bakery+%26+Cafe/@48.422735499999995,-123.35452160000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 492,
+                "reviews": 494,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -7226,7 +7408,7 @@
             {
                 "name": "Little June",
                 "link": "https://www.google.com/maps/search/Little+June/@48.430408,-123.3450269?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 483,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -7254,7 +7436,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -7412,14 +7594,14 @@
             {
                 "name": "Little June",
                 "link": "https://www.google.com/maps/search/Little+June/@48.430408,-123.3450269?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 483,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Milano Victoria",
                 "link": "https://www.google.com/maps/search/Milano+Victoria/@48.4233973,-123.36801330000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 452,
+                "reviews": 453,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -7497,108 +7679,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Yoka%27s+Coffee+%26+Honey/data=!4m7!3m6!1s0x548f7487d414312b:0xb69b8628402da830!8m2!3d48.4282817!4d-123.3543527!16s%2Fg%2F1thbwb_3!19sChIJKzEU1Id0j1QRMKgtQCiGm7Y?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ3X36ye11j1QR6FX1aT0pc6U",
-        "name": "Torch Song Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 69,
-        "competitors": [
-            {
-                "name": "QV Cafe & Bakery",
-                "link": "https://www.google.com/maps/search/QV+Cafe+%26+Bakery/@48.429595,-123.366671?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 766,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Habit Coffee",
-                "link": "https://www.google.com/maps/search/Habit+Coffee/@48.4286454,-123.36769329999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 346,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Grindstone Cafe",
-                "link": "https://www.google.com/maps/search/Grindstone+Cafe/@48.4303143,-123.3694771?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 268,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Shatterbox Coffee Company",
-                "link": "https://www.google.com/maps/search/Shatterbox+Coffee+Company/@48.429561799999995,-123.3635467?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 235,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Songhees Gallery Cafe",
-                "link": "https://www.google.com/maps/search/Songhees+Gallery+Cafe/@48.441522299999995,-123.42859370000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://torchsong.ca/",
-        "owner": {
-            "id": "110641166228366603711",
-            "name": "Torch Song Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110641166228366603711"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOPdDi6IqGJzGUAnTstSZNI-dfTfsrGIoM1yRU=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": "08:00-15:00",
-        "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Yi "
-        ],
-        "phone": "+1 250-590-9005",
-        "address": "Torch Song Cafe, 1812 Government St, Victoria, BC V8T 4N5Jia Na Da ",
-        "review_keywords": [
-            {
-                "keyword": "Hei Jiao Chang Pian ",
-                "count": 7
-            },
-            {
-                "keyword": "Shu ",
-                "count": 7
-            },
-            {
-                "keyword": "atmosphere",
-                "count": 6
-            },
-            {
-                "keyword": "Gao ",
-                "count": 5
-            },
-            {
-                "keyword": "Kong Jian ",
-                "count": 5
-            },
-            {
-                "keyword": "Qiao Ke Li Bing Gan ",
-                "count": 4
-            },
-            {
-                "keyword": "flat white",
-                "count": 4
-            },
-            {
-                "keyword": "Yin Le ",
-                "count": 3
-            },
-            {
-                "keyword": "Zou Lu ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Torch+Song+Cafe/data=!4m7!3m6!1s0x548f75edc9fa7ddd:0xa573293d69f555e8!8m2!3d48.4305956!4d-123.3673002!16s%2Fg%2F11tmrtnrd2!19sChIJ3X36ye11j1QR6FX1aT0pc6U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJC6ttvIpzj1QRbf1V26MrwC8",
@@ -7693,21 +7773,21 @@
             {
                 "name": "Discovery Coffee",
                 "link": "https://www.google.com/maps/search/Discovery+Coffee/@48.4236544,-123.36235239999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 588,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Bean Around The World",
                 "link": "https://www.google.com/maps/search/Bean+Around+The+World/@48.4292429,-123.3684344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 504,
+                "reviews": 505,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Milano Victoria",
                 "link": "https://www.google.com/maps/search/Milano+Victoria/@48.4233973,-123.36801330000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 452,
+                "reviews": 453,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -7857,7 +7937,7 @@
         "name": "Good Earth Coffeehouse - The Bay Centre",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 55,
+        "reviews": 56,
         "competitors": [
             {
                 "name": "Starbucks",
@@ -7908,7 +7988,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-590-2280",
         "address": "Good Earth Coffeehouse - The Bay Centre, 1150 Douglas St unit 230a, Victoria, BC V8W 3M9Jia Na Da ",
         "review_keywords": [
@@ -8049,7 +8131,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -8084,26 +8166,26 @@
         "name": "Red Cedar Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 45,
+        "reviews": 46,
         "competitors": [
             {
                 "name": "Cora Breakfast and Lunch",
                 "link": "https://www.google.com/maps/search/Cora+Breakfast+and+Lunch/@48.4229006,-123.36621719999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1821,
+                "reviews": 1822,
                 "rating": 4.2,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Nourish Kitchen & Cafe",
                 "link": "https://www.google.com/maps/search/Nourish+Kitchen+%26+Cafe/@48.421701999999996,-123.37680429999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1006,
+                "reviews": 1008,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Be Love",
                 "link": "https://www.google.com/maps/search/Be+Love/@48.4239865,-123.36234470000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 951,
+                "reviews": 950,
                 "rating": 4.5,
                 "main_category": "Su Shi Liao Li "
             },
@@ -8128,7 +8210,7 @@
             "Shi Wu Yin Xing ",
             "Can Ting "
         ],
-        "rating": 4.4,
+        "rating": 4.5,
         "workday_timing": "10:00-14:00",
         "closed_on": [
             "Xing Qi Ri ",
@@ -8180,6 +8262,7 @@
         "rating": 4.9,
         "workday_timing": "10:00-17:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Er "
         ],
         "phone": "+1 250-386-4700",
@@ -8274,7 +8357,9 @@
         "closed_on": [
             "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Wu "
+            "Xing Qi Er ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu "
         ],
         "phone": "+1 866-982-6559",
         "address": "West Bay Cafe, 474 Head St Unit 108, Victoria, BC V9A 5S2Jia Na Da ",
@@ -8307,7 +8392,7 @@
         "name": "Nor. Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 36,
+        "reviews": 35,
         "competitors": [],
         "website": "https://www.instagram.com/nor.coffee_ca/",
         "owner": {
@@ -8373,7 +8458,7 @@
             {
                 "name": "Spiral Cafe",
                 "link": "https://www.google.com/maps/search/Spiral+Cafe/@48.4365756,-123.38829029999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 325,
+                "reviews": 326,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -8420,7 +8505,7 @@
             {
                 "name": "Jam Cafe",
                 "link": "https://www.google.com/maps/search/Jam+Cafe/@48.4303107,-123.36786180000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2598,
+                "reviews": 2602,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -8490,7 +8575,7 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@48.4441193,-123.33593629999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1133,
+                "reviews": 1134,
                 "rating": 2.8,
                 "main_category": "Kuai Can "
             },
@@ -8541,7 +8626,9 @@
         ],
         "rating": 3.6,
         "workday_timing": "06:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-370-7053",
         "address": "Tim Hortons, 1700 Hillside Ave, Victoria, BC V8P 1A1Jia Na Da ",
         "review_keywords": [
@@ -8555,6 +8642,75 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Tim+Hortons/data=!4m7!3m6!1s0x548f73f55838c975:0x389b9b28670bbe5!8m2!3d48.4462283!4d-123.3325598!16s%2Fg%2F11cns6lxbc!19sChIJdck4WPVzj1QR5btwhrK5iQM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJz-TPWX11j1QRkVYiVCJx0vg",
+        "name": "The Cracked Mug Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "competitors": [
+            {
+                "name": "Caffe Fantastico",
+                "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 544,
+                "rating": 4.4,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Picnic Too",
+                "link": "https://www.google.com/maps/search/Picnic+Too/@48.4235172,-123.3560287?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 397,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Koffi",
+                "link": "https://www.google.com/maps/search/Koffi/@48.436037999999996,-123.34019199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 308,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Shatterbox Coffee Company",
+                "link": "https://www.google.com/maps/search/Shatterbox+Coffee+Company/@48.429561799999995,-123.3635467?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 235,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Macchiato Caffe",
+                "link": "https://www.google.com/maps/search/Macchiato+Caffe/@48.424208899999996,-123.3667064?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 217,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/crackedmugcoffeeshop/",
+        "owner": {
+            "id": "116899825229979348615",
+            "name": "The Cracked Mug Coffee Shop (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116899825229979348615"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPNCzFASd7qkzOo8MN-fHBO454guHVcmLaCGJ21=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Zao Wu Can Can Ting ",
+            "Ka Pei Ting ",
+            "Wu Can Can Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-16:00",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+1 250-590-1128",
+        "address": "The Cracked Mug Coffee Shop, 1090 Johnson St #106, Victoria, BC V8V 0B3Jia Na Da ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Cracked+Mug+Coffee+Shop/data=!4m7!3m6!1s0x548f757d59cfe4cf:0xf8d2712254225691!8m2!3d48.4262404!4d-123.3538057!16s%2Fg%2F11ry4x50kx!19sChIJz-TPWX11j1QRkVYiVCJx0vg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJXwZ72TN1j1QRo94WqG-TBIQ",
@@ -8580,7 +8736,7 @@
             {
                 "name": "Milano Victoria",
                 "link": "https://www.google.com/maps/search/Milano+Victoria/@48.4233973,-123.36801330000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 452,
+                "reviews": 453,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -8644,71 +8800,6 @@
         "link": "https://www.google.com/maps/place/109+Cafe+Roasting+Studio/data=!4m7!3m6!1s0x548f7533d97b065f:0x8404936fa816dea3!8m2!3d48.42769!4d-123.3667899!16s%2Fg%2F11tndw8jht!19sChIJXwZ72TN1j1QRo94WqG-TBIQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJz-TPWX11j1QRkVYiVCJx0vg",
-        "name": "The Cracked Mug Coffee Shop",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 24,
-        "competitors": [
-            {
-                "name": "Caffe Fantastico",
-                "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 542,
-                "rating": 4.4,
-                "main_category": "Ka Pei Hong Bei Shang "
-            },
-            {
-                "name": "Picnic Too",
-                "link": "https://www.google.com/maps/search/Picnic+Too/@48.4235172,-123.3560287?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 397,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Koffi",
-                "link": "https://www.google.com/maps/search/Koffi/@48.436037999999996,-123.34019199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Shatterbox Coffee Company",
-                "link": "https://www.google.com/maps/search/Shatterbox+Coffee+Company/@48.429561799999995,-123.3635467?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 235,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Macchiato Caffe",
-                "link": "https://www.google.com/maps/search/Macchiato+Caffe/@48.424208899999996,-123.3667064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 217,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://www.facebook.com/crackedmugcoffeeshop/",
-        "owner": {
-            "id": "116899825229979348615",
-            "name": "The Cracked Mug Coffee Shop (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116899825229979348615"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPNCzFASd7qkzOo8MN-fHBO454guHVcmLaCGJ21=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Zao Wu Can Can Ting ",
-            "Ka Pei Ting ",
-            "Wu Can Can Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": "07:00-16:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 250-590-1128",
-        "address": "The Cracked Mug Coffee Shop, 1090 Johnson St #106, Victoria, BC V8V 0B3Jia Na Da ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/The+Cracked+Mug+Coffee+Shop/data=!4m7!3m6!1s0x548f757d59cfe4cf:0xf8d2712254225691!8m2!3d48.4262404!4d-123.3538057!16s%2Fg%2F11ry4x50kx!19sChIJz-TPWX11j1QRkVYiVCJx0vg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJu1Wea111j1QRXnrRTG88hIY",
         "name": "Peckish Cafe",
         "description": null,
@@ -8734,7 +8825,8 @@
         "workday_timing": "08:00-16:00",
         "closed_on": [
             "Xing Qi Ri ",
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+1 250-590-5636",
         "address": "Peckish Cafe, 1267 Fairfield Rd, Victoria, BC V8V 3B3Jia Na Da ",
@@ -8873,7 +8965,10 @@
         ],
         "rating": 5,
         "workday_timing": "08:30-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 250-385-1809",
         "address": "Green Cuisine * Coffee Roastery * Bakery * Gelataria, Market Square, 560 Johnson St Unit #5, Victoria, BC V8W 3C6Jia Na Da ",
         "review_keywords": [
@@ -8894,7 +8989,7 @@
             {
                 "name": "Esquimalt Roasting Company",
                 "link": "https://www.google.com/maps/search/Esquimalt+Roasting+Company/@48.429812999999996,-123.4146799?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 291,
+                "reviews": 292,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -8948,11 +9043,99 @@
         "link": "https://www.google.com/maps/place/Climate-Friendly+Coffee+Consulting+%26+Academy+by+Climate+Wave+Coffee/data=!4m7!3m6!1s0x548f75097e4b57c1:0x215ebf99a072565a!8m2!3d48.4322294!4d-123.3639548!16s%2Fg%2F11k4m8dnw8!19sChIJwVdLfgl1j1QRWlZyoJm_XiE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJsXzbymVzj1QRt6A7Bho-Bkc",
+        "name": "Spiral Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 326,
+        "competitors": [
+            {
+                "name": "Discovery Coffee",
+                "link": "https://www.google.com/maps/search/Discovery+Coffee/@48.4320996,-123.36496720000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 604,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Esquimalt Roasting Company",
+                "link": "https://www.google.com/maps/search/Esquimalt+Roasting+Company/@48.429812999999996,-123.4146799?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 292,
+                "rating": 4.7,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Grindstone Cafe",
+                "link": "https://www.google.com/maps/search/Grindstone+Cafe/@48.4303143,-123.3694771?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 268,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Selkirk Cafe",
+                "link": "https://www.google.com/maps/search/Selkirk+Cafe/@48.440373799999996,-123.3786737?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 107,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Spiral Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPj0_s-Y-bH0PVL7577ws11aF7yD5oiVVntPJ_h=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-20:30",
+        "closed_on": "Open All Days",
+        "phone": "+1 250-386-9303",
+        "address": "Spiral Cafe, 418 Craigflower Rd, Victoria, BC V9A 3A9Jia Na Da ",
+        "review_keywords": [
+            {
+                "keyword": "atmosphere",
+                "count": 23
+            },
+            {
+                "keyword": "She Qu ",
+                "count": 16
+            },
+            {
+                "keyword": "Yi Shu ",
+                "count": 14
+            },
+            {
+                "keyword": "Yan Chang Hui ",
+                "count": 14
+            },
+            {
+                "keyword": "Ke Ke ",
+                "count": 9
+            },
+            {
+                "keyword": "Qiang ",
+                "count": 7
+            },
+            {
+                "keyword": "Tang ",
+                "count": 6
+            },
+            {
+                "keyword": "wifi",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Spiral+Cafe/data=!4m7!3m6!1s0x548f7365cadb7cb1:0x47063e1a063ba0b7!8m2!3d48.4365756!4d-123.3882903!16s%2Fg%2F11f3rgbp3y!19sChIJsXzbymVzj1QRt6A7Bho-Bkc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJvR_6PKJ0j1QRV0BSVAQvnao",
         "name": "Shoal Point Coffeehouse",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 278,
+        "reviews": 279,
         "competitors": [
             {
                 "name": "Breakwater Bistro & Bar",
@@ -8985,7 +9168,7 @@
             {
                 "name": "Ogden Point Cafe",
                 "link": "https://www.google.com/maps/search/Ogden+Point+Cafe/@48.415437,-123.38469950000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
+                "reviews": 12,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             }
@@ -9056,7 +9239,7 @@
             {
                 "name": "Frankie's Modern Diner",
                 "link": "https://www.google.com/maps/search/Frankie%27s+Modern+Diner/@48.4236363,-123.36834709999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2584,
+                "reviews": 2586,
                 "rating": 4.4,
                 "main_category": "He Jia Jie Yi Liao Li "
             },
@@ -9077,7 +9260,7 @@
             {
                 "name": "Farmhouse Victoria",
                 "link": "https://www.google.com/maps/search/Farmhouse+Victoria/@48.4261292,-123.36961190000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -9111,19 +9294,19 @@
         "review_keywords": [
             {
                 "keyword": "Pa Ni Ni ",
-                "count": 40
+                "count": 41
             },
             {
                 "keyword": "Tang ",
-                "count": 23
+                "count": 24
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 22
+                "count": 23
             },
             {
                 "keyword": "Wu Can ",
-                "count": 20
+                "count": 21
             },
             {
                 "keyword": "Bao Shi ",
@@ -9131,6 +9314,10 @@
             },
             {
                 "keyword": "Ji Rou ",
+                "count": 4
+            },
+            {
+                "keyword": "Cai ",
                 "count": 4
             },
             {
@@ -9143,10 +9330,6 @@
             },
             {
                 "keyword": "Ha Li ",
-                "count": 3
-            },
-            {
-                "keyword": "Bei Guo ",
                 "count": 3
             }
         ],
@@ -9162,7 +9345,7 @@
             {
                 "name": "John's Place Restaurant",
                 "link": "https://www.google.com/maps/search/John%27s+Place+Restaurant/@48.427841699999995,-123.3637292?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2846,
+                "reviews": 2852,
                 "rating": 4.6,
                 "main_category": "Jia Na Da Cai "
             },
@@ -9183,7 +9366,7 @@
             {
                 "name": "Sandwich Corner Cafe",
                 "link": "https://www.google.com/maps/search/Sandwich+Corner+Cafe/@48.4235592,-123.3675403?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 239,
+                "reviews": 241,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -9279,7 +9462,7 @@
             {
                 "name": "Little June",
                 "link": "https://www.google.com/maps/search/Little+June/@48.430408,-123.3450269?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 483,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -9359,12 +9542,12 @@
         "name": "Farmhouse Victoria",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 197,
+        "reviews": 198,
         "competitors": [
             {
                 "name": "Jam Cafe",
                 "link": "https://www.google.com/maps/search/Jam+Cafe/@48.4303107,-123.36786180000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2598,
+                "reviews": 2602,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -9378,7 +9561,7 @@
             {
                 "name": "Roundhouse Cafe",
                 "link": "https://www.google.com/maps/search/Roundhouse+Caf%C3%A9/@48.4527151,-123.36531349999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -9454,33 +9637,33 @@
         "name": "Bunny's Nook Kitchen",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 188,
+        "reviews": 189,
         "competitors": [
             {
                 "name": "Nourish Kitchen & Cafe",
                 "link": "https://www.google.com/maps/search/Nourish+Kitchen+%26+Cafe/@48.421701999999996,-123.37680429999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1006,
+                "reviews": 1008,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Be Love",
                 "link": "https://www.google.com/maps/search/Be+Love/@48.4239865,-123.36234470000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 951,
+                "reviews": 950,
                 "rating": 4.5,
                 "main_category": "Su Shi Liao Li "
             },
             {
                 "name": "Fern Cafe and Bakery",
                 "link": "https://www.google.com/maps/search/Fern+Cafe+and+Bakery/@48.429450599999996,-123.3524242?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 612,
+                "reviews": 613,
                 "rating": 4.8,
                 "main_category": "Yan Ge Su Shi Liao Li "
             },
             {
                 "name": "Sunnyside Cafe",
                 "link": "https://www.google.com/maps/search/Sunnyside+Cafe/@48.4302882,-123.4146273?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 571,
+                "reviews": 572,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
@@ -9651,14 +9834,14 @@
             {
                 "name": "Interactivity Board Game Cafe",
                 "link": "https://www.google.com/maps/search/Interactivity+Board+Game+Cafe/@48.4260111,-123.36395830000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1749,
+                "reviews": 1750,
                 "rating": 4.7,
                 "main_category": "You Xi Dian "
             },
             {
                 "name": "The Loft Pub",
                 "link": "https://www.google.com/maps/search/The+Loft+Pub/@48.4427448,-123.3825057?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 373,
+                "reviews": 376,
                 "rating": 4.2,
                 "main_category": "Jiu Ba "
             },
@@ -9778,7 +9961,7 @@
             {
                 "name": "The Savoury Cafe",
                 "link": "https://www.google.com/maps/search/The+Savoury+Caf%C3%A9/@48.426282,-123.32760599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -9818,12 +10001,12 @@
                 "count": 5
             },
             {
-                "keyword": "Guang ",
-                "count": 4
+                "keyword": "Xiao Chi ",
+                "count": 5
             },
             {
-                "keyword": "Zuo ",
-                "count": 3
+                "keyword": "Guang ",
+                "count": 4
             }
         ],
         "link": "https://www.google.com/maps/place/Taste+-+A+Place+For+Coffee/data=!4m7!3m6!1s0x548f746b825dd91b:0xfbc9731b3783b084!8m2!3d48.4239!4d-123.3533601!16s%2Fg%2F11b5vt4hnx!19sChIJG9ldgmt0j1QRhLCDNxtzyfs?authuser=0&hl=zh-TW&rclk=1"
@@ -9870,7 +10053,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "09:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
+        ],
         "phone": "+1 778-265-6959",
         "address": "New Owly Cafe, 1150 Douglas St #200a, Victoria, BC V8W 3M9Jia Na Da ",
         "review_keywords": [
@@ -9923,7 +10109,7 @@
             {
                 "name": "Caffe Fantastico",
                 "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 542,
+                "reviews": 544,
                 "rating": 4.4,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -9969,7 +10155,9 @@
         ],
         "rating": 4.1,
         "workday_timing": "07:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 250-889-9923",
         "address": "Gonzales Coffee, 1548 Fairfield Rd, Victoria, BC V8S 1G1Jia Na Da ",
         "review_keywords": [
@@ -10052,6 +10240,8 @@
         "workday_timing": "06:30-16:00",
         "closed_on": [
             "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Liu "
         ],
         "phone": "+1 250-388-6636",
@@ -10154,14 +10344,14 @@
             {
                 "name": "Jam Cafe",
                 "link": "https://www.google.com/maps/search/Jam+Cafe/@48.4303107,-123.36786180000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2598,
+                "reviews": 2602,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Little Jumbo Restaurant and Bar",
                 "link": "https://www.google.com/maps/search/Little+Jumbo+Restaurant+and+Bar/@48.42527,-123.36927999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1261,
+                "reviews": 1262,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -10175,7 +10365,7 @@
             {
                 "name": "Sandwich Corner Cafe",
                 "link": "https://www.google.com/maps/search/Sandwich+Corner+Cafe/@48.4235592,-123.3675403?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 239,
+                "reviews": 241,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -10256,7 +10446,7 @@
             {
                 "name": "Discovery Coffee",
                 "link": "https://www.google.com/maps/search/Discovery+Coffee/@48.4236544,-123.36235239999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 588,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -10410,7 +10600,7 @@
             {
                 "name": "Caffe Fantastico",
                 "link": "https://www.google.com/maps/search/Caffe+Fantastico/@48.437341599999996,-123.3589632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 542,
+                "reviews": 544,
                 "rating": 4.4,
                 "main_category": "Ka Pei Hong Bei Shang "
             },

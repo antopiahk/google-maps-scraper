@@ -1,15 +1,42 @@
 [
     {
+        "place_id": "ChIJQe9U3k29oRQRpoIu0AW4J7w",
+        "name": "Langano Espresso Bar Aigaleo",
+        "description": null,
+        "is_spending_on_ads": true,
+        "reviews": 23,
+        "competitors": [],
+        "website": "http://www.langano.gr/",
+        "owner": {
+            "id": "113617398940458999530",
+            "name": "Langano Espresso Bar Aigaleo (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113617398940458999530"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtzaU_56SEUehgjlk5jYHw3NoJOliXACRhUVZb=w408-h272-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Ka Pei Ting "
+        ],
+        "rating": 3.8,
+        "workday_timing": "06:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 21 0598 0752",
+        "address": "Langano Espresso Bar Aigaleo, Iera Odos 218, Egaleo 122 42Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Langano+Espresso+Bar+Aigaleo/data=!4m7!3m6!1s0x14a1bd4dde54ef41:0xbc27b805d02e82a6!8m2!3d37.9909336!4d23.684556!16s%2Fg%2F11ss7kb6h5!19sChIJQe9U3k29oRQRpoIu0AW4J7w?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ65lACbC8oRQR-9RzDrsCPeg",
         "name": "Cap Cap Aigaleo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 5893,
+        "reviews": 5905,
         "competitors": [
             {
                 "name": "Cafe \"PLAyCE\"",
                 "link": "https://www.google.com/maps/search/Cafe+%22PLAyCE%22/@37.9917948,23.678576399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
+                "reviews": 331,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -92,12 +119,12 @@
         "name": "Kapheteria-Mpar \"Alea\"",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3238,
+        "reviews": 3242,
         "competitors": [
             {
                 "name": "Kapheteria \"Qahwa\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%22Qahwa%22/@37.991577299999996,23.678080800000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1116,
+                "reviews": 1117,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -154,94 +181,30 @@
         "link": "https://www.google.com/maps/place/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/data=!4m7!3m6!1s0x14a1bca57aaabc7b:0xcb45d681ef2bc854!8m2!3d37.9940836!4d23.6773333!16s%2Fg%2F11_qf9rck!19sChIJe7yqeqW8oRQRVMgr74HWRcs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJQ4UVGKW8oRQR1n5LE49vi0Q",
-        "name": "Aigli Iera Odos",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2021,
-        "competitors": [
-            {
-                "name": "Paraiso Terrenal",
-                "link": "https://www.google.com/maps/search/Paraiso+Terrenal/@37.9932301,23.6757268?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1510,
-                "rating": 4.6,
-                "main_category": "Ji Wei Jiu Jiu Ba "
-            },
-            {
-                "name": "Xrysostomio",
-                "link": "https://www.google.com/maps/search/Xrysostomio/@37.9920761,23.6808855?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 907,
-                "rating": 4.7,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Briki the Bar - MPAR - AIGALEO",
-                "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Aigle cafe",
-                "link": "https://www.google.com/maps/search/%CE%91%CE%AF%CE%B3%CE%BB%CE%B7+cafe/@37.9928472,23.679688?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 333,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "House of flask",
-                "link": "https://www.google.com/maps/search/House+of+flask/@37.9943211,23.6751653?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://instagram.com/aigli_iera_odos%3Figshid%3DMzRlODBiNWFlZA%3D%3D",
-        "owner": {
-            "id": "105789519261252704392",
-            "name": "Aigli Iera Odos (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105789519261252704392"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPsKY-UPKh31x7EHlBoSsBFZZq5W0eMF4k6wBhi=w408-h271-k-no",
-        "main_category": "Ji Wei Jiu Jiu Ba ",
-        "categories": [
-            "Ji Wei Jiu Jiu Ba ",
-            "Ka Pei Ting ",
-            "Disco"
-        ],
-        "rating": 4,
-        "workday_timing": "23:59-06:30",
-        "closed_on": "Open All Days",
-        "phone": "+30 21 0531 3873",
-        "address": "Aigli Iera Odos, Iera Odos 253, Egaleo 122 41Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Aigli+Iera+Odos/data=!4m7!3m6!1s0x14a1bca518158543:0x448b6f8f134b7ed6!8m2!3d37.9921901!4d23.678399!16s%2Fg%2F11xmzp8cm!19sChIJQ4UVGKW8oRQR1n5LE49vi0Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJo6OuMaa8oRQR79zzNybjtAo",
         "name": "Theoria Tou House",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1498,
+        "reviews": 1501,
         "competitors": [
             {
                 "name": "Kapheteria \"Qahwa\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%22Qahwa%22/@37.991577299999996,23.678080800000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1116,
+                "reviews": 1117,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Il Toto Aigaleo",
                 "link": "https://www.google.com/maps/search/Il+Toto+Aigaleo/@37.9966521,23.6693468?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 576,
+                "reviews": 579,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -295,21 +258,21 @@
             {
                 "name": "Kapheteria-Mpar \"Alea\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3238,
+                "reviews": 3241,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "The Claxons",
                 "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2735,
+                "reviews": 2739,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Theoria Tou House",
                 "link": "https://www.google.com/maps/search/Theoria+Tou+House/@37.9948201,23.672449200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1496,
+                "reviews": 1501,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -357,16 +320,85 @@
         "link": "https://www.google.com/maps/place/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%22Qahwa%22/data=!4m7!3m6!1s0x14a1bca4e4b379fb:0x2e5d61c43bd1ad1f!8m2!3d37.9915773!4d23.6780808!16s%2Fg%2F1s04bgv2v!19sChIJ-3mz5KS8oRQRH63RO8RhXS4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJIT3znFSjoRQRN3U3SQmelXg",
+        "name": "Everest",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 814,
+        "competitors": [
+            {
+                "name": "everest",
+                "link": "https://www.google.com/maps/search/everest/@38.091317499999995,23.756059?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 633,
+                "rating": 4.2,
+                "main_category": "San Wen Zhi "
+            },
+            {
+                "name": "TASTY city",
+                "link": "https://www.google.com/maps/search/TASTY+city/@37.9914012,23.7326354?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 82,
+                "rating": 4.6,
+                "main_category": "Kuai Can "
+            },
+            {
+                "name": "everest exclusive",
+                "link": "https://www.google.com/maps/search/everest+exclusive/@38.0334801,23.7935961?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 34,
+                "rating": 4.2,
+                "main_category": "San Wen Zhi "
+            },
+            {
+                "name": "EVER",
+                "link": "https://www.google.com/maps/search/EVER/@37.9827151,23.7173306?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.7,
+                "main_category": "Kuai Can "
+            },
+            {
+                "name": "TRINIDAD O.E.",
+                "link": "https://www.google.com/maps/search/TRINIDAD+O.E./@37.9897937,23.7045347?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": "http://www.everest.gr/",
+        "owner": {
+            "id": "112494565772659720729",
+            "name": "Everest (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112494565772659720729"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOYD7rRzY0rvOMTpYnxAD-a_2OCisAfW6xcnJ81=w426-h240-k-no",
+        "main_category": "San Wen Zhi Dian ",
+        "categories": [
+            "San Wen Zhi Dian ",
+            "Zao Can Can Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.2,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": "+30 21 0531 9522",
+        "address": "Everest, Leophoros Kabalas 413 &, Patriarchou Grigoriou E 26, Athina 122 43Xi La ",
+        "review_keywords": [
+            {
+                "keyword": "Ka Pei ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Everest/data=!4m7!3m6!1s0x14a1a3549cf33d21:0x78959e0949377537!8m2!3d38.0068218!4d23.6736583!16s%2Fg%2F11bx89b5jl!19sChIJIT3znFSjoRQRN3U3SQmelXg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJOe4qLqW8oRQRPRWq4680i4k",
         "name": "Mikel Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 763,
+        "reviews": 764,
         "competitors": [
             {
                 "name": "Mikel Coffee",
                 "link": "https://www.google.com/maps/search/Mikel+Coffee/@37.9879659,23.707027999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 645,
+                "reviews": 646,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -410,7 +442,7 @@
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.3,
+        "rating": 4.2,
         "workday_timing": "06:00-22:00",
         "closed_on": "Open All Days",
         "phone": "+30 21 0598 7368",
@@ -482,7 +514,7 @@
             {
                 "name": "everest",
                 "link": "https://www.google.com/maps/search/everest/@38.091317499999995,23.756059?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 632,
+                "reviews": 633,
                 "rating": 4.2,
                 "main_category": "San Wen Zhi "
             },
@@ -535,7 +567,7 @@
         "name": "Gregory's",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 651,
+        "reviews": 652,
         "competitors": [
             {
                 "name": "Gregory's",
@@ -598,12 +630,12 @@
         "name": "Briki the Bar - MPAR - AIGALEO",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 594,
+        "reviews": 595,
         "competitors": [
             {
                 "name": "The Claxons",
                 "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2735,
+                "reviews": 2739,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -649,16 +681,74 @@
         "link": "https://www.google.com/maps/place/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/data=!4m7!3m6!1s0x14a1bcbad2a2a301:0x9d70646f494051ae!8m2!3d37.9920791!4d23.6799069!16s%2Fg%2F11cmvngws9!19sChIJAaOi0rq8oRQRrlFASW9kcJ0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJoRrSHNC8oRQR1OTldGyVOxM",
+        "name": "Coffee Island",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 584,
+        "competitors": [
+            {
+                "name": "Mikel Coffee",
+                "link": "https://www.google.com/maps/search/Mikel+Coffee/@37.9879659,23.707027999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 646,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee Island",
+                "link": "https://www.google.com/maps/search/Coffee+Island/@38.0519019,23.7300248?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 118,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee Island Leophoros Athenon 327 Aigaleo",
+                "link": "https://www.google.com/maps/search/Coffee+Island+%CE%9B%CE%B5%CF%89%CF%86%CF%8C%CF%81%CE%BF%CF%82+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD+327+%CE%91%CE%B9%CE%B3%CE%B1%CE%BB%CE%B5%CF%89/@38.003425,23.678808999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 92,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Tekhnike Ergoleptike",
+                "link": "https://www.google.com/maps/search/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE+%CE%95%CF%81%CE%B3%CE%BF%CE%BB%CE%B7%CF%80%CF%84%CE%B9%CE%BA%CE%AE/@38.0157281,23.7424911?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": "http://coffeeisland.gr/",
+        "owner": {
+            "id": "116610611725128003225",
+            "name": "Coffee Island (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116610611725128003225"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPN1s5fhH0Md45i4obszi1tr6UZ5L7YvgLyMqRs=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "05:30-21:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+30 21 0341 7440",
+        "address": "Coffee Island, Leof. Athinon 75, Athina 104 47Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Island/data=!4m7!3m6!1s0x14a1bcd01cd21aa1:0x133b956c74e5e4d4!8m2!3d37.9894954!4d23.7039155!16s%2Fg%2F11b77z7v24!19sChIJoRrSHNC8oRQR1OTldGyVOxM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJy4hLDKi8oRQRS9ZEhHirb1E",
         "name": "Il Toto Aigaleo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 578,
+        "reviews": 579,
         "competitors": [
             {
                 "name": "IL TOTO Khaidari",
                 "link": "https://www.google.com/maps/search/IL+TOTO+%CE%A7%CE%B1%CF%8A%CE%B4%CE%AC%CF%81%CE%B9/@38.0129166,23.6612372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 233,
+                "reviews": 234,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -679,7 +769,7 @@
             {
                 "name": "Il Toto Aigaleo Alsos",
                 "link": "https://www.google.com/maps/search/Il+Toto+Aigaleo+%CE%86%CE%BB%CF%83%CE%BF%CF%82/@37.993190899999995,23.6761328?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -710,61 +800,6 @@
         "address": "Il Toto Aigaleo, Iera Odos 348, Egaleo 122 43Xi La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Il+Toto+Aigaleo/data=!4m7!3m6!1s0x14a1bca80c4b88cb:0x516fab788444d64b!8m2!3d37.9966521!4d23.6693468!16s%2Fg%2F11hcw47kr6!19sChIJy4hLDKi8oRQRS9ZEhHirb1E?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJzQMMMq28oRQRM9LLb8uQm2Y",
-        "name": "Mikel",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 435,
-        "competitors": [
-            {
-                "name": "Mikel Coffee",
-                "link": "https://www.google.com/maps/search/Mikel+Coffee/@37.9879659,23.707027999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 645,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Mikel Coffee",
-                "link": "https://www.google.com/maps/search/Mikel+Coffee/@38.017359899999995,23.6908538?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 590,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "lamilu speciality coffee",
-                "link": "https://www.google.com/maps/search/lamilu+speciality+coffee/@37.9930018,23.678938499999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 153,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Mikel Coffee",
-                "link": "https://www.google.com/maps/search/Mikel+Coffee/@38.0001411,23.703859?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 3.1,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "http://www.mikelcc.gr/",
-        "owner": {
-            "id": "110442420257571948373",
-            "name": "Mikel (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110442420257571948373"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXOVnPZxEmg2e3S8G4Q8p9Wt0lcZTHbymQHQAV=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 21 0531 4516",
-        "address": "Mikel, Leof. Athinon 345, Egaleo 122 43Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mikel/data=!4m7!3m6!1s0x14a1bcad320c03cd:0x669b90cb6fcbd233!8m2!3d38.0041125!4d23.6777072!16s%2Fg%2F11b86zsvv1!19sChIJzQMMMq28oRQRM9LLb8uQm2Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK90DTK28oRQR1HpbjssaIq4",
@@ -826,12 +861,12 @@
         "name": "The Bakers Egaleo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 410,
+        "reviews": 412,
         "competitors": [
             {
                 "name": "Maron",
                 "link": "https://www.google.com/maps/search/Mar%C3%B3n/@37.994492699999995,23.6731493?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 125,
+                "reviews": 126,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -845,7 +880,7 @@
             {
                 "name": "Ergasterio Zakharoplastikes \"Demoulas\" | Aigaleo",
                 "link": "https://www.google.com/maps/search/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF+%CE%96%CE%B1%CF%87%CE%B1%CF%81%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE%CF%82+%22%CE%94%CE%B7%CE%BC%CE%BF%CF%85%CE%BB%CE%AC%CF%82%22+%7C+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.993029,23.6832867?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
+                "reviews": 41,
                 "rating": 4.8,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -965,7 +1000,7 @@
             {
                 "name": "Posto Di Cafe",
                 "link": "https://www.google.com/maps/search/Posto+Di+Cafe/@37.9728107,23.6603858?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 179,
+                "reviews": 181,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -986,7 +1021,7 @@
             {
                 "name": "Coffee Addicts",
                 "link": "https://www.google.com/maps/search/Coffee+Addicts/@37.965881499999995,23.6385135?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 47,
+                "reviews": 48,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -1020,21 +1055,21 @@
             {
                 "name": "The Claxons",
                 "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2735,
+                "reviews": 2739,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "JacksFather Cafe Bar",
                 "link": "https://www.google.com/maps/search/JacksFather+Cafe+Bar/@37.99099,23.6794437?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1054,
+                "reviews": 1053,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Barmpas the bar",
                 "link": "https://www.google.com/maps/search/Bar%CE%BC%CF%80%CE%B1%CF%82+the+bar/@37.991169299999996,23.679519499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 396,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -1078,7 +1113,7 @@
         "name": "House of Games",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 363,
+        "reviews": 364,
         "competitors": [
             {
                 "name": "9plus",
@@ -1090,14 +1125,14 @@
             {
                 "name": "Cafe \"PLAyCE\"",
                 "link": "https://www.google.com/maps/search/Cafe+%22PLAyCE%22/@37.9917948,23.678576399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
+                "reviews": 331,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "GAME OVER Escape Rooms - Aigaleo",
                 "link": "https://www.google.com/maps/search/GAME+OVER+Escape+Rooms+-+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.9925839,23.683515?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 189,
+                "reviews": 191,
                 "rating": 4.7,
                 "main_category": "Mi Shi Tao Tuo Zhong Xin "
             },
@@ -1147,7 +1182,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1173,7 +1208,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.coffeeisland.gr/%3Futm_campaign%3Dwebsite%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+        "website": "https://www.coffeeisland.gr/?utm_campaign=website&utm_medium=organic&utm_source=google",
         "owner": {
             "id": "104888595309705674580",
             "name": "Coffee Island (Ye Zhu )",
@@ -1253,7 +1288,7 @@
         "name": "Cafe \"PLAyCE\"",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 327,
+        "reviews": 331,
         "competitors": [
             {
                 "name": "9plus",
@@ -1265,7 +1300,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1279,7 +1314,7 @@
             {
                 "name": "House of Games",
                 "link": "https://www.google.com/maps/search/House+of+Games/@37.992711199999995,23.684735999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 363,
+                "reviews": 362,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -1316,68 +1351,6 @@
         "link": "https://www.google.com/maps/place/Cafe+%22PLAyCE%22/data=!4m7!3m6!1s0x14a1bd594a791805:0xe57abc2e3cc989fd!8m2!3d37.9917948!4d23.6785764!16s%2Fg%2F11mtfm5gws!19sChIJBRh5Slm9oRQR_YnJPC68euU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJlwO36N68oRQRcSjMZXiEoHE",
-        "name": "Coffee Island",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 307,
-        "competitors": [
-            {
-                "name": "Holy Moly - Coffee & Burgers",
-                "link": "https://www.google.com/maps/search/Holy+Moly+-+Coffee+%26+Burgers/@37.979529299999996,23.7146048?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 158,
-                "rating": 4.7,
-                "main_category": "Wai Mai Zi Qu Can Ting "
-            },
-            {
-                "name": "Coffee Dive Petralona",
-                "link": "https://www.google.com/maps/search/Coffee+Dive+Petralona/@37.9716956,23.7096575?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Island",
-                "link": "https://www.google.com/maps/search/Coffee+Island/@38.0519019,23.7300248?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 118,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Island Leophoros Athenon 327 Aigaleo",
-                "link": "https://www.google.com/maps/search/Coffee+Island+%CE%9B%CE%B5%CF%89%CF%86%CF%8C%CF%81%CE%BF%CF%82+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD+327+%CE%91%CE%B9%CE%B3%CE%B1%CE%BB%CE%B5%CF%89/@38.003425,23.678808999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 92,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tekhnike Ergoleptike",
-                "link": "https://www.google.com/maps/search/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE+%CE%95%CF%81%CE%B3%CE%BF%CE%BB%CE%B7%CF%80%CF%84%CE%B9%CE%BA%CE%AE/@38.0157281,23.7424911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shang Dian "
-            }
-        ],
-        "website": "https://www.coffeeisland.gr/%3Futm_campaign%3Dwebsite%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
-        "owner": {
-            "id": "101332831597001423644",
-            "name": "Coffee Island (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101332831597001423644"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOIOPv8MfPr9eRNFe9iQQhsrq76KaM80_u9Bx2N=w408-h272-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 21 0345 3017",
-        "address": "Coffee Island, Iera Odos 51, Athina 118 54Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+Island/data=!4m7!3m6!1s0x14a1bcdee8b70397:0x71a0847865cc2871!8m2!3d37.980578!4d23.7118654!16s%2Fg%2F11ggs34br6!19sChIJlwO36N68oRQRcSjMZXiEoHE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJodxeVqW8oRQRUXndVi303E8",
         "name": "Hug in a Mug",
         "description": null,
@@ -1387,7 +1360,7 @@
             {
                 "name": "Theoria Tou House",
                 "link": "https://www.google.com/maps/search/Theoria+Tou+House/@37.9948201,23.672449200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1496,
+                "reviews": 1501,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1401,7 +1374,7 @@
             {
                 "name": "69 6ixty 9ine",
                 "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "reviews": 84,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1470,19 +1443,19 @@
         "name": "Durante Coffee & Brunch",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 233,
+        "reviews": 234,
         "competitors": [
             {
                 "name": "Theoria Tou House",
                 "link": "https://www.google.com/maps/search/Theoria+Tou+House/@37.9948201,23.672449200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1496,
+                "reviews": 1501,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Il Toto Aigaleo",
                 "link": "https://www.google.com/maps/search/Il+Toto+Aigaleo/@37.9966521,23.6693468?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 576,
+                "reviews": 579,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -1528,26 +1501,26 @@
         "name": "LUKUMADES",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 218,
+        "reviews": 221,
         "competitors": [
             {
                 "name": "LUKUMADES",
                 "link": "https://www.google.com/maps/search/LUKUMA%CE%94%CE%95%CE%A3/@37.9769388,23.7276088?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6548,
+                "reviews": 6566,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Doughnuts Balatsoura",
                 "link": "https://www.google.com/maps/search/Doughnuts+Balatsoura/@37.9916878,23.680021099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1855,
+                "reviews": 1857,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Loukoumades Ktistakis",
                 "link": "https://www.google.com/maps/search/Loukoumades+Ktistakis/@37.9839536,23.726668300000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 596,
+                "reviews": 597,
                 "rating": 4.8,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -1561,7 +1534,7 @@
             {
                 "name": "Loukoumania Koukaki",
                 "link": "https://www.google.com/maps/search/Loukoumania+Koukaki/@37.9629219,23.7215861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 70,
+                "reviews": 73,
                 "rating": 4.8,
                 "main_category": "Dian Xin "
             }
@@ -1601,14 +1574,14 @@
             {
                 "name": "Kapheteria-Mpar \"Alea\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3238,
+                "reviews": 3241,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1622,14 +1595,14 @@
             {
                 "name": "Barmpas the bar",
                 "link": "https://www.google.com/maps/search/Bar%CE%BC%CF%80%CE%B1%CF%82+the+bar/@37.991169299999996,23.679519499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 396,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "69 6ixty 9ine",
                 "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "reviews": 84,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -1660,7 +1633,7 @@
         "name": "CIN CIN PLEASURE N MORE",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 190,
+        "reviews": 195,
         "competitors": [],
         "website": "https://instagram.com/cincin.athens?igshid=MzRlODBiNWFlZA==",
         "owner": {
@@ -1773,7 +1746,7 @@
             {
                 "name": "69 6ixty 9ine",
                 "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "reviews": 84,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1821,15 +1794,15 @@
             {
                 "name": "Kapheteria-Mpar \"Alea\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3238,
+                "reviews": 3241,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Mikel Coffee",
                 "link": "https://www.google.com/maps/search/Mikel+Coffee/@37.9921655,23.679408799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 762,
-                "rating": 4.3,
+                "reviews": 764,
+                "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -1986,7 +1959,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "08:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": "+30 21 0531 2222",
         "address": "STIGMES AIGALEO (STIGMES EGALEO), Souliou 34, Egaleo 122 43Xi La ",
         "review_keywords": [],
@@ -2002,14 +1978,14 @@
             {
                 "name": "Cap Cap Aigaleo",
                 "link": "https://www.google.com/maps/search/Cap+Cap+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.9937884,23.6809652?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5890,
+                "reviews": 5902,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2057,7 +2033,7 @@
             {
                 "name": "The Bakers Egaleo",
                 "link": "https://www.google.com/maps/search/The+Bakers+Egaleo/@37.9915533,23.6824001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 410,
+                "reviews": 411,
                 "rating": 4.3,
                 "main_category": "Xi Dian "
             },
@@ -2096,66 +2072,59 @@
         "link": "https://www.google.com/maps/place/CAKE+Egaleo/data=!4m7!3m6!1s0x14a1bdd87fcc6d87:0x3d3e7a4af9ccc65b!8m2!3d37.9996642!4d23.6838305!16s%2Fg%2F11h3k5f6_l!19sChIJh23Mf9i9oRQRW8bM-Up6Pj0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJY9f1Z-y9oRQRbWwdfix-34k",
-        "name": "Kristelcafe-aigaleo",
+        "place_id": "ChIJmf8hgme7oRQRjwVzrYUG08s",
+        "name": "Coffee Island",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 117,
+        "reviews": 124,
         "competitors": [
             {
-                "name": "Briki the Bar - MPAR - AIGALEO",
-                "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "name": "Coffee West",
+                "link": "https://www.google.com/maps/search/Coffee+West/@37.9939727,23.6603119?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 131,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffeeberry Agia Barbara",
+                "link": "https://www.google.com/maps/search/Coffeeberry+%CE%91%CE%B3%CE%AF%CE%B1+%CE%92%CE%B1%CF%81%CE%B2%CE%AC%CF%81%CE%B1/@37.990015799999995,23.6591344?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Aigle cafe",
-                "link": "https://www.google.com/maps/search/%CE%91%CE%AF%CE%B3%CE%BB%CE%B7+cafe/@37.9928472,23.679688?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 333,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "18 grams",
-                "link": "https://www.google.com/maps/search/18+grams/@37.9925916,23.6824917?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 154,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "KAPhE cafe Delivery AIGALEO",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%91%CE%A6%CE%95+cafe+Delivery+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.99410100000001,23.674288600000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 106,
+                "name": "Langano Espresso Bar Agia Barbara",
+                "link": "https://www.google.com/maps/search/Langano+Espresso+Bar+%CE%91%CE%B3%CE%AF%CE%B1+%CE%92%CE%B1%CF%81%CE%B2%CE%AC%CF%81%CE%B1/@37.9874454,23.658614699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 73,
                 "rating": 4.4,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Ka Pei Ting "
             },
             {
-                "name": "BARISTI SPECIALITY COFFE AIGALEO",
-                "link": "https://www.google.com/maps/search/BARISTI+SPECIALITY+COFFE+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9921413,23.6814626?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "name": "BARISTAS Agia Barbara",
+                "link": "https://www.google.com/maps/search/BARISTAS+%CE%91%CE%B3%CE%AF%CE%B1+%CE%92%CE%B1%CF%81%CE%B2%CE%AC%CF%81%CE%B1/@37.985348099999996,23.657716399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
                 "rating": 4.7,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://kristel-cafe.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://www.coffeeisland.gr/?utm_campaign=website&utm_medium=organic&utm_source=google",
         "owner": {
-            "id": "103369529979964560448",
-            "name": "Kristelcafe-aigaleo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103369529979964560448"
+            "id": "110840522798063923349",
+            "name": "Coffee Island (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110840522798063923349"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMRDbiSGHzyaF1nq9zVKLw2zgwFlAkC-P--zp5t=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDBQjvl6KHGsWqyl7xi_Omye1EfOiTg_TvhAdh=w408-h272-k-no",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Ka Pei Ting "
+            "Ka Pei Dian "
         ],
-        "rating": 4.6,
-        "workday_timing": "06:00-20:00",
+        "rating": 4.2,
+        "workday_timing": "07:00-20:00",
         "closed_on": "Open All Days",
-        "phone": "+30 21 0598 2244",
-        "address": "Kristelcafe-aigaleo, Dimarchiou 32, Egaleo 122 42Xi La ",
+        "phone": "+30 21 0569 9000",
+        "address": "Coffee Island, Aten, Eleutheriou Benizelou 77, Ag. Varvara 123 51Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Kristelcafe-%CE%B1%CE%B9%CE%B3%CE%B1%CE%BB%CE%B5%CF%89/data=!4m7!3m6!1s0x14a1bdec67f5d763:0x89df7e2c7e1d6c6d!8m2!3d37.9936909!4d23.6832115!16s%2Fg%2F11h2cf5709!19sChIJY9f1Z-y9oRQRbWwdfix-34k?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Coffee+Island/data=!4m7!3m6!1s0x14a1bb678221ff99:0xcbd30685ad73058f!8m2!3d37.9875059!4d23.6589377!16s%2Fg%2F11c1p73f11!19sChIJmf8hgme7oRQRjwVzrYUG08s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJP7vrn6e8oRQRKvCvOML5TRI",
@@ -2167,14 +2136,14 @@
             {
                 "name": "Kapheteria-Mpar \"Alea\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3238,
+                "reviews": 3241,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2279,7 +2248,7 @@
             {
                 "name": "Kapheteria \"Qahwa\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%22Qahwa%22/@37.991577299999996,23.678080800000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1116,
+                "reviews": 1117,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -2336,6 +2305,70 @@
         "link": "https://www.google.com/maps/place/%CE%9A%CE%91%CE%A6%CE%95+cafe+Delivery+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/data=!4m7!3m6!1s0x14a1bca5e17b1547:0x6a537d1c69c95e1!8m2!3d37.994101!4d23.6742886!16s%2Fg%2F11bzyydy6x!19sChIJRxV74aW8oRQR4ZWcxtE3pQY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJNeoY96S8oRQRR4rTEErPw78",
+        "name": "Kafetexneion",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 86,
+        "competitors": [
+            {
+                "name": "The Claxons",
+                "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2739,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee brain",
+                "link": "https://www.google.com/maps/search/Coffee+brain/@37.996075999999995,23.681261?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 61,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafepolis",
+                "link": "https://www.google.com/maps/search/Cafepolis/@None,None?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.9,
+                "main_category": "Jian Zhu Gong Si "
+            },
+            {
+                "name": "Spin Day Coffee",
+                "link": "https://www.google.com/maps/search/Spin+Day+Coffee/@37.9987928,23.683114999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "To Neon",
+                "link": "https://www.google.com/maps/search/%CE%A4%CE%BF+%CE%9D%CE%AD%CE%BF%CE%BD/@37.995572599999996,23.6728259?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.instagram.com/kafetexneion",
+        "owner": {
+            "id": "104978213715366181228",
+            "name": "Kafetexneion (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104978213715366181228"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZj_47Xd9Xir0Jx41fa7jdWgNj4DuGyqGIyh7R=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+30 21 0590 0066",
+        "address": "Kafetexneion, Thivon 371, Egaleo 122 44Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kafetexneion/data=!4m7!3m6!1s0x14a1bca4f718ea35:0xbfc3cf4a10d38a47!8m2!3d37.9912377!4d23.6772732!16s%2Fg%2F11b8t6xnrc!19sChIJNeoY96S8oRQRR4rTEErPw78?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJOTGwI-W9oRQRTI1_PB61IJA",
         "name": "69 6ixty 9ine",
         "description": null,
@@ -2352,7 +2385,7 @@
             {
                 "name": "Mozart Caldi",
                 "link": "https://www.google.com/maps/search/Mozart+Caldi/@37.9934357,23.6793344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 464,
+                "reviews": 467,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -2407,21 +2440,21 @@
             {
                 "name": "The Claxons",
                 "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2735,
+                "reviews": 2739,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Theoria Tou House",
                 "link": "https://www.google.com/maps/search/Theoria+Tou+House/@37.9948201,23.672449200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1496,
+                "reviews": 1501,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "NooK",
                 "link": "https://www.google.com/maps/search/NooK/@38.0299068,23.7084667?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1017,
+                "reviews": 1019,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -2451,70 +2484,6 @@
         "address": "THE NOOK PROJECT, Thivon 322, Egaleo 122 41Xi La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/THE+NOOK+PROJECT/data=!4m7!3m6!1s0x14a1bd4919a671bb:0xa82c334a3e6b51fc!8m2!3d37.9884994!4d23.675931!16s%2Fg%2F11s37fc0h9!19sChIJu3GmGUm9oRQR_FFrPkozLKg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJJ1zKC8q8oRQR_bFXV9Tc2JU",
-        "name": "Ultimo Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 69,
-        "competitors": [
-            {
-                "name": "Paradosiakos Kaphenes LAOKRATES",
-                "link": "https://www.google.com/maps/search/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%83%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+%CE%9A%CE%B1%CF%86%CE%B5%CE%BD%CE%AD%CF%82+%CE%9B%CE%91%CE%9F%CE%9A%CE%A1%CE%91%CE%A4%CE%97%CE%A3/@38.0015968,23.671170300000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "IL Toto Leoph. Athenon 329",
-                "link": "https://www.google.com/maps/search/IL+Toto+%CE%9B%CE%B5%CF%89%CF%86.+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD+329/@38.0111195,23.656543799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Caffe Galliano - Aroma Italliano",
-                "link": "https://www.google.com/maps/search/Caffe+Galliano+-+Aroma+Italliano/@37.9817894,23.6720333?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Street Aigalew",
-                "link": "https://www.google.com/maps/search/Coffee+Street+Aigalew/@37.990738799999995,23.6852572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "KAPhETERIA | LICOON CAFE",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%91%CE%A6%CE%95%CE%A4%CE%95%CE%A1%CE%99%CE%91+%7C+LICOON+CAFE/@37.999396499999996,23.688872699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://m.facebook.com/Ultimo-Coffee-and-more-1664639273814677/",
-        "owner": {
-            "id": "118164053555914155577",
-            "name": "Ultimo Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118164053555914155577"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPy1HdvekECrPMUIJp7Wzxc-F8BbwxVK-V88qJV=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": "07:00-15:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+30 21 7700 2413",
-        "address": "Ultimo Coffee, Dafnis 4, Egaleo 122 42Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ultimo+Coffee/data=!4m7!3m6!1s0x14a1bcca0bca5c27:0x95d8dcd45757b1fd!8m2!3d37.9971964!4d23.6919049!16s%2Fg%2F11f10gb6zm!19sChIJJ1zKC8q8oRQR_bFXV9Tc2JU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ_5-glwG9oRQRtZAT8P0FQ00",
@@ -2580,131 +2549,6 @@
         "link": "https://www.google.com/maps/place/Coffee+Island/data=!4m7!3m6!1s0x14a1bd0197a09fff:0x4d4305fdf01390b5!8m2!3d37.9970783!4d23.6685498!16s%2Fg%2F11pd2hhw_c!19sChIJ_5-glwG9oRQRtZAT8P0FQ00?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJvWP6grq8oRQRC_csCMpqchc",
-        "name": "Thirty One",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 56,
-        "competitors": [
-            {
-                "name": "Theoria Tou House",
-                "link": "https://www.google.com/maps/search/Theoria+Tou+House/@37.9948201,23.672449200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1496,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "JacksFather Cafe Bar",
-                "link": "https://www.google.com/maps/search/JacksFather+Cafe+Bar/@37.99099,23.6794437?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1054,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Twelve Monkeys",
-                "link": "https://www.google.com/maps/search/Twelve+Monkeys/@37.9911868,23.678879499999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 373,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pablo Cafe",
-                "link": "https://www.google.com/maps/search/Pablo+Cafe/@37.9886608,23.6760274?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Marianna Kaphetze, Psukhologos MSc",
-                "link": "https://www.google.com/maps/search/%CE%9C%CE%B1%CF%81%CE%B9%CE%AC%CE%BD%CE%BD%CE%B1+%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%B6%CE%AE%2C+%CE%A8%CF%85%CF%87%CE%BF%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+MSc/@37.9927761,23.6786516?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 5,
-                "main_category": "Xin Li Xue Yi Sheng "
-            }
-        ],
-        "website": "https://www.vrisko.gr/details/6272d55haa6h47602k_bbc4a5aae054c",
-        "owner": {
-            "id": null,
-            "name": "Thirty One (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBW0Vn6iZTqR4xA8F9x5scEglZZY_u6eKqiXMt=w428-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "06:30-02:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Thirty One, Konstantinoupoleos 31, Egaleo 122 42Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Thirty+One/data=!4m7!3m6!1s0x14a1bcba82fa63bd:0x17726aca082cf70b!8m2!3d37.9932469!4d23.6823835!16s%2Fg%2F11bxfygyvy!19sChIJvWP6grq8oRQRC_csCMpqchc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJm1KuJji7oRQRbX6ICz1Xc84",
-        "name": "Smoke&Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 52,
-        "competitors": [
-            {
-                "name": "Hug in a Mug",
-                "link": "https://www.google.com/maps/search/Hug+in+a+Mug/@37.9937842,23.6794555?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 284,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Neilos Coffee",
-                "link": "https://www.google.com/maps/search/Neilos+Coffee/@37.9926162,23.6794922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 185,
-                "rating": 4.3,
-                "main_category": "Shui Yan Hu Ba "
-            },
-            {
-                "name": "No Smoke Aigaleo",
-                "link": "https://www.google.com/maps/search/No+Smoke+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@38.0002491,23.6847079?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.8,
-                "main_category": "Dian Zi Yan Zhuan Men Dian "
-            },
-            {
-                "name": "Kapno",
-                "link": "https://www.google.com/maps/search/Kapno/@37.9909515,23.679878400000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 34,
-                "rating": 4.5,
-                "main_category": "Yan Cao Dian "
-            },
-            {
-                "name": "NOBACCO",
-                "link": "https://www.google.com/maps/search/NOBACCO/@37.992990899999995,23.677400799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 34,
-                "rating": 4.9,
-                "main_category": "Dian Zi Yan Zhuan Men Dian "
-            }
-        ],
-        "website": "https://el-gr.facebook.com/pages/category/Shopping---Retail/Smoke-Coffee-709740869234703/",
-        "owner": {
-            "id": "105545172363536094990",
-            "name": "Smoke&Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105545172363536094990"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMx6XgPxrc9KbM9cJxXCxeJII8VGxtbeVaoqqbU=w427-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Zi Xun Zhan "
-        ],
-        "rating": 4.9,
-        "workday_timing": "06:30-22:30",
-        "closed_on": "Open All Days",
-        "phone": "+30 21 0544 9279",
-        "address": "Smoke&Coffee, Epaminonda 17, Egaleo 122 44Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Smoke%26Coffee/data=!4m7!3m6!1s0x14a1bb3826ae529b:0xce73573d0b887e6d!8m2!3d37.9849867!4d23.667763!16s%2Fg%2F11j7l3g_91!19sChIJm1KuJji7oRQRbX6ICz1Xc84?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJGdohD9q9oRQRMUgQZPaglDk",
         "name": "CoffeeRoom by g.z",
         "description": null,
@@ -2714,7 +2558,7 @@
             {
                 "name": "Gregory's",
                 "link": "https://www.google.com/maps/search/Gregory%27s/@37.9928293,23.6782227?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 651,
+                "reviews": 652,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -2761,6 +2605,8 @@
         "rating": 5,
         "workday_timing": "05:00-19:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+30 21 5560 3901",
@@ -2773,7 +2619,7 @@
         "name": "LENOZ Athens Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 45,
+        "reviews": 46,
         "competitors": [
             {
                 "name": "LELA'S CAFE",
@@ -2785,7 +2631,7 @@
             {
                 "name": "Kafetexneion",
                 "link": "https://www.google.com/maps/search/Kafetexneion/@37.9912377,23.6772732?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
+                "reviews": 86,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -2835,7 +2681,7 @@
             {
                 "name": "Kafetexneion",
                 "link": "https://www.google.com/maps/search/Kafetexneion/@37.9912377,23.6772732?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
+                "reviews": 86,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -2944,129 +2790,16 @@
         "link": "https://www.google.com/maps/place/Liberta+Caffe+Bar/data=!4m7!3m6!1s0x14a1bdab0b336773:0x9a7fcdbedd057326!8m2!3d38.0030052!4d23.6776699!16s%2Fg%2F11rtzlzl9t!19sChIJc2czC6u9oRQRJnMF3b7Nf5o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJc1M1KQS9oRQRylXbuCD7ARE",
-        "name": "KIMBO Boutique Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 37,
-        "competitors": [
-            {
-                "name": "Coffee Island",
-                "link": "https://www.google.com/maps/search/Coffee+Island/@37.976112199999996,23.691741699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 383,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Il CAPO coffee house",
-                "link": "https://www.google.com/maps/search/Il+CAPO+coffee+house/@37.982408,23.6748887?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Box Coffee Store",
-                "link": "https://www.google.com/maps/search/Box+Coffee+Store/@37.9800721,23.678827?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 69,
-                "rating": 2.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "KIMBO Coffee",
-                "link": "https://www.google.com/maps/search/KIMBO+Coffee/@38.0431628,23.807662900000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://shop.kimboespresso.gr/",
-        "owner": {
-            "id": "102026086488504931663",
-            "name": "KIMBO Boutique Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102026086488504931663"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP8YbMyWWEzS0MTtKrPjQdJB8KUN_l0IRP4FBeO=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.9,
-        "workday_timing": "07:30-15:30",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+30 21 3032 4074",
-        "address": "KIMBO Boutique Cafe, Petrou Ralli 52, Egaleo 122 41Xi La ",
-        "review_keywords": [
-            {
-                "keyword": "Jiao Nang ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/KIMBO+Boutique+Caf%C3%A9/data=!4m7!3m6!1s0x14a1bd0429355373:0x1101fb20b8db55ca!8m2!3d37.976752!4d23.6792793!16s%2Fg%2F11kpk77md0!19sChIJc1M1KQS9oRQRylXbuCD7ARE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ_ziH3IKloRQRGGA2umq4mh8",
-        "name": "Lions Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 37,
-        "competitors": [
-            {
-                "name": "The Claxons",
-                "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2735,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Twelve Monkeys",
-                "link": "https://www.google.com/maps/search/Twelve+Monkeys/@37.9911868,23.678879499999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 373,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Peluz",
-                "link": "https://www.google.com/maps/search/Peluz/@37.9922415,23.679774?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 3.9,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://lions-cafe-cafe.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
-        "owner": {
-            "id": "112896603143039880742",
-            "name": "Lions Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112896603143039880742"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO0ThqIrKwYVO6gZOQO25xYunb9JRpOb-V736yA=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": "06:00-22:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+30 21 0347 9002",
-        "address": "Lions Cafe, Orfeos 192, Egaleo 122 41Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Lions+Cafe/data=!4m7!3m6!1s0x14a1a582dc8738ff:0x1f9ab86aba366018!8m2!3d37.9817437!4d23.6888784!16s%2Fg%2F11fnrz2gzk!19sChIJ_ziH3IKloRQRGGA2umq4mh8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJDVKBsxi9oRQRx_eNtXT3p8A",
         "name": "2eikosi",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 34,
+        "reviews": 35,
         "competitors": [
             {
                 "name": "69 6ixty 9ine",
                 "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "reviews": 84,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -3175,7 +2908,7 @@
         "name": "SIDAMO COFFEE",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 30,
+        "reviews": 31,
         "competitors": [
             {
                 "name": "Pagotofrenia",
@@ -3285,31 +3018,68 @@
         "link": "https://www.google.com/maps/place/Coffee+foodtruck/data=!4m7!3m6!1s0x14a1bd66b204e4ed:0x6aa5997100a75841!8m2!3d37.9903902!4d23.6856155!16s%2Fg%2F11tjrd1372!19sChIJ7eQEsma9oRQRQVinAHGZpWo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJQe9U3k29oRQRpoIu0AW4J7w",
-        "name": "Langano Espresso Bar Aigaleo",
+        "place_id": "ChIJJf-Ltrq8oRQRML8m_16jm4s",
+        "name": "to spholiataki",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 21,
-        "competitors": [],
-        "website": "http://www.langano.gr/",
-        "owner": {
-            "id": "113617398940458999530",
-            "name": "Langano Espresso Bar Aigaleo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113617398940458999530"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtzaU_56SEUehgjlk5jYHw3NoJOliXACRhUVZb=w408-h272-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Ka Pei Ting "
+        "competitors": [
+            {
+                "name": "the Zante",
+                "link": "https://www.google.com/maps/search/the+Zante/@37.991990799999996,23.6826115?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 70,
+                "rating": 4.6,
+                "main_category": "Xian Bing Dian "
+            },
+            {
+                "name": "Oneiriko phullo",
+                "link": "https://www.google.com/maps/search/%CE%9F%CE%BD%CE%B5%CE%B9%CF%81%CE%B9%CE%BA%CF%8C+%CF%86%CF%85%CE%BB%CE%BB%CE%BF/@37.9981564,23.682954900000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4.8,
+                "main_category": "Xian Bing Dian "
+            },
+            {
+                "name": "Ergasteri kheiropoieta prooionta zumes.",
+                "link": "https://www.google.com/maps/search/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9+%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%84%CE%B1+%CF%80%CF%81%CE%BF%CE%BF%CE%B9%CF%8C%CE%BD%CF%84%CE%B1+%CE%B6%CF%8D%CE%BC%CE%B7%CF%82./@37.9914497,23.685424700000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "To zakharaki",
+                "link": "https://www.google.com/maps/search/%CE%A4%CE%BF+%CE%B6%CE%B1%CF%87%CE%B1%CF%81%CE%AC%CE%BA%CE%B9/@37.9880937,23.6745178?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.8,
+                "main_category": "Xi Dian "
+            },
+            {
+                "name": "Biscotto",
+                "link": "https://www.google.com/maps/search/Biscotto/@37.985271399999995,23.6807725?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
         ],
-        "rating": 3.7,
-        "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 21 0598 0752",
-        "address": "Langano Espresso Bar Aigaleo, Iera Odos 218, Egaleo 122 42Xi La ",
+        "website": "https://www.vrisko.gr/details/6gdc7k42c_55145h57a655c2_6745355",
+        "owner": {
+            "id": "117051459639469704476",
+            "name": "to spholiataki (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117051459639469704476"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOONjD7RXxDZ22TkqI7YwYxQPk1juIBW1t6KPr7=w408-h544-k-no",
+        "main_category": "Xian Bing Dian ",
+        "categories": [
+            "Xian Bing Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+30 21 1408 2450",
+        "address": "to spholiataki, Smirnis 30, Egaleo 122 42Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Langano+Espresso+Bar+Aigaleo/data=!4m7!3m6!1s0x14a1bd4dde54ef41:0xbc27b805d02e82a6!8m2!3d37.9909336!4d23.684556!16s%2Fg%2F11ss7kb6h5!19sChIJQe9U3k29oRQRpoIu0AW4J7w?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/%CF%84%CE%BF+%CF%83%CF%86%CE%BF%CE%BB%CE%B9%CE%B1%CF%84%CE%AC%CE%BA%CE%B9/data=!4m7!3m6!1s0x14a1bcbab68bff25:0x8b9ba35eff26bf30!8m2!3d37.992699!4d23.6801874!16s%2Fg%2F11clmq_64b!19sChIJJf-Ltrq8oRQRML8m_16jm4s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJHWzvJai9oRQRiSN1xBv1s6o",
@@ -3477,16 +3247,260 @@
         "link": "https://www.google.com/maps/place/AROMA+Vittorio/data=!4m7!3m6!1s0x14a1bca5385d77d9:0x861b0c100ed8485b!8m2!3d37.9927468!4d23.6791324!16s%2Fg%2F12q4tfrnw!19sChIJ2XddOKW8oRQRW0jYDhAMG4Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ8Vizx3W9oRQRopwBf4UrOxo",
+        "name": "KAPhETERIA | LICOON CAFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "The Claxons",
+                "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2739,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "To Neon",
+                "link": "https://www.google.com/maps/search/%CE%A4%CE%BF+%CE%9D%CE%AD%CE%BF%CE%BD/@37.995572599999996,23.6728259?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "CafeNeon",
+                "link": "https://www.google.com/maps/search/Cafe%CE%9D%CE%AD%CF%89%CE%BD/@37.9937487,23.683789899999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafo roasters",
+                "link": "https://www.google.com/maps/search/Cafo+roasters/@38.0078143,23.6710854?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Ka Pei Pi Fa Shang "
+            },
+            {
+                "name": "OUICKLY CAFE",
+                "link": "https://www.google.com/maps/search/OUICKLY+CAFE/@37.9825647,23.6865921?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ji Gong Ying Shang "
+            }
+        ],
+        "website": "https://bit.ly/3uz2YzG",
+        "owner": {
+            "id": null,
+            "name": "KAPhETERIA | LICOON CAFE (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJrhzJLpwfO7Spo12lCZfksKvASlAYmj_vsUaP=w408-h408-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "06:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+30 21 0531 3000",
+        "address": "KAPhETERIA | LICOON CAFE, Doridos 52, Egaleo 122 42Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%CE%9A%CE%91%CE%A6%CE%95%CE%A4%CE%95%CE%A1%CE%99%CE%91+%7C+LICOON+CAFE/data=!4m7!3m6!1s0x14a1bd75c7b358f1:0x1a3b2b857f019ca2!8m2!3d37.9993965!4d23.6888727!16s%2Fg%2F11rv6lb6zr!19sChIJ8Vizx3W9oRQRopwBf4UrOxo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJXV3Gsci9oRQRZNkaeIvcdew",
+        "name": "COFFEE AFTER DRINK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Kapheteria-Mpar \"Alea\"",
+                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3241,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Bee",
+                "link": "https://www.google.com/maps/search/Coffee+Bee/@37.9937914,23.679023599999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafepolis",
+                "link": "https://www.google.com/maps/search/Cafepolis/@None,None?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.9,
+                "main_category": "Jian Zhu Gong Si "
+            },
+            {
+                "name": "Last Coffe",
+                "link": "https://www.google.com/maps/search/Last+Coffe/@38.0006152,23.684651199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://coffee-after-drink.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "117982164825008901597",
+            "name": "COFFEE AFTER DRINK (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117982164825008901597"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mf5DkfqI3itMW2PaxZpznQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=319.42914&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-23:30",
+        "closed_on": "Open All Days",
+        "phone": "+30 21 1184 4021",
+        "address": "COFFEE AFTER DRINK, Thivon 499, Egaleo 122 43Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/COFFEE+AFTER+DRINK/data=!4m7!3m6!1s0x14a1bdc8b1c65d5d:0xec75dc8b781ad964!8m2!3d37.9983249!4d23.6826696!16s%2Fg%2F11qzxjyzms!19sChIJXV3Gsci9oRQRZNkaeIvcdew?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ7qyNdq9oRQRM7CsjHiDhJ0",
+        "name": "Hazme Roasters - Private Label Kaphe, Espresso, Athena, Ellada",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Coffee Bee",
+                "link": "https://www.google.com/maps/search/Coffee+Bee/@37.9937914,23.679023599999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "My Name - Coffeehouse",
+                "link": "https://www.google.com/maps/search/My+Name+-+Coffeehouse/@37.9934783,23.6788192?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 48,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Name Coffee",
+                "link": "https://www.google.com/maps/search/Name+Coffee/@38.0006152,23.684651199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 5,
+                "main_category": ""
+            },
+            {
+                "name": "MAREL Coffee",
+                "link": "https://www.google.com/maps/search/MAREL+Coffee/@37.986171899999995,23.6740489?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 19,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://hazmeroasters.gr/",
+        "owner": {
+            "id": null,
+            "name": "Hazme Roasters - Private Label Kaphe, Espresso, Athena, Ellada (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pywyfIJarxuNhGPPt9f0cA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=113.63577&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Hong Bei Shang ",
+        "categories": [
+            "Ka Pei Hong Bei Shang "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+30 21 0960 9330",
+        "address": "Hazme Roasters - Private Label Kaphe, Espresso, Athena, Ellada, Thivon 262, Egaleo 122 41Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hazme+Roasters+-+Private+Label+%CE%9A%CE%B1%CF%86%CE%AD,+Espresso,+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1,+%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/data=!4m7!3m6!1s0x14a1bdda35b2ba27:0x9d8483788cacb033!8m2!3d37.9817928!4d23.672034!16s%2Fg%2F11s35n__7z!19sChIJJ7qyNdq9oRQRM7CsjHiDhJ0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJqRyW36S8oRQRy24R_BaW0jA",
+        "name": "9plus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 646,
+        "competitors": [
+            {
+                "name": "Ramble_All Day bar",
+                "link": "https://www.google.com/maps/search/Ramble_All+Day+bar/@37.9917113,23.6788256?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 470,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Twelve Monkeys",
+                "link": "https://www.google.com/maps/search/Twelve+Monkeys/@37.9911868,23.678879499999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 373,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe \"PLAyCE\"",
+                "link": "https://www.google.com/maps/search/Cafe+%22PLAyCE%22/@37.9917948,23.678576399999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 331,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Peluz",
+                "link": "https://www.google.com/maps/search/Peluz/@37.9922415,23.679774?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 86,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "69 6ixty 9ine",
+                "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 84,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "9plus (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNI19xM7HBrfWf2XjK6uWctXhoAEeoEQLIMF8mo=w451-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "15:00-02:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 21 0531 6386",
+        "address": "9plus, Makris 9, Egaleo 122 41Xi La ",
+        "review_keywords": [
+            {
+                "keyword": "Yin Le ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/9plus/data=!4m7!3m6!1s0x14a1bca4df961ca9:0x30d29616fc116ecb!8m2!3d37.9914974!4d23.678484!16s%2Fg%2F11c54f8f6w!19sChIJqRyW36S8oRQRy24R_BaW0jA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJy-iTgbq8oRQRnWCg-5t69kI",
         "name": "Sugar Lounge",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 507,
+        "reviews": 509,
         "competitors": [
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -3543,7 +3557,7 @@
         "name": "Mozart Caldi",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 465,
+        "reviews": 467,
         "competitors": [
             {
                 "name": "9plus",
@@ -3555,7 +3569,7 @@
             {
                 "name": "Cafe \"PLAyCE\"",
                 "link": "https://www.google.com/maps/search/Cafe+%22PLAyCE%22/@37.9917948,23.678576399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
+                "reviews": 331,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -3576,7 +3590,7 @@
             {
                 "name": "69 6ixty 9ine",
                 "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "reviews": 84,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -3587,7 +3601,7 @@
             "name": "Mozart Caldi (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/110146727214226054439"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO0HuZr4NpcoGXSMQT34uDTWRHfdXdecCOopfri=w408-h725-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpPN9SMGGrOddj7UfGeR8awlCybOFD_S8QgzGS=w408-h492-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
@@ -3601,66 +3615,59 @@
         "link": "https://www.google.com/maps/place/Mozart+Caldi/data=!4m7!3m6!1s0x14a1bca5502323d7:0x2258f6def6a0070b!8m2!3d37.9934357!4d23.6793344!16s%2Fg%2F12lkb9gvm!19sChIJ1yMjUKW8oRQRCweg9t72WCI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJbUZ3SqW8oRQRiI0mj16GLpk",
-        "name": "Aigle cafe",
+        "place_id": "ChIJSTlw-qa8oRQRnF_F7E7Vz8M",
+        "name": "LELA'S CAFE",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 333,
+        "reviews": 197,
         "competitors": [
             {
                 "name": "Kapheteria-Mpar \"Alea\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3238,
+                "reviews": 3241,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Aigli Iera Odos",
-                "link": "https://www.google.com/maps/search/Aigli+Iera+Odos/@37.992190099999995,23.678399?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2020,
-                "rating": 4.1,
-                "main_category": "Ji Wei Jiu Jiu Ba "
-            },
-            {
-                "name": "Kapheteria \"Qahwa\"",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%22Qahwa%22/@37.991577299999996,23.678080800000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1116,
+                "name": "Theoria Tou House",
+                "link": "https://www.google.com/maps/search/Theoria+Tou+House/@37.9948201,23.672449200000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1501,
                 "rating": 4.6,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Ka Pei Ting "
             },
             {
-                "name": "KAPhE cafe Delivery AIGALEO",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%91%CE%A6%CE%95+cafe+Delivery+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.99410100000001,23.674288600000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 106,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "69 6ixty 9ine",
-                "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "name": "lamilu speciality coffee",
+                "link": "https://www.google.com/maps/search/lamilu+speciality+coffee/@37.9930018,23.678938499999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 153,
                 "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "LENOZ Athens Cafe",
+                "link": "https://www.google.com/maps/search/LEN%C3%92Z+Athens+Caf%C3%A9/@37.9948678,23.685903099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 45,
+                "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Aigle cafe (Ye Zhu )",
-            "link": null
+            "id": "108142220729076138850",
+            "name": "LELA'S CAFE (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108142220729076138850"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwELQS-hl3k9Msi-Gppvrv-4Ff3OsTYuZO-hQ-=w426-h240-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOig-JyC5p6audl01jcPMRjciYAFYAsfacLLxR6=w408-h306-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.3,
-        "workday_timing": "08:00-01:00",
+        "rating": 4.4,
+        "workday_timing": "09:00-01:00",
         "closed_on": "Open All Days",
-        "phone": "+30 21 0598 2115",
-        "address": "Aigle cafe, Moschonision 9, Egaleo 122 42Xi La ",
+        "phone": "+30 21 0598 1530",
+        "address": "LELA'S CAFE, Paparegopoulou 8 kai Kharilaou Trikoupe, Egaleo 122 44Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%CE%91%CE%AF%CE%B3%CE%BB%CE%B7+cafe/data=!4m7!3m6!1s0x14a1bca54a77466d:0x992e865e8f268d88!8m2!3d37.9928472!4d23.679688!16s%2Fg%2F11clsgr8l4!19sChIJbUZ3SqW8oRQRiI0mj16GLpk?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/LELA%27S+CAFE/data=!4m7!3m6!1s0x14a1bca6fa703949:0xc3cfd54eecc55f9c!8m2!3d37.992753!4d23.6719037!16s%2Fg%2F11cjn4m9pg!19sChIJSTlw-qa8oRQRnF_F7E7Vz8M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJS2f3yUG9oRQRwbjrAzjQX3M",
@@ -3672,7 +3679,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -3693,7 +3700,7 @@
             {
                 "name": "Coffee Berry Moschato",
                 "link": "https://www.google.com/maps/search/Coffee+Berry+Moschato/@37.9592707,23.6880344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 161,
+                "reviews": 163,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -3734,7 +3741,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -3784,12 +3791,12 @@
         "name": "Barato Espresso Bar Aigaleo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 149,
+        "reviews": 150,
         "competitors": [
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -3852,8 +3859,8 @@
             {
                 "name": "PERIPTERO-PsILIKA-EIDE DORON-AIGALEO",
                 "link": "https://www.google.com/maps/search/%CE%A0%CE%95%CE%A1%CE%99%CE%A0%CE%A4%CE%95%CE%A1%CE%9F-%CE%A8%CE%99%CE%9B%CE%99%CE%9A%CE%91-%CE%95%CE%99%CE%94%CE%97+%CE%94%CE%A9%CE%A1%CE%A9%CE%9D-%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.99711190000001,23.6683353?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 41,
-                "rating": 4,
+                "reviews": 42,
+                "rating": 4.1,
                 "main_category": "Zi Xun Zhan "
             },
             {
@@ -3893,61 +3900,6 @@
         "link": "https://www.google.com/maps/place/Kiosky%27s+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/data=!4m7!3m6!1s0x14a1bd3a2a26baf5:0xed8e5b2bc7b52011!8m2!3d37.9993992!4d23.6795933!16s%2Fg%2F11p11fl0mh!19sChIJ9bomKjq9oRQRESC1xytbju0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJL8UdCJO9oRQRId7xW2sRUgE",
-        "name": "Mrs Owl coffee shop",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 97,
-        "competitors": [
-            {
-                "name": "Mikel Coffee",
-                "link": "https://www.google.com/maps/search/Mikel+Coffee/@37.9921655,23.679408799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 762,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Three Aigaleo",
-                "link": "https://www.google.com/maps/search/Coffee+Three+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.9952715,23.6714396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 158,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "CoffeeRoom by g.z",
-                "link": "https://www.google.com/maps/search/CoffeeRoom+by+g.z/@37.990351,23.685505499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "OWL",
-                "link": "https://www.google.com/maps/search/OWL/@37.9804864,23.7131068?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 3.6,
-                "main_category": "Wai Dai Ka Pei Zhuan Mai Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "103651181449965448836",
-            "name": "Mrs Owl coffee shop (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103651181449965448836"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMIg_NTwKTFUWuU8VkPgZG90L2huiIXK90-KO2H=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": "05:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 21 0531 3023",
-        "address": "Mrs Owl coffee shop, Iera Odos 228, Egaleo 122 42Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mrs+Owl+coffee+shop/data=!4m7!3m6!1s0x14a1bd93081dc52f:0x152116b5bf1de21!8m2!3d37.9911267!4d23.6836544!16s%2Fg%2F11sh4_b_r4!19sChIJL8UdCJO9oRQRId7xW2sRUgE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJO9-WrVW9oRQR_APgKJsLtVM",
         "name": "Little Henri",
         "description": null,
@@ -3957,7 +3909,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4005,7 +3957,7 @@
             {
                 "name": "Kapheteria \"Qahwa\"",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%22Qahwa%22/@37.991577299999996,23.678080800000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1116,
+                "reviews": 1117,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -4055,68 +4007,6 @@
         "link": "https://www.google.com/maps/place/Espresso+Quiero+Cafe/data=!4m7!3m6!1s0x14a1bda8a8339abf:0x13de7e02a2630bd9!8m2!3d37.9912202!4d23.6775477!16s%2Fg%2F11fvhwlcks!19sChIJv5ozqKi9oRQR2QtjogJ-3hM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ4y-nsQu9oRQRu5IPlMEV9Us",
-        "name": "Coffee Island Leophoros Athenon 327 Aigaleo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 92,
-        "competitors": [
-            {
-                "name": "Mikel",
-                "link": "https://www.google.com/maps/search/Mikel/@38.0041125,23.6777072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Island",
-                "link": "https://www.google.com/maps/search/Coffee+Island/@38.0039242,23.6791059?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 415,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee Island",
-                "link": "https://www.google.com/maps/search/Coffee+Island/@38.0519019,23.7300248?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 118,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "GREAT COFFEE",
-                "link": "https://www.google.com/maps/search/GREAT+COFFEE/@37.9976665,23.6670209?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tekhnike Ergoleptike",
-                "link": "https://www.google.com/maps/search/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE+%CE%95%CF%81%CE%B3%CE%BF%CE%BB%CE%B7%CF%80%CF%84%CE%B9%CE%BA%CE%AE/@38.0157281,23.7424911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shang Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "112605654970238814287",
-            "name": "Coffee Island Leophoros Athenon 327 Aigaleo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112605654970238814287"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOcx99Xe_l9eBf_u08c4Xu-Qefrfv7OmRgtz8zY=w408-h408-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": "05:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 21 0590 0071",
-        "address": "Coffee Island Leophoros Athenon 327 Aigaleo, Leof. Athinon 327, Egaleo 122 43Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+Island+%CE%9B%CE%B5%CF%89%CF%86%CF%8C%CF%81%CE%BF%CF%82+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD+327+%CE%91%CE%B9%CE%B3%CE%B1%CE%BB%CE%B5%CF%89/data=!4m7!3m6!1s0x14a1bd0bb1a72fe3:0x4bf515c1940f92bb!8m2!3d38.003425!4d23.678809!16s%2Fg%2F11q963dyxp!19sChIJ4y-nsQu9oRQRu5IPlMEV9Us?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJMXdNw1i9oRQRT07BXBwIeFI",
         "name": "Grosso specialty coffee & snack",
         "description": null,
@@ -4126,7 +4016,7 @@
             {
                 "name": "Gregory's",
                 "link": "https://www.google.com/maps/search/Gregory%27s/@37.9928293,23.6782227?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 651,
+                "reviews": 652,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -4181,14 +4071,14 @@
             {
                 "name": "Il Toto Aigaleo",
                 "link": "https://www.google.com/maps/search/Il+Toto+Aigaleo/@37.9966521,23.6693468?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 576,
+                "reviews": 579,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Il Toto Nikaia / Nikaia",
                 "link": "https://www.google.com/maps/search/Il+Toto+Nikaia+%2F+%CE%9D%CE%AF%CE%BA%CE%B1%CE%B9%CE%B1/@37.9652606,23.6368445?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 194,
+                "reviews": 195,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -4202,7 +4092,7 @@
             {
                 "name": "IL TOTO KALLIThEA - Eleutheriou Benizelou 151",
                 "link": "https://www.google.com/maps/search/IL+TOTO+%CE%9A%CE%91%CE%9B%CE%9B%CE%99%CE%98%CE%95%CE%91+-+%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%BF%CF%85+%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%85+151/@37.956884599999995,23.7037467?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
+                "reviews": 138,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4234,70 +4124,6 @@
         "link": "https://www.google.com/maps/place/Il+Toto+Aigaleo+%CE%86%CE%BB%CF%83%CE%BF%CF%82/data=!4m7!3m6!1s0x14a1bd101fc93cb5:0x5d00dab94ba56b44!8m2!3d37.9931909!4d23.6761328!16s%2Fg%2F11nx21333g!19sChIJtTzJHxC9oRQRRGulS7naAF0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJr5Jp6rq8oRQRcnsqp89_8JA",
-        "name": "BARISTI SPECIALITY COFFE AIGALEO",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 83,
-        "competitors": [
-            {
-                "name": "Briki the Bar - MPAR - AIGALEO",
-                "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kristelcafe-aigaleo",
-                "link": "https://www.google.com/maps/search/Kristelcafe-%CE%B1%CE%B9%CE%B3%CE%B1%CE%BB%CE%B5%CF%89/@37.993690900000004,23.6832115?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 117,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Baristi KhAIDARI",
-                "link": "https://www.google.com/maps/search/Baristi+%CE%A7%CE%91%CE%99%CE%94%CE%91%CE%A1%CE%99/@38.005102099999995,23.6645219?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Vittorio",
-                "link": "https://www.google.com/maps/search/Vittorio/@37.993044399999995,23.681824199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Barista",
-                "link": "https://www.google.com/maps/search/Barista/@37.9945052,23.6731414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "104766701868435653261",
-            "name": "BARISTI SPECIALITY COFFE AIGALEO (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104766701868435653261"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPIigdlzIyon0pEtbQ0MTylugUPzgQVBnjft5T_=w408-h272-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": "06:30-19:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+30 21 0590 8006",
-        "address": "BARISTI SPECIALITY COFFE AIGALEO, Nik. Plastira 5, Egaleo 122 42Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/BARISTI+SPECIALITY+COFFE+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/data=!4m7!3m6!1s0x14a1bcbaea6992af:0x90f07fcfa72a7b72!8m2!3d37.9921413!4d23.6814626!16s%2Fg%2F11gf8ht45t!19sChIJr5Jp6rq8oRQRcnsqp89_8JA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJy1JX47q8oRQR2UkJoS6IW_8",
         "name": "CoffeLike",
         "description": null,
@@ -4307,14 +4133,14 @@
             {
                 "name": "Mikel Coffee",
                 "link": "https://www.google.com/maps/search/Mikel+Coffee/@37.9921655,23.679408799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 762,
-                "rating": 4.3,
+                "reviews": 764,
+                "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4357,12 +4183,12 @@
         "name": "Flocafe Espresso Room",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 76,
+        "reviews": 78,
         "competitors": [
             {
                 "name": "Palmie Bistro",
                 "link": "https://www.google.com/maps/search/Palmie+Bistro/@37.980200499999995,23.678948899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 176,
+                "reviews": 177,
                 "rating": 3.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4399,7 +4225,7 @@
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": 4.3,
+        "rating": 4.2,
         "workday_timing": "08:30-22:00",
         "closed_on": "Open All Days",
         "phone": "+30 21 6003 7900",
@@ -4470,61 +4296,61 @@
         "link": "https://www.google.com/maps/place/Coffee+Bee/data=!4m7!3m6!1s0x14a1bdff04f31d99:0x4dd77ae020b5cc0a!8m2!3d37.9937914!4d23.6790236!16s%2Fg%2F11p_29nyd3!19sChIJmR3zBP-9oRQRCsy1IOB6100?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJT6WK3JW9oRQRzWAVz4Cx4Kc",
-        "name": "Coffee brain",
+        "place_id": "ChIJMTOz7Zm8oRQRb4M_TQQQYG8",
+        "name": "Box Coffee Store",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 61,
+        "reviews": 69,
         "competitors": [
             {
-                "name": "Grosso specialty coffee & snack",
-                "link": "https://www.google.com/maps/search/Grosso+specialty+coffee+%26+snack/@37.998744699999996,23.683406899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 91,
-                "rating": 4.7,
+                "name": "97 All Day Coffee Bar",
+                "link": "https://www.google.com/maps/search/97+All+Day+Coffee+Bar/@38.0044195,23.6767069?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 107,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Coffee Bee",
-                "link": "https://www.google.com/maps/search/Coffee+Bee/@37.9937914,23.679023599999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 3.9,
-                "main_category": "Ka Pei Ting "
+                "name": "Flocafe Espresso Room",
+                "link": "https://www.google.com/maps/search/Flocafe+Espresso+Room/@37.9807333,23.677775399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Cafepolis",
-                "link": "https://www.google.com/maps/search/Cafepolis/@None,None?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.9,
-                "main_category": "Jian Zhu Gong Si "
+                "name": "CARGO 87 COFFEE HOUSE",
+                "link": "https://www.google.com/maps/search/CARGO+87+COFFEE+HOUSE/@37.984912699999995,23.683726699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
             },
             {
-                "name": "My Name - Coffeehouse",
-                "link": "https://www.google.com/maps/search/My+Name+-+Coffeehouse/@37.9934783,23.6788192?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.9,
-                "main_category": "Ka Pei Ting "
+                "name": "Coffeeway",
+                "link": "https://www.google.com/maps/search/Coffeeway/@37.9800721,23.678827?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3,
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": "115706506095509538118",
-            "name": "Coffee brain (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115706506095509538118"
+            "id": "114165096730063064324",
+            "name": "Box Coffee Store (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114165096730063064324"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_FKuw0w7OpNAMB0ffOJTD2pwFD8IbzuEoN8El=w408-h725-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQ51CvWQnIs5UcDiGc9MDH4LIFjSAzdUiLMPBB=w408-h725-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.7,
-        "workday_timing": "07:00-19:00",
+        "rating": 2.4,
+        "workday_timing": "09:00-21:00",
         "closed_on": [
             "Xing Qi Ri "
         ],
-        "phone": "+30 21 0591 2224",
-        "address": "Coffee brain, Thivon 384, Egaleo 122 42Xi La ",
+        "phone": "+30 21 0545 0343",
+        "address": "Box Coffee Store, Par. Leoforou Kifisou 96, Egaleo 122 41Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+brain/data=!4m7!3m6!1s0x14a1bd95dc8aa54f:0xa7e0b180cf1560cd!8m2!3d37.996076!4d23.681261!16s%2Fg%2F11g_zf8d7h!19sChIJT6WK3JW9oRQRzWAVz4Cx4Kc?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Box+Coffee+Store/data=!4m7!3m6!1s0x14a1bc99edb33331:0x6f6010044d3f836f!8m2!3d37.9800721!4d23.678827!16s%2Fg%2F11c55vfph1!19sChIJMTOz7Zm8oRQRb4M_TQQQYG8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ-Untgqi8oRQR0XyonnOez1I",
@@ -4536,7 +4362,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4582,62 +4408,6 @@
         "link": "https://www.google.com/maps/place/Mitsiko+Cafe/data=!4m7!3m6!1s0x14a1bca882ed49f9:0x52cf9e739ea87cd1!8m2!3d37.9957878!4d23.6717515!16s%2Fg%2F11cst1pxtw!19sChIJ-Untgqi8oRQR0XyonnOez1I?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJO88QAKK8oRQR81M0RWmRgXo",
-        "name": "Cafepolis",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 54,
-        "competitors": [
-            {
-                "name": "KAPhE cafe Delivery AIGALEO",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%91%CE%A6%CE%95+cafe+Delivery+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.99410100000001,23.674288600000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 106,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Kafetexneion",
-                "link": "https://www.google.com/maps/search/Kafetexneion/@37.9912377,23.6772732?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
-                "rating": 4.9,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee brain",
-                "link": "https://www.google.com/maps/search/Coffee+brain/@37.996075999999995,23.681261?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 61,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Spin Day Coffee",
-                "link": "https://www.google.com/maps/search/Spin+Day+Coffee/@37.9987928,23.683114999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "112507102170161759643",
-            "name": "Cafepolis (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112507102170161759643"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNR6xnWLjUOTyE9CYE6YLfN946ArrxAf0TgHfiz=w408-h544-k-no",
-        "main_category": "Jian Zhu Gong Si ",
-        "categories": [
-            "Jian Zhu Gong Si ",
-            "Service establishment"
-        ],
-        "rating": 4.9,
-        "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+44 7999 875689",
-        "address": null,
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafepolis/data=!4m7!3m6!1s0x14a1bca20010cf3b:0x7a819169453453f3!8m2!3d51.5286416!4d-0.1015987!16s%2Fg%2F11g8vqcztc!19sChIJO88QAKK8oRQR81M0RWmRgXo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJrUtxcLO8oRQROvCUZBOe4KM",
         "name": "Don Luigi Caffe",
         "description": null,
@@ -4654,14 +4424,14 @@
             {
                 "name": "IL Toto Leoph. Athenon 329",
                 "link": "https://www.google.com/maps/search/IL+Toto+%CE%9B%CE%B5%CF%89%CF%86.+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD+329/@38.0111195,23.656543799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
+                "reviews": 86,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "69 6ixty 9ine",
                 "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "reviews": 84,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -4686,6 +4456,63 @@
         "link": "https://www.google.com/maps/place/Don+Luigi+Caffe/data=!4m7!3m6!1s0x14a1bcb370714bad:0xa3e09e136494f03a!8m2!3d38.0007768!4d23.6853733!16s%2Fg%2F11c1p31_pn!19sChIJrUtxcLO8oRQROvCUZBOe4KM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJsxUjLU27oRQRii5uIUcaOcE",
+        "name": "Daily Dose",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "competitors": [
+            {
+                "name": "Daily Dose Athens",
+                "link": "https://www.google.com/maps/search/Daily+Dose+Athens/@37.986612799999996,23.7551529?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 150,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffeeberry Agia Barbara",
+                "link": "https://www.google.com/maps/search/Coffeeberry+%CE%91%CE%B3%CE%AF%CE%B1+%CE%92%CE%B1%CF%81%CE%B2%CE%AC%CF%81%CE%B1/@37.990015799999995,23.6591344?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kapheteria \"Dream Coffee\"",
+                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%22Dream+Coffee%22/@37.9900309,23.660044799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 69,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "My Daily Dose",
+                "link": "https://www.google.com/maps/search/My+Daily+Dose/@38.0301662,23.7141712?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "113364405352334076037",
+            "name": "Daily Dose (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113364405352334076037"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNoS6UftaeBqxOtcSYRrtmq4Ln4zo-_DZKG3TMi=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+30 21 0591 1495",
+        "address": "Daily Dose, Leof. Meg. Alexandrou 121, Ag. Varvara 123 51Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Daily+Dose/data=!4m7!3m6!1s0x14a1bb4d2d2315b3:0xc1391a47216e2e8a!8m2!3d37.9888094!4d23.6623793!16s%2Fg%2F11sch_t9b9!19sChIJsxUjLU27oRQRii5uIUcaOcE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJx-2aBqG7oRQRHVKR5gpVUuE",
         "name": "Lucky's Coffee",
         "description": null,
@@ -4695,7 +4522,7 @@
             {
                 "name": "The Claxons",
                 "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2735,
+                "reviews": 2739,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4741,68 +4568,11 @@
         "link": "https://www.google.com/maps/place/Lucky%27s+Coffee/data=!4m7!3m6!1s0x14a1bba1069aedc7:0xe152550ae691521d!8m2!3d37.9881328!4d23.667899!16s%2Fg%2F11gjj3zplz!19sChIJx-2aBqG7oRQRHVKR5gpVUuE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ7Vuj6KW8oRQRwcEQXXH2zs4",
-        "name": "THE SWING CAFE",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 41,
-        "competitors": [
-            {
-                "name": "The Claxons",
-                "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2735,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Aigle cafe",
-                "link": "https://www.google.com/maps/search/%CE%91%CE%AF%CE%B3%CE%BB%CE%B7+cafe/@37.9928472,23.679688?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 333,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "KAPhE cafe Delivery AIGALEO",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%91%CE%A6%CE%95+cafe+Delivery+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.99410100000001,23.674288600000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 106,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee Street Aigalew",
-                "link": "https://www.google.com/maps/search/Coffee+Street+Aigalew/@37.990738799999995,23.6852572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "113718142995478029444",
-            "name": "THE SWING CAFE (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113718142995478029444"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2uXKh4Lu58vXXIqZmA3oKLs9uBLUk1ttHuq4=w408-h244-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": "07:00-15:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+30 21 1404 4696",
-        "address": "THE SWING CAFE, Iera Odos 273, Egaleo 122 44Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/THE+SWING+CAFE/data=!4m7!3m6!1s0x14a1bca5e8a35bed:0xcecef6715d10c1c1!8m2!3d37.993811!4d23.6750099!16s%2Fg%2F11c0w60x53!19sChIJ7Vuj6KW8oRQRwcEQXXH2zs4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJw-bXsxu9oRQR9RYMwY0gUj0",
         "name": "Franklin Coffee House Aigaleo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 37,
+        "reviews": 40,
         "competitors": [],
         "website": null,
         "owner": {
@@ -4833,7 +4603,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -5019,7 +4789,7 @@
             {
                 "name": "The Claxons",
                 "link": "https://www.google.com/maps/search/The+Claxons/@37.9910712,23.6799488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2735,
+                "reviews": 2739,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -5076,68 +4846,59 @@
         "link": "https://www.google.com/maps/place/CARGO+87+COFFEE+HOUSE/data=!4m7!3m6!1s0x14a1bd93474a9445:0x7935f7edb939fee4!8m2!3d37.9849127!4d23.6837267!16s%2Fg%2F11j0wpp3zy!19sChIJRZRKR5O9oRQR5P45ue33NXk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJlS-6HaS9oRQRPOgglyIVnTE",
-        "name": "Spin Day Coffee",
+        "place_id": "ChIJMZmM-FK9oRQRBeJBeXpLEhQ",
+        "name": "FLOW COFFEE AND ENERGY SPOT",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 29,
+        "reviews": 28,
         "competitors": [
             {
-                "name": "Serendipity Cafe",
-                "link": "https://www.google.com/maps/search/Serendipity+Cafe/@38.004675,23.6762127?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
+                "name": "Kapheteria \"Qahwa\"",
+                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%22Qahwa%22/@37.991577299999996,23.678080800000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1117,
                 "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kafetexneion",
-                "link": "https://www.google.com/maps/search/Kafetexneion/@37.9912377,23.6772732?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
-                "rating": 4.9,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "69 6ixty 9ine",
-                "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
-                "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Cafepolis",
-                "link": "https://www.google.com/maps/search/Cafepolis/@None,None?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.9,
-                "main_category": "Jian Zhu Gong Si "
+                "name": "Tzem's espresso bar",
+                "link": "https://www.google.com/maps/search/Tzem%27s+espresso+bar/@37.9908193,23.680999699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 155,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Dayo Hellas Service - Coffee Machines",
-                "link": "https://www.google.com/maps/search/Dayo+Hellas+Service+-+Coffee+Machines/@37.9973732,23.6819904?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 5,
-                "main_category": "Ka Pei Ji Gong Ying Shang "
+                "name": "Aroma Gold",
+                "link": "https://www.google.com/maps/search/Aroma+Gold/@37.990743699999996,23.681338399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 89,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Flocafe Espresso Room",
+                "link": "https://www.google.com/maps/search/Flocafe+Espresso+Room/@37.9807333,23.677775399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": "102553847271660671191",
-            "name": "Spin Day Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102553847271660671191"
+            "id": null,
+            "name": "FLOW COFFEE AND ENERGY SPOT (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMSP_-uvoNKNFm_g2PDsvyb1tTL9nWTTXUx4p3J=w408-h548-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZaQodL-7tLDaCDOhx6QQICytXwXf12GAQwDce=w533-h240-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
         ],
         "rating": 5,
-        "workday_timing": "07:00-18:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+30 21 3000 0008",
-        "address": "Spin Day Coffee, Thivon 505, Egaleo 122 43Xi La ",
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+30 21 0531 0055",
+        "address": "FLOW COFFEE AND ENERGY SPOT, Mark. Mpotsari 38, Egaleo 122 41Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Spin+Day+Coffee/data=!4m7!3m6!1s0x14a1bda41dba2f95:0x319d15229720e83c!8m2!3d37.9987928!4d23.683115!16s%2Fg%2F11pqbjnq5x!19sChIJlS-6HaS9oRQRPOgglyIVnTE?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/FLOW+COFFEE+AND+ENERGY+SPOT/data=!4m7!3m6!1s0x14a1bd52f88c9931:0x14124b7a7941e205!8m2!3d37.9906449!4d23.6811624!16s%2Fg%2F11sy1m4lrk!19sChIJMZmM-FK9oRQRBeJBeXpLEhQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJf59f-aajoRQRaRiZA5DxFp0",
@@ -5212,7 +4973,7 @@
             {
                 "name": "Kafetexneion",
                 "link": "https://www.google.com/maps/search/Kafetexneion/@37.9912377,23.6772732?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
+                "reviews": 86,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -5304,6 +5065,7 @@
         "rating": 5,
         "workday_timing": "05:30-19:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+30 21 0531 3524",
@@ -5396,31 +5158,24 @@
         "link": "https://www.google.com/maps/place/Last+Coffe/data=!4m7!3m6!1s0x14a1bcb374522435:0xac8bef94307e80f3!8m2!3d38.0006152!4d23.6846512!16s%2Fg%2F11g9jj9z7k!19sChIJNSRSdLO8oRQR84B-MJTvi6w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJhd1_gCq9oRQRPsprZxfOYls",
-        "name": "MAREL Coffee",
+        "place_id": "ChIJL4SEKuS9oRQR6S_Qw2Df86E",
+        "name": "The Rall's",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 19,
         "competitors": [
             {
-                "name": "lamilu speciality coffee",
-                "link": "https://www.google.com/maps/search/lamilu+speciality+coffee/@37.9930018,23.678938499999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 153,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
+                "name": "Kapheteria-Mpar \"Alea\"",
+                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3241,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Coffee brain",
-                "link": "https://www.google.com/maps/search/Coffee+brain/@37.996075999999995,23.681261?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 61,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "My Name - Coffeehouse",
-                "link": "https://www.google.com/maps/search/My+Name+-+Coffeehouse/@37.9934783,23.6788192?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.9,
+                "name": "Coffee Street Aigalew",
+                "link": "https://www.google.com/maps/search/Coffee+Street+Aigalew/@37.990738799999995,23.6852572?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -5431,33 +5186,31 @@
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Cafe del Mare",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+del+Mare/@37.9368834,23.6390508?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.5,
+                "name": "nikolaou plastera 4 aigaleo 12242",
+                "link": "https://www.google.com/maps/search/%CE%BD%CE%B9%CE%BA%CE%BF%CE%BB%CE%B1%CE%BF%CF%85+%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B1+4+%CE%B1%CE%B9%CE%B3%CE%B1%CE%BB%CE%B5%CF%89+12242/@37.9935173,23.6821847?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": "103824840395382915503",
-            "name": "MAREL Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103824840395382915503"
+            "id": "115042344997172264814",
+            "name": "The Rall's (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115042344997172264814"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJW7SWxLzPBy8uAb4_FCgfA3LMvSfjnUqTkNIg=w408-h510-k-no",
-        "main_category": "Ka Pei Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVRG_I-Dd1RET2U-zyCDO74y_dZbsCjAluwWQO=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Ka Pei Ting "
+            "Ka Pei Dian "
         ],
-        "rating": 4.7,
-        "workday_timing": "05:30-19:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+30 21 0544 0555",
-        "address": "MAREL Coffee, Thivon 317, Egaleo 122 44Xi La ",
+        "rating": 4.6,
+        "workday_timing": "06:00-23:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 693 675 7012",
+        "address": "The Rall's, Souliou 35, Egaleo 122 43Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/MAREL+Coffee/data=!4m7!3m6!1s0x14a1bd2a807fdd85:0x5b62ce17676bca3e!8m2!3d37.9861719!4d23.6740489!16s%2Fg%2F11ry7mcq0s!19sChIJhd1_gCq9oRQRPsprZxfOYls?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/The+Rall%27s/data=!4m7!3m6!1s0x14a1bde42a84842f:0xa1f3df60c3d02fe9!8m2!3d37.999654!4d23.6783753!16s%2Fg%2F11s58qgb6w!19sChIJL4SEKuS9oRQR6S_Qw2Df86E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJhX-mycq9oRQRVb8H2096KNs",
@@ -5517,25 +5270,25 @@
         "link": "https://www.google.com/maps/place/My+Coffee+Story+Aigaleo/data=!4m7!3m6!1s0x14a1bdcac9a67f85:0xdb287a4fdb07bf55!8m2!3d37.9926933!4d23.6741075!16s%2Fg%2F11rrp_jf4l!19sChIJhX-mycq9oRQRVb8H2096KNs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJL4SEKuS9oRQR6S_Qw2Df86E",
-        "name": "The Rall's",
+        "place_id": "ChIJd3N41LO8oRQRa9bszWh87_k",
+        "name": "Cafe Authentic",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 18,
         "competitors": [
             {
-                "name": "Kapheteria-Mpar \"Alea\"",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3238,
+                "name": "Story Streat",
+                "link": "https://www.google.com/maps/search/Story+Streat/@38.0006801,23.6850578?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 175,
                 "rating": 4.3,
-                "main_category": "Ka Pei Dian "
+                "main_category": "San Wen Zhi "
             },
             {
-                "name": "Coffee Street Aigalew",
-                "link": "https://www.google.com/maps/search/Coffee+Street+Aigalew/@37.990738799999995,23.6852572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
+                "name": "phulla me...",
+                "link": "https://www.google.com/maps/search/%CF%86%CF%8D%CE%BB%CE%BB%CE%B1+%CE%BC%CE%B5.../@37.991281799999996,23.6773316?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 35,
+                "rating": 3.7,
+                "main_category": "Kuai Can "
             },
             {
                 "name": "Last Coffe",
@@ -5545,31 +5298,31 @@
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "nikolaou plastera 4 aigaleo 12242",
-                "link": "https://www.google.com/maps/search/%CE%BD%CE%B9%CE%BA%CE%BF%CE%BB%CE%B1%CE%BF%CF%85+%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B1+4+%CE%B1%CE%B9%CE%B3%CE%B1%CE%BB%CE%B5%CF%89+12242/@37.9935173,23.6821847?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
+                "name": "COFFEE AFTER DRINK",
+                "link": "https://www.google.com/maps/search/COFFEE+AFTER+DRINK/@37.99832490000001,23.6826696?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
             }
         ],
         "website": null,
         "owner": {
-            "id": "115042344997172264814",
-            "name": "The Rall's (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115042344997172264814"
+            "id": null,
+            "name": "Cafe Authentic (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVRG_I-Dd1RET2U-zyCDO74y_dZbsCjAluwWQO=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tF4kHG7ldVeuUMxCRZ7ccQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.16461&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
         "categories": [
-            "Ka Pei Dian "
+            "Ka Pei Ting "
         ],
-        "rating": 4.7,
-        "workday_timing": "06:00-23:00",
+        "rating": 4.6,
+        "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": "+30 693 675 7012",
-        "address": "The Rall's, Souliou 35, Egaleo 122 43Xi La ",
+        "phone": "+30 21 0531 3500",
+        "address": "Cafe Authentic, Thivon 432, Egaleo 122 42Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/The+Rall%27s/data=!4m7!3m6!1s0x14a1bde42a84842f:0xa1f3df60c3d02fe9!8m2!3d37.999654!4d23.6783753!16s%2Fg%2F11s58qgb6w!19sChIJL4SEKuS9oRQR6S_Qw2Df86E?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Cafe+Authentic/data=!4m7!3m6!1s0x14a1bcb3d4787377:0xf9ef7c68cdecd66b!8m2!3d37.9987447!4d23.6834069!16s%2Fg%2F11c5494yz2!19sChIJd3N41LO8oRQRa9bszWh87_k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJL57xn768oRQRKaDC7372uuE",
@@ -5805,7 +5558,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -5881,8 +5634,8 @@
             {
                 "name": "The Rall's",
                 "link": "https://www.google.com/maps/search/The+Rall%27s/@37.999654,23.6783753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.7,
+                "reviews": 19,
+                "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -5998,66 +5751,68 @@
         "link": "https://www.google.com/maps/place/Coffee+crew/data=!4m7!3m6!1s0x14a1bd8ca792b1a5:0x833c37b1eaa3ebd8!8m2!3d37.9951545!4d23.6846231!16s%2Fg%2F11hgcn_kkn!19sChIJpbGSp4y9oRQR2Ouj6rE3PIM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJOT41Jg-9oRQRV6Zqi1lZOHU",
-        "name": "One all day espresso bar",
+        "place_id": "ChIJyTPT_km9oRQR9V8epDqED1c",
+        "name": "Daily city cup",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 7,
+        "reviews": 9,
         "competitors": [
             {
-                "name": "Kapheteria-Mpar \"Alea\"",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3238,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Ramble_All Day bar",
-                "link": "https://www.google.com/maps/search/Ramble_All+Day+bar/@37.9917113,23.6788256?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 470,
-                "rating": 4.6,
+                "name": "Daily Cafe",
+                "link": "https://www.google.com/maps/search/Daily+Cafe/@37.9798883,23.7465482?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 173,
+                "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Aigle cafe",
-                "link": "https://www.google.com/maps/search/%CE%91%CE%AF%CE%B3%CE%BB%CE%B7+cafe/@37.9928472,23.679688?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 333,
-                "rating": 4.3,
+                "name": "Cup Stories",
+                "link": "https://www.google.com/maps/search/Cup+Stories/@37.9461533,23.7130096?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 98,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "IL Toto Leoph. Athenon 329",
+                "link": "https://www.google.com/maps/search/IL+Toto+%CE%9B%CE%B5%CF%89%CF%86.+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD+329/@38.0111195,23.656543799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 86,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Qubes",
+                "link": "https://www.google.com/maps/search/Coffee+Qubes/@37.9898719,23.7044784?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 85,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Hug Me",
+                "link": "https://www.google.com/maps/search/Hug+Me/@37.9871537,23.7321776?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 68,
+                "rating": 4.9,
                 "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe \"PLAyCE\"",
-                "link": "https://www.google.com/maps/search/Cafe+%22PLAyCE%22/@37.9917948,23.678576399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "69 6ixty 9ine",
-                "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "One all day espresso bar (Ye Zhu )",
-            "link": null
+            "id": "113110103379924222500",
+            "name": "Daily city cup (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113110103379924222500"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzG8TdMFbjRHN7ojpVFcAhQEiZuM2FIMLMbxCJ=w408-h271-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_gcEtnKSOPSNd2IFR9cmD5E75ywaGmz8TUrb6=w408-h725-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": 5,
-        "workday_timing": "08:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 21 6001 1111",
-        "address": "One all day espresso bar, Makris 1, Egaleo 122 41Xi La ",
+        "rating": 4.4,
+        "workday_timing": "06:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+30 21 0342 4243",
+        "address": "Daily city cup, Leof. Athinon 107, Athina 104 47Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/One+all+day+espresso+bar/data=!4m7!3m6!1s0x14a1bd0f26353e39:0x753859598b6aa657!8m2!3d37.9920156!4d23.6789001!16s%2Fg%2F11n0ysm86_!19sChIJOT41Jg-9oRQRV6Zqi1lZOHU?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Daily+city+cup/data=!4m7!3m6!1s0x14a1bd49fed333c9:0x570f843aa41e5ff5!8m2!3d37.9922044!4d23.6996751!16s%2Fg%2F11mxpwzmg4!19sChIJyTPT_km9oRQR9V8epDqED1c?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJrU7w2Oa9oRQRULJFp4Zwox0",
@@ -6086,30 +5841,66 @@
         "link": "https://www.google.com/maps/place/TREDICI+CAFE/data=!4m7!3m6!1s0x14a1bde6d8f04ead:0x1da37086a745b250!8m2!3d37.9854955!4d23.6733193!16s%2Fg%2F11v10kp95f!19sChIJrU7w2Oa9oRQRULJFp4Zwox0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJm4yThE-9oRQRO8dy_6yZA6Y",
-        "name": "Kaphe Sousouro",
+        "place_id": "ChIJOT41Jg-9oRQRV6Zqi1lZOHU",
+        "name": "One all day espresso bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 6,
-        "competitors": [],
+        "reviews": 7,
+        "competitors": [
+            {
+                "name": "Kapheteria-Mpar \"Alea\"",
+                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1-%CE%9C%CF%80%CE%B1%CF%81+%22Alea%22/@37.994083599999996,23.677333299999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3241,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Ramble_All Day bar",
+                "link": "https://www.google.com/maps/search/Ramble_All+Day+bar/@37.9917113,23.6788256?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 470,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Aigle cafe",
+                "link": "https://www.google.com/maps/search/%CE%91%CE%AF%CE%B3%CE%BB%CE%B7+cafe/@37.9928472,23.679688?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 333,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe \"PLAyCE\"",
+                "link": "https://www.google.com/maps/search/Cafe+%22PLAyCE%22/@37.9917948,23.678576399999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 331,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "69 6ixty 9ine",
+                "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 84,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
         "website": null,
         "owner": {
-            "id": "107839139415663118239",
-            "name": "Kaphe Sousouro (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107839139415663118239"
+            "id": null,
+            "name": "One all day espresso bar (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOspbTK2BFKbprFcv7c7F0AwdEGOWiXRiZE5E8=w408-h298-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzG8TdMFbjRHN7ojpVFcAhQEiZuM2FIMLMbxCJ=w408-h271-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
         "rating": 5,
-        "workday_timing": "08:00-23:30",
+        "workday_timing": "08:00-22:00",
         "closed_on": "Open All Days",
-        "phone": "+30 21 0590 4699",
-        "address": "Kaphe Sousouro, Agiou Nektariou 2, Egaleo 122 43Xi La ",
+        "phone": "+30 21 6001 1111",
+        "address": "One all day espresso bar, Makris 1, Egaleo 122 41Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%CE%9A%CE%B1%CF%86%CE%AD+%CE%A3%CE%BF%CF%8D%CF%83%CE%BF%CF%85%CF%81%CE%BF/data=!4m7!3m6!1s0x14a1bd4f84938c9b:0xa60399acff72c73b!8m2!3d38.0028981!4d23.6776103!16s%2Fg%2F11y1t964m3!19sChIJm4yThE-9oRQRO8dy_6yZA6Y?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/One+all+day+espresso+bar/data=!4m7!3m6!1s0x14a1bd0f26353e39:0x753859598b6aa657!8m2!3d37.9920156!4d23.6789001!16s%2Fg%2F11n0ysm86_!19sChIJOT41Jg-9oRQRV6Zqi1lZOHU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJq6qq65m8oRQRGR-P32zreZM",
@@ -6174,6 +5965,87 @@
         "link": "https://www.google.com/maps/place/Coffeeway/data=!4m7!3m6!1s0x14a1bc99ebaaaaab:0x9379eb6cdf8f1f19!8m2!3d37.9800721!4d23.678827!16s%2Fg%2F11h45_zylc!19sChIJq6qq65m8oRQRGR-P32zreZM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ91rjhze9oRQRDICv5N-McRE",
+        "name": "CafeNeon",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [
+            {
+                "name": "KAPhE cafe Delivery AIGALEO",
+                "link": "https://www.google.com/maps/search/%CE%9A%CE%91%CE%A6%CE%95+cafe+Delivery+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.99410100000001,23.674288600000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 106,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Flocafe Espresso Room",
+                "link": "https://www.google.com/maps/search/Flocafe+Espresso+Room/@37.9807333,23.677775399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "To Neon",
+                "link": "https://www.google.com/maps/search/%CE%A4%CE%BF+%CE%9D%CE%AD%CE%BF%CE%BD/@37.995572599999996,23.6728259?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Gogo Kafe",
+                "link": "https://www.google.com/maps/search/Gogo+Kafe/@37.996693199999996,23.690210399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.9,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "104595171184746219121",
+            "name": "CafeNeon (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104595171184746219121"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvw8MM7JXcvBxQ-tNvaD5B_N1lc5gJdrdFbFPQ=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 21 0531 1815",
+        "address": "CafeNeon, Pergamou 29, Egaleo 122 42Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe%CE%9D%CE%AD%CF%89%CE%BD/data=!4m7!3m6!1s0x14a1bd3787e35af7:0x11718cdfe4af800c!8m2!3d37.9937487!4d23.6837899!16s%2Fg%2F11sx3dwqyp!19sChIJ91rjhze9oRQRDICv5N-McRE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJm4yThE-9oRQRO8dy_6yZA6Y",
+        "name": "Kaphe Sousouro",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "107839139415663118239",
+            "name": "Kaphe Sousouro (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107839139415663118239"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOspbTK2BFKbprFcv7c7F0AwdEGOWiXRiZE5E8=w408-h298-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-23:30",
+        "closed_on": "Open All Days",
+        "phone": "+30 21 0590 4699",
+        "address": "Kaphe Sousouro, Agiou Nektariou 2, Egaleo 122 43Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%CE%9A%CE%B1%CF%86%CE%AD+%CE%A3%CE%BF%CF%8D%CF%83%CE%BF%CF%85%CF%81%CE%BF/data=!4m7!3m6!1s0x14a1bd4f84938c9b:0xa60399acff72c73b!8m2!3d38.0028981!4d23.6776103!16s%2Fg%2F11y1t964m3!19sChIJm4yThE-9oRQRO8dy_6yZA6Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJxUlEgn29oRQRTgBce-KhYeQ",
         "name": "Barista",
         "description": null,
@@ -6183,7 +6055,7 @@
             {
                 "name": "Briki the Bar - MPAR - AIGALEO",
                 "link": "https://www.google.com/maps/search/Briki+the+Bar+-+%CE%9C%CE%A0%CE%91%CE%A1+-+%CE%91%CE%99%CE%93%CE%91%CE%9B%CE%95%CE%A9/@37.9920791,23.6799069?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 594,
+                "reviews": 595,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6229,6 +6101,32 @@
         "address": "Barista, Iera Odos 287, Egaleo 122 44Xi La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Barista/data=!4m7!3m6!1s0x14a1bd7d824449c5:0xe461a1e27b5c004e!8m2!3d37.9945052!4d23.6731414!16s%2Fg%2F11j22890cm!19sChIJxUlEgn29oRQRTgBce-KhYeQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJrbJ9qlG7oRQRFp1TzBVmKv8",
+        "name": "El caffeto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "El caffeto (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOx26dqsvfAQesCS1yMSMrj3yxJ_RvUa2NQJZCY=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+30 21 0544 0005",
+        "address": "El caffeto, Demokratias, Koridallou &, Egaleo 122 44Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+caffeto/data=!4m7!3m6!1s0x14a1bb51aa7db2ad:0xff2a6615cc539d16!8m2!3d37.9882509!4d23.6677738!16s%2Fg%2F11v01mwxrq!19sChIJrbJ9qlG7oRQRFp1TzBVmKv8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJGV82Kaa8oRQRs2QnBJwXGjM",
@@ -6293,85 +6191,59 @@
         "link": "https://www.google.com/maps/place/Aroma+Empire+Coffee/data=!4m7!3m6!1s0x14a1bca629365f19:0x331a179c042764b3!8m2!3d37.995476!4d23.671814!16s%2Fg%2F11g9q4z05l!19sChIJGV82Kaa8oRQRs2QnBJwXGjM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJrbJ9qlG7oRQRFp1TzBVmKv8",
-        "name": "El caffeto",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "El caffeto (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOx26dqsvfAQesCS1yMSMrj3yxJ_RvUa2NQJZCY=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+30 21 0544 0005",
-        "address": "El caffeto, Demokratias, Koridallou &, Egaleo 122 44Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/El+caffeto/data=!4m7!3m6!1s0x14a1bb51aa7db2ad:0xff2a6615cc539d16!8m2!3d37.9882509!4d23.6677738!16s%2Fg%2F11v01mwxrq!19sChIJrbJ9qlG7oRQRFp1TzBVmKv8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJrR4zAi29oRQRc8d3MPoJuPU",
-        "name": "HOF coffee",
+        "place_id": "ChIJMUr3Ka28oRQRWr_8CkoSbV0",
+        "name": "Home Music Cafe Bar",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 4,
         "competitors": [
             {
-                "name": "Theoria Tou House",
-                "link": "https://www.google.com/maps/search/Theoria+Tou+House/@37.9948201,23.672449200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1496,
+                "name": "Serendipity Cafe",
+                "link": "https://www.google.com/maps/search/Serendipity+Cafe/@38.004675,23.6762127?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 146,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Il CAPO coffee house",
-                "link": "https://www.google.com/maps/search/Il+CAPO+coffee+house/@37.982408,23.6748887?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
-                "rating": 4.7,
+                "name": "R & R CAFE BAR",
+                "link": "https://www.google.com/maps/search/R+%26+R+CAFE+BAR/@38.004842,23.6759049?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 136,
+                "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "House of flask",
-                "link": "https://www.google.com/maps/search/House+of+flask/@37.9943211,23.6751653?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4.7,
+                "name": "97 All Day Coffee Bar",
+                "link": "https://www.google.com/maps/search/97+All+Day+Coffee+Bar/@38.0044195,23.6767069?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 107,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Barista",
-                "link": "https://www.google.com/maps/search/Barista/@37.9945052,23.6731414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.2,
+                "name": "THE SWING CAFE",
+                "link": "https://www.google.com/maps/search/THE+SWING+CAFE/@37.993811,23.6750099?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 41,
+                "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "HOF coffee (Ye Zhu )",
+            "name": "Home Music Cafe Bar (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPDrUr6wbHCDQgXc8Wa65MmgZCrSCvGnWWs8193=w408-h408-k-no",
-        "main_category": "Can Ting ",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WY_GhMurzvRSDcV_Od5ZiA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=98.47345&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
         "categories": [
-            "Can Ting "
+            "Ka Pei Ting "
         ],
-        "rating": 4.5,
-        "workday_timing": "08:00-00:00",
+        "rating": 4.3,
+        "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": null,
-        "address": "HOF coffee, Iera Odos 294, Egaleo 122 43Xi La ",
+        "phone": "+30 21 0598 4455",
+        "address": "Home Music Cafe Bar, Agiou Spiridonos 42, Egaleo 122 43Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/HOF+coffee/data=!4m7!3m6!1s0x14a1bd2d02331ead:0xf5b809fa3077c773!8m2!3d37.9942617!4d23.675135!16s%2Fg%2F11k2zhq5tg!19sChIJrR4zAi29oRQRc8d3MPoJuPU?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Home+Music+Cafe+Bar/data=!4m7!3m6!1s0x14a1bcad29f74a31:0x5d6d124a0afcbf5a!8m2!3d38.0042192!4d23.6770548!16s%2Fg%2F11cjhnbj4b!19sChIJMUr3Ka28oRQRWr_8CkoSbV0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJr4sG6gC9oRQR4MENXtUKAcY",
@@ -6390,15 +6262,15 @@
             {
                 "name": "69 6ixty 9ine",
                 "link": "https://www.google.com/maps/search/69+6ixty+9ine/@37.9923,23.6788785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "reviews": 84,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Flocafe Espresso Room",
                 "link": "https://www.google.com/maps/search/Flocafe+Espresso+Room/@37.9807333,23.677775399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
-                "rating": 4.3,
+                "reviews": 78,
+                "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -6450,11 +6322,11 @@
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "TRUPA Rock bar",
-                "link": "https://www.google.com/maps/search/%CE%A4%CE%A1%CE%A5%CE%A0%CE%91+Rock+bar/@37.9920109,23.678895699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 77,
+                "name": "Trypa Rock Bar",
+                "link": "https://www.google.com/maps/search/Trypa+Rock+Bar/@37.9920109,23.678895699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
                 "rating": 4.8,
-                "main_category": "Yi Lang Ka Pei Ting "
+                "main_category": "Jiu Ba "
             },
             {
                 "name": "FLOW COFFEE AND ENERGY SPOT",
@@ -6498,30 +6370,66 @@
         "link": "https://www.google.com/maps/place/%CE%A0%CF%8C%CF%81%CF%84%CE%BF+%CF%81%CE%AC%CF%86%CF%84%CE%B7/data=!4m7!3m6!1s0x14a1bd06015d86d5:0x6c0d493bc37b6abd!8m2!3d37.9877157!4d23.6818873!16s%2Fg%2F11q9d7pyws!19sChIJ1YZdAQa9oRQRvWp7wztJDWw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJq0g8vV-9oRQRPFcrrkdAntE",
-        "name": "PROMENADA",
+        "place_id": "ChIJy3TdM1e9oRQRIqS_NP_81ZY",
+        "name": "Kapheteria GPA",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "GREAT COFFEE",
+                "link": "https://www.google.com/maps/search/GREAT+COFFEE/@37.9976665,23.6670209?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 30,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Gocce Caffe",
+                "link": "https://www.google.com/maps/search/Gocce+Caffe/@38.0152553,23.6491264?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Gogo Kafe",
+                "link": "https://www.google.com/maps/search/Gogo+Kafe/@37.996693199999996,23.690210399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.9,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Giorgos",
+                "link": "https://www.google.com/maps/search/Gi%E1%B9%93rgos/@37.986557999999995,23.76754?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": ".",
+                "link": "https://www.google.com/maps/search/./@38.0279697,23.7453264?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
         "website": null,
         "owner": {
-            "id": "112567339062802364325",
-            "name": "PROMENADA (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112567339062802364325"
+            "id": null,
+            "name": "Kapheteria GPA (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9pl2X0cpfyMvhgENbwyKgw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=220.49141&pitch=0&thumbfov=100",
+        "featured_image": null,
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": null,
+        "rating": 5,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "PROMENADA, Mark. Mpotsari 16, Egaleo 122 41Xi La ",
+        "address": "Kapheteria GPA, Iera Odos 75, Athina 118 55Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PROMENADA/data=!4m7!3m6!1s0x14a1bd5fbd3c48ab:0xd19e4047ae2b573c!8m2!3d37.9911324!4d23.6788523!16s%2Fg%2F11vf3zb045!19sChIJq0g8vV-9oRQRPFcrrkdAntE?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/%CE%9A%CE%B1%CF%86%CE%B5%CF%84%CE%AD%CF%81%CE%B9%CE%B1+%CE%93%CE%A0%CE%91/data=!4m7!3m6!1s0x14a1bd5733dd74cb:0x96d5fcff34bfa422!8m2!3d37.9832778!4d23.7025749!16s%2Fg%2F11q57ybj5d!19sChIJy3TdM1e9oRQRIqS_NP_81ZY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJNUhyHJi9oRQR-QhNRh-woRA",
@@ -6550,5 +6458,93 @@
         "address": "River food&Coffee, Leof. Kifisou 87, Egaleo 122 41Xi La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/River+food%26Coffee/data=!4m7!3m6!1s0x14a1bd981c724835:0x10a1b01f464d08f9!8m2!3d37.9847766!4d23.683835!16s%2Fg%2F11ssg_4kf9!19sChIJNUhyHJi9oRQR-QhNRh-woRA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJq0g8vV-9oRQRPFcrrkdAntE",
+        "name": "PROMENADA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "112567339062802364325",
+            "name": "PROMENADA (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112567339062802364325"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9pl2X0cpfyMvhgENbwyKgw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=220.49141&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "PROMENADA, Mark. Mpotsari 16, Egaleo 122 41Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/PROMENADA/data=!4m7!3m6!1s0x14a1bd5fbd3c48ab:0xd19e4047ae2b573c!8m2!3d37.9911324!4d23.6788523!16s%2Fg%2F11vf3zb045!19sChIJq0g8vV-9oRQRPFcrrkdAntE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ90hUUUujoRQRzspSdYJNasE",
+        "name": "GEORGOPOULOS, PANAGIOTIS, & CO O.E.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Giorgio Pastry + Catering",
+                "link": "https://www.google.com/maps/search/Giorgio+Pastry+%2B+Catering/@37.9641889,23.659067999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 201,
+                "rating": 4.3,
+                "main_category": "Tang Guo Gao Bing Dian "
+            },
+            {
+                "name": "Coffee Station",
+                "link": "https://www.google.com/maps/search/Coffee+Station/@38.016350100000004,23.676883699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 196,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Gregores",
+                "link": "https://www.google.com/maps/search/%CE%93%CF%81%CE%B7%CE%B3%CF%8C%CF%81%CE%B7%CF%82/@38.0023608,23.686322699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "GEORGOPOULOS AThANASIOS",
+                "link": "https://www.google.com/maps/search/%CE%93%CE%95%CE%A9%CE%A1%CE%93%CE%9F%CE%A0%CE%9F%CE%A5%CE%9B%CE%9F%CE%A3+%CE%91%CE%98%CE%91%CE%9D%CE%91%CE%A3%CE%99%CE%9F%CE%A3/@38.0085222,23.694457300000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            },
+            {
+                "name": "PAPAFOTIS, V., - GEORGIOU C. O.E.",
+                "link": "https://www.google.com/maps/search/PAPAFOTIS%2C+V.%2C+-+GEORGIOU+C.+O.E./@38.0028907,23.686216899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "GEORGOPOULOS, PANAGIOTIS, & CO O.E. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KBKvUX5M0YtaWYOBgUTKkQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=345.11954&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+30 21 0576 1003",
+        "address": "GEORGOPOULOS, PANAGIOTIS, & CO O.E., Thivon 25, Peristeri 121 36Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/GEORGOPOULOS,+PANAGIOTIS,+%26+CO+O.E./data=!4m7!3m6!1s0x14a1a34b515448f7:0xc16a4d827552cace!8m2!3d38.0025439!4d23.6859902!16s%2Fg%2F11bzx43myx!19sChIJ90hUUUujoRQRzspSdYJNasE?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

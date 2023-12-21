@@ -4,12 +4,12 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1284,
+        "reviews": 1286,
         "competitors": [
             {
                 "name": "PENNY Nagykoros",
                 "link": "https://www.google.com/maps/search/PENNY+Nagyk%C5%91r%C3%B6s/@47.0203451,19.775775199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 628,
+                "reviews": 627,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -56,7 +56,11 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Nagykoros, Lidl, Kecskemeti ut 73, 2750 Xiong Ya Li ",
         "review_keywords": [],
@@ -67,12 +71,12 @@
         "name": "TESCO Nagykoros Hipermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1233,
+        "reviews": 1234,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.1840285,19.796215999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3416,
+                "reviews": 3419,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -111,7 +115,10 @@
         ],
         "rating": 3.8,
         "workday_timing": "06:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Nagykoros, TESCO Nagykoros Hipermarket, Cegledi ut 32, 2750 Xiong Ya Li ",
         "review_keywords": [],
@@ -174,7 +181,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Nagykoros, ALDI, Kossuth Lajos ut 49-51, 2750 Xiong Ya Li ",
         "review_keywords": [],
@@ -185,12 +195,12 @@
         "name": "PENNY Nagykoros",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 628,
+        "reviews": 627,
         "competitors": [
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.020599999999995,19.7743419?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1284,
+                "reviews": 1285,
                 "rating": 4.5,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -311,7 +321,7 @@
             {
                 "name": "TESCO Nagykoros Hipermarket",
                 "link": "https://www.google.com/maps/search/TESCO+Nagyk%C5%91r%C3%B6s+Hipermarket/@47.0468057,19.7814264?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1233,
+                "reviews": 1234,
                 "rating": 3.8,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -358,7 +368,11 @@
         ],
         "rating": 4,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7253",
         "address": "Nagykoros, SPAR szupermarket, Cegledi ut 14, 2750 Xiong Ya Li ",
         "review_keywords": [],
@@ -427,6 +441,68 @@
         "link": "https://www.google.com/maps/place/Tibiker+Kft./data=!4m7!3m6!1s0x474163242c8445af:0xc936389ba423125d!8m2!3d47.0344203!4d19.7692541!16s%2Fg%2F11cn8tc0ns!19sChIJr0WELCRjQUcRXRIjpJs4Nsk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJr0h-lTBjQUcRUAwmJcvm44c",
+        "name": "Finucci Pizzeria * Caffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 251,
+        "competitors": [
+            {
+                "name": "Budai Kapu Etterem",
+                "link": "https://www.google.com/maps/search/Budai+Kapu+%C3%89tterem/@47.0340305,19.7711222?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 940,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Pasta dal Piccolo Pizzeria",
+                "link": "https://www.google.com/maps/search/Pasta+dal+Piccolo+Pizz%C3%A9ria/@47.0329956,19.7824609?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 100,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Family Gyros",
+                "link": "https://www.google.com/maps/search/Family+Gyros/@47.0364988,19.7844582?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 97,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Korisfa csarda",
+                "link": "https://www.google.com/maps/search/K%C5%91risfa+cs%C3%A1rda/@47.0816757,19.780929699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 73,
+                "rating": 3.9,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Piaci bufe",
+                "link": "https://www.google.com/maps/search/Piaci+b%C3%BCf%C3%A9/@47.028152399999996,19.7822755?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.4,
+                "main_category": "Kuai Can "
+            }
+        ],
+        "website": "https://www.facebook.com/Finuccipizzeria/",
+        "owner": {
+            "id": "105261916343535443786",
+            "name": "Finucci Pizzeria * Caffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105261916343535443786"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOSX_QtEQt32hm6deIbWI7i3Gr9r9ycrtInIvP9=w408-h315-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 30 521 0118",
+        "address": "Nagykoros, Finucci Pizzeria * Caffee, Szechenyi ter 1, 2750 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Finucci+Pizzeria+%E2%80%A2+Caffee/data=!4m7!3m6!1s0x47416330957e48af:0x87e3e6cb25260c50!8m2!3d47.0339813!4d19.7813968!16s%2Fg%2F11h392p2ww!19sChIJr0h-lTBjQUcRUAwmJcvm44c?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJCamDPCFjQUcRJZTNzLwG-Ag",
         "name": "Kispipa Kavezo",
         "description": null,
@@ -484,7 +560,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 356 1530",
         "address": "Nagykoros, Kispipa Kavezo, Kecskemeti ut 15, 2750 Xiong Ya Li ",
         "review_keywords": [],
@@ -533,7 +612,7 @@
             {
                 "name": "PENNY Nagykoros",
                 "link": "https://www.google.com/maps/search/PENNY+Nagyk%C5%91r%C3%B6s/@47.0203451,19.775775199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 628,
+                "reviews": 627,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -585,7 +664,7 @@
         "name": "Hansa Italdiszkont",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 123,
+        "reviews": 124,
         "competitors": [
             {
                 "name": "Hansa Italdiszkont Kecskemet",
@@ -654,7 +733,7 @@
             {
                 "name": "PENNY Nagykoros",
                 "link": "https://www.google.com/maps/search/PENNY+Nagyk%C5%91r%C3%B6s/@47.0203451,19.775775199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 628,
+                "reviews": 627,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -802,7 +881,7 @@
                 "main_category": "Za Huo Dian "
             }
         ],
-        "website": "https://scontent-fra3-1.xx.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/17239856_650686185133831_2863254028577647432_o.jpg%3Fefg%3DeyJpIjoidCJ9%26oh%3D2918bdd496a12be2b4d6626f038185ed%26oe%3D595C4D3F",
+        "website": "https://scontent-fra3-1.xx.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/17239856_650686185133831_2863254028577647432_o.jpg?efg=eyJpIjoidCJ9&oh=2918bdd496a12be2b4d6626f038185ed&oe=595C4D3F",
         "owner": {
             "id": "113441857124370228527",
             "name": "Anett Elelmiszerbolt (Ye Zhu )",
@@ -815,7 +894,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "05:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Nagykoros, Anett Elelmiszerbolt, Potharaszti ut 22, 2750 Xiong Ya Li ",
         "review_keywords": [],
@@ -826,7 +908,7 @@
         "name": "Felegyhazi pekseg 24. Mintabolt",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 10,
+        "reviews": 11,
         "competitors": [
             {
                 "name": "Felegyhazi Pekseg 7. szamu mintabolt",
@@ -837,7 +919,7 @@
             },
             {
                 "name": "Felegyhazi pekseg 91. Mintabolt",
-                "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/@47.0341131,19.7805562?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/@47.033904199999995,19.7805905?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
@@ -930,7 +1012,8 @@
         "rating": 5,
         "workday_timing": "09:00-17:30",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+36 30 852 0555",
         "address": "Nagykoros, Kredenc, Rakoczi u. 4-6. ajto, 2750 Xiong Ya Li ",
@@ -986,7 +1069,7 @@
             },
             {
                 "name": "Felegyhazi pekseg 91. Mintabolt",
-                "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/@47.0341131,19.7805562?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/@47.033904199999995,19.7805905?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
@@ -1090,61 +1173,6 @@
         "link": "https://www.google.com/maps/place/Szil-Coop/data=!4m7!3m6!1s0x474163248c082c8d:0xc7d776c40c2805a2!8m2!3d47.0338979!4d19.7815781!16s%2Fg%2F11c5s_s41q!19sChIJjSwIjCRjQUcRogUoDMR218c?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJsbzJgCRjQUcRV6rhg88nmDQ",
-        "name": "Bols Jazz Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 181,
-        "competitors": [
-            {
-                "name": "Timarhaz Kavezo",
-                "link": "https://www.google.com/maps/search/T%C3%ADm%C3%A1rh%C3%A1z+K%C3%A1v%C3%A9z%C3%B3/@47.0363933,19.7839112?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kisvadasz",
-                "link": "https://www.google.com/maps/search/Kisvad%C3%A1sz/@47.0450194,19.7912872?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Biczo Bisztro & Cukraszda",
-                "link": "https://www.google.com/maps/search/Bicz%C3%B3+Bisztr%C3%B3+%26+Cukr%C3%A1szda/@47.0342698,19.776268899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.5,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            },
-            {
-                "name": "Gold Coffe",
-                "link": "https://www.google.com/maps/search/Gold+Coffe/@47.041638899999995,19.7874944?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 3.9,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Bols Jazz Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWapW-Ha71_E1lngFsJq_lNdjMo_IdDOJCEexC=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 449 0994",
-        "address": "Nagykoros, Bols Jazz Cafe, Szabadsag ter 7, 2750 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bols+Jazz+Caf%C3%A9/data=!4m7!3m6!1s0x4741632480c9bcb1:0x349827cf83e1aa57!8m2!3d47.0331226!4d19.782538!16s%2Fg%2F1vc6c4yx!19sChIJsbzJgCRjQUcRV6rhg88nmDQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJwVRqRTtjQUcReXPK3Ab4Qls",
         "name": "Timarhaz Kavezo",
         "description": null,
@@ -1205,6 +1233,61 @@
         "address": "Nagykoros, Timarhaz Kavezo, Cegledi ut, 2750 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/T%C3%ADm%C3%A1rh%C3%A1z+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4741633b456a54c1:0x5b42f806dcca7379!8m2!3d47.0363933!4d19.7839112!16s%2Fg%2F11cn8sh808!19sChIJwVRqRTtjQUcReXPK3Ab4Qls?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJsbzJgCRjQUcRV6rhg88nmDQ",
+        "name": "Bols Jazz Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 181,
+        "competitors": [
+            {
+                "name": "Timarhaz Kavezo",
+                "link": "https://www.google.com/maps/search/T%C3%ADm%C3%A1rh%C3%A1z+K%C3%A1v%C3%A9z%C3%B3/@47.0363933,19.7839112?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 181,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kisvadasz",
+                "link": "https://www.google.com/maps/search/Kisvad%C3%A1sz/@47.0450194,19.7912872?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Biczo Bisztro & Cukraszda",
+                "link": "https://www.google.com/maps/search/Bicz%C3%B3+Bisztr%C3%B3+%26+Cukr%C3%A1szda/@47.0342698,19.776268899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 15,
+                "rating": 4.5,
+                "main_category": "Xiao Can Guan  (Bistro)"
+            },
+            {
+                "name": "Gold Coffe",
+                "link": "https://www.google.com/maps/search/Gold+Coffe/@47.041638899999995,19.7874944?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bols Jazz Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWapW-Ha71_E1lngFsJq_lNdjMo_IdDOJCEexC=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 20 449 0994",
+        "address": "Nagykoros, Bols Jazz Cafe, Szabadsag ter 7, 2750 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bols+Jazz+Caf%C3%A9/data=!4m7!3m6!1s0x4741632480c9bcb1:0x349827cf83e1aa57!8m2!3d47.0331226!4d19.782538!16s%2Fg%2F1vc6c4yx!19sChIJsbzJgCRjQUcRV6rhg88nmDQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJn5Ye0N9iQUcR0XHzuqN_v68",
@@ -1361,7 +1444,7 @@
             {
                 "name": "Kinizsi Klub Nagykoros Kft.",
                 "link": "https://www.google.com/maps/search/Kinizsi+Klub+Nagyk%C5%91r%C3%B6s+Kft./@47.032858499999996,19.7810359?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1393,6 +1476,70 @@
         "link": "https://www.google.com/maps/place/Kisvad%C3%A1sz/data=!4m7!3m6!1s0x47416340ae850571:0x7780e95b86d03b1e!8m2!3d47.0450194!4d19.7912872!16s%2Fg%2F11byvdn7t8!19sChIJcQWFrkBjQUcRHjvQhlvpgHc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJsyyeOSpjQUcROlMN-yFT1QE",
+        "name": "Anita Elelmiszer",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "competitors": [
+            {
+                "name": "ALDI",
+                "link": "https://www.google.com/maps/search/ALDI/@47.0345965,19.768309300000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 721,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Ziccer Elelmiszer",
+                "link": "https://www.google.com/maps/search/Ziccer+%C3%89lelmiszer/@47.035769699999996,19.783717499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 70,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Agi Elelmiszer",
+                "link": "https://www.google.com/maps/search/%C3%81gi+%C3%89lelmiszer/@47.0304101,19.760757599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Anett Elelmiszerbolt",
+                "link": "https://www.google.com/maps/search/Anett+%C3%89lelmiszerbolt/@47.0406605,19.746893999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "ANITA ABC",
+                "link": "https://www.google.com/maps/search/ANITA+ABC/@47.0308359,19.764783899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Anita Elelmiszer (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=woFRXRdgvXrFq-gGjSxzug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=335.17462&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "05:00-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Nagykoros, Anita Elelmiszer, Orkenyi ut 39, 2750 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Anita+%C3%89lelmiszer/data=!4m7!3m6!1s0x4741632a399e2cb3:0x1d55321fb0d533a!8m2!3d47.0308208!4d19.7645237!16s%2Fg%2F11c6cx7vyx!19sChIJsyyeOSpjQUcROlMN-yFT1QE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJkxTDdqNjQUcRV5X9r6OXcKY",
         "name": "Felegyhazi pekseg 91. Mintabolt",
         "description": null,
@@ -1409,7 +1556,7 @@
             {
                 "name": "Felegyhazi pekseg 24. Mintabolt",
                 "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+24.+Mintabolt/@47.0328154,19.7842196?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
+                "reviews": 11,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1418,13 +1565,6 @@
                 "link": "https://www.google.com/maps/search/Feh%C3%A9r+P%C3%A9ks%C3%A9g/@47.0276977,19.7929493?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 2,
                 "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "VargaPekseg6",
-                "link": "https://www.google.com/maps/search/VargaP%C3%A9ks%C3%A9g6/@47.034518299999995,19.777904600000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
@@ -1445,7 +1585,7 @@
         "phone": null,
         "address": "Nagykoros, Felegyhazi pekseg 91. Mintabolt, Szechenyi ter 5, 2750 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/data=!4m7!3m6!1s0x474163a376c31493:0xa67097a3affd9557!8m2!3d47.0341131!4d19.7805562!16s%2Fg%2F11rgl855_1!19sChIJkxTDdqNjQUcRV5X9r6OXcKY?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/data=!4m7!3m6!1s0x474163a376c31493:0xa67097a3affd9557!8m2!3d47.0339042!4d19.7805905!16s%2Fg%2F11rgl855_1!19sChIJkxTDdqNjQUcRV5X9r6OXcKY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJS4W7Lf9lQUcRgw9auSOH1Mk",
@@ -1456,7 +1596,7 @@
         "competitors": [
             {
                 "name": "Felegyhazi pekseg 91. Mintabolt",
-                "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/@47.0341131,19.7805562?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/@47.033904199999995,19.7805905?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
@@ -1474,13 +1614,6 @@
                 "reviews": 16,
                 "rating": 4.8,
                 "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "VargaPekseg6",
-                "link": "https://www.google.com/maps/search/VargaP%C3%A9ks%C3%A9g6/@47.034518299999995,19.777904600000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
         "website": null,
@@ -1613,7 +1746,10 @@
         ],
         "rating": 4.8,
         "workday_timing": "05:30-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 239 7319",
         "address": "Nagykoros, Napfenysarok Elelmiszer, Mikes Kelemen u. 8, 2750 Xiong Ya Li ",
         "review_keywords": [],
@@ -1951,7 +2087,7 @@
             "name": "Estike Csemege (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bT0hya4Mx2lSdhHLPvXHKA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=233.32358&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DlQI3U9j1gkZ1dFP670G6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=341.03586&pitch=0&thumbfov=100",
         "main_category": "Za Huo Dian ",
         "categories": [
             "Za Huo Dian "
@@ -2073,12 +2209,135 @@
         "rating": 5,
         "workday_timing": "08:00-16:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 70 567 2283",
         "address": "Nagykoros, Jovesz bringa, Szolnoki ut 120, 2750 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Jovesz+bringa/data=!4m7!3m6!1s0x47416308e665fc1d:0x3508842c4f24e8b6!8m2!3d47.0279868!4d19.8024841!16s%2Fg%2F11vdzxftsr!19sChIJHfxl5ghjQUcRtugkTyyECDU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJH1MkFrVjQUcRPUL3ZRpRAVI",
+        "name": "Feher Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Felegyhazi pekseg 91. Mintabolt",
+                "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+91.+Mintabolt/@47.033904199999995,19.7805905?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Friss Bakery",
+                "link": "https://www.google.com/maps/search/Friss+Bakery/@47.0355261,19.7840672?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Felegyhazi pekseg 24. Mintabolt",
+                "link": "https://www.google.com/maps/search/F%C3%A9legyh%C3%A1zi+p%C3%A9ks%C3%A9g+24.+Mintabolt/@47.0328154,19.7842196?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "VargaPekseg5",
+                "link": "https://www.google.com/maps/search/VargaP%C3%A9ks%C3%A9g5/@47.0310896,19.7698513?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Feher Pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d3rbEXcRKSt5JN90PrhaCA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=239.39966&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Nagykoros, Feher Pekseg, Ibolya u. 1, 2750 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Feh%C3%A9r+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x474163b51624531f:0x5201511a65f7423d!8m2!3d47.0276977!4d19.7929493!16s%2Fg%2F11j7h1z33r!19sChIJH1MkFrVjQUcRPUL3ZRpRAVI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJNxS8viXbQ0cRy6QsvHd-74U",
+        "name": "Triskelion Ajandekbolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Figyelmesseg Viraguzlet",
+                "link": "https://www.google.com/maps/search/Figyelmess%C3%A9g+Vir%C3%A1g%C3%BCzlet/@47.0341901,19.776043899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 38,
+                "rating": 4.9,
+                "main_category": "Hua Dian "
+            },
+            {
+                "name": "Kristalyok Erted - Lelekut Segito",
+                "link": "https://www.google.com/maps/search/Krist%C3%A1lyok+%C3%89rted+-+L%C3%A9lek%C3%BAt+Seg%C3%ADt%C5%91/@47.0293387,19.7850672?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.8,
+                "main_category": "Zhu Bao She Ji Shi "
+            },
+            {
+                "name": "Papp Laszlone",
+                "link": "https://www.google.com/maps/search/Papp+L%C3%A1szl%C3%B3n%C3%A9/@47.0335605,19.781299399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.5,
+                "main_category": "Hua Yi She Ji Shi "
+            },
+            {
+                "name": "Kredenc",
+                "link": "https://www.google.com/maps/search/Kredenc/@47.0317079,19.7816846?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 5,
+                "main_category": "Li Pin Dian "
+            },
+            {
+                "name": "Viragsziget",
+                "link": "https://www.google.com/maps/search/Vir%C3%A1gsziget/@47.0379345,19.784634999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Hua Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "113693351846110467518",
+            "name": "Triskelion Ajandekbolt (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113693351846110467518"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmBuvP4XkPS_YmBIazMzjjYd5Jg8r_8wXDZmaW=w408-h250-k-no",
+        "main_category": "Li Pin Dian ",
+        "categories": [
+            "Li Pin Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-12:00, 14:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 460 1710",
+        "address": "Nagykoros, Triskelion Ajandekbolt, Szechenyi ter 2, 2750 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Triskelion+Aj%C3%A1nd%C3%A9kbolt/data=!4m7!3m6!1s0x4743db25bebc1437:0x85ef7e77bc2ca4cb!8m2!3d47.0336061!4d19.7803266!16s%2Fg%2F11hzlzd6mj!19sChIJNxS8viXbQ0cRy6QsvHd-74U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJkaXgnRtjQUcRnmtT2is9hDo",
@@ -2090,7 +2349,7 @@
             {
                 "name": "Don Diego",
                 "link": "https://www.google.com/maps/search/Don+Diego/@47.034962799999995,19.7821894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 191,
+                "reviews": 192,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -2136,31 +2395,24 @@
         "link": "https://www.google.com/maps/place/Holdf%C3%A9ny+Boroz%C3%B3/data=!4m7!3m6!1s0x4741631b9de0a591:0x3a843d2bda536b9e!8m2!3d47.023859!4d19.8010293!16s%2Fg%2F11gznrvqxr!19sChIJkaXgnRtjQUcRnmtT2is9hDo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJhbU7Y_RjQUcRCSBqiB6Nla0",
-        "name": "ANITA ABC",
+        "place_id": "ChIJrxjYQwRjQUcRRizuhJe5QWM",
+        "name": "Mini Vegyesbolt",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1,
+        "reviews": null,
         "competitors": [
             {
-                "name": "Agi Elelmiszer",
-                "link": "https://www.google.com/maps/search/%C3%81gi+%C3%89lelmiszer/@47.0304101,19.760757599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.5,
+                "name": "Szil-Coop",
+                "link": "https://www.google.com/maps/search/Szil-Coop/@47.0338979,19.7815781?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 184,
+                "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
             {
-                "name": "Anita Elelmiszer",
-                "link": "https://www.google.com/maps/search/Anita+%C3%89lelmiszer/@47.0308208,19.764523699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Anett Elelmiszerbolt",
-                "link": "https://www.google.com/maps/search/Anett+%C3%89lelmiszerbolt/@47.0406605,19.746893999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
-                "rating": 4.7,
+                "name": "Ziccer Elelmiszer",
+                "link": "https://www.google.com/maps/search/Ziccer+%C3%89lelmiszer/@47.035769699999996,19.783717499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 70,
+                "rating": 4,
                 "main_category": "Za Huo Dian "
             },
             {
@@ -2171,30 +2423,37 @@
                 "main_category": "Za Huo Dian "
             },
             {
-                "name": "Mini Vegyesbolt",
-                "link": "https://www.google.com/maps/search/Mini+Vegyesbolt/@47.0271106,19.806406?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
+                "name": "Kis Csemege",
+                "link": "https://www.google.com/maps/search/Kis+Csemege/@47.038424,19.7861412?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Kaszap Gazdabolt",
+                "link": "https://www.google.com/maps/search/Kaszap+Gazdabolt/@47.023640099999994,19.7939379?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
                 "main_category": "Za Huo Dian "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "ANITA ABC (Ye Zhu )",
+            "name": "Mini Vegyesbolt (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mQnQHMOfnshNg37ILmaUvQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=333.86038&pitch=0&thumbfov=100",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtyYB-N2cMw9dHJFXc2EH67OMfK7uRAZVZot5E=w408-h544-k-no",
         "main_category": "Za Huo Dian ",
         "categories": [
             "Za Huo Dian "
         ],
-        "rating": 5,
-        "workday_timing": null,
+        "rating": null,
+        "workday_timing": "06:30-19:00",
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Nagykoros, ANITA ABC, Orkenyi ut 39, 2750 Xiong Ya Li ",
+        "address": "Nagykoros, Mini Vegyesbolt, Kassai u. 4, 2750 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/ANITA+ABC/data=!4m7!3m6!1s0x474163f4633bb585:0xad958d1e886a2009!8m2!3d47.0308359!4d19.7647839!16s%2Fg%2F11hwcn43bp!19sChIJhbU7Y_RjQUcRCSBqiB6Nla0?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Mini+Vegyesbolt/data=!4m7!3m6!1s0x4741630443d818af:0x6341b99784ee2c46!8m2!3d47.0271106!4d19.806406!16s%2Fg%2F11f9w83hd2!19sChIJrxjYQwRjQUcRRizuhJe5QWM?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

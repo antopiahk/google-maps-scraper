@@ -4,7 +4,7 @@
         "name": "Truffle Cake Shop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2177,
+        "reviews": 2180,
         "competitors": [
             {
                 "name": "Kovacs Cukraszda",
@@ -16,7 +16,7 @@
             {
                 "name": "Caflisch Confectionery",
                 "link": "https://www.google.com/maps/search/Caflisch+Confectionery/@46.076764399999995,18.2327117?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 399,
+                "reviews": 400,
                 "rating": 4.5,
                 "main_category": "Xi Dian "
             },
@@ -57,7 +57,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 409 6661",
         "address": "Pecs, Truffle Cake Shop, Harsfa ut 34, 7627 Xiong Ya Li ",
         "review_keywords": [
@@ -77,26 +80,26 @@
         "name": "Cafe Frei Pecs",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2002,
+        "reviews": 2004,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Caflisch Confectionery",
                 "link": "https://www.google.com/maps/search/Caflisch+Confectionery/@46.076764399999995,18.2327117?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 399,
+                "reviews": 400,
                 "rating": 4.5,
                 "main_category": "Xi Dian "
             },
             {
                 "name": "Cafe Frei Pecs ARKAD",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+P%C3%A9cs+%C3%81RK%C3%81D/@46.0718922,18.2321961?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
+                "reviews": 220,
                 "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -165,7 +168,7 @@
         "name": "Nappali",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1726,
+        "reviews": 1727,
         "competitors": [
             {
                 "name": "Tramini",
@@ -262,7 +265,7 @@
             {
                 "name": "Jokai Cukraszda",
                 "link": "https://www.google.com/maps/search/J%C3%B3kai+Cukr%C3%A1szda/@46.0754786,18.2274311?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
+                "reviews": 562,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -295,7 +298,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "10:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Er ",
+            "Xing Qi San "
+        ],
         "phone": "+36 70 709 6000",
         "address": "Pecs, Magda Cukraszda, Kando Kalman u. 4, 7623 Xiong Ya Li ",
         "review_keywords": [],
@@ -306,26 +312,26 @@
         "name": "Ciao Pizzeria es Ristorante",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1639,
+        "reviews": 1643,
         "competitors": [
             {
                 "name": "Giovanni",
                 "link": "https://www.google.com/maps/search/Giovanni/@46.0389659,18.220477499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1132,
+                "reviews": 1133,
                 "rating": 4.5,
                 "main_category": "Yi Shi Bo Bing "
             },
             {
                 "name": "Piccola Toscana",
                 "link": "https://www.google.com/maps/search/Piccola+Toscana/@46.0752379,18.221099799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 961,
+                "reviews": 963,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Azzurra Ristorante",
                 "link": "https://www.google.com/maps/search/Azzurra+Ristorante/@46.076801599999996,18.2318037?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 797,
+                "reviews": 798,
                 "rating": 4.7,
                 "main_category": "Yi Da Li Cai "
             },
@@ -366,7 +372,12 @@
         ],
         "rating": 4.7,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 70 525 7000",
         "address": "Pecs, Ciao Pizzeria es Ristorante, Verseny u. 1, 7622 Xiong Ya Li ",
         "review_keywords": [
@@ -390,33 +401,33 @@
         "name": "Reggeli",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1372,
+        "reviews": 1376,
         "competitors": [
             {
                 "name": "Korhely Etterem",
                 "link": "https://www.google.com/maps/search/Korhely+%C3%89tterem/@46.076240999999996,18.2298115?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1983,
+                "reviews": 1984,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Kiraly21 Beerhouse & Grill",
                 "link": "https://www.google.com/maps/search/Kir%C3%A1ly21+Beerhouse+%26+Grill/@46.0768585,18.2322511?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1307,
-                "rating": 4.4,
+                "reviews": 1308,
+                "rating": 4.5,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Replay Cafe & Restaurant",
                 "link": "https://www.google.com/maps/search/Replay+Cafe+%26+Restaurant/@46.0761158,18.2292301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1233,
+                "reviews": 1239,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Streat Burger & Szendvics",
                 "link": "https://www.google.com/maps/search/Streat+Burger+%26+Szendvics/@46.0770876,18.233538199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 422,
+                "reviews": 421,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             }
@@ -437,7 +448,11 @@
         ],
         "rating": 4.7,
         "workday_timing": "08:00-15:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 72 529 910",
         "address": "Pecs, Reggeli, Kiraly u. 23-25, 7621 Xiong Ya Li ",
         "review_keywords": [
@@ -451,7 +466,7 @@
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 10
+                "count": 11
             },
             {
                 "keyword": "Guo Zhi ",
@@ -486,14 +501,14 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -507,7 +522,7 @@
             {
                 "name": "1001 Ejszaka Kavezo es etterem II",
                 "link": "https://www.google.com/maps/search/1001+%C3%89jszaka+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+%C3%A9tterem+II/@46.0768415,18.2330728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 114,
+                "reviews": 116,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -532,8 +547,10 @@
             "Ka Pei Ting "
         ],
         "rating": 4.6,
-        "workday_timing": "09:00-00:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "16:00-00:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Pecs, Cooltour Cafe, Kiraly u. 26, 7621 Xiong Ya Li ",
         "review_keywords": [
@@ -566,14 +583,14 @@
             {
                 "name": "Reggeli",
                 "link": "https://www.google.com/maps/search/Reggeli/@46.076924299999995,18.2325526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1372,
+                "reviews": 1374,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Trezor Rendezvenyhaz",
                 "link": "https://www.google.com/maps/search/Trezor+Rendezv%C3%A9nyh%C3%A1z/@46.076573599999996,18.2305793?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 180,
+                "reviews": 183,
                 "rating": 4.7,
                 "main_category": "Jiu Ba "
             },
@@ -599,8 +616,7 @@
             "Yin Le Ting ",
             "Zheng Liu Ka Pei Ba ",
             "Shi Nei You Le Chang ",
-            "Jiu Ba ",
-            "Can Ting "
+            "Jiu Ba "
         ],
         "rating": 4.5,
         "workday_timing": "16:00-00:00",
@@ -620,12 +636,12 @@
         "name": "Pecsi Kave",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 904,
+        "reviews": 905,
         "competitors": [
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -664,7 +680,10 @@
         ],
         "rating": 4.8,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 72 951 586",
         "address": "Pecs, Pecsi Kave, Irgalmasok utcaja 6, 7621 Xiong Ya Li ",
         "review_keywords": [
@@ -700,19 +719,19 @@
         "name": "LYR Speciality Coffee and Food",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 792,
+        "reviews": 793,
         "competitors": [
             {
                 "name": "Reggeli",
                 "link": "https://www.google.com/maps/search/Reggeli/@46.076924299999995,18.2325526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1372,
+                "reviews": 1374,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Replay Cafe & Restaurant",
                 "link": "https://www.google.com/maps/search/Replay+Cafe+%26+Restaurant/@46.0761158,18.2292301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1233,
+                "reviews": 1239,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -746,13 +765,21 @@
         ],
         "rating": 4.6,
         "workday_timing": "10:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 72 425 119",
         "address": "Pecs, LYR Speciality Coffee and Food, Ferencesek utcaja 4, 7621 Xiong Ya Li ",
         "review_keywords": [
             {
                 "keyword": "vegan",
                 "count": 42
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 10
             },
             {
                 "keyword": "Han Bao ",
@@ -763,15 +790,15 @@
                 "count": 9
             },
             {
-                "keyword": "Jia Ge ",
-                "count": 9
-            },
-            {
                 "keyword": "Dan Gao ",
                 "count": 8
             },
             {
                 "keyword": "Juan Bing ",
+                "count": 5
+            },
+            {
+                "keyword": "Wu Can ",
                 "count": 5
             },
             {
@@ -799,21 +826,21 @@
             {
                 "name": "Zsaner Bisztro",
                 "link": "https://www.google.com/maps/search/Zsan%C3%A9r+Bisztr%C3%B3/@46.076622199999996,18.231649?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
+                "reviews": 538,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Garden Cafe",
                 "link": "https://www.google.com/maps/search/Garden+Cafe/@46.064614399999996,18.19963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 391,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -861,7 +888,7 @@
         "name": "Glasgow Pub&Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 614,
+        "reviews": 616,
         "competitors": [
             {
                 "name": "Bar of Legends",
@@ -945,7 +972,7 @@
             {
                 "name": "Jokai Cukraszda",
                 "link": "https://www.google.com/maps/search/J%C3%B3kai+Cukr%C3%A1szda/@46.0754786,18.2274311?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
+                "reviews": 562,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -996,28 +1023,28 @@
             {
                 "name": "Reggeli",
                 "link": "https://www.google.com/maps/search/Reggeli/@46.076924299999995,18.2325526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1372,
+                "reviews": 1374,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1072,7 +1099,7 @@
         "name": "Jokai Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 563,
+        "reviews": 562,
         "competitors": [
             {
                 "name": "Kovacs Cukraszda",
@@ -1155,19 +1182,19 @@
         "name": "Zsaner Bisztro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 537,
+        "reviews": 538,
         "competitors": [
             {
                 "name": "Cafe Frei Pecs",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+P%C3%A9cs/@46.0763909,18.2297513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2002,
+                "reviews": 2004,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Reggeli",
                 "link": "https://www.google.com/maps/search/Reggeli/@46.076924299999995,18.2325526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1372,
+                "reviews": 1374,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -1181,19 +1208,19 @@
             {
                 "name": "morzsa",
                 "link": "https://www.google.com/maps/search/morzsa/@46.076913,18.233569900000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 155,
+                "reviews": 156,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "1001 Ejszaka Kavezo es etterem II",
                 "link": "https://www.google.com/maps/search/1001+%C3%89jszaka+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+%C3%A9tterem+II/@46.0768415,18.2330728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 114,
+                "reviews": 116,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://m.facebook.com/pages/category/Bar/Zsan%C3%A9r-Bisztr%C3%B3-164511824145318/",
+        "website": "https://m.facebook.com/pages/category/Bar/Zsan%25C3%25A9r-Bisztr%25C3%25B3-164511824145318/",
         "owner": {
             "id": "117356027560659740477",
             "name": "Zsaner Bisztro (Ye Zhu )",
@@ -1269,6 +1296,7 @@
         "workday_timing": "15:00-00:00",
         "closed_on": [
             "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 30 769 7743",
@@ -1298,7 +1326,7 @@
             {
                 "name": "Miller's Cafe",
                 "link": "https://www.google.com/maps/search/Miller%27s+Caf%C3%A9/@46.0717669,18.2299728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 157,
+                "reviews": 158,
                 "rating": 3.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1352,28 +1380,28 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bloff",
                 "link": "https://www.google.com/maps/search/Bl%C3%B6ff/@46.0761529,18.2311524?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 473,
+                "reviews": 474,
                 "rating": 4.7,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Pecsi Est",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+Est/@46.072480299999995,18.2282351?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 174,
+                "reviews": 176,
                 "rating": 3.7,
                 "main_category": "Ye Zong Hui "
             },
             {
                 "name": "Miller's Cafe",
                 "link": "https://www.google.com/maps/search/Miller%27s+Caf%C3%A9/@46.0717669,18.2299728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 157,
+                "reviews": 158,
                 "rating": 3.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1412,7 +1440,7 @@
         "name": "Aranycipo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 438,
+        "reviews": 440,
         "competitors": [
             {
                 "name": "NoA Bakery and Cafe",
@@ -1424,7 +1452,7 @@
             {
                 "name": "Aranycipo - Pekbisztro",
                 "link": "https://www.google.com/maps/search/Aranycip%C3%B3+-+P%C3%A9kbisztr%C3%B3/@46.086396300000004,18.2589331?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 268,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1483,7 +1511,7 @@
             {
                 "name": "Aranycipo - Pekbisztro",
                 "link": "https://www.google.com/maps/search/Aranycip%C3%B3+-+P%C3%A9kbisztr%C3%B3/@46.086396300000004,18.2589331?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 268,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1545,12 +1573,12 @@
         "name": "Rokusch",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 426,
+        "reviews": 429,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1589,9 +1617,13 @@
             "Zao Wu Can Can Ting ",
             "Bo Bing Can Ting "
         ],
-        "rating": 4.8,
+        "rating": 4.7,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 604 6312",
         "address": "Pecs, Rokusch, Rokus u. 7, 7624 Xiong Ya Li ",
         "review_keywords": [
@@ -1623,12 +1655,12 @@
         "name": "Caflisch Confectionery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 399,
+        "reviews": 400,
         "competitors": [
             {
                 "name": "Truffle Cake Shop",
                 "link": "https://www.google.com/maps/search/Truffle+Cake+Shop/@46.0844252,18.2466026?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2176,
+                "reviews": 2180,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -1670,14 +1702,14 @@
             "Ru Luo Xue Gao Dian "
         ],
         "rating": 4.5,
-        "workday_timing": "10:00-21:00",
+        "workday_timing": "13:00-21:00",
         "closed_on": "Open All Days",
         "phone": "+36 70 773 5919",
         "address": "Pecs, Caflisch Confectionery, Kiraly u. 32, 7621 Xiong Ya Li ",
         "review_keywords": [
             {
-                "keyword": "Dan Gao ",
-                "count": 12
+                "keyword": "Ka Pei Ting ",
+                "count": 4
             }
         ],
         "link": "https://www.google.com/maps/place/Caflisch+Confectionery/data=!4m7!3m6!1s0x4742b1a0620c76df:0x962e6009662e6f50!8m2!3d46.0767644!4d18.2327117!16s%2Fg%2F1vyn2n9z!19sChIJ33YMYqCxQkcRUG8uZglgLpY?authuser=0&hl=zh-TW&rclk=1"
@@ -1692,7 +1724,7 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1742,20 +1774,20 @@
         "name": "PIZZERIA D&D CAPRICIOSA PECS",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 375,
+        "reviews": 376,
         "competitors": [
             {
                 "name": "Ciao Pizzeria es Ristorante",
                 "link": "https://www.google.com/maps/search/Ciao+Pizz%C3%A9ria+%C3%A9s+Ristorante/@46.066547799999995,18.231040099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1639,
+                "reviews": 1641,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Donkey Pizza",
                 "link": "https://www.google.com/maps/search/Donkey+Pizza/@46.072934599999996,18.22924?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
-                "rating": 3.5,
+                "reviews": 152,
+                "rating": 3.4,
                 "main_category": "Pi Sa Wai Song "
             },
             {
@@ -1768,8 +1800,8 @@
             {
                 "name": "Pizza King Express Pecs",
                 "link": "https://www.google.com/maps/search/Pizza+King+Express+P%C3%A9cs/@46.0833764,18.2697249?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 70,
-                "rating": 2.1,
+                "reviews": 71,
+                "rating": 2.2,
                 "main_category": "Can Ting "
             }
         ],
@@ -1800,27 +1832,27 @@
         "name": "Next Step Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 310,
+        "reviews": 312,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Purrfect Cat Cafe",
                 "link": "https://www.google.com/maps/search/Purrfect+Cat+Cafe/@46.0739732,18.2331534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 435,
-                "rating": 4.7,
+                "reviews": 437,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -1875,7 +1907,7 @@
             {
                 "name": "Aranycipo - Pekbisztro",
                 "link": "https://www.google.com/maps/search/Aranycip%C3%B3+-+P%C3%A9kbisztr%C3%B3/@46.086396300000004,18.2589331?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 268,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1945,7 +1977,7 @@
             {
                 "name": "Truffle Cake Shop",
                 "link": "https://www.google.com/maps/search/Truffle+Cake+Shop/@46.0844252,18.2466026?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2176,
+                "reviews": 2180,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -1959,7 +1991,7 @@
             {
                 "name": "Jokai Cukraszda",
                 "link": "https://www.google.com/maps/search/J%C3%B3kai+Cukr%C3%A1szda/@46.0754786,18.2274311?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
+                "reviews": 562,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -1995,7 +2027,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 72 750 427",
         "address": "Pecs, FREY CUKRASZDA, Hungaria u. 53/1, 7624 Xiong Ya Li ",
         "review_keywords": [],
@@ -2011,7 +2046,7 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2066,14 +2101,14 @@
             {
                 "name": "Cafe Frei Pecs",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+P%C3%A9cs/@46.0763909,18.2297513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2002,
+                "reviews": 2004,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2133,7 +2168,7 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2147,8 +2182,8 @@
             {
                 "name": "Purrfect Cat Cafe",
                 "link": "https://www.google.com/maps/search/Purrfect+Cat+Cafe/@46.0739732,18.2331534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 435,
-                "rating": 4.7,
+                "reviews": 437,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -2203,26 +2238,26 @@
         "name": "Starbucks Arkad Pecs",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 259,
+        "reviews": 261,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Frei Pecs ARKAD",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+P%C3%A9cs+%C3%81RK%C3%81D/@46.0718922,18.2321961?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
+                "reviews": 220,
                 "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Tchibo",
                 "link": "https://www.google.com/maps/search/Tchibo/@46.0721863,18.2321673?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
+                "reviews": 67,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             }
@@ -2241,7 +2276,10 @@
         ],
         "rating": 4.3,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 682 1976",
         "address": "Pecs, Starbucks Arkad Pecs, Bajcsy-Zsilinszky u. 11/1, 7622 Xiong Ya Li ",
         "review_keywords": [],
@@ -2290,7 +2328,7 @@
                 "main_category": "Tang Guo Gao Bing Dian "
             }
         ],
-        "website": "https://www.facebook.com/pages/P%25C3%25A9csi-Zserb%25C3%25B3-Cukr%25C3%25A1szda/134395580043408",
+        "website": "https://www.facebook.com/pages/P%C3%A9csi-Zserb%C3%B3-Cukr%C3%A1szda/134395580043408",
         "owner": {
             "id": null,
             "name": "Pecs Zserbo (Ye Zhu )",
@@ -2326,7 +2364,7 @@
             {
                 "name": "Jokai Cukraszda",
                 "link": "https://www.google.com/maps/search/J%C3%B3kai+Cukr%C3%A1szda/@46.0754786,18.2274311?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
+                "reviews": 562,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -2386,7 +2424,7 @@
             {
                 "name": "Jokai Cukraszda",
                 "link": "https://www.google.com/maps/search/J%C3%B3kai+Cukr%C3%A1szda/@46.0754786,18.2274311?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
+                "reviews": 562,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -2425,7 +2463,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 649 9786",
         "address": "Pecs, Vagamary Cukraszda Pecs, Hunyadi Janos u. 20, 7625 Xiong Ya Li ",
         "review_keywords": [],
@@ -2441,7 +2482,7 @@
             {
                 "name": "Caflisch Confectionery",
                 "link": "https://www.google.com/maps/search/Caflisch+Confectionery/@46.076764399999995,18.2327117?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 399,
+                "reviews": 400,
                 "rating": 4.5,
                 "main_category": "Xi Dian "
             },
@@ -2501,28 +2542,28 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Garden Cafe",
                 "link": "https://www.google.com/maps/search/Garden+Cafe/@46.064614399999996,18.19963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 391,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -2567,14 +2608,14 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2599,7 +2640,7 @@
             "name": "Caffe Grande Italia - Minden Ami Kave Kft. (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/115913384032916108074"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfjC5fHsCOBo6E_1wf-Dr-Dsr6H6TkAYcBisHo=w408-h516-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPN72x1Ld5RAvTrgtsJwTjNEHMJNXmpEv4cvSqU=w408-h544-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian ",
@@ -2616,6 +2657,9 @@
         "rating": 4.8,
         "workday_timing": "09:00-17:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -2629,26 +2673,26 @@
         "name": "1001 Ejszaka Kavezo es etterem II",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 114,
+        "reviews": 117,
         "competitors": [
             {
                 "name": "Reggeli",
                 "link": "https://www.google.com/maps/search/Reggeli/@46.076924299999995,18.2325526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1372,
+                "reviews": 1374,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Kiraly21 Beerhouse & Grill",
                 "link": "https://www.google.com/maps/search/Kir%C3%A1ly21+Beerhouse+%26+Grill/@46.0768585,18.2322511?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1307,
-                "rating": 4.4,
+                "reviews": 1308,
+                "rating": 4.5,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Zsaner Bisztro",
                 "link": "https://www.google.com/maps/search/Zsan%C3%A9r+Bisztr%C3%B3/@46.076622199999996,18.231649?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
+                "reviews": 538,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2695,14 +2739,14 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@46.071557299999995,18.2317455?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1003,
+                "reviews": 1004,
                 "rating": 4.2,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Aranycipo - Pekbisztro",
                 "link": "https://www.google.com/maps/search/Aranycip%C3%B3+-+P%C3%A9kbisztr%C3%B3/@46.086396300000004,18.2589331?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 268,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2716,8 +2760,8 @@
             {
                 "name": "Bistro",
                 "link": "https://www.google.com/maps/search/Bistro/@46.0718302,18.2317332?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 2.4,
+                "reviews": 19,
+                "rating": 2.3,
                 "main_category": "Kuai Can "
             },
             {
@@ -2760,14 +2804,14 @@
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Aranycipo - Pekbisztro",
                 "link": "https://www.google.com/maps/search/Aranycip%C3%B3+-+P%C3%A9kbisztr%C3%B3/@46.086396300000004,18.2589331?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 268,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2822,12 +2866,12 @@
         "name": "Tchibo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 66,
+        "reviews": 67,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2841,15 +2885,15 @@
             {
                 "name": "Cafe Frei Pecs ARKAD",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+P%C3%A9cs+%C3%81RK%C3%81D/@46.0718922,18.2321961?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
+                "reviews": 220,
                 "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bistro",
                 "link": "https://www.google.com/maps/search/Bistro/@46.0718302,18.2317332?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 2.4,
+                "reviews": 19,
+                "rating": 2.3,
                 "main_category": "Kuai Can "
             },
             {
@@ -2860,7 +2904,7 @@
                 "main_category": "Zhen Zhu Nai Cha "
             }
         ],
-        "website": "https://www.tchibo.hu/service/storefinder/store/100007216%3Futm_medium%3Dorganic%26utm_source%3Dgoogle%26utm_campaign%3Dbusiness_profile-filiale%26utm_content%3D100007216",
+        "website": "https://www.tchibo.hu/service/storefinder/store/100007216?utm_medium=organic&utm_source=google&utm_campaign=business_profile-filiale&utm_content=100007216",
         "owner": {
             "id": "117165360660927585812",
             "name": "Tchibo (Ye Zhu )",
@@ -2889,7 +2933,7 @@
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2903,8 +2947,8 @@
             {
                 "name": "Find Tea",
                 "link": "https://www.google.com/maps/search/Find+Tea/@46.0752962,18.2275526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.4,
+                "reviews": 55,
+                "rating": 4.5,
                 "main_category": "Cha Yi Guan "
             },
             {
@@ -2941,12 +2985,12 @@
         "name": "Aranycipo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 42,
+        "reviews": 43,
         "competitors": [
             {
                 "name": "Aranycipo - Pekbisztro",
                 "link": "https://www.google.com/maps/search/Aranycip%C3%B3+-+P%C3%A9kbisztr%C3%B3/@46.086396300000004,18.2589331?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 268,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3004,6 +3048,71 @@
         "link": "https://www.google.com/maps/place/Aranycip%C3%B3/data=!4m7!3m6!1s0x4742b18b551fadaf:0x5fdccaf7e994270!8m2!3d46.064736!4d18.1989022!16s%2Fg%2F11f263w9v5!19sChIJr60fVYuxQkcRcEKZfq_M_QU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJu-Z3ng2xQkcRxcv2W_KVB3E",
+        "name": "Gubi - Natur pekseg es elelmiszer",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "competitors": [
+            {
+                "name": "Europa Bakery",
+                "link": "https://www.google.com/maps/search/Eur%C3%B3pa+Bakery/@46.0742968,18.2291171?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 159,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Szafi Glutenmentes Bisztro, Pekseg es Shop - Pecs",
+                "link": "https://www.google.com/maps/search/Szafi+Glut%C3%A9nmentes+Bisztro%2C+P%C3%A9ks%C3%A9g+%C3%A9s+Shop+-+P%C3%A9cs/@46.076768799999996,18.2313561?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 58,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Budai Kapu Pekseg",
+                "link": "https://www.google.com/maps/search/Budai+Kapu+P%C3%A8ks%C3%A8g/@46.077354199999995,18.2349268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 48,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pecsi Pekinas Manufaktura Kft.",
+                "link": "https://www.google.com/maps/search/P%C3%A9csi+P%C3%A9kinas+Manufakt%C3%BAra+Kft./@46.0790481,18.260107?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 4,
+                "main_category": "Mian Bao Pi Fa Shang "
+            },
+            {
+                "name": "Bogadi Pek Kft.",
+                "link": "https://www.google.com/maps/search/Bog%C3%A1di+P%C3%A9k+Kft./@46.070393599999996,18.230432?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/gubibakery/",
+        "owner": {
+            "id": "111820769288863242155",
+            "name": "Gubi - Natur pekseg es elelmiszer (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111820769288863242155"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFTHRL25GsLEmeCxDzbAoAns43ITgKxab3JXI3=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-17:30",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 140 1051",
+        "address": "Pecs, Gubi - Natur pekseg es elelmiszer, Bajcsy-Zsilinszky u. 2, 7622 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gubi+-+Nat%C3%BAr+p%C3%A9ks%C3%A9g+%C3%A9s+%C3%A9lelmiszer/data=!4m7!3m6!1s0x4742b10d9e77e6bb:0x710795f25bf6cbc5!8m2!3d46.07207!4d18.2287803!16s%2Fg%2F11hzc9wtg0!19sChIJu-Z3ng2xQkcRxcv2W_KVB3E?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJfei93jSxQkcRc9wq4dk59-Q",
         "name": "Escargo Kave es Kakaobar",
         "description": null,
@@ -3034,12 +3143,12 @@
         "name": "Pascucci Caffe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 14,
+        "reviews": 16,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3053,7 +3162,7 @@
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3076,7 +3185,7 @@
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.7,
+        "rating": 4.8,
         "workday_timing": "10:00-18:00",
         "closed_on": "Open All Days",
         "phone": "+36 70 199 9999",
@@ -3101,7 +3210,7 @@
             {
                 "name": "Lufi es partykellekek boltja",
                 "link": "https://www.google.com/maps/search/Lufi+%C3%A9s+partykell%C3%A9kek+boltja/@46.0749193,18.2651781?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 186,
+                "reviews": 188,
                 "rating": 4.9,
                 "main_category": "Pai Dui Zhuang Shi Yong Pin Dian "
             },
@@ -3145,7 +3254,7 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3217,15 +3326,15 @@
             {
                 "name": "Tchibo",
                 "link": "https://www.google.com/maps/search/Tchibo/@46.0721863,18.2321673?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
+                "reviews": 67,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Find Tea",
                 "link": "https://www.google.com/maps/search/Find+Tea/@46.0752962,18.2275526?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.4,
+                "reviews": 55,
+                "rating": 4.5,
                 "main_category": "Cha Yi Guan "
             },
             {
@@ -3256,6 +3365,61 @@
         "link": "https://www.google.com/maps/place/OXO+Bubble+Tea/data=!4m7!3m6!1s0x4742b139a717064d:0x6bbf938868481dd1!8m2!3d46.0718922!4d18.2321961!16s%2Fg%2F11tfx36mc6!19sChIJTQYXpzmxQkcR0R1IaIiTv2s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJOdHg8d2xQkcRWqIrTMHLxn8",
+        "name": "CrackerJack Coffee Roasters",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Pecsi Kave",
+                "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 905,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Granary Cafe",
+                "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 475,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Rokusch",
+                "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 428,
+                "rating": 4.8,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Kisules Kavemuhely",
+                "link": "https://www.google.com/maps/search/Kis%C3%BCl%C3%A9s+K%C3%A1v%C3%A9m%C5%B1hely/@46.0754917,18.226047299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 258,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://crackerjack.hu/",
+        "owner": {
+            "id": "116260471944140778906",
+            "name": "CrackerJack Coffee Roasters (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116260471944140778906"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNjV0XVSXTkEK2PRDimRxGqoRg-wSIbRzWSPQB=w408-h612-k-no",
+        "main_category": "Ka Pei Pi Fa Shang ",
+        "categories": [
+            "Ka Pei Pi Fa Shang "
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 70 403 0080",
+        "address": "Pecs, CrackerJack Coffee Roasters, Zsolnay Vilmos u. 94, 7629 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CrackerJack+Coffee+Roasters/data=!4m7!3m6!1s0x4742b1ddf1e0d139:0x7fc6cbc14c2ba25a!8m2!3d46.0834803!4d18.2641995!16s%2Fg%2F11qm3ttlvj!19sChIJOdHg8d2xQkcRWqIrTMHLxn8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJYQGIg-2xQkcRweRfH6ZwJyM",
         "name": "Pascucci Caffe",
         "description": null,
@@ -3265,7 +3429,7 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3279,7 +3443,7 @@
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             }
@@ -3340,7 +3504,7 @@
             {
                 "name": "Garden Cafe",
                 "link": "https://www.google.com/maps/search/Garden+Cafe/@46.064614399999996,18.19963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 391,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -3398,7 +3562,7 @@
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -3455,14 +3619,14 @@
             {
                 "name": "Best Food Grill Pecs",
                 "link": "https://www.google.com/maps/search/Best+Food+Grill+P%C3%A9cs/@46.0758837,18.2280382?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 389,
+                "reviews": 392,
                 "rating": 3.8,
                 "main_category": "Tu Er Qi Cai "
             },
             {
                 "name": "Jam Doner & Grill",
                 "link": "https://www.google.com/maps/search/Jam+D%C3%B6ner+%26+Grill/@46.075606,18.2265095?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 371,
+                "reviews": 372,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -3476,7 +3640,7 @@
             {
                 "name": "Kalifa Gyros",
                 "link": "https://www.google.com/maps/search/Kalifa+Gyros/@46.0735246,18.2290348?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
+                "reviews": 61,
                 "rating": 4.8,
                 "main_category": "Kuai Can "
             },
@@ -3532,7 +3696,7 @@
             {
                 "name": "Caflisch Confectionery",
                 "link": "https://www.google.com/maps/search/Caflisch+Confectionery/@46.076764399999995,18.2327117?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 399,
+                "reviews": 400,
                 "rating": 4.5,
                 "main_category": "Xi Dian "
             },
@@ -3597,14 +3761,14 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3625,8 +3789,8 @@
             {
                 "name": "Pascucci Caffe",
                 "link": "https://www.google.com/maps/search/Pascucci+Caffe/@46.0687028,18.2180605?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 4.7,
+                "reviews": 16,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
         ],
@@ -3650,16 +3814,53 @@
         "link": "https://www.google.com/maps/place/Mozaiq+Cafe/data=!4m7!3m6!1s0x4742b196cf90eac3:0x546359afe8e82542!8m2!3d46.0733197!4d18.2136957!16s%2Fg%2F11bwywh04f!19sChIJw-qQz5axQkcRQiXo6K9ZY1Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJgfakkJixQkcRajmiu_pay9g",
+        "name": "Bunos Elvezetek Kicsiny Boltja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 455,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "102978136741604080451",
+            "name": "Bunos Elvezetek Kicsiny Boltja (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102978136741604080451"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQEpRd8-W_bCe3fEtsqidi2ivS_H6k-i_Bqoju=w408-h306-k-no",
+        "main_category": "Jiu Pin Dian ",
+        "categories": [
+            "Jiu Pin Dian ",
+            "Pi Jiu Zhuan Mai Dian ",
+            "Ka Pei Ting ",
+            "Xue Qie Dian ",
+            "Ka Pei Dian ",
+            "Shui Yan Dian ",
+            "Wu Jiu Jing Yin Liao Dian ",
+            "Yan Cao Dian ",
+            "Dian Zi Yan Zhuan Men Dian ",
+            "Jiu Pin Zhuan Mai Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 980 1111",
+        "address": "Pecs, Bunos Elvezetek Kicsiny Boltja, Ferencesek utcaja 38, 7624 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/B%C5%B1n%C3%B6s+%C3%89lvezetek+Kicsiny+Boltja/data=!4m7!3m6!1s0x4742b19890a4f681:0xd8cb5afabba2396a!8m2!3d46.0754088!4d18.2241253!16s%2Fg%2F11bxfzt9ng!19sChIJgfakkJixQkcRajmiu_pay9g?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJL6R86BOxQkcRBnVS3E-mhgk",
         "name": "Purrfect Cat Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 437,
+        "reviews": 438,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3680,7 +3881,7 @@
             {
                 "name": "Miller's Cafe",
                 "link": "https://www.google.com/maps/search/Miller%27s+Caf%C3%A9/@46.0717669,18.2299728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 157,
+                "reviews": 158,
                 "rating": 3.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -3722,28 +3923,28 @@
             {
                 "name": "Cafe Frei Pecs",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+P%C3%A9cs/@46.0763909,18.2297513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2002,
+                "reviews": 2004,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Purrfect Cat Cafe",
                 "link": "https://www.google.com/maps/search/Purrfect+Cat+Cafe/@46.0739732,18.2331534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 435,
-                "rating": 4.7,
+                "reviews": 437,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3784,15 +3985,15 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Purrfect Cat Cafe",
                 "link": "https://www.google.com/maps/search/Purrfect+Cat+Cafe/@46.0739732,18.2331534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 435,
-                "rating": 4.7,
+                "reviews": 437,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3845,19 +4046,19 @@
         "name": "Cafe Frei Pecs ARKAD",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 219,
+        "reviews": 220,
         "competitors": [
             {
                 "name": "Cafe Frei Pecs",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+P%C3%A9cs/@46.0763909,18.2297513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2002,
+                "reviews": 2004,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3896,37 +4097,101 @@
         "link": "https://www.google.com/maps/place/Cafe+Frei+P%C3%A9cs+%C3%81RK%C3%81D/data=!4m7!3m6!1s0x4742b1e62e061cf3:0x3601e8101ff1330d!8m2!3d46.0718922!4d18.2321961!16s%2Fg%2F11fmp__f79!19sChIJ8xwGLuaxQkcRDTPxHxDoATY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJUUl1dp-xQkcR-Q8ThUNBBkg",
+        "name": "Europa Bakery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 159,
+        "competitors": [
+            {
+                "name": "Hungaria Pekseg",
+                "link": "https://www.google.com/maps/search/Hung%C3%A1ria+P%C3%A9ks%C3%A9g/@46.0748585,18.2208132?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 151,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Europa Pekseg",
+                "link": "https://www.google.com/maps/search/Eur%C3%B3pa+P%C3%A9ks%C3%A9g/@46.0774507,18.2354137?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 106,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pekseg",
+                "link": "https://www.google.com/maps/search/P%C3%A9ks%C3%A9g/@46.0793333,18.2479406?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 3.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kiraly Pekseg",
+                "link": "https://www.google.com/maps/search/Kir%C3%A1ly+P%C3%A9ks%C3%A9g/@46.077354199999995,18.2349268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kovacs Pekseg",
+                "link": "https://www.google.com/maps/search/Kov%C3%A1cs+P%C3%A9ks%C3%A9g/@46.0734667,18.2269728?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Europa Bakery (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxRS-pBiTlAvXmgWgUz-ww8GqDoAhGfxsUY51y=w408-h544-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-20:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Pecs, Europa Bakery, Irgalmasok utcaja 3, 7621 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Eur%C3%B3pa+Bakery/data=!4m7!3m6!1s0x4742b19f76754951:0x4806414385130ff9!8m2!3d46.0742968!4d18.2291171!16s%2Fg%2F11bxf5y9s7!19sChIJUUl1dp-xQkcR-Q8ThUNBBkg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJlQhSOp6xQkcROShWyLxypnU",
         "name": "Miller's Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 157,
+        "reviews": 158,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Purrfect Cat Cafe",
                 "link": "https://www.google.com/maps/search/Purrfect+Cat+Cafe/@46.0739732,18.2331534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 435,
-                "rating": 4.7,
+                "reviews": 437,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Frei Pecs ARKAD",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+P%C3%A9cs+%C3%81RK%C3%81D/@46.0718922,18.2321961?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
+                "reviews": 220,
                 "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -3960,14 +4225,14 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Cafe",
                 "link": "https://www.google.com/maps/search/Granary+Caf%C3%A9/@46.078806,18.2225945?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 475,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4000,7 +4265,12 @@
         ],
         "rating": 4.8,
         "workday_timing": "11:00-02:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Pecs, Partisan, Szechenyi ter 15, 7621 Xiong Ya Li ",
         "review_keywords": [],
@@ -4023,7 +4293,7 @@
             {
                 "name": "Eleven vinoteka & bar",
                 "link": "https://www.google.com/maps/search/Eleven+vinot%C3%A9ka+%26+b%C3%A1r/@46.0756881,18.2281142?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 298,
+                "reviews": 299,
                 "rating": 4.8,
                 "main_category": "Jiu Ba "
             },
@@ -4069,6 +4339,70 @@
         "link": "https://www.google.com/maps/place/Le+Gourmet+Whisky,+Rum,+Cognac,+Gin,..../data=!4m7!3m6!1s0x4742b1a1c7e9684f:0xee726a76c664e2aa!8m2!3d46.0734738!4d18.2317567!16s%2Fg%2F11c58sc3kd!19sChIJT2jpx6GxQkcRquJkxnZqcu4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJWyPicAqxQkcRfBtVHCq4rA8",
+        "name": "Europa Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 106,
+        "competitors": [
+            {
+                "name": "Europa Bakery",
+                "link": "https://www.google.com/maps/search/Eur%C3%B3pa+Bakery/@46.0742968,18.2291171?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 159,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Hungaria Pekseg",
+                "link": "https://www.google.com/maps/search/Hung%C3%A1ria+P%C3%A9ks%C3%A9g/@46.0748585,18.2208132?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 151,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pekseg",
+                "link": "https://www.google.com/maps/search/P%C3%A9ks%C3%A9g/@46.0793333,18.2479406?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 3.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kiraly Pekseg",
+                "link": "https://www.google.com/maps/search/Kir%C3%A1ly+P%C3%A9ks%C3%A9g/@46.077354199999995,18.2349268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kovacs Pekseg",
+                "link": "https://www.google.com/maps/search/Kov%C3%A1cs+P%C3%A9ks%C3%A9g/@46.0734667,18.2269728?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Europa Pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVy5I7hSNEydVGc6EZVy47r56nlpJ8AqK3CNQU=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Pecs, Europa Pekseg, Kiraly u. 53, 7621 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Eur%C3%B3pa+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4742b10a70e2235b:0xfacb82a1c551b7c!8m2!3d46.0774507!4d18.2354137!16s%2Fg%2F11bxgm8gwz!19sChIJWyPicAqxQkcRfBtVHCq4rA8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJf1ZudJSxQkcRupNKLmaseJo",
         "name": "Vaci Presszo",
         "description": null,
@@ -4078,14 +4412,14 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4142,14 +4476,14 @@
             {
                 "name": "Cafe Frei Pecs",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+P%C3%A9cs/@46.0763909,18.2297513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2002,
+                "reviews": 2004,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Rokusch",
                 "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 428,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4190,16 +4524,80 @@
         "link": "https://www.google.com/maps/place/La+Fonte/data=!4m7!3m6!1s0x4742b159a7398a41:0x1d395ce6a7742ec1!8m2!3d46.0753787!4d18.228852!16s%2Fg%2F11sgg2dqlc!19sChIJQYo5p1mxQkcRwS50p-ZcOR0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJJUwRwnWxQkcRBmycXfxtyK8",
+        "name": "Europa Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 64,
+        "competitors": [
+            {
+                "name": "Europa Bakery",
+                "link": "https://www.google.com/maps/search/Eur%C3%B3pa+Bakery/@46.0742968,18.2291171?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 159,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Hungaria Pekseg",
+                "link": "https://www.google.com/maps/search/Hung%C3%A1ria+P%C3%A9ks%C3%A9g/@46.0748585,18.2208132?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 151,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pekseg",
+                "link": "https://www.google.com/maps/search/P%C3%A9ks%C3%A9g/@46.0793333,18.2479406?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 3.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kiraly Pekseg",
+                "link": "https://www.google.com/maps/search/Kir%C3%A1ly+P%C3%A9ks%C3%A9g/@46.077354199999995,18.2349268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kovacs Pekseg",
+                "link": "https://www.google.com/maps/search/Kov%C3%A1cs+P%C3%A9ks%C3%A9g/@46.0734667,18.2269728?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Europa Pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrFXbLUvX0ysB8K2CX-VPC0VlK99Z8nZ5ZBdDk=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Pecs, Europa Pekseg, Nagy Lajos kiraly utja 20, 7622 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Eur%C3%B3pa+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4742b175c2114c25:0xafc86dfc5d9c6c06!8m2!3d46.0709415!4d18.2275081!16s%2Fg%2F11bx1yzb1z!19sChIJJUwRwnWxQkcRBmycXfxtyK8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJC23rIS6xQkcRGaHHOPlI4mo",
         "name": "Find Tea",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 54,
+        "reviews": 55,
         "competitors": [
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -4236,12 +4634,20 @@
         "categories": [
             "Cha Yi Guan "
         ],
-        "rating": 4.4,
+        "rating": 4.5,
         "workday_timing": "11:30-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 860 9139",
         "address": "Pecs, Find Tea, Jokai ter 7, 7621 Xiong Ya Li ",
-        "review_keywords": [],
+        "review_keywords": [
+            {
+                "keyword": "Qi Si ",
+                "count": 3
+            }
+        ],
         "link": "https://www.google.com/maps/place/Find+Tea/data=!4m7!3m6!1s0x4742b12e21eb6d0b:0x6ae248f938c7a119!8m2!3d46.0752962!4d18.2275526!16s%2Fg%2F11nxs_fr1b!19sChIJC23rIS6xQkcRGaHHOPlI4mo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
@@ -4328,7 +4734,7 @@
             {
                 "name": "1001 Ejszaka Kavezo es etterem II",
                 "link": "https://www.google.com/maps/search/1001+%C3%89jszaka+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+%C3%A9tterem+II/@46.0768415,18.2330728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 114,
+                "reviews": 116,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4447,14 +4853,14 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zsaner Bisztro",
                 "link": "https://www.google.com/maps/search/Zsan%C3%A9r+Bisztr%C3%B3/@46.076622199999996,18.231649?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
+                "reviews": 538,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4626,7 +5032,7 @@
             {
                 "name": "Garden Cafe",
                 "link": "https://www.google.com/maps/search/Garden+Cafe/@46.064614399999996,18.19963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 391,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -4640,7 +5046,7 @@
             {
                 "name": "Aranycipo",
                 "link": "https://www.google.com/maps/search/Aranycip%C3%B3/@46.064735999999996,18.1989022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 42,
+                "reviews": 43,
                 "rating": 3.9,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4711,7 +5117,7 @@
         "name": "Bubble Land",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 17,
+        "reviews": 18,
         "competitors": [],
         "website": null,
         "owner": {
@@ -4733,7 +5139,7 @@
         "review_keywords": [
             {
                 "keyword": "Song Bing ",
-                "count": 3
+                "count": 4
             }
         ],
         "link": "https://www.google.com/maps/place/Bubble+Land/data=!4m7!3m6!1s0x4742b1dd09c89d3b:0x8bc178b8b8578842!8m2!3d46.0772576!4d18.2350137!16s%2Fg%2F11svrr4x3h!19sChIJO53ICd2xQkcRQohXuLh4wYs?authuser=0&hl=zh-TW&rclk=1"
@@ -4748,21 +5154,21 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zsaner Bisztro",
                 "link": "https://www.google.com/maps/search/Zsan%C3%A9r+Bisztr%C3%B3/@46.076622199999996,18.231649?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
+                "reviews": 538,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Garden Cafe",
                 "link": "https://www.google.com/maps/search/Garden+Cafe/@46.064614399999996,18.19963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 391,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -4788,12 +5194,76 @@
         "rating": 4.6,
         "workday_timing": "09:00-21:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 70 550 3831",
         "address": "Pecs, Tuzes kavezo, Suranyi Miklos ut 21, 7625 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/T%C3%BCzes+k%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4742b1e21bbcb08d:0x6ca4a9dbb4feb97e!8m2!3d46.0838571!4d18.2234997!16s%2Fg%2F11h0yjnq_t!19sChIJjbC8G-KxQkcRfrn-tNuppGw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJnfJzVIuxQkcR9s10HjJO76A",
+        "name": "Delicates",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [
+            {
+                "name": "Nyuszi Delikatesz",
+                "link": "https://www.google.com/maps/search/Nyuszi+Delik%C3%A1tesz/@46.075773899999994,18.2302237?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.9,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Lipoti Pekseg",
+                "link": "https://www.google.com/maps/search/Lip%C3%B2ti+P%C3%A8ks%C3%A8g/@46.0667477,18.1971223?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Delikat City",
+                "link": "https://www.google.com/maps/search/Delik%C3%A1t+City/@46.0388912,18.2229997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 3.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Zoldseges",
+                "link": "https://www.google.com/maps/search/Z%C3%B6lds%C3%A9ges/@46.0675071,18.188527099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "OkoStir",
+                "link": "https://www.google.com/maps/search/%C3%96koStir/@46.0814587,18.281166?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Delicates (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPX47hgn1Yuvwo8gtYjtCvnzxqFAJs4KjOo0rhd=w408-h271-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Pecs, Delicates, Ybl Miklos u. 7, 7633 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Delicates/data=!4m7!3m6!1s0x4742b18b5473f29d:0xa0ef4e321e74cdf6!8m2!3d46.0650328!4d18.1988528!16s%2Fg%2F11c1ngb7r9!19sChIJnfJzVIuxQkcR9s10HjJO76A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJUy6sx6GxQkcRB6C1mIfiCLU",
@@ -4805,14 +5275,14 @@
             {
                 "name": "Cafe Frei Pecs",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+P%C3%A9cs/@46.0763909,18.2297513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2002,
+                "reviews": 2004,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -4860,7 +5330,7 @@
             {
                 "name": "Slyven Rendezvenykozpont",
                 "link": "https://www.google.com/maps/search/Slyven+Rendezv%C3%A9nyk%C3%B6zpont/@46.0729854,18.2130209?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 287,
+                "reviews": 288,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -4980,7 +5450,7 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -4994,7 +5464,7 @@
             {
                 "name": "Cafe Frei Pecs ARKAD",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+P%C3%A9cs+%C3%81RK%C3%81D/@46.0718922,18.2321961?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
+                "reviews": 220,
                 "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -5038,7 +5508,7 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -5091,6 +5561,34 @@
         "address": "Pecs, Kavezz On, Zolyom u. 4, 7622 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9zz+On/data=!4m7!3m6!1s0x4742b13f2f3abc21:0x2057669a576e94b8!8m2!3d46.0697301!4d18.2316831!16s%2Fg%2F11sk5z8jk6!19sChIJIbw6Lz-xQkcRuJRuV5pmVyA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJzzgZCZmxQkcRFQwZfZ6soh0",
+        "name": "Pvsk v11 Bufe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pvsk v11 Bufe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N7UyJbV6Nn8MxePgKmsX9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.69402&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-20:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Pecs, Pvsk v11 Bufe, Verseny u. 11-13, 7622 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pvsk+v11+B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x4742b199091938cf:0x1da2ac9e7d190c15!8m2!3d46.0651602!4d18.2245397!16s%2Fg%2F11vc51kzfd!19sChIJzzgZCZmxQkcRFQwZfZ6soh0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJHyVab76xQkcRrWpWKI9guag",
@@ -5153,34 +5651,6 @@
         "address": "Pecs, Cae Bt., Damjanich u. 43, 7624 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Cae+Bt./data=!4m7!3m6!1s0x4742b1be6f5a251f:0xa8b9608f28566aad!8m2!3d46.079528!4d18.2138921!16s%2Fg%2F1hhwdc3kz!19sChIJHyVab76xQkcRrWpWKI9guag?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJzzgZCZmxQkcRFQwZfZ6soh0",
-        "name": "Pvsk v11 Bufe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Pvsk v11 Bufe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N7UyJbV6Nn8MxePgKmsX9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.69402&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-20:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Pecs, Pvsk v11 Bufe, Verseny u. 11-13, 7622 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Pvsk+v11+B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x4742b199091938cf:0x1da2ac9e7d190c15!8m2!3d46.0651602!4d18.2245397!16s%2Fg%2F11vc51kzfd!19sChIJzzgZCZmxQkcRFQwZfZ6soh0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJvZIWVKWxQkcRGbyb1vMeRgs",
@@ -5301,6 +5771,61 @@
         "link": "https://www.google.com/maps/place/Liget+Kult%C3%BArbisztr%C3%B3/data=!4m7!3m6!1s0x4742b19993c39cb7:0x58d876a051df9cf8!8m2!3d46.0754468!4d18.2423561!16s%2Fg%2F11stgftg70!19sChIJt5zDk5mxQkcR-JzfUaB22Fg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ64yhbp-xQkcREKlMYPxaMxs",
+        "name": "Kopi - Tech Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Pecsi Kave",
+                "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 905,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Rokusch",
+                "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 428,
+                "rating": 4.8,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Starbucks Arkad Pecs",
+                "link": "https://www.google.com/maps/search/Starbucks+%C3%81rk%C3%A1d+P%C3%A9cs/@46.071573699999995,18.2315485?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 259,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Partisan",
+                "link": "https://www.google.com/maps/search/Partisan/@46.076828,18.228492?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 156,
+                "rating": 4.8,
+                "main_category": "Ji Wei Jiu Jiu Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kopi - Tech Kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 72 336 615",
+        "address": "Pecs, Kopi - Tech Kft., Terez u. 6, 7693 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kopi+-+Tech+Kft./data=!4m7!3m6!1s0x4742b19f6ea18ceb:0x1b335afc604ca910!8m2!3d46.0744794!4d18.2281968!16s%2Fg%2F11cn8t5y9f!19sChIJ64yhbp-xQkcREKlMYPxaMxs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJMWX554SxQkcRzu6TGhrN_0M",
         "name": "Perfetto",
         "description": null,
@@ -5310,7 +5835,7 @@
             {
                 "name": "Pecsi Kave",
                 "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
+                "reviews": 905,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -5324,8 +5849,8 @@
             {
                 "name": "Purrfect Cat Cafe",
                 "link": "https://www.google.com/maps/search/Purrfect+Cat+Cafe/@46.0739732,18.2331534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 435,
-                "rating": 4.7,
+                "reviews": 437,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -5471,60 +5996,5 @@
         "address": "Pecs, MAHANNA KFT, Kacsoh Pongrac u. 1, 7624 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/MAHANNA+KFT/data=!4m7!3m6!1s0x4742b1effd1aad6d:0xb540e436b7e964a7!8m2!3d46.0791216!4d18.2194604!16s%2Fg%2F11m27ny5z3!19sChIJba0a_e-xQkcRp2TptzbkQLU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ64yhbp-xQkcREKlMYPxaMxs",
-        "name": "Kopi - Tech Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Pecsi Kave",
-                "link": "https://www.google.com/maps/search/P%C3%A9csi+K%C3%A1v%C3%A9/@46.074732999999995,18.228576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Rokusch",
-                "link": "https://www.google.com/maps/search/Rokusch/@46.075364699999994,18.210949199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
-                "rating": 4.8,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Starbucks Arkad Pecs",
-                "link": "https://www.google.com/maps/search/Starbucks+%C3%81rk%C3%A1d+P%C3%A9cs/@46.071573699999995,18.2315485?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 259,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Partisan",
-                "link": "https://www.google.com/maps/search/Partisan/@46.076828,18.228492?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 156,
-                "rating": 4.8,
-                "main_category": "Ji Wei Jiu Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Kopi - Tech Kft. (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 72 336 615",
-        "address": "Pecs, Kopi - Tech Kft., Terez u. 6, 7693 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Kopi+-+Tech+Kft./data=!4m7!3m6!1s0x4742b19f6ea18ceb:0x1b335afc604ca910!8m2!3d46.0744794!4d18.2281968!16s%2Fg%2F11cn8t5y9f!19sChIJ64yhbp-xQkcREKlMYPxaMxs?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

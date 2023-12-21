@@ -4,7 +4,7 @@
         "name": "Macy's",
         "description": "Lian Suo Bai Huo Gong Si ,Fan Shou Ge Zhong Pin Pai Fu Shi , Pei Jian , Jia Ju Yu Jia Ju Yong Pin . ",
         "is_spending_on_ads": false,
-        "reviews": 3005,
+        "reviews": 3011,
         "competitors": [
             {
                 "name": "Ross Dress for Less",
@@ -55,7 +55,9 @@
         ],
         "rating": 4.1,
         "workday_timing": "09:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 671-637-9416",
         "address": "Macy's, 1088 W Marine Corps Dr Ste 100, Dededo, 96929Guan Dao ",
         "review_keywords": [
@@ -88,7 +90,7 @@
             {
                 "name": "Jollibee",
                 "link": "https://www.google.com/maps/search/Jollibee/@13.5208709,144.8160394?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 786,
+                "reviews": 787,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
@@ -102,7 +104,7 @@
             {
                 "name": "Wendy's Dededo",
                 "link": "https://www.google.com/maps/search/Wendy%27s+Dededo/@13.520313699999999,144.8144911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 689,
+                "reviews": 690,
                 "rating": 4.1,
                 "main_category": "Kuai Can "
             },
@@ -116,7 +118,7 @@
             {
                 "name": "Burger King Tumon",
                 "link": "https://www.google.com/maps/search/Burger+King+Tumon/@13.5091336,144.8047106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 277,
+                "reviews": 278,
                 "rating": 4,
                 "main_category": "Kuai Can "
             }
@@ -145,7 +147,7 @@
         "review_keywords": [
             {
                 "keyword": "De Lai Su ",
-                "count": 54
+                "count": 55
             },
             {
                 "keyword": "Zao Can ",
@@ -164,6 +166,10 @@
                 "count": 7
             },
             {
+                "keyword": "Bing Qi Lin ",
+                "count": 7
+            },
+            {
                 "keyword": "Suan Huang Gua ",
                 "count": 5
             },
@@ -179,7 +185,7 @@
         "name": "Pay-Less Supermarkets",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 796,
+        "reviews": 797,
         "competitors": [
             {
                 "name": "Cost.U.Less",
@@ -466,33 +472,33 @@
         "name": "Little Pika's",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 692,
+        "reviews": 694,
         "competitors": [
             {
                 "name": "Eggs 'n Things",
                 "link": "https://www.google.com/maps/search/Eggs+%E2%80%98n+Things/@13.5159519,144.8070328?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1659,
+                "reviews": 1661,
                 "rating": 4,
                 "main_category": "Jian Bing "
             },
             {
                 "name": "Pika's Cafe",
                 "link": "https://www.google.com/maps/search/Pika%27s+Cafe/@13.507595900000002,144.81030189999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1338,
+                "reviews": 1339,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "The Kracked Egg",
                 "link": "https://www.google.com/maps/search/The+Kracked+Egg/@13.5098097,144.8049572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1005,
+                "reviews": 1006,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Cafe Kitchen",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Kitchen/@13.512934,144.804664?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 210,
+                "reviews": 211,
                 "rating": 4.3,
                 "main_category": "He Jia Jie Yi Liao Li "
             },
@@ -566,7 +572,7 @@
             {
                 "name": "Wendy's Barrigada",
                 "link": "https://www.google.com/maps/search/Wendy%27s+Barrigada/@13.463913199999999,144.80173259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 645,
+                "reviews": 646,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
@@ -770,14 +776,14 @@
             {
                 "name": "Jollibee",
                 "link": "https://www.google.com/maps/search/Jollibee/@13.5208709,144.8160394?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 786,
+                "reviews": 787,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Wendy's Dededo",
                 "link": "https://www.google.com/maps/search/Wendy%27s+Dededo/@13.520313699999999,144.8144911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 689,
+                "reviews": 690,
                 "rating": 4.1,
                 "main_category": "Kuai Can "
             },
@@ -1124,11 +1130,11 @@
                 "count": 5
             },
             {
-                "keyword": "Zao Shang ",
+                "keyword": "Zuo ",
                 "count": 4
             },
             {
-                "keyword": "Zuo ",
+                "keyword": "Zao Shang ",
                 "count": 4
             },
             {
@@ -1233,10 +1239,6 @@
             {
                 "keyword": "Jiao Tang ",
                 "count": 3
-            },
-            {
-                "keyword": "Nai You ",
-                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/CINNABON/data=!4m7!3m6!1s0x671f82581e99c78b:0xed2758d906f00527!8m2!3d13.5210528!4d144.8179106!16s%2Fg%2F11b5pk4ds_!19sChIJi8eZHliCH2cRJwXwBtlYJ-0?authuser=0&hl=zh-TW&rclk=1"
@@ -1272,7 +1274,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1349,7 +1351,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1395,8 +1397,8 @@
             {
                 "name": "Snow Monster",
                 "link": "https://www.google.com/maps/search/Snow+Monster/@13.509428,144.8048248?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 3.9,
+                "reviews": 148,
+                "rating": 3.8,
                 "main_category": "Bing Qi Lin "
             },
             {
@@ -1428,7 +1430,7 @@
                 "main_category": "Bing Qi Lin "
             }
         ],
-        "website": "https://www.coldstonecreamery.com/stores/20867%3Futm_source%3Dgmb%26utm_medium%3Dgmb%26utm_campaign%3Dgmb%26utm_id%3Dgmb",
+        "website": "https://www.coldstonecreamery.com/stores/20867?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
         "owner": {
             "id": "116830711815885052263",
             "name": "Cold Stone Creamery (Ye Zhu )",
@@ -1527,10 +1529,6 @@
                 "count": 15
             },
             {
-                "keyword": "Yin Liao ",
-                "count": 9
-            },
-            {
                 "keyword": "Cao Mei ",
                 "count": 9
             },
@@ -1561,6 +1559,10 @@
             {
                 "keyword": "Jia Ge ",
                 "count": 5
+            },
+            {
+                "keyword": "Xiang Jiao ",
+                "count": 4
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Mayflour/data=!4m7!3m6!1s0x671f832be886a62b:0xe3a159ac72c8e795!8m2!3d13.5098899!4d144.8117943!16s%2Fg%2F11h193435d!19sChIJK6aG6CuDH2cRlefIcqxZoeM?authuser=0&hl=zh-TW&rclk=1"
@@ -1634,7 +1636,7 @@
         "name": "Infusion Camacho Landmark Center",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 105,
+        "reviews": 106,
         "competitors": [
             {
                 "name": "Infusion Coffee & Tea",
@@ -1829,7 +1831,7 @@
             },
             {
                 "keyword": "Yin Le ",
-                "count": 5
+                "count": 6
             },
             {
                 "keyword": "Na Tie ",
@@ -1840,15 +1842,11 @@
                 "count": 4
             },
             {
-                "keyword": "Mo Cha ",
-                "count": 4
-            },
-            {
-                "keyword": "Tian Dian ",
+                "keyword": "atmosphere",
                 "count": 3
             },
             {
-                "keyword": "Jia Ge ",
+                "keyword": "Mo Qia ",
                 "count": 3
             }
         ],
@@ -2211,7 +2209,7 @@
         "name": "Coffee Beanery - Fountain Plaza",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 60,
+        "reviews": 61,
         "competitors": [
             {
                 "name": "Cafe Gudcha",
@@ -2237,7 +2235,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -2374,7 +2372,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -2486,7 +2484,7 @@
             {
                 "name": "KFC Tamuning",
                 "link": "https://www.google.com/maps/search/KFC+Tamuning/@13.491569799999999,144.7835591?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 385,
+                "reviews": 386,
                 "rating": 3.8,
                 "main_category": "Ji Rou "
             },
@@ -2507,7 +2505,7 @@
             {
                 "name": "K - Chicken",
                 "link": "https://www.google.com/maps/search/K+-+Chicken/@13.508234,144.8101654?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
+                "reviews": 61,
                 "rating": 4.4,
                 "main_category": "Kao Ji Su Shi Dian "
             },
@@ -2567,12 +2565,12 @@
         "name": "Black Cat Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 39,
+        "reviews": 40,
         "competitors": [
             {
                 "name": "TuRe' Cafe",
                 "link": "https://www.google.com/maps/search/TuRe%E2%80%99+Caf%C3%A9/@13.4780654,144.7612659?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 616,
+                "reviews": 617,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -2647,15 +2645,15 @@
             {
                 "name": "Hafaloha",
                 "link": "https://www.google.com/maps/search/Hafaloha/@13.5084549,144.802372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 156,
+                "reviews": 157,
                 "rating": 4.4,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Snow Monster",
                 "link": "https://www.google.com/maps/search/Snow+Monster/@13.509428,144.8048248?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 3.9,
+                "reviews": 148,
+                "rating": 3.8,
                 "main_category": "Bing Qi Lin "
             },
             {
@@ -2668,12 +2666,12 @@
             {
                 "name": "Shave Ice Stand",
                 "link": "https://www.google.com/maps/search/Shave+Ice+Stand/@13.515630499999999,144.80607229999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
+                "reviews": 1,
+                "rating": 5,
                 "main_category": "Tian Pin Dian "
             }
         ],
-        "website": "https://www.instagram.com/iceunaguam/%3Fhl%3Den",
+        "website": "https://www.instagram.com/iceunaguam/?hl=en",
         "owner": {
             "id": "103939666977392565028",
             "name": "Ice Una Guam (Ye Zhu )",
@@ -2734,7 +2732,7 @@
             {
                 "name": "Slingstone Coffee+Tea",
                 "link": "https://www.google.com/maps/search/Slingstone+Coffee%2BTea/@13.4778173,144.73067039999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 69,
+                "reviews": 70,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2899,164 +2897,6 @@
         "address": "iMart, NCS Plaza, 526 3, Dededo, Guan Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/iMart/data=!4m7!3m6!1s0x671f8332c580e2eb:0xb6e05cf5958255f3!8m2!3d13.5343878!4d144.8284651!16s%2Fg%2F11p5j_zn9r!19sChIJ6-KAxTKDH2cR81WClfVc4LY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJuYM7lcuDH2cRnbdL3zlvzCo",
-        "name": "Frances Bakehouse",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 28,
-        "competitors": [
-            {
-                "name": "New Fresh Bread Bakery",
-                "link": "https://www.google.com/maps/search/New+Fresh+Bread+Bakery/@13.5157451,144.8436912?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Guam Bakery",
-                "link": "https://www.google.com/maps/search/Guam+Bakery/@13.513997799999999,144.8355312?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 47,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "New Fresh Bread Bakeshop",
-                "link": "https://www.google.com/maps/search/New+Fresh+Bread+Bakeshop/@13.526774399999999,144.8837352?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Manny's Bakeshop",
-                "link": "https://www.google.com/maps/search/Manny%27s+Bakeshop/@13.488280099999999,144.785885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Baker of Barrigada",
-                "link": "https://www.google.com/maps/search/Baker+of+Barrigada/@13.4893773,144.8242842?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "https://francesbakehouse.com/",
-        "owner": {
-            "id": "113849128957452334200",
-            "name": "Frances Bakehouse (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113849128957452334200"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMYMZQ27X6fP_jTRz5fOSIKSBmUUAip5y6X1vrA=w408-h544-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian ",
-            "Can Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": "10:00-14:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San "
-        ],
-        "phone": null,
-        "address": "Frances Bakehouse, 127 Gun Beach Rd Unit 103, Tamuning, 96913Guan Dao ",
-        "review_keywords": [
-            {
-                "keyword": "Bei Guo ",
-                "count": 11
-            },
-            {
-                "keyword": "Ke Song ",
-                "count": 11
-            },
-            {
-                "keyword": "Bing Gan ",
-                "count": 8
-            },
-            {
-                "keyword": "Dao ",
-                "count": 5
-            },
-            {
-                "keyword": "Ju Kao ",
-                "count": 4
-            },
-            {
-                "keyword": "Nai You Qi Si ",
-                "count": 3
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Frances+Bakehouse/data=!4m7!3m6!1s0x671f83cb953b83b9:0x2acc6f39df4bb79d!8m2!3d13.5184378!4d144.8074191!16s%2Fg%2F11k9fpk246!19sChIJuYM7lcuDH2cRnbdL3zlvzCo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ8aI9MHJ4H2cRx0LV7yaBO4U",
-        "name": "Infusion Coffee & Tea (Oka Payless)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 26,
-        "competitors": [
-            {
-                "name": "Infusion Coffee & Tea Guam - Tamuning (Near Docomo)",
-                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea+Guam+-+Tamuning+%28Near+Docomo%29/@13.484233999999999,144.775566?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 520,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Infusion Coffee & Tea",
-                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea/@13.511970499999999,144.8103042?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 265,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Infusion Coffee and Tea (Sumay)",
-                "link": "https://www.google.com/maps/search/Infusion+Coffee+and+Tea+%28Sumay%29/@13.4218955,144.6753566?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 211,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Infusion Coffee & Tea - DEDEDO Payless",
-                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea+-+DEDEDO+Payless/@13.5139205,144.8371143?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Infusion coffee (payless store)",
-                "link": "https://www.google.com/maps/search/Infusion+coffee+%28payless+store%29/@13.5194288,144.817524?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "http://www.infusionguam.com/",
-        "owner": {
-            "id": "110360375634092118515",
-            "name": "Infusion Coffee & Tea (Oka Payless) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110360375634092118515"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFf4seSEL1jE_Pkulj_4RLzcXARyCHKHMkkUqK=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.2,
-        "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 671-969-2266",
-        "address": "Infusion Coffee & Tea (Oka Payless), Oka Pay-Less, Tamuning, 96913Guan Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Infusion+Coffee+%26+Tea+%28Oka+Payless%29/data=!4m7!3m6!1s0x671f7872303da2f1:0x853b8126efd542c7!8m2!3d13.497959!4d144.7763696!16s%2Fg%2F11c31q8_t3!19sChIJ8aI9MHJ4H2cRx0LV7yaBO4U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJP5w5Ywl4H2cRQhm4tBYzsGQ",
@@ -3253,6 +3093,35 @@
         "link": "https://www.google.com/maps/place/Dusit+Gourmet/data=!4m7!3m6!1s0x671f8313efe8177f:0xea7d9f5545312530!8m2!3d13.5138814!4d144.8048121!16s%2Fg%2F11g2_0jg4k!19sChIJfxfo7xODH2cRMCUxRVWffeo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJz7ttqj2DH2cRq6gUIihxZHs",
+        "name": "GU'd Glass Smoke Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "competitors": [],
+        "website": "http://facebook.com/gudglassguam/",
+        "owner": {
+            "id": "112983275349550989852",
+            "name": "GU'd Glass Smoke Shop (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112983275349550989852"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMF0PZlYy5F9SJctTc6-Zk1PYKG7tx1R2b9XfSs=w685-h240-k-no",
+        "main_category": "Yan Cao Dian ",
+        "categories": [
+            "Yan Cao Dian ",
+            "Yao Cai Pu "
+        ],
+        "rating": 4.7,
+        "workday_timing": "12:00-20:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+1 671-637-7594",
+        "address": "GU'd Glass Smoke Shop, 142 Kayen Chando, Dededo, 96929Guan Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/GU%27d+Glass+Smoke+Shop/data=!4m7!3m6!1s0x671f833daa6dbbcf:0x7b6471282214a8ab!8m2!3d13.514161!4d144.8358477!16s%2Fg%2F11fklt20h7!19sChIJz7ttqj2DH2cRq6gUIihxZHs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJWRLlOgWDH2cRndNNhB8wTpw",
         "name": "Submarina California Subs",
         "description": null,
@@ -3286,13 +3155,6 @@
                 "reviews": 16,
                 "rating": 3.5,
                 "main_category": "Yi Shi Bo Bing "
-            },
-            {
-                "name": "Submarina Guam",
-                "link": "https://www.google.com/maps/search/Submarina+Guam/@13.5197887,144.81803589999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "San Wen Zhi "
             }
         ],
         "website": "https://submarinaguam.com/",
@@ -3381,61 +3243,6 @@
         "link": "https://www.google.com/maps/place/ABC+Stores+%23505/data=!4m7!3m6!1s0x671f82f803c3a6d9:0x3eb7b9fe3241ca80!8m2!3d13.5198723!4d144.8183452!16s%2Fg%2F11b5qzyldl!19sChIJ2abDA_iCH2cRgMpBMv65tz4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJq1Bd1wSDH2cR5Jx0P3nJZms",
-        "name": "Infusion Coffee & Tea - DEDEDO Payless",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 11,
-        "competitors": [
-            {
-                "name": "Infusion Coffee & Tea Guam - Tamuning (Near Docomo)",
-                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea+Guam+-+Tamuning+%28Near+Docomo%29/@13.484233999999999,144.775566?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 520,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Infusion Coffee & Tea",
-                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea/@13.511970499999999,144.8103042?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 265,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Infusion Coffee & Tea (Oka Payless)",
-                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea+%28Oka+Payless%29/@13.497959,144.77636959999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Infusion coffee (payless store)",
-                "link": "https://www.google.com/maps/search/Infusion+coffee+%28payless+store%29/@13.5194288,144.817524?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://www.instagram.com/infusionguam/",
-        "owner": {
-            "id": null,
-            "name": "Infusion Coffee & Tea - DEDEDO Payless (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkwLxOzV4bta2Kf3R09o8M4HEm1p2RKQcLE5bJ=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 671-969-2153",
-        "address": "Infusion Coffee & Tea - DEDEDO Payless, 214 S, Marine Corps Dr, Dededo, 96929Guan Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Infusion+Coffee+%26+Tea+-+DEDEDO+Payless/data=!4m7!3m6!1s0x671f8304d75d50ab:0x6b66c9793f749ce4!8m2!3d13.5139205!4d144.8371143!16s%2Fg%2F11c20ct6nf!19sChIJq1Bd1wSDH2cR5Jx0P3nJZms?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJATT_dl6DH2cRJj2IYear7MU",
         "name": "Coffee Beanery - Micronesia Mall Macy's entrance",
         "description": null,
@@ -3507,6 +3314,61 @@
         "link": "https://www.google.com/maps/place/Coffee+Beanery+-+Micronesia+Mall+Macy%27s+entrance/data=!4m7!3m6!1s0x671f835e76ff3401:0xc5ecabe661883d26!8m2!3d13.520286!4d144.818517!16s%2Fg%2F11fltxcc8_!19sChIJATT_dl6DH2cRJj2IYear7MU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJq1Bd1wSDH2cR5Jx0P3nJZms",
+        "name": "Infusion Coffee & Tea - DEDEDO Payless",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "competitors": [
+            {
+                "name": "Infusion Coffee & Tea Guam - Tamuning (Near Docomo)",
+                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea+Guam+-+Tamuning+%28Near+Docomo%29/@13.484233999999999,144.775566?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 520,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Infusion Coffee & Tea",
+                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea/@13.511970499999999,144.8103042?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 265,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Infusion Coffee & Tea (Oka Payless)",
+                "link": "https://www.google.com/maps/search/Infusion+Coffee+%26+Tea+%28Oka+Payless%29/@13.497959,144.77636959999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Infusion coffee (payless store)",
+                "link": "https://www.google.com/maps/search/Infusion+coffee+%28payless+store%29/@13.5194288,144.817524?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.instagram.com/infusionguam/",
+        "owner": {
+            "id": null,
+            "name": "Infusion Coffee & Tea - DEDEDO Payless (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkwLxOzV4bta2Kf3R09o8M4HEm1p2RKQcLE5bJ=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 671-969-2153",
+        "address": "Infusion Coffee & Tea - DEDEDO Payless, 214 S, Marine Corps Dr, Dededo, 96929Guan Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Infusion+Coffee+%26+Tea+-+DEDEDO+Payless/data=!4m7!3m6!1s0x671f8304d75d50ab:0x6b66c9793f749ce4!8m2!3d13.5139205!4d144.8371143!16s%2Fg%2F11c20ct6nf!19sChIJq1Bd1wSDH2cR5Jx0P3nJZms?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ_S-MBFiCH2cR3t2vz80JZWk",
         "name": "Chatime (Micronesia Mall)",
         "description": null,
@@ -3564,7 +3426,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -3700,7 +3562,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -3791,7 +3653,7 @@
         "name": "Sand Dune",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 4,
+        "reviews": 5,
         "competitors": [
             {
                 "name": "Denny's Tamuning",
@@ -3841,7 +3703,7 @@
             "Bian Li Dian ",
             "Ka Pei Dian "
         ],
-        "rating": 3.5,
+        "rating": 3.8,
         "workday_timing": "08:00-20:00",
         "closed_on": "Open All Days",
         "phone": "+1 671-644-3158",
@@ -3866,7 +3728,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -3906,6 +3768,68 @@
         "address": "Lil' Barista Guam, 142 Kayen Chando Street Servino Commercial Building, Suite 208, Dededo, 96929Guan Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Lil%E2%80%99+Barista+Guam/data=!4m7!3m6!1s0x671f83f6d0e42b79:0xbfad5a0f54372382!8m2!3d13.5140705!4d144.8357909!16s%2Fg%2F11qn4zj9ky!19sChIJeSvk0PaDH2cRgiM3VA9arb8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJpxXK7Y-DH2cRStdS2alq2fw",
+        "name": "Coffee Beanery - Micronesia Mall Theatre Wing",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "MAD BINGDU DESSERT CAFE",
+                "link": "https://www.google.com/maps/search/MAD+BINGDU+DESSERT+CAFE/@13.486580199999999,144.78337439999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 40,
+                "rating": 3.7,
+                "main_category": "Dian Xin "
+            },
+            {
+                "name": "Coffee Beanery II",
+                "link": "https://www.google.com/maps/search/Coffee+Beanery+II/@13.5213029,144.8178288?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Chatime (Micronesia Mall)",
+                "link": "https://www.google.com/maps/search/Chatime+%28Micronesia+Mall%29/@13.520607,144.81772329999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.3,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Elevenses Micronesia Mall",
+                "link": "https://www.google.com/maps/search/Elevenses+Micronesia+Mall/@13.5202405,144.8175611?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Lil' Barista Guam",
+                "link": "https://www.google.com/maps/search/Lil%E2%80%99+Barista+Guam/@13.514070499999999,144.8357909?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://coffeebeaneryguam.com/",
+        "owner": {
+            "id": "101952447630182434398",
+            "name": "Coffee Beanery - Micronesia Mall Theatre Wing (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101952447630182434398"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLkn30pqlRR4XeNJnwPicakIhM7rDJAMe9Wv30=w408-h272-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 3,
+        "workday_timing": "10:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 671-633-5671",
+        "address": "Coffee Beanery - Micronesia Mall Theatre Wing, 1088 Marine Corps Dr, Dededo, 96913Guan Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Beanery+-+Micronesia+Mall+Theatre+Wing/data=!4m7!3m6!1s0x671f838fedca15a7:0xfcd96aa9d952d74a!8m2!3d13.520286!4d144.818517!16s%2Fg%2F11frsw685c!19sChIJpxXK7Y-DH2cRStdS2alq2fw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJQ75k4jl5H2cRXYK1joAvMj0",
@@ -4118,7 +4042,7 @@
         "name": "Winchell's Dededo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 199,
+        "reviews": 200,
         "competitors": [
             {
                 "name": "Winchell's",
@@ -4217,7 +4141,7 @@
         "name": "Bubbly Tea Cafe (Yigo)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 173,
+        "reviews": 174,
         "competitors": [
             {
                 "name": "The Tea District",
@@ -4340,7 +4264,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4409,7 +4333,7 @@
         "name": "Snow Monster",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 147,
+        "reviews": 149,
         "competitors": [
             {
                 "name": "Cold Stone Creamery",
@@ -4435,8 +4359,8 @@
             {
                 "name": "Shave Ice Stand",
                 "link": "https://www.google.com/maps/search/Shave+Ice+Stand/@13.515630499999999,144.80607229999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
+                "reviews": 1,
+                "rating": 5,
                 "main_category": "Tian Pin Dian "
             }
         ],
@@ -4497,12 +4421,12 @@
         "name": "Haagen-Dazs Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 135,
+        "reviews": 136,
         "competitors": [
             {
                 "name": "GODIVA",
                 "link": "https://www.google.com/maps/search/GODIVA/@13.514802,144.806933?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
+                "reviews": 98,
                 "rating": 3.9,
                 "main_category": "Zhu Gu Li Dian "
             },
@@ -4581,7 +4505,7 @@
             {
                 "name": "New Fresh Bread Bakeshop",
                 "link": "https://www.google.com/maps/search/New+Fresh+Bread+Bakeshop/@13.526774399999999,144.8837352?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
+                "reviews": 33,
                 "rating": 4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4944,7 +4868,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5108,7 +5032,7 @@
             {
                 "name": "New Fresh Bread Bakeshop",
                 "link": "https://www.google.com/maps/search/New+Fresh+Bread+Bakeshop/@13.526774399999999,144.8837352?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
+                "reviews": 33,
                 "rating": 4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -5218,7 +5142,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 58,
+        "reviews": 59,
         "competitors": [
             {
                 "name": "Infusion Coffee & Tea",
@@ -5370,7 +5294,7 @@
             {
                 "name": "Eggs 'n Things",
                 "link": "https://www.google.com/maps/search/Eggs+%E2%80%98n+Things/@13.5159519,144.8070328?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1659,
+                "reviews": 1661,
                 "rating": 4,
                 "main_category": "Jian Bing "
             },
@@ -5502,73 +5426,11 @@
         "link": "https://www.google.com/maps/place/Boong%27s+cafe/data=!4m7!3m6!1s0x671f83f52dda82f3:0xfd7ddfa7dd12c48!8m2!3d13.5170038!4d144.8072518!16s%2Fg%2F11k4nxkxfs!19sChIJ84LaLfWDH2cRSCzRffrd1w8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJxWfEm2iEH2cRE46X15e6mj4",
-        "name": "Hills Market",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 43,
-        "competitors": [
-            {
-                "name": "UR Market",
-                "link": "https://www.google.com/maps/search/UR+Market/@13.5617255,144.85470139999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Hafa Adai Market",
-                "link": "https://www.google.com/maps/search/Hafa+Adai+Market/@13.5240829,144.88146509999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 228,
-                "rating": 4.1,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "G Mart",
-                "link": "https://www.google.com/maps/search/G+Mart/@13.5508715,144.8946671?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 133,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "one plus one mart",
-                "link": "https://www.google.com/maps/search/one+plus+one+mart/@13.5293089,144.8858567?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
-                "rating": 4.4,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "NEW JCK MARKET",
-                "link": "https://www.google.com/maps/search/NEW+JCK+MARKET/@13.532939599999999,144.8872206?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.7,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "101424378940009328699",
-            "name": "Hills Market (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101424378940009328699"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNIW4zgUbpr86S_jmaB662U30ZC0-GDDdW1_3ro=w408-h306-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 3.9,
-        "workday_timing": "06:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 671-653-2777",
-        "address": "Hills Market, 354 CHALAN PALE RAMON LAGU, Yigo, 96923Guan Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Hills+Market/data=!4m7!3m6!1s0x671f84689bc467c5:0x3e9aba97d7978e13!8m2!3d13.5421262!4d144.8913678!16s%2Fg%2F11csr1q5hk!19sChIJxWfEm2iEH2cRE46X15e6mj4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJgTHkQ4uDH2cRCcsZDsZefNI",
         "name": "Yellow Tree cafe Guam",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 39,
+        "reviews": 40,
         "competitors": [
             {
                 "name": "Cafe Gudcha",
@@ -5638,21 +5500,21 @@
         "name": "JG CAFE | GUAM",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 38,
+        "reviews": 39,
         "competitors": [
+            {
+                "name": "Cafe Kitchen",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Kitchen/@13.512934,144.804664?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 211,
+                "rating": 4.3,
+                "main_category": "He Jia Jie Yi Liao Li "
+            },
             {
                 "name": "Cafe Gudcha",
                 "link": "https://www.google.com/maps/search/Cafe+Gudcha/@13.5014783,144.7923205?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 210,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Kitchen",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Kitchen/@13.512934,144.804664?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 210,
-                "rating": 4.3,
-                "main_category": "He Jia Jie Yi Liao Li "
             },
             {
                 "name": "Ajah's Cafe Guam",
@@ -5681,7 +5543,7 @@
         "review_keywords": [
             {
                 "keyword": "Yuan Gong ",
-                "count": 5
+                "count": 6
             },
             {
                 "keyword": "Na Tie ",
@@ -5700,73 +5562,19 @@
                 "count": 3
             },
             {
+                "keyword": "San Ming Zhi ",
+                "count": 3
+            },
+            {
+                "keyword": "Fu Wu ",
+                "count": 3
+            },
+            {
                 "keyword": "Tian Dian ",
                 "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/JG+CAFE+%7C+GUAM/data=!4m7!3m6!1s0x671f83a1453f1e49:0x5c495d2d209c96ff!8m2!3d13.5065187!4d144.8018763!16s%2Fg%2F11tp809k37!19sChIJSR4_RaGDH2cR_5acIC1dSVw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJf9ggXSCDH2cRebFiwK6HB80",
-        "name": "Alegeta Mart",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 35,
-        "competitors": [
-            {
-                "name": "American Grocery",
-                "link": "https://www.google.com/maps/search/American+Grocery/@13.513682999999999,144.84176399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 650,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Le's Market",
-                "link": "https://www.google.com/maps/search/Le%27s+Market/@13.513537399999999,144.81855?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Mai Market",
-                "link": "https://www.google.com/maps/search/Mai+Market/@13.512540999999999,144.8189687?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 65,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "New Maxi Mart",
-                "link": "https://www.google.com/maps/search/New+Maxi+Mart/@13.516174099999999,144.8175444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Kaela's Mart",
-                "link": "https://www.google.com/maps/search/Kaela%27s+Mart/@13.5278028,144.8478002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.2,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Alegeta Mart (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXctMdSQqGOn4bm93N9Gln-4UezxDxZhhp1Hfc=w408-h544-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 671-987-2621",
-        "address": "Alegeta Mart, 282 Alageta Street, Dededo, Guan Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Alegeta+Mart/data=!4m7!3m6!1s0x671f83205d20d87f:0xcd0787aec062b179!8m2!3d13.5004837!4d144.8306743!16s%2Fg%2F11gg72k568!19sChIJf9ggXSCDH2cRebFiwK6HB80?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJzR6Peo6FH2cRuoeOPIE5G-I",
@@ -5792,7 +5600,7 @@
             {
                 "name": "Infusion Camacho Landmark Center",
                 "link": "https://www.google.com/maps/search/Infusion+Camacho+Landmark+Center/@13.4883089,144.7846832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 105,
+                "reviews": 106,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -6343,7 +6151,7 @@
             {
                 "name": "Hafaloha",
                 "link": "https://www.google.com/maps/search/Hafaloha/@13.5084549,144.802372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 156,
+                "reviews": 157,
                 "rating": 4.4,
                 "main_category": "Tian Pin Dian "
             },
@@ -6587,14 +6395,14 @@
             {
                 "name": "Boong's cafe",
                 "link": "https://www.google.com/maps/search/Boong%27s+cafe/@13.5170038,144.80725180000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
+                "reviews": 53,
                 "rating": 4.9,
                 "main_category": "Bing Qi Lin "
             },
             {
                 "name": "New Town Chinese Restaurant",
                 "link": "https://www.google.com/maps/search/New+Town+Chinese+Restaurant/@13.5036884,144.80784359999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 51,
+                "reviews": 52,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -6828,7 +6636,7 @@
             {
                 "name": "Elevenses Coffee Shop",
                 "link": "https://www.google.com/maps/search/Elevenses+Coffee+Shop/@13.5035726,144.80271810000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -6869,7 +6677,7 @@
             {
                 "name": "Winchell's Dededo",
                 "link": "https://www.google.com/maps/search/Winchell%27s+Dededo/@13.5134355,144.8405719?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 199,
+                "reviews": 200,
                 "rating": 3.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -7194,7 +7002,7 @@
             {
                 "name": "Boong's cafe",
                 "link": "https://www.google.com/maps/search/Boong%27s+cafe/@13.5170038,144.80725180000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
+                "reviews": 53,
                 "rating": 4.9,
                 "main_category": "Bing Qi Lin "
             }
@@ -7525,7 +7333,7 @@
             {
                 "name": "Regency Club",
                 "link": "https://www.google.com/maps/search/Regency+Club/@13.5128705,144.8048389?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
+                "reviews": 39,
                 "rating": 4,
                 "main_category": "Jiu Ba Ya Zuo "
             },
@@ -7556,33 +7364,6 @@
         "address": "Horizon-Cafe Pool Bar, 185 Gun Beach Road, Tamuning, 96913Guan Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Horizon-Cafe+Pool+Bar/data=!4m7!3m6!1s0x671f82607cb934b3:0x699fae0fc8b80a90!8m2!3d13.520502!4d144.8065675!16s%2Fg%2F11b5wkyntt!19sChIJszS5fGCCH2cRkAq4yA-un2k?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJz9fZnAh5H2cRXsvzLd7Mmws",
-        "name": "Nori Lounge",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "113436782288389839249",
-            "name": "Nori Lounge (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113436782288389839249"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfZz2KcsdpWPrvL4P5BHv4DkHw7skYCaZ04wCg=w408-h241-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Pu Tao Jiu Ba "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-13:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 671-788-6412",
-        "address": "Nori Lounge, 377 S Marine Corps Dr, Tamuning, 96931Guan Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nori+Lounge/data=!4m7!3m6!1s0x671f79089cd9d7cf:0xb9bccde2df3cb5e!8m2!3d13.4781591!4d144.762248!16s%2Fg%2F11t__35b0r!19sChIJz9fZnAh5H2cRXsvzLd7Mmws?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJKRbanOCDH2cRdN27njgCpJc",
@@ -7638,6 +7419,61 @@
         "address": "Infusion coffee (payless store), South Parking Garage, 1088 W Marine Corps Dr, Dededo, 96929Guan Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Infusion+coffee+%28payless+store%29/data=!4m7!3m6!1s0x671f83e09cda1629:0x97a402389ebbdd74!8m2!3d13.5194288!4d144.817524!16s%2Fg%2F11sf7pfd3t!19sChIJKRbanOCDH2cRdN27njgCpJc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJz1qP1IaDH2cR4oJumQqrNaU",
+        "name": "DEDEDO RETAIL STORE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Dededo Mall",
+                "link": "https://www.google.com/maps/search/Dededo+Mall/@13.5131833,144.8395213?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 405,
+                "rating": 3.7,
+                "main_category": "Gou Wu Zhong Xin "
+            },
+            {
+                "name": "Shop-4-Less",
+                "link": "https://www.google.com/maps/search/Shop-4-Less/@13.5130652,144.8390454?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 122,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Dededo Center Building E",
+                "link": "https://www.google.com/maps/search/Dededo+Center+Building+E/@13.5132642,144.837169?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 3,
+                "main_category": "Gou Wu Zhong Xin "
+            },
+            {
+                "name": "Freshday Store",
+                "link": "https://www.google.com/maps/search/Freshday+Store/@13.5140747,144.8366179?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "DEDEDO RETAIL STORE (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNV5S3fy5AagKhD5bTj1NCqLJ3m8dRWde-KbTG1=w408-h274-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "DEDEDO RETAIL STORE, Marine Corps Dr, Dededo, Guan Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DEDEDO+RETAIL+STORE/data=!4m7!3m6!1s0x671f8386d48f5acf:0xa535ab0a996e82e2!8m2!3d13.5140797!4d144.8449824!16s%2Fg%2F11s2hwxsqq!19sChIJz1qP1IaDH2cR4oJumQqrNaU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJNfbf2naDH2cRsBoztW5eyHs",
@@ -7781,6 +7617,94 @@
         "address": "Ma'alahi's Cafe, 1006 Sunrise Street, Tamuning, 96931Guan Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Ma%27alahi%27s+Cafe/data=!4m7!3m6!1s0x671f83c737dfe355:0xb7804d346a12c9e0!8m2!3d13.5174277!4d144.8150049!16s%2Fg%2F11tp311pv4!19sChIJVePfN8eDH2cR4MkSajRNgLc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5VsgbJeDH2cRgWWLtRT8axc",
+        "name": "Melody Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Melody Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObo0elByja0DhaQIK2JEie5pkzr-WD20nmT28=w408-h725-k-no",
+        "main_category": "Tian Pin Dian ",
+        "categories": [
+            "Tian Pin Dian "
+        ],
+        "rating": null,
+        "workday_timing": "13:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 671-678-0417",
+        "address": "GR53+2HX Melody Cafe, Tamuning, 96913Guan Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Melody+Cafe/data=!4m7!3m6!1s0x671f83976c205be5:0x176bfc14b58b6581!8m2!3d13.5076838!4d144.8039976!16s%2Fg%2F11v4mg8y83!19sChIJ5VsgbJeDH2cRgWWLtRT8axc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJXb5EQfuDH2cRdVihih5ox8E",
+        "name": "Freshday Store",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Cost.U.Less",
+                "link": "https://www.google.com/maps/search/Cost.U.Less/@13.510496999999999,144.8222961?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 740,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Le's Market",
+                "link": "https://www.google.com/maps/search/Le%27s+Market/@13.513537399999999,144.81855?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 140,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Mai Market",
+                "link": "https://www.google.com/maps/search/Mai+Market/@13.512540999999999,144.8189687?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 65,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "New Maxi Mart",
+                "link": "https://www.google.com/maps/search/New+Maxi+Mart/@13.516174099999999,144.8175444?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Grand Market",
+                "link": "https://www.google.com/maps/search/Grand+Market/@13.5052544,144.8404838?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Freshday Store (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": null,
+        "workday_timing": "09:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 671-633-3737",
+        "address": "Freshday Store, Ste. B-101, 136-C Kayen Chando, Dededo, Guan Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Freshday+Store/data=!4m7!3m6!1s0x671f83fb4144be5d:0xc1c7681e8aa15875!8m2!3d13.5140747!4d144.8366179!16s%2Fg%2F11gr5w5y20!19sChIJXb5EQfuDH2cRdVihih5ox8E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJCw-EzayDH2cRYy8zKbNF7ik",
@@ -7969,80 +7893,6 @@
         "link": "https://www.google.com/maps/place/C-ONE+STORE/data=!4m7!3m6!1s0x671f83ef99e9dd7b:0xf1041c1035ac890a!8m2!3d13.5140047!4d144.8362955!16s%2Fg%2F11t46wcfj8!19sChIJe93pme-DH2cRComsNRAcBPE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ5VsgbJeDH2cRgWWLtRT8axc",
-        "name": "Melody Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Melody Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObo0elByja0DhaQIK2JEie5pkzr-WD20nmT28=w408-h725-k-no",
-        "main_category": "Tian Pin Dian ",
-        "categories": [
-            "Tian Pin Dian "
-        ],
-        "rating": null,
-        "workday_timing": "13:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 671-678-0417",
-        "address": "GR53+2HX Melody Cafe, Tamuning, 96913Guan Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Melody+Cafe/data=!4m7!3m6!1s0x671f83976c205be5:0x176bfc14b58b6581!8m2!3d13.5076838!4d144.8039976!16s%2Fg%2F11v4mg8y83!19sChIJ5VsgbJeDH2cRgWWLtRT8axc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJAQAA16KCH2cRLWt_8ccbADw",
-        "name": "Health Craze",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Gudcha",
-                "link": "https://www.google.com/maps/search/Cafe+Gudcha/@13.5014783,144.7923205?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 210,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "HealthyFix Guam",
-                "link": "https://www.google.com/maps/search/HealthyFix+Guam/@13.5018333,144.7807589?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.6,
-                "main_category": "Jian Kang Shi Pin "
-            },
-            {
-                "name": "HEALTH WISE",
-                "link": "https://www.google.com/maps/search/HEALTH+WISE/@13.513262699999999,144.8368909?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Health Craze (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": "09:30-18:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "FQVW+Q7R Health Craze, 10A, Tamuning, 96913Guan Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Health+Craze/data=!4m7!3m6!1s0x671f82a2d7000001:0x3c001bc7f17f6b2d!8m2!3d13.4944968!4d144.7956288!16s%2Fg%2F11c70hfjhd!19sChIJAQAA16KCH2cRLWt_8ccbADw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJy6OHmnaDH2cRAJ_l5HXAJUQ",
         "name": "Cafe Rocona",
         "description": null,
@@ -8103,6 +7953,54 @@
         "address": "Cafe Rocona, pacific bistro building, 915 Pale San Vitores Rd, tumon, 96913Guan Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Cafe+Rocona/data=!4m7!3m6!1s0x671f83769a87a3cb:0x4425c075e4e59f00!8m2!3d13.504346!4d144.792173!16s%2Fg%2F11rqzd5mxl!19sChIJy6OHmnaDH2cRAJ_l5HXAJUQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQAA16KCH2cRLWt_8ccbADw",
+        "name": "Health Craze",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Cafe Gudcha",
+                "link": "https://www.google.com/maps/search/Cafe+Gudcha/@13.5014783,144.7923205?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 210,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "HealthyFix Guam",
+                "link": "https://www.google.com/maps/search/HealthyFix+Guam/@13.5018333,144.7807589?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.6,
+                "main_category": "Jian Kang Shi Pin "
+            },
+            {
+                "name": "HEALTH WISE",
+                "link": "https://www.google.com/maps/search/HEALTH+WISE/@13.513262699999999,144.8368909?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Health Craze (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": "09:30-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "FQVW+Q7R Health Craze, 10A, Tamuning, 96913Guan Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Health+Craze/data=!4m7!3m6!1s0x671f82a2d7000001:0x3c001bc7f17f6b2d!8m2!3d13.4944968!4d144.7956288!16s%2Fg%2F11c70hfjhd!19sChIJAQAA16KCH2cRLWt_8ccbADw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJHV15nJ-DH2cR_02mfghEQgE",

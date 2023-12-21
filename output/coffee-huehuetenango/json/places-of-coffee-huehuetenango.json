@@ -9,8 +9,8 @@
             {
                 "name": "Pasteleria Anfora",
                 "link": "https://www.google.com/maps/search/Pasteler%C3%ADa+Anfora/@15.3186534,-91.4708399?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.4,
+                "reviews": 17,
+                "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -190,8 +190,10 @@
             "Zheng Liu Ka Pei Ba "
         ],
         "rating": 4.5,
-        "workday_timing": "07:30-20:20",
-        "closed_on": "Open All Days",
+        "workday_timing": "07:30-22:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+502 7764 1256",
         "address": "Cafe Don Alfonso, 6a Calle 6-89, Huehuetenango 13001Wei Di Ma La ",
         "review_keywords": [
@@ -216,7 +218,7 @@
             {
                 "name": "Calma cafe",
                 "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 318,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -230,7 +232,7 @@
             {
                 "name": "Cafe Don Alfonso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -481,8 +483,8 @@
         "rating": 4.4,
         "workday_timing": "10:30-18:45",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": null,
         "address": "Bub Popping, 5ta avenida A 5-34 zona 1 Huehuetenango (frente a colegio LA AURORA Huehuetenango, 13001Wei Di Ma La ",
@@ -499,7 +501,7 @@
             {
                 "name": "Calma cafe",
                 "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 318,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -579,6 +581,68 @@
         "link": "https://www.google.com/maps/place/BOBARISTA+-+Zona+5+Terminal/data=!4m7!3m6!1s0x858c156f83d6375d:0xceeff1286bcb9aca!8m2!3d15.3131743!4d-91.4825616!16s%2Fg%2F11sn_2lgcc!19sChIJXTfWg28VjIURyprLayjx784?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJA6QPPwYVjIURSuL4i9bbz7Y",
+        "name": "Sabores Cafe, Chiantla",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [
+            {
+                "name": "Cafeteria Don Lupe",
+                "link": "https://www.google.com/maps/search/Cafeteria+Don+Lupe/@15.356105699999999,-91.4584983?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "La Casa",
+                "link": "https://www.google.com/maps/search/La+Casa/@15.3542878,-91.45671259999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "La Villa Cafe",
+                "link": "https://www.google.com/maps/search/La+Villa+Caf%C3%A9/@15.3529795,-91.4596371?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Chiantla",
+                "link": "https://www.google.com/maps/search/Chiantla/@15.3596486,-91.45192709999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "TORTILLAS DE HARINA AL SABOR DE MAGUS",
+                "link": "https://www.google.com/maps/search/TORTILLAS+DE+HARINA+AL+SABOR+DE+MAGUS/@15.354826299999997,-91.4567003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/Sabores-Caf%25C3%25A9-107467575021413/",
+        "owner": {
+            "id": "115557873927272580798",
+            "name": "Sabores Cafe, Chiantla (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115557873927272580798"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcJ9XDlcS_BjvbbxpjfWU7hgDd92LpYTTwg_I3=w408-h506-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "13:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+502 3028 6570",
+        "address": "9G4V+5H Sabores Cafe, Chiantla, Chiantla, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sabores+Caf%C3%A9,+Chiantla/data=!4m7!3m6!1s0x858c15063f0fa403:0xb6cfdbd68bf8e24a!8m2!3d15.355338!4d-91.4561477!16s%2Fg%2F11sxrjq06_!19sChIJA6QPPwYVjIURSuL4i9bbz7Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJwYIYHREVjIURkj93J5mHTZI",
         "name": "BOBARISTA - Distrito 1301 Food Park",
         "description": null,
@@ -627,109 +691,6 @@
         "link": "https://www.google.com/maps/place/BOBARISTA+-+Distrito+1301+Food+Park/data=!4m7!3m6!1s0x858c15111d1882c1:0x924d879927773f92!8m2!3d15.3197755!4d-91.4974809!16s%2Fg%2F11k9dl3zz9!19sChIJwYIYHREVjIURkj93J5mHTZI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJcR6bAC8UjIURfMQfpCqIx6A",
-        "name": "HELADOS POPS",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5,
-        "competitors": [
-            {
-                "name": "Helados Buchi",
-                "link": "https://www.google.com/maps/search/Helados+Buchi/@15.316228400000002,-91.4755661?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.9,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Helados Frio Polar",
-                "link": "https://www.google.com/maps/search/Helados+Frio+Polar/@15.2789793,-91.4777141?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.7,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Distribuidora Helados Sarita Huehuetenango",
-                "link": "https://www.google.com/maps/search/Distribuidora+Helados+Sarita+Huehuetenango/@15.3199404,-91.49486329999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.1,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Helados Superior",
-                "link": "https://www.google.com/maps/search/Helados+Superior/@15.321867299999997,-91.46535209999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": "http://www.pops.com.gt/",
-        "owner": {
-            "id": null,
-            "name": "HELADOS POPS (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgPIrTArtbOQsQBF8sXAFZUCNqKYNE1ni4_LaP=w408-h306-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "8G8G+R47 HELADOS POPS, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/HELADOS+POPS/data=!4m7!3m6!1s0x858c142f009b1e71:0xa0c7882aa41fc47c!8m2!3d15.3170295!4d-91.4746985!16s%2Fg%2F11csrvl0f1!19sChIJcR6bAC8UjIURfMQfpCqIx6A?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJSaMYF3kVjIURZ2pO3aOEUNo",
-        "name": "El Universo del Chef",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "Sorbos cafe",
-                "link": "https://www.google.com/maps/search/Sorbos+caf%C3%A9/@15.3172503,-91.4748911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 98,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Don Alfonso",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.5,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Restaurante El Eden",
-                "link": "https://www.google.com/maps/search/Restaurante+El+Eden/@15.339727799999997,-91.4565492?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://www.facebook.com/ElUniverdoDelChef/",
-        "owner": {
-            "id": null,
-            "name": "El Universo del Chef (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nX_YFHOrp6vq2cLwGLmdeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=315.07452&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 3.5,
-        "workday_timing": "11:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+502 3186 8939",
-        "address": "El Universo del Chef, 1a Calle 9-20, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/El+Universo+del+Chef/data=!4m7!3m6!1s0x858c15791718a349:0xda5084a3dd4e6a67!8m2!3d15.3204142!4d-91.4758724!16s%2Fg%2F11m7yfq711!19sChIJSaMYF3kVjIURZ2pO3aOEUNo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJA-LWBxgVjIUR-D5cTKXv_eo",
         "name": "CAFETERIA y COMDOR J&R",
         "description": null,
@@ -772,7 +733,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.facebook.com/104973295249183/posts/104978865248626/?d=n",
+        "website": "https://www.facebook.com/104973295249183/posts/104978865248626/%3Fd%3Dn",
         "owner": {
             "id": "114315733297158379686",
             "name": "CAFETERIA y COMDOR J&R (Ye Zhu )",
@@ -790,6 +751,54 @@
         "address": "CAFETERIA y COMDOR J&R, RN-7W, Huehuetenango, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/CAFETER%C3%8DA+y+COMDOR+J%26R/data=!4m7!3m6!1s0x858c151807d6e203:0xeafdefa54c5c3ef8!8m2!3d15.346803!4d-91.4536509!16s%2Fg%2F11qzlngg7l!19sChIJA-LWBxgVjIUR-D5cTKXv_eo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJSaMYF3kVjIURZ2pO3aOEUNo",
+        "name": "El Universo del Chef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Sorbos cafe",
+                "link": "https://www.google.com/maps/search/Sorbos+caf%C3%A9/@15.3172503,-91.4748911?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 98,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Don Alfonso",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4.5,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Restaurante El Eden",
+                "link": "https://www.google.com/maps/search/Restaurante+El+Eden/@15.339727799999997,-91.4565492?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/ElUniverdoDelChef/",
+        "owner": {
+            "id": null,
+            "name": "El Universo del Chef (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nX_YFHOrp6vq2cLwGLmdeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=315.07452&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3.5,
+        "workday_timing": "11:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+502 3186 8939",
+        "address": "El Universo del Chef, 1a Calle 9-20, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+Universo+del+Chef/data=!4m7!3m6!1s0x858c15791718a349:0xda5084a3dd4e6a67!8m2!3d15.3204142!4d-91.4758724!16s%2Fg%2F11m7yfq711!19sChIJSaMYF3kVjIURZ2pO3aOEUNo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJhdTAPtYVjIUR2pNqisvUG30",
@@ -912,54 +921,6 @@
         "link": "https://www.google.com/maps/place/Yummy+Yummy/data=!4m7!3m6!1s0x858c15f443df83c9:0x8182be66d6b94fc3!8m2!3d15.3185248!4d-91.4684504!16s%2Fg%2F11trwyh3j0!19sChIJyYPfQ_QVjIURw0-51ma-goE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ_yZBruwVjIUR7ciSnHH-Pfw",
-        "name": "HELADOS SARITA | Sarita Kiosko Pradera Huehuetenango",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Sarita zona 8",
-                "link": "https://www.google.com/maps/search/Sarita+zona+8/@15.3194332,-91.4827524?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.4,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Distribuidora Helados Sarita Huehuetenango",
-                "link": "https://www.google.com/maps/search/Distribuidora+Helados+Sarita+Huehuetenango/@15.3037306,-91.5146674?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Gong Si Ban Gong Shi "
-            },
-            {
-                "name": "Heladeria y Paleteria Dulce Khamoja",
-                "link": "https://www.google.com/maps/search/Helader%C3%ADa+y+Paleter%C3%ADa+Dulce+Khamoja/@15.3089906,-91.4938727?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.heladosarita.com/",
-        "owner": {
-            "id": null,
-            "name": "HELADOS SARITA | Sarita Kiosko Pradera Huehuetenango (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E3YzJ0RZkuvMIhF-eC_46w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=301.248&pitch=0&thumbfov=100",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 3,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+502 2426 8181",
-        "address": "HELADOS SARITA | Sarita Kiosko Pradera Huehuetenango, CC Pradera, kiosco, Calzada Kaibil Balam km. 259 Interior, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/HELADOS+SARITA+%7C+Sarita+Kiosko+Pradera+Huehuetenango/data=!4m7!3m6!1s0x858c15ecae4126ff:0xfc3dfe719c92c8ed!8m2!3d15.3111269!4d-91.4919587!16s%2Fg%2F11h713g3n_!19sChIJ_yZBruwVjIUR7ciSnHH-Pfw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJfxv33wkVjIUR_9XGGzcmoP4",
         "name": "Bonjour Crepes",
         "description": null,
@@ -1002,7 +963,7 @@
                 "main_category": "Can Ting "
             }
         ],
-        "website": "http://www.facebook.com/Bonjour-Cr%C3%AApes-1988174071398803/?ref=br_rs",
+        "website": "http://www.facebook.com/Bonjour-Cr%25C3%25AApes-1988174071398803/%3Fref%3Dbr_rs",
         "owner": {
             "id": null,
             "name": "Bonjour Crepes (Ye Zhu )",
@@ -1107,7 +1068,7 @@
             {
                 "name": "Huehuetenango Pradera",
                 "link": "https://www.google.com/maps/search/Huehuetenango+Pradera/@15.310768999999999,-91.4920918?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 355,
+                "reviews": 356,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -1211,124 +1172,14 @@
         "phone": "+502 4912 5908",
         "address": "Samy Coffee Shop, 5 Av 1-12, Huehuetenango 01301Wei Di Ma La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Samy+Coffee+Shop/data=!4m7!3m6!1s0x858c15bd0cc82b27:0x1051878867cbf37a!8m2!3d15.3193901!4d-91.4849662!16s%2Fg%2F11l77w0z61!19sChIJJyvIDL0VjIURevPLZ4iHURA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ0dhe9k0VjIURTv0T-RIZrDY",
-        "name": "HELADOS SARITA | Sarita Maxi Huehuetenango",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Sarita zona 8",
-                "link": "https://www.google.com/maps/search/Sarita+zona+8/@15.3194332,-91.4827524?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.4,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Helados Sarita",
-                "link": "https://www.google.com/maps/search/Helados+Sarita/@15.3158777,-91.4719243?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Distribuidora Helados Sarita Huehuetenango",
-                "link": "https://www.google.com/maps/search/Distribuidora+Helados+Sarita+Huehuetenango/@15.3037306,-91.5146674?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Gong Si Ban Gong Shi "
-            },
-            {
-                "name": "Heladeria Vania (Sarita)",
-                "link": "https://www.google.com/maps/search/Helader%C3%ADa+Vania+%28Sarita%29/@15.321529499999999,-91.471372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://www.heladosarita.com/",
-        "owner": {
-            "id": null,
-            "name": "HELADOS SARITA | Sarita Maxi Huehuetenango (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oC4qP6UYtfhCJ8iqbNzI-w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=191.22845&pitch=0&thumbfov=100",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+502 2426 8181",
-        "address": "HELADOS SARITA | Sarita Maxi Huehuetenango, Maxi Bodega, Calz. Kaibil Balam Kilometro 259, Interior, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/HELADOS+SARITA+%7C+Sarita+Maxi+Huehuetenango/data=!4m7!3m6!1s0x858c154df65ed8d1:0x36ac1912f913fd4e!8m2!3d15.3114206!4d-91.4838951!16s%2Fg%2F11h713kyj_!19sChIJ0dhe9k0VjIURTv0T-RIZrDY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJHWt9MPQVjIURnKSpRJFz5v4",
-        "name": "HELADOS SARITA | Sarita Parque Huehuetenango",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Sarita zona 8",
-                "link": "https://www.google.com/maps/search/Sarita+zona+8/@15.3194332,-91.4827524?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.4,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Helados Sarita",
-                "link": "https://www.google.com/maps/search/Helados+Sarita/@15.3158777,-91.4719243?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Distribuidora Helados Sarita Huehuetenango",
-                "link": "https://www.google.com/maps/search/Distribuidora+Helados+Sarita+Huehuetenango/@15.3037306,-91.5146674?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Gong Si Ban Gong Shi "
-            },
-            {
-                "name": "Heladeria Vania (Sarita)",
-                "link": "https://www.google.com/maps/search/Helader%C3%ADa+Vania+%28Sarita%29/@15.321529499999999,-91.471372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://www.heladosarita.com/",
-        "owner": {
-            "id": null,
-            "name": "HELADOS SARITA | Sarita Parque Huehuetenango (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_mGE7fNQn-NKk7B9AyotPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=50.7467&pitch=0&thumbfov=100",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+502 2426 8181",
-        "address": "HELADOS SARITA | Sarita Parque Huehuetenango, 5a Avenida 3-24, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/HELADOS+SARITA+%7C+Sarita+Parque+Huehuetenango/data=!4m7!3m6!1s0x858c15f4307d6b1d:0xfee6739144a9a49c!8m2!3d15.3201008!4d-91.4706421!16s%2Fg%2F11h713tz6x!19sChIJHWt9MPQVjIURnKSpRJFz5v4?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Samy+Coffee+Shop/data=!4m7!3m6!1s0x858c15bd0cc82b27:0x1051878867cbf37a!8m2!3d15.3194252!4d-91.4849429!16s%2Fg%2F11l77w0z61!19sChIJJyvIDL0VjIURevPLZ4iHURA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ_-n06Z0VjIUR6OwjRxEJUfU",
         "name": "Calma cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 317,
+        "reviews": 318,
         "competitors": [
             {
                 "name": "Cafe Museo",
@@ -1415,12 +1266,12 @@
         "name": "Cafe La Tinaja",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 310,
+        "reviews": 311,
         "competitors": [
             {
                 "name": "Lekaf Restaurante",
                 "link": "https://www.google.com/maps/search/Lekaf+Restaurante/@15.318675100000002,-91.47137?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 513,
+                "reviews": 514,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -1434,14 +1285,14 @@
             {
                 "name": "Restaurante el Jardin",
                 "link": "https://www.google.com/maps/search/Restaurante+el+Jard%C3%ADn/@15.31976,-91.4707842?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 264,
+                "reviews": 265,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Cafe La Terraza",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Terraza/@15.317630699999999,-91.4719885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
+                "reviews": 39,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -1497,28 +1348,28 @@
             {
                 "name": "Calma cafe",
                 "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 318,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe La Tinaja",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Tinaja/@15.3196952,-91.4711341?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 310,
+                "reviews": 311,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Cafe Don Alfonso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe La Terraza",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Terraza/@15.317630699999999,-91.4719885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
+                "reviews": 39,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             }
@@ -1587,7 +1438,7 @@
             {
                 "name": "Casa Brava",
                 "link": "https://www.google.com/maps/search/Casa+Brava/@15.3150338,-91.4761843?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1194,
+                "reviews": 1196,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -1647,6 +1498,10 @@
             },
             {
                 "keyword": "Yin Le ",
+                "count": 3
+            },
+            {
+                "keyword": "Rou ",
                 "count": 3
             }
         ],
@@ -1787,6 +1642,73 @@
         "link": "https://www.google.com/maps/place/Sorbos+caf%C3%A9/data=!4m7!3m6!1s0x858c142fab2ab7eb:0x7162ce41a456a010!8m2!3d15.3172503!4d-91.4748911!16s%2Fg%2F11f57cw564!19sChIJ67cqqy8UjIUREKBWpEHOYnE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJSyiMGooUjIURK8TE747xg6g",
+        "name": "Cafeteria Don Lupe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 56,
+        "competitors": [
+            {
+                "name": "CAFE DON COCA",
+                "link": "https://www.google.com/maps/search/CAFE+DON+COCA/@15.355545399999999,-91.4574185?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 35,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Sabores Cafe, Chiantla",
+                "link": "https://www.google.com/maps/search/Sabores+Caf%C3%A9%2C+Chiantla/@15.355338,-91.4561477?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "La Casa",
+                "link": "https://www.google.com/maps/search/La+Casa/@15.3542878,-91.45671259999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "La Villa Cafe",
+                "link": "https://www.google.com/maps/search/La+Villa+Caf%C3%A9/@15.3529795,-91.4596371?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Restaurante Al Carbon",
+                "link": "https://www.google.com/maps/search/Restaurante+Al+Carbon/@15.357017400000002,-91.4572901?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafeteria Don Lupe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjkGa7gjqTHbL8YfR91v0UmGQCtBn9VTJNqMsJ=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "9G4R+CJR Cafeteria Don Lupe, Chiantla, Wei Di Ma La ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafeteria+Don+Lupe/data=!4m7!3m6!1s0x858c148a1a8c284b:0xa883f18eefc4c42b!8m2!3d15.3561057!4d-91.4584983!16s%2Fg%2F11fx8zkfc4!19sChIJSyiMGooUjIURK8TE747xg6g?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJvYIoxS8UjIUR134Gr9BfxA8",
         "name": "Planetarios Cafe Bar",
         "description": null,
@@ -1835,6 +1757,61 @@
         "link": "https://www.google.com/maps/place/Planetarios+Caf%C3%A9+Bar/data=!4m7!3m6!1s0x858c142fc52882bd:0xfc45fd0af067ed7!8m2!3d15.3195184!4d-91.4745245!16s%2Fg%2F11g6yfc7sf!19sChIJvYIoxS8UjIUR134Gr9BfxA8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJF8bvwJAVjIUR6fkf8V2ABRo",
+        "name": "Cafe La Terraza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 39,
+        "competitors": [
+            {
+                "name": "Cafe La Tinaja",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Tinaja/@15.3196952,-91.4711341?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 311,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "La Autoria",
+                "link": "https://www.google.com/maps/search/La+Autor%C3%ADa/@15.3314145,-91.4892259?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 308,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Restaurante el Jardin",
+                "link": "https://www.google.com/maps/search/Restaurante+el+Jard%C3%ADn/@15.31976,-91.4707842?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 265,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "TERTULIA Wine, Beer & More",
+                "link": "https://www.google.com/maps/search/TERTULIA+Wine%2C+Beer+%26+More/@15.321088399999997,-91.4741146?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "105910813782450118342",
+            "name": "Cafe La Terraza (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105910813782450118342"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMwBC7SBKab7mW5j1Ll5nzT_-41xG-ZlumalAqa=w408-h305-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.8,
+        "workday_timing": "16:00-00:00",
+        "closed_on": "Open All Days",
+        "phone": "+502 4660 8486",
+        "address": "Cafe La Terraza, 7a Calle 6-70, Huehuetenango 13001Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+La+Terraza/data=!4m7!3m6!1s0x858c1590c0efc617:0x1a05805df11ff9e9!8m2!3d15.3176307!4d-91.4719885!16s%2Fg%2F11fszt3_6m!19sChIJF8bvwJAVjIUR6fkf8V2ABRo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ4wemvjoUjIUR6pidinQFV0Q",
         "name": "Bejucos",
         "description": null,
@@ -1877,69 +1854,14 @@
         "rating": 3.4,
         "workday_timing": "16:30-23:00",
         "closed_on": [
-            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er "
+            "Xing Qi Er ",
+            "Xing Qi Ri "
         ],
         "phone": "+502 7764 2872",
         "address": "Bejucos, 6-30, 6a Avenida 2a Calle, Huehuetenango, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Bejucos/data=!4m7!3m6!1s0x858c143abea607e3:0x445705748a9d98ea!8m2!3d15.3211848!4d-91.471487!16s%2Fg%2F11b7c2nwjb!19sChIJ4wemvjoUjIUR6pidinQFV0Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJF8bvwJAVjIUR6fkf8V2ABRo",
-        "name": "Cafe La Terraza",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 38,
-        "competitors": [
-            {
-                "name": "Cafe La Tinaja",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Tinaja/@15.3196952,-91.4711341?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 310,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "La Autoria",
-                "link": "https://www.google.com/maps/search/La+Autor%C3%ADa/@15.3314145,-91.4892259?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Restaurante el Jardin",
-                "link": "https://www.google.com/maps/search/Restaurante+el+Jard%C3%ADn/@15.31976,-91.4707842?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 264,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "TERTULIA Wine, Beer & More",
-                "link": "https://www.google.com/maps/search/TERTULIA+Wine%2C+Beer+%26+More/@15.321088399999997,-91.4741146?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "105910813782450118342",
-            "name": "Cafe La Terraza (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105910813782450118342"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMwBC7SBKab7mW5j1Ll5nzT_-41xG-ZlumalAqa=w408-h305-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "16:00-00:00",
-        "closed_on": "Open All Days",
-        "phone": "+502 4660 8486",
-        "address": "Cafe La Terraza, 7a Calle 6-70, Huehuetenango 13001Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+La+Terraza/data=!4m7!3m6!1s0x858c1590c0efc617:0x1a05805df11ff9e9!8m2!3d15.3176307!4d-91.4719885!16s%2Fg%2F11fszt3_6m!19sChIJF8bvwJAVjIUR6fkf8V2ABRo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJdcEPIS0VjIURjvyJkzeLQYA",
@@ -1951,7 +1873,7 @@
             {
                 "name": "Cafe La Terraza",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Terraza/@15.317630699999999,-91.4719885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
+                "reviews": 39,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -2007,7 +1929,7 @@
             {
                 "name": "Cafe La Tinaja",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Tinaja/@15.3196952,-91.4711341?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 310,
+                "reviews": 311,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -2227,7 +2149,7 @@
             {
                 "name": "Cafe Don Alfonso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2322,8 +2244,8 @@
         "rating": 4.3,
         "workday_timing": "08:00-18:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": null,
         "address": "8F75+RM2 Agroexport, Huehuetenango, Wei Di Ma La ",
@@ -2393,6 +2315,56 @@
         "link": "https://www.google.com/maps/place/Cafeteria+Ruiz/data=!4m7!3m6!1s0x858c3fe8de6e9d03:0xaa2fd0251afa13a3!8m2!3d15.3257425!4d-91.5581294!16s%2Fg%2F11h5vkpvxb!19sChIJA51u3ug_jIURoxP6GiXQL6o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJUWOf3ysUjIUR0QPPf9n1fr8",
+        "name": "Restaurante Y Cafeteria Zabdi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [
+            {
+                "name": "Restaurante el Jardin",
+                "link": "https://www.google.com/maps/search/Restaurante+el+Jard%C3%ADn/@15.31976,-91.4707842?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 265,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Bistro Zaculeu",
+                "link": "https://www.google.com/maps/search/Bistro+Zaculeu/@15.3200835,-91.47485549999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "El Alambique Bar y Restaurante",
+                "link": "https://www.google.com/maps/search/El+Alambique+Bar+y+Restaurante/@15.3230779,-91.47464869999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shao Kao "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurante Y Cafeteria Zabdi (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNaThNAv3S9vx5cKIaZ-9cXVC4MQ-XyQorfxbKh=w408-h306-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+502 7764 1017",
+        "address": "8G6C+QX5 Restaurante Y Cafeteria Zabdi, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurante+Y+Cafeter%C3%ADa+Zabdi/data=!4m7!3m6!1s0x858c142bdf9f6351:0xbf7ef5d97fcf03d1!8m2!3d15.311887!4d-91.4775017!16s%2Fg%2F11c58q4b8j!19sChIJUWOf3ysUjIUR0QPPf9n1fr8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJMYSvbBEUjIURSNaZHYAXETo",
         "name": "Tienda Amparo PeriCiber Wf",
         "description": null,
@@ -2457,7 +2429,7 @@
             {
                 "name": "Pollo Campero C.C. La Pradera Huehuetenango Z.11",
                 "link": "https://www.google.com/maps/search/Pollo+Campero+C.C.+La+Pradera+Huehuetenango+Z.11/@15.3116402,-91.49214169999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 880,
+                "reviews": 882,
                 "rating": 4,
                 "main_category": "Can Ting "
             },
@@ -2581,7 +2553,7 @@
             {
                 "name": "La Fonda De Don Juan.",
                 "link": "https://www.google.com/maps/search/La+Fonda+De+Don+Juan./@15.355359400000001,-91.45841349999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 503,
+                "reviews": 504,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -2632,6 +2604,73 @@
         "address": "La Casa, 4 calle 5-54, Chiantla, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/La+Casa/data=!4m7!3m6!1s0x858c151983e7ac2f:0x53825643fba3db35!8m2!3d15.3542878!4d-91.4567126!16s%2Fg%2F11h1133k3k!19sChIJL6zngxkVjIURNduj-0NWglM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJncu9k20VjIURYtGCWkRYaUQ",
+        "name": "RECUERDOS CAFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [
+            {
+                "name": "Cafe Museo",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Museo/@15.319532500000001,-91.47246059999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 287,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kaffes",
+                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Bejucos",
+                "link": "https://www.google.com/maps/search/Bejucos/@15.3211848,-91.471487?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 38,
+                "rating": 3.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "TIPICA ANTOJITOS",
+                "link": "https://www.google.com/maps/search/T%C3%8DPICA+ANTOJITOS/@15.3202037,-91.46479939999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Restaurant Deyaneira",
+                "link": "https://www.google.com/maps/search/Restaurant+Deyaneira/@15.329314900000002,-91.48575260000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "100666480065608620237",
+            "name": "RECUERDOS CAFE (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/100666480065608620237"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDMud6VNxxKWnDzcdJLhMAGyjadiUdwnSvSPJo=w408-h306-k-no",
+        "main_category": "Zi Zhu Can Ting ",
+        "categories": [
+            "Zi Zhu Can Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "17:00-21:30",
+        "closed_on": "Open All Days",
+        "phone": "+502 5749 9337",
+        "address": "RECUERDOS CAFE, 7a Calle 13002, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [
+            {
+                "keyword": "Huan Jing ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/RECUERDOS+CAF%C3%89/data=!4m7!3m6!1s0x858c156d93bdcb9d:0x446958445a82d162!8m2!3d15.3565487!4d-91.4555209!16s%2Fg%2F11q9j0p_pm!19sChIJncu9k20VjIURYtGCWkRYaUQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJR7LhS9IVjIURUJBui7aZ684",
@@ -2870,70 +2909,6 @@
         "link": "https://www.google.com/maps/place/Sarita+zona+8/data=!4m7!3m6!1s0x858c15388a3a18b7:0x6d0b70c5386fd3eb!8m2!3d15.3194332!4d-91.4827524!16s%2Fg%2F11sx6jcsm9!19sChIJtxg6ijgVjIUR69NvOMVwC20?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJBf-zy8kVjIURJ1s2TvNhyoM",
-        "name": "TIPICA ANTOJITOS",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "Dulces Tipicos Dona Flora",
-                "link": "https://www.google.com/maps/search/Dulces+Tipicos+Do%C3%B1a+Flora/@15.3184104,-91.4684467?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 389,
-                "rating": 4.3,
-                "main_category": "Mei Guo Cai "
-            },
-            {
-                "name": "Cafe La Tinaja",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Tinaja/@15.3196952,-91.4711341?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 310,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Dona Estercita",
-                "link": "https://www.google.com/maps/search/Do%C3%B1a+Estercita/@15.321125100000001,-91.47162900000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 206,
-                "rating": 4.2,
-                "main_category": "Xi Dian "
-            },
-            {
-                "name": "Restaurante Antojitos Huehuetecos",
-                "link": "https://www.google.com/maps/search/Restaurante+Antojitos+Huehuetecos/@15.304590399999997,-91.49311279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
-                "rating": 4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Antojitos colombianos",
-                "link": "https://www.google.com/maps/search/Antojitos+colombianos/@15.319580499999999,-91.4873302?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "TIPICA ANTOJITOS (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iHpNumwuulxnGCkKcH5SzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=112.65526&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "13:00-21:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+502 5852 3968",
-        "address": "TIPICA ANTOJITOS, 2a Avenida 633, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/T%C3%8DPICA+ANTOJITOS/data=!4m7!3m6!1s0x858c15c9cbb3ff05:0x83ca61f34e365b27!8m2!3d15.3202037!4d-91.4647994!16s%2Fg%2F11n883k937!19sChIJBf-zy8kVjIURJ1s2TvNhyoM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ4XLFzyQVjIURpeCMmmbE-dg",
         "name": "Monte Alto Pasteleria Autoservicio",
         "description": null,
@@ -2994,6 +2969,125 @@
         "address": "Monte Alto Pasteleria Autoservicio, 1 calle, Zona 8 11, Huehuetenango, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Monte+Alto+Pasteler%C3%ADa+Autoservicio/data=!4m7!3m6!1s0x858c1524cfc572e1:0xd8f9c4669a8ce0a5!8m2!3d15.3195628!4d-91.4834426!16s%2Fg%2F11kldmwkr7!19sChIJ4XLFzyQVjIURpeCMmmbE-dg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJBf-zy8kVjIURJ1s2TvNhyoM",
+        "name": "TIPICA ANTOJITOS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Dulces Tipicos Dona Flora",
+                "link": "https://www.google.com/maps/search/Dulces+Tipicos+Do%C3%B1a+Flora/@15.3184104,-91.4684467?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 389,
+                "rating": 4.3,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "Cafe La Tinaja",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Tinaja/@15.3196952,-91.4711341?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 311,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Dona Estercita",
+                "link": "https://www.google.com/maps/search/Do%C3%B1a+Estercita/@15.321125100000001,-91.47162900000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 206,
+                "rating": 4.2,
+                "main_category": "Xi Dian "
+            },
+            {
+                "name": "Restaurante Antojitos Huehuetecos",
+                "link": "https://www.google.com/maps/search/Restaurante+Antojitos+Huehuetecos/@15.304590399999997,-91.49311279999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 68,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Antojitos colombianos",
+                "link": "https://www.google.com/maps/search/Antojitos+colombianos/@15.319580499999999,-91.4873302?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TIPICA ANTOJITOS (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iHpNumwuulxnGCkKcH5SzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=112.65526&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "13:00-21:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+502 5852 3968",
+        "address": "TIPICA ANTOJITOS, 2a Avenida 633, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/T%C3%8DPICA+ANTOJITOS/data=!4m7!3m6!1s0x858c15c9cbb3ff05:0x83ca61f34e365b27!8m2!3d15.3202037!4d-91.4647994!16s%2Fg%2F11n883k937!19sChIJBf-zy8kVjIURJ1s2TvNhyoM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJBYBcM18VjIURkqm9hTK_AAk",
+        "name": "Helados jumbo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "HELADOS POPS",
+                "link": "https://www.google.com/maps/search/HELADOS+POPS/@15.317029499999999,-91.4746985?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.2,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Helados Marco Polo zona 9 Huehuetenango",
+                "link": "https://www.google.com/maps/search/Helados+Marco+Polo+zona+9+Huehuetenango/@15.319754199999997,-91.49957309999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 1,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Dulce Helado",
+                "link": "https://www.google.com/maps/search/Dulce+Helado/@15.3014585,-91.4943898?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Helados Chupa Chupa",
+                "link": "https://www.google.com/maps/search/Helados+Chupa+Chupa/@15.314637600000001,-91.51750299999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Helados jumbo (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOUNDu6Tld_VqR3uYuRPBBTEeRTri0U3GEQzl4F=w408-h306-k-no",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+502 3091 4174",
+        "address": "Helados jumbo, 7a Calle 152, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Helados+jumbo/data=!4m7!3m6!1s0x858c155f335c8005:0x900bf3285bda992!8m2!3d15.32798!4d-91.4857145!16s%2Fg%2F11fsm7hc3q!19sChIJBYBcM18VjIURkqm9hTK_AAk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJudOG9jUVjIURciOiRhg7-VA",
@@ -3120,6 +3214,71 @@
         "link": "https://www.google.com/maps/place/Abba%27s+Caf%C3%A9/data=!4m7!3m6!1s0x858c142b26b2f481:0x558ea7c0f0783b17!8m2!3d15.3114814!4d-91.4812496!16s%2Fg%2F11dx9wxrn8!19sChIJgfSyJisUjIURFzt48MCnjlU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJXaagsM0VjIURpOLcsMQxwNU",
+        "name": "Chapin Chevere",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Chech'os Cafe Bar",
+                "link": "https://www.google.com/maps/search/Chech%C2%B4os+Caf%C3%A9+Bar/@15.3520714,-91.457588?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "El Cheverin",
+                "link": "https://www.google.com/maps/search/El+Cheverin/@15.317841099999999,-91.46898829999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.9,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Crepys",
+                "link": "https://www.google.com/maps/search/Crepys/@15.356416099999999,-91.4555281?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Baleadas Cafeteria",
+                "link": "https://www.google.com/maps/search/Baleadas+Cafeteria/@15.317155299999998,-91.4705403?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Comida casera, rica e higienica \"Ranchito el Naranjo\"",
+                "link": "https://www.google.com/maps/search/Comida+casera%2C+rica+e+higi%C3%A9nica+%22Ranchito+el+Naranjo%22/@15.321372799999999,-91.5310768?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chapin Chevere (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGAdZxgaNx2xGqyfoPnE1L0YmxGZ3LTg4Gr1fu=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "17:00-22:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "8GWW+XRV Chapin Chevere, Buenos Aires, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chap%C3%ADn+Ch%C3%A9vere/data=!4m7!3m6!1s0x858c15cdb0a0a65d:0xd5c031c4b0dce2a4!8m2!3d15.3474959!4d-91.452963!16s%2Fg%2F11rtshbpgz!19sChIJXaagsM0VjIURpOLcsMQxwNU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJzaB2wIIVjIUR_VDGkpPXLwk",
         "name": "Casa Flora Boqueron",
         "description": null,
@@ -3182,6 +3341,74 @@
         "link": "https://www.google.com/maps/place/Casa+Flora+Boquer%C3%B3n/data=!4m7!3m6!1s0x858c1582c076a0cd:0x92fd79392c650fd!8m2!3d15.3160228!4d-91.4719771!16s%2Fg%2F11q2w_5qdl!19sChIJzaB2wIIVjIUR_VDGkpPXLwk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJv2AY8DcVjIURdQO23dbl6vw",
+        "name": "La Villa Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Cafeteria Don Lupe",
+                "link": "https://www.google.com/maps/search/Cafeteria+Don+Lupe/@15.356105699999999,-91.4584983?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Chech'os Cafe Bar",
+                "link": "https://www.google.com/maps/search/Chech%C2%B4os+Caf%C3%A9+Bar/@15.3520714,-91.457588?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Sabores Cafe, Chiantla",
+                "link": "https://www.google.com/maps/search/Sabores+Caf%C3%A9%2C+Chiantla/@15.355338,-91.4561477?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "La Casa",
+                "link": "https://www.google.com/maps/search/La+Casa/@15.3542878,-91.45671259999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "El Shuco Loco",
+                "link": "https://www.google.com/maps/search/El+Shuco+Loco/@15.3565751,-91.4558149?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Villa Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9ymRe5kfPxr-ZrUsm3W50CjgG7UflapGVkzX_=w408-h398-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "17:00-20:30",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu "
+        ],
+        "phone": "+502 3304 3562",
+        "address": "9G3R+54X La Villa Cafe, Chiantla, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Villa+Caf%C3%A9/data=!4m7!3m6!1s0x858c1537f01860bf:0xfceae5d6ddb60375!8m2!3d15.3529795!4d-91.4596371!16s%2Fg%2F11nn0_dk82!19sChIJv2AY8DcVjIURdQO23dbl6vw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJCROoKA8WjIURsWS3Yrq0S6M",
         "name": "Cafeteria Y Asados Soliz",
         "description": null,
@@ -3198,7 +3425,7 @@
             {
                 "name": "Cafe Don Alfonso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3244,6 +3471,61 @@
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Y+Asados+Soliz/data=!4m7!3m6!1s0x858c160f28a81309:0xa34bb4ba62b764b1!8m2!3d15.3014831!4d-91.5089317!16s%2Fg%2F11fy56csbb!19sChIJCROoKA8WjIURsWS3Yrq0S6M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJRxEgzfMVjIURhPJ-044S69Q",
+        "name": "DM cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Calma cafe",
+                "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 318,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Museo",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Museo/@15.319532500000001,-91.47246059999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 287,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kaffes",
+                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Amor de Cafe",
+                "link": "https://www.google.com/maps/search/Amor+de+Caf%C3%A9/@15.3138253,-91.47768359999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "DM cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5w2xv9xvyX0J2Ly2e80uOX-M5phReRrT75lez=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "DM cafe, RN-9N, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DM+cafe/data=!4m7!3m6!1s0x858c15f3cd201147:0xd4eb128ed37ef284!8m2!3d15.3543473!4d-91.4564854!16s%2Fg%2F11pb0l8r4d!19sChIJRxEgzfMVjIURhPJ-044S69Q?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJjYuDbo0VjIURUsZijVErAIk",
         "name": "D'Cafe Huehuetenango",
         "description": null,
@@ -3264,68 +3546,13 @@
         "rating": 5,
         "workday_timing": "08:00-18:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+502 5388 7812",
         "address": "D'Cafe Huehuetenango, 10a Avenida 8-22, Huehuetenango, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/D%E2%80%99Cafe+Huehuetenango/data=!4m7!3m6!1s0x858c158d6e838b8d:0x89002b518d62c652!8m2!3d15.3155294!4d-91.4750254!16s%2Fg%2F11vhtclv3g!19sChIJjYuDbo0VjIURUsZijVErAIk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJn1t6w-gVjIURBR7f7sDH_tg",
-        "name": "Panini Cosa Nostra",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Sorbos cafe",
-                "link": "https://www.google.com/maps/search/Sorbos+caf%C3%A9/@15.3172503,-91.4748911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 98,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Rustic Coffee",
-                "link": "https://www.google.com/maps/search/Rustic+Coffee/@15.318931599999997,-91.4790556?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee Shop Rugis",
-                "link": "https://www.google.com/maps/search/Coffee+Shop+Rugis/@15.310996800000002,-91.4908873?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "CAFE ARTESANAL",
-                "link": "https://www.google.com/maps/search/CAFE+ARTESANAL/@15.317519400000002,-91.471267?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "117043889076985912006",
-            "name": "Panini Cosa Nostra (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117043889076985912006"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKQV6ZJal7cJIkdIp0fMjdVfBDAGFGQoBCnC8u=w408-h378-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "16:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+502 5958 9779",
-        "address": "Panini Cosa Nostra, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Panini+Cosa+Nostra/data=!4m7!3m6!1s0x858c15e8c37a5b9f:0xd8fec7c0eedf1e05!8m2!3d15.3134271!4d-91.4788027!16s%2Fg%2F11rbq0g8_q!19sChIJn1t6w-gVjIURBR7f7sDH_tg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJn2uLMMgVjIUREIY3UKOQUaQ",
@@ -3440,109 +3667,6 @@
         "link": "https://www.google.com/maps/place/Restaurant+Deyaneira/data=!4m7!3m6!1s0x858c150cbfbe9e11:0x95453668c1070a4e!8m2!3d15.3293149!4d-91.4857526!16s%2Fg%2F11rscjcs0l!19sChIJEZ6-vwwVjIURTgoHwWg2RZU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJOcWsSMoVjIURmnIj80ySFQM",
-        "name": "Lochita's Snacks",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "ChekA Coffee Barber's",
-                "link": "https://www.google.com/maps/search/ChekA+Coffee+Barber%27s/@15.318594,-91.4743546?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.7,
-                "main_category": "Nan Shi Li Fa Dian "
-            },
-            {
-                "name": "Chech'os Cafe Bar",
-                "link": "https://www.google.com/maps/search/Chech%C2%B4os+Caf%C3%A9+Bar/@15.3520714,-91.457588?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafeteria La Tacita De Plata",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+La+Tacita+De+Plata/@15.320314499999999,-91.470388?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Lochita's Snacks (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KcGA7SUSf64AICCi8YWT8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=163.96536&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "8GH7+PQG Lochita's Snacks, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Lochita%27s+Snacks/data=!4m7!3m6!1s0x858c15ca48acc539:0x315924cf323729a!8m2!3d15.3293203!4d-91.4855352!16s%2Fg%2F11gdkw_bk2!19sChIJOcWsSMoVjIURmnIj80ySFQM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJRxEgzfMVjIURhPJ-044S69Q",
-        "name": "DM cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Calma cafe",
-                "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Museo",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Museo/@15.319532500000001,-91.47246059999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 287,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kaffes",
-                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Amor de Cafe",
-                "link": "https://www.google.com/maps/search/Amor+de+Caf%C3%A9/@15.3138253,-91.47768359999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "DM cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5w2xv9xvyX0J2Ly2e80uOX-M5phReRrT75lez=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "DM cafe, RN-9N, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/DM+cafe/data=!4m7!3m6!1s0x858c15f3cd201147:0xd4eb128ed37ef284!8m2!3d15.3543473!4d-91.4564854!16s%2Fg%2F11pb0l8r4d!19sChIJRxEgzfMVjIURhPJ-044S69Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJXS2psjcVjIUR4mobjp7LJRE",
         "name": "Paco Merlo Grill",
         "description": null,
@@ -3605,6 +3729,109 @@
         "link": "https://www.google.com/maps/place/Paco+Merlo+Grill/data=!4m7!3m6!1s0x858c1537b2a92d5d:0x1125cb9e8e1b6ae2!8m2!3d15.318578!4d-91.4865749!16s%2Fg%2F11r3dhbzvm!19sChIJXS2psjcVjIUR4mobjp7LJRE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJn1t6w-gVjIURBR7f7sDH_tg",
+        "name": "Panini Cosa Nostra",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Sorbos cafe",
+                "link": "https://www.google.com/maps/search/Sorbos+caf%C3%A9/@15.3172503,-91.4748911?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 98,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Rustic Coffee",
+                "link": "https://www.google.com/maps/search/Rustic+Coffee/@15.318931599999997,-91.4790556?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Shop Rugis",
+                "link": "https://www.google.com/maps/search/Coffee+Shop+Rugis/@15.310996800000002,-91.4908873?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "CAFE ARTESANAL",
+                "link": "https://www.google.com/maps/search/CAFE+ARTESANAL/@15.317519400000002,-91.471267?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "117043889076985912006",
+            "name": "Panini Cosa Nostra (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117043889076985912006"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKQV6ZJal7cJIkdIp0fMjdVfBDAGFGQoBCnC8u=w408-h378-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "16:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+502 5958 9779",
+        "address": "Panini Cosa Nostra, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Panini+Cosa+Nostra/data=!4m7!3m6!1s0x858c15e8c37a5b9f:0xd8fec7c0eedf1e05!8m2!3d15.3134271!4d-91.4788027!16s%2Fg%2F11rbq0g8_q!19sChIJn1t6w-gVjIURBR7f7sDH_tg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJOcWsSMoVjIURmnIj80ySFQM",
+        "name": "Lochita's Snacks",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "ChekA Coffee Barber's",
+                "link": "https://www.google.com/maps/search/ChekA+Coffee+Barber%27s/@15.318594,-91.4743546?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.7,
+                "main_category": "Nan Shi Li Fa Dian "
+            },
+            {
+                "name": "Chech'os Cafe Bar",
+                "link": "https://www.google.com/maps/search/Chech%C2%B4os+Caf%C3%A9+Bar/@15.3520714,-91.457588?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Cafeteria La Tacita De Plata",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+La+Tacita+De+Plata/@15.320314499999999,-91.470388?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lochita's Snacks (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KcGA7SUSf64AICCi8YWT8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=163.96536&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "8GH7+PQG Lochita's Snacks, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lochita%27s+Snacks/data=!4m7!3m6!1s0x858c15ca48acc539:0x315924cf323729a!8m2!3d15.3293203!4d-91.4855352!16s%2Fg%2F11gdkw_bk2!19sChIJOcWsSMoVjIURmnIj80ySFQM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJKTmBwvcVjIURYrX3adt0WZ4",
         "name": "Pan Los Hermanos",
         "description": null,
@@ -3628,7 +3855,7 @@
             {
                 "name": "Cafe La Terraza",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Terraza/@15.317630699999999,-91.4719885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
+                "reviews": 39,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -3661,8 +3888,8 @@
         "rating": 5,
         "workday_timing": "10:00-22:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+502 3460 1589",
         "address": "8G9F+5P7 Pan Los Hermanos, Unnamed Road, Huehuetenango, Wei Di Ma La ",
@@ -3735,6 +3962,54 @@
         "link": "https://www.google.com/maps/place/El+Garage+de+Patty./data=!4m7!3m6!1s0x858c15b612f7b3a5:0xec41cfbdc322ac6c!8m2!3d15.3553747!4d-91.4591546!16s%2Fg%2F11rb__k32r!19sChIJpbP3ErYVjIURbKwiw73PQew?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJF_1mFWYVjIURe3Soo9RcJ3I",
+        "name": "CAFETERIA LA MEXICANA TORTAS I QUESADILLAS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Restaurante La Mexicana",
+                "link": "https://www.google.com/maps/search/Restaurante+La+Mexicana/@15.324852000000002,-91.48089259999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "TORTAS MEXICANAS SAMY'S & MI CIELO CAFE",
+                "link": "https://www.google.com/maps/search/TORTAS+MEXICANAS+SAMY%27S+%26+MI+CIELO+CAF%C3%89/@15.357489999999997,-91.4568927?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "CAFETERIA LA MEXICANA",
+                "link": "https://www.google.com/maps/search/CAFETERIA+LA+MEXICANA/@15.337354699999999,-91.5924208?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFETERIA LA MEXICANA TORTAS I QUESADILLAS (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJ8lGEwvqRyfHTVjaleCvvmQqcnlD7PL2sLwQu=w408-h472-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+502 4094 5587",
+        "address": "8GPC+R36 CAFETERIA LA MEXICANA TORTAS I QUESADILLAS, santabarbara, Chicol, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFETERIA+LA+MEXICANA+TORTAS+I+QUESADILLAS/data=!4m7!3m6!1s0x858c15661566fd17:0x72275cd4a3a8747b!8m2!3d15.3370433!4d-91.4798612!16s%2Fg%2F11f7r6dwpv!19sChIJF_1mFWYVjIURe3Soo9RcJ3I?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ0-Dqdy0VjIURTo-fcEGXYwY",
         "name": "Estacion de Cat",
         "description": null,
@@ -3792,7 +4067,7 @@
             {
                 "name": "Cafe Don Alfonso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3840,7 +4115,7 @@
             {
                 "name": "Cafe Don Alfonso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4031,14 +4306,14 @@
             {
                 "name": "Calma cafe",
                 "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 318,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Don Alfonso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4194,6 +4469,61 @@
         "link": "https://www.google.com/maps/place/Baleadas+Cafeteria/data=!4m7!3m6!1s0x858c1425079cf5d5:0x253a4cb98ddca882!8m2!3d15.3171553!4d-91.4705403!16s%2Fg%2F11g6jb94pb!19sChIJ1fWcByUUjIURgqjcjblMOiU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ8cfKW_QVjIURXoY1a1ANav4",
+        "name": "Crepys",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Chapin Chevere",
+                "link": "https://www.google.com/maps/search/Chap%C3%ADn+Ch%C3%A9vere/@15.347495900000002,-91.452963?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Shop Rugis",
+                "link": "https://www.google.com/maps/search/Coffee+Shop+Rugis/@15.310996800000002,-91.4908873?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Restaurant Deyaneira",
+                "link": "https://www.google.com/maps/search/Restaurant+Deyaneira/@15.329314900000002,-91.48575260000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Castillo's Cafeteria",
+                "link": "https://www.google.com/maps/search/Castillo%C2%B4s+Cafeter%C3%ADa/@15.3234145,-91.4870414?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Crepys (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "9G4V+HQ9 Crepys, 1a Calle, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Crepys/data=!4m7!3m6!1s0x858c15f45bcac7f1:0xfe6a0d506b35865e!8m2!3d15.3564161!4d-91.4555281!16s%2Fg%2F11rr6qd8wq!19sChIJ8cfKW_QVjIURXoY1a1ANav4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJK1nXHw0WjIURjwWmR4CLnhk",
         "name": "Senor Sazon",
         "description": null,
@@ -4251,114 +4581,69 @@
         "link": "https://www.google.com/maps/place/Se%C3%B1or+Saz%C3%B3n/data=!4m7!3m6!1s0x858c160d1fd7592b:0x199e8b8047a6058f!8m2!3d15.2993017!4d-91.5028248!16s%2Fg%2F11fzf26xn9!19sChIJK1nXHw0WjIURjwWmR4CLnhk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ2wIwVC8XjIURW7pTkg1yqjw",
-        "name": "Taqueria 629",
+        "place_id": "ChIJucvdMt4VjIURgkAghUoulHk",
+        "name": "El Shuco Loco",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 1,
         "competitors": [
             {
-                "name": "Kaffes",
-                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.6,
+                "name": "Cafeteria Don Lupe",
+                "link": "https://www.google.com/maps/search/Cafeteria+Don+Lupe/@15.356105699999999,-91.4584983?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "CAFE DON COCA",
+                "link": "https://www.google.com/maps/search/CAFE+DON+COCA/@15.355545399999999,-91.4574185?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 35,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Chech'os Cafe Bar",
+                "link": "https://www.google.com/maps/search/Chech%C2%B4os+Caf%C3%A9+Bar/@15.3520714,-91.457588?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Sabores Cafe, Chiantla",
+                "link": "https://www.google.com/maps/search/Sabores+Caf%C3%A9%2C+Chiantla/@15.355338,-91.4561477?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 5,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Cafe La Terraza",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Terraza/@15.317630699999999,-91.4719885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Taqueria El Buen Gusto Tradicional",
-                "link": "https://www.google.com/maps/search/Taqueria+El+Buen+Gusto+Tradicional/@15.342758,-91.45444770000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Tentaciones la Taqueria",
-                "link": "https://www.google.com/maps/search/Tentaciones+la+Taqueria/@15.319890899999999,-91.4749631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Kuai Can "
+                "name": "La Villa Cafe",
+                "link": "https://www.google.com/maps/search/La+Villa+Caf%C3%A9/@15.3529795,-91.4596371?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Taqueria 629 (Ye Zhu )",
+            "name": "El Shuco Loco (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmbZg0LPR5iBWM1kDsvX8mo4a0XE9ACL1ZuCCg=w408-h725-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPH4mLMFiejGMJ5n8fTuvfFYUkJ0MEhUH-dQWpH=w408-h408-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
         "rating": 5,
-        "workday_timing": "00:15-21:00",
+        "workday_timing": "14:00-20:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Si "
+            "Xing Qi Wu ",
+            "Xing Qi Liu "
         ],
-        "phone": "+502 7764 2200",
-        "address": "7G9W+49G Taqueria 629, Huehuetenango, Wei Di Ma La ",
+        "phone": "+502 4123 5307",
+        "address": "9G4V+MMW El Shuco Loco, Chiantla, Wei Di Ma La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Taquer%C3%ADa+629/data=!4m7!3m6!1s0x858c172f543002db:0x3caa720d9253ba5b!8m2!3d15.2682036!4d-91.4549523!16s%2Fg%2F11ry_t85dc!19sChIJ2wIwVC8XjIURW7pTkg1yqjw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJDYZ-ttQVjIURu35IdnEdkUY",
-        "name": "OHANA CAFE",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Taco Bell Huehuetenango",
-                "link": "https://www.google.com/maps/search/Taco+Bell+Huehuetenango/@15.308632399999997,-91.4931314?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 477,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Leon's Coffe Huehuetenango",
-                "link": "https://www.google.com/maps/search/Leon%E2%80%99s+Coffe+Huehuetenango/@15.318126500000002,-91.48467289999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Dely Taco",
-                "link": "https://www.google.com/maps/search/Dely+Taco/@15.314635500000001,-91.4694051?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "104914362948987364603",
-            "name": "OHANA CAFE (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104914362948987364603"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHy1bSsBQNMAmY0eJGSGzGL7knp7m8K2FHGtBV=w408-h306-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "OHANA CAFE, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/OHANA+CAFE/data=!4m7!3m6!1s0x858c15d4b67e860d:0x46911d7176487ebb!8m2!3d15.3128282!4d-91.4824758!16s%2Fg%2F11f3s0zwvj!19sChIJDYZ-ttQVjIURu35IdnEdkUY?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/El+Shuco+Loco/data=!4m7!3m6!1s0x858c15de32ddcbb9:0x79942e4a85204082!8m2!3d15.3565751!4d-91.4558149!16s%2Fg%2F11t1hgt730!19sChIJucvdMt4VjIURgkAghUoulHk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJjTvETpAXjIURbJ8R8mnNa6Q",
@@ -4526,68 +4811,6 @@
         "link": "https://www.google.com/maps/place/American+donas/data=!4m7!3m6!1s0x858c15da07e6d0df:0x1f15ab0acfcfe9ff!8m2!3d15.3583427!4d-91.4500832!16s%2Fg%2F11pw8926cf!19sChIJ39DmB9oVjIUR_-nPzwqrFR8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJYcv2cqYVjIURziInAKtjdf8",
-        "name": "Fabrica de Helados",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Helados RoCa",
-                "link": "https://www.google.com/maps/search/Helados+RoCa/@15.3122072,-91.4775981?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Helados Superior",
-                "link": "https://www.google.com/maps/search/Helados+Superior/@15.321867299999997,-91.46535209999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "HELADOS POPS",
-                "link": "https://www.google.com/maps/search/HELADOS+POPS/@15.317029499999999,-91.4746985?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.2,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Helados jumbo",
-                "link": "https://www.google.com/maps/search/Helados+jumbo/@15.32798,-91.4857145?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Dulce Helado",
-                "link": "https://www.google.com/maps/search/Dulce+Helado/@15.3014585,-91.4943898?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Fabrica de Helados (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 3,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "8GH6+RXP Fabrica de Helados, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/F%C3%A1brica+de+Helados/data=!4m7!3m6!1s0x858c15a672f6cb61:0xff7563ab002722ce!8m2!3d15.3295793!4d-91.4875577!16s%2Fg%2F11h_vbk7zg!19sChIJYcv2cqYVjIURziInAKtjdf8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJLS9NjhcXjIURkozJKhQ1qKs",
         "name": "Cafeteria los amigos",
         "description": null,
@@ -4604,7 +4827,7 @@
             {
                 "name": "Cafe Don Alfonso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4636,201 +4859,6 @@
         "link": "https://www.google.com/maps/place/Cafeteria+los+amigos/data=!4m7!3m6!1s0x858c17178e4d2f2d:0xaba835142ac98c92!8m2!3d15.293983!4d-91.4902024!16s%2Fg%2F11r_v63dq2!19sChIJLS9NjhcXjIURkozJKhQ1qKs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJFVz3NbQVjIURVEFTw9AdudY",
-        "name": "Castillo's Cafeteria",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Museo",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Museo/@15.319532500000001,-91.47246059999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 287,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kaffes",
-                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee Shop Rugis",
-                "link": "https://www.google.com/maps/search/Coffee+Shop+Rugis/@15.310996800000002,-91.4908873?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafeteria El Buen Gusto",
-                "link": "https://www.google.com/maps/search/Cafeteria+El+Buen+Gusto/@15.2947676,-91.4906938?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Castillo's Cafeteria (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iRpoKhe3wD1jcqJBoAAzaA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=197.09392&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "13:00-21:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Castillo's Cafeteria, 2a. calle 6-13, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Castillo%C2%B4s+Cafeter%C3%ADa/data=!4m7!3m6!1s0x858c15b435f75c15:0xd6b91dd0c3534154!8m2!3d15.3234145!4d-91.4870414!16s%2Fg%2F11s5s_7wmz!19sChIJFVz3NbQVjIURVEFTw9AdudY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJDXfhLyUUjIURG3DhiUA-PEo",
-        "name": "Es Mas Que Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Calma cafe",
-                "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Museo",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Museo/@15.319532500000001,-91.47246059999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 287,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kaffes",
-                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Bejucos",
-                "link": "https://www.google.com/maps/search/Bejucos/@15.3211848,-91.471487?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
-                "rating": 3.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "\"QUE VA BEER\" Cafe y Restaurant",
-                "link": "https://www.google.com/maps/search/%E2%80%9CQUE+VA+BEER%E2%80%9D+Caf%C3%A9+y+Restaurant/@15.317437499999999,-91.4706875?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Es Mas Que Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e42WUfzshrriOHxjpQ7Dcg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=42.552113&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "8G9H+VP5 Es Mas Que Cafe, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Es+Mas+Que+Caf%C3%A9/data=!4m7!3m6!1s0x858c14252fe1770d:0x4a3c3e4089e1701b!8m2!3d15.3196452!4d-91.4706337!16s%2Fg%2F11c387vs6c!19sChIJDXfhLyUUjIURG3DhiUA-PEo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJy53knE4VjIURaCXqwWmrgYE",
-        "name": "Avenida Nueve A9",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Don Alfonso",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.5,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Cafeteria La Tacita De Plata",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+La+Tacita+De+Plata/@15.320314499999999,-91.470388?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Amor de Cafe",
-                "link": "https://www.google.com/maps/search/Amor+de+Caf%C3%A9/@15.3138253,-91.47768359999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Avenida Nueve A9 (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=11HX2dHHMQTEMxEH9Rhi0g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.40396&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-21:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Avenida Nueve A9, 9a. Avenida 5, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Avenida+Nueve+A9/data=!4m7!3m6!1s0x858c154e9ce49dcb:0x8181ab69c1ea2568!8m2!3d15.318306!4d-91.4740046!16s%2Fg%2F11sg_d8_yb!19sChIJy53knE4VjIURaCXqwWmrgYE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ0andqJMVjIURs5ksUsYuUXM",
-        "name": "Cafe libro Escondido",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "106361963739770432751",
-            "name": "Cafe libro Escondido (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106361963739770432751"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nuX5MBfH8X_dAAMT6lRLlA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=168.74443&pitch=0&thumbfov=100",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+502 5388 8344",
-        "address": "Cafe libro Escondido, Huehuetenango 13000Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+libro+Escondido/data=!4m7!3m6!1s0x858c1593a8dda9d1:0x73512ec6522c99b3!8m2!3d15.3185112!4d-91.5028527!16s%2Fg%2F11v9lx4sc4!19sChIJ0andqJMVjIURs5ksUsYuUXM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJZT-oSpwVjIURKE6pZjGQmGE",
         "name": "Amor de Cafe",
         "description": null,
@@ -4840,7 +4868,7 @@
             {
                 "name": "Calma cafe",
                 "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 318,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4906,12 +4934,12 @@
         "rating": null,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San ",
             "Xing Qi Si ",
             "Xing Qi Wu ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": null,
         "address": "8F2R+G28 Las Luces Coffee and Cake, Huehuetenango, Wei Di Ma La ",
@@ -5222,6 +5250,201 @@
         "link": "https://www.google.com/maps/place/EL+SALON+DE+LA+PREDICA/data=!4m7!3m6!1s0x858c1518a3df388b:0x6776cb2b4c671730!8m2!3d15.3373553!4d-91.4937128!16s%2Fg%2F11jz3x43fm!19sChIJizjfoxgVjIURMBdnTCvLdmc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJFVz3NbQVjIURVEFTw9AdudY",
+        "name": "Castillo's Cafeteria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Cafe Museo",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Museo/@15.319532500000001,-91.47246059999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 287,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kaffes",
+                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Shop Rugis",
+                "link": "https://www.google.com/maps/search/Coffee+Shop+Rugis/@15.310996800000002,-91.4908873?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafeteria El Buen Gusto",
+                "link": "https://www.google.com/maps/search/Cafeteria+El+Buen+Gusto/@15.2947676,-91.4906938?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Castillo's Cafeteria (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iRpoKhe3wD1jcqJBoAAzaA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=197.09392&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "13:00-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Castillo's Cafeteria, 2a. calle 6-13, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Castillo%C2%B4s+Cafeter%C3%ADa/data=!4m7!3m6!1s0x858c15b435f75c15:0xd6b91dd0c3534154!8m2!3d15.3234145!4d-91.4870414!16s%2Fg%2F11s5s_7wmz!19sChIJFVz3NbQVjIURVEFTw9AdudY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJDXfhLyUUjIURG3DhiUA-PEo",
+        "name": "Es Mas Que Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Calma cafe",
+                "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 318,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Museo",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Museo/@15.319532500000001,-91.47246059999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 287,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kaffes",
+                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Bejucos",
+                "link": "https://www.google.com/maps/search/Bejucos/@15.3211848,-91.471487?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 38,
+                "rating": 3.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "\"QUE VA BEER\" Cafe y Restaurant",
+                "link": "https://www.google.com/maps/search/%E2%80%9CQUE+VA+BEER%E2%80%9D+Caf%C3%A9+y+Restaurant/@15.317437499999999,-91.4706875?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Es Mas Que Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e42WUfzshrriOHxjpQ7Dcg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=42.552113&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "8G9H+VP5 Es Mas Que Cafe, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Es+Mas+Que+Caf%C3%A9/data=!4m7!3m6!1s0x858c14252fe1770d:0x4a3c3e4089e1701b!8m2!3d15.3196452!4d-91.4706337!16s%2Fg%2F11c387vs6c!19sChIJDXfhLyUUjIURG3DhiUA-PEo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJy53knE4VjIURaCXqwWmrgYE",
+        "name": "Avenida Nueve A9",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Cafe Don Alfonso",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4.5,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Cafeteria La Tacita De Plata",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+La+Tacita+De+Plata/@15.320314499999999,-91.470388?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Amor de Cafe",
+                "link": "https://www.google.com/maps/search/Amor+de+Caf%C3%A9/@15.3138253,-91.47768359999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Avenida Nueve A9 (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=11HX2dHHMQTEMxEH9Rhi0g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.40396&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "10:00-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Avenida Nueve A9, 9a. Avenida 5, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Avenida+Nueve+A9/data=!4m7!3m6!1s0x858c154e9ce49dcb:0x8181ab69c1ea2568!8m2!3d15.318306!4d-91.4740046!16s%2Fg%2F11sg_d8_yb!19sChIJy53knE4VjIURaCXqwWmrgYE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0andqJMVjIURs5ksUsYuUXM",
+        "name": "Cafe libro Escondido",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "106361963739770432751",
+            "name": "Cafe libro Escondido (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106361963739770432751"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nuX5MBfH8X_dAAMT6lRLlA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=168.74443&pitch=0&thumbfov=100",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": null,
+        "workday_timing": "10:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+502 5388 8344",
+        "address": "Cafe libro Escondido, Huehuetenango 13000Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+libro+Escondido/data=!4m7!3m6!1s0x858c1593a8dda9d1:0x73512ec6522c99b3!8m2!3d15.3185112!4d-91.5028527!16s%2Fg%2F11v9lx4sc4!19sChIJ0andqJMVjIURs5ksUsYuUXM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJfQFoblAVjIURSsecPWXKt7Y",
         "name": "La Bodega Suiza",
         "description": null,
@@ -5489,68 +5712,6 @@
         "link": "https://www.google.com/maps/place/LA+PARRILLA+DE+YULIZA/data=!4m7!3m6!1s0x858c178758e14585:0xb2c3d32d07b7b00!8m2!3d15.2952973!4d-91.491758!16s%2Fg%2F11ppghpszc!19sChIJhUXhWIcXjIURAHt70DI9LAs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJV22WVm4VjIUR95IDOju1FA0",
-        "name": "PAQUITA !YA ESTA SERVIDO!",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Paquita Estadio",
-                "link": "https://www.google.com/maps/search/Paquita+Estadio/@15.319331899999998,-91.48311029999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Tienda Dona Anita",
-                "link": "https://www.google.com/maps/search/Tienda+Do%C3%B1a+Anita/@15.3528596,-91.45870819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Paquita",
-                "link": "https://www.google.com/maps/search/Paquita/@15.3206875,-91.47093749999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "El Garage de Patty.",
-                "link": "https://www.google.com/maps/search/El+Garage+de+Patty./@15.3553747,-91.4591546?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Saga",
-                "link": "https://www.google.com/maps/search/Saga/@15.4548872,-91.4864333?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "PAQUITA !YA ESTA SERVIDO! (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "9G4R+6Q4 PAQUITA !YA ESTA SERVIDO!, Chiantla, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PAQUITA+%C2%A1YA+ESTA+SERVIDO!/data=!4m7!3m6!1s0x858c156e56966d57:0xd14b53b3a0392f7!8m2!3d15.3555215!4d-91.4580409!16s%2Fg%2F11thd_22vj!19sChIJV22WVm4VjIUR95IDOju1FA0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJCybV4iIXjIURAJaLKDBQsEQ",
         "name": "Pollo Granjero 142 terminal",
         "description": null,
@@ -5577,132 +5738,92 @@
         "link": "https://www.google.com/maps/place/Pollo+Granjero+142+terminal/data=!4m7!3m6!1s0x858c1722e2d5260b:0x44b05030288b9600!8m2!3d15.3053572!4d-91.4748932!16s%2Fg%2F11ssx11rn2!19sChIJCybV4iIXjIURAJaLKDBQsEQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ_fRRk_4VjIURVjERZpZ5MZs",
-        "name": "CARWASH SAN SOJE",
+        "place_id": "ChIJG6GbnPcVjIURG8LpVaFEaLU",
+        "name": "Hanss",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
-        "competitors": [
-            {
-                "name": "Car wash chuscaj",
-                "link": "https://www.google.com/maps/search/Car+wash+chuscaj/@15.358141499999997,-91.4602482?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
-                "rating": 3.5,
-                "main_category": "Zi Zhu Xi Che Chang "
-            },
-            {
-                "name": "SOSA carwash",
-                "link": "https://www.google.com/maps/search/SOSA+carwash/@15.3210285,-91.4741203?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Xi Che Fu Wu "
-            },
-            {
-                "name": "Yoscarwash",
-                "link": "https://www.google.com/maps/search/Yoscarwash/@15.304531599999999,-91.4933329?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Xi Che Fu Wu "
-            },
-            {
-                "name": "Samy Carwash",
-                "link": "https://www.google.com/maps/search/Samy+Carwash/@15.329414,-91.4830561?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Xi Che Fu Wu "
-            },
-            {
-                "name": "Jose's Carwash Parqueo",
-                "link": "https://www.google.com/maps/search/Jose%27s+Carwash+Parqueo/@15.322643300000001,-91.47419719999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Xi Che Fu Wu "
-            }
-        ],
+        "competitors": [],
         "website": null,
         "owner": {
             "id": null,
-            "name": "CARWASH SAN SOJE (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPUrcAsdXwgtO3xz7mjWkr3K4KOicZ9juWe2Je=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+502 5326 8689",
-        "address": "8G58+W86 CARWASH SAN SOJE, Unnamed Road, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/CARWASH+SAN+SOJ%C3%89/data=!4m7!3m6!1s0x858c15fe9351f4fd:0x9b31799666113156!8m2!3d15.3097966!4d-91.4842275!16s%2Fg%2F11h4lkbpg4!19sChIJ_fRRk_4VjIURVjERZpZ5MZs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJlRFiIA8WjIUROA3cNR5kqi0",
-        "name": "Specialty Coffee Options, Huehuetenango",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Don Alfonso",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Don+Alfonso/@15.3184332,-91.47181929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.5,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Kaffes",
-                "link": "https://www.google.com/maps/search/Kaffes/@15.3220688,-91.49525799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Exportcafe",
-                "link": "https://www.google.com/maps/search/Exportcafe/@15.314625399999999,-91.5411736?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4.4,
-                "main_category": "Ka Pei Pi Fa Shang "
-            },
-            {
-                "name": "Agroexport",
-                "link": "https://www.google.com/maps/search/Agroexport/@15.314509399999999,-91.5408661?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "EXPORTADORES DE CAFE",
-                "link": "https://www.google.com/maps/search/EXPORTADORES+DE+CAFE/@15.3145607,-91.54205789999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Chu Kou Shang "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Specialty Coffee Options, Huehuetenango (Ye Zhu )",
+            "name": "Hanss (Ye Zhu )",
             "link": null
         },
         "featured_image": null,
-        "main_category": "Gong Si Ban Gong Shi ",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Gong Si Ban Gong Shi "
+            "Ka Pei Dian "
         ],
         "rating": null,
-        "workday_timing": "08:30-16:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+502 7762 7790",
-        "address": "Specialty Coffee Options, Huehuetenango, Pan-American Highway, Huehuetenango, Wei Di Ma La ",
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "9G4V+FHF Hanss, RN-9N, Huehuetenango, Wei Di Ma La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Specialty+Coffee+Options,+Huehuetenango/data=!4m7!3m6!1s0x858c160f20621195:0x2daa641e35dc0d38!8m2!3d15.3009229!4d-91.5087913!16s%2Fg%2F11f3097gwk!19sChIJlRFiIA8WjIUROA3cNR5kqi0?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Hanss/data=!4m7!3m6!1s0x858c15f79c9ba11b:0xb56844a155e9c21b!8m2!3d15.3562906!4d-91.456069!16s%2Fg%2F11kpndq5jp!19sChIJG6GbnPcVjIURG8LpVaFEaLU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJf4_DSko_jIURq3FmF3T2pdA",
+        "name": "Comida casera, rica e higienica \"Ranchito el Naranjo\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "El Casero",
+                "link": "https://www.google.com/maps/search/El+Casero/@15.3157404,-91.4726852?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Restaurante Mi Ranchito",
+                "link": "https://www.google.com/maps/search/Restaurante+Mi+Ranchito/@15.3238756,-91.5031207?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 3.9,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "Casa vieja Restaurant",
+                "link": "https://www.google.com/maps/search/Casa+vieja+Restaurant/@15.3556994,-91.4576443?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Restaurante Rincon Hogareno",
+                "link": "https://www.google.com/maps/search/Restaurante+Rinc%C3%B3n+Hogare%C3%B1o/@15.358171299999999,-91.4514038?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Rou Fan "
+            },
+            {
+                "name": "Restaurante Comida Gourmet",
+                "link": "https://www.google.com/maps/search/Restaurante+Comida+Gourmet/@15.318039200000001,-91.4847401?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Comida casera, rica e higienica \"Ranchito el Naranjo\" (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQ63jOTtblzJh31SyaT3HGjxUxbNCq4xUEmF2y=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "07:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "8FC9+GHV Comida casera, rica e higienica \"Ranchito el Naranjo\", El Naranjo, Aldea Chivacabe, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Comida+casera,+rica+e+higi%C3%A9nica+%22Ranchito+el+Naranjo%22/data=!4m7!3m6!1s0x858c3f4a4ac38f7f:0xd0a5f674176671ab!8m2!3d15.3213728!4d-91.5310768!16s%2Fg%2F11q3dcjgsy!19sChIJf4_DSko_jIURq3FmF3T2pdA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJbZrcnz8VjIURonoVHZYx5u8",
@@ -5802,8 +5923,8 @@
         "rating": null,
         "workday_timing": "08:00-16:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+502 4999 6163",
         "address": "CAFE ARTESANAL, 7a Calle 6, 15, Huehuetenango, Wei Di Ma La ",
@@ -5875,8 +5996,15 @@
             {
                 "name": "Restaurante el Jardin",
                 "link": "https://www.google.com/maps/search/Restaurante+el+Jard%C3%ADn/@15.31976,-91.4707842?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 264,
+                "reviews": 265,
                 "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Cafe La Terraza",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Terraza/@15.317630699999999,-91.4719885?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 39,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -5885,13 +6013,6 @@
                 "reviews": 38,
                 "rating": 4.2,
                 "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Cafe La Terraza",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Terraza/@15.317630699999999,-91.4719885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
-                "rating": 4.8,
-                "main_category": "Can Ting "
             }
         ],
         "website": null,
@@ -5914,30 +6035,130 @@
         "link": "https://www.google.com/maps/place/Giardino+cafe+%2F+waffles/data=!4m7!3m6!1s0x858c15f6aa9dfe77:0xca76ff28cf51021!8m2!3d15.3170495!4d-91.4649091!16s%2Fg%2F11h895yh2k!19sChIJd_6dqvYVjIURIRD1jPJvpww?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJk8smY_UTjIURJWztUjHxwZI",
-        "name": "Antojitos Valentina",
+        "place_id": "ChIJV22WVm4VjIUR95IDOju1FA0",
+        "name": "PAQUITA !YA ESTA SERVIDO!",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
-        "competitors": [],
+        "competitors": [
+            {
+                "name": "Paquita Estadio",
+                "link": "https://www.google.com/maps/search/Paquita+Estadio/@15.319331899999998,-91.48311029999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 41,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Tienda Dona Anita",
+                "link": "https://www.google.com/maps/search/Tienda+Do%C3%B1a+Anita/@15.3528596,-91.45870819999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Paquita",
+                "link": "https://www.google.com/maps/search/Paquita/@15.3206875,-91.47093749999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "El Garage de Patty.",
+                "link": "https://www.google.com/maps/search/El+Garage+de+Patty./@15.3553747,-91.4591546?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Saga",
+                "link": "https://www.google.com/maps/search/Saga/@15.4548872,-91.4864333?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Antojitos Valentina (Ye Zhu )",
+            "name": "PAQUITA !YA ESTA SERVIDO! (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNL1HlcLx0mPGD4VoVAtO5hcusFBo4B0ytdohRk=w408-h306-k-no",
+        "featured_image": null,
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
         "rating": null,
-        "workday_timing": "17:00-22:00",
+        "workday_timing": "06:00-22:00",
         "closed_on": "Open All Days",
-        "phone": "+502 4848 4936",
-        "address": "8HC9+HF Antojitos Valentina, Huehuetenango, Wei Di Ma La ",
+        "phone": null,
+        "address": "9G4R+6Q4 PAQUITA !YA ESTA SERVIDO!, Chiantla, Wei Di Ma La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Antojitos+Valentina/data=!4m7!3m6!1s0x858c13f56326cb93:0x92c1f13152ed6c25!8m2!3d15.3214479!4d-91.431316!16s%2Fg%2F11v3j7p4nd!19sChIJk8smY_UTjIURJWztUjHxwZI?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/PAQUITA+%C2%A1YA+ESTA+SERVIDO!/data=!4m7!3m6!1s0x858c156e56966d57:0xd14b53b3a0392f7!8m2!3d15.3555215!4d-91.4580409!16s%2Fg%2F11thd_22vj!19sChIJV22WVm4VjIUR95IDOju1FA0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_fRRk_4VjIURVjERZpZ5MZs",
+        "name": "CARWASH SAN SOJE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Car wash chuscaj",
+                "link": "https://www.google.com/maps/search/Car+wash+chuscaj/@15.358141499999997,-91.4602482?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 22,
+                "rating": 3.5,
+                "main_category": "Zi Zhu Xi Che Chang "
+            },
+            {
+                "name": "SOSA carwash",
+                "link": "https://www.google.com/maps/search/SOSA+carwash/@15.3210285,-91.4741203?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Xi Che Fu Wu "
+            },
+            {
+                "name": "Yoscarwash",
+                "link": "https://www.google.com/maps/search/Yoscarwash/@15.304531599999999,-91.4933329?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Xi Che Fu Wu "
+            },
+            {
+                "name": "Samy Carwash",
+                "link": "https://www.google.com/maps/search/Samy+Carwash/@15.329414,-91.4830561?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Xi Che Fu Wu "
+            },
+            {
+                "name": "Jose's Carwash Parqueo",
+                "link": "https://www.google.com/maps/search/Jose%27s+Carwash+Parqueo/@15.322643300000001,-91.47419719999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Xi Che Fu Wu "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CARWASH SAN SOJE (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPUrcAsdXwgtO3xz7mjWkr3K4KOicZ9juWe2Je=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+502 5326 8689",
+        "address": "8G58+W86 CARWASH SAN SOJE, Unnamed Road, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CARWASH+SAN+SOJ%C3%89/data=!4m7!3m6!1s0x858c15fe9351f4fd:0x9b31799666113156!8m2!3d15.3097966!4d-91.4842275!16s%2Fg%2F11h4lkbpg4!19sChIJ_fRRk_4VjIURVjERZpZ5MZs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJMdWfzL4VjIURlJAyGtM_FcQ",
@@ -5988,6 +6209,94 @@
         "link": "https://www.google.com/maps/place/La+Never%C3%ADa/data=!4m7!3m6!1s0x858c15becc9fd531:0xc4153fd31a329094!8m2!3d15.3082104!4d-91.4935794!16s%2Fg%2F11fsz1ykcv!19sChIJMdWfzL4VjIURlJAyGtM_FcQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJk8smY_UTjIURJWztUjHxwZI",
+        "name": "Antojitos Valentina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Antojitos Valentina (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNL1HlcLx0mPGD4VoVAtO5hcusFBo4B0ytdohRk=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "17:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+502 4848 4936",
+        "address": "8HC9+HF Antojitos Valentina, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Antojitos+Valentina/data=!4m7!3m6!1s0x858c13f56326cb93:0x92c1f13152ed6c25!8m2!3d15.3214479!4d-91.431316!16s%2Fg%2F11v3j7p4nd!19sChIJk8smY_UTjIURJWztUjHxwZI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJKQhLj-gVjIURNwAXvnU5Ycg",
+        "name": "The Pig Tacos Y Carnitas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "El Garage de Patty.",
+                "link": "https://www.google.com/maps/search/El+Garage+de+Patty./@15.3553747,-91.4591546?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "CAFETERIA LA MEXICANA TORTAS I QUESADILLAS",
+                "link": "https://www.google.com/maps/search/CAFETERIA+LA+MEXICANA+TORTAS+I+QUESADILLAS/@15.3370433,-91.4798612?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "La Posilga del Taco",
+                "link": "https://www.google.com/maps/search/La+Posilga+del+Taco/@15.356498499999999,-91.4549254?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "PAQUITA !YA ESTA SERVIDO!",
+                "link": "https://www.google.com/maps/search/PAQUITA+%C2%A1YA+ESTA+SERVIDO%21/@15.3555215,-91.4580409?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "PARQUEO EL MIRADOR",
+                "link": "https://www.google.com/maps/search/PARQUEO+EL+MIRADOR/@15.400680600000001,-91.43811099999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Pig Tacos Y Carnitas (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+502 4629 9469",
+        "address": "The Pig Tacos Y Carnitas, ferreteria figueroa, 7a. avenida. 1-50 zona 4 chuscaj chiantla frente a, Chiantla 13002Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Pig+Tacos+Y+Carnitas/data=!4m7!3m6!1s0x858c15e88f4b0829:0xc8613975be170037!8m2!3d15.3580379!4d-91.4599456!16s%2Fg%2F11t7zp450b!19sChIJKQhLj-gVjIURNwAXvnU5Ycg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJGePe8ToUjIURRud0avmZGb8",
         "name": "Cafe El Portalito",
         "description": null,
@@ -5997,7 +6306,7 @@
             {
                 "name": "Calma cafe",
                 "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 318,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -6052,7 +6361,7 @@
             {
                 "name": "Calma cafe",
                 "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 318,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -6103,61 +6412,6 @@
         "address": "8GFF+WPW Croquis, CROQUIS, Huehuetenango, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Croquis/data=!4m7!3m6!1s0x858c15e5f8fa2101:0x3817bb1b7f948b05!8m2!3d15.3248554!4d-91.4756665!16s%2Fg%2F11s55jmt6x!19sChIJASH6-OUVjIURBYuUfxu7Fzg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJlyrhT3cWjIURQwGC7yczy0M",
-        "name": "Caceta Desayunos Almuerzos",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Calma cafe",
-                "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "La Charcuteria",
-                "link": "https://www.google.com/maps/search/La+Charcuteria/@15.3184122,-91.50491319999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "La Casita Cafeteria",
-                "link": "https://www.google.com/maps/search/La+Casita+Cafeter%C3%ADa/@15.3265345,-91.56095119999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Restaurante Comida Gourmet",
-                "link": "https://www.google.com/maps/search/Restaurante+Comida+Gourmet/@15.318039200000001,-91.4847401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Caceta Desayunos Almuerzos (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZGjHyaTfniN3CCH77wTuQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=79.16224&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "8G25+X2Q Caceta Desayunos Almuerzos, Huehuetenango, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caceta+Desayunos+Almuerzos/data=!4m7!3m6!1s0x858c16774fe12a97:0x43cb3327ef820143!8m2!3d15.3024704!4d-91.492385!16s%2Fg%2F11dym2825z!19sChIJlyrhT3cWjIURQwGC7yczy0M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJm0bCnX8VjIURAa8-CEgSmNk",
@@ -6245,8 +6499,8 @@
             {
                 "name": "BOBARISTA - Distrito 1301 Food Park",
                 "link": "https://www.google.com/maps/search/BOBARISTA+-+Distrito+1301+Food+Park/@15.319775499999997,-91.4974809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.4,
+                "reviews": 6,
+                "rating": 4.5,
                 "main_category": "Zhen Zhu Nai Cha "
             },
             {
@@ -6282,6 +6536,61 @@
         "address": "9G3V+WJX Cafeteria Schibolet, RN-9N, Huehuetenango, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Schibolet/data=!4m7!3m6!1s0x858c150bcd870e91:0x601d2fa5e71a6c7!8m2!3d15.3548632!4d-91.4558925!16s%2Fg%2F11gtblhnhq!19sChIJkQ6HzQsVjIURx6ZxXvrSAQY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJlyrhT3cWjIURQwGC7yczy0M",
+        "name": "Caceta Desayunos Almuerzos",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Calma cafe",
+                "link": "https://www.google.com/maps/search/Calma+caf%C3%A9/@15.3175326,-91.47939889999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 318,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "La Charcuteria",
+                "link": "https://www.google.com/maps/search/La+Charcuteria/@15.3184122,-91.50491319999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "La Casita Cafeteria",
+                "link": "https://www.google.com/maps/search/La+Casita+Cafeter%C3%ADa/@15.3265345,-91.56095119999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Restaurante Comida Gourmet",
+                "link": "https://www.google.com/maps/search/Restaurante+Comida+Gourmet/@15.318039200000001,-91.4847401?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Caceta Desayunos Almuerzos (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZGjHyaTfniN3CCH77wTuQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=79.16224&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "8G25+X2Q Caceta Desayunos Almuerzos, Huehuetenango, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caceta+Desayunos+Almuerzos/data=!4m7!3m6!1s0x858c16774fe12a97:0x43cb3327ef820143!8m2!3d15.3024704!4d-91.492385!16s%2Fg%2F11dym2825z!19sChIJlyrhT3cWjIURQwGC7yczy0M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJw7P9u4YVjIURTuHdOWtAG_8",

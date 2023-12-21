@@ -1,15 +1,106 @@
 [
     {
-        "place_id": "ChIJx3oqTW9bZo8Rki2mVYndxfU",
-        "name": "Incanta Cafe",
+        "place_id": "ChIJXWqlsT9bZo8R0xn-L358mTo",
+        "name": "CAFETEO * Teatro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1174,
+        "reviews": 1391,
         "competitors": [
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
+                "rating": 4.5,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "CAFETEO * Los Proceres",
+                "link": "https://www.google.com/maps/search/CAFETEO+%E2%80%A2+Los+Pr%C3%B3ceres/@15.5074084,-88.0419593?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 501,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "The Corner Coffee Bar",
+                "link": "https://www.google.com/maps/search/The+Corner+Coffee+Bar/@15.5102483,-88.03863899999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 174,
+                "rating": 4.4,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "Cafeteo * Altara",
+                "link": "https://www.google.com/maps/search/Cafeteo+%E2%80%A2+Altara/@15.562674199999998,-88.0216727?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 80,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Entre Cafe & Tinto",
+                "link": "https://www.google.com/maps/search/Entre+Caf%C3%A9+%26+Tinto/@15.503333000000001,-88.03896259999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 22,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/cafeteo",
+        "owner": {
+            "id": null,
+            "name": "CAFETEO * Teatro (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDv8N3pNUWxJQ0wH8goU8_-o90VK15AKtD3qvG=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:30-20:30",
+        "closed_on": "Open All Days",
+        "phone": "+504 2553-4656",
+        "address": "GX9C+225 CAFETEO * Teatro, frente a Teatro Jose Francisco Saybe, San Pedro Sula, 11 Avenida NO, San Pedro Sula, Hong Du La Si ",
+        "review_keywords": [
+            {
+                "keyword": "Kou Wei ",
+                "count": 19
+            },
+            {
+                "keyword": "Tian Dian ",
+                "count": 17
+            },
+            {
+                "keyword": "Hui Yi ",
+                "count": 13
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 10
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 9
+            },
+            {
+                "keyword": "Di Ban ",
+                "count": 6
+            },
+            {
+                "keyword": "Hu Luo Bo Dan Gao ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/CAFETEO+%E2%80%A2+Teatro/data=!4m7!3m6!1s0x8f665b3fb1a56a5d:0x3a997c7e2ffe19d3!8m2!3d15.517517!4d-88.0298806!16s%2Fg%2F11bbrmnps6!19sChIJXWqlsT9bZo8R0xn-L358mTo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJx3oqTW9bZo8Rki2mVYndxfU",
+        "name": "Incanta Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1177,
+        "competitors": [
+            {
+                "name": "Panistro * Los Andes",
+                "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -30,7 +121,7 @@
             {
                 "name": "Incanta Cafe Zeron",
                 "link": "https://www.google.com/maps/search/%C3%8Enc%C3%A2nta+Caf%C3%A9+Zer%C3%B3n/@15.516398299999999,-88.0382813?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 208,
+                "reviews": 209,
                 "rating": 4.6,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -62,7 +153,7 @@
         "review_keywords": [
             {
                 "keyword": "Tian Dian ",
-                "count": 46
+                "count": 47
             },
             {
                 "keyword": "Huan Jing ",
@@ -71,6 +162,10 @@
             {
                 "keyword": "Di Qu ",
                 "count": 28
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 26
             },
             {
                 "keyword": "Fu You ",
@@ -91,10 +186,6 @@
             {
                 "keyword": "Gai Nian ",
                 "count": 6
-            },
-            {
-                "keyword": "Gao ",
-                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Incanta+Caf%C3%A9/data=!4m7!3m6!1s0x8f665b6f4d2a7ac7:0xf5c5dd8955a62d92!8m2!3d15.5045815!4d-88.0362286!16s%2Fg%2F11c4d_s2kv!19sChIJx3oqTW9bZo8Rki2mVYndxfU?authuser=0&hl=zh-TW&rclk=1"
@@ -109,21 +200,21 @@
             {
                 "name": "Incanta Cafe",
                 "link": "https://www.google.com/maps/search/Incanta+Caf%C3%A9/@15.504581499999999,-88.0362286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1176,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Welchez Cafe * Pedregal",
                 "link": "https://www.google.com/maps/search/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/@15.528237800000001,-88.0397717?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -202,7 +293,7 @@
             {
                 "name": "Welchez Cafe",
                 "link": "https://www.google.com/maps/search/Welchez+Cafe/@15.5054163,-88.0423699?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1753,
+                "reviews": 1754,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -254,6 +345,10 @@
                 "count": 23
             },
             {
+                "keyword": "Zao Can ",
+                "count": 21
+            },
+            {
                 "keyword": "Jia Ge ",
                 "count": 20
             },
@@ -280,10 +375,6 @@
             {
                 "keyword": "Shou Yin ",
                 "count": 5
-            },
-            {
-                "keyword": "Ting Che Chang ",
-                "count": 4
             }
         ],
         "link": "https://www.google.com/maps/place/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/data=!4m7!3m6!1s0x8f665b4b65643865:0x23e35b720bc96a6c!8m2!3d15.5282378!4d-88.0397717!16s%2Fg%2F11fl9l22rr!19sChIJZThkZUtbZo8RbGrJC3Jb4yM?authuser=0&hl=zh-TW&rclk=1"
@@ -293,12 +384,12 @@
         "name": "L'art Du Pain",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 627,
+        "reviews": 630,
         "competitors": [
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -342,10 +433,6 @@
         "address": "GX36+R4J L'art Du Pain, 21104 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [
             {
-                "keyword": "Tian Dian ",
-                "count": 33
-            },
-            {
                 "keyword": "Mian Bao Dian ",
                 "count": 24
             },
@@ -364,6 +451,10 @@
             {
                 "keyword": "San Ming Zhi ",
                 "count": 9
+            },
+            {
+                "keyword": "Gao ",
+                "count": 6
             },
             {
                 "keyword": "Huan Jing ",
@@ -393,7 +484,7 @@
             {
                 "name": "Daheim Coffee Shop",
                 "link": "https://www.google.com/maps/search/Daheim+Coffee+Shop/@15.5106334,-88.0336401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 243,
+                "reviews": 245,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -469,84 +560,6 @@
         "link": "https://www.google.com/maps/place/Merendon+Coffee/data=!4m7!3m6!1s0x8f665bc3665e5763:0x2ed7c4b4147c3108!8m2!3d15.5484181!4d-88.0353074!16s%2Fg%2F11ghnxm4nw!19sChIJY1deZsNbZo8RCDF8FLTE1y4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJM-0eL8BaZo8Ro9mltmQq3ko",
-        "name": "La Hogaza de Pan",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 270,
-        "competitors": [
-            {
-                "name": "Kaahwe Cafe",
-                "link": "https://www.google.com/maps/search/Kaahwe+Caf%C3%A9/@15.545409899999997,-88.0134889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1011,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Boutique del Pan",
-                "link": "https://www.google.com/maps/search/Boutique+del+Pan/@15.508923200000002,-88.03564539999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 343,
-                "rating": 4.6,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "The Coffee Market",
-                "link": "https://www.google.com/maps/search/The+Coffee+Market/@15.558716800000001,-88.0292595?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 256,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "La Cocina de Dayi",
-                "link": "https://www.google.com/maps/search/La+Cocina+de+Dayi/@15.526137199999999,-88.03894410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "https://lahogazadepan.com/",
-        "owner": {
-            "id": null,
-            "name": "La Hogaza de Pan (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNyRaVBWAFuu-iQLvIldulFam3c2S_X-k7hjJJs=w408-h306-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian ",
-            "Zi Zhu Can Ting ",
-            "Can Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "07:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+504 9458-6032",
-        "address": "HX59+VHF La Hogaza de Pan, Mackay, 21102 San Pedro Sula, Hong Du La Si ",
-        "review_keywords": [
-            {
-                "keyword": "Ka Pei ",
-                "count": 19
-            },
-            {
-                "keyword": "Pin Zhi ",
-                "count": 8
-            },
-            {
-                "keyword": "Chan Pin ",
-                "count": 6
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 6
-            },
-            {
-                "keyword": "Mian Fen ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/La+Hogaza+de+Pan/data=!4m7!3m6!1s0x8f665ac02f1eed33:0x4ade2a64b6a5d9a3!8m2!3d15.559692!4d-88.0310762!16s%2Fg%2F11cssk64t4!19sChIJM-0eL8BaZo8Ro9mltmQq3ko?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJWYyYf0ZbZo8RAVOk7qklt9M",
         "name": "Espresso Americano * Plaza City Light",
         "description": null,
@@ -556,7 +569,7 @@
             {
                 "name": "Espresso Americano * 13 Avenida NO",
                 "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1207,
+                "reviews": 1208,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -620,7 +633,7 @@
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -711,7 +724,7 @@
         "name": "Teto's Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 254,
+        "reviews": 255,
         "competitors": [
             {
                 "name": "CAFETEO * Los Proceres",
@@ -742,8 +755,8 @@
                 "main_category": "Can Ting "
             },
             {
-                "name": "Cafeteria wilton",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+wilton/@15.494574600000002,-88.0439133?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Cafeteria Wilton",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Wilton/@15.494574600000002,-88.0439133?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 3,
                 "rating": 5,
                 "main_category": "Can Ting "
@@ -763,7 +776,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "08:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+504 9408-5952",
         "address": "FXW6+G2 Teto's Cafe, 21 11 Calle S, 21104 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [
@@ -874,7 +889,7 @@
         "name": "Duchess Coffee Shop * Plaza Juan Lindo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 212,
+        "reviews": 214,
         "competitors": [
             {
                 "name": "Merendon Coffee",
@@ -886,7 +901,7 @@
             {
                 "name": "Daheim Coffee Shop",
                 "link": "https://www.google.com/maps/search/Daheim+Coffee+Shop/@15.5106334,-88.0336401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 243,
+                "reviews": 245,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -900,7 +915,7 @@
             {
                 "name": "London Restaurant & Bar * Plaza Juan Lindo",
                 "link": "https://www.google.com/maps/search/London+Restaurant+%26+Bar+%E2%80%A2+Plaza+Juan+Lindo/@15.518295400000001,-88.0433061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
+                "reviews": 113,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -1054,14 +1069,14 @@
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "La Merienda",
                 "link": "https://www.google.com/maps/search/La+Merienda/@15.4985401,-88.0347748?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1021,
+                "reviews": 1024,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -1175,11 +1190,94 @@
         "link": "https://www.google.com/maps/place/Espresso+Americano+Solo+Autoservicio./data=!4m7!3m6!1s0x8f665bd4105c387f:0xce4b7b6a8a3b7195!8m2!3d15.5041137!4d-88.0367436!16s%2Fg%2F11qrxg1vrn!19sChIJfzhcENRbZo8RlXE7imp7S84?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJxQbKL8JbZo8R_2r4-GxLtqs",
+        "name": "Kaahwe Cafe * Foresta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 152,
+        "competitors": [
+            {
+                "name": "Kaahwe Cafe",
+                "link": "https://www.google.com/maps/search/Kaahwe+Caf%C3%A9/@15.545409899999997,-88.0134889?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1011,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Caobas Cafe & Vivero",
+                "link": "https://www.google.com/maps/search/Caobas+Caf%C3%A9+%26+Vivero/@15.563839999999999,-88.0306645?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 256,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "KFC * Foresta",
+                "link": "https://www.google.com/maps/search/KFC+%E2%80%A2+Foresta/@15.547471100000001,-88.0343807?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 82,
+                "rating": 4.2,
+                "main_category": "Kuai Can "
+            },
+            {
+                "name": "Cafeteria KIRA",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+KIRA/@15.492184699999997,-88.0004252?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Halawe Cafe",
+                "link": "https://www.google.com/maps/search/Halawe+Caf%C3%A9/@15.508444100000002,-88.02730729999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.instagram.com/kaahwecafe/",
+        "owner": {
+            "id": "114311279190452437882",
+            "name": "Kaahwe Cafe * Foresta (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114311279190452437882"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4VTS8Y0O_Bw2m4hoIqR0Mm1QCzqamLBXqKAvb=w408-h509-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:00-20:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Kaahwe Cafe * Foresta, Centro Comercial Foresta, Boulevard Mackey, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [
+            {
+                "keyword": "Huan Jing ",
+                "count": 9
+            },
+            {
+                "keyword": "Tian Dian ",
+                "count": 6
+            },
+            {
+                "keyword": "Jing Yan ",
+                "count": 5
+            },
+            {
+                "keyword": "Gong Xiang ",
+                "count": 3
+            },
+            {
+                "keyword": "Pin Zhi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kaahwe+Caf%C3%A9+%E2%80%A2+Foresta/data=!4m7!3m6!1s0x8f665bc22fca06c5:0xabb64b6cf8f86aff!8m2!3d15.5472988!4d-88.0342724!16s%2Fg%2F11rcw7_xqm!19sChIJxQbKL8JbZo8R_2r4-GxLtqs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJeQcCBrVFZo8RecxxFiqAi68",
         "name": "Espresso Americano",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 150,
+        "reviews": 151,
         "competitors": [
             {
                 "name": "Espresso Americano Mall Multiplaza",
@@ -1289,6 +1387,73 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Hanan%27s+Coffee+Bakery/data=!4m7!3m6!1s0x8f665b65338a5f27:0x41242fbaf24571b8!8m2!3d15.4971513!4d-88.0401712!16s%2Fg%2F11ddxw2nlz!19sChIJJ1-KM2VbZo8RuHFF8rovJEE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJedVB2pJbZo8R2rjsaY2oxzk",
+        "name": "Espresso Americano * SHELL Junior",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 129,
+        "competitors": [
+            {
+                "name": "Espresso Americano * 13 Avenida NO",
+                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1208,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Espresso Americano * Bulevar UNAH-VS",
+                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Bulevar+UNAH-VS/@15.529750600000002,-88.0320375?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 680,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Espresso Americano Solo Autoservicio.",
+                "link": "https://www.google.com/maps/search/Espresso+Americano+Solo+Autoservicio./@15.504113700000001,-88.0367436?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 153,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Espresso Americano",
+                "link": "https://www.google.com/maps/search/Espresso+Americano/@15.506398800000001,-88.0131372?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Espresso Americano * Plaza 105",
+                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Plaza+105/@15.5196582,-88.02474149999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "http://espressoamericano.coffee/",
+        "owner": {
+            "id": null,
+            "name": "Espresso Americano * SHELL Junior (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMcxBoGI9eQ5D8C5oMSdR9djNS53MIgTX6AjGUs=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-19:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "GX9M+478 Espresso Americano * SHELL Junior, 21101 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [
+            {
+                "keyword": "Pin Zhi ",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Espresso+Americano+%E2%80%A2+SHELL+Junior/data=!4m7!3m6!1s0x8f665b92da41d579:0x39c7a88d69ecb8da!8m2!3d15.5177974!4d-88.016784!16s%2Fg%2F11j7ymq05z!19sChIJedVB2pJbZo8R2rjsaY2oxzk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJq6raWmFbZo8RMVQxdQbNScs",
@@ -1442,7 +1607,7 @@
             {
                 "name": "Espresso Americano * 13 Avenida NO",
                 "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1207,
+                "reviews": 1208,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -1495,68 +1660,6 @@
         "link": "https://www.google.com/maps/place/Espresso+Americano/data=!4m7!3m6!1s0x8f665ba195805a4f:0xf82507d0f2aabd66!8m2!3d15.5063988!4d-88.0131372!16s%2Fg%2F11h108s83y!19sChIJT1qAlaFbZo8RZr2q8tAHJfg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ6ziDvkhbZo8RuwLOdwxfE9s",
-        "name": "Espresso Americano * Plaza Numa",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 76,
-        "competitors": [
-            {
-                "name": "Espresso Americano * 13 Avenida NO",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1207,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Espresso Americano * Bulevar UNAH-VS",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Bulevar+UNAH-VS/@15.529750600000002,-88.0320375?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 680,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Espresso Americano * Los Castanos",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Los+Casta%C3%B1os/@15.550247,-88.0016624?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 77,
-                "rating": 4.3,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "espresso americano",
-                "link": "https://www.google.com/maps/search/espresso+americano/@15.562570500000001,-88.02189299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 3.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Espresso Americano * Plaza Moderna",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Plaza+Moderna/@15.5126505,-88.0369413?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://espressoamericano.coffee/",
-        "owner": {
-            "id": null,
-            "name": "Espresso Americano * Plaza Numa (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyMcbYmJTqQCbrw6IegV9q3wEKDhHfzd-IHRR2=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+504 9557-5532",
-        "address": "GXW8+8H6 Espresso Americano * Plaza Numa, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Espresso+Americano+%E2%80%A2+Plaza+Numa/data=!4m7!3m6!1s0x8f665b48be8338eb:0xdb135f0c77ce02bb!8m2!3d15.5457912!4d-88.0336169!16s%2Fg%2F11h0zfn0f_!19sChIJ6ziDvkhbZo8RuwLOdwxfE9s?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJa0kABclFZo8RgdCND0GveCY",
         "name": "Cafetini",
         "description": null,
@@ -1566,7 +1669,7 @@
             {
                 "name": "Cafetini * Palenque",
                 "link": "https://www.google.com/maps/search/Cafetini+%E2%80%A2+Palenque/@15.5384577,-88.0172169?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 98,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -1633,7 +1736,7 @@
             {
                 "name": "Welchez Cafe",
                 "link": "https://www.google.com/maps/search/Welchez+Cafe/@15.5054163,-88.0423699?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1753,
+                "reviews": 1754,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1698,14 +1801,14 @@
             {
                 "name": "Espresso Americano * 13 Avenida NO",
                 "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1207,
+                "reviews": 1208,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "NOVO Bistro",
                 "link": "https://www.google.com/maps/search/NOVO+Bistro/@15.4974526,-88.04654?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 306,
+                "reviews": 307,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1755,7 +1858,7 @@
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1803,6 +1906,32 @@
         "link": "https://www.google.com/maps/place/Cafe+Passion/data=!4m7!3m6!1s0x8f665b6c216e92f9:0xf4365f3a349e5de3!8m2!3d15.5097387!4d-88.037738!16s%2Fg%2F11gc8nbr2c!19sChIJ-ZJuIWxbZo8R412eNDpfNvQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJn3kxi-FbZo8RZQpuMjnF6IE",
+        "name": "Dunkin' Donuts El Playon",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "competitors": [],
+        "website": "http://dunkin.hn/",
+        "owner": {
+            "id": null,
+            "name": "Dunkin' Donuts El Playon (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNdWagALn3r71VM46MEocldLxdMcdU9TP9H-ULu=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Dunkin' Donuts El Playon, Sector Playon, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dunkin%27+Donuts+El+Play%C3%B3n/data=!4m7!3m6!1s0x8f665be18b31799f:0x81e8c539326e0a65!8m2!3d15.5255092!4d-88.0334593!16s%2Fg%2F11ks03ghxr!19sChIJn3kxi-FbZo8RZQpuMjnF6IE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJza5iqLNbZo8RYOAnZuI8LtQ",
         "name": "Dunkin'",
         "description": "Lao Zi Hao Lian Suo Dian ,Gong Ying Zhao Pai Zao Can Yu Duo Zhong Ka Pei Yin Pin . ",
@@ -1833,7 +1962,7 @@
             {
                 "name": "Dunkin' * Galerias del Valle",
                 "link": "https://www.google.com/maps/search/Dunkin%27+%E2%80%A2+Galer%C3%ADas+del+Valle/@15.530503099999999,-88.0285371?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
+                "reviews": 36,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -1900,7 +2029,7 @@
                 "main_category": "Zi Zhu Can Ting "
             }
         ],
-        "website": "https://www.instagram.com/drinksbynomad/%3Fhl%3Den",
+        "website": "https://www.instagram.com/drinksbynomad/?hl=en",
         "owner": {
             "id": "101968618143168574039",
             "name": "Nomad Cafe (Ye Zhu )",
@@ -2016,7 +2145,7 @@
             {
                 "name": "Cafetini * Palenque",
                 "link": "https://www.google.com/maps/search/Cafetini+%E2%80%A2+Palenque/@15.5384577,-88.0172169?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 98,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -2239,7 +2368,7 @@
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2285,63 +2414,6 @@
         "address": "GX55+HV2 Snobiz Honduras, Unnamed Road, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Snobiz+Honduras/data=!4m7!3m6!1s0x8f665b6e0dd1269b:0xafce1aae0e858e21!8m2!3d15.5088946!4d-88.0403593!16s%2Fg%2F11f3b9tnyg!19sChIJmybRDW5bZo8RIY6FDq4azq8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJl7y9LUJbZo8RR2h-N5h_qBA",
-        "name": "Dreams Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": "https://website-572312361250173753949-espressobar.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
-        "owner": {
-            "id": "108756972993811639428",
-            "name": "Dreams Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108756972993811639428"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP70GvJ5DYwvf6VOxmJCdrMER3rxzC77pwRXEsw=w408-h544-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-19:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+504 3334-9857",
-        "address": "Dreams Cafe, Farmacia Kielsa, Plaza Maria, Colonia Satelite I Etapa, Bulevar Las Torres, Contiguo a, San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Dreams+Cafe/data=!4m7!3m6!1s0x8f665b422dbdbc97:0x10a87f98377e6847!8m2!3d15.4866622!4d-87.9848941!16s%2Fg%2F11ty26y7ds!19sChIJl7y9LUJbZo8RR2h-N5h_qBA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJnxk-Lt9bZo8RcOn7b1nPLwk",
-        "name": "Bochas grill",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": "https://instagram.com/bochasgrill%3Figshid%3DYmM0MjE2YWMzOA%3D%3D",
-        "owner": {
-            "id": null,
-            "name": "Bochas grill (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPe4hWD4BrXNZestzO8EFfMh9WGI2bxWImbhDms=w408-h725-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "08:30-19:40",
-        "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
-        ],
-        "phone": null,
-        "address": "HX6G+XG4 Bochas grill, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bochas+grill/data=!4m7!3m6!1s0x8f665bdf2e3e199f:0x92fcf596ffbe970!8m2!3d15.5623977!4d-88.0236756!16s%2Fg%2F11kq8z7_kq!19sChIJnxk-Lt9bZo8RcOn7b1nPLwk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJZfnW7DFFZo8R4a4cloxOh3k",
@@ -2594,7 +2666,7 @@
             {
                 "name": "Welchez Cafe * Pedregal",
                 "link": "https://www.google.com/maps/search/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/@15.528237800000001,-88.0397717?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2653,12 +2725,12 @@
         "name": "Welchez Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1753,
+        "reviews": 1754,
         "competitors": [
             {
                 "name": "Incanta Cafe",
                 "link": "https://www.google.com/maps/search/Incanta+Caf%C3%A9/@15.504581499999999,-88.0362286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1176,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2672,7 +2744,7 @@
             {
                 "name": "Welchez Cafe * Pedregal",
                 "link": "https://www.google.com/maps/search/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/@15.528237800000001,-88.0397717?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2718,6 +2790,10 @@
                 "count": 64
             },
             {
+                "keyword": "Zao Can ",
+                "count": 59
+            },
+            {
                 "keyword": "Pin Zhi ",
                 "count": 44
             },
@@ -2728,10 +2804,6 @@
             {
                 "keyword": "Fu You ",
                 "count": 25
-            },
-            {
-                "keyword": "Kou Wei ",
-                "count": 20
             },
             {
                 "keyword": "Hui Yi ",
@@ -2793,7 +2865,7 @@
             "name": "Espresso Americano * 13 Avenida NO (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObVbJ8RcQNzrSlEy841AdElJO421My6HQuBkI0=w427-h240-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOFjn70memeCembGwvXEjEGyfrLolUkIySFFrXS=w427-h240-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting ",
@@ -2849,12 +2921,12 @@
         "name": "Panistro * Los Andes",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1166,
+        "reviews": 1167,
         "competitors": [
             {
                 "name": "Incanta Cafe",
                 "link": "https://www.google.com/maps/search/Incanta+Caf%C3%A9/@15.504581499999999,-88.0362286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1176,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2868,7 +2940,7 @@
             {
                 "name": "Boutique del Pan",
                 "link": "https://www.google.com/maps/search/Boutique+del+Pan/@15.508923200000002,-88.03564539999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 342,
+                "reviews": 343,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2906,16 +2978,16 @@
         "address": "GX67+4QM Panistro * Los Andes, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [
             {
-                "keyword": "Tian Dian ",
-                "count": 57
-            },
-            {
                 "keyword": "Huan Jing ",
                 "count": 36
             },
             {
                 "keyword": "Mian Bao Dian ",
                 "count": 25
+            },
+            {
+                "keyword": "Fu You ",
+                "count": 16
             },
             {
                 "keyword": "Ke Fu ",
@@ -2950,29 +3022,29 @@
             {
                 "name": "Welchez Cafe",
                 "link": "https://www.google.com/maps/search/Welchez+Cafe/@15.5054163,-88.0423699?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1753,
+                "reviews": 1754,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Incanta Cafe",
                 "link": "https://www.google.com/maps/search/Incanta+Caf%C3%A9/@15.504581499999999,-88.0362286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1176,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Welchez Cafe * Pedregal",
                 "link": "https://www.google.com/maps/search/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/@15.528237800000001,-88.0397717?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kaahwe Cafe * Foresta",
                 "link": "https://www.google.com/maps/search/Kaahwe+Caf%C3%A9+%E2%80%A2+Foresta/@15.547298800000002,-88.03427239999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
-                "rating": 4.5,
+                "reviews": 152,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
         ],
@@ -3038,7 +3110,7 @@
             {
                 "name": "Espresso Americano * 13 Avenida NO",
                 "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1207,
+                "reviews": 1208,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -3220,7 +3292,7 @@
         "name": "The Golden Pig Coffee Roasters * Paseo Proceres",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 284,
+        "reviews": 287,
         "competitors": [
             {
                 "name": "CAFETEO * Los Proceres",
@@ -3294,10 +3366,6 @@
                 "count": 4
             },
             {
-                "keyword": "Kou Wei ",
-                "count": 3
-            },
-            {
                 "keyword": "Ke Ren ",
                 "count": 3
             }
@@ -3335,8 +3403,8 @@
             {
                 "name": "Kaahwe Cafe * Foresta",
                 "link": "https://www.google.com/maps/search/Kaahwe+Caf%C3%A9+%E2%80%A2+Foresta/@15.547298800000002,-88.03427239999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
-                "rating": 4.5,
+                "reviews": 152,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
         ],
@@ -3403,7 +3471,7 @@
         "name": "Daheim Coffee Shop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 244,
+        "reviews": 246,
         "competitors": [
             {
                 "name": "Crust -n- Crumb Pastry Coffee Shop",
@@ -3422,7 +3490,7 @@
             {
                 "name": "Welchez Cafe * Pedregal",
                 "link": "https://www.google.com/maps/search/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/@15.528237800000001,-88.0397717?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3498,26 +3566,26 @@
         "name": "Incanta Cafe Zeron",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 208,
+        "reviews": 209,
         "competitors": [
             {
                 "name": "Incanta Cafe",
                 "link": "https://www.google.com/maps/search/Incanta+Caf%C3%A9/@15.504581499999999,-88.0362286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1176,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Welchez Cafe * Pedregal",
                 "link": "https://www.google.com/maps/search/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/@15.528237800000001,-88.0397717?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3598,7 +3666,7 @@
             {
                 "name": "Dunkin' * Galerias del Valle",
                 "link": "https://www.google.com/maps/search/Dunkin%27+%E2%80%A2+Galer%C3%ADas+del+Valle/@15.530503099999999,-88.0285371?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
+                "reviews": 36,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -3733,14 +3801,14 @@
             {
                 "name": "CAFETEO * Teatro",
                 "link": "https://www.google.com/maps/search/CAFETEO+%E2%80%A2+Teatro/@15.517517,-88.0298806?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1390,
+                "reviews": 1391,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3788,21 +3856,21 @@
             {
                 "name": "Incanta Cafe",
                 "link": "https://www.google.com/maps/search/Incanta+Caf%C3%A9/@15.504581499999999,-88.0362286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1176,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Daheim Coffee Shop",
                 "link": "https://www.google.com/maps/search/Daheim+Coffee+Shop/@15.5106334,-88.0336401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 243,
+                "reviews": 245,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -3843,6 +3911,67 @@
         "link": "https://www.google.com/maps/place/CoffeeValley/data=!4m7!3m6!1s0x8f665b57e6d312d3:0xcffb9dd312223396!8m2!3d15.5125587!4d-88.0346626!16s%2Fg%2F11s52y4x72!19sChIJ0xLT5ldbZo8RljMiEtOd-88?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJPUvO9cRbZo8R8equegPprYo",
+        "name": "Callejon Literario HN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 50,
+        "competitors": [
+            {
+                "name": "Kaahwe Cafe",
+                "link": "https://www.google.com/maps/search/Kaahwe+Caf%C3%A9/@15.545409899999997,-88.0134889?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1011,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Costello",
+                "link": "https://www.google.com/maps/search/Cafe+Costello/@15.5387216,-88.0384576?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 577,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Versailles Cafe * Galerias del Valle",
+                "link": "https://www.google.com/maps/search/Versailles+Caf%C3%A9+%E2%80%A2+Galer%C3%ADas+del+Valle/@15.5305897,-88.0289274?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 185,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Callejon Literario HN (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPhM3w7Me9S4PHCYvy8Bvt_V9wxmUtJFILs7u-=w408-h883-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+504 3306-3230",
+        "address": "Callejon Literario HN, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [
+            {
+                "keyword": "Yue Du ",
+                "count": 7
+            },
+            {
+                "keyword": "Fu You ",
+                "count": 5
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Callej%C3%B3n+Literario+HN/data=!4m7!3m6!1s0x8f665bc4f5ce4b3d:0x8aade9037aaeeaf1!8m2!3d15.5340235!4d-88.0266703!16s%2Fg%2F11rkhz02r0!19sChIJPUvO9cRbZo8R8equegPprYo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ-3qOE-lbZo8RKr0c_zZ5ZvE",
         "name": "Moka Cafe",
         "description": null,
@@ -3859,7 +3988,7 @@
             {
                 "name": "Daheim Coffee Shop",
                 "link": "https://www.google.com/maps/search/Daheim+Coffee+Shop/@15.5106334,-88.0336401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 243,
+                "reviews": 245,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -3901,67 +4030,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Moka+Caf%C3%A9/data=!4m7!3m6!1s0x8f665be9138e7afb:0xf1667936ff1cbd2a!8m2!3d15.5113679!4d-88.0370679!16s%2Fg%2F11nn14z9sf!19sChIJ-3qOE-lbZo8RKr0c_zZ5ZvE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJPUvO9cRbZo8R8equegPprYo",
-        "name": "Callejon Literario HN",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 49,
-        "competitors": [
-            {
-                "name": "Kaahwe Cafe",
-                "link": "https://www.google.com/maps/search/Kaahwe+Caf%C3%A9/@15.545409899999997,-88.0134889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1011,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Costello",
-                "link": "https://www.google.com/maps/search/Cafe+Costello/@15.5387216,-88.0384576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 577,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Versailles Cafe * Galerias del Valle",
-                "link": "https://www.google.com/maps/search/Versailles+Caf%C3%A9+%E2%80%A2+Galer%C3%ADas+del+Valle/@15.5305897,-88.0289274?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 185,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Callejon Literario HN (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPhM3w7Me9S4PHCYvy8Bvt_V9wxmUtJFILs7u-=w408-h883-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "08:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+504 3306-3230",
-        "address": "Callejon Literario HN, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [
-            {
-                "keyword": "Yue Du ",
-                "count": 6
-            },
-            {
-                "keyword": "Fu You ",
-                "count": 5
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Callej%C3%B3n+Literario+HN/data=!4m7!3m6!1s0x8f665bc4f5ce4b3d:0x8aade9037aaeeaf1!8m2!3d15.5340235!4d-88.0266703!16s%2Fg%2F11rkhz02r0!19sChIJPUvO9cRbZo8R8equegPprYo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ9RK2YWFbZo8RSxT7DLD0_iw",
@@ -4109,7 +4177,7 @@
             {
                 "name": "Welchez Cafe * Pedregal",
                 "link": "https://www.google.com/maps/search/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/@15.528237800000001,-88.0397717?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4157,7 +4225,7 @@
             {
                 "name": "Incanta Cafe",
                 "link": "https://www.google.com/maps/search/Incanta+Caf%C3%A9/@15.504581499999999,-88.0362286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1176,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4171,7 +4239,7 @@
             {
                 "name": "Welchez Cafe * Pedregal",
                 "link": "https://www.google.com/maps/search/Welchez+Caf%C3%A9+%E2%80%A2+Pedregal/@15.528237800000001,-88.0397717?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4269,7 +4337,7 @@
             {
                 "name": "Espresso Americano * 13 Avenida NO",
                 "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1207,
+                "reviews": 1208,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4340,7 +4408,7 @@
             {
                 "name": "Plaza NUMA",
                 "link": "https://www.google.com/maps/search/Plaza+NUMA/@15.545694500000002,-88.0332421?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 715,
+                "reviews": 716,
                 "rating": 4.6,
                 "main_category": "Gou Wu Zhong Xin "
             },
@@ -4395,14 +4463,14 @@
             {
                 "name": "Incanta Cafe",
                 "link": "https://www.google.com/maps/search/Incanta+Caf%C3%A9/@15.504581499999999,-88.0362286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1176,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4520,6 +4588,54 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Mil+Rosas/data=!4m7!3m6!1s0x8f665b19ff1e523f:0x1190949b798f97fc!8m2!3d15.511804!4d-88.0286852!16s%2Fg%2F11tp1tjpqg!19sChIJP1Ie_xlbZo8R_JePeZuUkBE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJb9eFhcdbZo8RNquh6d1Zn_0",
+        "name": "Amalia's Coffee & Bakery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "competitors": [
+            {
+                "name": "Cafe Costello",
+                "link": "https://www.google.com/maps/search/Cafe+Costello/@15.5387216,-88.0384576?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 577,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Espresso Americano * Plaza City Light",
+                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Plaza+City+Light/@15.509432899999998,-88.0239538?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 263,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Aime's Cafe",
+                "link": "https://www.google.com/maps/search/Aime%27s+Caf%C3%A9/@15.4985499,-87.9898077?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 2.3,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Amalia's Coffee & Bakery (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBAEU2O7EtaXNiWitn2j96MhrEr6VEJlAeptvs=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+504 9939-1464",
+        "address": "GXVC+XMP Amalia's Coffee & Bakery, 8 Calle, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Amalia%27s+Coffee+%26+Bakery/data=!4m7!3m6!1s0x8f665bc78585d76f:0xfd9f59dde9a1ab36!8m2!3d15.5449684!4d-88.0283088!16s%2Fg%2F11p01454vq!19sChIJb9eFhcdbZo8RNquh6d1Zn_0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJHxHdQs5bZo8RHOg1NQ-Gu-w",
         "name": "Vivari Cafe & Bistro",
         "description": null,
@@ -4592,52 +4708,67 @@
         "link": "https://www.google.com/maps/place/Vivari+Caf%C3%A9+%26+Bistro/data=!4m7!3m6!1s0x8f665bce42dd111f:0xecbb860f3535e81c!8m2!3d15.5096136!4d-88.0350516!16s%2Fg%2F11tgg648nc!19sChIJHxHdQs5bZo8RHOg1NQ-Gu-w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJb9eFhcdbZo8RNquh6d1Zn_0",
-        "name": "Amalia's Coffee & Bakery",
+        "place_id": "ChIJ1341p_FbZo8Rtx8PtRDqnaY",
+        "name": "Pollo Indio Catracho * Maheco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 17,
+        "reviews": 16,
         "competitors": [
             {
-                "name": "Cafe Costello",
-                "link": "https://www.google.com/maps/search/Cafe+Costello/@15.5387216,-88.0384576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 577,
-                "rating": 4.5,
+                "name": "Pollo Indio Catracho",
+                "link": "https://www.google.com/maps/search/Pollo+Indio+Catracho/@15.4995641,-88.0294444?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1095,
+                "rating": 4.2,
+                "main_category": "Ji Rou "
+            },
+            {
+                "name": "Baleadas castillo",
+                "link": "https://www.google.com/maps/search/Baleadas+castillo/@15.5019814,-88.01686339999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Espresso Americano * Plaza City Light",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Plaza+City+Light/@15.509432899999998,-88.0239538?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 263,
-                "rating": 4.4,
+                "name": "Baleadas blanquita",
+                "link": "https://www.google.com/maps/search/Baleadas+blanquita/@15.494500799999999,-88.0160281?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Aime's Cafe",
-                "link": "https://www.google.com/maps/search/Aime%27s+Caf%C3%A9/@15.4985499,-87.9898077?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 2.3,
-                "main_category": "Zheng Liu Ka Pei Ba "
+                "name": "Baleadas",
+                "link": "https://www.google.com/maps/search/Baleadas/@15.5044419,-88.0276252?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Lovers Coffee",
+                "link": "https://www.google.com/maps/search/Lovers+Coffee/@15.498487599999999,-88.0162307?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Amalia's Coffee & Bakery (Ye Zhu )",
-            "link": null
+            "id": "109993105302835862837",
+            "name": "Pollo Indio Catracho * Maheco (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109993105302835862837"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBAEU2O7EtaXNiWitn2j96MhrEr6VEJlAeptvs=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSXqVmdv5h0j_IDz3SGigixm7neKrGtLF6q1zG=w408-h544-k-no",
+        "main_category": "Ji Rou Can Ting ",
         "categories": [
+            "Ji Rou Can Ting ",
             "Ka Pei Dian "
         ],
-        "rating": 4.8,
-        "workday_timing": "06:00-19:00",
+        "rating": 4.2,
+        "workday_timing": "08:00-20:00",
         "closed_on": "Open All Days",
-        "phone": "+504 9939-1464",
-        "address": "GXVC+XMP Amalia's Coffee & Bakery, 8 Calle, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
+        "phone": "+504 9599-7898",
+        "address": "Pollo Indio Catracho * Maheco, Bo. Medina Concepcion 3ra Calle, 3 Avenida SE, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Amalia%27s+Coffee+%26+Bakery/data=!4m7!3m6!1s0x8f665bc78585d76f:0xfd9f59dde9a1ab36!8m2!3d15.5449684!4d-88.0283088!16s%2Fg%2F11p01454vq!19sChIJb9eFhcdbZo8RNquh6d1Zn_0?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Pollo+Indio+Catracho+%E2%80%A2+Maheco/data=!4m7!3m6!1s0x8f665bf1a7357ed7:0xa69dea10b50f1fb7!8m2!3d15.5034014!4d-88.0208026!16s%2Fg%2F11mpw60hfl!19sChIJ1341p_FbZo8Rtx8PtRDqnaY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJmW4eL8NbZo8RVoYxJfN2Hto",
@@ -4714,7 +4845,7 @@
             {
                 "name": "Espresso Americano * 13 Avenida NO",
                 "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1207,
+                "reviews": 1208,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4767,6 +4898,61 @@
         "link": "https://www.google.com/maps/place/Espresso+Americano+Boulevard+del+Este/data=!4m7!3m6!1s0x8f6645208e35a241:0x3717374acb2a457d!8m2!3d15.5023805!4d-87.9970469!16s%2Fg%2F11syc_6kw4!19sChIJQaI1jiBFZo8RfUUqy0o3Fzc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJk-ZPWdFbZo8RxDnNg91xAPE",
+        "name": "Flames Restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Well Cafe",
+                "link": "https://www.google.com/maps/search/Well+Cafe/@15.5009756,-88.0391282?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 69,
+                "rating": 4.7,
+                "main_category": "Han Guo Cai "
+            },
+            {
+                "name": "Halawe Cafe",
+                "link": "https://www.google.com/maps/search/Halawe+Caf%C3%A9/@15.508444100000002,-88.02730729999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Exclusive Grill",
+                "link": "https://www.google.com/maps/search/Exclusive+Grill/@15.502560299999997,-88.03484399999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Las Vegas Cafe",
+                "link": "https://www.google.com/maps/search/Las+Vegas+Caf%C3%A9/@15.4284529,-88.0190969?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Flames Restaurant (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "GX28+764 Flames Restaurant, 21104 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Flames+Restaurant/data=!4m7!3m6!1s0x8f665bd1594fe693:0xf10071dd83cd39c4!8m2!3d15.5004593!4d-88.0345882!16s%2Fg%2F11srlxw99l!19sChIJk-ZPWdFbZo8RxDnNg91xAPE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJHzm8nBZbZo8RzJU_ZtRZRfQ",
         "name": "Cafeteria Mi Sabor",
         "description": null,
@@ -4776,7 +4962,7 @@
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4848,123 +5034,6 @@
         "link": "https://www.google.com/maps/place/Espresso+Americano/data=!4m7!3m6!1s0x8f6645a174888b4f:0x37eb376ffd926b4e!8m2!3d15.5180742!4d-87.9846817!16s%2Fg%2F11kjpmk006!19sChIJT4uIdKFFZo8RTmuS_W836zc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJk-ZPWdFbZo8RxDnNg91xAPE",
-        "name": "Flames Restaurant",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 9,
-        "competitors": [
-            {
-                "name": "Well Cafe",
-                "link": "https://www.google.com/maps/search/Well+Cafe/@15.5009756,-88.0391282?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 69,
-                "rating": 4.7,
-                "main_category": "Han Guo Cai "
-            },
-            {
-                "name": "Halawe Cafe",
-                "link": "https://www.google.com/maps/search/Halawe+Caf%C3%A9/@15.508444100000002,-88.02730729999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Exclusive Grill",
-                "link": "https://www.google.com/maps/search/Exclusive+Grill/@15.502560299999997,-88.03484399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Las Vegas Cafe",
-                "link": "https://www.google.com/maps/search/Las+Vegas+Caf%C3%A9/@15.4284529,-88.0190969?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Flames Restaurant (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "GX28+764 Flames Restaurant, 21104 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Flames+Restaurant/data=!4m7!3m6!1s0x8f665bd1594fe693:0xf10071dd83cd39c4!8m2!3d15.5004593!4d-88.0345882!16s%2Fg%2F11srlxw99l!19sChIJk-ZPWdFbZo8RxDnNg91xAPE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJa3kBjsFDZo8R4xJxVT2G4Is",
-        "name": "Espresso Americano Texaco San Vicente",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "Espresso Americano",
-                "link": "https://www.google.com/maps/search/Espresso+Americano/@15.4898313,-88.01839939999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 183,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Espresso Americano * Plaza Vicay",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Plaza+Vicay/@15.4703757,-87.99256369999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Espresso Americano * Plaza San Jose",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Plaza+San+Jos%C3%A9/@15.484618300000001,-88.00626609999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Espresso Americano Boulevard del Este",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+Boulevard+del+Este/@15.502380500000001,-87.9970469?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Espresso Americano",
-                "link": "https://www.google.com/maps/search/Espresso+Americano/@15.505075199999999,-88.0252825?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Espresso Americano Texaco San Vicente (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9TjOtG9n1q8XryT3YxPXxRQfDioExUnBefuhP=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "F297+5V4 Espresso Americano Texaco San Vicente, 33 Calle, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Espresso+Americano+Texaco+San+Vicente/data=!4m7!3m6!1s0x8f6643c18e01796b:0x8be0863d557112e3!8m2!3d15.467898!4d-87.9852869!16s%2Fg%2F11kb3gvvrv!19sChIJa3kBjsFDZo8R4xJxVT2G4Is?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJTYDXukdbZo8RAWOeRR7p9M8",
         "name": "Versailles Coffee SPS",
         "description": null,
@@ -5027,68 +5096,6 @@
         "link": "https://www.google.com/maps/place/Versailles+Coffee+SPS/data=!4m7!3m6!1s0x8f665b47bad7804d:0xcff4e91e459e6301!8m2!3d15.4978586!4d-88.035833!16s%2Fg%2F11ny6m0_4p!19sChIJTYDXukdbZo8RAWOeRR7p9M8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJP1JbBLhaZo8Rb2PqYI15NXA",
-        "name": "espresso americano",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Espresso Americano * Bulevar UNAH-VS",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Bulevar+UNAH-VS/@15.529750600000002,-88.0320375?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 680,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Espresso Americano Solo Autoservicio.",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+Solo+Autoservicio./@15.504113700000001,-88.0367436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 153,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Espresso Americano * Plaza Pedregal",
-                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+Plaza+Pedregal/@15.524218000000001,-88.0387101?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Espresso Americano",
-                "link": "https://www.google.com/maps/search/Espresso+Americano/@15.505075199999999,-88.0252825?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Espresso americano",
-                "link": "https://www.google.com/maps/search/Espresso+americano/@15.4815786,-88.0301946?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "espresso americano (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO27Bm2uT0NJ97EGv8E7gb04CMqahmvKCRCNdId=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 3.6,
-        "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "HX7H+26H espresso americano, Altara, Segundo Nivel, 21102 San Pedro Sula, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/espresso+americano/data=!4m7!3m6!1s0x8f665ab8045b523f:0x7035798d60ea636f!8m2!3d15.5625705!4d-88.021893!16s%2Fg%2F11hbsvq0f4!19sChIJP1JbBLhaZo8Rb2PqYI15NXA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJIT6p7oJdZo8RDbWFAtJS3wo",
         "name": "Beto's Coffee Shop",
         "description": null,
@@ -5098,7 +5105,7 @@
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -5239,6 +5246,34 @@
         "link": "https://www.google.com/maps/place/Friends+Coffee/data=!4m7!3m6!1s0x8f66459f899eb5bf:0xec91743e89b2b08a!8m2!3d15.5640968!4d-87.9870208!16s%2Fg%2F11rhdhnwk5!19sChIJv7WeiZ9FZo8RirCyiT50kew?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJB4CA8m5bZo8Rw4WnrJd4mxU",
+        "name": "Eco Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Eco Coffee (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOdmEuFyOvbJ5c1VtXcTmECD5RSC-CKxeQfu3Pj=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "GXJ8+33G Eco Coffee, Blvr. Unah- Vs, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Eco+Coffee/data=!4m7!3m6!1s0x8f665b6ef2808007:0x159b7897aca785c3!8m2!3d15.5301804!4d-88.0348061!16s%2Fg%2F11v684c0_w!19sChIJB4CA8m5bZo8Rw4WnrJd4mxU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ5Xw1r4lbZo8RMHFT80botoI",
         "name": "PATELILOS",
         "description": null,
@@ -5264,6 +5299,61 @@
         "address": "GXG8+77P PATELILOS, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/PATELILOS/data=!4m7!3m6!1s0x8f665b89af357ce5:0x82b6e846f3537130!8m2!3d15.525711!4d-88.0341193!16s%2Fg%2F11txv1nd6p!19sChIJ5Xw1r4lbZo8RMHFT80botoI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7etwZeBbZo8RkA24iKeQTM8",
+        "name": "LaPetite Creperie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [
+            {
+                "name": "Crepas SPS",
+                "link": "https://www.google.com/maps/search/Crepas+SPS/@15.4897897,-88.0066507?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 141,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "LaPetite Creperie * Galerias del Valle",
+                "link": "https://www.google.com/maps/search/LaPetite+Creperie+%E2%80%A2+Galer%C3%ADas+del+Valle/@15.530511500000001,-88.0285967?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Sweet Crepes -Hn",
+                "link": "https://www.google.com/maps/search/Sweet+Crepes+-Hn/@15.554239899999999,-88.0158962?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Crepanella",
+                "link": "https://www.google.com/maps/search/Crepanella/@15.496610299999999,-88.0363363?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Fa Shi Bo Bing "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "LaPetite Creperie (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM19ngzm48hu03ofCw-_Qv5qILZE3e4PNjtCHrZ=w408-h743-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "LaPetite Creperie, Col. trejo 12 y 14 calle ave. circunvalacion, 12 Calle S, 21104 San Pedro Sula, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/LaPetite+Creperie/data=!4m7!3m6!1s0x8f665be06570ebed:0xcf4c90a788b80d90!8m2!3d15.4963103!4d-88.0357295!16s%2Fg%2F11h_w_c6xv!19sChIJ7etwZeBbZo8RkA24iKeQTM8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJmVVq-HJbZo8R9Rdo3vaDxi4",
@@ -5381,34 +5471,6 @@
         "address": "HX4F+W7G La Ruha Coffee, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/La+Ruha+Coffee/data=!4m7!3m6!1s0x8f665b51ec7a14d9:0x88533b069863d129!8m2!3d15.5578619!4d-88.0278323!16s%2Fg%2F11q4jy3x89!19sChIJ2RR67FFbZo8RKdFjmAY7U4g?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJB4CA8m5bZo8Rw4WnrJd4mxU",
-        "name": "Eco Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Eco Coffee (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOdmEuFyOvbJ5c1VtXcTmECD5RSC-CKxeQfu3Pj=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": "07:00-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "GXJ8+33G Eco Coffee, Blvr. Unah- Vs, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Eco+Coffee/data=!4m7!3m6!1s0x8f665b6ef2808007:0x159b7897aca785c3!8m2!3d15.5301804!4d-88.0348061!16s%2Fg%2F11v684c0_w!19sChIJB4CA8m5bZo8Rw4WnrJd4mxU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJYa7d0DxbZo8RzEO7KmrFh7w",
@@ -5626,7 +5688,7 @@
     },
     {
         "place_id": "ChIJTyypFv5bZo8RPDTDWo9pfPM",
-        "name": "Susan's Bakery",
+        "name": "Susan's Bakery & Coffee",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 4,
@@ -5663,10 +5725,10 @@
         "website": null,
         "owner": {
             "id": "107978845294074562528",
-            "name": "Susan's Bakery (Ye Zhu )",
+            "name": "Susan's Bakery & Coffee (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/107978845294074562528"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM-GWncf7zSjhjrVq3Bdpjt7Mgfrys92ZKm04O7=w408-h506-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKXInDHBprHB2c9pxPTJEZBdV4y-HIjy1bEgtV=w408-h544-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
@@ -5675,9 +5737,64 @@
         "workday_timing": "07:00-21:00",
         "closed_on": "Open All Days",
         "phone": "+504 3202-2641",
-        "address": "Susan's Bakery, Col. Universidad 21 Calle, 12 Av., 21102 San Pedro Sula, Cortes, Hong Du La Si ",
+        "address": "Susan's Bakery & Coffee, mini prix y frente a condominios Terranova, Col. Los Alamos 3 etapa, contiguo a, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Susan%E2%80%99s+Bakery/data=!4m7!3m6!1s0x8f665bfe16a92c4f:0xf37c698f5ac3343c!8m2!3d15.5262987!4d-88.0312732!16s%2Fg%2F11sjms4108!19sChIJTyypFv5bZo8RPDTDWo9pfPM?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Susan%E2%80%99s+Bakery+%26+Coffee/data=!4m7!3m6!1s0x8f665bfe16a92c4f:0xf37c698f5ac3343c!8m2!3d15.5552048!4d-88.0200964!16s%2Fg%2F11sjms4108!19sChIJTyypFv5bZo8RPDTDWo9pfPM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJA1gRLT5bZo8RN1JEzuoIZUU",
+        "name": "Audi comida barata",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Espresso Americano * 13 Avenida NO",
+                "link": "https://www.google.com/maps/search/Espresso+Americano+%E2%80%A2+13+Avenida+NO/@15.514875999999997,-88.03253459999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1208,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "AUDI",
+                "link": "https://www.google.com/maps/search/AUDI/@15.4988616,-88.0347585?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.6,
+                "main_category": "Jia Ting Lu You Che Jing Xiao Shang "
+            },
+            {
+                "name": "Cafeteria Mi Sabor",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Mi+Sabor/@15.5098731,-88.03494099999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Taller de Servicio Audi",
+                "link": "https://www.google.com/maps/search/Taller+de+Servicio+Audi/@15.498849199999999,-88.03468699999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Qi Che Wei Xiu Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Audi comida barata (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Audi comida barata, 14 15 Avenida S, 21101 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Audi+comida+barata/data=!4m7!3m6!1s0x8f665b3e2d115803:0x456508eace445237!8m2!3d15.4985648!4d-88.0347648!16s%2Fg%2F11rscm45c1!19sChIJA1gRLT5bZo8RN1JEzuoIZUU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJoaIiyZlFZo8RyEy8mFK-d7w",
@@ -5792,6 +5909,61 @@
         "address": "Mezcla, Frente USAP, 12 12 Avenida NO, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Mezcla/data=!4m7!3m6!1s0x8f665b930307f803:0x37be886e11583bc3!8m2!3d15.5167947!4d-88.0306045!16s%2Fg%2F11vl9nyg75!19sChIJA_gHA5NbZo8RwztYEW6Ivjc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8_acIJlEZo8RpywbCcmoEXg",
+        "name": "Aime's Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Amalia's Coffee & Bakery",
+                "link": "https://www.google.com/maps/search/Amalia%27s+Coffee+%26+Bakery/@15.544968400000002,-88.02830879999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "AmuCoffee Restaurant - San Pedro Sula",
+                "link": "https://www.google.com/maps/search/AmuCoffee+Restaurant+-+San+Pedro+Sula/@15.521793299999999,-88.02539809999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 4.8,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "Cafe Market Place",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Market+Place/@15.4830601,-87.97797249999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "ELSA CHIKEN",
+                "link": "https://www.google.com/maps/search/ELSA+CHIKEN/@15.509877800000002,-87.9926153?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Aime's Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 2.3,
+        "workday_timing": "07:30-19:30",
+        "closed_on": "Open All Days",
+        "phone": "+504 3371-7649",
+        "address": "F2X6+C38 Aime's Cafe, Blvr. del Este, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Aime%27s+Caf%C3%A9/data=!4m7!3m6!1s0x8f664499209cf6f3:0x7811a8c9091b2ca7!8m2!3d15.4985499!4d-87.9898077!16s%2Fg%2F11b7hlldrl!19sChIJ8_acIJlEZo8RpywbCcmoEXg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJH7C-W19bZo8RAFvNgX8Nthc",
@@ -6011,43 +6183,29 @@
         "link": "https://www.google.com/maps/place/Cafe+de+geraldo/data=!4m7!3m6!1s0x8f665b49399fa4a5:0x909a9f89249336be!8m2!3d15.5102016!4d-88.0181993!16s%2Fg%2F11g6wdf843!19sChIJpaSfOUlbZo8RvjaTJImfmpA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJT-rJDrZDZo8RQplB4N3oDWE",
-        "name": "Tasty",
+        "place_id": "ChIJKZHpxMRbZo8Rild4ACrVGEI",
+        "name": "La cuevita",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 1,
         "competitors": [
             {
-                "name": "SHANTI CAFE",
-                "link": "https://www.google.com/maps/search/SHANTI+CAFE/@15.510419800000001,-88.03038300000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 771,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Snack and shake",
-                "link": "https://www.google.com/maps/search/Snack+and+shake/@15.479643099999999,-88.0111154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 3.4,
-                "main_category": "Guo Zhi "
-            },
-            {
-                "name": "Cafeteria Costa Sol",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Costa+Sol/@15.4878999,-87.9980798?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafeteria Las Torres",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Las+Torres/@15.466533000000002,-87.9831183?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Tasty",
+                "link": "https://www.google.com/maps/search/Tasty/@15.4856971,-88.0045791?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
-                "rating": 5,
+                "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Cafeteria Tere",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Tere/@15.483363400000002,-88.01735269999999?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Las Delicias de Agape",
+                "link": "https://www.google.com/maps/search/Las+Delicias+de+Agape/@15.507076599999998,-88.026562?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Lab",
+                "link": "https://www.google.com/maps/search/Coffee+Lab/@15.5038827,-88.01386190000001?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Ka Pei Dian "
@@ -6056,10 +6214,10 @@
         "website": null,
         "owner": {
             "id": null,
-            "name": "Tasty (Ye Zhu )",
+            "name": "La cuevita (Ye Zhu )",
             "link": null
         },
-        "featured_image": null,
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNhfFa8h3ns8pW2EpqMTu_ypO6UzF2bvA18UCVN=w408-h544-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
@@ -6068,9 +6226,9 @@
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "FXPW+75F Tasty, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
+        "address": "GX3F+WV3 La cuevita, 21104 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tasty/data=!4m7!3m6!1s0x8f6643b60ec9ea4f:0x610de8dde0419942!8m2!3d15.4856971!4d-88.0045791!16s%2Fg%2F11s8ygx62h!19sChIJT-rJDrZDZo8RQplB4N3oDWE?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/La+cuevita/data=!4m7!3m6!1s0x8f665bc4c4e99129:0x4218d52a0078578a!8m2!3d15.5049013!4d-88.0253014!16s%2Fg%2F11rk5g7j85!19sChIJKZHpxMRbZo8Rild4ACrVGEI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJr3e8xmlbZo8RbJNSZbHv8f0",
@@ -6082,7 +6240,7 @@
             {
                 "name": "SHANTI CAFE",
                 "link": "https://www.google.com/maps/search/SHANTI+CAFE/@15.510419800000001,-88.03038300000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 771,
+                "reviews": 772,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -6128,34 +6286,6 @@
         "address": "Memento Mori Cafe, Barrio guamilito, dentro del Mercado guamilito San pedro sua, 21101 San Pedro Sula, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Memento+Mori+Cafe/data=!4m7!3m6!1s0x8f665b69c6bc77af:0xfdf1efb16552936c!8m2!3d15.5111207!4d-88.0283489!16s%2Fg%2F11k4r2x1n5!19sChIJr3e8xmlbZo8RbJNSZbHv8f0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJcenIdYBFZo8RAtkGORUxGAM",
-        "name": "Comedor Nubia's",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Comedor Nubia's (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmtpnT199Z8FsRH7u6Vy4XhW3nQUp5VuA_5iTO=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "15:00-23:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+504 8813-5686",
-        "address": "G2FG+3GF Comedor Nubia's, Calle Hacia Aldea El Carmen, San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Comedor+Nubia%27s/data=!4m7!3m6!1s0x8f66458075c8e971:0x31831153906d902!8m2!3d15.522682!4d-87.9737054!16s%2Fg%2F11l2yzgnd1!19sChIJcenIdYBFZo8RAtkGORUxGAM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK7a_UoRbZo8RuCsuLcHL52U",
@@ -6204,70 +6334,6 @@
         "address": "GX5F+FMF Fuente de Salud Restaurante, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Fuente+de+Salud+Restaurante/data=!4m7!3m6!1s0x8f665b8452bfb62b:0x65e7cbc12d2e2bb8!8m2!3d15.508726!4d-88.0258307!16s%2Fg%2F11sq9yd9kw!19sChIJK7a_UoRbZo8RuCsuLcHL52U?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ44Ee2SZDZo8RjTK5UBBpYsI",
-        "name": "Cafeteria Las Torres",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Cafeteria Costa Sol",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Costa+Sol/@15.4878999,-87.9980798?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tasty",
-                "link": "https://www.google.com/maps/search/Tasty/@15.4856971,-88.0045791?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Lovers Coffee",
-                "link": "https://www.google.com/maps/search/Lovers+Coffee/@15.498487599999999,-88.0162307?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Quiero Cafe SPS",
-                "link": "https://www.google.com/maps/search/Quiero+Cafe+SPS/@15.503222899999997,-88.02492219999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "La Tia",
-                "link": "https://www.google.com/maps/search/La+Tia/@15.4995532,-88.0327734?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafeteria Las Torres (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmiFuQYUsRvM3t4YF4H25hXrwv1mQUu87hDb8=w408-h725-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "05:45-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "F288+JQ6 Cafeteria Las Torres, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Las+Torres/data=!4m7!3m6!1s0x8f664326d91e81e3:0xc262691050b9328d!8m2!3d15.466533!4d-87.9831183!16s%2Fg%2F11jdmwlpbq!19sChIJ44Ee2SZDZo8RjTK5UBBpYsI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJgcWyib5bZo8RGSyjHyw06_Q",
@@ -6380,68 +6446,6 @@
         "link": "https://www.google.com/maps/place/Coffee+Lab/data=!4m7!3m6!1s0x8f665b3494577065:0x3dd7e456e2c788dc!8m2!3d15.5038827!4d-88.0138619!16s%2Fg%2F11s7mdqtgh!19sChIJZXBXlDRbZo8R3IjH4lbk1z0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJH5OCuOFdZo8RIX_lsguyGoU",
-        "name": "Daniel's Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Friends Coffee",
-                "link": "https://www.google.com/maps/search/Friends+Coffee/@15.564096800000002,-87.98702080000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "BON CAFE S.A. DE C.V.",
-                "link": "https://www.google.com/maps/search/BON+CAFE+S.A.+DE+C.V./@15.4771413,-88.0226855?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Chu Kou Shang "
-            },
-            {
-                "name": "Cafes & Chocolates",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9s+%26+Chocolates/@15.4919071,-88.034178?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Cafe San Diego",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+San+Diego/@15.467767900000002,-88.0335638?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Asociacion de Exportadores de Cafe de Honduras",
-                "link": "https://www.google.com/maps/search/Asociaci%C3%B3n+de+Exportadores+de+Caf%C3%A9+de+Honduras/@15.467767900000002,-88.0335638?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "106122448283330753521",
-            "name": "Daniel's Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106122448283330753521"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOx6w9eO0qz-kaB1uvtytqVxiaA7qn6DobwJWU=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-22:30",
-        "closed_on": "Open All Days",
-        "phone": "+504 8897-4857",
-        "address": "Daniel's Coffee, 11 Avenida SE, San Pedro Sula 21103, 21104 San Pedro Sula, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Daniel%27s+Coffee/data=!4m7!3m6!1s0x8f665de1b882931f:0x851ab20bb2e57f21!8m2!3d15.4779581!4d-88.0186499!16s%2Fg%2F11t053c4lv!19sChIJH5OCuOFdZo8RIX_lsguyGoU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJEY_CWDBbZo8RfjOyc23S81o",
         "name": "Coffee Spot & Bar",
         "description": null,
@@ -6451,7 +6455,7 @@
             {
                 "name": "Panistro * Los Andes",
                 "link": "https://www.google.com/maps/search/Panistro+%E2%80%A2+Los+Andes/@15.510333500000002,-88.03559279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1165,
+                "reviews": 1167,
                 "rating": 4.5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -6566,6 +6570,32 @@
         "link": "https://www.google.com/maps/place/Espresso+Americano/data=!4m7!3m6!1s0x8f665be22c169421:0xd0af3e5f55028ee!8m2!3d15.5050752!4d-88.0252825!16s%2Fg%2F11t2_jpkrb!19sChIJIZQWLOJbZo8R7ihQ9eXzCg0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJGWzU6NpbZo8RD0LVqVurK9g",
+        "name": "The knafeh",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The knafeh (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "GX3P+HF2 The knafeh, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+knafeh/data=!4m7!3m6!1s0x8f665bdae8d46c19:0xd82bab5ba9d5420f!8m2!3d15.5038827!4d-88.0138619!16s%2Fg%2F11kjzsz_hl!19sChIJGWzU6NpbZo8RD0LVqVurK9g?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJPemiliFbZo8RzzkbzaWQMHE",
         "name": "Lovers Coffee",
         "description": null,
@@ -6621,68 +6651,6 @@
         "link": "https://www.google.com/maps/place/Lovers+Coffee/data=!4m7!3m6!1s0x8f665b2196a2e93d:0x713090a5cd1b39cf!8m2!3d15.4984876!4d-88.0162307!16s%2Fg%2F11nm_ws55m!19sChIJPemiliFbZo8RzzkbzaWQMHE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJH7EsQQNbZo8Rip8qh1PweZw",
-        "name": "Cafe Merendon",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Merendon Coffee",
-                "link": "https://www.google.com/maps/search/Merendon+Coffee/@15.5484181,-88.0353074?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 487,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Residencial Jardines del Merendon",
-                "link": "https://www.google.com/maps/search/Residencial+Jardines+del+Merend%C3%B3n/@15.566192299999999,-88.0295597?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.9,
-                "main_category": "Xue Sheng Su She "
-            },
-            {
-                "name": "Comidas merendon",
-                "link": "https://www.google.com/maps/search/Comidas+merendon/@15.5043073,-88.03952079999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Marihan's La Casa del Cafe",
-                "link": "https://www.google.com/maps/search/Marihan%27s+La+Casa+del+Caf%C3%A9/@15.5105366,-88.043521?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Dos Marias",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Dos+Mar%C3%ADas/@15.553691800000001,-87.9983823?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Hong Bei Shang "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafe Merendon (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "HXC8+67M Cafe Merendon, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Merendon/data=!4m7!3m6!1s0x8f665b03412cb11f:0x9c79f053872a9f8a!8m2!3d15.5705826!4d-88.0343416!16s%2Fg%2F11s0wh6j5v!19sChIJH7EsQQNbZo8Rip8qh1PweZw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJmagMpLZbZo8RzaiQc1LO8cc",
         "name": "Marihan's La Casa del Cafe",
         "description": null,
@@ -6692,7 +6660,7 @@
             {
                 "name": "Mi Casa Cafe & Restaurante Zeron",
                 "link": "https://www.google.com/maps/search/Mi+Casa+Caf%C3%A9+%26+Restaurante+Zer%C3%B3n/@15.513932499999997,-88.0392751?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -6745,6 +6713,61 @@
         "link": "https://www.google.com/maps/place/Marihan%27s+La+Casa+del+Caf%C3%A9/data=!4m7!3m6!1s0x8f665bb6a40ca899:0xc7f1ce527390a8cd!8m2!3d15.5105366!4d-88.043521!16s%2Fg%2F11tbxzcv3z!19sChIJmagMpLZbZo8RzaiQc1LO8cc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJKW7VsKJbZo8ReMI2bZZx7vw",
+        "name": "Beneficio de Cafe MonteCristo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "COFFEE CAMINANTE",
+                "link": "https://www.google.com/maps/search/COFFEE+CAMINANTE/@15.489597,-88.0330319?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "Beneficio de Cafe COHMASA",
+                "link": "https://www.google.com/maps/search/Beneficio+de+Caf%C3%A9+COHMASA/@15.479934799999999,-88.02993169999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Gong Si Ban Gong Shi "
+            },
+            {
+                "name": "El Barista Coffee",
+                "link": "https://www.google.com/maps/search/El+Barista+Coffee/@15.556272,-88.0004855?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee Beans",
+                "link": "https://www.google.com/maps/search/Coffee+Beans/@15.5038827,-88.01386190000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Beneficio de Cafe MonteCristo (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+504 9576-7132",
+        "address": "Q6P9+9M8 Beneficio de Cafe MonteCristo, 41101 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Beneficio+de+Caf%C3%A9+MonteCristo/data=!4m7!3m6!1s0x8f665ba2b0d56e29:0xfcee71966d36c278!8m2!3d15.5038827!4d-88.0138619!16s%2Fg%2F11qh8348y7!19sChIJKW7VsKJbZo8ReMI2bZZx7vw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJaz-Vx7RbZo8R-sh1WqdM508",
         "name": "Riscatto Coffee Shop",
         "description": null,
@@ -6754,7 +6777,7 @@
             {
                 "name": "CAFETEO * Teatro",
                 "link": "https://www.google.com/maps/search/CAFETEO+%E2%80%A2+Teatro/@15.517517,-88.0298806?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1390,
+                "reviews": 1391,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6805,68 +6828,6 @@
         "address": "Riscatto Coffee Shop, 1 cuadra abajo del Honduras Corea, 15 Calle, 21101 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Riscatto+Coffee+Shop/data=!4m7!3m6!1s0x8f665bb4c7953f6b:0x4fe74ca75a75c8fa!8m2!3d15.5502462!4d-88.0275346!16s%2Fg%2F11k9t60tzw!19sChIJaz-Vx7RbZo8R-sh1WqdM508?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ6VnmpwlDZo8RPX_38qyMjQ0",
-        "name": "Lidia's Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Baleadas Dona Hilda",
-                "link": "https://www.google.com/maps/search/Baleadas+Do%C3%B1a+Hilda/@15.5136503,-88.01006280000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Lidia's Cakes",
-                "link": "https://www.google.com/maps/search/Lidia%27s+Cakes/@15.504659100000001,-88.0234227?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 5,
-                "main_category": "Xi Bing Dian "
-            },
-            {
-                "name": "Baleadas Sarita",
-                "link": "https://www.google.com/maps/search/Baleadas+Sarita/@15.4766961,-87.9852238?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Baleadas blanquita",
-                "link": "https://www.google.com/maps/search/Baleadas+blanquita/@15.494500799999999,-88.0160281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "COMIDAS ODALIS",
-                "link": "https://www.google.com/maps/search/COMIDAS+ODALIS/@15.468766299999999,-87.97652649999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Lidia's Coffee (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "F28G+586 Lidia's Coffee, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Lidia%C2%B4s+Coffee/data=!4m7!3m6!1s0x8f664309a7e659e9:0xd8d8cacf2f77f3d!8m2!3d15.4654162!4d-87.9742189!16s%2Fg%2F11srl8m5hm!19sChIJ6VnmpwlDZo8RPX_38qyMjQ0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJK03Pwj1bZo8RTobyZQ6cACs",
@@ -6931,94 +6892,6 @@
         "link": "https://www.google.com/maps/place/Delroheny%27s+coffee/data=!4m7!3m6!1s0x8f665b3dc2cf4d2b:0x2b009c0e65f2864e!8m2!3d15.5038827!4d-88.0138619!16s%2Fg%2F11t5nmnyds!19sChIJK03Pwj1bZo8RTobyZQ6cACs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ33__ZXhdZo8RvIZXEH7_CP8",
-        "name": "Cafeteria Tere",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafetini",
-                "link": "https://www.google.com/maps/search/Cafetini/@15.494699299999999,-87.985486?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 62,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Donde Tere",
-                "link": "https://www.google.com/maps/search/Donde+Tere/@15.509730799999998,-88.0292022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tasty",
-                "link": "https://www.google.com/maps/search/Tasty/@15.4856971,-88.0045791?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafeteria rica leche",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+rica+leche/@15.505084999999998,-88.0269714?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pastelitos La Trejo",
-                "link": "https://www.google.com/maps/search/Pastelitos+La+Trejo/@15.496644799999999,-88.0257711?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafeteria Tere (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Cafeteria Tere, 11 Avenida Southeast, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Tere/data=!4m7!3m6!1s0x8f665d7865ff7fdf:0xff08ff7e105786bc!8m2!3d15.4833634!4d-88.0173527!16s%2Fg%2F11q2xlt1t2!19sChIJ33__ZXhdZo8RvIZXEH7_CP8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ4_AkER1DZo8Rh1Yl8GREFpM",
-        "name": "Cafe Dona Alba",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "104849758254502614479",
-            "name": "Cafe Dona Alba (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104849758254502614479"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNb9n-HJs82VOG5MXRcFisyahmwpb3pXl6Kmgbt=w408-h612-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-14:00",
-        "closed_on": "Open All Days",
-        "phone": "+504 3260-8133",
-        "address": "Cafe Dona Alba, Area \"A, Casa #18 Bloque #7, 21103 San Pedro Sula, Cortes, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafe+Do%C3%B1a+Alba/data=!4m7!3m6!1s0x8f66431d1124f0e3:0x93164464f0255687!8m2!3d15.4820815!4d-87.9880519!16s%2Fg%2F11ss5gc702!19sChIJ4_AkER1DZo8Rh1Yl8GREFpM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ8xhgK_1FZo8RC8gVMxvD9co",
         "name": "Cafe Imperio san pedro sula",
         "description": null,
@@ -7067,66 +6940,85 @@
         "link": "https://www.google.com/maps/place/Cafe+Imperio+san+pedro+sula/data=!4m7!3m6!1s0x8f6645fd2b6018f3:0xcaf5c31b3315c80b!8m2!3d15.5424143!4d-87.9524284!16s%2Fg%2F11rwmwvggd!19sChIJ8xhgK_1FZo8RC8gVMxvD9co?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJt5rOmRtbZo8RwZWPh94aLRw",
-        "name": "Cafe Versailles * Altara",
+        "place_id": "ChIJ7UH6EXZFZo8RjnRNpb8FaBs",
+        "name": "La esquina del sabor",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [
             {
-                "name": "Versailles Coffe * 16 Avenida SE",
-                "link": "https://www.google.com/maps/search/Versailles+Coffe+%E2%80%A2+16+Avenida+SE/@15.505609199999999,-88.03615529999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 252,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
+                "name": "Comida Buffet La Esquina Del Sabor",
+                "link": "https://www.google.com/maps/search/Comida+Buffet+La+Esquina+Del+Sabor/@15.4954234,-88.03262219999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 528,
+                "rating": 4.5,
+                "main_category": "Can Ting "
             },
             {
-                "name": "Versailles Cafe * Galerias del Valle",
-                "link": "https://www.google.com/maps/search/Versailles+Caf%C3%A9+%E2%80%A2+Galer%C3%ADas+del+Valle/@15.5305897,-88.0289274?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 185,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "name": "LA ESQUINA DEL SABOR ( los andes)",
+                "link": "https://www.google.com/maps/search/LA+ESQUINA+DEL+SABOR+%28+los+andes%29/@15.517909399999997,-88.02825709999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.3,
+                "main_category": "Can Ting "
             },
             {
-                "name": "Versailles Coffee * City Mall",
-                "link": "https://www.google.com/maps/search/Versailles+Coffee+%E2%80%A2+City+Mall/@15.496081499999999,-88.03622539999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 3.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Versailles Coffee SPS",
-                "link": "https://www.google.com/maps/search/Versailles+Coffee+SPS/@15.497858599999999,-88.035833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Versailles Coffe Shop",
-                "link": "https://www.google.com/maps/search/Versailles+Coffe+Shop/@15.502302199999997,-88.0056192?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "La Esquina del Sabor",
+                "link": "https://www.google.com/maps/search/La+Esquina+del+Sabor/@15.527302700000002,-88.0124562?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 4,
-                "rating": 3.5,
-                "main_category": "Ka Pei Ting "
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "El Rinconcito , La esquina del sabor",
+                "link": "https://www.google.com/maps/search/El+Rinconcito+%2C+La+esquina+del+sabor/@15.4443182,-88.0152299?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Cafe Versailles * Altara (Ye Zhu )",
+            "name": "La esquina del sabor (Ye Zhu )",
             "link": null
         },
         "featured_image": null,
-        "main_category": "Ka Pei Ting ",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Ka Pei Ting "
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+504 9942-5959",
+        "address": "G254+5W La esquina del sabor, 21101 San Pedro Sula, Cortes, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+esquina+del+sabor/data=!4m7!3m6!1s0x8f66457611fa41ed:0x1b6805bfa54d748e!8m2!3d15.507883!4d-87.9927072!16s%2Fg%2F11rcsmd_2q!19sChIJ7UH6EXZFZo8RjnRNpb8FaBs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJR_-mM89bZo8RXXjI1pzaasM",
+        "name": "Cupcakes the old western",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cupcakes the old western (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "HX7H+37C Cafe Versailles * Altara, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
+        "address": "GX6C+8WJ Cupcakes the old western, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Versailles+%E2%80%A2+Altara/data=!4m7!3m6!1s0x8f665b1b99ce9ab7:0x1c2d1ade878f95c1!8m2!3d15.5626415!4d-88.0218105!16s%2Fg%2F11sclqq060!19sChIJt5rOmRtbZo8RwZWPh94aLRw?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Cupcakes+the+old+western/data=!4m7!3m6!1s0x8f665bcf33a6ff47:0xc36ada9cd6c8785d!8m2!3d15.5108446!4d-88.0277487!16s%2Fg%2F11l5fjfqtq!19sChIJR_-mM89bZo8RXXjI1pzaasM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJY3QlwYtbZo8RxCFDBlFkGwM",
@@ -7185,8 +7077,8 @@
         "rating": null,
         "workday_timing": "06:00-18:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": null,
         "address": "GXP5+MG8 Maba Beans, C. Principal Rancho El Coco, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
@@ -7463,5 +7355,31 @@
         "address": "Koaj Bakery, 6 Avenida NO &, 14 Calle NO, 21102 San Pedro Sula, Cortes, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Koaj+Bakery/data=!4m7!3m6!1s0x8f665b6c8613f83b:0xd2b79b1943a612fd!8m2!3d15.5170743!4d-88.0254369!16s%2Fg%2F11t6t_lcs2!19sChIJO_gThmxbZo8R_RKmQxmbt9I?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJf_QSBtlbZo8RgM5deuWENqw",
+        "name": "Pulperia y Baleadas 6/15",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pulperia y Baleadas 6/15 (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Pulperia y Baleadas 6/15, 6 Calle S, & 15 Avenida S, 21104 San Pedro Sula, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pulper%C3%ADa+y+Baleadas+6%2F15/data=!4m7!3m6!1s0x8f665bd90612f47f:0xac3684e57a5dce80!8m2!3d15.5027396!4d-88.0354214!16s%2Fg%2F11vhc09p76!19sChIJf_QSBtlbZo8RgM5deuWENqw?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

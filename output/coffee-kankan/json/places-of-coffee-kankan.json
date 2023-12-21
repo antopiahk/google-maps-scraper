@@ -1,43 +1,91 @@
 [
     {
-        "place_id": "ChIJTxMJ4dwBBDQR-UK9jErfFOU",
-        "name": "M3 Coffee & Zakka",
+        "place_id": "ChIJO0QNYnb_AzQR2YR_6oKnCRM",
+        "name": "Affee (Kennedy Town)",
         "description": null,
         "is_spending_on_ads": true,
-        "reviews": null,
-        "competitors": [],
-        "website": "https://www.m3coffee.hk/",
+        "reviews": 45,
+        "competitors": [
+            {
+                "name": "Winstons Coffee - Kennedy Town",
+                "link": "https://www.google.com/maps/search/Winstons+Coffee+-+Kennedy+Town/@22.2814613,114.1271506?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 263,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Cofftea Shop",
+                "link": "https://www.google.com/maps/search/The+Cofftea+Shop/@22.2829774,114.12691199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 142,
+                "rating": 4.5,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "For Single",
+                "link": "https://www.google.com/maps/search/For+Single/@22.2827847,114.1277781?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 107,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "First Boy Coffee",
+                "link": "https://www.google.com/maps/search/First+Boy+Coffee/@22.2847352,114.1308779?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 61,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://www.affeehk.com/",
         "owner": {
-            "id": "106497761805470519321",
-            "name": "M3 Coffee & Zakka (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106497761805470519321"
+            "id": "114652438273276341401",
+            "name": "Affee (Kennedy Town) (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114652438273276341401"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbjgwcd2dAEL4KkT-rT-44yWGLJLl-LdmQJsre=w408-h272-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEc3Bw4Lm0y-IP0DrZDtUTTcfItzrnZBWh4n9B=w408-h306-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": null,
-        "workday_timing": "12:30-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
+        "rating": 4.6,
+        "workday_timing": "08:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Affee (Kennedy Town), 19 Hau Wo St, Kennedy Town",
+        "review_keywords": [
+            {
+                "keyword": "Chong Wu ",
+                "count": 4
+            },
+            {
+                "keyword": "Nai ",
+                "count": 4
+            },
+            {
+                "keyword": "Yin Le ",
+                "count": 3
+            },
+            {
+                "keyword": "Shu Shi ",
+                "count": 3
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
         ],
-        "phone": "6896 9208",
-        "address": "Jiu Long Wan Hong Kai Dao 15Hao Jiu Long Wan Gong Ye Zhong Xin M3 Coffee & Zakka6Lou 7Shi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/M3+Coffee+%26+Zakka/data=!4m7!3m6!1s0x340401dce109134f:0xe514df4a8cbd42f9!8m2!3d22.3230134!4d114.2105362!16s%2Fg%2F11vh_9gr2j!19sChIJTxMJ4dwBBDQR-UK9jErfFOU?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Affee+%28Kennedy+Town%29/data=!4m7!3m6!1s0x3403ff76620d443b:0x1309a782ea7f84d9!8m2!3d22.2829478!4d114.1276552!16s%2Fg%2F11j_rqsz8j!19sChIJO0QNYnb_AzQR2YR_6oKnCRM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJUe2zb3sABDQRow0zOoqDVT8",
         "name": "Lan Fang Yuan ",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3144,
+        "reviews": 3149,
         "competitors": [
             {
                 "name": "Lu Yu Cha Shi ",
                 "link": "https://www.google.com/maps/search/%E9%99%B8%E7%BE%BD%E8%8C%B6%E5%AE%A4/@22.2822145,114.15555859999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1419,
+                "reviews": 1425,
                 "rating": 3.7,
                 "main_category": "Zhong Shi Cha Guan "
             },
@@ -89,7 +137,7 @@
             },
             {
                 "keyword": "Xi Duo Shi ",
-                "count": 157
+                "count": 158
             },
             {
                 "keyword": "Zhu Ba Bao ",
@@ -97,7 +145,7 @@
             },
             {
                 "keyword": "Pao Mian ",
-                "count": 38
+                "count": 39
             },
             {
                 "keyword": "Zhu Zi Bao ",
@@ -119,16 +167,106 @@
         "link": "https://www.google.com/maps/place/%E8%98%AD%E8%8A%B3%E5%9C%92/data=!4m7!3m6!1s0x3404007b6fb3ed51:0x3f55838a3a330da3!8m2!3d22.2827177!4d114.1537154!16s%2Fg%2F155sbdwr!19sChIJUe2zb3sABDQRow0zOoqDVT8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJEXMJ7XwABDQRHkQ2_q-FDnM",
+        "name": "Zhen Ni Qu Qi Cong Ming Xiao Xiong ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2253,
+        "competitors": [
+            {
+                "name": "Cookieism Qu Qi A Shen ",
+                "link": "https://www.google.com/maps/search/Cookieism+%E6%9B%B2%E5%A5%87%E9%98%BF%E5%AC%B8/@22.2839325,114.1553613?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.1,
+                "main_category": "Bing Gan "
+            },
+            {
+                "name": "Pin Cookies",
+                "link": "https://www.google.com/maps/search/Pin+Cookies/@22.2852027,114.1575859?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3.8,
+                "main_category": "Bing Gan "
+            },
+            {
+                "name": "J's Bakery Cookies",
+                "link": "https://www.google.com/maps/search/J%27s+Bakery+Cookies/@22.2974823,114.17249249999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 1.4,
+                "main_category": "Bing Gan "
+            },
+            {
+                "name": "jenikuki",
+                "link": "https://www.google.com/maps/search/%EC%A0%9C%EB%8B%88%EC%BF%A0%ED%82%A4/@22.2851139,114.1537285?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 2.5,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.jennybakery.com/",
+        "owner": {
+            "id": "105048323123815357725",
+            "name": "Zhen Ni Qu Qi Cong Ming Xiao Xiong  (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105048323123815357725"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdabHXDQ61l2S7pO3ed5GjzfdWnlYuNk_ekY7s=w408-h543-k-no",
+        "main_category": "Qu Qi Bing Dian ",
+        "categories": [
+            "Qu Qi Bing Dian ",
+            "Mian Bao Xi Bing Dian ",
+            "Li Pin Dian ",
+            "Gao Bing Dian ",
+            "Lu You Jing Dian "
+        ],
+        "rating": 3.7,
+        "workday_timing": "10:00-19:00",
+        "closed_on": [
+            "Xing Qi San "
+        ],
+        "phone": "2524 1988",
+        "address": "Hao Di Pu , Zhen Ni Qu Qi Cong Ming Xiao Xiong 15 Wing Wo St, Sheung Wan",
+        "review_keywords": [
+            {
+                "keyword": "Ban Shou Li ",
+                "count": 83
+            },
+            {
+                "keyword": "Xian Jin ",
+                "count": 65
+            },
+            {
+                "keyword": "Dian Yuan ",
+                "count": 25
+            },
+            {
+                "keyword": "Lu Ke ",
+                "count": 23
+            },
+            {
+                "keyword": "Hua ",
+                "count": 15
+            },
+            {
+                "keyword": "google map",
+                "count": 7
+            },
+            {
+                "keyword": "Xing Li Xiang ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%E7%8F%8D%E5%A6%AE%E6%9B%B2%E5%A5%87%E8%81%B0%E6%98%8E%E5%B0%8F%E7%86%8A/data=!4m7!3m6!1s0x3404007ced097311:0x730e85affe36441e!8m2!3d22.285103!4d114.1537285!16s%2Fg%2F1vbl559w!19sChIJEXMJ7XwABDQRHkQ2_q-FDnM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJlSRIwLQABDQRT_B6YwxZJ_Q",
         "name": "Gong He Dou Pin Chang ",
         "description": "Pu Shi De Lao Zi Hao Can Ting ,Gong Ying Zi Zhi Tian Dian Yu Bing Qi Lin . ",
         "is_spending_on_ads": false,
-        "reviews": 2120,
+        "reviews": 2125,
         "competitors": [
             {
                 "name": "Gong Fu Dian Xin ",
                 "link": "https://www.google.com/maps/search/%E5%8A%9F%E5%A4%AB%E9%BB%9E%E5%BF%83/@22.3317008,114.1633109?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 755,
+                "reviews": 758,
                 "rating": 3.3,
                 "main_category": "Yue Shi Dian Xin "
             },
@@ -173,7 +311,7 @@
         "review_keywords": [
             {
                 "keyword": "Dou Fu Hua ",
-                "count": 284
+                "count": 286
             },
             {
                 "keyword": "Tang ",
@@ -188,12 +326,12 @@
                 "count": 42
             },
             {
-                "keyword": "Dou Zhi Pin ",
-                "count": 17
+                "keyword": "Chang Fen ",
+                "count": 20
             },
             {
-                "keyword": "Huai Jiu ",
-                "count": 16
+                "keyword": "Dou Zhi Pin ",
+                "count": 17
             },
             {
                 "keyword": "Fu Ru ",
@@ -203,213 +341,11 @@
         "link": "https://www.google.com/maps/place/%E5%85%AC%E5%92%8C%E8%8D%B3%E5%93%81%E5%BB%A0/data=!4m7!3m6!1s0x340400b4c0482495:0xf427590c637af04f!8m2!3d22.3310951!4d114.1635907!16s%2Fg%2F1v9txhvb!19sChIJlSRIwLQABDQRT_B6YwxZJ_Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJswvUvdYGBDQR3m2Ah1qcW9I",
-        "name": "Yi Tian Chao Shi  Xin Pu Gang Dian ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1982,
-        "competitors": [
-            {
-                "name": "Shi Xian  Eat First",
-                "link": "https://www.google.com/maps/search/%E9%A3%9F%E9%AE%AE+Eat+First/@22.3372243,114.2023552?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "iEAT",
-                "link": "https://www.google.com/maps/search/iEAT/@22.3335249,114.19697529999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.3,
-                "main_category": "Gao Ji Shi Cai Dian "
-            },
-            {
-                "name": "DAISO JAPAN Xin Pu Gang Dian ",
-                "link": "https://www.google.com/maps/search/DAISO+JAPAN+%E6%96%B0%E8%92%B2%E5%B4%97%E5%BA%97/@22.3338014,114.19698?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3.5,
-                "main_category": "12 Yuan Dian "
-            },
-            {
-                "name": "Tai Lai ",
-                "link": "https://www.google.com/maps/search/%E6%B3%B0%E8%90%8A/@22.334909,114.197153?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Shang Dian Yu Gou Wu "
-            },
-            {
-                "name": "Dian Dian Lu , Yi Tian ",
-                "link": "https://www.google.com/maps/search/%E9%BB%9E%E9%BB%9E%E7%B6%A0%2C+%E4%B8%80%E7%94%B0/@22.333686999999998,114.19677499999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            }
-        ],
-        "website": "https://www.yata.hk/tch/store/san-po-kong/",
-        "owner": {
-            "id": "104763257593072406066",
-            "name": "Yi Tian Chao Shi  Xin Pu Gang Dian  (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104763257593072406066"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMG89lZE5WotBvDtkD39MuxdogwgphqfnVWaAop=w408-h408-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 3.8,
-        "workday_timing": "10:00-22:30",
-        "closed_on": "Open All Days",
-        "phone": "2350 8888",
-        "address": "Xin Pu Gang Tai Zi Dao Dong 638Hao Mikiki LGYi Tian Chao Shi  Xin Pu Gang Dian ",
-        "review_keywords": [
-            {
-                "keyword": "Huo Pin ",
-                "count": 66
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 33
-            },
-            {
-                "keyword": "Shu Shi ",
-                "count": 15
-            },
-            {
-                "keyword": "Jia ",
-                "count": 10
-            },
-            {
-                "keyword": "You Hui ",
-                "count": 9
-            },
-            {
-                "keyword": "Jin Kou ",
-                "count": 7
-            },
-            {
-                "keyword": "Jiao Tong ",
-                "count": 7
-            },
-            {
-                "keyword": "Ren Liu ",
-                "count": 6
-            },
-            {
-                "keyword": "Dian Yuan ",
-                "count": 5
-            },
-            {
-                "keyword": "Shou Si ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E4%B8%80%E7%94%B0%E8%B6%85%E5%B8%82+%E6%96%B0%E8%92%B2%E5%B4%97%E5%BA%97/data=!4m7!3m6!1s0x340406d6bdd40bb3:0xd25b9c5a87806dde!8m2!3d22.3332844!4d114.1966701!16s%2Fg%2F1v4pqlwq!19sChIJswvUvdYGBDQR3m2Ah1qcW9I?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ9-0FrPIABDQRuhB0GVH0Nz0",
-        "name": "city'super",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1738,
-        "competitors": [
-            {
-                "name": "Hai Gang Cheng ",
-                "link": "https://www.google.com/maps/search/%E6%B5%B7%E6%B8%AF%E5%9F%8E/@22.2974784,114.1687395?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18635,
-                "rating": 4.2,
-                "main_category": "Gou Wu Zhong Xin "
-            },
-            {
-                "name": "c!ty'super Xin Cheng Shi Guang Chang Dian ",
-                "link": "https://www.google.com/maps/search/c%21ty%E2%80%99super+%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4%E5%BA%97/@22.3821577,114.1891835?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 980,
-                "rating": 4,
-                "main_category": "Da Xing Chao Ji Shi Chang "
-            },
-            {
-                "name": "city'super",
-                "link": "https://www.google.com/maps/search/city%E2%80%99super/@22.2850829,114.1569774?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "LOG-ON Gang Wei Zhong Xin ",
-                "link": "https://www.google.com/maps/search/LOG-ON+%E6%B8%AF%E5%A8%81%E4%B8%AD%E5%BF%83/@22.2953381,114.1688303?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.1,
-                "main_category": "Bai Huo Gong Si "
-            }
-        ],
-        "website": "https://online.citysuper.com.hk/blogs/happenings/store-locator",
-        "owner": {
-            "id": null,
-            "name": "city'super (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkoR0ohDwF2T3of0jauVO9fUBrDEjeWaM19alv=w426-h240-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian ",
-            "Bai Huo Gong Si ",
-            "Da Xing Chao Ji Shi Chang ",
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 4.1,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "2375 8222",
-        "address": "Jian Sha Ju Guang Dong Dao 3-27Hao Hai Gang Cheng city'super",
-        "review_keywords": [
-            {
-                "keyword": "Huo Pin ",
-                "count": 40
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 40
-            },
-            {
-                "keyword": "Jin Kou ",
-                "count": 30
-            },
-            {
-                "keyword": "Shang Chang ",
-                "count": 10
-            },
-            {
-                "keyword": "Sheng Xian ",
-                "count": 10
-            },
-            {
-                "keyword": "Zhu Shi ",
-                "count": 10
-            },
-            {
-                "keyword": "Jing Pin ",
-                "count": 7
-            },
-            {
-                "keyword": "Yong Pin ",
-                "count": 7
-            },
-            {
-                "keyword": "Jiao Tong ",
-                "count": 7
-            },
-            {
-                "keyword": "Ji Nian Pin ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/city%E2%80%99super/data=!4m7!3m6!1s0x340400f2ac05edf7:0x3d37f451197410ba!8m2!3d22.2984658!4d114.1683544!16s%2Fg%2F1vc_mz88!19sChIJ9-0FrPIABDQRuhB0GVH0Nz0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ3y4RZM0BBDQRpMMYCHpy5J4",
         "name": "Plato Cafe Bistro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1197,
+        "reviews": 1201,
         "competitors": [
             {
                 "name": "amour cafe",
@@ -472,10 +408,6 @@
                 "count": 60
             },
             {
-                "keyword": "Yi Fen ",
-                "count": 49
-            },
-            {
                 "keyword": "Yi Da Li Fan ",
                 "count": 45
             },
@@ -488,20 +420,24 @@
                 "count": 37
             },
             {
+                "keyword": "Hei Mao Zhu ",
+                "count": 17
+            },
+            {
                 "keyword": "Rou Yan ",
                 "count": 16
             },
             {
-                "keyword": "Hei Mao Zhu ",
-                "count": 15
-            },
-            {
                 "keyword": "An ",
-                "count": 13
+                "count": 15
             },
             {
                 "keyword": "Che Li Qie ",
                 "count": 12
+            },
+            {
+                "keyword": "Bian Yi Fen ",
+                "count": 11
             }
         ],
         "link": "https://www.google.com/maps/place/Plato+Cafe+Bistro/data=!4m7!3m6!1s0x340401cd64112edf:0x9ee4727a0818c3a4!8m2!3d22.3033074!4d114.1703509!16s%2Fg%2F11cn8sk2tf!19sChIJ3y4RZM0BBDQRpMMYCHpy5J4?authuser=0&hl=zh-TW&rclk=1"
@@ -516,7 +452,7 @@
             {
                 "name": "Ning Meng Bing Shi ",
                 "link": "https://www.google.com/maps/search/%E6%AA%B8%E6%AA%AC%E5%86%B0%E5%AE%A4/@22.330482,114.161037?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 739,
+                "reviews": 740,
                 "rating": 3.5,
                 "main_category": "Can Ting "
             },
@@ -604,119 +540,16 @@
         "link": "https://www.google.com/maps/place/%E6%AA%B8%E6%AA%AC%E7%8E%8B+Lemon+King/data=!4m7!3m6!1s0x3404007cc2aabd71:0x501aeaf3b567aa53!8m2!3d22.2850654!4d114.1540112!16s%2Fg%2F1tywvk7h!19sChIJcb2qwnwABDQRU6pntfPqGlA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ5602WloABDQRL4lTqw_i4cQ",
-        "name": "Dong Fang 188Shang Chang ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1114,
-        "competitors": [
-            {
-                "name": "Xi Cheng Dian Nao You Xi Dian ",
-                "link": "https://www.google.com/maps/search/%E8%A5%BF%E5%9F%8E%E9%9B%BB%E8%85%A6%E9%81%8A%E6%88%B2%E5%BA%97/@22.2779191,114.17735069999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 852,
-                "rating": 3.7,
-                "main_category": "You Xi Dian "
-            },
-            {
-                "name": "Bai Ke Dian Wan ",
-                "link": "https://www.google.com/maps/search/%E7%99%BE%E7%A7%91%E9%9B%BB%E7%8E%A9/@22.277603900000003,114.1775919?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.1,
-                "main_category": "You Xi Dian "
-            },
-            {
-                "name": "Evergames",
-                "link": "https://www.google.com/maps/search/Evergames/@22.2773148,114.1729237?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.5,
-                "main_category": "You Xi Guang Die Zhuan Men Dian "
-            },
-            {
-                "name": "Game Best",
-                "link": "https://www.google.com/maps/search/Game+Best/@22.277538300000003,114.17742279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4,
-                "main_category": "Gou Wu Zhong Xin "
-            },
-            {
-                "name": "Dreamstore",
-                "link": "https://www.google.com/maps/search/Dreamstore/@22.277538300000003,114.17742279999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "You Xi Guang Die Zhuan Men Dian "
-            }
-        ],
-        "website": "https://facebook.com/TimePiece188",
-        "owner": {
-            "id": "101534879404365505182",
-            "name": "Dong Fang 188Shang Chang  (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101534879404365505182"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWzHdmCZGsNtm1iVtp-6tTRa0MnJDJpxvHvMFq=w426-h240-k-no",
-        "main_category": "You Xi Guang Die Zhuan Men Dian ",
-        "categories": [
-            "You Xi Guang Die Zhuan Men Dian "
-        ],
-        "rating": 3.5,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "2591 1521",
-        "address": "Wan Zi Wan Zi Dao 188Hao Dong Fang 188Shang Chang ",
-        "review_keywords": [
-            {
-                "keyword": "Shou Ji ",
-                "count": 53
-            },
-            {
-                "keyword": "Wan Ju ",
-                "count": 27
-            },
-            {
-                "keyword": "Jia Qian ",
-                "count": 27
-            },
-            {
-                "keyword": "Gou Wu Zhong Xin ",
-                "count": 24
-            },
-            {
-                "keyword": "Er Shou ",
-                "count": 12
-            },
-            {
-                "keyword": "Shi Pin ",
-                "count": 9
-            },
-            {
-                "keyword": "Dian Zi Chan Pin ",
-                "count": 6
-            },
-            {
-                "keyword": "Di Ban ",
-                "count": 5
-            },
-            {
-                "keyword": "You Hui ",
-                "count": 5
-            },
-            {
-                "keyword": "Dong Man ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E6%9D%B1%E6%96%B9188%E5%95%86%E5%A0%B4/data=!4m7!3m6!1s0x3404005a5a36ade7:0xc4e1e20fab53892f!8m2!3d22.2776361!4d114.1775746!16s%2Fg%2F11f1p985wr!19sChIJ5602WloABDQRL4lTqw_i4cQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJUV5x3M4BBDQRGTIVdfEN20c",
         "name": "DON DON DONKI Central",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1044,
+        "reviews": 1046,
         "competitors": [
             {
                 "name": "DON DON DONKI",
                 "link": "https://www.google.com/maps/search/DON+DON+DONKI/@22.2664394,114.2502899?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 455,
+                "reviews": 456,
                 "rating": 3.9,
                 "main_category": "Ri Ben Za Huo Dian "
             },
@@ -826,14 +659,14 @@
             {
                 "name": "Knockbox Coffee Company",
                 "link": "https://www.google.com/maps/search/Knockbox+Coffee+Company/@22.3176204,114.17255829999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 710,
+                "reviews": 712,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Pause It",
                 "link": "https://www.google.com/maps/search/Pause+It/@22.3188733,114.1716623?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 474,
+                "reviews": 476,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -917,12 +750,12 @@
         "name": "N1 Coffee & Co. (Tsim Sha Tsui)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 975,
+        "reviews": 976,
         "competitors": [
             {
                 "name": "Urban Coffee Roaster",
                 "link": "https://www.google.com/maps/search/Urban+Coffee+Roaster/@22.2973689,114.17289339999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 798,
+                "reviews": 802,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -943,7 +776,7 @@
             {
                 "name": "NOC (Tsim Sha Tsui East)",
                 "link": "https://www.google.com/maps/search/NOC+%28Tsim+Sha+Tsui+East%29/@22.2983261,114.17847959999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 130,
+                "reviews": 131,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -999,109 +832,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/N1+Coffee+%26+Co.+%28Tsim+Sha+Tsui%29/data=!4m7!3m6!1s0x340400ee1c4cb06f:0x16019392fc06df75!8m2!3d22.2971553!4d114.1747068!16s%2Fg%2F1q627wgy3!19sChIJb7BMHO4ABDQRdd8G_JKTARY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJe9GOKfIBBDQRGcEknlxGoS0",
-        "name": "Wu Yin Liang Pin  Li Wu Tai Dian ",
-        "description": "Ji Jian Feng Ge De Ri Ben Ling Shou Shang Dian ,Fan Shou Fu Zhuang He Jia Ju Yong Pin Deng Ge Zhong Chang Jian Chan Pin . ",
-        "is_spending_on_ads": false,
-        "reviews": 881,
-        "competitors": [
-            {
-                "name": "UNIQLO Li Wu Tai Qi Jian Dian ",
-                "link": "https://www.google.com/maps/search/UNIQLO+%E5%88%A9%E8%88%9E%E8%87%BA%E6%97%97%E8%89%A6%E5%BA%97/@22.2784061,114.1831359?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1504,
-                "rating": 4.2,
-                "main_category": "Fu Zhuang Dian "
-            },
-            {
-                "name": "Wu Yin Liang Pin  Hai Gang Cheng Dian ",
-                "link": "https://www.google.com/maps/search/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E6%B5%B7%E6%B8%AF%E5%9F%8E%E5%BA%97/@22.295898899999997,114.16908769999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 502,
-                "rating": 4.2,
-                "main_category": "Jia Ju Yong Pin Dian "
-            },
-            {
-                "name": "Wu Yin Liang Pin  De Fu Guang Chang Dian ",
-                "link": "https://www.google.com/maps/search/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E5%BE%B7%E7%A6%8F%E5%BB%A3%E5%A0%B4%E5%BA%97/@22.320563999999997,114.21314129999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
-                "rating": 3.9,
-                "main_category": "Jia Ju Yong Pin Dian "
-            },
-            {
-                "name": "SUNING",
-                "link": "https://www.google.com/maps/search/SUNING/@22.278116699999998,114.1819962?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 3.1,
-                "main_category": "Dian Qi Xing "
-            },
-            {
-                "name": "J-Market",
-                "link": "https://www.google.com/maps/search/J-Market/@22.280195799999998,114.1851219?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 2.8,
-                "main_category": "Jing Pin Dian "
-            }
-        ],
-        "website": "https://www.muji.com/hk/",
-        "owner": {
-            "id": "114801486199311574150",
-            "name": "Wu Yin Liang Pin  Li Wu Tai Dian  (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114801486199311574150"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObY3hWarApMt10km-R2tKFeB7WevOCZdnOk6ZJ=w408-h305-k-no",
-        "main_category": "Shang Dian ",
-        "categories": [
-            "Shang Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "11:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "3971 3120",
-        "address": "Wu Yin Liang Pin  Li Wu Tai Dian  3/F & 4/F, Lee Theatre, 99 Percival St, Causeway Bay",
-        "review_keywords": [
-            {
-                "keyword": "Huo Pin ",
-                "count": 25
-            },
-            {
-                "keyword": "cafe",
-                "count": 19
-            },
-            {
-                "keyword": "Shu Shi ",
-                "count": 17
-            },
-            {
-                "keyword": "Shan ",
-                "count": 16
-            },
-            {
-                "keyword": "Wen Ju ",
-                "count": 10
-            },
-            {
-                "keyword": "Shou Yin ",
-                "count": 7
-            },
-            {
-                "keyword": "Lu Xing ",
-                "count": 6
-            },
-            {
-                "keyword": "Di Ban ",
-                "count": 6
-            },
-            {
-                "keyword": "She Ji ",
-                "count": 5
-            },
-            {
-                "keyword": "Xiao Chi ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E5%88%A9%E8%88%9E%E8%87%BA%E5%BA%97/data=!4m7!3m6!1s0x340401f2298ed17b:0x2da1465c9e24c119!8m2!3d22.2783025!4d114.183089!16s%2Fg%2F1tdhjfgh!19sChIJe9GOKfIBBDQRGcEknlxGoS0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ9Q7crHwABDQR7cv33vVQd9U",
@@ -1204,107 +934,110 @@
         "link": "https://www.google.com/maps/place/%E4%B8%89%E8%81%AF%E6%9B%B8%E5%BA%97+-+%E4%B8%AD%E7%92%B0%E5%BA%97/data=!4m7!3m6!1s0x3404007cacdc0ef5:0xd57750f5def7cbed!8m2!3d22.2836917!4d114.155789!16s%2Fg%2F1ts1k7dg!19sChIJ9Q7crHwABDQR7cv33vVQd9U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJhTQMjfwBBDQRqXPvu7V1_-g",
-        "name": "Yi Tian Chao Shi  Bei Jiao Dian ",
+        "place_id": "ChIJuQFokgkHBDQR-ownWGuzD_I",
+        "name": "BRICK LANE Deli",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 695,
+        "reviews": 703,
         "competitors": [
             {
-                "name": "Bai Jia Chao Ji Guang Chang  (Bei Jiao Gang Yun Cheng )",
-                "link": "https://www.google.com/maps/search/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%BB%A3%E5%A0%B4+%28%E5%8C%97%E8%A7%92%E6%B8%AF%E9%81%8B%E5%9F%8E%29/@22.2913428,114.2021832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 334,
-                "rating": 3.7,
-                "main_category": "Da Xing Chao Ji Shi Chang "
+                "name": "SimplyLife Bakery Cafe",
+                "link": "https://www.google.com/maps/search/SimplyLife+Bakery+Cafe/@22.381125900000004,114.18854449999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 849,
+                "rating": 3.8,
+                "main_category": "Can Ting "
             },
             {
-                "name": "GET FRESH Ri Ben Shui Guo Shi Cai Zhuan Men Dian ",
-                "link": "https://www.google.com/maps/search/GET+FRESH+%E6%97%A5%E6%9C%AC%E6%B0%B4%E6%9E%9C%E9%A3%9F%E6%9D%90%E5%B0%88%E9%96%80%E5%BA%97/@22.2917504,114.20432269999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 1,
-                "main_category": "Gao Ji Shi Cai Dian "
+                "name": "The Salted Pig (Sha Tin)",
+                "link": "https://www.google.com/maps/search/The+Salted+Pig+%28Sha+Tin%29/@22.3822246,114.1883391?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 526,
+                "rating": 4,
+                "main_category": "Xi Bu Liao Li "
             },
             {
-                "name": "iEAT",
-                "link": "https://www.google.com/maps/search/iEAT/@22.2921837,114.1952802?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Gao Ji Shi Cai Dian "
+                "name": "Delifrance",
+                "link": "https://www.google.com/maps/search/Delifrance/@22.3797449,114.186718?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 476,
+                "rating": 3.6,
+                "main_category": "Xi Bu Liao Li "
             },
             {
-                "name": "pandamart (North Point)",
-                "link": "https://www.google.com/maps/search/pandamart+%28North+Point%29/@22.2862369,114.19235429999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
+                "name": "Da Li Cha Can Ting ",
+                "link": "https://www.google.com/maps/search/%E5%A4%A7%E5%88%A9%E8%8C%B6%E9%A4%90%E5%BB%B3/@22.3752556,114.1781791?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 369,
+                "rating": 3.4,
+                "main_category": "Gang Shi Kuai Can Dian "
             },
             {
-                "name": "Frozen Meat Shop",
-                "link": "https://www.google.com/maps/search/Frozen+Meat+Shop/@22.291935499999997,114.1978276?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shi Chang "
+                "name": "Xing Yun Bing Shi ",
+                "link": "https://www.google.com/maps/search/%E5%B9%B8%E9%81%8B%E5%86%B0%E5%AE%A4/@22.3768718,114.178557?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 166,
+                "rating": 3.8,
+                "main_category": "Zhong Guo Cai "
             }
         ],
-        "website": "https://www.yata.hk/tch/store/north-point/",
+        "website": "https://bricklane.com.hk/",
         "owner": {
-            "id": "102647485874265549851",
-            "name": "Yi Tian Chao Shi  Bei Jiao Dian  (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102647485874265549851"
+            "id": "104380355086650534780",
+            "name": "BRICK LANE Deli (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104380355086650534780"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMqWY2aMNR5JIIWFhaOeEbWS2puoIo8kzJ_65Z3=w408-h544-k-no",
-        "main_category": "Chao Ji Shi Chang ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMiJXqBZPBLUcK3C-fU9MNg9doOYCOA-CCsA0SF=w408-h306-k-no",
+        "main_category": "Ying Guo Can Ting ",
         "categories": [
-            "Chao Ji Shi Chang "
+            "Ying Guo Can Ting ",
+            "Zao Can Can Ting ",
+            "Ka Pei Ting ",
+            "Ying Shi Can Ting "
         ],
-        "rating": 4,
-        "workday_timing": "09:00-21:30",
+        "rating": 3.6,
+        "workday_timing": "09:00-22:00",
         "closed_on": "Open All Days",
-        "phone": "2192 2300",
-        "address": "Bei Jiao Zha Hua Dao 123Hao Bei Jiao Hui Er Qi B1Yi Tian Chao Shi  Bei Jiao Dian ",
+        "phone": "2366 1338",
+        "address": "L3 Shop 332, BRICK LANE DeliWei Fang 18 Che Kung Miu Rd, Tai Wai",
         "review_keywords": [
             {
-                "keyword": "Huo Pin ",
-                "count": 29
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 19
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 33
             },
             {
                 "keyword": "Shu Shi ",
-                "count": 15
+                "count": 22
             },
             {
-                "keyword": "Gu Ke ",
+                "keyword": "Kou Gan ",
+                "count": 17
+            },
+            {
+                "keyword": "Shang Chang ",
+                "count": 14
+            },
+            {
+                "keyword": "Yi Fen ",
+                "count": 13
+            },
+            {
+                "keyword": "Zha ",
+                "count": 13
+            },
+            {
+                "keyword": "Xiang ",
+                "count": 11
+            },
+            {
+                "keyword": "Niu Jiao Bao ",
+                "count": 10
+            },
+            {
+                "keyword": "Zhi ",
                 "count": 8
             },
             {
-                "keyword": "Fu Kuan ",
-                "count": 6
-            },
-            {
-                "keyword": "Fu Wu ",
-                "count": 6
-            },
-            {
-                "keyword": "Jin Kou ",
-                "count": 5
-            },
-            {
-                "keyword": "He Shi ",
-                "count": 5
-            },
-            {
-                "keyword": "Jiao Tong ",
-                "count": 5
-            },
-            {
-                "keyword": "Mian ",
-                "count": 5
+                "keyword": "Ruan Ke Xie ",
+                "count": 7
             }
         ],
-        "link": "https://www.google.com/maps/place/%E4%B8%80%E7%94%B0%E8%B6%85%E5%B8%82+%E5%8C%97%E8%A7%92%E5%BA%97/data=!4m7!3m6!1s0x340401fc8d0c3485:0xe8ff75b5bbef73a9!8m2!3d22.2928256!4d114.2009297!16s%2Fg%2F11j4sl5ztb!19sChIJhTQMjfwBBDQRqXPvu7V1_-g?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/BRICK+LANE+Deli/data=!4m7!3m6!1s0x34040709926801b9:0xf20fb36b58278cfa!8m2!3d22.3728362!4d114.178758!16s%2Fg%2F11g2360zy2!19sChIJuQFokgkHBDQR-ownWGuzD_I?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJKWtr4KEBBDQR409tdnXjioU",
@@ -1323,7 +1056,7 @@
             {
                 "name": "Vission Bakery",
                 "link": "https://www.google.com/maps/search/Vission+Bakery/@22.2818468,114.1530872?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 73,
+                "reviews": 74,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1395,295 +1128,6 @@
         "link": "https://www.google.com/maps/place/Bakehouse/data=!4m7!3m6!1s0x340401a1e06b6b29:0x858ae375766d4fe3!8m2!3d22.2817302!4d114.153144!16s%2Fg%2F11lfq7ftjq!19sChIJKWtr4KEBBDQR409tdnXjioU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJgcQHAFQGBDQRObm-DNT5mQ8",
-        "name": "Shi Hui  Xi Er Dun Zhong Xin ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 522,
-        "competitors": [
-            {
-                "name": "Yi Jia Jia Ju  Sha Tian Dian ",
-                "link": "https://www.google.com/maps/search/%E5%AE%9C%E5%AE%B6%E5%AE%B6%E5%B1%85+%E6%B2%99%E7%94%B0%E5%BA%97/@22.3855358,114.1877806?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5061,
-                "rating": 4.1,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Simplylife",
-                "link": "https://www.google.com/maps/search/Simplylife/@22.379960999999998,114.18676909999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 42,
-                "rating": 1.6,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Ou Hua Jia ",
-                "link": "https://www.google.com/maps/search/%E6%AD%90%E5%8C%96%E5%82%A2%E4%BF%AC/@22.385765,114.18789799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 3.1,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Creative Co-op Home",
-                "link": "https://www.google.com/maps/search/Creative+Co-op+Home/@22.385277799999997,114.18777779999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "UrbanLiving",
-                "link": "https://www.google.com/maps/search/UrbanLiving/@22.385726,114.187868?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Jia Dian "
-            }
-        ],
-        "website": "http://www.pricerite.com.hk/",
-        "owner": {
-            "id": "104813355925503557932",
-            "name": "Shi Hui  (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104813355925503557932"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXdITbjGz-p51iP_DwP9L1hx_tEScEQL4Oulo2=w408-h306-k-no",
-        "main_category": "Jia Dian ",
-        "categories": [
-            "Jia Dian ",
-            "Dian Qi Ling Shou ",
-            "Jia Ju Yong Pin Dian "
-        ],
-        "rating": 3.4,
-        "workday_timing": "10:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "2693 3731",
-        "address": "Di Xia Ji Er Lou , Shi Hui Xi Er Dun Zhong Xin AZuo  Sha Tian Zheng Jie 3-9Hao Xi Er Dun Zhong Xin , Sha Tin Centre St, Sha Tin",
-        "review_keywords": [
-            {
-                "keyword": "Huo Pin ",
-                "count": 10
-            },
-            {
-                "keyword": "Fu Wu ",
-                "count": 9
-            },
-            {
-                "keyword": "Dian Yuan ",
-                "count": 4
-            },
-            {
-                "keyword": "IKEA",
-                "count": 4
-            },
-            {
-                "keyword": "Ting Che Chang ",
-                "count": 4
-            },
-            {
-                "keyword": "Gan Jue ",
-                "count": 4
-            },
-            {
-                "keyword": "Yi ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E5%AF%A6%E6%83%A0+%E5%B8%8C%E7%88%BE%E9%A0%93%E4%B8%AD%E5%BF%83/data=!4m7!3m6!1s0x340406540007c481:0xf99f9d40cbeb939!8m2!3d22.379365!4d114.1868328!16s%2Fg%2F1tct69_8!19sChIJgcQHAFQGBDQRObm-DNT5mQ8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJJ7e3ockABDQRauhBkxhsRZE",
-        "name": "Shi Hui  (Tai Zi )",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 499,
-        "competitors": [
-            {
-                "name": "Fei Cui Jia Ju  Wang Jiao Dian ",
-                "link": "https://www.google.com/maps/search/%E7%BF%A1%E7%BF%A0%E5%AE%B6%E5%B1%85+%E6%97%BA%E8%A7%92%E5%BA%97/@22.3233511,114.170699?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 3,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Shi Hui Chuang Lian ",
-                "link": "https://www.google.com/maps/search/%E5%AF%A6%E6%83%A0%E7%AA%97%E7%B0%BE/@22.322831,114.17025009999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Chuang Lian Dian "
-            },
-            {
-                "name": "Pin Pai Shi Hui Fang ",
-                "link": "https://www.google.com/maps/search/%E5%93%81%E7%89%8C%E5%AF%A6%E6%83%A0%E5%9D%8A/@22.322448599999998,114.16933569999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4,
-                "main_category": "Jia Yong Dian Qi Pi Fa Shang "
-            },
-            {
-                "name": "Shi Hui Jia Ju Guang Chang You Xian Gong Si Zhi Gong Hui ",
-                "link": "https://www.google.com/maps/search/%E5%AF%A6%E6%83%A0%E5%82%A2%E5%B1%85%E5%BB%A3%E5%A0%B4%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%81%B7%E5%B7%A5%E6%9C%83/@22.314284999999998,114.170144?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Gong Si Ban Gong Shi "
-            },
-            {
-                "name": "Shi Hui  Fei Wu Hui Shou Dian ",
-                "link": "https://www.google.com/maps/search/%E5%AF%A6%E6%83%A0+%E5%BB%A2%E7%89%A9%E5%9B%9E%E6%94%B6%E9%BB%9E/@22.324158999999998,114.17047099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Zi Yuan Hui Shou Dian "
-            }
-        ],
-        "website": "http://www.pricerite.com.hk/",
-        "owner": {
-            "id": "103886457461142086172",
-            "name": "Shi Hui  (Tai Zi ) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103886457461142086172"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9Vpx6CDZHE4QRczZT6jhUuMSPkYPR9fGVI9ZE=w408-h306-k-no",
-        "main_category": "Jia Dian ",
-        "categories": [
-            "Jia Dian ",
-            "Dian Qi Ling Shou ",
-            "Jia Ju Yong Pin Dian "
-        ],
-        "rating": 3.6,
-        "workday_timing": "11:00-20:30",
-        "closed_on": "Open All Days",
-        "phone": "2395 0772",
-        "address": "Tai Zi Tai Zi Dao Xi 181-183Hao Mei Lun Da Sha Shi Hui  (Tai Zi )",
-        "review_keywords": [
-            {
-                "keyword": "Jia Qian ",
-                "count": 18
-            },
-            {
-                "keyword": "Huo Pin ",
-                "count": 16
-            },
-            {
-                "keyword": "Jia Ju Yong Pin ",
-                "count": 14
-            },
-            {
-                "keyword": "Fu Wu ",
-                "count": 11
-            },
-            {
-                "keyword": "Dian Yuan ",
-                "count": 6
-            },
-            {
-                "keyword": "Dian Ti ",
-                "count": 6
-            },
-            {
-                "keyword": "Dian Qi ",
-                "count": 5
-            },
-            {
-                "keyword": "Di Ban ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E5%AF%A6%E6%83%A0+%28%E5%A4%AA%E5%AD%90%29/data=!4m7!3m6!1s0x340400c9a1b7b727:0x91456c189341e86a!8m2!3d22.3241521!4d114.1704562!16s%2Fg%2F11bwyvrltz!19sChIJJ7e3ockABDQRauhBkxhsRZE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJT-Pm8AQBBDQR_jrDrvx1VvY",
-        "name": "Living PLAZA by AEONBei Jiao Dian ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 485,
-        "competitors": [
-            {
-                "name": "DAISO JAPAN Wang Jiao Dian ",
-                "link": "https://www.google.com/maps/search/DAISO+JAPAN+%E6%97%BA%E8%A7%92%E5%BA%97/@22.3161973,114.1697708?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1031,
-                "rating": 4.1,
-                "main_category": "12 Yuan Dian "
-            },
-            {
-                "name": "Living Plaza by AEON Jian Sha Ju Dian ",
-                "link": "https://www.google.com/maps/search/Living+Plaza+by+AEON+%E5%B0%96%E6%B2%99%E5%92%80%E5%BA%97/@22.299846499999997,114.17284550000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 990,
-                "rating": 3.9,
-                "main_category": "12 Yuan Dian "
-            },
-            {
-                "name": "DAISO JAPAN Tai Zi Dian ",
-                "link": "https://www.google.com/maps/search/DAISO+JAPAN+%E5%A4%AA%E5%AD%90%E5%BA%97/@22.325972,114.16776229999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
-                "rating": 3.8,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "DAISO Bei Jiao Dian ",
-                "link": "https://www.google.com/maps/search/DAISO+%E5%8C%97%E8%A7%92%E5%BA%97/@22.2907583,114.1994541?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4,
-                "main_category": "12 Yuan Dian "
-            },
-            {
-                "name": "Living PLAZA by AEON Jian Ni Di Cheng Dian ",
-                "link": "https://www.google.com/maps/search/Living+PLAZA+by+AEON+%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%E5%BA%97/@22.2817243,114.128159?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 3.7,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "http://www.aeonstores.com.hk/",
-        "owner": {
-            "id": null,
-            "name": "Living PLAZA by AEONBei Jiao Dian  (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKB087052jpIm1Jtjb1Ktihrlu-ZE8EftPDdOl=w408-h544-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 3.7,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "2561 2198",
-        "address": "Living PLAZA by AEONBei Jiao Dian  Metropole Building, 416-426 King's Rd, North Point",
-        "review_keywords": [
-            {
-                "keyword": "Huo Pin ",
-                "count": 30
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 28
-            },
-            {
-                "keyword": "Wen Ju ",
-                "count": 11
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 11
-            },
-            {
-                "keyword": "Wen ",
-                "count": 9
-            },
-            {
-                "keyword": "Di Ku ",
-                "count": 6
-            },
-            {
-                "keyword": "Shou Yin ",
-                "count": 6
-            },
-            {
-                "keyword": "Mian Ji ",
-                "count": 5
-            },
-            {
-                "keyword": "Yi Wei ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Living+PLAZA+by+AEON%E5%8C%97%E8%A7%92%E5%BA%97/data=!4m7!3m6!1s0x34040104f0e6e34f:0xf65675fcaec33afe!8m2!3d22.2907127!4d114.1995455!16s%2Fg%2F1tqt7874!19sChIJT-Pm8AQBBDQR_jrDrvx1VvY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ__-Dk1AABDQR3zr6M-s5nWs",
         "name": "Zip Zip",
         "description": null,
@@ -1693,7 +1137,7 @@
             {
                 "name": "Xi Xi Bing Shi ",
                 "link": "https://www.google.com/maps/search/%E5%96%9C%E5%96%9C%E5%86%B0%E5%AE%A4/@22.282017,114.1845646?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 711,
+                "reviews": 712,
                 "rating": 3.8,
                 "main_category": "Gang Shi Cha Can Ting "
             },
@@ -1707,7 +1151,7 @@
             {
                 "name": "Pici (Causeway Bay)",
                 "link": "https://www.google.com/maps/search/Pici+%28Causeway+Bay%29/@22.2772905,114.181626?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 139,
+                "reviews": 141,
                 "rating": 4.2,
                 "main_category": "Yi Da Li Cai "
             },
@@ -1746,11 +1190,7 @@
         "review_keywords": [
             {
                 "keyword": "Dan Bao Fan ",
-                "count": 49
-            },
-            {
-                "keyword": "Zhuang Xiu ",
-                "count": 42
+                "count": 50
             },
             {
                 "keyword": "Ruan Ke Xie ",
@@ -1763,6 +1203,10 @@
             {
                 "keyword": "Sha Bing ",
                 "count": 34
+            },
+            {
+                "keyword": "Ji Yi ",
+                "count": 33
             },
             {
                 "keyword": "Ming Tai Zi ",
@@ -1788,9 +1232,9 @@
         "name": "KABOOM",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 458,
+        "reviews": 463,
         "competitors": [],
-        "website": "https://www.instagram.com/kaboom.hk/?hl=en",
+        "website": "https://www.instagram.com/kaboom.hk/%3Fhl%3Den",
         "owner": {
             "id": "118378260711069464198",
             "name": "KABOOM (Ye Zhu )",
@@ -1813,12 +1257,12 @@
                 "count": 43
             },
             {
-                "keyword": "Dong Yin Gong ",
+                "keyword": "fusion",
                 "count": 42
             },
             {
-                "keyword": "fusion",
-                "count": 41
+                "keyword": "Dong Yin Gong ",
+                "count": 42
             },
             {
                 "keyword": "Rou Yan ",
@@ -1826,7 +1270,7 @@
             },
             {
                 "keyword": "Fen Xiang ",
-                "count": 26
+                "count": 27
             },
             {
                 "keyword": "Ye Jing ",
@@ -1834,103 +1278,10 @@
             },
             {
                 "keyword": "Can Pan ",
-                "count": 21
+                "count": 22
             }
         ],
         "link": "https://www.google.com/maps/place/KABOOM/data=!4m7!3m6!1s0x340401806382bab9:0x94b3b6b0baebf88e!8m2!3d22.2965103!4d114.1713719!16s%2Fg%2F11t4ysj7n2!19sChIJubqCY4ABBDQRjvjrurC2s5Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJZ9WcdHMBBDQR3K8XIbB74T8",
-        "name": "Feng Ze  (Tai Gu Cheng Fen Dian )",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 450,
-        "competitors": [
-            {
-                "name": "Bai Lao Hui ",
-                "link": "https://www.google.com/maps/search/%E7%99%BE%E8%80%81%E5%8C%AF/@22.2855518,114.2177574?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 191,
-                "rating": 3.8,
-                "main_category": "Dian Qi Ling Shou "
-            },
-            {
-                "name": "Francfranc Cityplaza",
-                "link": "https://www.google.com/maps/search/Francfranc+Cityplaza/@22.2867756,114.2168944?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 78,
-                "rating": 3.8,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Feng Ze Dian Qi ",
-                "link": "https://www.google.com/maps/search/%E8%B1%90%E6%BE%A4%E9%9B%BB%E5%99%A8/@22.382711999999998,114.18875899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Dian Qi Ling Shou "
-            },
-            {
-                "name": "Feng Ze You Xian Gong Si ",
-                "link": "https://www.google.com/maps/search/%E8%B1%90%E6%BE%A4%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/@22.249100499999997,114.1643438?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            }
-        ],
-        "website": "http://www.fortress.com.hk/",
-        "owner": {
-            "id": "115985952861656567519",
-            "name": "Feng Ze  (Tai Gu Cheng Fen Dian ) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115985952861656567519"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjlCaNJYlDXaKqIsZbjIfHYp5Yt2ZloP9CLmc7=w532-h240-k-no",
-        "main_category": "Dian Qi Ling Shou ",
-        "categories": [
-            "Dian Qi Ling Shou ",
-            "Dian Qi Xing "
-        ],
-        "rating": 3.9,
-        "workday_timing": "11:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "9820 0227",
-        "address": "Feng Ze  (Tai Gu Cheng Fen Dian ) Shop 418 , 4/F , CityPlaza , TaiKooShing, Quarry Bay",
-        "review_keywords": [
-            {
-                "keyword": "Fu Wu ",
-                "count": 21
-            },
-            {
-                "keyword": "Shou Ji ",
-                "count": 12
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 10
-            },
-            {
-                "keyword": "Gu Ke ",
-                "count": 9
-            },
-            {
-                "keyword": "Dian Nao ",
-                "count": 6
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 6
-            },
-            {
-                "keyword": "Pin Pai ",
-                "count": 5
-            },
-            {
-                "keyword": "Dian Yuan ",
-                "count": 4
-            },
-            {
-                "keyword": "Lian Suo Dian ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E8%B1%90%E6%BE%A4+%28%E5%A4%AA%E5%8F%A4%E5%9F%8E%E5%88%86%E5%BA%97%29/data=!4m7!3m6!1s0x34040173749cd567:0x3fe17bb02117afdc!8m2!3d22.2859129!4d114.2178903!16s%2Fg%2F1tfksy91!19sChIJZ9WcdHMBBDQR3K8XIbB74T8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJjeBdhO4ABDQRZxUyii_6hkM",
@@ -2030,107 +1381,6 @@
         "link": "https://www.google.com/maps/place/%E6%96%B0%E4%B8%96%E7%95%8C%E9%9F%93%E5%9C%8B%E9%A3%9F%E5%93%81/data=!4m7!3m6!1s0x340400ee845de08d:0x4386fa2f8a321567!8m2!3d22.300405!4d114.1746228!16s%2Fg%2F1wfvk89t!19sChIJjeBdhO4ABDQRZxUyii_6hkM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJP1HU7PIABDQRICr1tHfBYYY",
-        "name": "DFSQi Xia Xiang Gang TGuang Chang  Guang Dong Dao Dian ",
-        "description": "Fan Shou Shou Ti Bao , Xiang Shui Deng Duo Kuan Mian Shui Shang Pin De Ling Shou Lian Suo Dian . ",
-        "is_spending_on_ads": false,
-        "reviews": 426,
-        "competitors": [
-            {
-                "name": "Lian Qia Fo ",
-                "link": "https://www.google.com/maps/search/%E9%80%A3%E5%8D%A1%E4%BD%9B/@22.295323099999997,114.1688678?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 920,
-                "rating": 4,
-                "main_category": "Bai Huo Gong Si "
-            },
-            {
-                "name": "DFS duty free perfumes hoterushiyatorubasuCheng Che Chang Suo ",
-                "link": "https://www.google.com/maps/search/DFS+duty+free+perfumes+%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%83%90%E3%82%B9%E4%B9%97%E8%BB%8A%E5%A0%B4%E6%89%80/@22.2963316,114.1698498?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4.5,
-                "main_category": "Gou Wu Zhong Xin "
-            },
-            {
-                "name": "DFS Galleria Chinachem Golden Plaza",
-                "link": "https://www.google.com/maps/search/DFS+Galleria+Chinachem+Golden+Plaza/@22.3000686,114.17914119999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 1,
-                "main_category": "Xing Li Dian "
-            },
-            {
-                "name": "CHARLES & KEITH (T GALLERIA BY DFS)",
-                "link": "https://www.google.com/maps/search/CHARLES+%26+KEITH+%28T+GALLERIA+BY+DFS%29/@22.2969825,114.1694598?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Xie Pin Dian "
-            }
-        ],
-        "website": "https://www.dfs.com/en/hong-kong/stores/t-galleria-by-dfs-hong-kong-canton-road%3Fcid%3Dseo-yextgo-yext",
-        "owner": {
-            "id": "103349158526878853936",
-            "name": "DFSQi Xia Xiang Gang TGuang Chang  Guang Dong Dao Dian  (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103349158526878853936"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgCMSRrOz-DIkDg0pUp5MyHur7LiNc3m6U3EBu=w427-h240-k-no",
-        "main_category": "Mian Shui Dian ",
-        "categories": [
-            "Mian Shui Dian ",
-            "Mei Rong Yi Qi Yong Pin Dian ",
-            "Fu Zhuang Dian ",
-            "Bai Huo Gong Si ",
-            "Shi Zhuang Ji Pei Shi Dian ",
-            "Zhu Bao Dian ",
-            "Zhi Xiao Dian ",
-            "Gou Wu Zhong Xin ",
-            "Lu Ke Zhong Xin ",
-            "Zhong Biao Dian "
-        ],
-        "rating": 3.4,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "2302 6888",
-        "address": "Jian Sha Ju Guang Dong Dao 28Hao Li Bao Tai Yang Guang Chang DFSQi Xia Xiang Gang TGuang Chang  Guang Dong Dao Dian ",
-        "review_keywords": [
-            {
-                "keyword": "Zha Pian ",
-                "count": 31
-            },
-            {
-                "keyword": "Pin Pai ",
-                "count": 18
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 11
-            },
-            {
-                "keyword": "Wang Zhan ",
-                "count": 8
-            },
-            {
-                "keyword": "Jing Pin ",
-                "count": 7
-            },
-            {
-                "keyword": "Shu Shi ",
-                "count": 7
-            },
-            {
-                "keyword": "Qian ",
-                "count": 6
-            },
-            {
-                "keyword": "Xie ",
-                "count": 5
-            },
-            {
-                "keyword": "Shou Biao ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/DFS%E6%97%97%E4%B8%8B%E9%A6%99%E6%B8%AFT%E5%BB%A3%E5%A0%B4+%E5%BB%A3%E6%9D%B1%E9%81%93%E5%BA%97/data=!4m7!3m6!1s0x340400f2ecd4513f:0x8661c177b4f52a20!8m2!3d22.2966198!4d114.1695967!16s%2Fg%2F1td230ty!19sChIJP1HU7PIABDQRICr1tHfBYYY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJLeQOW7UGBDQR00L_wR1PdrI",
         "name": "San Lian Shu Dian  Tao Da Dian ",
         "description": null,
@@ -2140,7 +1390,7 @@
             {
                 "name": "Zhong Hua Shu Ju  You Ma Di ",
                 "link": "https://www.google.com/maps/search/%E4%B8%AD%E8%8F%AF%E6%9B%B8%E5%B1%80+%E6%B2%B9%E9%BA%BB%E5%9C%B0/@22.3102288,114.171381?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1512,
+                "reviews": 1513,
                 "rating": 3.8,
                 "main_category": "Shu Dian "
             },
@@ -2220,102 +1470,6 @@
         "link": "https://www.google.com/maps/place/%E4%B8%89%E8%81%AF%E6%9B%B8%E5%BA%97+%E6%B7%98%E5%A4%A7%E5%BA%97/data=!4m7!3m6!1s0x340406b55b0ee42d:0xb2764f1dc1ff42d3!8m2!3d22.3245091!4d114.2160342!16s%2Fg%2F1tg84803!19sChIJLeQOW7UGBDQR00L_wR1PdrI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJI-R8A4gBBDQRPHpXCgKEXEE",
-        "name": "Shu Zi Wu Dian Ying Can Ting  Small Potato Movieland",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 417,
-        "competitors": [
-            {
-                "name": "Rabbitland Cafe",
-                "link": "https://www.google.com/maps/search/Rabbitland+Cafe/@22.281048100000003,114.1841144?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 226,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Tian Tian Cha Can Ting ",
-                "link": "https://www.google.com/maps/search/%E5%A4%A9%E5%A4%A9%E8%8C%B6%E9%A4%90%E5%BB%B3/@22.2647606,114.2395001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 195,
-                "rating": 3.2,
-                "main_category": "Gang Shi Kuai Can Dian "
-            },
-            {
-                "name": "You ",
-                "link": "https://www.google.com/maps/search/%E6%82%A0/@22.2647938,114.2399349?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 160,
-                "rating": 4.3,
-                "main_category": "Ri Ben Cai "
-            }
-        ],
-        "website": "http://www.smallpotatomovieland.com.hk/",
-        "owner": {
-            "id": "116629774598256172979",
-            "name": "Shu Zi Wu Dian Ying Can Ting  Small Potato Movieland (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116629774598256172979"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWsT5R6RWWHVYcJp__cmlzEYIlZa8Lu5h_X-Tj=w408-h306-k-no",
-        "main_category": "Gang Shi Kuai Can Dian ",
-        "categories": [
-            "Gang Shi Kuai Can Dian ",
-            "Mei Shi Can Ting ",
-            "Er Tong Pai Dui Zi Zhu Can ",
-            "Er Tong Xi Yuan ",
-            "Shou Shi Dian ",
-            "Kuai Can Dian ",
-            "Xiao Shi /Ling Shi Ba ",
-            "Xi Can Ting "
-        ],
-        "rating": 3.8,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "2882 7278",
-        "address": "Chai Wan Dao 333Hao Di Xia JPu BDan Wei Yong Li Zhong Xin Shu Zi Wu Dian Ying Can Ting  Small Potato Movieland",
-        "review_keywords": [
-            {
-                "keyword": "Xi Yuan ",
-                "count": 26
-            },
-            {
-                "keyword": "Xue Gao ",
-                "count": 20
-            },
-            {
-                "keyword": "Niu Ba ",
-                "count": 14
-            },
-            {
-                "keyword": "Hei Hu Jiao Jiang ",
-                "count": 10
-            },
-            {
-                "keyword": "Tie Ban ",
-                "count": 10
-            },
-            {
-                "keyword": "Suan Rong Bao ",
-                "count": 8
-            },
-            {
-                "keyword": "Rou Yan ",
-                "count": 7
-            },
-            {
-                "keyword": "Dan Wei ",
-                "count": 6
-            },
-            {
-                "keyword": "Shu Rong ",
-                "count": 6
-            },
-            {
-                "keyword": "Shu Da ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E8%96%AF%E4%BB%94%E5%B1%8B%E9%9B%BB%E5%BD%B1%E9%A4%90%E5%BB%B3+Small+Potato+Movieland/data=!4m7!3m6!1s0x34040188037ce423:0x415c84020a577a3c!8m2!3d22.2639293!4d114.2386599!16s%2Fg%2F11g8ygmqb7!19sChIJI-R8A4gBBDQRPHpXCgKEXEE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJicXbDw73AzQRGYvZDzSyF24",
         "name": "CoHee Studio",
         "description": null,
@@ -2346,7 +1500,7 @@
             {
                 "name": "Kachimushi Kam Tin",
                 "link": "https://www.google.com/maps/search/Kachimushi+Kam+Tin/@22.4395967,114.0668494?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 3.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -2414,7 +1568,7 @@
             {
                 "name": "Mao Zhi Cha Fang  Jian Sha Ju Dian ",
                 "link": "https://www.google.com/maps/search/%E8%B2%93%E4%B9%8B%E8%8C%B6%E6%88%BF+%E5%B0%96%E6%B2%99%E5%92%80%E5%BA%97/@22.2981011,114.1719773?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 154,
+                "reviews": 155,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2452,15 +1606,15 @@
                 "count": 13
             },
             {
+                "keyword": "Shui Jue ",
+                "count": 11
+            },
+            {
                 "keyword": "Xiao Peng You ",
                 "count": 8
             },
             {
                 "keyword": "Jing Yan ",
-                "count": 7
-            },
-            {
-                "keyword": "Gan Jue ",
                 "count": 7
             },
             {
@@ -2496,8 +1650,8 @@
             {
                 "name": "MR. TEACha Xian Sheng ",
                 "link": "https://www.google.com/maps/search/MR.+TEA%E8%8C%B6%E5%85%88%E7%94%9F/@22.280186,114.1851459?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 70,
-                "rating": 3.3,
+                "reviews": 71,
+                "rating": 3.4,
                 "main_category": "Zhen Zhu Nai Cha "
             },
             {
@@ -2576,7 +1730,7 @@
         "name": "HIKARI Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 370,
+        "reviews": 376,
         "competitors": [
             {
                 "name": "Espresso Alchemy",
@@ -2628,19 +1782,19 @@
         "review_keywords": [
             {
                 "keyword": "Man Zhu ",
-                "count": 90
+                "count": 94
             },
             {
                 "keyword": "Bian Yi Fen ",
-                "count": 73
+                "count": 74
             },
             {
                 "keyword": "Niu Gan Jun ",
-                "count": 58
+                "count": 59
             },
             {
                 "keyword": "Ying Hua Xia ",
-                "count": 47
+                "count": 48
             },
             {
                 "keyword": "Zhu Tan ",
@@ -2648,7 +1802,7 @@
             },
             {
                 "keyword": "Tuan Zi ",
-                "count": 17
+                "count": 19
             }
         ],
         "link": "https://www.google.com/maps/place/HIKARI+Coffee/data=!4m7!3m6!1s0x3403f9db438f72bb:0x292fed58501c8e28!8m2!3d22.3717435!4d114.1108391!16s%2Fg%2F11rwq5hgy3!19sChIJu3KPQ9v5AzQRKI4cUFjtLyk?authuser=0&hl=zh-TW&rclk=1"
@@ -2749,7 +1903,7 @@
         "name": "Kaffeine",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 323,
+        "reviews": 324,
         "competitors": [
             {
                 "name": "The Cupping Room (Shang Huan )",
@@ -2761,7 +1915,7 @@
             {
                 "name": "Barista Jam",
                 "link": "https://www.google.com/maps/search/Barista+Jam/@22.285622,114.150544?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 419,
+                "reviews": 420,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -2782,7 +1936,7 @@
             {
                 "name": "Meanwhile Coffee",
                 "link": "https://www.google.com/maps/search/Meanwhile+Coffee/@22.2847339,114.1509813?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -2858,7 +2012,7 @@
             {
                 "name": "Tao Heung",
                 "link": "https://www.google.com/maps/search/Tao+Heung/@22.3232502,114.25848739999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 635,
+                "reviews": 637,
                 "rating": 3.3,
                 "main_category": "Zhong Guo Cai "
             },
@@ -2950,104 +2104,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Coffee+ART/data=!4m7!3m6!1s0x340405ec684b361f:0xe6316f436485605d!8m2!3d22.3213563!4d114.2580092!16s%2Fg%2F11fj40z4bm!19sChIJHzZLaOwFBDQRXWCFZENvMeY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJp5-cIFQABDQRTTle7UqQlK8",
-        "name": "Shi Hui  - Tong Luo Wan ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 318,
-        "competitors": [
-            {
-                "name": "Yi Jia Jia Ju  Tong Luo Wan Dian ",
-                "link": "https://www.google.com/maps/search/%E5%AE%9C%E5%AE%B6%E5%AE%B6%E5%B1%85+%E9%8A%85%E9%91%BC%E7%81%A3%E5%BA%97/@22.2811929,114.1864288?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6586,
-                "rating": 4,
-                "main_category": "Jia Ju Yong Pin Dian "
-            },
-            {
-                "name": "Ou Hua Jia ",
-                "link": "https://www.google.com/maps/search/%E6%AD%90%E5%8C%96%E5%82%A2%E4%BF%AC/@22.2822766,114.1914728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "BoConcept Lee Garden",
-                "link": "https://www.google.com/maps/search/BoConcept+Lee+Garden/@22.278020299999998,114.18524319999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 3.4,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Shi Hui Jia Ju Guang Chang You Xian Gong Si Zhi Gong Hui ",
-                "link": "https://www.google.com/maps/search/%E5%AF%A6%E6%83%A0%E5%82%A2%E5%B1%85%E5%BB%A3%E5%A0%B4%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%81%B7%E5%B7%A5%E6%9C%83/@22.314284999999998,114.170144?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Gong Si Ban Gong Shi "
-            },
-            {
-                "name": "Indigo Living",
-                "link": "https://www.google.com/maps/search/Indigo+Living/@22.2782947,114.18213639999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 1,
-                "main_category": "Jia Dian "
-            }
-        ],
-        "website": "http://www.pricerite.com.hk/",
-        "owner": {
-            "id": "110510173239332341551",
-            "name": "Shi Hui  - Tong Luo Wan  (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110510173239332341551"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKNmQv2GuzWUK5Xi1MjBFfRQLGGmszGuzdVXx1=w408-h550-k-no",
-        "main_category": "Jia Dian ",
-        "categories": [
-            "Jia Dian ",
-            "Dian Qi Ling Shou ",
-            "Za Huo Dian ",
-            "Jia Ju Yong Pin Dian "
-        ],
-        "rating": 3.7,
-        "workday_timing": "11:00-21:30",
-        "closed_on": "Open All Days",
-        "phone": "2923 7010",
-        "address": "Tong Luo Wan Yi He Jie 1AHao Shi Hui  - Tong Luo Wan ",
-        "review_keywords": [
-            {
-                "keyword": "Fu Wu ",
-                "count": 13
-            },
-            {
-                "keyword": "Yi Jia ",
-                "count": 11
-            },
-            {
-                "keyword": "Jia Qian ",
-                "count": 10
-            },
-            {
-                "keyword": "Jia Ju Yong Pin ",
-                "count": 7
-            },
-            {
-                "keyword": "Jia Dian ",
-                "count": 6
-            },
-            {
-                "keyword": "Di Ku ",
-                "count": 3
-            },
-            {
-                "keyword": "She Ji ",
-                "count": 3
-            },
-            {
-                "keyword": "Dian Hua ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E5%AF%A6%E6%83%A0+-+%E9%8A%85%E9%91%BC%E7%81%A3/data=!4m7!3m6!1s0x34040054209c9fa7:0xaf94904aed5e394d!8m2!3d22.2801499!4d114.1853439!16s%2Fg%2F1wfvk87y!19sChIJp5-cIFQABDQRTTle7UqQlK8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJSVzv7J_wAzQR7AbrikuNYl8",
@@ -3224,14 +2280,14 @@
             {
                 "name": "gladys'estatecoffee by HOMEBROWN",
                 "link": "https://www.google.com/maps/search/gladys%27estatecoffee+by+HOMEBROWN/@22.3279742,114.18822709999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 213,
+                "reviews": 214,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Kuri Hedgehog Cafe",
                 "link": "https://www.google.com/maps/search/Kuri+Hedgehog+Cafe/@22.327299999999997,114.214743?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
+                "reviews": 98,
                 "rating": 3.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -3446,89 +2502,6 @@
         "link": "https://www.google.com/maps/place/%E9%99%B3%E6%84%8F%E9%BD%8B+Chan+Yee+Jai/data=!4m7!3m6!1s0x3404007c8b8719ff:0xee46bbeae183af3c!8m2!3d22.2847502!4d114.1533197!16s%2Fg%2F1tczh283!19sChIJ_xmHi3wABDQRPK-D4eq7Ru4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJr36KRjEHBDQRDP3jnPLpJks",
-        "name": "Marks & Spencer",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 250,
-        "competitors": [
-            {
-                "name": "Xing Mei Le ",
-                "link": "https://www.google.com/maps/search/%E6%98%9F%E7%BE%8E%E6%A8%82/@22.337454899999997,114.17441679999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 674,
-                "rating": 3.9,
-                "main_category": "Xi Bu Liao Li "
-            },
-            {
-                "name": "MARKS & SPENCER",
-                "link": "https://www.google.com/maps/search/MARKS+%26+SPENCER/@22.2805077,114.1864284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 193,
-                "rating": 3.9,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Lady M (Jiu Long Tang )",
-                "link": "https://www.google.com/maps/search/Lady+M+%28%E4%B9%9D%E9%BE%8D%E5%A1%98%29/@22.337381,114.1744322?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
-                "rating": 4.1,
-                "main_category": "Xi Bing Dian "
-            },
-            {
-                "name": "See's Candies",
-                "link": "https://www.google.com/maps/search/See%27s+Candies/@22.3369035,114.1748116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 4.2,
-                "main_category": "Zhu Gu Li Dian "
-            },
-            {
-                "name": "Marks & Spencer Cafe",
-                "link": "https://www.google.com/maps/search/Marks+%26+Spencer+Cafe/@22.321590399999998,114.2107281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 2,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.marksandspencer.com/hk/stores",
-        "owner": {
-            "id": "106448946989022714099",
-            "name": "Marks & Spencer (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106448946989022714099"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMASQ2Jh_Ef21vuKad542ZY_MaOGkf8MxMfJMXG=w427-h240-k-no",
-        "main_category": "Gao Ji Shi Cai Dian ",
-        "categories": [
-            "Gao Ji Shi Cai Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "08:00-21:30",
-        "closed_on": "Open All Days",
-        "phone": "2928 2211",
-        "address": "Marks & Spencer Unit LG1-01, Festival Walk, 80 Tat Chee Ave, Kowloon Tong",
-        "review_keywords": [
-            {
-                "keyword": "Jia Qian ",
-                "count": 9
-            },
-            {
-                "keyword": "Yi Fu ",
-                "count": 6
-            },
-            {
-                "keyword": "Pin Zhi ",
-                "count": 5
-            },
-            {
-                "keyword": "Fu Wu ",
-                "count": 4
-            },
-            {
-                "keyword": "Gu Ke ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Marks+%26+Spencer/data=!4m7!3m6!1s0x34040731468a7eaf:0x4b26e9f29ce3fd0c!8m2!3d22.3365807!4d114.1753701!16s%2Fg%2F11dywt7g2s!19sChIJr36KRjEHBDQRDP3jnPLpJks?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ78lhNgUBBDQRN3wOCU_z1LQ",
         "name": "Hui Kang ",
         "description": null,
@@ -3538,7 +2511,7 @@
             {
                 "name": "Bai Jia Chao Ji Guang Chang  (Bei Jiao Gang Yun Cheng )",
                 "link": "https://www.google.com/maps/search/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%BB%A3%E5%A0%B4+%28%E5%8C%97%E8%A7%92%E6%B8%AF%E9%81%8B%E5%9F%8E%29/@22.2913428,114.2021832?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 334,
+                "reviews": 335,
                 "rating": 3.7,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -3604,7 +2577,7 @@
         "name": "% Arabica (Monster Mansion)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 238,
+        "reviews": 240,
         "competitors": [
             {
                 "name": "% Arabica (IFC)",
@@ -3796,7 +2769,7 @@
         "name": "Po Po Jia Bei Wu  (Jian Sha Ju ) GRANDMAMA CAFE (TST)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 230,
+        "reviews": 231,
         "competitors": [
             {
                 "name": "Dazzling Cafe Honey",
@@ -3888,12 +2861,12 @@
         "name": "Black Sugar Coffee & Lifestyle - TST",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 206,
+        "reviews": 207,
         "competitors": [
             {
                 "name": "N1 Coffee & Co. (Tsim Sha Tsui)",
                 "link": "https://www.google.com/maps/search/N1+Coffee+%26+Co.+%28Tsim+Sha+Tsui%29/@22.2971553,114.1747068?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 973,
+                "reviews": 975,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -3914,7 +2887,7 @@
             {
                 "name": "NOC (Tsim Sha Tsui East)",
                 "link": "https://www.google.com/maps/search/NOC+%28Tsim+Sha+Tsui+East%29/@22.2983261,114.17847959999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 130,
+                "reviews": 131,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -3987,6 +2960,99 @@
         "link": "https://www.google.com/maps/place/Black+Sugar+Coffee+%26+Lifestyle+-+TST/data=!4m7!3m6!1s0x3404013249dc381b:0x68d06c5b569b2f6!8m2!3d22.2984901!4d114.1782727!16s%2Fg%2F11g0h50nhw!19sChIJGzjcSTIBBDQR9rJptcUGjQY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJcXjnN3kABDQRM9PVPARj-_E",
+        "name": "Cupping Room - Po Hing Fong",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 205,
+        "competitors": [
+            {
+                "name": "The Cupping Room (Shang Huan )",
+                "link": "https://www.google.com/maps/search/The+Cupping+Room+%28%E4%B8%8A%E7%92%B0%29/@22.2850412,114.15055179999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 849,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Ban Lu Ka Pei ",
+                "link": "https://www.google.com/maps/search/%E5%8D%8A%E8%B7%AF%E5%92%96%E5%95%A1/@22.284756299999998,114.14971609999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 677,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Common Ground",
+                "link": "https://www.google.com/maps/search/Common+Ground/@22.2831659,114.15079709999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 227,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cupping Room - HK Palace Museum",
+                "link": "https://www.google.com/maps/search/Cupping+Room+-+HK+Palace+Museum/@22.3019326,114.15467280000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 64,
+                "rating": 3.5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://www.cuppingroom.hk/",
+        "owner": {
+            "id": "112692172292577378288",
+            "name": "Cupping Room - Po Hing Fong (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112692172292577378288"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7lW2WqhicLCIu7Lx6g94FFxXM3GuFbjS4gtja=w408-h272-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "5595 5675",
+        "address": "Shop 8, Cupping Room - Po Hing Fong, Yin Xi Da Sha 62-72 Po Hing Fong, Sheung Wan",
+        "review_keywords": [
+            {
+                "keyword": "Jia Qian ",
+                "count": 9
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 6
+            },
+            {
+                "keyword": "Gou ",
+                "count": 6
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 6
+            },
+            {
+                "keyword": "toast",
+                "count": 5
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 5
+            },
+            {
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 4
+            },
+            {
+                "keyword": "Luo Li ",
+                "count": 4
+            },
+            {
+                "keyword": "Wen Qing ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cupping+Room+-+Po+Hing+Fong/data=!4m7!3m6!1s0x3404007937e77871:0xf1fb63043cd5d333!8m2!3d22.2837607!4d114.1482782!16s%2Fg%2F11c5_v0pf_!19sChIJcXjnN3kABDQRM9PVPARj-_E?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJHd2Xrqz4AzQR9XDCzAfaAcM",
         "name": "Wolf Den Cafe",
         "description": null,
@@ -4017,7 +3083,7 @@
             {
                 "name": "PHI Coffee & Pancake (Mei Foo)",
                 "link": "https://www.google.com/maps/search/PHI+Coffee+%26+Pancake+%28Mei+Foo%29/@22.3363925,114.14113979999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
+                "reviews": 85,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -4029,7 +3095,7 @@
                 "main_category": "Can Ting "
             }
         ],
-        "website": "https://www.facebook.com/Wolf.Den.catering.services29%3Ffref%3Dts",
+        "website": "https://www.facebook.com/Wolf.Den.catering.services29?fref=ts",
         "owner": {
             "id": null,
             "name": "Wolf Den Cafe (Ye Zhu )",
@@ -4083,12 +3149,12 @@
         "name": "Liberty Coffee & Wine",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 195,
+        "reviews": 196,
         "competitors": [
             {
                 "name": "Pause It",
                 "link": "https://www.google.com/maps/search/Pause+It/@22.3188733,114.1716623?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 475,
+                "reviews": 476,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -4143,19 +3209,27 @@
                 "count": 12
             },
             {
+                "keyword": "Shu Shi ",
+                "count": 9
+            },
+            {
                 "keyword": "Yi Da Li Fan ",
                 "count": 8
             },
             {
-                "keyword": "Shu Shi ",
-                "count": 8
+                "keyword": "Huan Jing ",
+                "count": 7
             },
             {
-                "keyword": "Zha ",
+                "keyword": "Gan Jue ",
+                "count": 7
+            },
+            {
+                "keyword": "Qing Jiang ",
                 "count": 6
             },
             {
-                "keyword": "Huan Jing ",
+                "keyword": "Zha ",
                 "count": 6
             },
             {
@@ -4163,113 +3237,11 @@
                 "count": 5
             },
             {
-                "keyword": "pasta",
-                "count": 5
-            },
-            {
-                "keyword": "Qing Jiang ",
-                "count": 5
-            },
-            {
-                "keyword": "Kou Gan ",
+                "keyword": "Yi Fen ",
                 "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Liberty+Coffee+%26+Wine/data=!4m7!3m6!1s0x340401b935aadeb3:0x156fdde3d2117037!8m2!3d22.3160643!4d114.1734442!16s%2Fg%2F11j13jt4r2!19sChIJs96qNbkBBDQRN3AR0uPdbxU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ3zG651AABDQR_nJohTcmHg0",
-        "name": "White Noise Records",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 194,
-        "competitors": [
-            {
-                "name": "Vinyl Hero",
-                "link": "https://www.google.com/maps/search/Vinyl+Hero/@22.3307845,114.16189659999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 107,
-                "rating": 4.2,
-                "main_category": "Hei Jiao Chang Pian Dian "
-            },
-            {
-                "name": "Infree Records",
-                "link": "https://www.google.com/maps/search/Infree+Records/@22.3236624,114.1698006?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4.8,
-                "main_category": "Hei Jiao Chang Pian Dian "
-            },
-            {
-                "name": "Wai Fung Vinyl Record Shop",
-                "link": "https://www.google.com/maps/search/Wai+Fung+Vinyl+Record+Shop/@22.331286,114.16081299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 4.2,
-                "main_category": "Hei Jiao Chang Pian Dian "
-            },
-            {
-                "name": "HOChang Pian Xing ",
-                "link": "https://www.google.com/maps/search/HO%E5%94%B1%E7%89%87%E8%A1%8C/@22.3290842,114.1635807?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.5,
-                "main_category": "Hei Jiao Chang Pian Dian "
-            },
-            {
-                "name": "Da Rong Chang Pian Ge ",
-                "link": "https://www.google.com/maps/search/%E5%A4%A7%E6%A6%AE%E5%94%B1%E7%89%87%E9%96%A3/@22.3274499,114.16060580000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 1.8,
-                "main_category": "Chang Pian Dian "
-            }
-        ],
-        "website": "https://whitenoiserecords.org/",
-        "owner": {
-            "id": "107311491459724233733",
-            "name": "White Noise Records (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107311491459724233733"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7XjOqQufARsoaREHn1gRmYdte5hka4DD8__GW=w408-h544-k-no",
-        "main_category": "Hei Jiao Chang Pian Dian ",
-        "categories": [
-            "Hei Jiao Chang Pian Dian ",
-            "Chang Pian Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "12:00-20:00",
-        "closed_on": [
-            "Xing Qi Er "
-        ],
-        "phone": "2591 0499",
-        "address": "G/F, White Noise Records, 199 Tai Nan St, Sham Shui Po",
-        "review_keywords": [
-            {
-                "keyword": "Mao Mi ",
-                "count": 18
-            },
-            {
-                "keyword": "CD",
-                "count": 8
-            },
-            {
-                "keyword": "Jue Shi Le ",
-                "count": 7
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 5
-            },
-            {
-                "keyword": "Fen Wei ",
-                "count": 5
-            },
-            {
-                "keyword": "Wei Dao ",
-                "count": 3
-            },
-            {
-                "keyword": "Jing Yan ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/White+Noise+Records/data=!4m7!3m6!1s0x34040050e7ba31df:0xd1e2637856872fe!8m2!3d22.3274227!4d114.1628363!16s%2Fg%2F1w34470b!19sChIJ3zG651AABDQR_nJohTcmHg0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJW6SHeIT_AzQR9bGVjdwkzuA",
@@ -4281,7 +3253,7 @@
             {
                 "name": "Bai Jia Chao Ji Shi Chang ",
                 "link": "https://www.google.com/maps/search/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4/@22.323926,114.16931699999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 282,
+                "reviews": 283,
                 "rating": 3.6,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -4355,7 +3327,7 @@
             {
                 "name": "What's Cafe Ma Ma Bing Shi ",
                 "link": "https://www.google.com/maps/search/What%E2%80%99s+Caf%C3%A9+%E5%98%9C%E5%98%9C%E5%86%B0%E5%AE%A4/@22.333923,114.1572336?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 132,
+                "reviews": 133,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4443,215 +3415,6 @@
         "link": "https://www.google.com/maps/place/Coffee+Question+%3F/data=!4m7!3m6!1s0x34040753d79c1f29:0xf55963b21872df82!8m2!3d22.338984!4d114.1521565!16s%2Fg%2F11by_qj9pl!19sChIJKR-c11MHBDQRgt9yGLJjWfU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJj76ErmcABDQRaKWfxkappLw",
-        "name": "Fusion Dian Qu Yi  (Jin Zhong Tong Yi Zhong Xin )",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 182,
-        "competitors": [
-            {
-                "name": "Bai Jia Chao Ji Shi Chang ",
-                "link": "https://www.google.com/maps/search/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4/@22.323926,114.16931699999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 282,
-                "rating": 3.6,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Bai Jia ",
-                "link": "https://www.google.com/maps/search/%E7%99%BE%E4%BD%B3/@22.375569499999997,114.11236579999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 237,
-                "rating": 3.6,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Fusion Dian Qu Yi  (Pao Ma Di Feng Zhu Da Sha )",
-                "link": "https://www.google.com/maps/search/Fusion+%E5%BA%97%E5%8F%96%E6%98%93+%28%E8%B7%91%E9%A6%AC%E5%9C%B0%E8%B1%90%E5%AF%A7%E5%A4%A7%E5%BB%88%29/@22.2676309,114.1845567?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 232,
-                "rating": 3.8,
-                "main_category": "Da Xing Chao Ji Shi Chang "
-            },
-            {
-                "name": "Bai Jia Chao Ji Guang Chang (Huang Hou Da Dao Dong )",
-                "link": "https://www.google.com/maps/search/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%BB%A3%E5%A0%B4%EF%BC%88%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E6%9D%B1%EF%BC%89/@22.274666,114.171589?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
-                "rating": 3.8,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "PARKnSHOP",
-                "link": "https://www.google.com/maps/search/PARKnSHOP/@22.2864601,114.1414325?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 106,
-                "rating": 3.4,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://www.pns.hk/",
-        "owner": {
-            "id": "116374560339011858064",
-            "name": "Fusion Dian Qu Yi  (Jin Zhong Tong Yi Zhong Xin ) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116374560339011858064"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNAmhasuhJm0z-d1pjiMa31Ro65aoy_75RLjrUn=w408-h306-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 3.7,
-        "workday_timing": "07:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "2861 0850",
-        "address": "Yi Lou 1029-1043Hao Pu  Units 1029-1043, 1/F, Fusion Dian Qu Yi  (Jin Zhong Tong Yi Zhong Xin ) United Ctr, Tong Yi Zhong Xin  Xiang Gang Jin Zhong Jin Zhong Dao 95Hao , 95 Queensway, Central",
-        "review_keywords": [
-            {
-                "keyword": "Xuan Ze ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Fusion+%E5%BA%97%E5%8F%96%E6%98%93+%28%E9%87%91%E9%90%98%E7%B5%B1%E4%B8%80%E4%B8%AD%E5%BF%83%29/data=!4m7!3m6!1s0x34040067ae84be8f:0xbca4a946c69fa568!8m2!3d22.278546!4d114.1652079!16s%2Fg%2F11g9k0q50s!19sChIJj76ErmcABDQRaKWfxkappLw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJRVxkpFwABDQRZNRvGr5jIxM",
-        "name": "Da Sheng Sheng Huo Chao Shi  DS Groceries",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 177,
-        "competitors": [
-            {
-                "name": "Ren Min Chao Shi  People's Market Wan Zi Dian ",
-                "link": "https://www.google.com/maps/search/%E4%BA%BA%E6%B0%91%E8%B6%85%E5%B8%82+People%27s+Market+%E7%81%A3%E4%BB%94%E5%BA%97/@22.2772327,114.1737113?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 104,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Da Sheng Shi Pin Chao Ji Shi Chang ",
-                "link": "https://www.google.com/maps/search/%E5%A4%A7%E7%94%9F%E9%A3%9F%E5%93%81%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/@22.2795939,114.18837880000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Hua Ren Chao Shi "
-            },
-            {
-                "name": "SD-ORGANICS Hong Kong",
-                "link": "https://www.google.com/maps/search/SD-ORGANICS+Hong+Kong/@22.3750707,114.1101695?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "You Ji Shi Pin Dian "
-            }
-        ],
-        "website": "http://www.daisanggrp.com/",
-        "owner": {
-            "id": "110096349203028310308",
-            "name": "Da Sheng Sheng Huo Chao Shi  DS Groceries (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110096349203028310308"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOr2qqkz1qAbByoMgoVAQYO9x4iFJYcmspxjQ_c=w408-h270-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang ",
-            "Za Huo Dian "
-        ],
-        "rating": 3.9,
-        "workday_timing": "09:00-21:30",
-        "closed_on": "Open All Days",
-        "phone": "2956 1855",
-        "address": "Da Sheng Sheng Huo Chao Shi  DS Groceries, Yong Guang Ya Yuan 15 Tai Yuen St, Wan Chai",
-        "review_keywords": [
-            {
-                "keyword": "Jia Qian ",
-                "count": 29
-            },
-            {
-                "keyword": "Huo Pin ",
-                "count": 6
-            },
-            {
-                "keyword": "Qiao Ke Li ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E5%A4%A7%E7%94%9F%E7%94%9F%E6%B4%BB%E8%B6%85%E5%B8%82+DS+Groceries/data=!4m7!3m6!1s0x3404005ca4645c45:0x132363be1a6fd464!8m2!3d22.2759332!4d114.1731298!16s%2Fg%2F11c0xczl78!19sChIJRVxkpFwABDQRZNRvGr5jIxM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJwzZUt6oBBDQRt2EytTD9uUA",
-        "name": "Market Place",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 175,
-        "competitors": [
-            {
-                "name": "Hui Kang  - Tong Luo Wan ",
-                "link": "https://www.google.com/maps/search/%E6%83%A0%E5%BA%B7+-+%E9%8A%85%E9%91%BC%E7%81%A3/@22.2807587,114.1859489?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1056,
-                "rating": 4.1,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Bai Jia Chao Ji Shi Chang  Dian Qu Yi  (Tian Hou Bai Li Da Sha )",
-                "link": "https://www.google.com/maps/search/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4+%E5%BA%97%E5%8F%96%E6%98%93+%28%E5%A4%A9%E5%90%8E%E7%99%BE%E5%88%A9%E5%A4%A7%E5%BB%88%29/@22.282553099999998,114.1924937?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
-                "rating": 3.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Da Sheng Sheng Huo Chao Shi ",
-                "link": "https://www.google.com/maps/search/%E5%A4%A7%E7%94%9F%E7%94%9F%E6%B4%BB%E8%B6%85%E5%B8%82/@22.2855074,114.19170129999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 3.8,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Da Sheng Shi Pin Chao Ji Shi Chang ",
-                "link": "https://www.google.com/maps/search/%E5%A4%A7%E7%94%9F%E9%A3%9F%E5%93%81%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/@22.2795939,114.18837880000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Hua Ren Chao Shi "
-            }
-        ],
-        "website": "http://www.marketplacebyjasons.com/mpj2shop/html/index.html",
-        "owner": {
-            "id": "100604281119526227945",
-            "name": "Market Place (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100604281119526227945"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0siWzqbGybhiqSnAl7FQJjAaNTGYLwXZZM3te=w408-h306-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 4,
-        "workday_timing": "08:00-22:30",
-        "closed_on": "Open All Days",
-        "phone": "2807 1456",
-        "address": "Shop A, G/F, Market Place, Magnolia Mansion, 4 Tin Hau Temple Rd, Causeway Bay",
-        "review_keywords": [
-            {
-                "keyword": "Huo Pin ",
-                "count": 7
-            },
-            {
-                "keyword": "Shou Yin ",
-                "count": 7
-            },
-            {
-                "keyword": "Jie Qian ",
-                "count": 7
-            },
-            {
-                "keyword": "Nong Chan Pin ",
-                "count": 3
-            },
-            {
-                "keyword": "Rou ",
-                "count": 3
-            },
-            {
-                "keyword": "Pin Zhi ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Market+Place/data=!4m7!3m6!1s0x340401aab75436c3:0x40b9fd30b53261b7!8m2!3d22.2821014!4d114.1922467!16s%2Fg%2F11c2j3lrmb!19sChIJwzZUt6oBBDQRt2EytTD9uUA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJb98uEAABBDQRlt8pHOiLFRY",
         "name": "Tai Ping Yang Ka Pei ",
         "description": null,
@@ -4668,7 +3431,7 @@
             {
                 "name": "NOC (Tin Hau)",
                 "link": "https://www.google.com/maps/search/NOC+%28Tin+Hau%29/@22.2856779,114.1920292?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 251,
+                "reviews": 252,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4732,8 +3495,8 @@
             {
                 "name": "Xiang Gang Chang Xian Jian Sha Ju Dian ",
                 "link": "https://www.google.com/maps/search/%E9%A6%99%E6%B8%AF%E5%9A%90%E4%BB%99%E5%B0%96%E6%B2%99%E5%92%80%E5%BA%97/@22.299185299999998,114.1741201?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 91,
-                "rating": 3.5,
+                "reviews": 92,
+                "rating": 3.6,
                 "main_category": "Tian Pin Dian "
             },
             {
@@ -4831,15 +3594,15 @@
             {
                 "name": "The Cupping Room (Guan Tang )",
                 "link": "https://www.google.com/maps/search/The+Cupping+Room+%28%E8%A7%80%E5%A1%98%29/@22.312486699999997,114.22501849999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
+                "reviews": 37,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "House FiftyEight",
                 "link": "https://www.google.com/maps/search/House+FiftyEight/@22.3112326,114.2230285?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 31,
-                "rating": 4.2,
+                "reviews": 30,
+                "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
@@ -4874,6 +3637,10 @@
                 "count": 35
             },
             {
+                "keyword": "Shu Shi ",
+                "count": 11
+            },
+            {
                 "keyword": "Mu Gong ",
                 "count": 7
             },
@@ -4899,10 +3666,6 @@
             },
             {
                 "keyword": "Li ",
-                "count": 5
-            },
-            {
-                "keyword": "She Ji ",
                 "count": 5
             }
         ],
@@ -5042,7 +3805,7 @@
             {
                 "name": "Xiang Xing Ka Pei Shi ",
                 "link": "https://www.google.com/maps/search/%E7%A5%A5%E8%88%88%E5%92%96%E5%95%A1%E5%AE%A4/@22.269357199999998,114.18498079999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 804,
+                "reviews": 805,
                 "rating": 3.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -5186,66 +3949,6 @@
         "link": "https://www.google.com/maps/place/%E6%A2%B3%E5%8C%96%E5%80%89/data=!4m7!3m6!1s0x34040148d1ad0c6b:0x556971373f8e72f7!8m2!3d22.314352!4d114.2206573!16s%2Fg%2F1wk7ngyw!19sChIJawyt0UgBBDQR93KOPzdxaVU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJVVU5Y1sABDQRH8DNy2RPRkM",
-        "name": "Feng Ze  (Zhuang Shi Dun Dao Dian )",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 120,
-        "competitors": [
-            {
-                "name": "Ke Xun Dian Nao ",
-                "link": "https://www.google.com/maps/search/%E7%A7%91%E8%A8%8A%E9%9B%BB%E8%85%A6/@22.2825582,114.1552359?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 3.9,
-                "main_category": "Dian Qi Ling Shou "
-            },
-            {
-                "name": "Feng Ze Dian Qi ",
-                "link": "https://www.google.com/maps/search/%E8%B1%90%E6%BE%A4%E9%9B%BB%E5%99%A8/@22.382711999999998,114.18875899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Dian Qi Ling Shou "
-            },
-            {
-                "name": "FORTRESS World",
-                "link": "https://www.google.com/maps/search/FORTRESS+World/@22.284919,114.155716?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 1,
-                "main_category": "Jia Ju Yong Pin Dian "
-            },
-            {
-                "name": "JF Station",
-                "link": "https://www.google.com/maps/search/JF+Station/@22.277190299999997,114.1731267?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shou Ji Wei Xiu Fu Wu "
-            }
-        ],
-        "website": "http://www.fortress.com.hk/",
-        "owner": {
-            "id": "106952932560387382382",
-            "name": "Feng Ze  (Zhuang Shi Dun Dao Dian ) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106952932560387382382"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMVAQItmeiOujI4Q2-3S6vQL1dmRYX35_N1OO4N=w408-h544-k-no",
-        "main_category": "Dian Qi Ling Shou ",
-        "categories": [
-            "Dian Qi Ling Shou "
-        ],
-        "rating": 3.5,
-        "workday_timing": "11:00-20:30",
-        "closed_on": "Open All Days",
-        "phone": "6500 6801",
-        "address": "f & basementFeng Ze  (Zhuang Shi Dun Dao Dian )Hong Jiang Da Sha  Shop C on G, 141-147 f & basement, 149 Johnston Rd, Wan Chai",
-        "review_keywords": [
-            {
-                "keyword": "Ke Fu ",
-                "count": 6
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E8%B1%90%E6%BE%A4+%28%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93%E5%BA%97%29/data=!4m7!3m6!1s0x3404005b63395555:0x43464f64cbcdc01f!8m2!3d22.276848!4d114.1739163!16s%2Fg%2F11b5qxf6nl!19sChIJVVU5Y1sABDQRH8DNy2RPRkM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJU_D3GtYBBDQRKewHyXDd6Ps",
         "name": "Mao Zhi Cha Fang  Wang Jiao Dian ",
         "description": null,
@@ -5255,7 +3958,7 @@
             {
                 "name": "Mao Zhi Cha Fang  Jian Sha Ju Dian ",
                 "link": "https://www.google.com/maps/search/%E8%B2%93%E4%B9%8B%E8%8C%B6%E6%88%BF+%E5%B0%96%E6%B2%99%E5%92%80%E5%BA%97/@22.2981011,114.1719773?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 154,
+                "reviews": 155,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -5449,7 +4152,7 @@
             },
             {
                 "name": "Zhi Fu Hua Yuan Jie Shi ",
-                "link": "https://www.google.com/maps/search/%E7%BD%AE%E5%AF%8C%E8%8A%B1%E5%9C%92%E8%A1%97%E5%B8%82/@22.2579149,114.13905079999999?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/%E7%BD%AE%E5%AF%8C%E8%8A%B1%E5%9C%92%E8%A1%97%E5%B8%82/@22.2579822,114.1386739?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 10,
                 "rating": 2.9,
                 "main_category": "Shang Dian Yu Gou Wu "
@@ -5491,7 +4194,7 @@
                 "count": 4
             }
         ],
-        "link": "https://www.google.com/maps/place/Fusion+%28%E8%96%84%E6%89%B6%E6%9E%97%E7%BD%AE%E5%AF%8C%E8%8A%B1%E5%9C%92%29/data=!4m7!3m6!1s0x3403fff9fd1a7da7:0xefed80fac4889a6c!8m2!3d22.2578863!4d114.1388225!16s%2Fg%2F11b67pv6b3!19sChIJp30a_fn_AzQRbJqIxPqA7e8?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Fusion+%28%E8%96%84%E6%89%B6%E6%9E%97%E7%BD%AE%E5%AF%8C%E8%8A%B1%E5%9C%92%29/data=!4m7!3m6!1s0x3403fff9fd1a7da7:0xefed80fac4889a6c!8m2!3d22.2575565!4d114.1390232!16s%2Fg%2F11b67pv6b3!19sChIJp30a_fn_AzQRbJqIxPqA7e8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJN7lQe9YBBDQRPMqev38iUMQ",
@@ -5592,7 +4295,7 @@
             {
                 "name": "Cha Tang Hui  Zhong Huan Qi Jian Dian ",
                 "link": "https://www.google.com/maps/search/%E8%8C%B6%E6%B9%AF%E6%9C%83+%E4%B8%AD%E7%92%B0%E6%97%97%E8%89%A6%E5%BA%97/@22.282629500000002,114.157823?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 117,
+                "reviews": 118,
                 "rating": 3.9,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -5687,14 +4390,14 @@
             {
                 "name": "Hong Cha Bing Shi ",
                 "link": "https://www.google.com/maps/search/%E7%B4%85%E8%8C%B6%E5%86%B0%E5%AE%A4/@22.3117986,114.1710588?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 977,
+                "reviews": 978,
                 "rating": 3.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Bing Shi Xiao Cai Guan ",
                 "link": "https://www.google.com/maps/search/%E5%86%B0%E5%AE%A4%E5%B0%8F%E8%8F%9C%E9%A4%A8/@22.312419,114.1705872?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 121,
+                "reviews": 122,
                 "rating": 3.7,
                 "main_category": "Gang Shi Cha Can Ting "
             },
@@ -5791,19 +4494,19 @@
         "name": "Latter Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 77,
+        "reviews": 78,
         "competitors": [
             {
                 "name": "Elephant Grounds (Wan Chai)",
                 "link": "https://www.google.com/maps/search/Elephant+Grounds+%28Wan+Chai%29/@22.276757,114.1682316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
+                "reviews": 564,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Mansons Lot Coffee House",
                 "link": "https://www.google.com/maps/search/Mansons+Lot+Coffee+House/@22.2754599,114.17147349999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 376,
+                "reviews": 378,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -5945,7 +4648,7 @@
         "review_keywords": [
             {
                 "keyword": "Jia Ge ",
-                "count": 5
+                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/%E9%BB%91%E5%9C%B0/data=!4m7!3m6!1s0x3404074a6183b56b:0xf161e7b27709770e!8m2!3d22.3196117!4d114.1681713!16s%2Fg%2F11b_03xmzq!19sChIJa7WDYUoHBDQRDncJd7LnYfE?authuser=0&hl=zh-TW&rclk=1"
@@ -5960,14 +4663,14 @@
             {
                 "name": "COMEBUYTEA (Wang Jiao T.O.PDian )",
                 "link": "https://www.google.com/maps/search/COMEBUYTEA+%28%E6%97%BA%E8%A7%92T.O.P%E5%BA%97%29/@22.3205764,114.1696111?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 402,
+                "reviews": 403,
                 "rating": 4,
                 "main_category": "Zhen Zhu Nai Cha "
             },
             {
                 "name": "Cha Tang Hui  Zhong Huan Qi Jian Dian ",
                 "link": "https://www.google.com/maps/search/%E8%8C%B6%E6%B9%AF%E6%9C%83+%E4%B8%AD%E7%92%B0%E6%97%97%E8%89%A6%E5%BA%97/@22.282629500000002,114.157823?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 117,
+                "reviews": 118,
                 "rating": 3.9,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -6053,8 +4756,8 @@
             {
                 "name": "Ha Gen Da Si ",
                 "link": "https://www.google.com/maps/search/%E5%93%88%E6%A0%B9%E9%81%94%E6%96%AF/@22.340689899999997,114.202376?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 3.6,
+                "reviews": 20,
+                "rating": 3.7,
                 "main_category": "Bing Qi Lin "
             },
             {
@@ -6185,20 +4888,20 @@
                 "count": 13
             },
             {
+                "keyword": "Cu Jiang ",
+                "count": 9
+            },
+            {
                 "keyword": "Niu You Guo ",
                 "count": 9
             },
             {
-                "keyword": "Cu Jiang ",
+                "keyword": "Kao Ma Ling Shu ",
                 "count": 8
             },
             {
                 "keyword": "Qing Jiang ",
                 "count": 8
-            },
-            {
-                "keyword": "Kao Ma Ling Shu ",
-                "count": 7
             },
             {
                 "keyword": "Bo Jue Cha ",
@@ -6215,13 +4918,72 @@
             {
                 "keyword": "He Tao ",
                 "count": 5
-            },
-            {
-                "keyword": "Dan Gao Juan ",
-                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Alchemy+ORIGIN/data=!4m7!3m6!1s0x340401df7b2bdc65:0x8478ccddd0af366c!8m2!3d22.2866023!4d114.2117349!16s%2Fg%2F11ty7dcstx!19sChIJZdwre98BBDQRbDav0N3MeIQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJE_6te7YBBDQRkcJ49N5A_O8",
+        "name": "Hashtag B",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 59,
+        "competitors": [],
+        "website": "http://www.hashtag-b.com/",
+        "owner": {
+            "id": "110168100522046157567",
+            "name": "Hashtag B (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110168100522046157567"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwcxTdEPYQJVb7x4cEMViQIuC_Ce-KmFHU0xG6=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "6654 0016",
+        "address": "Jian Sha Ju Jia Na Fen Dao 49Hao Hou Fu Jie Jiao Jie Xia Hui Lou Hashtag BCPu ",
+        "review_keywords": [
+            {
+                "keyword": "Dan Ta ",
+                "count": 20
+            },
+            {
+                "keyword": "Tian ",
+                "count": 10
+            },
+            {
+                "keyword": "Jiao Tang ",
+                "count": 9
+            },
+            {
+                "keyword": "Pai ",
+                "count": 8
+            },
+            {
+                "keyword": "He ",
+                "count": 6
+            },
+            {
+                "keyword": "Jia ",
+                "count": 6
+            },
+            {
+                "keyword": "Jia Qian ",
+                "count": 5
+            },
+            {
+                "keyword": "Su ",
+                "count": 4
+            },
+            {
+                "keyword": "Qian Ceng ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hashtag+B/data=!4m7!3m6!1s0x340401b67badfe13:0xeffc40def478c291!8m2!3d22.299522!4d114.173684!16s%2Fg%2F11vdfb856l!19sChIJE_6te7YBBDQRkcJ49N5A_O8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJmRDgwRoBBDQRvqgh0lFdsvo",
@@ -6233,7 +4995,7 @@
             {
                 "name": "Cha Tang Hui  Zhong Huan Qi Jian Dian ",
                 "link": "https://www.google.com/maps/search/%E8%8C%B6%E6%B9%AF%E6%9C%83+%E4%B8%AD%E7%92%B0%E6%97%97%E8%89%A6%E5%BA%97/@22.282629500000002,114.157823?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 117,
+                "reviews": 118,
                 "rating": 3.9,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -6320,69 +5082,6 @@
         "link": "https://www.google.com/maps/place/NUTTEA+%E5%A0%85%E6%9E%9C%E5%A5%B6%E8%8C%B6+%E4%B8%AD%E7%92%B0%E5%BA%97/data=!4m7!3m6!1s0x3404011ac1e01099:0xfab25d51d221a8be!8m2!3d22.2847221!4d114.1537172!16s%2Fg%2F11lllmy6r8!19sChIJmRDgwRoBBDQRvqgh0lFdsvo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJE_6te7YBBDQRkcJ49N5A_O8",
-        "name": "Hashtag B",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 58,
-        "competitors": [],
-        "website": "http://www.hashtag-b.com/",
-        "owner": {
-            "id": "110168100522046157567",
-            "name": "Hashtag B (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110168100522046157567"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwcxTdEPYQJVb7x4cEMViQIuC_Ce-KmFHU0xG6=w408-h306-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.1,
-        "workday_timing": "08:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "6654 0016",
-        "address": "Jian Sha Ju Jia Na Fen Dao 49Hao Hou Fu Jie Jiao Jie Xia Hui Lou Hashtag BCPu ",
-        "review_keywords": [
-            {
-                "keyword": "Dan Ta ",
-                "count": 19
-            },
-            {
-                "keyword": "Tian ",
-                "count": 10
-            },
-            {
-                "keyword": "Jiao Tang ",
-                "count": 9
-            },
-            {
-                "keyword": "Pai ",
-                "count": 7
-            },
-            {
-                "keyword": "He ",
-                "count": 5
-            },
-            {
-                "keyword": "Jia ",
-                "count": 5
-            },
-            {
-                "keyword": "Jia Qian ",
-                "count": 5
-            },
-            {
-                "keyword": "Su ",
-                "count": 4
-            },
-            {
-                "keyword": "Qian Ceng ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Hashtag+B/data=!4m7!3m6!1s0x340401b67badfe13:0xeffc40def478c291!8m2!3d22.299522!4d114.173684!16s%2Fg%2F11vdfb856l!19sChIJE_6te7YBBDQRkcJ49N5A_O8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJdT9EadgBBDQRGX1u6VeODKM",
         "name": "Alley Coffee",
         "description": null,
@@ -6392,14 +5091,14 @@
             {
                 "name": "Elephant Grounds (Wan Chai)",
                 "link": "https://www.google.com/maps/search/Elephant+Grounds+%28Wan+Chai%29/@22.276757,114.1682316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 563,
+                "reviews": 564,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Latter Cafe",
                 "link": "https://www.google.com/maps/search/Latter+Cafe/@22.2788267,114.1740186?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
+                "reviews": 78,
                 "rating": 3.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -6475,81 +5174,11 @@
         "link": "https://www.google.com/maps/place/Alley+Coffee/data=!4m7!3m6!1s0x340401d869443f75:0xa30c8e57e96e7d19!8m2!3d22.2741005!4d114.1742751!16s%2Fg%2F11n09sppcf!19sChIJdT9EadgBBDQRGX1u6VeODKM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJUQRUIIqFfDURv0bYypCgOHU",
-        "name": "Only Coffee Kankan",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 53,
-        "competitors": [
-            {
-                "name": "Cafe Nagwonjang",
-                "link": "https://www.google.com/maps/search/Cafe+Nagwonjang/@37.57294540000001,126.98994800000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Second Coffee",
-                "link": "https://www.google.com/maps/search/Second+Coffee/@37.5767422,126.99087259999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.9,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Hanokpresso",
-                "link": "https://www.google.com/maps/search/Hanokpresso/@37.5764692,126.9687697?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "kapesono insadongbonjeom",
-                "link": "https://www.google.com/maps/search/%EC%B9%B4%ED%8E%98%EC%86%8C%EB%85%B8+%EC%9D%B8%EC%82%AC%EB%8F%99%EB%B3%B8%EC%A0%90/@37.572812,126.98555200000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shi Pin He Yin Pin "
-            }
-        ],
-        "website": "http://www.instagram.com/kankanespresso",
-        "owner": {
-            "id": null,
-            "name": "Only Coffee Kankan (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTxoRAdeNdKJwKRx0sunCpjRl3qH5FHnY_ceGH=w408-h408-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "11:00-17:30",
-        "closed_on": [
-            "Xing Qi Si "
-        ],
-        "phone": "+82 70-8866-9098",
-        "address": "Only Coffee Kankan, 12-5 Samil-daero 32ga-gil, Jongno-gu, Seoul, Nan Han ",
-        "review_keywords": [
-            {
-                "keyword": "Na Tie ",
-                "count": 8
-            },
-            {
-                "keyword": "Wu ",
-                "count": 7
-            },
-            {
-                "keyword": "Gan Jue ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Only+Coffee+Kankan/data=!4m7!3m6!1s0x357c858a20540451:0x7538a090cad846bf!8m2!3d37.5746628!4d126.9885799!16s%2Fg%2F11g8bc86v9!19sChIJUQRUIIqFfDURv0bYypCgOHU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJLQJUWZ4BBDQRCvVo_7UgS6I",
         "name": "NINETYs (Jian Sha Ju )",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 49,
+        "reviews": 50,
         "competitors": [
             {
                 "name": "Dazzling Cafe Honey",
@@ -6568,7 +5197,7 @@
             {
                 "name": "Espresso Alchemy",
                 "link": "https://www.google.com/maps/search/Espresso+Alchemy/@22.299510899999998,114.16792919999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 335,
+                "reviews": 336,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -6766,7 +5395,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://instagram.com/relieve.hk?igshid=YmMyMTA2M2Y=",
+        "website": "https://instagram.com/relieve.hk%3Figshid%3DYmMyMTA2M2Y%3D",
         "owner": {
             "id": null,
             "name": "Shao Xi  (Ye Zhu )",
@@ -6858,7 +5487,7 @@
                 "main_category": "Xi Bing Dian "
             }
         ],
-        "website": "https://www.a-1bakery.com.hk/en/brand/La%2520Cr%25C3%25A9ation/ec2665eb-7dec-469c-9785-4b08873c4c1f/",
+        "website": "https://www.a-1bakery.com.hk/en/brand/La%20Cr%C3%A9ation/ec2665eb-7dec-469c-9785-4b08873c4c1f/",
         "owner": {
             "id": "103615952427307600604",
             "name": "la creation (Ye Zhu )",
@@ -6900,7 +5529,7 @@
             {
                 "name": "Marias Flower Delivery Hong Kong Wang Shang Hua Dian ",
                 "link": "https://www.google.com/maps/search/Marias+Flower+Delivery+Hong+Kong+%E7%B6%B2%E4%B8%8A%E8%8A%B1%E5%BA%97/@22.278966699999998,114.1733357?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
+                "reviews": 23,
                 "rating": 4.9,
                 "main_category": "Hua Dian "
             },
@@ -6946,11 +5575,11 @@
         "review_keywords": [
             {
                 "keyword": "cafe",
-                "count": 7
+                "count": 8
             },
             {
                 "keyword": "Dan Gao ",
-                "count": 6
+                "count": 7
             },
             {
                 "keyword": "Wei ",
@@ -6971,6 +5600,14 @@
             {
                 "keyword": "Dou Fu ",
                 "count": 3
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 3
+            },
+            {
+                "keyword": "Shu Shi ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Gary+Kwok+Flowers+%26+Caf%C3%A9/data=!4m7!3m6!1s0x340400433aa0a93f:0x165f5ee8240adf15!8m2!3d22.2748233!4d114.1716692!16s%2Fg%2F12hl3myrh!19sChIJP6mgOkMABDQRFd8KJOheXxY?authuser=0&hl=zh-TW&rclk=1"
@@ -6985,7 +5622,7 @@
             {
                 "name": "Cha Tang Hui  Zhong Huan Qi Jian Dian ",
                 "link": "https://www.google.com/maps/search/%E8%8C%B6%E6%B9%AF%E6%9C%83+%E4%B8%AD%E7%92%B0%E6%97%97%E8%89%A6%E5%BA%97/@22.282629500000002,114.157823?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 117,
+                "reviews": 118,
                 "rating": 3.9,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -7006,7 +5643,7 @@
             {
                 "name": "Chun Fun How (Tsim Sha Tsui) Chun Fang Hao  (Jian Sha Ju )",
                 "link": "https://www.google.com/maps/search/Chun+Fun+How+%28Tsim+Sha+Tsui%29+%E6%98%A5%E8%8A%B3%E8%99%9F+%28%E5%B0%96%E6%B2%99%E5%92%80%29/@22.298218799999997,114.1733125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
+                "reviews": 29,
                 "rating": 4.6,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -7089,7 +5726,7 @@
             {
                 "name": "The Cupping Room (Guan Tang )",
                 "link": "https://www.google.com/maps/search/The+Cupping+Room+%28%E8%A7%80%E5%A1%98%29/@22.312486699999997,114.22501849999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
+                "reviews": 37,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -7189,95 +5826,6 @@
         "link": "https://www.google.com/maps/place/%E6%B0%B4%E5%A2%A8%E9%9D%92%E8%8A%B1+Atteatude/data=!4m7!3m6!1s0x340401cc865add41:0xc74a744b2ef45be5!8m2!3d22.3209789!4d114.1711177!16s%2Fg%2F11fd475_vk!19sChIJQd1ahswBBDQR5Vv0Lkt0Ssc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJy9CJEOEBBDQRh6CBntpG30Q",
-        "name": "Huang Yue  Imperial Patisserie",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 16,
-        "competitors": [
-            {
-                "name": "Blesscuit Zhu Qi Bing Jin Zhong Lang Dian ",
-                "link": "https://www.google.com/maps/search/Blesscuit+%E7%A5%9D%E5%A5%87%E9%A4%85%E9%87%91%E9%90%98%E5%BB%8A%E5%BA%97/@22.2791794,114.1644774?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 1.9,
-                "main_category": "Bing Gan "
-            },
-            {
-                "name": "Huang Yue Ji Tuan Kong Gu You Xian Gong Si ",
-                "link": "https://www.google.com/maps/search/%E7%9A%87%E7%8E%A5%E9%9B%86%E5%9C%98%E6%8E%A7%E8%82%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/@22.3734361,114.1042674?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Shi Pin Zhi Zao Shang "
-            },
-            {
-                "name": "Huang Cheng Bing Dian ",
-                "link": "https://www.google.com/maps/search/%E7%9A%87%E5%9F%8E%E9%A4%85%E5%BA%97/@22.334207000000003,114.1964627?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 2.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "https://www.ipastry.com.hk/",
-        "owner": {
-            "id": "109894817080522332813",
-            "name": "Huang Yue  Imperial Patisserie (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109894817080522332813"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXXber7lhlYImwBihAD4CxBWd9hRvw1UunnWMP=w408-h408-k-no",
-        "main_category": "Zhong Shi Gao Bing Dian ",
-        "categories": [
-            "Zhong Shi Gao Bing Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "11:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "2217 3638",
-        "address": "Zhong Huan Bai Hua Jie 26Hao Huang Yue  Imperial PatisserieHao Di Pu ",
-        "review_keywords": [
-            {
-                "keyword": "He ",
-                "count": 7
-            },
-            {
-                "keyword": "Yue Bing ",
-                "count": 6
-            },
-            {
-                "keyword": "Zhong Qiu ",
-                "count": 5
-            },
-            {
-                "keyword": "Dan Huang ",
-                "count": 5
-            },
-            {
-                "keyword": "Bao Zhuang ",
-                "count": 5
-            },
-            {
-                "keyword": "Niu You ",
-                "count": 5
-            },
-            {
-                "keyword": "Nai Huang Bao ",
-                "count": 4
-            },
-            {
-                "keyword": "Xin Nian ",
-                "count": 3
-            },
-            {
-                "keyword": "Hu Die Su ",
-                "count": 3
-            },
-            {
-                "keyword": "Zhuang Xiu ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E7%9A%87%E7%8E%A5+Imperial+Patisserie/data=!4m7!3m6!1s0x340401e11089d0cb:0x44df46da9e81a087!8m2!3d22.2824019!4d114.1543511!16s%2Fg%2F11hfyx3rgx!19sChIJy9CJEOEBBDQRh6CBntpG30Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJAypb4sYABDQRHJYe565xG0w",
         "name": "Natural Chiffon",
         "description": null,
@@ -7287,7 +5835,7 @@
             {
                 "name": "Sweet Secrets - keto, gluten-free, vegan, sugar-free and bespoke cakes.",
                 "link": "https://www.google.com/maps/search/Sweet+Secrets+-+keto%2C+gluten-free%2C+vegan%2C+sugar-free+and+bespoke+cakes./@22.3209166,114.16609030000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 191,
+                "reviews": 190,
                 "rating": 5,
                 "main_category": "Xi Bing Dian "
             },
@@ -7413,6 +5961,70 @@
         "link": "https://www.google.com/maps/place/%E9%86%89%E6%A6%B4%E9%A6%99%E5%B0%88%E9%96%80%E5%BA%97/data=!4m7!3m6!1s0x34040056dd80d129:0xbf9f4f39493fc0b7!8m2!3d22.322043!4d114.1696349!16s%2Fg%2F12qfmn4z5!19sChIJKdGA3VYABDQRt8A_STlPn78?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJva9t4SXxAzQRGLdFOmAaD8c",
+        "name": "Rabbit Village",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Next Station",
+                "link": "https://www.google.com/maps/search/Next+Station/@22.4473999,114.02360069999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Lang Ting Yuan ",
+                "link": "https://www.google.com/maps/search/%E6%9C%97%E5%BA%AD%E5%9C%92/@22.445142699999998,114.0179915?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Rabil's Snacks",
+                "link": "https://www.google.com/maps/search/Rabil%27s+Snacks/@22.444908299999998,114.0235876?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Cafe Gettogether Cafe",
+                "link": "https://www.google.com/maps/search/Cafe+Gettogether+Cafe/@22.442012,114.026021?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100088219071486%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": "115798632253116759674",
+            "name": "Rabbit Village (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115798632253116759674"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPaW6c43sxc3-9gmUhaNXdpYf1j0I-4PwRoaeup=w408-h725-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.2,
+        "workday_timing": "12:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "6998 5584",
+        "address": "Rabbit Village, 30 Castle Peak Rd - Yuen Long, Yuen Long",
+        "review_keywords": [
+            {
+                "keyword": "Tu ",
+                "count": 5
+            },
+            {
+                "keyword": "Ke Ai ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Rabbit+Village/data=!4m7!3m6!1s0x3403f125e16dafbd:0xc70f1a603a45b718!8m2!3d22.4442451!4d114.0313028!16s%2Fg%2F11sd6grrll!19sChIJva9t4SXxAzQRGLdFOmAaD8c?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJTWur0-0ABDQRXDWULzXGBN4",
         "name": "Bear of Color + Pork Chop & Friends",
         "description": null,
@@ -7470,7 +6082,7 @@
             {
                 "name": "Knockbox Coffee Company",
                 "link": "https://www.google.com/maps/search/Knockbox+Coffee+Company/@22.3176204,114.17255829999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 710,
+                "reviews": 712,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -7564,7 +6176,7 @@
             {
                 "name": "NATIONS COFFEE",
                 "link": "https://www.google.com/maps/search/NATIONS+COFFEE/@22.2755622,114.17176819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 92,
+                "reviews": 93,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -7591,101 +6203,11 @@
         "link": "https://www.google.com/maps/place/%E5%89%B5%E6%B4%BB+mm2+cafe/data=!4m7!3m6!1s0x340401c35b8d8937:0xdfdf06b5028a6d1d!8m2!3d22.2754689!4d114.1707572!16s%2Fg%2F11s306bj8m!19sChIJN4mNW8MBBDQRHW2KArUG398?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJWzQ9GPoBBDQRcZUYGJl-9wU",
-        "name": "Today Furniture Jin Ri Jia Ju ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": "https://tooday.com.hk/",
-        "owner": {
-            "id": "112842693083685930845",
-            "name": "Today Furniture Jin Ri Jia Ju  (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112842693083685930845"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPAZHPIcUi-OtDYoaJDTn6x5lym6pvnbk33rF_c=w408-h272-k-no",
-        "main_category": "Jia Dian ",
-        "categories": [
-            "Jia Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "12:00-20:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "6906 9721",
-        "address": "Guan Tang Guan Tang Dao Eastcore601BJia Yu Da Sha Today Furniture Jin Ri Jia Ju ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Today+Furniture+%E9%87%91%E6%97%A5%E5%AE%B6%E5%85%B7/data=!4m7!3m6!1s0x340401fa183d345b:0x5f77e9918189571!8m2!3d22.313354!4d114.2228428!16s%2Fg%2F11v9bsp9_x!19sChIJWzQ9GPoBBDQRcZUYGJl-9wU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJVVWIb3wABDQR-GfBUxihXOM",
-        "name": "O Kam Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Tai Ping Yang Ka Pei ",
-                "link": "https://www.google.com/maps/search/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%92%96%E5%95%A1/@22.284668,114.15476699999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 324,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coco Espresso",
-                "link": "https://www.google.com/maps/search/Coco+Espresso/@22.282784499999998,114.1550599?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 257,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Xing Ba Ke ",
-                "link": "https://www.google.com/maps/search/%E6%98%9F%E5%B7%B4%E5%85%8B/@22.2853031,114.1499298?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 208,
-                "rating": 3.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "ASK Cafe",
-                "link": "https://www.google.com/maps/search/ASK+Cafe/@22.2851183,114.15332540000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Podium Cafe",
-                "link": "https://www.google.com/maps/search/Podium+Cafe/@22.283438,114.1553941?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://www.okam.com.hk/",
-        "owner": {
-            "id": null,
-            "name": "O Kam Coffee (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XAh_e_GCT3raUoZWllUfRA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=195.02565&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "2581 3393",
-        "address": "Unit B, O Kam CoffeeSheng Ji Zhong Xin 208-220 Queen's Road Central, Central",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/O+Kam+Coffee/data=!4m7!3m6!1s0x3404007c6f885555:0xe35ca11853c167f8!8m2!3d22.2846518!4d114.1520977!16s%2Fg%2F1td2x1w2!19sChIJVVWIb3wABDQR-GfBUxihXOM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ34MGJWUABDQRZfVRGc8Lxeg",
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 1187,
+        "reviews": 1188,
         "competitors": [
             {
                 "name": "Xing Ba Ke ",
@@ -7880,12 +6402,12 @@
         "name": "Li Qiang Ji Ji Dan Zi ",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 537,
+        "reviews": 538,
         "competitors": [
             {
                 "name": "Li Qiang Ji Bei Jiao Ji Dan Zi ",
                 "link": "https://www.google.com/maps/search/%E5%88%A9%E5%BC%B7%E8%A8%98%E5%8C%97%E8%A7%92%E9%9B%9E%E8%9B%8B%E4%BB%94/@22.2912306,114.20162920000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 687,
+                "reviews": 688,
                 "rating": 3.8,
                 "main_category": "Shou Shi Dian "
             },
@@ -8071,7 +6593,7 @@
         "name": "Hua Feng Guo Huo You Xian Gong Si ",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 415,
+        "reviews": 416,
         "competitors": [
             {
                 "name": "Hua Feng Guo Huo ",
@@ -8135,6 +6657,10 @@
             },
             {
                 "keyword": "Gan Jue ",
+                "count": 5
+            },
+            {
+                "keyword": "Jia ",
                 "count": 5
             },
             {
@@ -8237,7 +6763,7 @@
         "name": "Ma Mi Ji Dan Zi  (Zuo Dun )",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 278,
+        "reviews": 279,
         "competitors": [
             {
                 "name": "TOAST BOX",
@@ -8350,8 +6876,8 @@
             {
                 "name": "MR. TEACha Xian Sheng ",
                 "link": "https://www.google.com/maps/search/MR.+TEA%E8%8C%B6%E5%85%88%E7%94%9F/@22.280186,114.1851459?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 70,
-                "rating": 3.3,
+                "reviews": 71,
+                "rating": 3.4,
                 "main_category": "Zhen Zhu Nai Cha "
             },
             {
@@ -8569,7 +7095,7 @@
         "name": "Blue Bottle Coffee",
         "description": "Shi Shang Lian Suo Ka Pei Ting ,Gong Ying Gao Ji Ka Pei Yu Gao Dian ,Ling Fan Shou Ka Pei Dou Yu Chong Pao She Bei . ",
         "is_spending_on_ads": false,
-        "reviews": 133,
+        "reviews": 135,
         "competitors": [
             {
                 "name": "% Arabica (IFC)",
@@ -8807,6 +7333,82 @@
         "link": "https://www.google.com/maps/place/Bubble+Tree/data=!4m7!3m6!1s0x340401455ede9a8f:0x6ed2e133d21aff4a!8m2!3d22.3099422!4d114.2269897!16s%2Fg%2F1tdmh248!19sChIJj5reXkUBBDQRSv8a0jPh0m4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJvUiq_NH7AzQR-piFdNeDABg",
+        "name": "Bai Yang Ka Pei ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 94,
+        "competitors": [
+            {
+                "name": "BYOB Coffee Roaster",
+                "link": "https://www.google.com/maps/search/BYOB+Coffee+Roaster/@22.401027499999998,113.9778918?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 476,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Alchemist Cafe (Tuen Mun)",
+                "link": "https://www.google.com/maps/search/The+Alchemist+Cafe+%28Tuen+Mun%29/@22.3928095,113.97806039999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 149,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "First Stage Cafe",
+                "link": "https://www.google.com/maps/search/First+Stage+Cafe/@22.4074715,113.96780489999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 51,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Reborn Coffee",
+                "link": "https://www.google.com/maps/search/Reborn+Coffee/@22.387957399999998,113.9751462?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "103003592574479474200",
+            "name": "Bai Yang Ka Pei  (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103003592574479474200"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOLfd_YjlS-Lb9cVqUCnJnQ7uX5J0lHsgx6GBPM=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-19:00",
+        "closed_on": "Open All Days",
+        "phone": "6465 6353",
+        "address": "Xin Xu Ren Ai Tang Jie 1Hao 12Hao Li Ri Ge Bai Yang Ka Pei ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Qian ",
+                "count": 14
+            },
+            {
+                "keyword": "latte",
+                "count": 9
+            },
+            {
+                "keyword": "Bei ",
+                "count": 4
+            },
+            {
+                "keyword": "bagel",
+                "count": 3
+            },
+            {
+                "keyword": "Kou Gan ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%E7%99%BD%E7%BE%8A%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3403fbd1fcaa48bd:0x180083d7748598fa!8m2!3d22.3953106!4d113.9771433!16s%2Fg%2F11h7ktlh1l!19sChIJvUiq_NH7AzQR-piFdNeDABg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJn4IIQSsBBDQRUBGL7JhJTR4",
         "name": "Coffee Obsession",
         "description": null,
@@ -8830,7 +7432,7 @@
             {
                 "name": "Studio Caffeine",
                 "link": "https://www.google.com/maps/search/Studio+Caffeine/@22.292186599999997,114.1980316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
+                "reviews": 60,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -8886,76 +7488,16 @@
         "link": "https://www.google.com/maps/place/Coffee+Obsession/data=!4m7!3m6!1s0x3404012b4108829f:0x1e4d4998ec8b1150!8m2!3d22.288632!4d114.1933651!16s%2Fg%2F11mv0yy61b!19sChIJn4IIQSsBBDQRUBGL7JhJTR4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJG9LRw34ABDQRPaHixEOwBFs",
-        "name": "Zhu Rong Ji ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 58,
-        "competitors": [
-            {
-                "name": "He Ji Guang Yu ",
-                "link": "https://www.google.com/maps/search/%E5%92%8C%E8%A8%98%E5%BB%A3%E8%A3%95/@22.330391,114.16027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.3,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Xiang Gang Chun Ji ",
-                "link": "https://www.google.com/maps/search/%E9%A6%99%E6%B8%AF%E6%B7%B3%E8%A8%98/@22.2839174,114.1553156?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Feng Ren Gong Si "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Zhu Rong Ji  (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNanGZmy34jLz7Vf-lLKyh5RauRJg5KsSOEjKWp=w426-h240-k-no",
-        "main_category": "Jia Ju Yong Pin Dian ",
-        "categories": [
-            "Jia Ju Yong Pin Dian "
-        ],
-        "rating": 3.5,
-        "workday_timing": "10:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "2545 8751",
-        "address": "Shui Keng Kou Shui Keng Kou Jie 24Hao Zhu Rong Ji ",
-        "review_keywords": [
-            {
-                "keyword": "Za Huo Dian ",
-                "count": 8
-            },
-            {
-                "keyword": "Huai Jiu ",
-                "count": 5
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 5
-            },
-            {
-                "keyword": "Qian ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/%E6%9C%B1%E6%A6%AE%E8%A8%98/data=!4m7!3m6!1s0x3404007ec3d1d21b:0x5b04b043c4e2a13d!8m2!3d22.285724!4d114.1480301!16s%2Fg%2F1vp6xt6n!19sChIJG9LRw34ABDQRPaHixEOwBFs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJbU5GEbQBBDQRRvoeuWVex9U",
         "name": "Bu Zi Shi Ka Pei  (You Ma Di )",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 57,
+        "reviews": 60,
         "competitors": [
             {
                 "name": "Kubrick",
                 "link": "https://www.google.com/maps/search/Kubrick/@22.310768900000003,114.1689492?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 522,
+                "reviews": 523,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -8974,16 +7516,9 @@
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Ma Bu Zai Jia ",
-                "link": "https://www.google.com/maps/search/%E5%AA%BD%E4%B8%8D%E5%9C%A8%E5%AE%B6/@22.3111934,114.1698342?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 159,
-                "rating": 4.4,
-                "main_category": "Cha Yi Guan "
-            },
-            {
                 "name": "Kactus Koffee",
                 "link": "https://www.google.com/maps/search/Kactus+Koffee/@22.30735,114.1654305?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 61,
+                "reviews": 64,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             }
@@ -8999,7 +7534,7 @@
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": 3.8,
+        "rating": 3.9,
         "workday_timing": "11:00-21:00",
         "closed_on": "Open All Days",
         "phone": null,
@@ -9049,81 +7584,23 @@
         "link": "https://www.google.com/maps/place/%E4%B8%8D%E7%B1%BD%E6%98%AF%E5%92%96%E5%95%A1+%28%E6%B2%B9%E9%BA%BB%E5%9C%B0%29/data=!4m7!3m6!1s0x340401b411464e6d:0xd5c75e65b91efa46!8m2!3d22.3102453!4d114.1714564!16s%2Fg%2F11q3th_fj7!19sChIJbU5GEbQBBDQRRvoeuWVex9U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJiSqv_O74AzQRWljKEsaeVCY",
-        "name": "CD Warehouse",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 50,
-        "competitors": [
-            {
-                "name": "CD WAREHOUSE",
-                "link": "https://www.google.com/maps/search/CD+WAREHOUSE/@22.3823378,114.18808159999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.1,
-                "main_category": "CD Dian "
-            },
-            {
-                "name": "Hui Huang Chang Pian Lu Ying ",
-                "link": "https://www.google.com/maps/search/%E8%BC%9D%E7%85%8C%E5%94%B1%E7%89%87%E9%8C%84%E5%BD%B1/@22.285643699999998,114.1519843?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 31,
-                "rating": 4.2,
-                "main_category": "DVD Dian "
-            },
-            {
-                "name": "Han Feng Chang Pian Gong Si ",
-                "link": "https://www.google.com/maps/search/%E6%BC%A2%E8%B1%90%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8/@22.368814999999998,114.116077?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ji Lu Bao Cun She Shi "
-            },
-            {
-                "name": "CDHK - CD Shop Chang Pian Dian ",
-                "link": "https://www.google.com/maps/search/CDHK+-+CD+Shop+%E5%94%B1%E7%89%87%E5%BA%97/@22.355825499999998,114.12414830000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Er Shou  CD Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "CD Warehouse (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMV8gpqgM7IZxzIC4q82bbNa43oYa1HRNG4gZJd=w408-h306-k-no",
-        "main_category": "CD Dian ",
-        "categories": [
-            "CD Dian ",
-            "Shi Ting She Bei Gong Ying Shang ",
-            "DVD Dian ",
-            "Dian Qi Ling Shou "
-        ],
-        "rating": 3.9,
-        "workday_timing": "11:30-21:30",
-        "closed_on": "Open All Days",
-        "phone": "3755 0408",
-        "address": "Shop 250, L2, CD Warehouse, Tsuen Wan Plaza, 30 Tai Pa St, Tsuen Wan",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/CD+Warehouse/data=!4m7!3m6!1s0x3403f8eefcaf2a89:0x26549ec612ca585a!8m2!3d22.3704903!4d114.1114712!16s%2Fg%2F11cjy23ftz!19sChIJiSqv_O74AzQRWljKEsaeVCY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJaR_yL1YFBDQRPTneHxkAnKA",
         "name": "Ocio (Dong Gang Cheng )",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 45,
+        "reviews": 46,
         "competitors": [
             {
                 "name": "Dong Gang Cheng ",
                 "link": "https://www.google.com/maps/search/%E6%9D%B1%E6%B8%AF%E5%9F%8E/@22.3169972,114.2654283?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4043,
+                "reviews": 4044,
                 "rating": 3.9,
                 "main_category": "Gou Wu Zhong Xin "
             },
             {
                 "name": "Beans Brekkie Room",
                 "link": "https://www.google.com/maps/search/Beans+Brekkie+Room/@22.316851699999997,114.26499210000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 290,
+                "reviews": 292,
                 "rating": 4.2,
                 "main_category": "Xi Bu Liao Li "
             },
@@ -9257,7 +7734,7 @@
         "name": "Bei Hai Dao Niu Ru Dan Gao ",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 26,
+        "reviews": 29,
         "competitors": [
             {
                 "name": "Bei Hai Dao Niu Ru Dan Gao ",
@@ -9306,7 +7783,7 @@
         "categories": [
             "Gao Bing Dian "
         ],
-        "rating": 3.5,
+        "rating": 3.6,
         "workday_timing": "10:00-21:00",
         "closed_on": "Open All Days",
         "phone": "2819 1100",
@@ -9328,7 +7805,7 @@
         "name": "Grind & Brew",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 25,
+        "reviews": 24,
         "competitors": [],
         "website": null,
         "owner": {
@@ -9437,7 +7914,7 @@
             {
                 "name": "Nan Tian ",
                 "link": "https://www.google.com/maps/search/%E6%A5%A0%E5%A4%A9/@22.4250696,114.2129566?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 337,
+                "reviews": 338,
                 "rating": 4,
                 "main_category": "Gang Shi Kuai Can Dian "
             },
@@ -9578,7 +8055,7 @@
             {
                 "name": "XH-Cafe",
                 "link": "https://www.google.com/maps/search/XH-Cafe/@22.315696799999998,114.17112960000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
+                "reviews": 24,
                 "rating": 4.8,
                 "main_category": "Jiao Se Ban Yan Ka Pei Ting "
             }
@@ -9632,7 +8109,7 @@
         "name": "Mai Dan Gao ",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3,
+        "reviews": 4,
         "competitors": [],
         "website": null,
         "owner": {
@@ -9645,12 +8122,74 @@
         "categories": [
             "Mian Bao Xi Bing Dian "
         ],
-        "rating": 4.3,
+        "rating": 4.5,
         "workday_timing": "09:00-22:30",
         "closed_on": "Open All Days",
         "phone": null,
         "address": "Mai Dan Gao , 580 Nathan Rd, Mong Kok",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/%E9%BA%A5%E8%9B%8B%E7%B3%95/data=!4m7!3m6!1s0x3404011fc7eeb8dd:0x48431b55c20bfff7!8m2!3d22.3153194!4d114.1703289!16s%2Fg%2F11st8h1s2j!19sChIJ3bjuxx8BBDQR9_8LwlUbQ0g?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJL4W7pnwABDQRjQrHR66qYVE",
+        "name": "Qia Lun Ka Pei Dian ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Cafe Landmark",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Landmark/@22.281081399999998,114.1581367?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 969,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Chart Coffee",
+                "link": "https://www.google.com/maps/search/Chart+Coffee/@22.283943999999998,114.1555478?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 79,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "THE MATCHA TOKYO",
+                "link": "https://www.google.com/maps/search/THE+MATCHA+TOKYO/@22.2829917,114.15526159999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 4.3,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Cafe de Flore",
+                "link": "https://www.google.com/maps/search/Cafe+de+Flore/@22.2837207,114.15471529999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Lan Zhi Ka Pei ",
+                "link": "https://www.google.com/maps/search/%E5%85%B0%E8%8A%9D%E5%92%96%E5%95%A1/@22.283783099999997,114.1558955?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Qia Lun Ka Pei Dian  (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U34kRcdnRf4CKw6KS4z1tg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=240.57516&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Zhong Huan Huang Hou Da Dao Zhong 118Hao Qia Lun Ka Pei Dian ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%E5%8D%A1%E5%80%AB%E5%92%96%E5%95%A1%E5%BA%97/data=!4m7!3m6!1s0x3404007ca6bb852f:0x5161aaae47c70a8d!8m2!3d22.2836316!4d114.1546414!16s%2Fg%2F119tv2l4c!19sChIJL4W7pnwABDQRjQrHR66qYVE?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

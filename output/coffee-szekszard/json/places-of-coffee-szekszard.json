@@ -4,12 +4,12 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 3499,
+        "reviews": 3503,
         "competitors": [
             {
                 "name": "Langos Bufe",
                 "link": "https://www.google.com/maps/search/L%C3%A1ngos+B%C3%BCf%C3%A9/@46.344454600000006,18.7111075?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 391,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -48,7 +48,10 @@
         ],
         "rating": 4,
         "workday_timing": "07:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Szekszard, McDonald's, Tartsay Vilmos u. 42, 7100 Xiong Ya Li ",
         "review_keywords": [],
@@ -59,12 +62,12 @@
         "name": "Tesco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2305,
+        "reviews": 2308,
         "competitors": [
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@46.3455468,18.709480499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2301,
+                "reviews": 2304,
                 "rating": 4.3,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -84,7 +87,7 @@
             },
             {
                 "name": "PatikaPlus Gyogyszertar",
-                "link": "https://www.google.com/maps/search/PatikaPlus+Gy%C3%B3gyszert%C3%A1r/@46.331433399999995,18.7033597?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/PatikaPlus+Gy%C3%B3gyszert%C3%A1r/@46.3304185,18.7060526?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 11,
                 "rating": 4.8,
                 "main_category": "Yao Fang "
@@ -110,7 +113,10 @@
         ],
         "rating": 3.9,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Szekszard, Tesco, Tartsay Vilmos u. 40, 7100 Xiong Ya Li ",
         "review_keywords": [],
@@ -121,19 +127,19 @@
         "name": "INTERSPAR Hipermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2302,
+        "reviews": 2304,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@46.330228399999996,18.7057534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2305,
+                "reviews": 2307,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "Park Center",
                 "link": "https://www.google.com/maps/search/Park+Center/@46.330674099999996,18.702098700000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1267,
+                "reviews": 1268,
                 "rating": 4.4,
                 "main_category": "Gou Wu Zhong Xin "
             },
@@ -153,7 +159,7 @@
             },
             {
                 "name": "PatikaPlus Gyogyszertar",
-                "link": "https://www.google.com/maps/search/PatikaPlus+Gy%C3%B3gyszert%C3%A1r/@46.331433399999995,18.7033597?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/PatikaPlus+Gy%C3%B3gyszert%C3%A1r/@46.3304185,18.7060526?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 11,
                 "rating": 4.8,
                 "main_category": "Yao Fang "
@@ -173,7 +179,10 @@
         ],
         "rating": 4.3,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 823 7497",
         "address": "Szekszard, INTERSPAR Hipermarket, Tartsay Vilmos u. 9, 7100 Xiong Ya Li ",
         "review_keywords": [
@@ -189,19 +198,19 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1785,
+        "reviews": 1783,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@46.330228399999996,18.7057534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2305,
+                "reviews": 2307,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "PENNY Szekszard",
                 "link": "https://www.google.com/maps/search/PENNY+Szeksz%C3%A1rd/@46.3350548,18.699431399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 847,
+                "reviews": 848,
                 "rating": 4.3,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -234,7 +243,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Szekszard, Lidl, Beri Balogh Adam u. 94/B, 7100 Xiong Ya Li ",
         "review_keywords": [],
@@ -257,7 +270,7 @@
             {
                 "name": "icie BAKERY",
                 "link": "https://www.google.com/maps/search/icie+BAKERY/@46.3460673,18.703161100000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
+                "reviews": 120,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -313,14 +326,14 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@46.330228399999996,18.7057534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2305,
+                "reviews": 2307,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@46.3455468,18.709480499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2301,
+                "reviews": 2304,
                 "rating": 4.3,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -371,7 +384,7 @@
         "name": "Takler Kuria Kft.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 782,
+        "reviews": 784,
         "competitors": [],
         "website": "http://www.taklerkuria.hu/",
         "owner": {
@@ -462,11 +475,92 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 74 311 153",
         "address": "Szekszard, Prim Confectionery, Kolcsey ltp. 21, 7100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Prim+Confectionery/data=!4m7!3m6!1s0x4742ee74e1812bad:0xc1ce49ef98ba9fa7!8m2!3d46.351002!4d18.7057591!16s%2Fg%2F1tg8hj3d!19sChIJrSuB4XTuQkcRp5-6mO9JzsE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJrZvkTHTuQkcRFZF1i9GajzQ",
+        "name": "PizzAma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 725,
+        "competitors": [
+            {
+                "name": "Szasz Etterem",
+                "link": "https://www.google.com/maps/search/Sz%C3%A1sz+%C3%89tterem/@46.348964599999995,18.6993217?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1329,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Aranykulacs Kisvendeglo",
+                "link": "https://www.google.com/maps/search/Aranykulacs+Kisvend%C3%A9gl%C5%91/@46.3535648,18.697660799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1271,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Zrinyi Sorkert Etterem",
+                "link": "https://www.google.com/maps/search/Zr%C3%ADnyi+S%C3%B6rkert+%C3%89tterem/@46.3515547,18.7082813?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 636,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Merops Etterem",
+                "link": "https://www.google.com/maps/search/Merops+%C3%89tterem/@46.353176999999995,18.702896199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 194,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Heti menu",
+                "link": "https://www.google.com/maps/search/Heti+men%C3%BC/@46.349775099999995,18.7037966?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.pizzama.hu/",
+        "owner": {
+            "id": "117875336243638550882",
+            "name": "PizzAma (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117875336243638550882"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOe9u32n7uEFWu_-qZ08AP7vN-4BvWujzkYqic=w408-h306-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Zheng Liu Ka Pei Ba ",
+            "Kuai Can Dian ",
+            "Bo Bing Can Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 74 314 009",
+        "address": "Szekszard, PizzAma, Augusz Imre u. 9-11, 7100 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 5
+            },
+            {
+                "keyword": "Bi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/PizzAma/data=!4m7!3m6!1s0x4742ee744ce49bad:0x348f9ad18b759115!8m2!3d46.3496392!4d18.7036233!16s%2Fg%2F11b6cmk6b4!19sChIJrZvkTHTuQkcRFZF1i9GajzQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJl4yay6PvQkcRSeuRqGE4ykY",
@@ -478,7 +572,7 @@
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@46.3455468,18.709480499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2301,
+                "reviews": 2304,
                 "rating": 4.3,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -491,7 +585,7 @@
             },
             {
                 "name": "PatikaPlus Gyogyszertar",
-                "link": "https://www.google.com/maps/search/PatikaPlus+Gy%C3%B3gyszert%C3%A1r/@46.331433399999995,18.7033597?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/PatikaPlus+Gy%C3%B3gyszert%C3%A1r/@46.3304185,18.7060526?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 11,
                 "rating": 4.8,
                 "main_category": "Yao Fang "
@@ -524,85 +618,14 @@
         ],
         "rating": 3.9,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Szekszard, Tesco, Arany Janos u. 31, 7100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Tesco/data=!4m7!3m6!1s0x4742efa3cb9a8c97:0x46ca3861a891eb49!8m2!3d46.3452318!4d18.7027523!16s%2Fg%2F1hg4qzy02!19sChIJl4yay6PvQkcRSeuRqGE4ykY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJrZvkTHTuQkcRFZF1i9GajzQ",
-        "name": "PizzAma (Amaryllis)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 723,
-        "competitors": [
-            {
-                "name": "Szasz Etterem",
-                "link": "https://www.google.com/maps/search/Sz%C3%A1sz+%C3%89tterem/@46.348964599999995,18.6993217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1327,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Aranykulacs Kisvendeglo",
-                "link": "https://www.google.com/maps/search/Aranykulacs+Kisvend%C3%A9gl%C5%91/@46.3535648,18.697660799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1269,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Zrinyi Sorkert Etterem",
-                "link": "https://www.google.com/maps/search/Zr%C3%ADnyi+S%C3%B6rkert+%C3%89tterem/@46.3515547,18.7082813?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 636,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Merops Etterem",
-                "link": "https://www.google.com/maps/search/Merops+%C3%89tterem/@46.353176999999995,18.702896199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 194,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Heti menu",
-                "link": "https://www.google.com/maps/search/Heti+men%C3%BC/@46.349775099999995,18.7037966?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://www.pizzama.hu/",
-        "owner": {
-            "id": "117875336243638550882",
-            "name": "PizzAma (Amaryllis) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117875336243638550882"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOe9u32n7uEFWu_-qZ08AP7vN-4BvWujzkYqic=w408-h306-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting ",
-            "Zheng Liu Ka Pei Ba ",
-            "Kuai Can Dian ",
-            "Bo Bing Can Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": "07:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 74 314 009",
-        "address": "Szekszard, PizzAma (Amaryllis), Augusz Imre u. 9-11, 7100 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 5
-            },
-            {
-                "keyword": "Bi ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/PizzAma+%28Amaryllis%29/data=!4m7!3m6!1s0x4742ee744ce49bad:0x348f9ad18b759115!8m2!3d46.3496392!4d18.7036233!16s%2Fg%2F11b6cmk6b4!19sChIJrZvkTHTuQkcRFZF1i9GajzQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJj3xJsHXuQkcRghAw3hu029Y",
@@ -680,14 +703,14 @@
             {
                 "name": "The Coffee House 1927",
                 "link": "https://www.google.com/maps/search/The+Coffee+House+1927/@46.329636699999995,18.699153799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1391,
+                "reviews": 1392,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "PizzAma (Amaryllis)",
-                "link": "https://www.google.com/maps/search/PizzAma+%28Amaryllis%29/@46.3496392,18.7036233?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 722,
+                "name": "PizzAma",
+                "link": "https://www.google.com/maps/search/PizzAma/@46.3496392,18.7036233?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 724,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -701,7 +724,7 @@
             {
                 "name": "icie BAKERY",
                 "link": "https://www.google.com/maps/search/icie+BAKERY/@46.3460673,18.703161100000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
+                "reviews": 120,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -775,7 +798,11 @@
         ],
         "rating": 4.2,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7964",
         "address": "Szekszard, SPAR szupermarket, Szechenyi u. 18-20, 7100 Xiong Ya Li ",
         "review_keywords": [],
@@ -837,7 +864,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 396 1937",
         "address": "Szekszard, Prim Confectionery, Florian u. 5, 7100 Xiong Ya Li ",
         "review_keywords": [],
@@ -853,14 +883,14 @@
             {
                 "name": "Park Center",
                 "link": "https://www.google.com/maps/search/Park+Center/@46.330674099999996,18.702098700000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1267,
+                "reviews": 1268,
                 "rating": 4.4,
                 "main_category": "Gou Wu Zhong Xin "
             },
             {
                 "name": "Pepco",
                 "link": "https://www.google.com/maps/search/Pepco/@46.3452335,18.710616899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 686,
+                "reviews": 687,
                 "rating": 4.4,
                 "main_category": "Fu Zhuang Dian "
             },
@@ -899,7 +929,11 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 443 2390",
         "address": "Szekszard, Ecofamily, Tartsay Vilmos u. 42, 7100 Xiong Ya Li ",
         "review_keywords": [],
@@ -1023,6 +1057,65 @@
         "link": "https://www.google.com/maps/place/CBA/data=!4m7!3m6!1s0x4742ee711dd30c81:0x32fe590a26975256!8m2!3d46.3445589!4d18.7061268!16s%2Fg%2F11bwqbn8r1!19sChIJgQzTHXHuQkcRVlKXJgpZ_jI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJGRHcaf7tQkcR8rFINkE6mKc",
+        "name": "Bardi Car",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 295,
+        "competitors": [
+            {
+                "name": "UNIX Szekszard",
+                "link": "https://www.google.com/maps/search/UNIX+Szeksz%C3%A1rd/@46.36663600000001,18.7051358?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 186,
+                "rating": 4.6,
+                "main_category": "Qi Che Ling Jian Dian "
+            },
+            {
+                "name": "Rendas BT.",
+                "link": "https://www.google.com/maps/search/Rend%C3%A1s+BT./@46.353502999999996,18.701852?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 83,
+                "rating": 4.7,
+                "main_category": "Qi Che Ling Jian Dian "
+            },
+            {
+                "name": "Szakal Metal Autoalkatresz Szekszard",
+                "link": "https://www.google.com/maps/search/Szak%C3%A1l+Metal+Aut%C3%B3alkatr%C3%A9sz+Szeksz%C3%A1rd/@46.3408448,18.710993?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 61,
+                "rating": 4.6,
+                "main_category": "Qi Che Ling Jian Dian "
+            },
+            {
+                "name": "Vajda es Tarsa Kft.",
+                "link": "https://www.google.com/maps/search/Vajda+%C3%A9s+T%C3%A1rsa+Kft./@46.3672093,18.709793899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.6,
+                "main_category": "Qi Che Ling Jian Dian "
+            }
+        ],
+        "website": "https://www.bardiauto.hu/",
+        "owner": {
+            "id": "103133704184611623250",
+            "name": "Bardi Car (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103133704184611623250"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnp6opYKGltw3-E1SZ_5NfCwS3ji26YGm5Mlyh=w408-h305-k-no",
+        "main_category": "Qi Che Ling Jian Dian ",
+        "categories": [
+            "Qi Che Ling Jian Dian ",
+            "Dian Dan Che Pei Jian Dian ",
+            "Huo Che Ling Jian Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:30-17:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 74 312 184",
+        "address": "Szekszard, Bardi Car, Palanki ut 5, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bardi+Car/data=!4m7!3m6!1s0x4742edfe69dc1119:0xa7983a413648b1f2!8m2!3d46.3672546!4d18.709852!16s%2Fg%2F1tcxylsm!19sChIJGRHcaf7tQkcR8rFINkE6mKc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJuR3PgHnuQkcROCNLDJcRtqU",
         "name": "Tom Market Szekszard, Beri Balogh Adam utca",
         "description": null,
@@ -1032,7 +1125,7 @@
             {
                 "name": "PENNY Szekszard",
                 "link": "https://www.google.com/maps/search/PENNY+Szeksz%C3%A1rd/@46.3350548,18.699431399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 847,
+                "reviews": 848,
                 "rating": 4.3,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -1087,7 +1180,7 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@46.3310068,18.7028103?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3497,
+                "reviews": 3500,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
@@ -1245,7 +1338,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 178 3701",
         "address": "Szekszard, Prim Cukraszda, Kiskorzo ter 1, 7100 Xiong Ya Li ",
         "review_keywords": [
@@ -1305,6 +1401,70 @@
         "link": "https://www.google.com/maps/place/Tom+Market/data=!4m7!3m6!1s0x4742eddc5f479f9d:0xc004a077f75ba416!8m2!3d46.3509431!4d18.6905988!16s%2Fg%2F11c2q4pj2p!19sChIJnZ9HX9ztQkcRFqRb93egBMA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJHyhvlHbuQkcRaF8_5Rjn2VQ",
+        "name": "Coop Szuper Plusz (7.sz. ABC)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 126,
+        "competitors": [
+            {
+                "name": "CBA",
+                "link": "https://www.google.com/maps/search/CBA/@46.344558899999996,18.7061268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 299,
+                "rating": 3.9,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "78.Sz. Maxi Coop Abc",
+                "link": "https://www.google.com/maps/search/78.Sz.+Maxi+Coop+Abc/@46.3585314,18.7033724?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 188,
+                "rating": 3.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop ABC Aruhaz",
+                "link": "https://www.google.com/maps/search/Coop+ABC+%C3%81ruh%C3%A1z/@46.352171999999996,18.693172?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop Abc",
+                "link": "https://www.google.com/maps/search/Coop+Abc/@46.3443058,18.7015369?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 3.8,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "VeZo abc",
+                "link": "https://www.google.com/maps/search/VeZo+abc/@46.3222836,18.6948293?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": "http://www.coop.hu/",
+        "owner": {
+            "id": null,
+            "name": "Coop Szuper Plusz (7.sz. ABC) (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeytNs-Low-wDc273QmpMmvX-OoWEkP3rvLIXd=w408-h272-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-19:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 74 412 043",
+        "address": "Szekszard, Coop Szuper Plusz (7.sz. ABC), Arany Janos u. 17, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coop+Szuper+Plusz+%287.sz.+ABC%29/data=!4m7!3m6!1s0x4742ee76946f281f:0x54d9e718e53f5f68!8m2!3d46.3471345!4d18.703008!16s%2Fg%2F1thhj8r0!19sChIJHyhvlHbuQkcRaF8_5Rjn2VQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ0W5YjIbuQkcR_garUEeu0So",
         "name": "Tom Market Szekszard, Csatari utca",
         "description": null,
@@ -1360,18 +1520,18 @@
         "reviews": 112,
         "competitors": [
             {
+                "name": "PizzAma",
+                "link": "https://www.google.com/maps/search/PizzAma/@46.3496392,18.7036233?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 724,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
                 "name": "Mezes Madzag",
                 "link": "https://www.google.com/maps/search/M%C3%A9zes+Madzag/@46.3413404,18.701346?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 723,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "PizzAma (Amaryllis)",
-                "link": "https://www.google.com/maps/search/PizzAma+%28Amaryllis%29/@46.3496392,18.7036233?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 722,
-                "rating": 4.5,
-                "main_category": "Can Ting "
             },
             {
                 "name": "downtown Cafe",
@@ -1383,7 +1543,7 @@
             {
                 "name": "Prim Cukraszda",
                 "link": "https://www.google.com/maps/search/Prim+Cukr%C3%A1szda/@46.3495942,18.7024422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 169,
                 "rating": 4.6,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -1534,7 +1694,7 @@
         "name": "Nemzeti Dohanybolt - Werker Tabak Bt.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 95,
+        "reviews": 96,
         "competitors": [],
         "website": "http://nemzetidohany.hu/",
         "owner": {
@@ -1591,18 +1751,18 @@
         "reviews": 32,
         "competitors": [
             {
+                "name": "PizzAma",
+                "link": "https://www.google.com/maps/search/PizzAma/@46.3496392,18.7036233?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 724,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
                 "name": "Mezes Madzag",
                 "link": "https://www.google.com/maps/search/M%C3%A9zes+Madzag/@46.3413404,18.701346?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 723,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "PizzAma (Amaryllis)",
-                "link": "https://www.google.com/maps/search/PizzAma+%28Amaryllis%29/@46.3496392,18.7036233?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 722,
-                "rating": 4.5,
-                "main_category": "Can Ting "
             },
             {
                 "name": "Zsitvai Cukraszda",
@@ -1651,12 +1811,12 @@
         "name": "Zsitvai Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 20,
+        "reviews": 21,
         "competitors": [
             {
                 "name": "Prim Cukraszda",
                 "link": "https://www.google.com/maps/search/Prim+Cukr%C3%A1szda/@46.3495942,18.7024422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 169,
                 "rating": 4.6,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -1917,6 +2077,34 @@
         "link": "https://www.google.com/maps/place/Tom+Market+Szeksz%C3%A1rd,+Kadarka+utca/data=!4m7!3m6!1s0x4742ed9a8181803f:0xa45f0d2750469c67!8m2!3d46.3581785!4d18.701748!16s%2Fg%2F11s7shqvxc!19sChIJP4CBgZrtQkcRZ5xGUCcNX6Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ4xUEbf_vQkcR0dXr4prTUNg",
+        "name": "Nemzeti Dohanybolt Szekszard",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "competitors": [],
+        "website": "http://nemzetidohany.hu/",
+        "owner": {
+            "id": null,
+            "name": "Nemzeti Dohanybolt Szekszard (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNdffYZ2V8IzY2SWsecK6Iw9yIWMX6tSF0ff9BN=w408-h725-k-no",
+        "main_category": "Yan Cao Dian ",
+        "categories": [
+            "Yan Cao Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:30-18:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Szekszard, Nemzeti Dohanybolt Szekszard, Szechenyi 29 32, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Szeksz%C3%A1rd/data=!4m7!3m6!1s0x4742efff6d0415e3:0xd850d39ae2ebd5d1!8m2!3d46.3494155!4d18.7016534!16s%2Fg%2F11gjhc6bsh!19sChIJ4xUEbf_vQkcR0dXr4prTUNg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJC7ROQN_tQkcRIZr3Guhc4Tk",
         "name": "Szekszardi Ipari Park Kft.",
         "description": null,
@@ -1976,6 +2164,61 @@
         "link": "https://www.google.com/maps/place/Szeksz%C3%A1rdi+Ipari+Park+Kft./data=!4m7!3m6!1s0x4742eddf404eb40b:0x39e15ce81af79a21!8m2!3d46.3492368!4d18.6984735!16s%2Fg%2F12qgkwx6t!19sChIJC7ROQN_tQkcRIZr3Guhc4Tk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJD7YPXIfvQkcRdnx01tjq27I",
+        "name": "Lipoti Pekseg Szekszard Tesco",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Tesco",
+                "link": "https://www.google.com/maps/search/Tesco/@46.330228399999996,18.7057534?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2307,
+                "rating": 3.9,
+                "main_category": "Da Xing Chao Ji Shi Chang "
+            },
+            {
+                "name": "Extra Pekseg",
+                "link": "https://www.google.com/maps/search/Extra+P%C3%A9ks%C3%A9g/@46.353435399999995,18.703540099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 121,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Tengelici pekseg",
+                "link": "https://www.google.com/maps/search/Tengelici+p%C3%A9ks%C3%A9g/@46.348225,18.7034584?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pannon Varazs Kft.",
+                "link": "https://www.google.com/maps/search/Pannon+Var%C3%A1zs+Kft./@46.3393407,18.711465?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://www.peksegem.hu/",
+        "owner": {
+            "id": null,
+            "name": "Lipoti Pekseg Szekszard Tesco (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5mN4q-tNhNWdmJRtvAs4v9ZRe0i7p170rRCl2=w426-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 1.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 70 630 2211",
+        "address": "Szekszard, Lipoti Pekseg Szekszard Tesco, Tartsay Vilmos u. 40, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+Szeksz%C3%A1rd+Tesco/data=!4m7!3m6!1s0x4742ef875c0fb60f:0xb2dbead8d6747c76!8m2!3d46.3314334!4d18.7033597!16s%2Fg%2F11sfkwff1k!19sChIJD7YPXIfvQkcRdnx01tjq27I?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJDTuu62DvQkcRfUZUeLY3lU0",
         "name": "SPAR Express OMV",
         "description": null,
@@ -1985,7 +2228,7 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@46.330228399999996,18.7057534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2305,
+                "reviews": 2307,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -2074,7 +2317,7 @@
                 "main_category": "Li Pin Dian "
             }
         ],
-        "website": "https://coffeepaperlove.hu/%23",
+        "website": "https://coffeepaperlove.hu/#",
         "owner": {
             "id": "115180826426851428666",
             "name": "Coffee.Paper.Love. (Ye Zhu )",
@@ -2095,61 +2338,6 @@
         "address": "Szekszard, Coffee.Paper.Love., Vinceller u. 25, 7100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Coffee.Paper.Love./data=!4m7!3m6!1s0x4742ede6a6db4f97:0x8b88ef98c4799d9a!8m2!3d46.3446861!4d18.6957837!16s%2Fg%2F11q4d22fd0!19sChIJl0_bpubtQkcRmp15xJjviIs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJUfru6XXuQkcR16FdQjDe9RE",
-        "name": "Amaretto Plusz Bt.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "PizzAma (Amaryllis)",
-                "link": "https://www.google.com/maps/search/PizzAma+%28Amaryllis%29/@46.3496392,18.7036233?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 722,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Amaretto Cukraszda",
-                "link": "https://www.google.com/maps/search/Amaretto+Cukr%C3%A1szda/@46.348515,18.70128?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.4,
-                "main_category": "Tang Guo Gao Bing Dian "
-            },
-            {
-                "name": "TERASZ Lakasetterem",
-                "link": "https://www.google.com/maps/search/TERASZ+Lak%C3%A1s%C3%A9tterem/@46.3372223,18.6909419?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.2,
-                "main_category": "He Jia Jie Yi Liao Li "
-            },
-            {
-                "name": "Heti menu",
-                "link": "https://www.google.com/maps/search/Heti+men%C3%BC/@46.349775099999995,18.7037966?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://amaretto.hu/",
-        "owner": {
-            "id": "100023768775773769844",
-            "name": "Amaretto Plusz Bt. (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100023768775773769844"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SIZzrDe2JcCXTjM5lU-n-Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=226.27898&pitch=0&thumbfov=100",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": null,
-        "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 74 316 255",
-        "address": "Szekszard, Amaretto Plusz Bt., Garay ter 6, 7100 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Amaretto+Plusz+Bt./data=!4m7!3m6!1s0x4742ee75e9eefa51:0x11f5de30425da1d7!8m2!3d46.348515!4d18.70128!16s%2Fg%2F12qh2rzsc!19sChIJUfru6XXuQkcR16FdQjDe9RE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJWaJlDsjvQkcRK8MYvtcZkzY",
@@ -2203,11 +2391,69 @@
         "link": "https://www.google.com/maps/place/Alisca+Vending+Kft/data=!4m7!3m6!1s0x4742efc80e65a259:0x369319d7be18c32b!8m2!3d46.3514634!4d18.7265415!16s%2Fg%2F11pl0_p98n!19sChIJWaJlDsjvQkcRK8MYvtcZkzY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJUfru6XXuQkcR16FdQjDe9RE",
+        "name": "Amaretto Plusz Bt.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "PizzAma",
+                "link": "https://www.google.com/maps/search/PizzAma/@46.3496392,18.7036233?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 724,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Amaretto Cukraszda",
+                "link": "https://www.google.com/maps/search/Amaretto+Cukr%C3%A1szda/@46.348515,18.70128?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.4,
+                "main_category": "Tang Guo Gao Bing Dian "
+            },
+            {
+                "name": "TERASZ Lakasetterem",
+                "link": "https://www.google.com/maps/search/TERASZ+Lak%C3%A1s%C3%A9tterem/@46.3372223,18.6909419?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.2,
+                "main_category": "He Jia Jie Yi Liao Li "
+            },
+            {
+                "name": "Heti menu",
+                "link": "https://www.google.com/maps/search/Heti+men%C3%BC/@46.349775099999995,18.7037966?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://amaretto.hu/",
+        "owner": {
+            "id": "100023768775773769844",
+            "name": "Amaretto Plusz Bt. (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/100023768775773769844"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SIZzrDe2JcCXTjM5lU-n-Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=226.27898&pitch=0&thumbfov=100",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": null,
+        "workday_timing": "09:00-19:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+36 74 316 255",
+        "address": "Szekszard, Amaretto Plusz Bt., Garay ter 6, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Amaretto+Plusz+Bt./data=!4m7!3m6!1s0x4742ee75e9eefa51:0x11f5de30425da1d7!8m2!3d46.348515!4d18.70128!16s%2Fg%2F12qh2rzsc!19sChIJUfru6XXuQkcR16FdQjDe9RE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJdbvW8nnuQkcR7enri899TuM",
         "name": "Mezes Madzag",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 723,
+        "reviews": 724,
         "competitors": [
             {
                 "name": "Zsitvai Cukraszda",
@@ -2226,7 +2472,7 @@
             {
                 "name": "Prim Cukraszda",
                 "link": "https://www.google.com/maps/search/Prim+Cukr%C3%A1szda/@46.3495942,18.7024422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 169,
                 "rating": 4.6,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -2258,7 +2504,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 494 9407",
         "address": "Szekszard, Mezes Madzag, Beri Balogh Adam u. 42, 7100 Xiong Ya Li ",
         "review_keywords": [
@@ -2293,7 +2542,7 @@
             {
                 "name": "Prim Cukraszda",
                 "link": "https://www.google.com/maps/search/Prim+Cukr%C3%A1szda/@46.3495942,18.7024422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 169,
                 "rating": 4.6,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -2355,14 +2604,14 @@
             {
                 "name": "Stefan Etelbar Szekszard",
                 "link": "https://www.google.com/maps/search/Stef%C3%A1n+%C3%89telb%C3%A1r+Szeksz%C3%A1rd/@46.3493887,18.70556?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 259,
+                "reviews": 260,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "icie BAKERY",
                 "link": "https://www.google.com/maps/search/icie+BAKERY/@46.3460673,18.703161100000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
+                "reviews": 120,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -2398,7 +2647,7 @@
             {
                 "name": "Prim Cukraszda",
                 "link": "https://www.google.com/maps/search/Prim+Cukr%C3%A1szda/@46.3495942,18.7024422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 169,
                 "rating": 4.6,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -2522,7 +2771,7 @@
             {
                 "name": "The Coffee House 1927",
                 "link": "https://www.google.com/maps/search/The+Coffee+House+1927/@46.329636699999995,18.699153799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1391,
+                "reviews": 1392,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2569,6 +2818,8 @@
         "rating": 4.9,
         "workday_timing": "07:00-19:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": null,
@@ -2586,7 +2837,7 @@
             {
                 "name": "The Coffee House 1927",
                 "link": "https://www.google.com/maps/search/The+Coffee+House+1927/@46.329636699999995,18.699153799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1391,
+                "reviews": 1392,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2682,6 +2933,63 @@
         "link": "https://www.google.com/maps/place/Randi+Country+pressz%C3%B3/data=!4m7!3m6!1s0x4742ee7139150e97:0xe13a90c4c135479e!8m2!3d46.3447841!4d18.7056894!16s%2Fg%2F11hbkkb186!19sChIJlw4VOXHuQkcRnkc1wcSQOuE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ05sjEXfuQkcRubVPji2oXkc",
+        "name": "Coop Abc",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "competitors": [
+            {
+                "name": "CBA",
+                "link": "https://www.google.com/maps/search/CBA/@46.344558899999996,18.7061268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 299,
+                "rating": 3.9,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "78.Sz. Maxi Coop Abc",
+                "link": "https://www.google.com/maps/search/78.Sz.+Maxi+Coop+Abc/@46.3585314,18.7033724?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 188,
+                "rating": 3.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop Szuper Plusz (7.sz. ABC)",
+                "link": "https://www.google.com/maps/search/Coop+Szuper+Plusz+%287.sz.+ABC%29/@46.347134499999996,18.703008?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 126,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop ABC Aruhaz",
+                "link": "https://www.google.com/maps/search/Coop+ABC+%C3%81ruh%C3%A1z/@46.352171999999996,18.693172?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coop Abc (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FCmf0oQaYPGB41rcTxOO6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=99.72996&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 3.8,
+        "workday_timing": "06:00-17:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Szekszard, Coop Abc, Beri Balogh Adam u. 2, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coop+Abc/data=!4m7!3m6!1s0x4742ee7711239bd3:0x475ea82d8e4fb5b9!8m2!3d46.3443058!4d18.7015369!16s%2Fg%2F11h23119nw!19sChIJ05sjEXfuQkcRubVPji2oXkc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJSwuUzT3vQkcRu6c7GIgXRU4",
         "name": "The Purple Rabbit Bar & Cafe",
         "description": null,
@@ -2774,7 +3082,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 226 4520",
         "address": "Szekszard, Sarki zoldseges, Kadarka u. 111, 7100 Xiong Ya Li ",
         "review_keywords": [],
@@ -2800,11 +3111,71 @@
         ],
         "rating": 4.2,
         "workday_timing": "05:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 70 635 5450",
         "address": "Szekszard, Troja Pekseg, Beri Balogh Adam u. 102, 7100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Tr%C3%B3ja+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4742ef5ab1df7717:0x5aa9b78cb5be29c9!8m2!3d46.333283!4d18.7002663!16s%2Fg%2F11vdrkxs2h!19sChIJF3ffsVrvQkcRySm-tYy3qVo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9-Kx41XvQkcR_9ARZnSNZSc",
+        "name": "VeZo abc",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "competitors": [
+            {
+                "name": "CBA",
+                "link": "https://www.google.com/maps/search/CBA/@46.344558899999996,18.7061268?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 299,
+                "rating": 3.9,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop Szuper Plusz (7.sz. ABC)",
+                "link": "https://www.google.com/maps/search/Coop+Szuper+Plusz+%287.sz.+ABC%29/@46.347134499999996,18.703008?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 126,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop ABC Aruhaz",
+                "link": "https://www.google.com/maps/search/Coop+ABC+%C3%81ruh%C3%A1z/@46.352171999999996,18.693172?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop Abc",
+                "link": "https://www.google.com/maps/search/Coop+Abc/@46.3443058,18.7015369?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 3.8,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "VeZo abc (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5ldjR8hAR6QuUO6TvIIHDlOZiYOwo-fDJTnGj=w408-h725-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-11:00, 14:00-18:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Szekszard, VeZo abc, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/VeZo+abc/data=!4m7!3m6!1s0x4742ef55e3b1e2f7:0x27658d746611d0ff!8m2!3d46.3222836!4d18.6948293!16s%2Fg%2F11h79n9vn8!19sChIJ9-Kx41XvQkcR_9ARZnSNZSc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ61DJpn7uQkcR8IQuQlR487g",
@@ -2871,7 +3242,7 @@
             {
                 "name": "The Coffee House 1927",
                 "link": "https://www.google.com/maps/search/The+Coffee+House+1927/@46.329636699999995,18.699153799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1391,
+                "reviews": 1392,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2885,7 +3256,7 @@
             {
                 "name": "icie BAKERY",
                 "link": "https://www.google.com/maps/search/icie+BAKERY/@46.3460673,18.703161100000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
+                "reviews": 120,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -2935,14 +3306,14 @@
             {
                 "name": "Szasz Etterem",
                 "link": "https://www.google.com/maps/search/Sz%C3%A1sz+%C3%89tterem/@46.348964599999995,18.6993217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1327,
+                "reviews": 1329,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Aranykulacs Kisvendeglo",
                 "link": "https://www.google.com/maps/search/Aranykulacs+Kisvend%C3%A9gl%C5%91/@46.3535648,18.697660799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1269,
+                "reviews": 1271,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -2988,45 +3359,112 @@
         "link": "https://www.google.com/maps/place/TERASZ+Lak%C3%A1s%C3%A9tterem/data=!4m7!3m6!1s0x4742ed7ee8ef560f:0x4cb7f235adabb8a6!8m2!3d46.3372223!4d18.6909419!16s%2Fg%2F11smrwh0cg!19sChIJD1bv6H7tQkcRprirrTXyt0w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJqyXQ9nLuQkcRxlqm-aLPHPc",
-        "name": "Oazis Bufe",
+        "place_id": "ChIJe9VyFBXvQkcRy-nk-jYVQXw",
+        "name": "Bikacsi Husbolt Szekszard",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 4,
         "competitors": [
             {
-                "name": "Alibi Sorozo",
-                "link": "https://www.google.com/maps/search/Alibi+S%C3%B6r%C3%B6z%C5%91/@46.3309432,18.6981991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 399,
-                "rating": 4.5,
-                "main_category": "Fa Shi Can Ting "
+                "name": "Baromfi es Husbolt",
+                "link": "https://www.google.com/maps/search/Baromfi+%C3%A9s+H%C3%BAsbolt/@46.3498498,18.704192799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 41,
+                "rating": 4.6,
+                "main_category": "Za Huo Dian "
             },
             {
-                "name": "Oazis Diszallatkereskedes",
-                "link": "https://www.google.com/maps/search/O%C3%A1zis+D%C3%ADsz%C3%A1llatkeresked%C3%A9s/@46.3527815,18.703111099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.3,
-                "main_category": "Gou Wu Zhong Xin "
+                "name": "Heberling Husboltok",
+                "link": "https://www.google.com/maps/search/Heberling+H%C3%BAsboltok/@46.349514899999996,18.7009129?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.7,
+                "main_category": "Rou Fan "
+            },
+            {
+                "name": "Bikacsi Husbolt",
+                "link": "https://www.google.com/maps/search/Bik%C3%A1csi+H%C3%BAsbolt/@46.6236532,18.6565154?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Rou Fan "
+            },
+            {
+                "name": "D-Xabi Kft.",
+                "link": "https://www.google.com/maps/search/D-Xabi+Kft./@46.34215700000001,18.703633999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shang Dian "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Oazis Bufe (Ye Zhu )",
+            "name": "Bikacsi Husbolt Szekszard (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-28KbcQqPIAn_CVaQZdmTH4DgU4TQKzTMQi-b=w426-h240-k-no",
-        "main_category": "Pu Tao Jiu Ba ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_QbiBgENSQ76s9y65_ZxsI2tNmdu7qLMEs78S=w408-h306-k-no",
+        "main_category": "Za Huo Dian ",
         "categories": [
-            "Pu Tao Jiu Ba "
+            "Za Huo Dian "
         ],
-        "rating": 4.8,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Szekszard, Oazis Bufe, 7100 Xiong Ya Li ",
+        "rating": 5,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 325 5976",
+        "address": "Szekszard, Bikacsi Husbolt Szekszard, Kolcsey ltp. 28, 7100 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/O%C3%A1zis+B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x4742ee72f6d025ab:0xf71ccfa2f9a65ac6!8m2!3d46.3485525!4d18.7117549!16s%2Fg%2F11f_0vy956!19sChIJqyXQ9nLuQkcRxlqm-aLPHPc?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Bik%C3%A1csi+H%C3%BAsbolt+Szeksz%C3%A1rd/data=!4m7!3m6!1s0x4742ef151472d57b:0x7c411536fae4e9cb!8m2!3d46.3500886!4d18.705689!16s%2Fg%2F11kbnp9mgj!19sChIJe9VyFBXvQkcRy-nk-jYVQXw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_1yYJtPvQkcRsABRjykYuhw",
+        "name": "Tengelici pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Idesuss pekseg",
+                "link": "https://www.google.com/maps/search/Ides%C3%BCss+p%C3%A9ks%C3%A9g/@46.350911499999995,18.698781099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 129,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Extra Pekseg",
+                "link": "https://www.google.com/maps/search/Extra+P%C3%A9ks%C3%A9g/@46.353435399999995,18.703540099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 121,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Lipoti Pekseg",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g/@46.350195299999996,18.7025515?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 106,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Tengelici pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkqjbWJN_HFDsHW84Gn8UKntF7bl1zF_6KdUUr=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Szekszard, Tengelici pekseg, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tengelici+p%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4742efd326985cff:0x1cba18298f5100b0!8m2!3d46.348225!4d18.7034584!16s%2Fg%2F11p66qwflb!19sChIJ_1yYJtPvQkcRsABRjykYuhw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJzTu4sSfvQkcRkhuGEjNrmKE",
@@ -3053,6 +3491,34 @@
         "address": "Szekszard, Nemzeti Dohanybolt, Rakoczi u. 27, 7100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt/data=!4m7!3m6!1s0x4742ef27b1b83bcd:0xa1986b3312861b92!8m2!3d46.3539636!4d18.7034915!16s%2Fg%2F11t6ml4kvz!19sChIJzTu4sSfvQkcRkhuGEjNrmKE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJIQslOyDvQkcRTlwq1_ghOdo",
+        "name": "Nemzeti Dohanybolt / Tobacco shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Nemzeti Dohanybolt / Tobacco shop (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNy-hw_3d47DGLnSQAtB1FtlsiDbe98gvPKHyEY=w408-h544-k-no",
+        "main_category": "Yan Cao Dian ",
+        "categories": [
+            "Yan Cao Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-20:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 74 506 166",
+        "address": "Szekszard, Nemzeti Dohanybolt / Tobacco shop, Kolcsey ltp. 1, 7100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+%2F+Tobacco+shop/data=!4m7!3m6!1s0x4742ef203b250b21:0xda3921f8d72a5c4e!8m2!3d46.3497953!4d18.7053435!16s%2Fg%2F11r2llkhb_!19sChIJIQslOyDvQkcRTlwq1_ghOdo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJdYzyTOPtQkcRz__HmmYxRpE",
@@ -3119,7 +3585,7 @@
             {
                 "name": "The Coffee House 1927",
                 "link": "https://www.google.com/maps/search/The+Coffee+House+1927/@46.329636699999995,18.699153799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1391,
+                "reviews": 1392,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3133,7 +3599,7 @@
             {
                 "name": "icie BAKERY",
                 "link": "https://www.google.com/maps/search/icie+BAKERY/@46.3460673,18.703161100000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
+                "reviews": 120,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -3163,69 +3629,5 @@
         "address": "Szekszard, Capsulescaffe, Keramia u., 7100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Capsulescaffe/data=!4m7!3m6!1s0x4742ee83775d233b:0x1708b344dd4619dd!8m2!3d46.3256972!4d18.6934736!16s%2Fg%2F11h460wh5l!19sChIJOyNdd4PuQkcR3RlG3USzCBc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ9eC-eH3uQkcR26-iY4YqSC0",
-        "name": "Privat Mini Abc",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Coop Szuper Plusz (7.sz. ABC)",
-                "link": "https://www.google.com/maps/search/Coop+Szuper+Plusz+%287.sz.+ABC%29/@46.347134499999996,18.703008?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Coop ABC Aruhaz",
-                "link": "https://www.google.com/maps/search/Coop+ABC+%C3%81ruh%C3%A1z/@46.352171999999996,18.693172?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Coop Abc",
-                "link": "https://www.google.com/maps/search/Coop+Abc/@46.3443058,18.7015369?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 3.8,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "VeZo abc",
-                "link": "https://www.google.com/maps/search/VeZo+abc/@46.3222836,18.6948293?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Parasztai ABC",
-                "link": "https://www.google.com/maps/search/Par%C3%A1sztai+ABC/@46.3632159,18.7024146?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Privat Mini Abc (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q5b_lQar53MdosXYjyvZFw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=97.57065&pitch=0&thumbfov=100",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": null,
-        "workday_timing": "06:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Szekszard, Privat Mini Abc, Beri Balogh Adam u. 102, 7100 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Priv%C3%A1t+Mini+Abc/data=!4m7!3m6!1s0x4742ee7d78bee0f5:0x2d482a8663a2afdb!8m2!3d46.3333159!4d18.7001226!16s%2Fg%2F11gm85fvmt!19sChIJ9eC-eH3uQkcR26-iY4YqSC0?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

@@ -4,19 +4,19 @@
         "name": "Centro Comercial Las Huertas",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3145,
+        "reviews": 3147,
         "competitors": [
             {
                 "name": "Parque Comercial Arambol",
                 "link": "https://www.google.com/maps/search/Parque+Comercial+Arambol/@42.0126663,-4.5192277999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3325,
+                "reviews": 3327,
                 "rating": 4,
                 "main_category": "Gou Wu Zhong Xin "
             },
             {
                 "name": "Carrefour",
                 "link": "https://www.google.com/maps/search/Carrefour/@41.991701299999995,-4.5163991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2926,
+                "reviews": 2927,
                 "rating": 4,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -30,7 +30,7 @@
             {
                 "name": "TEDi Comercio S.L.U.",
                 "link": "https://www.google.com/maps/search/TEDi+Comercio+S.L.U./@41.9910067,-4.5167122?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 170,
+                "reviews": 172,
                 "rating": 3.6,
                 "main_category": "Jia Ju Yong Pin Dian "
             },
@@ -63,7 +63,9 @@
         ],
         "rating": 3.9,
         "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+34 979 71 12 98",
         "address": "Centro Comercial Las Huertas, Av. de Madrid, 37, 34004 Palencia, Xi Ban Ya ",
         "review_keywords": [
@@ -104,14 +106,14 @@
             {
                 "name": "Cerveceria Flandes",
                 "link": "https://www.google.com/maps/search/Cervecer%C3%ADa+Flandes/@42.0119076,-4.5325903?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1817,
+                "reviews": 1820,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Cerveceria Boulevar",
                 "link": "https://www.google.com/maps/search/Cervecer%C3%ADa+Boulevar/@42.0198642,-4.5307205999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1158,
+                "reviews": 1157,
                 "rating": 4.1,
                 "main_category": "Pi Jiu Guan "
             },
@@ -125,14 +127,14 @@
             {
                 "name": "La Cerveceria San Jose",
                 "link": "https://www.google.com/maps/search/La+Cervecer%C3%ADa+San+Jos%C3%A9/@42.0001657,-4.523974?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 435,
                 "rating": 4.2,
                 "main_category": "Pi Jiu Guan "
             },
             {
                 "name": "Cerveceria Sector Eight",
                 "link": "https://www.google.com/maps/search/Cerveceria+Sector+Eight/@42.012904899999995,-4.5162036?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 354,
+                "reviews": 355,
                 "rating": 4.3,
                 "main_category": "Pi Jiu Guan "
             }
@@ -161,19 +163,19 @@
                 "count": 19
             },
             {
+                "keyword": "Fu You ",
+                "count": 13
+            },
+            {
+                "keyword": "Leng ",
+                "count": 10
+            },
+            {
                 "keyword": "Mi ",
                 "count": 6
             },
             {
                 "keyword": "Wu Ding ",
-                "count": 6
-            },
-            {
-                "keyword": "Bai Fa ",
-                "count": 6
-            },
-            {
-                "keyword": "Jiao Yu ",
                 "count": 6
             }
         ],
@@ -184,7 +186,7 @@
         "name": "Cafeteria Stella",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1434,
+        "reviews": 1436,
         "competitors": [
             {
                 "name": "Habana Cafeteria en Palencia",
@@ -203,7 +205,7 @@
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -217,7 +219,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             }
@@ -249,11 +251,11 @@
                 "count": 26
             },
             {
-                "keyword": "Xin ",
+                "keyword": "Wan Can ",
                 "count": 19
             },
             {
-                "keyword": "Wan Can ",
+                "keyword": "Xin ",
                 "count": 19
             },
             {
@@ -268,6 +270,100 @@
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Stella/data=!4m7!3m6!1s0xd47b03774eada77:0xa38a101e221d2748!8m2!3d42.0060979!4d-4.5303737!16s%2Fg%2F1q5bmqnhz!19sChIJd9rqdDewRw0RSCcdIh4QiqM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ--xNjsWxRw0RsUJ9m3ysI8w",
+        "name": "Super Agropal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1295,
+        "competitors": [
+            {
+                "name": "Agropal Grupo Alimentario",
+                "link": "https://www.google.com/maps/search/Agropal+Grupo+Alimentario/@42.0047159,-4.5112761?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 311,
+                "rating": 4.2,
+                "main_category": "Nong Ye He Zuo She "
+            },
+            {
+                "name": "Agrodepa S.L.",
+                "link": "https://www.google.com/maps/search/Agrodepa+S.L./@42.0038042,-4.5106448?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 63,
+                "rating": 4.3,
+                "main_category": "Yuan Yi Dian "
+            },
+            {
+                "name": "Lacteas Iberpal, S.L",
+                "link": "https://www.google.com/maps/search/L%C3%A1cteas+Iberpal%2C+S.L/@42.0027273,-4.5106849?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 2.2,
+                "main_category": "Zhi Shi Zhuan Mai Dian "
+            },
+            {
+                "name": "Agropecuaria Palentina S.c.l.",
+                "link": "https://www.google.com/maps/search/Agropecuaria+Palentina+S.c.l./@42.0027273,-4.5106849?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "Agropal Agrotienda",
+                "link": "https://www.google.com/maps/search/Agropal+Agrotienda/@42.0051071,-4.510081?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": "https://www.superagropal.es/",
+        "owner": {
+            "id": "112028699165331390021",
+            "name": "Super Agropal (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112028699165331390021"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv1TXamwP5JyUDrAS5_JR6XZvpi7e1CODSbwx0=w408-h272-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang ",
+            "Ka Pei Ting "
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:30-21:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+34 979 16 57 27",
+        "address": "Super Agropal, C/ Francia, 52 - Pol. Industrial, C. Francia, 52, 34004 Palencia, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Cai ",
+                "count": 40
+            },
+            {
+                "keyword": "Qi Si ",
+                "count": 27
+            },
+            {
+                "keyword": "Gong Ying ",
+                "count": 15
+            },
+            {
+                "keyword": "Nong Ye ",
+                "count": 14
+            },
+            {
+                "keyword": "Gong Ju ",
+                "count": 10
+            },
+            {
+                "keyword": "Ka Pei Ting ",
+                "count": 8
+            },
+            {
+                "keyword": "Ling Jian ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/S%C3%BAper+Agropal/data=!4m7!3m6!1s0xd47b1c58e4decfb:0xcc23ac7c9b7d42b1!8m2!3d42.0046583!4d-4.5107853!16s%2Fg%2F11c1pkynxt!19sChIJ--xNjsWxRw0RsUJ9m3ysI8w?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJc1oAmQmxRw0RvUgJkeKZTqE",
         "name": "Habana Cafeteria en Palencia",
         "description": null,
@@ -277,28 +373,28 @@
             {
                 "name": "Don Jamon",
                 "link": "https://www.google.com/maps/search/Don+Jam%C3%B3n/@42.010666199999996,-4.5321117?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1720,
+                "reviews": 1721,
                 "rating": 3.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Bar Javi",
                 "link": "https://www.google.com/maps/search/Bar+Javi/@42.0116249,-4.538686?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 724,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
             {
                 "name": "Bocoy",
                 "link": "https://www.google.com/maps/search/Bocoy/@42.0075832,-4.5286434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 444,
+                "reviews": 446,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -374,12 +470,12 @@
         "name": "Babel",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1117,
+        "reviews": 1119,
         "competitors": [
             {
                 "name": "Bar KOPA",
                 "link": "https://www.google.com/maps/search/Bar+KOPA/@42.0063239,-4.5315183999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 528,
+                "reviews": 529,
                 "rating": 4,
                 "main_category": "Can Ting "
             },
@@ -400,7 +496,7 @@
             {
                 "name": "Baguetteria Pablo's",
                 "link": "https://www.google.com/maps/search/Baguetteria+Pablo%27s/@42.0075182,-4.5296379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 325,
+                "reviews": 328,
                 "rating": 4.3,
                 "main_category": "San Wen Zhi "
             },
@@ -449,97 +545,11 @@
         "link": "https://www.google.com/maps/place/Babel/data=!4m7!3m6!1s0xd47b16ac50a8079:0xb0665913e36d66cb!8m2!3d42.0070172!4d-4.5280508!16s%2Fg%2F11h3k78qqf!19sChIJeYAKxWqxRw0Ry2Zt4xNZZrA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJo7KT1YmwRw0RpV9Uk2u_7ek",
-        "name": "Venta Zapatones",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 918,
-        "competitors": [
-            {
-                "name": "Mano",
-                "link": "https://www.google.com/maps/search/Ma%C3%B1o/@42.009429,-4.5333654999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1672,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Restaurante Cerveceria Las Hurdes",
-                "link": "https://www.google.com/maps/search/Restaurante+Cervecer%C3%ADa+Las+Hurdes/@42.0029296,-4.5224060999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 695,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "El Chaval de Lorenzo",
-                "link": "https://www.google.com/maps/search/El+Chaval+de+Lorenzo/@42.0061073,-4.5302063?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 652,
-                "rating": 3.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Bar KOPA",
-                "link": "https://www.google.com/maps/search/Bar+KOPA/@42.0063239,-4.5315183999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 528,
-                "rating": 4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Restaurante Chapo",
-                "link": "https://www.google.com/maps/search/Restaurante+Chap%C3%B3/@42.0136915,-4.5329104?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://zapatones.es/",
-        "owner": {
-            "id": "100436694112034538808",
-            "name": "Venta Zapatones (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100436694112034538808"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTGmb7CaRwkvF06R2nPOxTRBjaVqu6v-qGBgb_=w408-h544-k-no",
-        "main_category": "Jiu Ba Ba Fang ",
-        "categories": [
-            "Jiu Ba Ba Fang ",
-            "Ka Pei Ting "
-        ],
-        "rating": 3.9,
-        "workday_timing": "12:00-18:00",
-        "closed_on": [
-            "Xing Qi Er "
-        ],
-        "phone": "+34 979 18 25 79",
-        "address": "Venta Zapatones, Ctra. de Carrion, 4, 34005 Palencia, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Xiao Hai ",
-                "count": 97
-            },
-            {
-                "keyword": "Ting Che Chang ",
-                "count": 13
-            },
-            {
-                "keyword": "Dan Tiao Chuang ",
-                "count": 13
-            },
-            {
-                "keyword": "Wen Chong ",
-                "count": 10
-            },
-            {
-                "keyword": "Wan Can ",
-                "count": 8
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Venta+Zapatones/data=!4m7!3m6!1s0xd47b089d593b2a3:0xe9edbf6b93545fa5!8m2!3d42.038406!4d-4.5592341!16s%2Fg%2F11cm04d7q0!19sChIJo7KT1YmwRw0RpV9Uk2u_7ek?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJOZpaQjKwRw0RzYFalO_y-Dg",
         "name": "Bariloche",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 737,
+        "reviews": 738,
         "competitors": [
             {
                 "name": "Babel",
@@ -565,8 +575,8 @@
             {
                 "name": "Restaurante Chapo",
                 "link": "https://www.google.com/maps/search/Restaurante+Chap%C3%B3/@42.0136915,-4.5329104?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
-                "rating": 4.2,
+                "reviews": 309,
+                "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
@@ -641,21 +651,21 @@
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Black Cat Bar",
                 "link": "https://www.google.com/maps/search/Black+Cat+Bar/@42.009043399999996,-4.5354689?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 552,
+                "reviews": 553,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Bianco",
                 "link": "https://www.google.com/maps/search/Bianco/@42.013631499999995,-4.536909100000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 469,
+                "reviews": 471,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -750,7 +760,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -764,8 +774,8 @@
             {
                 "name": "Cafe Bar El Batan",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+El+Bat%C3%A1n/@42.0040553,-4.5298099?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 4.5,
+                "reviews": 60,
+                "rating": 4.6,
                 "main_category": "Jiu Ba "
             }
         ],
@@ -828,7 +838,7 @@
         "name": "Cafe de Olimpia",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 650,
+        "reviews": 651,
         "competitors": [
             {
                 "name": "Habana Cafeteria en Palencia",
@@ -919,12 +929,12 @@
         "name": "Happy",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 644,
+        "reviews": 646,
         "competitors": [
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -971,15 +981,15 @@
         "review_keywords": [
             {
                 "keyword": "Tian ",
-                "count": 32
+                "count": 33
             },
             {
                 "keyword": "Nai Xi ",
-                "count": 31
+                "count": 32
             },
             {
                 "keyword": "Can Bao ",
-                "count": 24
+                "count": 25
             },
             {
                 "keyword": "Ti Ji ",
@@ -993,19 +1003,19 @@
         "name": "Cafe Bar La Galeria",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 592,
+        "reviews": 594,
         "competitors": [
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
             {
                 "name": "Bar Cafe 979, Terraza, Raciones",
                 "link": "https://www.google.com/maps/search/Bar+Caf%C3%A9+979%2C+Terraza%2C+Raciones/@42.0201785,-4.5316787?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 588,
+                "reviews": 589,
                 "rating": 4.4,
                 "main_category": "Pi Jiu Guan "
             },
@@ -1085,7 +1095,7 @@
         "name": "Bianco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 469,
+        "reviews": 473,
         "competitors": [
             {
                 "name": "Habana Cafeteria en Palencia",
@@ -1097,7 +1107,7 @@
             {
                 "name": "Cuatro Gatos",
                 "link": "https://www.google.com/maps/search/Cuatro+Gatos/@42.019168,-4.5307301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 731,
+                "reviews": 732,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1118,7 +1128,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             }
@@ -1178,7 +1188,7 @@
         "name": "Cafe Bar Oxford",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 449,
+        "reviews": 450,
         "competitors": [
             {
                 "name": "Cafe Bar Orly",
@@ -1190,7 +1200,7 @@
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
@@ -1264,7 +1274,7 @@
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
@@ -1285,7 +1295,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -1349,6 +1359,101 @@
             }
         ],
         "link": "https://www.google.com/maps/place/GLAM+Caf%C3%A9/data=!4m7!3m6!1s0xd47b03440051ae3:0xb84853ba42369e10!8m2!3d42.0052158!4d-4.5250372!16s%2Fg%2F11c1pgp1vr!19sChIJ4xoFQDSwRw0REJ42QrpTSLg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJITehe0iwRw0RHxsImtDbK3E",
+        "name": "Cafeteria Marieta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 340,
+        "competitors": [
+            {
+                "name": "Cafeteria Stella",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1435,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Happy",
+                "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 645,
+                "rating": 4.4,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "Cafeteria La Huerta",
+                "link": "https://www.google.com/maps/search/Cafeteria+La+Huerta/@42.0081913,-4.5265034?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 111,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe la Lastra",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+la+Lastra/@42.0159348,-4.5360936999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 34,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Bambu",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Bamb%C3%BA/@41.9976104,-4.5217712?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://turismo.aytopalencia.es/es/poi/cafeter%25C3%25ADa-marieta",
+        "owner": {
+            "id": "103293533698732492912",
+            "name": "Cafeteria Marieta (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103293533698732492912"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3xzysyXx47aK0ZrzBNJnDRu00AgiRGRx3KIfQ=w408-h247-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 3.5,
+        "workday_timing": "06:30-00:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Cafeteria Marieta, C. Jose Zorrilla, 1, 34001 Palencia, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 27
+            },
+            {
+                "keyword": "tapas",
+                "count": 18
+            },
+            {
+                "keyword": "Hong Jiu ",
+                "count": 7
+            },
+            {
+                "keyword": "Tu Si ",
+                "count": 5
+            },
+            {
+                "keyword": "Fan Qie ",
+                "count": 5
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 4
+            },
+            {
+                "keyword": "Huo Tui ",
+                "count": 4
+            },
+            {
+                "keyword": "Bei ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Marieta/data=!4m7!3m6!1s0xd47b0487ba13721:0x712bdbd09a081b1f!8m2!3d42.0108138!4d-4.5311217!16s%2Fg%2F1vfn7zph!19sChIJITehe0iwRw0RHxsImtDbK3E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJf8hQJESwRw0RVqom7qGuh48",
@@ -1444,101 +1549,6 @@
         "link": "https://www.google.com/maps/place/Pasteler%C3%ADa+Polo/data=!4m7!3m6!1s0xd47b0442450c87f:0x8f87aea1ee26aa56!8m2!3d42.0137326!4d-4.5347338!16s%2Fg%2F1z44b85jd!19sChIJf8hQJESwRw0RVqom7qGuh48?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJITehe0iwRw0RHxsImtDbK3E",
-        "name": "Cafeteria Marieta",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 339,
-        "competitors": [
-            {
-                "name": "Cafeteria Stella",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Happy",
-                "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
-                "rating": 4.4,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Cafeteria La Huerta",
-                "link": "https://www.google.com/maps/search/Cafeteria+La+Huerta/@42.0081913,-4.5265034?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 111,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe la Lastra",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+la+Lastra/@42.0159348,-4.5360936999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 34,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Bambu",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Bamb%C3%BA/@41.9976104,-4.5217712?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://turismo.aytopalencia.es/es/poi/cafeter%25C3%25ADa-marieta",
-        "owner": {
-            "id": "103293533698732492912",
-            "name": "Cafeteria Marieta (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103293533698732492912"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3xzysyXx47aK0ZrzBNJnDRu00AgiRGRx3KIfQ=w408-h247-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 3.5,
-        "workday_timing": "06:30-00:30",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Cafeteria Marieta, C. Jose Zorrilla, 1, 34001 Palencia, Xi Ban Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 27
-            },
-            {
-                "keyword": "tapas",
-                "count": 18
-            },
-            {
-                "keyword": "Hong Jiu ",
-                "count": 7
-            },
-            {
-                "keyword": "Tu Si ",
-                "count": 5
-            },
-            {
-                "keyword": "Fan Qie ",
-                "count": 5
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 4
-            },
-            {
-                "keyword": "Huo Tui ",
-                "count": 4
-            },
-            {
-                "keyword": "Bei ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Marieta/data=!4m7!3m6!1s0xd47b0487ba13721:0x712bdbd09a081b1f!8m2!3d42.0108138!4d-4.5311217!16s%2Fg%2F1vfn7zph!19sChIJITehe0iwRw0RHxsImtDbK3E?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJvTfpejewRw0RaedUmZx3_5I",
         "name": "Gran Sol",
         "description": null,
@@ -1548,7 +1558,7 @@
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1569,7 +1579,7 @@
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             }
@@ -1626,14 +1636,14 @@
             {
                 "name": "Cerveceria Flandes",
                 "link": "https://www.google.com/maps/search/Cervecer%C3%ADa+Flandes/@42.0119076,-4.5325903?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1817,
+                "reviews": 1820,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Cerveceria Boulevar",
                 "link": "https://www.google.com/maps/search/Cervecer%C3%ADa+Boulevar/@42.0198642,-4.5307205999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1158,
+                "reviews": 1157,
                 "rating": 4.1,
                 "main_category": "Pi Jiu Guan "
             },
@@ -1876,7 +1886,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -1939,7 +1949,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -2146,14 +2156,14 @@
             {
                 "name": "Restaurante Cerveceria Las Hurdes",
                 "link": "https://www.google.com/maps/search/Restaurante+Cervecer%C3%ADa+Las+Hurdes/@42.0029296,-4.5224060999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 695,
+                "reviews": 701,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Restaurante La Balastera",
                 "link": "https://www.google.com/maps/search/Restaurante+La+Balastera/@42.0120474,-4.5207538?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 576,
+                "reviews": 577,
                 "rating": 4.3,
                 "main_category": "Shao Kao "
             },
@@ -2260,7 +2270,9 @@
         ],
         "rating": 4.5,
         "workday_timing": "08:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+34 979 74 09 16",
         "address": "Alimentacion San Miguel, C. Portillo de Dona Maria, 1, Bajo, 34005 Palencia, Xi Ban Ya ",
         "review_keywords": [
@@ -2285,7 +2297,7 @@
             {
                 "name": "Bar Restaurante Los Candiles de Tono",
                 "link": "https://www.google.com/maps/search/Bar+Restaurante+Los+Candiles+de+To%C3%B1o/@42.0126663,-4.5331525?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1531,
+                "reviews": 1532,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -2428,7 +2440,7 @@
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -2511,7 +2523,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -2530,7 +2542,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://studio-coffee-house.negocio.site/?utm_source=gmb&utm_medium=referral",
+        "website": "https://studio-coffee-house.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
         "owner": {
             "id": "112199062495433384695",
             "name": "Studio Coffee House (Ye Zhu )",
@@ -2632,7 +2644,7 @@
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -2673,9 +2685,9 @@
             "Ka Pei Dian "
         ],
         "rating": 4.1,
-        "workday_timing": "08:00-21:30",
+        "workday_timing": "08:00-21:00",
         "closed_on": "Open All Days",
-        "phone": null,
+        "phone": "+34 979 70 27 19",
         "address": "Granier Bakery Cafe, C. Mayor Principal, 32, 34001 Palencia, Xi Ban Ya ",
         "review_keywords": [
             {
@@ -2714,12 +2726,12 @@
         "name": "Cafe - Bar Curro.es",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 756,
+        "reviews": 758,
         "competitors": [
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -2819,14 +2831,14 @@
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Cafe Bar Oxford",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+Oxford/@42.0059362,-4.5261151?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 449,
+                "reviews": 450,
                 "rating": 4.7,
                 "main_category": "Jiu Ba "
             },
@@ -2951,7 +2963,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "07:00-00:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+34 979 16 29 69",
         "address": "Bar Cafeteria Santana, Ctra. Leon, 36, 34005 Palencia, Xi Ban Ya ",
         "review_keywords": [
@@ -2980,14 +2994,14 @@
             {
                 "name": "Don Jamon",
                 "link": "https://www.google.com/maps/search/Don+Jam%C3%B3n/@42.010666199999996,-4.5321117?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1720,
+                "reviews": 1721,
                 "rating": 3.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "San Remo",
                 "link": "https://www.google.com/maps/search/San+Remo/@42.0129375,-4.5213914?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1281,
+                "reviews": 1282,
                 "rating": 4.2,
                 "main_category": "Yu Liao "
             },
@@ -3001,14 +3015,14 @@
             {
                 "name": "Bar KOPA",
                 "link": "https://www.google.com/maps/search/Bar+KOPA/@42.0063239,-4.5315183999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 528,
+                "reviews": 529,
                 "rating": 4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Bocoy",
                 "link": "https://www.google.com/maps/search/Bocoy/@42.0075832,-4.5286434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 444,
+                "reviews": 446,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             }
@@ -3065,7 +3079,7 @@
         "name": "Cafe Roma",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 332,
+        "reviews": 333,
         "competitors": [
             {
                 "name": "Cafe de Olimpia",
@@ -3152,21 +3166,21 @@
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             }
@@ -3227,14 +3241,14 @@
             {
                 "name": "Bar Javi",
                 "link": "https://www.google.com/maps/search/Bar+Javi/@42.0116249,-4.538686?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 724,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Bar KOPA",
                 "link": "https://www.google.com/maps/search/Bar+KOPA/@42.0063239,-4.5315183999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 528,
+                "reviews": 529,
                 "rating": 4,
                 "main_category": "Can Ting "
             },
@@ -3248,7 +3262,7 @@
             {
                 "name": "Restaurante Doro",
                 "link": "https://www.google.com/maps/search/Restaurante+Doro/@42.005674,-4.505846?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 290,
+                "reviews": 291,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -3402,7 +3416,7 @@
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -3423,7 +3437,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             }
@@ -3482,14 +3496,14 @@
             {
                 "name": "Mano",
                 "link": "https://www.google.com/maps/search/Ma%C3%B1o/@42.009429,-4.5333654999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1672,
+                "reviews": 1674,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Bar Restaurante Los Candiles de Tono",
                 "link": "https://www.google.com/maps/search/Bar+Restaurante+Los+Candiles+de+To%C3%B1o/@42.0126663,-4.5331525?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1531,
+                "reviews": 1532,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -3503,7 +3517,7 @@
             {
                 "name": "Bar KOPA",
                 "link": "https://www.google.com/maps/search/Bar+KOPA/@42.0063239,-4.5315183999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 528,
+                "reviews": 529,
                 "rating": 4,
                 "main_category": "Can Ting "
             },
@@ -3559,6 +3573,10 @@
                 "count": 3
             },
             {
+                "keyword": "Ma Ling Shu ",
+                "count": 3
+            },
+            {
                 "keyword": "Wu ",
                 "count": 3
             }
@@ -3570,12 +3588,12 @@
         "name": "Cafe Menta",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 221,
+        "reviews": 222,
         "competitors": [
             {
                 "name": "Cafe Bar Avenida 13",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+Avenida+13/@42.0018503,-4.5271346?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 117,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -3589,8 +3607,8 @@
             {
                 "name": "Cafe Bar El Batan",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+El+Bat%C3%A1n/@42.0040553,-4.5298099?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 4.5,
+                "reviews": 60,
+                "rating": 4.6,
                 "main_category": "Jiu Ba "
             }
         ],
@@ -3639,7 +3657,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -3789,6 +3807,10 @@
                 "count": 5
             },
             {
+                "keyword": "Ka Pei ",
+                "count": 5
+            },
+            {
                 "keyword": "Cheng ",
                 "count": 4
             },
@@ -3809,7 +3831,7 @@
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -3823,7 +3845,7 @@
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -3897,7 +3919,7 @@
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -3992,22 +4014,22 @@
             {
                 "name": "Restaurante La Traserilla",
                 "link": "https://www.google.com/maps/search/Restaurante+La+Traserilla/@42.0090946,-4.535991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1812,
+                "reviews": 1815,
                 "rating": 4.4,
                 "main_category": "Xi Ban Ya Cai "
             },
             {
                 "name": "Bar Restaurante Los Candiles de Tono",
                 "link": "https://www.google.com/maps/search/Bar+Restaurante+Los+Candiles+de+To%C3%B1o/@42.0126663,-4.5331525?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1531,
+                "reviews": 1532,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "EL RECREO BURGER",
                 "link": "https://www.google.com/maps/search/EL+RECREO+BURGER/@42.0123982,-4.5342978?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1490,
-                "rating": 4.2,
+                "reviews": 1492,
+                "rating": 4.1,
                 "main_category": "Han Bao Bao "
             },
             {
@@ -4096,7 +4118,7 @@
             {
                 "name": "Nuevo Esenttia",
                 "link": "https://www.google.com/maps/search/Nuevo+Esenttia/@42.0114103,-4.5329291?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
+                "reviews": 136,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4154,6 +4176,83 @@
         "link": "https://www.google.com/maps/place/El+Cafet%C3%ADn/data=!4m7!3m6!1s0xd47b034441fc9f5:0xd7a1e668423e41c7!8m2!3d42.0056723!4d-4.5247091!16s%2Fg%2F11g6r9rm1q!19sChIJ9ckfRDSwRw0Rx0E-Qmjmodc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJa0jNcTOwRw0Rm3YWnfFOQcU",
+        "name": "Cafe Plaza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 170,
+        "competitors": [
+            {
+                "name": "Bar Plaza San Antonio",
+                "link": "https://www.google.com/maps/search/Bar+Plaza+San+Antonio/@42.019763,-4.5443749?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 157,
+                "rating": 4.3,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "GyR Cafe Plaza",
+                "link": "https://www.google.com/maps/search/GyR+Caf%C3%A9+Plaza/@42.0029571,-4.5226071?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 40,
+                "rating": 3.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Plaza Habana",
+                "link": "https://www.google.com/maps/search/Plaza+Habana/@42.0119298,-4.5228562?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 22,
+                "rating": 3.8,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "103628361837568630563",
+            "name": "Cafe Plaza (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103628361837568630563"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3JVzZF_FDJXf3A4pBNchcbeEi23zYXVONWymq=w426-h240-k-no",
+        "main_category": "Jiu Ba ",
+        "categories": [
+            "Jiu Ba "
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+34 979 72 35 88",
+        "address": "Cafe Plaza, C. Juan de Balmaseda, 6, 34004 Palencia, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "tapas",
+                "count": 16
+            },
+            {
+                "keyword": "Xiao Hai ",
+                "count": 8
+            },
+            {
+                "keyword": "Gong Yuan ",
+                "count": 7
+            },
+            {
+                "keyword": "Zhuo ",
+                "count": 6
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 5
+            },
+            {
+                "keyword": "Che ",
+                "count": 3
+            },
+            {
+                "keyword": "Jia Ting ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Plaza/data=!4m7!3m6!1s0xd47b03371cd486b:0xc5414ef19d16769b!8m2!3d42.0033653!4d-4.5228969!16s%2Fg%2F11bx0f98cl!19sChIJa0jNcTOwRw0Rm3YWnfFOQcU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJDZfCQzGwRw0Rj3n6C7wBfZM",
         "name": "Cafeteria Esla",
         "description": null,
@@ -4163,21 +4262,21 @@
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
@@ -4321,7 +4420,7 @@
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -4396,7 +4495,7 @@
         "name": "Nuevo Esenttia",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 136,
+        "reviews": 137,
         "competitors": [
             {
                 "name": "Gran Sol",
@@ -4422,7 +4521,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             }
@@ -4474,26 +4573,26 @@
         "name": "Tamesis pub",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 133,
+        "reviews": 134,
         "competitors": [
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Sala Jet Set",
                 "link": "https://www.google.com/maps/search/Sala+Jet+Set/@42.0069678,-4.5329809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 824,
+                "reviews": 825,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -4549,6 +4648,76 @@
         "link": "https://www.google.com/maps/place/T%C3%A1mesis+pub/data=!4m7!3m6!1s0xd47b049dec74ba1:0x6edea51989dc614c!8m2!3d42.0091706!4d-4.5279473!16s%2Fg%2F1z44bc25m!19sChIJoUvH3kmwRw0RTGHciRml3m4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJYfami7WxRw0R7diZSGJyY0A",
+        "name": "Cafe Bar Marcos",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 124,
+        "competitors": [
+            {
+                "name": "Cafe Los Arcos",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Los+Arcos/@42.013722099999995,-4.5286837?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 430,
+                "rating": 4.5,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Bar Noemar",
+                "link": "https://www.google.com/maps/search/Bar+Noemar/@42.0059757,-4.5248113?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 157,
+                "rating": 4.3,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Bar moreno",
+                "link": "https://www.google.com/maps/search/Bar+moreno/@42.0081136,-4.5285847?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 120,
+                "rating": 4.2,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "CAFE BAR LIRA",
+                "link": "https://www.google.com/maps/search/CAFE+BAR+LIRA/@42.011752,-4.5232865?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 66,
+                "rating": 4.3,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Bar Marcos (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2N4EYqH2-72Btyb_KhuxUP2Zp-MFSnPhJJP49=w408-h544-k-no",
+        "main_category": "Jiu Ba ",
+        "categories": [
+            "Jiu Ba "
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-23:30",
+        "closed_on": [
+            "Xing Qi Er "
+        ],
+        "phone": "+34 618 92 77 48",
+        "address": "Cafe Bar Marcos, Av. Cataluna, 34004 Palencia, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "tapas",
+                "count": 5
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 4
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafe+Bar+Marcos/data=!4m7!3m6!1s0xd47b1b58ba6f661:0x406372624899d8ed!8m2!3d42.008926!4d-4.5200382!16s%2Fg%2F11y32p_y_!19sChIJYfami7WxRw0R7diZSGJyY0A?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJf21WCDawRw0RJnQerqZ7GuY",
         "name": "Cafeteria La Huerta",
         "description": null,
@@ -4565,7 +4734,7 @@
             {
                 "name": "Cafeteria Marieta",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Marieta/@42.0108138,-4.5311217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 339,
+                "reviews": 340,
                 "rating": 3.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4623,14 +4792,14 @@
             {
                 "name": "Cafe - Bar Curro.es",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+-+Bar+Curro.es/@42.004722199999996,-4.5205556?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 756,
+                "reviews": 758,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bar Cafe 979, Terraza, Raciones",
                 "link": "https://www.google.com/maps/search/Bar+Caf%C3%A9+979%2C+Terraza%2C+Raciones/@42.0201785,-4.5316787?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 588,
+                "reviews": 589,
                 "rating": 4.4,
                 "main_category": "Pi Jiu Guan "
             },
@@ -4722,14 +4891,14 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Nuevo Esenttia",
                 "link": "https://www.google.com/maps/search/Nuevo+Esenttia/@42.0114103,-4.5329291?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
+                "reviews": 136,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             }
@@ -4818,28 +4987,28 @@
             {
                 "name": "Cafe Bar Oxford",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+Oxford/@42.0059362,-4.5261151?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 449,
+                "reviews": 450,
                 "rating": 4.7,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Cafe Menta",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Menta/@42.0002397,-4.5247643?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 221,
+                "reviews": 222,
                 "rating": 4.1,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "La Esquinita",
                 "link": "https://www.google.com/maps/search/La+Esquinita/@42.0052673,-4.5265468?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
+                "reviews": 138,
                 "rating": 3.4,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Cafe Bar Avenida 13",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+Avenida+13/@42.0018503,-4.5271346?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 117,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -4929,7 +5098,7 @@
         "review_keywords": [
             {
                 "keyword": "tapas",
-                "count": 9
+                "count": 10
             },
             {
                 "keyword": "Ba ",
@@ -5006,7 +5175,7 @@
             {
                 "name": "La Casa Dulce",
                 "link": "https://www.google.com/maps/search/La+Casa+Dulce/@41.9971776,-4.5209179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.6,
                 "main_category": "Dao Hui Fu Wu "
             },
@@ -5082,7 +5251,7 @@
             {
                 "name": "Coco Loco",
                 "link": "https://www.google.com/maps/search/Coco+Loco/@42.015659,-4.5209280000000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 180,
+                "reviews": 182,
                 "rating": 4.1,
                 "main_category": "Er Tong You Le Zhong Xin "
             },
@@ -5096,7 +5265,7 @@
             {
                 "name": "Ana Rueda Eventos y La Fabrica de los Suenos",
                 "link": "https://www.google.com/maps/search/Ana+Rueda+Eventos+y+La+F%C3%A1brica+de+los+Sue%C3%B1os/@42.0029907,-4.5098797?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
+                "reviews": 82,
                 "rating": 4.9,
                 "main_category": "Huo Dong Guan Li Gong Si "
             },
@@ -5155,7 +5324,7 @@
             {
                 "name": "Bar Baobab",
                 "link": "https://www.google.com/maps/search/Bar+Baobab/@42.0076484,-4.528237799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 513,
+                "reviews": 514,
                 "rating": 4.1,
                 "main_category": "Jiu Ba "
             },
@@ -5289,14 +5458,14 @@
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Cafeteria Marieta",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Marieta/@42.0108138,-4.5311217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 339,
+                "reviews": 340,
                 "rating": 3.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5361,14 +5530,14 @@
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Cafeteria Marieta",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Marieta/@42.0108138,-4.5311217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 339,
+                "reviews": 340,
                 "rating": 3.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5419,7 +5588,7 @@
         "name": "Cafe Bambu",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 33,
+        "reviews": 34,
         "competitors": [
             {
                 "name": "Cafe de Olimpia",
@@ -5431,7 +5600,7 @@
             {
                 "name": "Cafeteria Marieta",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Marieta/@42.0108138,-4.5311217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 339,
+                "reviews": 340,
                 "rating": 3.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5469,7 +5638,7 @@
             "Ka Pei Ting ",
             "Ka Pei Dian "
         ],
-        "rating": 4.2,
+        "rating": 4.1,
         "workday_timing": "09:00-22:00",
         "closed_on": [
             "Xing Qi Si "
@@ -5501,7 +5670,7 @@
             {
                 "name": "Blue Velvet",
                 "link": "https://www.google.com/maps/search/Blue+Velvet/@42.0069692,-4.5305924?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 173,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
@@ -5534,15 +5703,88 @@
         "rating": 4.2,
         "workday_timing": "21:00-03:30",
         "closed_on": [
-            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
-            "Xing Qi San "
+            "Xing Qi San ",
+            "Xing Qi Ri "
         ],
         "phone": "+34 674 57 66 25",
         "address": "Manhattan copas palencia, C. Cardenal Almaraz, n6, 34002 Palencia, Xi Ban Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Manhattan+copas+palencia/data=!4m7!3m6!1s0xd47b0476493bfb7:0xae5a9e413a19622e!8m2!3d42.0089252!4d-4.5352565!16s%2Fg%2F11dztqh773!19sChIJt7-TZEewRw0RLmIZOkGeWq4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJNa5NJIGxRw0RKd0X31LCaMc",
+        "name": "CAFETERIA NOBEL",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "competitors": [
+            {
+                "name": "Cafeteria Stella",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1435,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Gran Sol",
+                "link": "https://www.google.com/maps/search/Gran+Sol/@42.005764299999996,-4.5312076?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 326,
+                "rating": 4.3,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "Cafe Bar Canela en Rama",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+Canela+en+Rama/@42.010461899999996,-4.5305786999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 316,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Royal",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Royal/@42.0099665,-4.533786699999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 202,
+                "rating": 4.2,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "El Cafetin",
+                "link": "https://www.google.com/maps/search/El+Cafet%C3%ADn/@42.0056723,-4.5247091?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 190,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "103923713076163165197",
+            "name": "CAFETERIA NOBEL (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103923713076163165197"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgQHm9CZNd_WtEX2FOeMSQrHW_xTAgQ7vUaWpJ=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 3.8,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "CAFETERIA NOBEL, C. Empedrada, 1, 34004 Palencia, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "tapas",
+                "count": 3
+            },
+            {
+                "keyword": "Chu Fang ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/CAFETER%C3%8DA+NOBEL/data=!4m7!3m6!1s0xd47b181244dae35:0xc768c252df17dd29!8m2!3d42.0081433!4d-4.530617!16s%2Fg%2F11p5_v4w5s!19sChIJNa5NJIGxRw0RKd0X31LCaMc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJv0AEOs-xRw0RD9a_9dv6les",
@@ -5618,7 +5860,7 @@
             {
                 "name": "Cafe Bar La Galeria",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+La+Galer%C3%ADa/@42.009990699999996,-4.5320195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
+                "reviews": 593,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
@@ -5677,6 +5919,61 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Bar+La+Chiguita/data=!4m7!3m6!1s0xd47b048775d4b07:0x2e127fdfb39191f7!8m2!3d42.0105562!4d-4.5311864!16s%2Fg%2F11f5hkg4tw!19sChIJB0tdd0iwRw0R95GRs99_Ei4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJt5boB0ewRw0RcjisNssqYU8",
+        "name": "Patio De Castano",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "competitors": [
+            {
+                "name": "Bar Cafeteria Santana",
+                "link": "https://www.google.com/maps/search/Bar+Cafeter%C3%ADa+Santana/@42.0107889,-4.5451885999999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 573,
+                "rating": 4.3,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Cafe Bar Rantanplan",
+                "link": "https://www.google.com/maps/search/Cafe+Bar+Rantanplan/@42.013844999999996,-4.536808?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 502,
+                "rating": 4.3,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Cafe Los Arcos",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Los+Arcos/@42.013722099999995,-4.5286837?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 430,
+                "rating": 4.5,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "gran via",
+                "link": "https://www.google.com/maps/search/gran+via/@42.0034176,-4.5284016?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 322,
+                "rating": 4.4,
+                "main_category": "Zi Zhu Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Patio De Castano (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OpTaQm-cGR8ahil_Qpmh4Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=185.62785&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Patio De Castano, C. Patio de Castano, 34001 Palencia, Xi Ban Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Patio+De+Casta%C3%B1o/data=!4m7!3m6!1s0xd47b04707e896b7:0x4f612acb36ac3872!8m2!3d42.0105373!4d-4.5340546!16s%2Fg%2F11hblnss1w!19sChIJt5boB0ewRw0RcjisNssqYU8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJbZHLGC6wRw0RNBwaIBSmhtc",
@@ -5741,61 +6038,6 @@
         "link": "https://www.google.com/maps/place/Ultramarinos+Pilar/data=!4m7!3m6!1s0xd47b02e18cb916d:0xd786a614201a1c34!8m2!3d41.9986914!4d-4.5275393!16s%2Fg%2F11bxc7mn2k!19sChIJbZHLGC6wRw0RNBwaIBSmhtc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJt5boB0ewRw0RcjisNssqYU8",
-        "name": "Patio De Castano",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 14,
-        "competitors": [
-            {
-                "name": "Bar Cafeteria Santana",
-                "link": "https://www.google.com/maps/search/Bar+Cafeter%C3%ADa+Santana/@42.0107889,-4.5451885999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 573,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Bar Rantanplan",
-                "link": "https://www.google.com/maps/search/Cafe+Bar+Rantanplan/@42.013844999999996,-4.536808?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 501,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Cafe Los Arcos",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Los+Arcos/@42.013722099999995,-4.5286837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 430,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "gran via",
-                "link": "https://www.google.com/maps/search/gran+via/@42.0034176,-4.5284016?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 321,
-                "rating": 4.4,
-                "main_category": "Zi Zhu Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Patio De Castano (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OpTaQm-cGR8ahil_Qpmh4Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=185.62785&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 3.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Patio De Castano, C. Patio de Castano, 34001 Palencia, Xi Ban Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Patio+De+Casta%C3%B1o/data=!4m7!3m6!1s0xd47b04707e896b7:0x4f612acb36ac3872!8m2!3d42.0105373!4d-4.5340546!16s%2Fg%2F11hblnss1w!19sChIJt5boB0ewRw0RcjisNssqYU8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJI6QhoZmxRw0RE9ZG7Rb27Sg",
         "name": "Bar avenida",
         "description": null,
@@ -5846,7 +6088,7 @@
             {
                 "name": "BAR SEUR",
                 "link": "https://www.google.com/maps/search/BAR+SEUR/@41.9964611,-4.512715399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 577,
+                "reviews": 578,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -5860,7 +6102,7 @@
             {
                 "name": "Cafe Bar Avenida 13",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Bar+Avenida+13/@42.0018503,-4.5271346?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 117,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
@@ -5959,6 +6201,70 @@
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Residencia+San+Telmo/data=!4m7!3m6!1s0xd47b1d31938d961:0x227ee7e1086b3f49!8m2!3d41.996487!4d-4.5196723!16s%2Fg%2F11gfnh3bm1!19sChIJYdk4GdOxRw0RST9rCOHnfiI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ97edj0-wRw0RLb6sR9o2kIw",
+        "name": "Charcuteria Diferente",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "competitors": [
+            {
+                "name": "Arcecarne Carniceria Palencia",
+                "link": "https://www.google.com/maps/search/Arcecarne+Carnicer%C3%ADa+Palencia/@42.0197834,-4.529996199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 121,
+                "rating": 4.6,
+                "main_category": "Rou Fan "
+            },
+            {
+                "name": "El Buen Yantar",
+                "link": "https://www.google.com/maps/search/El+Buen+Yantar/@42.012791500000006,-4.5351478?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 86,
+                "rating": 4.5,
+                "main_category": "Huo Tui Dian "
+            },
+            {
+                "name": "Mantequeria Pena",
+                "link": "https://www.google.com/maps/search/Mantequeria+Pe%C3%B1a/@42.0104384,-4.5325571?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.5,
+                "main_category": "Huo Tui Ba "
+            },
+            {
+                "name": "Charcuteria Sofia",
+                "link": "https://www.google.com/maps/search/Charcuter%C3%ADa+Sof%C3%ADa/@42.002654799999995,-4.5278041?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 5,
+                "main_category": "Bian Li Dian "
+            },
+            {
+                "name": "A Su Gusto",
+                "link": "https://www.google.com/maps/search/A+Su+Gusto/@42.007175,-4.5300589?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Xian Shi Shi Chang "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "114707985070927034294",
+            "name": "Charcuteria Diferente (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114707985070927034294"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3EUcmlQcS3O-kJosFEfqEaUe4fO12amd75SWZ=w408-h324-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:30-15:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+34 660 57 55 14",
+        "address": "Charcuteria Diferente, C. del Tomillo, 4, 34003 Palencia, Xi Ban Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Charcuter%C3%ADa+Diferente/data=!4m7!3m6!1s0xd47b04f8f9db7f7:0x8c9036da47acbe2d!8m2!3d42.0169753!4d-4.531382!16s%2Fg%2F11bzzp3wtk!19sChIJ97edj0-wRw0RLb6sR9o2kIw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJv7gVtyGxRw0RJP56vvBcHJw",
         "name": "Cafeteria Cereaduey",
         "description": null,
@@ -5968,7 +6274,7 @@
             {
                 "name": "Super Agropal",
                 "link": "https://www.google.com/maps/search/S%C3%BAper+Agropal/@42.004658299999996,-4.5107853?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1293,
+                "reviews": 1295,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -6049,18 +6355,18 @@
         "reviews": 4,
         "competitors": [
             {
+                "name": "Dia",
+                "link": "https://www.google.com/maps/search/Dia/@42.0134853,-4.5368496?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 3.7,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
                 "name": "Mantequeria Pena",
                 "link": "https://www.google.com/maps/search/Mantequeria+Pe%C3%B1a/@42.0104384,-4.5325571?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 71,
                 "rating": 4.5,
                 "main_category": "Huo Tui Ba "
-            },
-            {
-                "name": "Dia",
-                "link": "https://www.google.com/maps/search/Dia/@42.0134853,-4.5368496?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 69,
-                "rating": 3.7,
-                "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Alimentacion La Nueva Bodega",
@@ -6253,7 +6559,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -6364,21 +6670,21 @@
             {
                 "name": "Cafe - Bar Curro.es",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+-+Bar+Curro.es/@42.004722199999996,-4.5205556?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 756,
+                "reviews": 758,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cuatro Gatos",
                 "link": "https://www.google.com/maps/search/Cuatro+Gatos/@42.019168,-4.5307301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 731,
+                "reviews": 732,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafeteria Marieta",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Marieta/@42.0108138,-4.5311217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 339,
+                "reviews": 340,
                 "rating": 3.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -6412,7 +6718,7 @@
             {
                 "name": "Cafeteria Stella",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Stella/@42.0060979,-4.5303737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1433,
+                "reviews": 1435,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -6426,7 +6732,7 @@
             {
                 "name": "Cafeteria Esla",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Esla/@42.0030384,-4.5272863?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
+                "reviews": 153,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -6515,7 +6821,7 @@
             {
                 "name": "Happy",
                 "link": "https://www.google.com/maps/search/Happy/@42.0096475,-4.5323133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 642,
+                "reviews": 645,
                 "rating": 4.4,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -6678,7 +6984,7 @@
             {
                 "name": "Cafeteria Marieta",
                 "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Marieta/@42.0108138,-4.5311217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 339,
+                "reviews": 340,
                 "rating": 3.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -6733,7 +7039,7 @@
             {
                 "name": "Casa Marisa",
                 "link": "https://www.google.com/maps/search/Casa+Marisa/@41.9932973,-4.5194826?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 912,
+                "reviews": 918,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },

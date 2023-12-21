@@ -354,7 +354,7 @@
             "Tian Pin Dian "
         ],
         "rating": 4.7,
-        "workday_timing": "10:00-19:00",
+        "workday_timing": "10:00-20:00",
         "closed_on": "Open All Days",
         "phone": "+504 9535-5154",
         "address": "Mey's Bakery, Avenida 2 NE, 12101 Comayagua, Hong Du La Si ",
@@ -512,7 +512,7 @@
         "name": "Cala Coffee Roasters * Blvd. Roberto Larios",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 58,
+        "reviews": 59,
         "competitors": [
             {
                 "name": "Five Star Coffee",
@@ -943,6 +943,70 @@
         "link": "https://www.google.com/maps/place/D%C2%B4Palo+Caf%C3%A9/data=!4m7!3m6!1s0x8f658722ad20d04f:0x41f6bb85b2bc5505!8m2!3d14.4361108!4d-87.5857627!16s%2Fg%2F11s53cdg7t!19sChIJT9AgrSKHZY8RBVW8soW79kE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJQdt7oJWFZY8RkvyJI3iBRPg",
+        "name": "Elohim Market",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Mercadito Emanuel",
+                "link": "https://www.google.com/maps/search/Mercadito+Emanuel/@14.4608173,-87.6330275?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 3.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Mercadito Josil",
+                "link": "https://www.google.com/maps/search/Mercadito+Josil/@14.462274,-87.64573759999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "ELIM MARKET",
+                "link": "https://www.google.com/maps/search/ELIM+MARKET/@14.449014899999998,-87.6482474?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mei Shi Za Huo Dian "
+            },
+            {
+                "name": "Pulperia Emanuel",
+                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Emanuel/@14.4592013,-87.64090329999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bian Li Dian "
+            },
+            {
+                "name": "El economico",
+                "link": "https://www.google.com/maps/search/El+econ%C3%B3mico/@14.455335100000001,-87.6348835?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Chao Ji Shi Chang "
+            }
+        ],
+        "website": "https://www.elohimmarket.com/",
+        "owner": {
+            "id": "103042511102450526283",
+            "name": "Elohim Market (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103042511102450526283"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8clE49iLQWWddY3OyM84I_BOQoIFSl1Dexb4=w408-h544-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-05:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+504 9343-1765",
+        "address": "Elohim Market, 1 cuadra al norte de la Escuela Zepeda, Honduras, 12101 Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Elohim+Market/data=!4m7!3m6!1s0x8f658595a07bdb41:0xf84481782389fc92!8m2!3d14.4605634!4d-87.6427169!16s%2Fg%2F11mhg7w_t4!19sChIJQdt7oJWFZY8RkvyJI3iBRPg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJUVLTBfSFZY8RIeDZfzABra4",
         "name": "Mey's Bakery",
         "description": null,
@@ -992,7 +1056,9 @@
         ],
         "rating": 5,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+504 9884-1651",
         "address": "Mey's Bakery, Cero Calle Este, 12101 Comayagua, Hong Du La Si ",
         "review_keywords": [],
@@ -1116,7 +1182,7 @@
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [],
-        "website": "https://www.sumerlabs.com/catalogo/sophiesbakery-berlioznataliag?fbclid=PAAabQ8j8GVFXjw-yTp2aOIAmt2tqkMl8w7JecZwVx3ifgAp0JOsCrLNOaV2Q",
+        "website": "https://www.sumerlabs.com/catalogo/sophiesbakery-berlioznataliag%3Ffbclid%3DPAAabQ8j8GVFXjw-yTp2aOIAmt2tqkMl8w7JecZwVx3ifgAp0JOsCrLNOaV2Q",
         "owner": {
             "id": "114757884583472902201",
             "name": "Sophie's Bakery Hn (Ye Zhu )",
@@ -1145,14 +1211,14 @@
             {
                 "name": "Supermercados Del Corral",
                 "link": "https://www.google.com/maps/search/Supermercados+Del+Corral/@14.452287900000002,-87.6396176?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1229,
+                "reviews": 1231,
                 "rating": 4.5,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Maxi Despensa",
                 "link": "https://www.google.com/maps/search/Maxi+Despensa/@14.5831003,-87.83473649999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 687,
+                "reviews": 688,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1740,70 +1806,6 @@
         "link": "https://www.google.com/maps/place/Espresso+Americano/data=!4m7!3m6!1s0x8f6586a6c606ee89:0x169448ae59e6329c!8m2!3d14.3838951!4d-87.6153221!16s%2Fg%2F11bzyxhnlq!19sChIJie4GxqaGZY8RnDLmWa5IlBY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJHZ6LO_KFZY8RbkjUjFXvlcg",
-        "name": "Pulperia Hermanos Villeda",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 54,
-        "competitors": [
-            {
-                "name": "Pulperia Daniela",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Daniela/@14.4494213,-87.6330406?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 3.9,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Pulperia Junior",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Junior/@14.4523148,-87.6342849?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 3.8,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Pulperia Hernandez",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Hern%C3%A1ndez/@14.450506899999999,-87.6334488?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 3.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Pulperia Pamela",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Pamela/@14.450479500000002,-87.6340843?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "111508751216832951783",
-            "name": "Pulperia Hermanos Villeda (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111508751216832951783"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOLgGBRch5G1OqDq0YAItY-HR1a2lJ3JoxbE_Q7=w408-h306-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "08:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Pulperia Hermanos Villeda, 7a Calle SE, Comayagua, Hong Du La Si ",
-        "review_keywords": [
-            {
-                "keyword": "Chan Pin ",
-                "count": 3
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Pulperia+Hermanos+Villeda/data=!4m7!3m6!1s0x8f6585f23b8b9e1d:0xc895ef558cd4486e!8m2!3d14.4505412!4d-87.6346293!16s%2Fg%2F11crz_xgpb!19sChIJHZ6LO_KFZY8RbkjUjFXvlcg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJxU_IDjmFZY8RFFdKvOfL2Fw",
         "name": "Dunkin' Santa Monica Comayagua",
         "description": null,
@@ -1813,7 +1815,7 @@
             {
                 "name": "Dunkin' * TEXACO Don Tiki",
                 "link": "https://www.google.com/maps/search/Dunkin%27+%E2%80%A2+TEXACO+Don+Tiki/@14.588830799999998,-87.85670979999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 825,
+                "reviews": 827,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -1984,70 +1986,6 @@
         "link": "https://www.google.com/maps/place/Baleadas+Los+Almendros/data=!4m7!3m6!1s0x8f658599b353fbff:0x9a4550d65668ac51!8m2!3d14.4547477!4d-87.6280667!16s%2Fg%2F11rg8wk9g_!19sChIJ__tTs5mFZY8RUaxoVtZQRZo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ618Pcn2FZY8RZp847AcZveQ",
-        "name": "Blend",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 16,
-        "competitors": [
-            {
-                "name": "La Fonda Restaurante",
-                "link": "https://www.google.com/maps/search/La+Fonda+Restaurante/@14.458954799999999,-87.6426501?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 289,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Infinito",
-                "link": "https://www.google.com/maps/search/Infinito/@14.459934,-87.6423329?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 238,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "El Novillo Comayagua",
-                "link": "https://www.google.com/maps/search/El+Novillo+Comayagua/@14.4601115,-87.63952979999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Restaurante Las Torres",
-                "link": "https://www.google.com/maps/search/Restaurante+Las+Torres/@14.4592035,-87.6425582?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "BaleaThanos",
-                "link": "https://www.google.com/maps/search/BaleaThanos/@14.4562114,-87.63870299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Blend (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGlDXa8hlCUzLpSG5xpx5JA-YZ9DG8OiCHRMr1=w532-h240-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 5,
-        "workday_timing": "12:00-23:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+504 9563-5919",
-        "address": "Blend, 12101 Comayagua Paseo la alameda, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Blend/data=!4m7!3m6!1s0x8f65857d720f5feb:0xe4bd1907ec389f66!8m2!3d14.4602031!4d-87.6395471!16s%2Fg%2F11j8hj4b3x!19sChIJ618Pcn2FZY8RZp847AcZveQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJxW8-wn6FZY8Rx0hag-XKRg8",
         "name": "Comedor Palmeras",
         "description": null,
@@ -2057,7 +1995,7 @@
             {
                 "name": "Comedor Suyapa Colonial",
                 "link": "https://www.google.com/maps/search/Comedor+Suyapa+Colonial/@14.461401400000002,-87.64218439999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 322,
+                "reviews": 323,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -2108,6 +2046,70 @@
         "address": "F932+86R Comedor Palmeras, Unnamed Road, Comayagua, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Comedor+Palmeras/data=!4m7!3m6!1s0x8f65857ec23e6fc5:0xf46cae5835a48c7!8m2!3d14.4533697!4d-87.6494988!16s%2Fg%2F11h030nkff!19sChIJxW8-wn6FZY8Rx0hag-XKRg8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ618Pcn2FZY8RZp847AcZveQ",
+        "name": "Blend",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "competitors": [
+            {
+                "name": "La Fonda Restaurante",
+                "link": "https://www.google.com/maps/search/La+Fonda+Restaurante/@14.458954799999999,-87.6426501?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 289,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Infinito",
+                "link": "https://www.google.com/maps/search/Infinito/@14.459934,-87.6423329?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 239,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "El Novillo Comayagua",
+                "link": "https://www.google.com/maps/search/El+Novillo+Comayagua/@14.4601115,-87.63952979999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 83,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Restaurante Las Torres",
+                "link": "https://www.google.com/maps/search/Restaurante+Las+Torres/@14.4592035,-87.6425582?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "BaleaThanos",
+                "link": "https://www.google.com/maps/search/BaleaThanos/@14.4562114,-87.63870299999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Blend (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGlDXa8hlCUzLpSG5xpx5JA-YZ9DG8OiCHRMr1=w532-h240-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "12:00-23:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+504 9563-5919",
+        "address": "Blend, 12101 Comayagua Paseo la alameda, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Blend/data=!4m7!3m6!1s0x8f65857d720f5feb:0xe4bd1907ec389f66!8m2!3d14.4602031!4d-87.6395471!16s%2Fg%2F11j8hj4b3x!19sChIJ618Pcn2FZY8RZp847AcZveQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ1QSsf2eFZY8RntCefx8b1BQ",
@@ -2183,7 +2185,7 @@
             {
                 "name": "Mall Premier",
                 "link": "https://www.google.com/maps/search/Mall+Premier/@14.4523792,-87.6391525?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2614,
+                "reviews": 2618,
                 "rating": 4.2,
                 "main_category": "Gou Wu Zhong Xin "
             },
@@ -2429,6 +2431,123 @@
         "link": "https://www.google.com/maps/place/Reposteria+y+Cafeteria+la+Economica/data=!4m7!3m6!1s0x8f65858b146ee3e1:0x2734e9865aa7b1b3!8m2!3d14.4575945!4d-87.6384608!16s%2Fg%2F1thqhtnl!19sChIJ4eNuFIuFZY8Rs7GnWobpNCc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ0ZbA-qmFZY8Ru6d_eWFh6ic",
+        "name": "Coffee Tree",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "competitors": [
+            {
+                "name": "Oh! Cafe",
+                "link": "https://www.google.com/maps/search/Oh%21+Cafe/@14.459507999999998,-87.6397155?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 226,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Tio Juan",
+                "link": "https://www.google.com/maps/search/Cafe+Tio+Juan/@14.460453999999999,-87.64201899999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 159,
+                "rating": 4.2,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Coffee and Cakes",
+                "link": "https://www.google.com/maps/search/Coffee+and+Cakes/@14.4581783,-87.6398767?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 103,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Capiki",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Capiki/@14.448309,-87.6320138?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "116117279912264365181",
+            "name": "Coffee Tree (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116117279912264365181"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyQs59IKJeDoiw44gWf6Ur52LAcSa7YdCsEOLy=w408-h544-k-no",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+504 9666-5971",
+        "address": "Coffee Tree, Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Tree/data=!4m7!3m6!1s0x8f6585a9fac096d1:0x27ea6161797fa7bb!8m2!3d14.4568564!4d-87.632707!16s%2Fg%2F11sk8lzz57!19sChIJ0ZbA-qmFZY8Ru6d_eWFh6ic?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJUb0m9-6FZY8RbwK7QVwy-aE",
+        "name": "Cafeteada",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "competitors": [
+            {
+                "name": "Oh! Cafe",
+                "link": "https://www.google.com/maps/search/Oh%21+Cafe/@14.459507999999998,-87.6397155?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 226,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Metro Cafe",
+                "link": "https://www.google.com/maps/search/Metro+Caf%C3%A9/@14.461970400000002,-87.64221669999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 113,
+                "rating": 4.6,
+                "main_category": "Xi Bing Dian "
+            },
+            {
+                "name": "Coffee and Cakes",
+                "link": "https://www.google.com/maps/search/Coffee+and+Cakes/@14.4581783,-87.6398767?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 103,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafeteria Honduras",
+                "link": "https://www.google.com/maps/search/Cafeteria+Honduras/@14.4566226,-87.64271900000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 45,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Villa Cafe",
+                "link": "https://www.google.com/maps/search/Villa+Cafe/@14.458987299999999,-87.6424298?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "113607818533271054176",
+            "name": "Cafeteada (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113607818533271054176"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKdCzJBICxpomGcXrII7bYgIADneUFG5PV3R5N=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+504 9918-5591",
+        "address": "Cafeteada, Plaza Municipal La Juventud, Avenida 2 NE, Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafeteada/data=!4m7!3m6!1s0x8f6585eef726bd51:0xa1f9325c41bb026f!8m2!3d14.4589789!4d-87.6393664!16s%2Fg%2F11rf705w3d!19sChIJUb0m9-6FZY8RbwK7QVwy-aE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJOcWTCeGPZY8RV_-zs_EYEe4",
         "name": "Manos Uruguayas",
         "description": null,
@@ -2548,185 +2667,6 @@
         "link": "https://www.google.com/maps/place/El+Rinc%C3%B3n/data=!4m7!3m6!1s0x8f6585f385e683d5:0x93c551d7e5b6f4fd!8m2!3d14.4543086!4d-87.6353541!16s%2Fg%2F11csc6_2g_!19sChIJ1YPmhfOFZY8R_fS25ddRxZM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ0ZbA-qmFZY8Ru6d_eWFh6ic",
-        "name": "Coffee Tree",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Oh! Cafe",
-                "link": "https://www.google.com/maps/search/Oh%21+Cafe/@14.459507999999998,-87.6397155?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 226,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Tio Juan",
-                "link": "https://www.google.com/maps/search/Cafe+Tio+Juan/@14.460453999999999,-87.64201899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 159,
-                "rating": 4.2,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Coffee and Cakes",
-                "link": "https://www.google.com/maps/search/Coffee+and+Cakes/@14.4581783,-87.6398767?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 103,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Capiki",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Capiki/@14.448309,-87.6320138?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "116117279912264365181",
-            "name": "Coffee Tree (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116117279912264365181"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyQs59IKJeDoiw44gWf6Ur52LAcSa7YdCsEOLy=w408-h544-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 5,
-        "workday_timing": "07:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+504 9666-5971",
-        "address": "Coffee Tree, Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+Tree/data=!4m7!3m6!1s0x8f6585a9fac096d1:0x27ea6161797fa7bb!8m2!3d14.4568564!4d-87.632707!16s%2Fg%2F11sk8lzz57!19sChIJ0ZbA-qmFZY8Ru6d_eWFh6ic?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJTwpA9NqFZY8RwKlyiz8QGBw",
-        "name": "27k coffe&pastry",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Espresso Americano",
-                "link": "https://www.google.com/maps/search/Espresso+Americano/@14.4244512,-87.6331222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee and Cakes",
-                "link": "https://www.google.com/maps/search/Coffee+and+Cakes/@14.4581783,-87.6398767?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 103,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Blend",
-                "link": "https://www.google.com/maps/search/Blend/@14.4602031,-87.6395471?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "El Rincon",
-                "link": "https://www.google.com/maps/search/El+Rinc%C3%B3n/@14.4543086,-87.6353541?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 3.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Spresso Americank",
-                "link": "https://www.google.com/maps/search/Spresso+Americank/@14.454077100000001,-87.6441052?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "27k coffe&pastry (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcErPqoxdSGowG0zTylLQbu6svwY7PIvQmDuA_=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": "07:00-00:00",
-        "closed_on": "Open All Days",
-        "phone": "+504 8827-6692",
-        "address": "27k coffe&pastry, Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/27k+coffe%26pastry/data=!4m7!3m6!1s0x8f6585daf4400a4f:0x1c18103f8b72a9c0!8m2!3d14.4569398!4d-87.6440276!16s%2Fg%2F11sttln0r8!19sChIJTwpA9NqFZY8RwKlyiz8QGBw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJUb0m9-6FZY8RbwK7QVwy-aE",
-        "name": "Cafeteada",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Oh! Cafe",
-                "link": "https://www.google.com/maps/search/Oh%21+Cafe/@14.459507999999998,-87.6397155?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 226,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Metro Cafe",
-                "link": "https://www.google.com/maps/search/Metro+Caf%C3%A9/@14.461970400000002,-87.64221669999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 113,
-                "rating": 4.6,
-                "main_category": "Xi Bing Dian "
-            },
-            {
-                "name": "Coffee and Cakes",
-                "link": "https://www.google.com/maps/search/Coffee+and+Cakes/@14.4581783,-87.6398767?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 103,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafeteria Honduras",
-                "link": "https://www.google.com/maps/search/Cafeteria+Honduras/@14.4566226,-87.64271900000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 45,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Villa Cafe",
-                "link": "https://www.google.com/maps/search/Villa+Cafe/@14.458987299999999,-87.6424298?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "113607818533271054176",
-            "name": "Cafeteada (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113607818533271054176"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKdCzJBICxpomGcXrII7bYgIADneUFG5PV3R5N=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+504 9918-5591",
-        "address": "Cafeteada, Plaza Municipal La Juventud, Avenida 2 NE, Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafeteada/data=!4m7!3m6!1s0x8f6585eef726bd51:0xa1f9325c41bb026f!8m2!3d14.4589789!4d-87.6393664!16s%2Fg%2F11rf705w3d!19sChIJUb0m9-6FZY8RbwK7QVwy-aE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJzwokXYqFZY8RHRDqJZ7kbao",
         "name": "Cafeteria El Portal Colonial",
         "description": null,
@@ -2791,6 +2731,94 @@
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+El+Portal+Colonial/data=!4m7!3m6!1s0x8f65858a5d240acf:0xaa6de49e25ea101d!8m2!3d14.4589801!4d-87.6413753!16s%2Fg%2F11g6ml56wt!19sChIJzwokXYqFZY8RHRDqJZ7kbao?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJTwpA9NqFZY8RwKlyiz8QGBw",
+        "name": "27k coffe&pastry",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [
+            {
+                "name": "Espresso Americano",
+                "link": "https://www.google.com/maps/search/Espresso+Americano/@14.4244512,-87.6331222?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 311,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee and Cakes",
+                "link": "https://www.google.com/maps/search/Coffee+and+Cakes/@14.4581783,-87.6398767?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 103,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Blend",
+                "link": "https://www.google.com/maps/search/Blend/@14.4602031,-87.6395471?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "El Rincon",
+                "link": "https://www.google.com/maps/search/El+Rinc%C3%B3n/@14.4543086,-87.6353541?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 3.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Spresso Americank",
+                "link": "https://www.google.com/maps/search/Spresso+Americank/@14.454077100000001,-87.6441052?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "27k coffe&pastry (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcErPqoxdSGowG0zTylLQbu6svwY7PIvQmDuA_=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-00:00",
+        "closed_on": "Open All Days",
+        "phone": "+504 8827-6692",
+        "address": "27k coffe&pastry, Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/27k+coffe%26pastry/data=!4m7!3m6!1s0x8f6585daf4400a4f:0x1c18103f8b72a9c0!8m2!3d14.4569398!4d-87.6440276!16s%2Fg%2F11sttln0r8!19sChIJTwpA9NqFZY8RwKlyiz8QGBw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJW7kpVSiFZY8RArW-lfW7VcM",
+        "name": "Wafflos Comayagua",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Wafflos Comayagua (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtGHzF_iKubCDGwbaO97F3mbMFGKNfq3q16h-u=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "C9GC+43J Wafflos Comayagua, Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Wafflos+Comayagua/data=!4m7!3m6!1s0x8f6585285529b95b:0xc355bbf595beb502!8m2!3d14.4256335!4d-87.6295401!16s%2Fg%2F11l5dvxh5z!19sChIJW7kpVSiFZY8RArW-lfW7VcM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJC4X4Eh-FZY8RdAJ_pBC7tOg",
         "name": "Cafe Capiki",
         "description": null,
@@ -2807,7 +2835,7 @@
             {
                 "name": "Coffee Tree",
                 "link": "https://www.google.com/maps/search/Coffee+Tree/@14.4568564,-87.632707?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
+                "reviews": 8,
                 "rating": 5,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2844,32 +2872,6 @@
         "address": "C9X9+859 Cafe Capiki, Comayagua, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Capiki/data=!4m7!3m6!1s0x8f65851f12f8850b:0xe8b4bb10a47f0274!8m2!3d14.448309!4d-87.6320138!16s%2Fg%2F11s2s1x41m!19sChIJC4X4Eh-FZY8RdAJ_pBC7tOg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJW7kpVSiFZY8RArW-lfW7VcM",
-        "name": "Wafflos Comayagua",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 6,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Wafflos Comayagua (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtGHzF_iKubCDGwbaO97F3mbMFGKNfq3q16h-u=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 3.5,
-        "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "C9GC+43J Wafflos Comayagua, Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Wafflos+Comayagua/data=!4m7!3m6!1s0x8f6585285529b95b:0xc355bbf595beb502!8m2!3d14.4256335!4d-87.6295401!16s%2Fg%2F11l5dvxh5z!19sChIJW7kpVSiFZY8RArW-lfW7VcM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJjT9ukEmBZY8RNDSrnUv00TQ",
@@ -3117,7 +3119,7 @@
             {
                 "name": "TEXACO * Comayagua",
                 "link": "https://www.google.com/maps/search/TEXACO+%E2%80%A2+Comayagua/@14.4219811,-87.62965109999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 218,
+                "reviews": 219,
                 "rating": 4.4,
                 "main_category": "You Zhan "
             },
@@ -3284,7 +3286,7 @@
             {
                 "name": "Galeano Cafe * Plaza Maderos",
                 "link": "https://www.google.com/maps/search/Galeano+Cafe+%E2%80%A2+Plaza+Maderos/@14.0730183,-87.1974547?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
+                "reviews": 128,
                 "rating": 3.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -3751,7 +3753,7 @@
             {
                 "name": "Manos Uruguayas",
                 "link": "https://www.google.com/maps/search/Manos+Uruguayas/@14.460751100000001,-87.6396858?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
+                "reviews": 8,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -3828,7 +3830,7 @@
             {
                 "name": "Manos Uruguayas",
                 "link": "https://www.google.com/maps/search/Manos+Uruguayas/@14.460751100000001,-87.6396858?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
+                "reviews": 8,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -3972,70 +3974,6 @@
         "address": "C92M+32G Donde Sugey, Palmerola, Comayagua, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Donde+Sugey/data=!4m7!3m6!1s0x8f65879ae17cd2ef:0x2e85cba9b03f6d17!8m2!3d14.4001874!4d-87.6174197!16s%2Fg%2F11stygffr5!19sChIJ79J84ZqHZY8RF20_sKnLhS4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ7QhAYRuFZY8Rrx7uvRf6Y7g",
-        "name": "RapiComidas y Pulperia Elian",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Pulperia Ana",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Ana/@14.482792700000001,-87.7036605?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Pulperia Daily",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Daily/@14.448131799999999,-87.6464833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Pulperia Dely",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Dely/@14.446193599999999,-87.6245162?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Pulperia Dany",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Dany/@14.4607849,-87.63286910000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Pulperia Andre",
-                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Andre/@14.4467188,-87.6455277?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "RapiComidas y Pulperia Elian (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-22:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+504 9700-3300",
-        "address": "C9XJ+929 RapiComidas y Pulperia Elian, Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/RapiComidas+y+Pulper%C3%ADa+Elian/data=!4m7!3m6!1s0x8f65851b614008ed:0xb863fa17bdee1eaf!8m2!3d14.4484013!4d-87.6198915!16s%2Fg%2F11rq5l2ws6!19sChIJ7QhAYRuFZY8Rrx7uvRf6Y7g?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ2R4Jhs6FZY8R7FgSDm6KHm0",
@@ -4228,7 +4166,7 @@
             {
                 "name": "Atolera Yoselin",
                 "link": "https://www.google.com/maps/search/Atolera+Yoselin/@14.334084799999998,-87.5891403?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1488,
+                "reviews": 1490,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -4272,6 +4210,70 @@
         "address": "Atolera Yoselin Express, 301 Blvr. Roberto Romero Larios, 12101 Comayagua, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Atolera+Yoselin+Express/data=!4m7!3m6!1s0x8f6585b23203f887:0xb6a9dab36a01b248!8m2!3d14.4494963!4d-87.63074!16s%2Fg%2F11q2z6zp2l!19sChIJh_gDMrKFZY8RSLIBarPaqbY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7QhAYRuFZY8Rrx7uvRf6Y7g",
+        "name": "RapiComidas y Pulperia Elian",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Pulperia Ana",
+                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Ana/@14.482792700000001,-87.7036605?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Pulperia Daily",
+                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Daily/@14.448131799999999,-87.6464833?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Pulperia Dely",
+                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Dely/@14.446193599999999,-87.6245162?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Pulperia Dany",
+                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Dany/@14.4607849,-87.63286910000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bian Li Dian "
+            },
+            {
+                "name": "Pulperia Andre",
+                "link": "https://www.google.com/maps/search/Pulper%C3%ADa+Andre/@14.4467188,-87.6455277?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "RapiComidas y Pulperia Elian (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+504 9700-3300",
+        "address": "C9XJ+929 RapiComidas y Pulperia Elian, Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/RapiComidas+y+Pulper%C3%ADa+Elian/data=!4m7!3m6!1s0x8f65851b614008ed:0xb863fa17bdee1eaf!8m2!3d14.4484013!4d-87.6198915!16s%2Fg%2F11rq5l2ws6!19sChIJ7QhAYRuFZY8Rrx7uvRf6Y7g?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ06amnImFZY8RSpUaN1kPmb4",
@@ -4344,7 +4346,7 @@
         "competitors": [
             {
                 "name": "Licuados San Antonio",
-                "link": "https://www.google.com/maps/search/Licuados+San+Antonio/@14.3653528,-87.707636?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Licuados+San+Antonio/@14.3653808,-87.7076421?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 6,
                 "rating": 5,
                 "main_category": "Jian Bing "
@@ -4396,6 +4398,32 @@
         "address": "977R+XPC Bella's Bakery, Unnamed Road, Lejamani, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Bella%E2%80%99s+Bakery/data=!4m7!3m6!1s0x8f659d7f7023a3fb:0xf11a6a4a046965ed!8m2!3d14.3649361!4d-87.7082192!16s%2Fg%2F11nftvxm3v!19sChIJ-6MjcH-dZY8R7WVpBEpqGvE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJRViecgCPZY8RiZIir241BrY",
+        "name": "Casa de Vanessa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Casa de Vanessa (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "F999+7QH Casa de Vanessa, Tanque aguas de comayagua, Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Casa+de+Vanessa/data=!4m7!3m6!1s0x8f658f00729e5845:0xb606356eaf229289!8m2!3d14.4673061!4d-87.629988!16s%2Fg%2F11y23hm_fw!19sChIJRViecgCPZY8RiZIir241BrY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJZQGmsI2PZY8Ryr-bt27EF4c",
@@ -4486,6 +4514,32 @@
         "link": "https://www.google.com/maps/place/Pulper%C3%ADa+josue/data=!4m7!3m6!1s0x8f658514963fb4d9:0x831599a8901ffe9!8m2!3d14.4488797!4d-87.6598396!16s%2Fg%2F11vlg5z0ft!19sChIJ2bQ_lhSFZY8R6f8BiZpZMQg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJKffwDRGFZY8R8qseCZRdb5E",
+        "name": "Pulperia Romed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pulperia Romed (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian "
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "F923+396 Pulperia Romed, Bo. Independencia, Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pulper%C3%ADa+Romed/data=!4m7!3m6!1s0x8f6585110df0f729:0x916f5d94091eabf2!8m2!3d14.4501529!4d-87.6466243!16s%2Fg%2F11kpy2l8zx!19sChIJKffwDRGFZY8R8qseCZRdb5E?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ6dHeZTGPZY8R1p8X8zl5v3A",
         "name": "CITIMARKET Comayagua",
         "description": null,
@@ -4520,120 +4574,32 @@
         "link": "https://www.google.com/maps/place/CITIMARKET+Comayagua/data=!4m7!3m6!1s0x8f658f3165ded1e9:0x70bf7939f3179fd6!8m2!3d14.4627825!4d-87.6438061!16s%2Fg%2F11h1df0g6y!19sChIJ6dHeZTGPZY8R1p8X8zl5v3A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJKffwDRGFZY8R8qseCZRdb5E",
-        "name": "Pulperia Romed",
+        "place_id": "ChIJn2neZ4CFZY8RvFdUbpFl0Wg",
+        "name": "Deith coffee's",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1,
+        "reviews": null,
         "competitors": [],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Pulperia Romed (Ye Zhu )",
-            "link": null
+            "id": "114458498443686088854",
+            "name": "Deith coffee's (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114458498443686088854"
         },
         "featured_image": null,
-        "main_category": "Bian Li Dian ",
+        "main_category": "Zheng Liu Ka Pei Ba ",
         "categories": [
-            "Bian Li Dian "
+            "Zheng Liu Ka Pei Ba "
         ],
-        "rating": 1,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "F923+396 Pulperia Romed, Bo. Independencia, Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Pulper%C3%ADa+Romed/data=!4m7!3m6!1s0x8f6585110df0f729:0x916f5d94091eabf2!8m2!3d14.4501529!4d-87.6466243!16s%2Fg%2F11kpy2l8zx!19sChIJKffwDRGFZY8R8qseCZRdb5E?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJcfuDgpSFZY8Rq_3lheaDHdw",
-        "name": "tu bodeguita express",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Bodega Edmar",
-                "link": "https://www.google.com/maps/search/Bodega+Edmar/@14.455191899999999,-87.62353979999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Bodega Santa MARIA",
-                "link": "https://www.google.com/maps/search/Bodega+Santa+MARIA/@14.4494868,-87.6365857?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Bodega Mejia",
-                "link": "https://www.google.com/maps/search/Bodega+Mej%C3%ADa/@14.4574821,-87.6405509?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Bodega Linda",
-                "link": "https://www.google.com/maps/search/Bodega+Linda/@14.454754399999999,-87.63958769999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shi Chang "
-            },
-            {
-                "name": "Bodega AMOR",
-                "link": "https://www.google.com/maps/search/Bodega+AMOR/@14.4534218,-87.6395072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "110486965256515193059",
-            "name": "tu bodeguita express (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110486965256515193059"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMA6lzdm1Gn61PkLQzAlPIwKwhLCQ2ftyBXhgML=w408-h413-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 5,
-        "workday_timing": "07:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+504 8985-5757",
-        "address": "tu bodeguita express, frente bodega el Jordan, col. Jazmines, Blvr. Roberto Romero Larios, Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/tu+bodeguita+express/data=!4m7!3m6!1s0x8f6585948283fb71:0xdc1d83e685e5fdab!8m2!3d14.4524698!4d-87.6296392!16s%2Fg%2F11t1td_wgx!19sChIJcfuDgpSFZY8Rq_3lheaDHdw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJWZJ2C_aFZY8RQ72nQK5ej9w",
-        "name": "Pulperia Lizzy Jireth",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "110290367970224652780",
-            "name": "Pulperia Lizzy Jireth (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110290367970224652780"
-        },
-        "featured_image": null,
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 5,
-        "workday_timing": "06:00-20:00",
+        "rating": null,
+        "workday_timing": "09:00-05:30",
         "closed_on": [
             "Xing Qi Ri "
         ],
-        "phone": null,
-        "address": "Pulperia Lizzy Jireth, 12101 Comayagua, Hong Du La Si ",
+        "phone": "+504 9782-9076",
+        "address": "Deith coffee's, Sur, 12101 Comayagua, Hong Du La Si ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Pulper%C3%ADa+Lizzy+Jireth/data=!4m7!3m6!1s0x8f6585f60b769259:0xdc8f5eae40a7bd43!8m2!3d14.4477279!4d-87.6263862!16s%2Fg%2F11krj3zyrc!19sChIJWZJ2C_aFZY8RQ72nQK5ej9w?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Deith+coffee%27s/data=!4m7!3m6!1s0x8f65858067de699f:0x68d165916e5457bc!8m2!3d14.4413833!4d-87.6410908!16s%2Fg%2F11ssz6ptpf!19sChIJn2neZ4CFZY8RvFdUbpFl0Wg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJLbmyom6FZY8R3trLMteAzzY",
@@ -5140,8 +5106,8 @@
             {
                 "name": "Cafe Tio Juan",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+T%C3%ADo+Juan/@14.324370599999998,-87.58602530000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4,
+                "reviews": 17,
+                "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -5272,34 +5238,6 @@
         "address": "F934+32P Mi casa, mi comida, Comayagua, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Mi+casa,+mi+comida/data=!4m7!3m6!1s0x8f658510651ef0c9:0x9f998a0ad5e7a75b!8m2!3d14.4527236!4d-87.6449347!16s%2Fg%2F11txsfzrwk!19sChIJyfAeZRCFZY8RW6fn1QqKmZ8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJn2neZ4CFZY8RvFdUbpFl0Wg",
-        "name": "Deith coffee's",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "114458498443686088854",
-            "name": "Deith coffee's (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114458498443686088854"
-        },
-        "featured_image": null,
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": null,
-        "workday_timing": "09:00-05:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+504 9782-9076",
-        "address": "Deith coffee's, Sur, 12101 Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Deith+coffee%27s/data=!4m7!3m6!1s0x8f65858067de699f:0x68d165916e5457bc!8m2!3d14.4413833!4d-87.6410908!16s%2Fg%2F11ssz6ptpf!19sChIJn2neZ4CFZY8RvFdUbpFl0Wg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJjy6pdcOFZY8RKA2Au_e4SEQ",
@@ -5528,32 +5466,6 @@
         "link": "https://www.google.com/maps/place/Colonial+Coffee+Hn/data=!4m7!3m6!1s0x8f6585ef37ef163f:0x1530538d0d1911a2!8m2!3d14.4490149!4d-87.6482474!16s%2Fg%2F11vhyf2z1p!19sChIJPxbvN--FZY8RohEZDY1TMBU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ-x2l3n6FZY8Rs0GSEasYsWQ",
-        "name": "La Gran Fruta, Comayagua",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "109883863384543645160",
-            "name": "La Gran Fruta, Comayagua (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109883863384543645160"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXsmpq99niNR4lQLD2NLHIg36fZM6Jcx6rwJk8=w408-h306-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+504 9340-9338",
-        "address": "La Gran Fruta, Comayagua, 01001, Comayagua, Hong Du La Si ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/La+Gran+Fruta,+Comayagua/data=!4m7!3m6!1s0x8f65857edea51dfb:0x64b118ab119241b3!8m2!3d14.4572836!4d-87.6302836!16s%2Fg%2F11vl9jnprt!19sChIJ-x2l3n6FZY8Rs0GSEasYsWQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ41eUCVqFZY8RGSxPdRd_MIM",
         "name": "Comidas Rapidas D Mas y Maria",
         "description": null,
@@ -5607,6 +5519,32 @@
         "address": "F945+28F Comidas Rapidas D Mas y Maria, Comayagua, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Comidas+R%C3%A1pidas+D+M%C3%A1s+y+Mar%C3%ADa/data=!4m7!3m6!1s0x8f65855a099457e3:0x83307f17754f2c19!8m2!3d14.4550598!4d-87.6417036!16s%2Fg%2F11s4g5zymt!19sChIJ41eUCVqFZY8RGSxPdRd_MIM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-x2l3n6FZY8Rs0GSEasYsWQ",
+        "name": "La Gran Fruta, Comayagua",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "109883863384543645160",
+            "name": "La Gran Fruta, Comayagua (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109883863384543645160"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXsmpq99niNR4lQLD2NLHIg36fZM6Jcx6rwJk8=w408-h306-k-no",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": null,
+        "workday_timing": "10:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+504 9340-9338",
+        "address": "La Gran Fruta, Comayagua, 01001, Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Gran+Fruta,+Comayagua/data=!4m7!3m6!1s0x8f65857edea51dfb:0x64b118ab119241b3!8m2!3d14.4572836!4d-87.6302836!16s%2Fg%2F11vl9jnprt!19sChIJ-x2l3n6FZY8Rs0GSEasYsWQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJAXUvrNabZY8RQdfGe_eqHl0",
@@ -6036,6 +5974,70 @@
         "address": "96MF+J4Q Fica cafe, Ajuterique, Comayagua, Hong Du La Si ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Fica+cafe/data=!4m7!3m6!1s0x8f659960d0237dcf:0xa1644e1509afdd12!8m2!3d14.3840993!4d-87.7771289!16s%2Fg%2F11vd0q_z53!19sChIJz30j0GCZZY8REt2vCRVOZKE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJyUcnpDmFZY8RXSnXcBJ_vwg",
+        "name": "Bodega La Confianza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Comercial La Confianza",
+                "link": "https://www.google.com/maps/search/Comercial+La+Confianza/@14.4470966,-87.6298116?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.1,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Bodega La Bendicion De Dios",
+                "link": "https://www.google.com/maps/search/Bodega+La+Bendicion+De+Dios/@14.4547119,-87.6395642?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Shi Chang "
+            },
+            {
+                "name": "Bodega Mejia",
+                "link": "https://www.google.com/maps/search/Bodega+Mej%C3%ADa/@14.4574821,-87.6405509?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Bodega AMOR",
+                "link": "https://www.google.com/maps/search/Bodega+AMOR/@14.4534218,-87.6395072?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Confiteria Elizabeth",
+                "link": "https://www.google.com/maps/search/Confiteria+Elizabeth/@14.455103699999999,-87.6416858?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Tang Guo Gao Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bodega La Confianza (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian "
+        ],
+        "rating": null,
+        "workday_timing": "07:00-06:00",
+        "closed_on": [
+            "Xing Qi Liu "
+        ],
+        "phone": "+504 9928-4166",
+        "address": "Bodega La Confianza, 3a avenida SE 99284166, 12101 Comayagua, Hong Du La Si ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bodega+La+Confianza/data=!4m7!3m6!1s0x8f658539a42747c9:0x8bf7f1270d7295d!8m2!3d14.4559587!4d-87.6377504!16s%2Fg%2F11rl5sxzt7!19sChIJyUcnpDmFZY8RXSnXcBJ_vwg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJs_qMUXebZY8RVT1BtKgO4LE",

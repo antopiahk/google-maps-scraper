@@ -1,86 +1,10 @@
 [
     {
-        "place_id": "ChIJYTEVFcaNQEcRvl_k1eQNY4Q",
-        "name": "Tesco",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5996,
-        "competitors": [
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.92572,20.36782?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2824,
-                "rating": 4.4,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "Coop Szuper",
-                "link": "https://www.google.com/maps/search/Coop+Szuper/@47.9187814,20.3700243?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 214,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Alma Pharmacy, Eger",
-                "link": "https://www.google.com/maps/search/Alma+Pharmacy%2C+Eger/@47.925525,20.3705908?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 3.8,
-                "main_category": "Yao Fang "
-            },
-            {
-                "name": "Eger Tesco Posta",
-                "link": "https://www.google.com/maps/search/Eger+Tesco+Posta/@47.9242454,20.369911899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 3,
-                "main_category": "You Zheng Ju "
-            },
-            {
-                "name": "Eger, TESCO aruhaz",
-                "link": "https://www.google.com/maps/search/Eger%2C+TESCO+%C3%A1ruh%C3%A1z/@47.923702999999996,20.370559?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Gong Che Zhan "
-            }
-        ],
-        "website": "http://tesco.hu/aruhazak/aruhaz/29",
-        "owner": {
-            "id": "108424376185288766496",
-            "name": "Tesco (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108424376185288766496"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_UU58Ko02rmZvOqPoQH3N8QFo03Mdxo6v_1X8=w408-h306-k-no",
-        "main_category": "Da Xing Chao Ji Shi Chang ",
-        "categories": [
-            "Da Xing Chao Ji Shi Chang ",
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 3.9,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Tesco, II. Rakoczi Ferenc u. 100, 3300 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Ce Suo ",
-                "count": 3
-            },
-            {
-                "keyword": "Gong Ying ",
-                "count": 3
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Tesco/data=!4m7!3m6!1s0x47408dc615153161:0x84630de4d5e45fbe!8m2!3d47.925017!4d20.3704498!16s%2Fg%2F1hg5162_m!19sChIJYTEVFcaNQEcRvl_k1eQNY4Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ07dgYJuNQEcRZW6uf6wxbws",
         "name": "Marjan Confectionery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3516,
+        "reviews": 3517,
         "competitors": [
             {
                 "name": "Boldizsar cukraszda",
@@ -125,7 +49,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 36 312 784",
         "address": "Eger, Marjan Confectionery, Kossuth Lajos u. 28, 3300 Xiong Ya Li ",
         "review_keywords": [
@@ -157,214 +84,23 @@
         "link": "https://www.google.com/maps/place/Marjan+Confectionery/data=!4m7!3m6!1s0x47408d9b6060b7d3:0xb6f31ac7fae6e65!8m2!3d47.9019165!4d20.3808041!16s%2Fg%2F1whdh3d6!19sChIJ07dgYJuNQEcRZW6uf6wxbws?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJw4s6rciNQEcRLLsLsyc0YZE",
-        "name": "Lidl",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2824,
-        "competitors": [
-            {
-                "name": "Tesco",
-                "link": "https://www.google.com/maps/search/Tesco/@47.925017,20.370449800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5993,
-                "rating": 3.9,
-                "main_category": "Da Xing Chao Ji Shi Chang "
-            },
-            {
-                "name": "PENNY Felsovaros",
-                "link": "https://www.google.com/maps/search/PENNY+Fels%C5%91v%C3%A1ros/@47.922554,20.3699646?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1221,
-                "rating": 4.1,
-                "main_category": "Zhe Kou Shang Dian "
-            },
-            {
-                "name": "Coop Szuper",
-                "link": "https://www.google.com/maps/search/Coop+Szuper/@47.9187814,20.3700243?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 214,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Shell",
-                "link": "https://www.google.com/maps/search/Shell/@47.9206657,20.368904399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
-                "rating": 4.2,
-                "main_category": "You Zhan "
-            }
-        ],
-        "website": "https://www.lidl.hu/",
-        "owner": {
-            "id": "115383664135024564826",
-            "name": "Lidl (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115383664135024564826"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9inwEl-HBnSn8Z_Fnnm-AAPedcgH-_QbnEJG5=w408-h452-k-no",
-        "main_category": "Ping Jia Chao Ji Shi Chang ",
-        "categories": [
-            "Ping Jia Chao Ji Shi Chang ",
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 4.4,
-        "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 80 020 534",
-        "address": "Eger, Lidl, II. Rakoczi Ferenc u. 141, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Lidl/data=!4m7!3m6!1s0x47408dc8ad3a8bc3:0x91613427b30bbb2c!8m2!3d47.92572!4d20.36782!16s%2Fg%2F1pxq9t_b_!19sChIJw4s6rciNQEcRLLsLsyc0YZE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJyQcPdHyNQEcRDPc1UBdIBrE",
-        "name": "SPAR szupermarket",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2654,
-        "competitors": [
-            {
-                "name": "dm-drogerie markt Kft.",
-                "link": "https://www.google.com/maps/search/dm-drogerie+markt+Kft./@47.88991,20.381159999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 4.9,
-                "main_category": "Yao Fang "
-            },
-            {
-                "name": "Sparvirag Eger",
-                "link": "https://www.google.com/maps/search/Sparvir%C3%A1g+Eger/@47.8901368,20.3808638?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.2,
-                "main_category": "Hua Dian "
-            },
-            {
-                "name": "Szazas kisbolt",
-                "link": "https://www.google.com/maps/search/Sz%C3%A1zas+kisbolt/@47.883464,20.3815292?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Gasztro-Kamra Eger (Spar szomszedsagaban)",
-                "link": "https://www.google.com/maps/search/Gasztro-Kamra+Eger+%28Spar+szomsz%C3%A9ds%C3%A1g%C3%A1ban%29/@47.890102,20.382071999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 2.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Eger, Szena Ter Buszmegallo (Spar, Vasutallomas)",
-                "link": "https://www.google.com/maps/search/Eger%2C+Sz%C3%A9na+T%C3%A9r+Buszmeg%C3%A1ll%C3%B3+%28Spar%2C+Vas%C3%BAt%C3%A1llom%C3%A1s%29/@47.8897182,20.3800473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ba Shi Piao Wu Dai Li "
-            }
-        ],
-        "website": "https://www.spar.hu/uzletek/spar-szupermarket-eger-3300-sas-utca-1-",
-        "owner": {
-            "id": "109780590100602064074",
-            "name": "SPAR szupermarket (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109780590100602064074"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpdMNnFgsSb68Ll_SPuSbrhqXcRaL46DUrcsND=w427-h240-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang ",
-            "Za Huo Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 823 7802",
-        "address": "Eger, SPAR szupermarket, Sas u. 1, 3300 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/SPAR+szupermarket/data=!4m7!3m6!1s0x47408d7c740f07c9:0xb10648175035f70c!8m2!3d47.8899323!4d20.3811786!16s%2Fg%2F1hjgxv7rs!19sChIJyQcPdHyNQEcRDPc1UBdIBrE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJtwfda8iNQEcRsjZxorqQoxE",
-        "name": "Tesco",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2520,
-        "competitors": [
-            {
-                "name": "Agria Park Shopping Center",
-                "link": "https://www.google.com/maps/search/Agria+Park+Shopping+Center/@47.899288399999996,20.368869500000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7176,
-                "rating": 4.4,
-                "main_category": "Gou Wu Zhong Xin "
-            },
-            {
-                "name": "City SPAR",
-                "link": "https://www.google.com/maps/search/City+SPAR/@47.9024751,20.376284599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1220,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Alma Pharmacy, Eger",
-                "link": "https://www.google.com/maps/search/Alma+Pharmacy%2C+Eger/@47.925525,20.3705908?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 3.8,
-                "main_category": "Yao Fang "
-            },
-            {
-                "name": "Nemzeti Dohanybolt - Lottozo",
-                "link": "https://www.google.com/maps/search/Nemzeti+Doh%C3%A1nybolt+-+Lott%C3%B3z%C3%B3/@47.9002494,20.3682748?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 3.9,
-                "main_category": "Yan Cao Dian "
-            },
-            {
-                "name": "Eger, TESCO aruhaz",
-                "link": "https://www.google.com/maps/search/Eger%2C+TESCO+%C3%A1ruh%C3%A1z/@47.923702999999996,20.370559?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Gong Che Zhan "
-            }
-        ],
-        "website": "https://tesco.hu/aruhazak/aruhaz/tesco-eger-agria-park-szupermarket",
-        "owner": {
-            "id": "111542830469983262595",
-            "name": "Tesco (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111542830469983262595"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOige6soAHSzR-n3dRjAKEKERnHO73io6ddTRam=w426-h240-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 3.9,
-        "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Tesco, Torvenyhaz u. 4, 3300 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Tesco/data=!4m7!3m6!1s0x47408dc86bdd07b7:0x11a390baa27136b2!8m2!3d47.9008314!4d20.367232!16s%2Fg%2F12qg46c6m!19sChIJtwfda8iNQEcRsjZxorqQoxE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJZdaSMpyNQEcRnReY9XkbPhM",
         "name": "Piggy Fanny Restaurant & Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2082,
+        "reviews": 2091,
         "competitors": [
             {
                 "name": "Palacsintavar Etterem",
                 "link": "https://www.google.com/maps/search/Palacsintav%C3%A1r+%C3%89tterem/@47.9029309,20.3793737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4121,
+                "reviews": 4124,
                 "rating": 4.5,
                 "main_category": "Jian Bing "
             },
             {
                 "name": "Foter Cafe Restaurant",
                 "link": "https://www.google.com/maps/search/F%C5%91t%C3%A9r+Cafe+Restaurant/@47.90278120000001,20.3768022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1672,
+                "reviews": 1673,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -419,6 +155,14 @@
             {
                 "keyword": "Xiong Ya Li ",
                 "count": 5
+            },
+            {
+                "keyword": "Tian Dian ",
+                "count": 4
+            },
+            {
+                "keyword": "Nei Xian ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Piggy+Fanny+Restaurant+%26+Cafe/data=!4m7!3m6!1s0x47408d9c3292d665:0x133e1b79f598179d!8m2!3d47.9007108!4d20.3748532!16s%2Fg%2F1tgnqfgk!19sChIJZdaSMpyNQEcRnReY9XkbPhM?authuser=0&hl=zh-TW&rclk=1"
@@ -428,12 +172,12 @@
         "name": "Cafe Frei Eger",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1742,
+        "reviews": 1745,
         "competitors": [
             {
                 "name": "Central Park Eger Board game Cafe & Bar",
                 "link": "https://www.google.com/maps/search/Central+Park+Eger+Board+game+Caf%C3%A9+%26+Bar/@47.901556,20.3755581?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 584,
+                "reviews": 586,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -447,14 +191,14 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Rock Cafe",
                 "link": "https://www.google.com/maps/search/Rock+Caf%C3%A9/@47.888933599999994,20.3844472?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -495,35 +239,35 @@
             {
                 "name": "Palacsintavar Etterem",
                 "link": "https://www.google.com/maps/search/Palacsintav%C3%A1r+%C3%89tterem/@47.9029309,20.3793737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4121,
+                "reviews": 4124,
                 "rating": 4.5,
                 "main_category": "Jian Bing "
             },
             {
                 "name": "Piggy Fanny Restaurant & Cafe",
                 "link": "https://www.google.com/maps/search/Piggy+Fanny+Restaurant+%26+Cafe/@47.9007108,20.3748532?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2082,
+                "reviews": 2091,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "DEPRESSO KITCHEN Etterem",
                 "link": "https://www.google.com/maps/search/DEPRESSO+KITCHEN+%C3%89tterem/@47.901934999999995,20.3762926?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1609,
+                "reviews": 1612,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Forst-Haz Etterem es Kavezo",
                 "link": "https://www.google.com/maps/search/Forst-H%C3%A1z+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.902143099999996,20.3762205?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1185,
+                "reviews": 1186,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Deja vu Cafe",
                 "link": "https://www.google.com/maps/search/D%C3%A9j%C3%A1+vu+Cafe/@47.9019069,20.3740565?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 924,
+                "reviews": 925,
                 "rating": 3.4,
                 "main_category": "Can Ting "
             }
@@ -581,198 +325,11 @@
         "link": "https://www.google.com/maps/place/F%C5%91t%C3%A9r+Cafe+Restaurant/data=!4m7!3m6!1s0x47408d9bf7d32bc1:0xf863d3dbac0ef6a3!8m2!3d47.9027812!4d20.3768022!16s%2Fg%2F1ptyfclhf!19sChIJwSvT95uNQEcRo_YOrNvTY_g?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJQ7fI_Z6NQEcRtIj60I8CUK4",
-        "name": "SPAR szupermarket",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1463,
-        "competitors": [
-            {
-                "name": "Euro Csemege",
-                "link": "https://www.google.com/maps/search/Euro+Csemege/@47.8991677,20.3799988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 3.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Gasztro-Kamra Eger (Spar szomszedsagaban)",
-                "link": "https://www.google.com/maps/search/Gasztro-Kamra+Eger+%28Spar+szomsz%C3%A9ds%C3%A1g%C3%A1ban%29/@47.890102,20.382071999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 2.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Eger, Szena Ter Buszmegallo (Spar, Vasutallomas)",
-                "link": "https://www.google.com/maps/search/Eger%2C+Sz%C3%A9na+T%C3%A9r+Buszmeg%C3%A1ll%C3%B3+%28Spar%2C+Vas%C3%BAt%C3%A1llom%C3%A1s%29/@47.8897182,20.3800473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ba Shi Piao Wu Dai Li "
-            },
-            {
-                "name": "Csemege Szupermarketek Rt.",
-                "link": "https://www.google.com/maps/search/Csemege+Szupermarketek+Rt./@47.869001399999995,20.404204699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://www.spar.hu/uzletek/spar-szupermarket-eger-3300-barkoczy-utca-6-",
-        "owner": {
-            "id": "109080597988413218195",
-            "name": "SPAR szupermarket (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109080597988413218195"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOIKxhcfFIxhVggByBEAi27O-Xg6r3B27w6Uoew=w427-h240-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang ",
-            "Za Huo Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 823 7896",
-        "address": "Eger, SPAR szupermarket, Barkoczy u. 6, 3300 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Zhuan Yun Zhan ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/SPAR+szupermarket/data=!4m7!3m6!1s0x47408d9efdc8b743:0xae50028fd0fa88b4!8m2!3d47.9011251!4d20.3707448!16s%2Fg%2F1hjgk4t8m!19sChIJQ7fI_Z6NQEcRtIj60I8CUK4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ0XbvxKGSQEcRDPbujB9GFQE",
-        "name": "PENNY Lajosvaros",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1299,
-        "competitors": [
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.87038,20.38027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2369,
-                "rating": 4.5,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "ALDI",
-                "link": "https://www.google.com/maps/search/ALDI/@47.8717268,20.381598399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 588,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "SPAR Express",
-                "link": "https://www.google.com/maps/search/SPAR+Express/@47.8906766,20.3787876?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 477,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Matyas Csemege",
-                "link": "https://www.google.com/maps/search/M%C3%A1ty%C3%A1s+Csemege/@47.8820974,20.3810373?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 69,
-                "rating": 4.4,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Zita Zoldseg-Gyumolcs",
-                "link": "https://www.google.com/maps/search/Zita+Z%C3%B6lds%C3%A9g-Gy%C3%BCm%C3%B6lcs/@47.8821078,20.3811689?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Shu Guo Dian "
-            }
-        ],
-        "website": "https://www.penny.hu/",
-        "owner": {
-            "id": "112534956474804606814",
-            "name": "PENNY Lajosvaros (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112534956474804606814"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMlgkpONoEXzgwZQtXGRihJDIzdlvMkb7WWsffm=w408-h723-k-no",
-        "main_category": "Zhe Kou Shang Dian ",
-        "categories": [
-            "Zhe Kou Shang Dian ",
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 4.2,
-        "workday_timing": "06:30-20:30",
-        "closed_on": "Open All Days",
-        "phone": "+36 29 339 345",
-        "address": "Eger, PENNY Lajosvaros, Matyas kiraly ut 139, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PENNY+Lajosv%C3%A1ros/data=!4m7!3m6!1s0x474092a1c4ef76d1:0x115461f8ceef60c!8m2!3d47.8750686!4d20.3829461!16s%2Fg%2F12ml2vn0p!19sChIJ0XbvxKGSQEcRDPbujB9GFQE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJY8t7CJyNQEcREqffG4Ou7_s",
-        "name": "City SPAR",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1220,
-        "competitors": [
-            {
-                "name": "COOP Szuper (661. sz. COOP Szuper)",
-                "link": "https://www.google.com/maps/search/COOP+Szuper+%28661.+sz.+COOP+Szuper%29/@47.910449899999996,20.3732565?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 256,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Euro Csemege",
-                "link": "https://www.google.com/maps/search/Euro+Csemege/@47.8991677,20.3799988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 3.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Discount Grocery",
-                "link": "https://www.google.com/maps/search/Discount+Grocery/@47.9030671,20.3753034?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
-                "rating": 4.3,
-                "main_category": "12 Yuan Dian "
-            },
-            {
-                "name": "Sparvirag Eger",
-                "link": "https://www.google.com/maps/search/Sparvir%C3%A1g+Eger/@47.8901368,20.3808638?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.2,
-                "main_category": "Hua Dian "
-            },
-            {
-                "name": "Bajcsy Csemege",
-                "link": "https://www.google.com/maps/search/Bajcsy+Csemege/@47.9014422,20.3764166?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 3.8,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://www.spar.hu/uzletek/city-spar-eger-3300-dobo-istvan-ter-1-",
-        "owner": {
-            "id": "111907852883511015047",
-            "name": "City SPAR (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111907852883511015047"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObhkdJLmJEwGk6JkAJXoYw5wetvVXOdk3uq3GE=w427-h240-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian ",
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 4.1,
-        "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 823 7357",
-        "address": "Eger, City SPAR, Dobo Istvan ter 1, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/City+SPAR/data=!4m7!3m6!1s0x47408d9c087bcb63:0xfbefae831bdfa712!8m2!3d47.9024751!4d20.3762846!16s%2Fg%2F1s04b5wcq!19sChIJY8t7CJyNQEcREqffG4Ou7_s?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJlaEwxZuNQEcRcliiT-Lf-vw",
         "name": "Forst-Haz Etterem es Kavezo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1185,
+        "reviews": 1186,
         "competitors": [],
         "website": "http://forsthaz.hu/de/",
         "owner": {
@@ -805,6 +362,10 @@
                 "count": 4
             },
             {
+                "keyword": "Ka Pei ",
+                "count": 4
+            },
+            {
                 "keyword": "Zhuo ",
                 "count": 4
             },
@@ -827,10 +388,6 @@
             {
                 "keyword": "Niu Pai ",
                 "count": 3
-            },
-            {
-                "keyword": "Sha La ",
-                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Forst-H%C3%A1z+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m10!3m9!1s0x47408d9bc530a195:0xfcfadfe24fa25872!5m2!4m1!1i2!8m2!3d47.9021431!4d20.3762205!16s%2Fg%2F1tnjhbvn!19sChIJlaEwxZuNQEcRcliiT-Lf-vw?authuser=0&hl=zh-TW&rclk=1"
@@ -845,21 +402,21 @@
             {
                 "name": "DEPRESSO KITCHEN Etterem",
                 "link": "https://www.google.com/maps/search/DEPRESSO+KITCHEN+%C3%89tterem/@47.901934999999995,20.3762926?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1609,
+                "reviews": 1612,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kappu plusz Cafe * Bar",
                 "link": "https://www.google.com/maps/search/Kappu+plusz+Cafe+%E2%80%A2+Bar/@47.9771801,20.4296433?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 282,
+                "reviews": 285,
                 "rating": 5,
                 "main_category": "Jiu Ba "
             },
@@ -919,7 +476,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -983,12 +540,12 @@
         "name": "Manooka Kavezo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 781,
+        "reviews": 784,
         "competitors": [
             {
                 "name": "DEPRESSO KITCHEN Etterem",
                 "link": "https://www.google.com/maps/search/DEPRESSO+KITCHEN+%C3%89tterem/@47.901934999999995,20.3762926?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1609,
+                "reviews": 1612,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -1002,14 +559,14 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Kappu plusz Cafe * Bar",
                 "link": "https://www.google.com/maps/search/Kappu+plusz+Cafe+%E2%80%A2+Bar/@47.9771801,20.4296433?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 282,
+                "reviews": 285,
                 "rating": 5,
                 "main_category": "Jiu Ba "
             }
@@ -1028,7 +585,9 @@
         "rating": 4.6,
         "workday_timing": "08:00-13:00",
         "closed_on": [
-            "Xing Qi Er "
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
         ],
         "phone": "+36 36 796 601",
         "address": "Eger, Manooka Kavezo, Bajcsy-Zsilinszky Endre 17, 3300 Xiong Ya Li ",
@@ -1069,79 +628,16 @@
         "link": "https://www.google.com/maps/place/Manooka+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47408d9b9a6fa6cb:0x9413234798c2f02e!8m2!3d47.9013649!4d20.3763!16s%2Fg%2F11gj0x1g2f!19sChIJy6ZvmpuNQEcRLvDCmEcjE5Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJj-rs_T6TQEcRZth2d8WK32s",
-        "name": "ALDI",
-        "description": "Fan Shou Ge Zhong Za Huo , Rou Lei He Ru Zhi Pin De Lian Suo Ling Shou Shang . ",
-        "is_spending_on_ads": false,
-        "reviews": 589,
-        "competitors": [
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.87038,20.38027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2369,
-                "rating": 4.5,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "SPAR Express",
-                "link": "https://www.google.com/maps/search/SPAR+Express/@47.8906766,20.3787876?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 477,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Agria Market Kft.",
-                "link": "https://www.google.com/maps/search/Agria+Market+Kft./@47.8889906,20.3953687?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Matyas Csemege",
-                "link": "https://www.google.com/maps/search/M%C3%A1ty%C3%A1s+Csemege/@47.8820974,20.3810373?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 69,
-                "rating": 4.4,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Zita Zoldseg-Gyumolcs",
-                "link": "https://www.google.com/maps/search/Zita+Z%C3%B6lds%C3%A9g-Gy%C3%BCm%C3%B6lcs/@47.8821078,20.3811689?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Shu Guo Dian "
-            }
-        ],
-        "website": "https://www.aldi.hu/",
-        "owner": {
-            "id": "106191141733487204012",
-            "name": "ALDI (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106191141733487204012"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-4a87pvFgvB6caMV_hgFGA6D0VWTKGQ2biweN=w408-h306-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian ",
-            "Ping Jia Chao Ji Shi Chang "
-        ],
-        "rating": 4.5,
-        "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 80 088 264",
-        "address": "Eger, ALDI, Matyas kiraly ut 138, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/ALDI/data=!4m7!3m6!1s0x4740933efdecea8f:0x6bdf8ac57776d866!8m2!3d47.8717268!4d20.3815984!16s%2Fg%2F11rw7c671k!19sChIJj-rs_T6TQEcRZth2d8WK32s?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJseQPb3GNQEcRcV1PJci1eP8",
         "name": "Central Park Eger Board game Cafe & Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 585,
+        "reviews": 586,
         "competitors": [
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1155,7 +651,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1181,7 +677,8 @@
         "rating": 4.8,
         "workday_timing": "09:00-19:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+36 30 595 8834",
         "address": "Eger, Central Park Eger Board game Cafe & Bar, Ersek u. 11, 3300 Xiong Ya Li ",
@@ -1198,7 +695,7 @@
         "name": "Radi Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 560,
+        "reviews": 562,
         "competitors": [
             {
                 "name": "Lipoti Bakery",
@@ -1267,12 +764,12 @@
         "name": "Lipoti Bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 498,
+        "reviews": 499,
         "competitors": [
             {
                 "name": "Radi Pekseg",
                 "link": "https://www.google.com/maps/search/R%C3%A1di+P%C3%A9ks%C3%A9g/@47.9003437,20.3774595?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 559,
+                "reviews": 561,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1286,7 +783,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1332,40 +829,40 @@
         "name": "Itt es Most Etterem es Kavezo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 486,
+        "reviews": 488,
         "competitors": [
             {
                 "name": "Foter Cafe Restaurant",
                 "link": "https://www.google.com/maps/search/F%C5%91t%C3%A9r+Cafe+Restaurant/@47.90278120000001,20.3768022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1672,
+                "reviews": 1673,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "DEPRESSO KITCHEN Etterem",
                 "link": "https://www.google.com/maps/search/DEPRESSO+KITCHEN+%C3%89tterem/@47.901934999999995,20.3762926?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1609,
+                "reviews": 1612,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Forst-Haz Etterem es Kavezo",
                 "link": "https://www.google.com/maps/search/Forst-H%C3%A1z+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.902143099999996,20.3762205?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1185,
+                "reviews": 1186,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Trifla Ivo es Konyha",
                 "link": "https://www.google.com/maps/search/Trifla+Iv%C3%B3+%C3%A9s+Konyha/@47.901921099999996,20.373784399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1003,
+                "reviews": 1006,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Korzo Etterem",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+%C3%89tterem/@47.903172600000005,20.3776147?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 843,
+                "reviews": 845,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             }
@@ -1391,69 +888,13 @@
             {
                 "keyword": "Ka Pei ",
                 "count": 3
+            },
+            {
+                "keyword": "Tang ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Itt+%C3%A9s+Most+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47408d50990c8d7f:0xce80ea42b8e62d15!8m2!3d47.9029367!4d20.377103!16s%2Fg%2F11k8gh6fhk!19sChIJf40MmVCNQEcRFS3muELqgM4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ_Rk1tBKNQEcRdzSQ0NQ6Wx8",
-        "name": "Boldizsar cukraszda",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 482,
-        "competitors": [
-            {
-                "name": "Marjan Confectionery",
-                "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
-                "rating": 4.6,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Dessert Cafe and Confectionery",
-                "link": "https://www.google.com/maps/search/Dessert+Cafe+and+Confectionery/@47.8902669,20.3930136?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 295,
-                "rating": 4.6,
-                "main_category": "Shuang Dong You Ge "
-            },
-            {
-                "name": "Harmos Cukraszda",
-                "link": "https://www.google.com/maps/search/Harmos+Cukr%C3%A1szda/@47.9041971,20.372677?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
-                "rating": 4.3,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Bonjour Edes",
-                "link": "https://www.google.com/maps/search/Bonjour+%C3%89des/@47.902489599999996,20.3758378?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.4,
-                "main_category": "Tian Pin Dian "
-            }
-        ],
-        "website": "http://boldizsarcukraszda.hu/",
-        "owner": {
-            "id": "114811472883698884231",
-            "name": "Boldizsar cukraszda (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114811472883698884231"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1787dNH44_tiukFPeVCZ0RP5st6tpThtPuW8O=w408-h544-k-no",
-        "main_category": "Tang Guo Gao Bing Dian ",
-        "categories": [
-            "Tang Guo Gao Bing Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 36 565 158",
-        "address": "Eger, Boldizsar cukraszda, Bajcsy-Zsilinszky Endre 2, 3300 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Ka Pei ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Boldizs%C3%A1r+cukr%C3%A1szda/data=!4m7!3m6!1s0x47408d12b43519fd:0x1f5b3ad4d0903477!8m2!3d47.900695!4d20.376297!16s%2Fg%2F11f766_k_8!19sChIJ_Rk1tBKNQEcRdzSQ0NQ6Wx8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJXTngK5qNQEcRvU7pb6b7Wgw",
@@ -1465,21 +906,21 @@
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "DEPRESSO KITCHEN Etterem",
                 "link": "https://www.google.com/maps/search/DEPRESSO+KITCHEN+%C3%89tterem/@47.901934999999995,20.3762926?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1609,
+                "reviews": 1612,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1511,7 +952,9 @@
         ],
         "rating": 4.7,
         "workday_timing": "08:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 20 927 6226",
         "address": "Eger, Gorog Kavezo es Afrodite Apartmanok, Afrodite apartmanhaz, Dobo Istvan u. 22, 3300 Xiong Ya Li ",
         "review_keywords": [
@@ -1527,30 +970,73 @@
         "link": "https://www.google.com/maps/place/G%C3%B6r%C3%B6g+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Afrodit%C3%A9+Apartmanok,+Afrodite+apartmanh%C3%A1z/data=!4m7!3m6!1s0x47408d9a2be0395d:0xc5afba66fe94ebd!8m2!3d47.9031381!4d20.3786104!16s%2Fg%2F11bzzy5n4z!19sChIJXTngK5qNQEcRvU7pb6b7Wgw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJEb0aN5-NQEcRBFTmSXwv4v0",
+        "name": "Hotel Romantik - csaladbarat szallas Eger - EGER, SZALLAS, HOTEL, SZALLODA, PANZIO, ROMANTIK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 374,
+        "competitors": [],
+        "website": "https://romantikhotel.hu/",
+        "owner": {
+            "id": "115157886588043205984",
+            "name": "Hotel Romantik - csaladbarat szallas Eger - EGER, SZALLAS, HOTEL, SZALLODA, PANZIO, ROMANTIK (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115157886588043205984"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIkA_nBsFtITo4N_y5j4t0NBluoUf8E5bO4L3bOGoLcnzM7QMFnmheRwTuwBZjY11HhU4hQqVxpp51aRvWdpX4swKpUVqOTYnZN4LjngI9BkFSszQIzWJJIZG1JAJJ16rPr9QMUBVtcicJLgI_hCAXPTpUIQWTv2vZKtgw67Cy5koY_TGxFUTkM=w408-h306-k-no",
+        "main_category": "Jiu Dian ",
+        "categories": [
+            "Jiu Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 36 310 456",
+        "address": "Eger, Hotel Romantik - csaladbarat szallas Eger - EGER, SZALLAS, HOTEL, SZALLODA, PANZIO, ROMANTIK, Csiky Sandor u. 26, 3300 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Hua Yuan ",
+                "count": 7
+            },
+            {
+                "keyword": "Ting Che ",
+                "count": 7
+            },
+            {
+                "keyword": "Qing Jie ",
+                "count": 5
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Romantik+-+csal%C3%A1dbar%C3%A1t+sz%C3%A1ll%C3%A1s+Eger+-+EGER,+SZ%C3%81LL%C3%81S,+HOTEL,+SZ%C3%81LLODA,+PANZI%C3%93,+ROMANTIK/data=!4m10!3m9!1s0x47408d9f366452c9:0xfde22f7c49e65404!5m2!4m1!1i2!8m2!3d47.903428!4d20.37037!16s%2Fg%2F1hc3d34pg!19sChIJyVJkNp-NQEcRBFTmSXwv4v0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJM8QIvxuNQEcR_hD_jtRhpmM",
         "name": "Cafe Frei Eger Belvaros",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 363,
+        "reviews": 364,
         "competitors": [
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Central Park Eger Board game Cafe & Bar",
                 "link": "https://www.google.com/maps/search/Central+Park+Eger+Board+game+Caf%C3%A9+%26+Bar/@47.901556,20.3755581?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 584,
+                "reviews": 586,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1582,63 +1068,6 @@
         "link": "https://www.google.com/maps/place/Cafe+Frei+Eger+Belv%C3%A1ros/data=!4m7!3m6!1s0x47408d1bbf08c433:0x63a661d48eff10fe!8m2!3d47.9012112!4d20.3744642!16s%2Fg%2F11sh4hc79g!19sChIJM8QIvxuNQEcR_hD_jtRhpmM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJEa5_u56NQEcR_NuVRLlCZYU",
-        "name": "Urania Rendezvenykozpont",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 355,
-        "competitors": [
-            {
-                "name": "Marai Aktiv Turisztikai Latogatokozpont",
-                "link": "https://www.google.com/maps/search/M%C3%A1rai+Akt%C3%ADv+Turisztikai+L%C3%A1togat%C3%B3k%C3%B6zpont/@47.8895226,20.359206999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 103,
-                "rating": 4.5,
-                "main_category": "Lu Tian Ying Yuan "
-            },
-            {
-                "name": "Urania Apartmanhaz",
-                "link": "https://www.google.com/maps/search/Ur%C3%A1nia+Apartmanh%C3%A1z/@47.902485,20.373831?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.7,
-                "main_category": "Du Jia Chu Zu Gong Yu "
-            },
-            {
-                "name": "Plaza Rendezvenyter",
-                "link": "https://www.google.com/maps/search/Pl%C3%A1za+Rendezv%C3%A9nyt%C3%A9r/@47.9000969,20.3680509?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Hun Li Chang Di "
-            },
-            {
-                "name": "Kabareteatrum Eger",
-                "link": "https://www.google.com/maps/search/Kabar%C3%A9te%C3%A1trum+Eger/@47.9048878,20.376481599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Xi Ju Ju Le Bu "
-            }
-        ],
-        "website": "https://uraniaeger.hu/",
-        "owner": {
-            "id": "116662000466264030654",
-            "name": "Urania Rendezvenykozpont (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116662000466264030654"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPHe5oeGkWm5lEOA8iokYp1x3PVzDG8fOcFxyuS=w408-h305-k-no",
-        "main_category": "Biao Yan Chang Di ",
-        "categories": [
-            "Biao Yan Chang Di ",
-            "Ka Pei Dian ",
-            "Qing Nian Huo Dong Zhong Xin "
-        ],
-        "rating": 4.4,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 36 999 049",
-        "address": "Eger, Urania Rendezvenykozpont, Szechenyi Istvan u. 14, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ur%C3%A1nia+Rendezv%C3%A9nyk%C3%B6zpont/data=!4m7!3m6!1s0x47408d9ebb7fae11:0x856542b94495dbfc!8m2!3d47.9024487!4d20.3738167!16s%2Fg%2F1tj83mnj!19sChIJEa5_u56NQEcR_NuVRLlCZYU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ1061bLmNQEcRi0ndEoW-OnE",
         "name": "KOKA GALERIA",
         "description": null,
@@ -1648,7 +1077,7 @@
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -1660,17 +1089,17 @@
                 "main_category": "Zhu Bao Dian "
             },
             {
+                "name": "AGRIA GOLD Ekszerbolt",
+                "link": "https://www.google.com/maps/search/AGRIA+GOLD+%C3%89kszerbolt/@47.9006987,20.3758671?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.6,
+                "main_category": "Zhu Bao Dian "
+            },
+            {
                 "name": "Chimera Gold Jewelry Store",
                 "link": "https://www.google.com/maps/search/Chimera+Gold+Jewelry+Store/@47.9022408,20.3757509?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 36,
                 "rating": 4.8,
-                "main_category": "Zhu Bao Dian "
-            },
-            {
-                "name": "AGRIA GOLD Ekszerbolt",
-                "link": "https://www.google.com/maps/search/AGRIA+GOLD+%C3%89kszerbolt/@47.9006987,20.3758671?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.7,
                 "main_category": "Zhu Bao Dian "
             },
             {
@@ -1695,10 +1124,7 @@
         ],
         "rating": 4.8,
         "workday_timing": "10:00-20:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+36 30 446 8546",
         "address": "Eger, KOKA GALERIA, Dobo Istvan u. 18, 3300 Xiong Ya Li ",
         "review_keywords": [],
@@ -1709,7 +1135,7 @@
         "name": "Stuhmer Mintabolt, Cukraszda es Cremeria",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 311,
+        "reviews": 316,
         "competitors": [],
         "website": "https://stuhmer.hu/",
         "owner": {
@@ -1735,26 +1161,26 @@
         "name": "Kavesdoboz Coffee Bar & Deli",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 302,
+        "reviews": 303,
         "competitors": [
             {
                 "name": "DEPRESSO KITCHEN Etterem",
                 "link": "https://www.google.com/maps/search/DEPRESSO+KITCHEN+%C3%89tterem/@47.901934999999995,20.3762926?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1609,
+                "reviews": 1612,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kappu plusz Cafe * Bar",
                 "link": "https://www.google.com/maps/search/Kappu+plusz+Cafe+%E2%80%A2+Bar/@47.9771801,20.4296433?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 282,
+                "reviews": 285,
                 "rating": 5,
                 "main_category": "Jiu Ba "
             },
@@ -1781,9 +1207,11 @@
             "Shou Shi Dian "
         ],
         "rating": 4.6,
-        "workday_timing": "07:00-15:00",
+        "workday_timing": "08:00-13:00",
         "closed_on": [
-            "Xing Qi San "
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
         ],
         "phone": null,
         "address": "Eger, Kavesdoboz Coffee Bar & Deli, Jokai Mor u. 2, 3300 Xiong Ya Li ",
@@ -1800,12 +1228,12 @@
         "name": "Cicuskam Cat Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 290,
+        "reviews": 292,
         "competitors": [
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1819,7 +1247,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1867,7 +1295,7 @@
         "name": "Kappu plusz Cafe * Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 283,
+        "reviews": 285,
         "competitors": [
             {
                 "name": "Kis sziget cafe and bar",
@@ -1879,14 +1307,14 @@
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             }
@@ -1897,7 +1325,7 @@
             "name": "Kappu plusz Cafe * Bar (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/109119245789335175391"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPV7H-X-xybwcOqrMUbG0ERZswPeFmBNZeIWdM=w408-h542-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1zbgMLpjdtl80hzIX6pXuHHnWBNXEila6AH0=w408-h271-k-no",
         "main_category": "Jiu Ba ",
         "categories": [
             "Jiu Ba "
@@ -1923,59 +1351,53 @@
         "link": "https://www.google.com/maps/place/Kappu+plusz+Cafe+%E2%80%A2+Bar/data=!4m7!3m6!1s0x47408da36a39757b:0x6774ac24ac565c24!8m2!3d47.9771801!4d20.4296433!16s%2Fg%2F11hfvgw4q_!19sChIJe3U5aqONQEcRJFxWrCSsdGc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJv9f0fL2NQEcR7ITFWBBBSxA",
-        "name": "COOP Szuper (661. sz. COOP Szuper)",
+        "place_id": "ChIJg8AAXpuNQEcRgElsMgo2QMk",
+        "name": "Imola Mansion Hotel",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 256,
-        "competitors": [
+        "reviews": 280,
+        "competitors": [],
+        "website": "http://imolaudvarhaz.hu/",
+        "owner": {
+            "id": "103161428665590852849",
+            "name": "Imola Mansion Hotel (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103161428665590852849"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNa-CBlJ9MYI4zPO6LG4FTnWHtWqQO7Klir5AeQ=w408-h271-k-no",
+        "main_category": "Fu Wu Xing Zhu Su ",
+        "categories": [
+            "Fu Wu Xing Zhu Su ",
+            "Min Su ",
+            "Jiu Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 36 516 180",
+        "address": "Eger, Imola Mansion Hotel, Tinodi Sebestyen ter 4, 3300 Xiong Ya Li ",
+        "review_keywords": [
             {
-                "name": "COOP Szuper (660. sz. COOP Szuper)",
-                "link": "https://www.google.com/maps/search/COOP+Szuper+%28660.+sz.+COOP+Szuper%29/@47.8951172,20.3851692?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 321,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
+                "keyword": "Cheng Bao ",
+                "count": 7
             },
             {
-                "name": "189.SZ. SUPER COOP",
-                "link": "https://www.google.com/maps/search/189.SZ.+SUPER+COOP/@47.9176929,20.3735398?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 263,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
+                "keyword": "Qing Jie ",
+                "count": 5
             },
             {
-                "name": "ABC Malomarok",
-                "link": "https://www.google.com/maps/search/ABC+Malom%C3%A1rok/@47.912026999999995,20.372525?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
+                "keyword": "Qiang ",
+                "count": 4
             },
             {
-                "name": "Elestar ABC",
-                "link": "https://www.google.com/maps/search/%C3%89l%C3%A9st%C3%A1r+ABC/@47.9155279,20.3718018?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
+                "keyword": "Xiang Zhen ",
+                "count": 3
+            },
+            {
+                "keyword": "Yang Tai ",
+                "count": 3
             }
         ],
-        "website": "http://www.coopszolnok.hu/",
-        "owner": {
-            "id": "113929550323970800924",
-            "name": "COOP Szuper (661. sz. COOP Szuper) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113929550323970800924"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1uFsoLPF8oIBj0yMOwFgSGBvVAarA_kOVfMHd=w408-h506-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "06:00-19:30",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 600 4706",
-        "address": "Eger, COOP Szuper (661. sz. COOP Szuper), Malomarok u. 4, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/COOP+Szuper+%28661.+sz.+COOP+Szuper%29/data=!4m7!3m6!1s0x47408dbd7cf4d7bf:0x104b411058c584ec!8m2!3d47.9104499!4d20.3732565!16s%2Fg%2F11c56r3_k8!19sChIJv9f0fL2NQEcR7ITFWBBBSxA?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Imola+Mansion+Hotel/data=!4m10!3m9!1s0x47408d9b42a06893:0xc940360a326c4980!5m2!4m1!1i2!8m2!3d47.902549!4d20.381038!16s%2Fg%2F1tv3mg9c!19sChIJk2igQpuNQEcRgElsMgo2QMk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJAwCwMJmNQEcROftVwYdB85o",
@@ -1987,7 +1409,7 @@
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -2001,7 +1423,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2042,61 +1464,6 @@
         "link": "https://www.google.com/maps/place/P%C3%B6tty%C3%B6s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47408d9930b00003:0x9af34187c155fb39!8m2!3d47.9037841!4d20.3737388!16s%2Fg%2F11ddxs7946!19sChIJAwCwMJmNQEcROftVwYdB85o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ_39emLiNQEcRyV_EzoVAlZs",
-        "name": "Coop Szuper",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 214,
-        "competitors": [
-            {
-                "name": "COOP Szuper (660. sz. COOP Szuper)",
-                "link": "https://www.google.com/maps/search/COOP+Szuper+%28660.+sz.+COOP+Szuper%29/@47.8951172,20.3851692?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 321,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "COOP Szuper (661. sz. COOP Szuper)",
-                "link": "https://www.google.com/maps/search/COOP+Szuper+%28661.+sz.+COOP+Szuper%29/@47.910449899999996,20.3732565?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 256,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Rachegy csemege",
-                "link": "https://www.google.com/maps/search/R%C3%A1chegy+csemege/@47.9146022,20.3653875?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Nyirzem",
-                "link": "https://www.google.com/maps/search/Ny%C3%ADrzem/@47.917693,20.373535999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shang Dian "
-            }
-        ],
-        "website": "http://www.coop.hu/",
-        "owner": {
-            "id": null,
-            "name": "Coop Szuper (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNR__v8es-FJhu95I4GjfbeMYdw-5p6-fRi-hqa=w408-h544-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Coop Szuper, II. Rakoczi Ferenc u. 48, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coop+Szuper/data=!4m7!3m6!1s0x47408db8985e7fff:0x9b954085cec45fc9!8m2!3d47.9187814!4d20.3700243!16s%2Fg%2F11c1rhsr3x!19sChIJ_39emLiNQEcRyV_EzoVAlZs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJWTOuV3-NQEcRUgeSjkfW2Mg",
         "name": "Szent Lorinc Confectionery",
         "description": null,
@@ -2106,7 +1473,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -2192,7 +1559,7 @@
         "name": "Archbishop's Palace Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 196,
+        "reviews": 197,
         "competitors": [
             {
                 "name": "Archbishop garden fountain",
@@ -2211,14 +1578,14 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Kappu plusz Cafe * Bar",
                 "link": "https://www.google.com/maps/search/Kappu+plusz+Cafe+%E2%80%A2+Bar/@47.9771801,20.4296433?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 282,
+                "reviews": 285,
                 "rating": 5,
                 "main_category": "Jiu Ba "
             },
@@ -2261,7 +1628,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -2294,7 +1661,7 @@
                 "main_category": "Za Huo Dian "
             }
         ],
-        "website": "https://www.facebook.com/Glut%C3%A9nmentes-P%C3%A9ks%C3%A9g-Di%C3%A9t%C3%A1z%C3%B3k-Boltja-Eger-1868695586785074",
+        "website": "https://www.facebook.com/Glut%25C3%25A9nmentes-P%25C3%25A9ks%25C3%25A9g-Di%25C3%25A9t%25C3%25A1z%25C3%25B3k-Boltja-Eger-1868695586785074",
         "owner": {
             "id": "103680033228659804742",
             "name": "Gluten Free Bakery (Ye Zhu )",
@@ -2325,7 +1692,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -2454,7 +1821,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2486,88 +1853,6 @@
         "link": "https://www.google.com/maps/place/F%C3%A1zis+Koszt%26K%C3%A1v%C3%A9/data=!4m7!3m6!1s0x47408d702d3cc25d:0x9c0d105e60967eec!8m2!3d47.8892761!4d20.3840324!16s%2Fg%2F11tdt63_wd!19sChIJXcI8LXCNQEcR7H6WYF4QDZw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ_QUGe3-NQEcR7vfymkRKDtA",
-        "name": "Nemzeti Dohanybolt Eger Kertesz ut 78/C",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 112,
-        "competitors": [],
-        "website": "http://nemzetidohanyboltkereso.hu/trafikok/eger/",
-        "owner": {
-            "id": "115387619433923922715",
-            "name": "Nemzeti Dohanybolt Eger Kertesz ut 78/C (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115387619433923922715"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvJT7SfXVZF0HU5lyZ3cm7isWyVTRDo69ZT1hP=w408-h306-k-no",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian ",
-            "Yao Fang "
-        ],
-        "rating": 4.5,
-        "workday_timing": "05:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 978 3689",
-        "address": "Eger, Nemzeti Dohanybolt Eger Kertesz ut 78/C, Kertesz u. 78/C, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Eger+Kert%C3%A9sz+%C3%BAt+78%2FC/data=!4m7!3m6!1s0x47408d7f7b0605fd:0xd00e4a449af2f7ee!8m2!3d47.8950602!4d20.3877692!16s%2Fg%2F11c575yfgc!19sChIJ_QUGe3-NQEcR7vfymkRKDtA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJNXIC-h2NQEcR7Byb84ET1gw",
-        "name": "COOP ABC (664. sz. COOP ABC)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 96,
-        "competitors": [
-            {
-                "name": "BE-L-GA Kft.",
-                "link": "https://www.google.com/maps/search/BE-L-GA+Kft./@47.8789094,20.3816167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 450,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "COOP Szuper (661. sz. COOP Szuper)",
-                "link": "https://www.google.com/maps/search/COOP+Szuper+%28661.+sz.+COOP+Szuper%29/@47.910449899999996,20.3732565?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 256,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Euro Csemege",
-                "link": "https://www.google.com/maps/search/Euro+Csemege/@47.8991677,20.3799988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 3.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Eger es Videke Coop Zrt",
-                "link": "https://www.google.com/maps/search/Eger+%C3%A9s+Vid%C3%A9ke+Coop+Zrt/@47.8636423,20.4357075?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://coopszolnok.hu/",
-        "owner": {
-            "id": "106044712685137271204",
-            "name": "COOP ABC (664. sz. COOP ABC) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106044712685137271204"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7vd9JOeV9sjdmiCKJVRa4N5YkFrbdoeYjEBsK=w426-h240-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 3.9,
-        "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 600 4864",
-        "address": "Eger, COOP ABC (664. sz. COOP ABC), Deak Ferenc u. 14, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/COOP+ABC+%28664.+sz.+COOP+ABC%29/data=!4m7!3m6!1s0x47408d1dfa027235:0xcd61381f39b1cec!8m2!3d47.8960492!4d20.374986!16s%2Fg%2F11jnx4zfvp!19sChIJNXIC-h2NQEcR7Byb84ET1gw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ5VKHKrqNQEcRKRh7qY5YfAk",
         "name": "Dopamin Juice & Spirit Bar & Kavezo",
         "description": null,
@@ -2577,7 +1862,7 @@
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -2591,7 +1876,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2653,7 +1938,7 @@
             {
                 "name": "Cirkele - reggeli & brunch",
                 "link": "https://www.google.com/maps/search/Cirkele+-+reggeli+%26+brunch/@47.901727799999996,20.3813346?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
+                "reviews": 57,
                 "rating": 4.9,
                 "main_category": "Zao Wu Can "
             },
@@ -2688,7 +1973,11 @@
         ],
         "rating": 4.8,
         "workday_timing": "07:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 082 9534",
         "address": "Eger, Cirkele - bolt, piac, kavezo, Almagyar u. 8, 3300 Xiong Ya Li ",
         "review_keywords": [],
@@ -2704,7 +1993,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -2746,85 +2035,14 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 382 1392",
         "address": "Eger, Szamos Marcipan Bolt, Harangonto u. 4, 3300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Szamos+Marcip%C3%A1n+Bolt/data=!4m7!3m6!1s0x47408d9bd62ec203:0xfd9816a7cd410d4!8m2!3d47.904768!4d20.3770989!16s%2Fg%2F11cm0hg8zf!19sChIJA8Iu1puNQEcR1BDUfGqB2Q8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJUz5BuHuNQEcR8A7ZCLf9THM",
-        "name": "Nemzeti Dohanybolt Eger",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 80,
-        "competitors": [],
-        "website": "http://nemzetidohany.hu/",
-        "owner": {
-            "id": null,
-            "name": "Nemzeti Dohanybolt Eger (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMe3V1TaRlO91nV78YlYzGCX_ZjeP6SCAwKWDg5=w408-h545-k-no",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "00:15-23:45",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Nemzeti Dohanybolt Eger, Matyas kiraly ut 2, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Eger/data=!4m7!3m6!1s0x47408d7bb8413e53:0x734cfdb708d90ef0!8m2!3d47.8907056!4d20.3792492!16s%2Fg%2F11bzs5kvyc!19sChIJUz5BuHuNQEcR8A7ZCLf9THM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJnxbQ5MWNQEcR5Aj1xIBLaWY",
-        "name": "Boldizsar Cukraszda, Eger",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 76,
-        "competitors": [
-            {
-                "name": "Marjan Confectionery",
-                "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
-                "rating": 4.6,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Harmos Cukraszda",
-                "link": "https://www.google.com/maps/search/Harmos+Cukr%C3%A1szda/@47.9041971,20.372677?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
-                "rating": 4.3,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Bonjour Edes",
-                "link": "https://www.google.com/maps/search/Bonjour+%C3%89des/@47.902489599999996,20.3758378?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.4,
-                "main_category": "Tian Pin Dian "
-            }
-        ],
-        "website": "https://boldizsarcukraszda.hu/",
-        "owner": {
-            "id": "101243120198888288019",
-            "name": "Boldizsar Cukraszda, Eger (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101243120198888288019"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyTwcoY4CdgMyCgkVFxc3bFNAM7lEwO2NBREqx=w408-h408-k-no",
-        "main_category": "Tian Pin Dian ",
-        "categories": [
-            "Tian Pin Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "09:00-18:30",
-        "closed_on": "Open All Days",
-        "phone": "+36 36 363 637",
-        "address": "Eger, Boldizsar Cukraszda, Eger, II. Rakoczi Ferenc u. 100, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Boldizs%C3%A1r+Cukr%C3%A1szda,+Eger/data=!4m7!3m6!1s0x47408dc5e4d0169f:0x66694b80c4f508e4!8m2!3d47.9252239!4d20.3697923!16s%2Fg%2F11dxqf9pzf!19sChIJnxbQ5MWNQEcR5Aj1xIBLaWY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJt2qcc6KNQEcRpNcpju7WP9A",
@@ -2836,7 +2054,7 @@
             {
                 "name": "Bar Italia",
                 "link": "https://www.google.com/maps/search/Bar+Italia/@47.9018266,20.3763744?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1517,
+                "reviews": 1519,
                 "rating": 4.6,
                 "main_category": "Yi Da Li Cai "
             },
@@ -2857,7 +2075,7 @@
             {
                 "name": "Allure Healthy Hotel & Spa",
                 "link": "https://www.google.com/maps/search/Allure+Healthy+Hotel+%26+Spa/@47.9222186,20.3660051?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 298,
+                "reviews": 299,
                 "rating": 4.4,
                 "main_category": "Jian Kang Shui Liao Fan Dian "
             }
@@ -2884,42 +2102,16 @@
         "link": "https://www.google.com/maps/place/Allure+Bistro/data=!4m7!3m6!1s0x47408da2739c6ab7:0xd03fd6ee8e29d7a4!8m2!3d47.9221324!4d20.3660167!16s%2Fg%2F11h9gxcysl!19sChIJt2qcc6KNQEcRpNcpju7WP9A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ3TJ6MZ6SQEcR91cXtdf_YUE",
-        "name": "Nemzeti Dohanybolt Eger",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 64,
-        "competitors": [],
-        "website": "http://nemzetidohany.hu/",
-        "owner": {
-            "id": "116029547652003182064",
-            "name": "Nemzeti Dohanybolt Eger (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116029547652003182064"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hH1BsiMtu8IMsS21KPw5KA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=246.04892&pitch=0&thumbfov=100",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Nemzeti Dohanybolt Eger, Matyas kiraly ut 108, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Eger/data=!4m7!3m6!1s0x4740929e317a32dd:0x4161ffd7b51757f7!8m2!3d47.8787389!4d20.3816766!16s%2Fg%2F11ggltc4lh!19sChIJ3TJ6MZ6SQEcR91cXtdf_YUE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJg-ToAPiNQEcRylegSBLGkmE",
         "name": "Cafe Jardin Eger",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 61,
+        "reviews": 62,
         "competitors": [
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -2933,7 +2125,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2990,14 +2182,14 @@
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3042,7 +2234,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -3074,8 +2266,12 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 386 2660",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San "
+        ],
+        "phone": "+36 30 560 0471",
         "address": "Eger, Rozmaring Cukraszda Eger, Malomarok u. 31, 3300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Rozmaring+Cukr%C3%A1szda+Eger/data=!4m7!3m6!1s0x47408d9ee88f96d9:0xcab0f432e7c078b1!8m2!3d47.9149026!4d20.3719641!16s%2Fg%2F11twhgz1rp!19sChIJ2ZaP6J6NQEcRsXjA5zL0sMo?authuser=0&hl=zh-TW&rclk=1"
@@ -3090,7 +2286,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3147,7 +2343,7 @@
             {
                 "name": "Radi Pekseg",
                 "link": "https://www.google.com/maps/search/R%C3%A1di+P%C3%A9ks%C3%A9g/@47.9003437,20.3774595?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 559,
+                "reviews": 561,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3200,61 +2396,6 @@
         "address": "Eger, Numan Bakery, Szechenyi Istvan u. 21, 3300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Numan+Bakery/data=!4m7!3m6!1s0x47408d992eae591b:0x7f1b71b53cb10ef3!8m2!3d47.9037032!4d20.3728188!16s%2Fg%2F11c5t36hk5!19sChIJG1muLpmNQEcR8w6xPLVxG38?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJfxJ_3b6NQEcRsgGBj9fqfl4",
-        "name": "Elestar ABC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 24,
-        "competitors": [
-            {
-                "name": "COOP Szuper (661. sz. COOP Szuper)",
-                "link": "https://www.google.com/maps/search/COOP+Szuper+%28661.+sz.+COOP+Szuper%29/@47.910449899999996,20.3732565?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 256,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Euro Csemege",
-                "link": "https://www.google.com/maps/search/Euro+Csemege/@47.8991677,20.3799988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 3.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "ABC Malomarok",
-                "link": "https://www.google.com/maps/search/ABC+Malom%C3%A1rok/@47.912026999999995,20.372525?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Picurka Abc",
-                "link": "https://www.google.com/maps/search/Picurka+Abc/@47.905155699999995,20.3642891?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.5,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": "https://www.facebook.com/profile.php%3Fid%3D100063871157214",
-        "owner": {
-            "id": "100379354606204525457",
-            "name": "Elestar ABC (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100379354606204525457"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyplK7lT6FcMisIHcXeHy4Lc6BLOyZfb4LoVKy=w408-h544-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "05:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Elestar ABC, Malomarok u. 39, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%C3%89l%C3%A9st%C3%A1r+ABC/data=!4m7!3m6!1s0x47408dbedd7f127f:0x5e7eead78f8101b2!8m2!3d47.9155279!4d20.3718018!16s%2Fg%2F1tf46y2k!19sChIJfxJ_3b6NQEcRsgGBj9fqfl4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJk5dPlJ-NQEcRrkwp-UPv9TY",
@@ -3319,68 +2460,6 @@
         "link": "https://www.google.com/maps/place/R%C3%A1di+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x47408d9f944f9793:0x36f5ef43f9294cae!8m2!3d47.9006232!4d20.3677887!16s%2Fg%2F11c6cgmx0z!19sChIJk5dPlJ-NQEcRrkwp-UPv9TY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ0yBDsM2NQEcRSPEDGPCKGFo",
-        "name": "Bajcsy Csemege",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 12,
-        "competitors": [
-            {
-                "name": "SPAR Express",
-                "link": "https://www.google.com/maps/search/SPAR+Express/@47.8906766,20.3787876?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 477,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Euro Csemege",
-                "link": "https://www.google.com/maps/search/Euro+Csemege/@47.8991677,20.3799988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 3.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Rachegy csemege",
-                "link": "https://www.google.com/maps/search/R%C3%A1chegy+csemege/@47.9146022,20.3653875?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Matyas Csemege",
-                "link": "https://www.google.com/maps/search/M%C3%A1ty%C3%A1s+Csemege/@47.8820974,20.3810373?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 69,
-                "rating": 4.4,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Non Stop Csemege- Maklari Csemege",
-                "link": "https://www.google.com/maps/search/Non+Stop+Csemege-+Makl%C3%A1ri+Csemege/@47.8963901,20.3902699?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://www.nyitvatartas24.hu/uzlet/Eger-BAJCSY%252520CSEMEGE-415241Y.html",
-        "owner": {
-            "id": null,
-            "name": "Bajcsy Csemege (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOImwqNOt8WVLnh9vh7drPEjvnhAP-qWzgs5QMR=w408-h544-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 3.8,
-        "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Bajcsy Csemege, Bajcsy-Zsilinszky Endre 17, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bajcsy+Csemege/data=!4m7!3m6!1s0x47408dcdb04320d3:0x5a188af01803f148!8m2!3d47.9014422!4d20.3764166!16s%2Fg%2F11h18dhj2p!19sChIJ0yBDsM2NQEcRSPEDGPCKGFo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJJbSKxp-NQEcRo1MehPdqdww",
         "name": "Piacetto Cafe",
         "description": null,
@@ -3390,14 +2469,14 @@
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -3536,7 +2615,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -3557,7 +2636,7 @@
             {
                 "name": "Cafe Jardin Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Jardin+Eger/@47.9046449,20.3774696?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 61,
+                "reviews": 62,
                 "rating": 4.9,
                 "main_category": "Tian Pin Dian "
             },
@@ -3589,32 +2668,6 @@
         "link": "https://www.google.com/maps/place/G%26D+K%C3%A9zm%C5%B1ves+Cukr%C3%A1szda+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3+Eger/data=!4m7!3m6!1s0x47408d4854bd7805:0xf4cd52534c0030f8!8m2!3d47.9046874!4d20.3770216!16s%2Fg%2F11t2b2vm99!19sChIJBXi9VEiNQEcR-DAATFNSzfQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJZZfZrpmNQEcR4AHhfUyY5Qo",
-        "name": "Nemzeti Dohanybolt Eger",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [],
-        "website": "http://nemzetidohany.hu/",
-        "owner": {
-            "id": null,
-            "name": "Nemzeti Dohanybolt Eger (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yGpf64EaS104thfZOX51ag&cb_client=search.gws-prod.gps&w=408&h=240&yaw=51.30373&pitch=0&thumbfov=100",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Nemzeti Dohanybolt Eger, Knezich Karoly u. 28, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Eger/data=!4m7!3m6!1s0x47408d99aed99765:0xae5984c7de101e0!8m2!3d47.9059699!4d20.3747991!16s%2Fg%2F11g7z58pkl!19sChIJZZfZrpmNQEcR4AHhfUyY5Qo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJPUE_OhiNQEcRditJNde6fvE",
         "name": "Caffe Melange",
         "description": null,
@@ -3635,6 +2688,7 @@
         "rating": 5,
         "workday_timing": "11:00-19:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Er ",
             "Xing Qi Ri "
         ],
@@ -3653,7 +2707,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -3674,7 +2728,7 @@
             {
                 "name": "Cafe Jardin Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Jardin+Eger/@47.9046449,20.3774696?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 61,
+                "reviews": 62,
                 "rating": 4.9,
                 "main_category": "Tian Pin Dian "
             },
@@ -3770,6 +2824,70 @@
         "link": "https://www.google.com/maps/place/Radi+Pekseg+OBI/data=!4m7!3m6!1s0x47408d58248758df:0xaf6c0fbcc2473bb2!8m2!3d47.9275682!4d20.3696312!16s%2Fg%2F11h_c7nsrq!19sChIJ31iHJFiNQEcRsjtHwrwPbK8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJMSpqzPGNQEcRpDmqXZOikmo",
+        "name": "Numan Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [
+            {
+                "name": "Lipoti Bakery",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+Bakery/@47.9008979,20.3747222?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 498,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Fresh Bakery Eger",
+                "link": "https://www.google.com/maps/search/Fresh+Bakery+Eger/@47.885452699999995,20.380584799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 307,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Sveda 1924 Pekseg Kft.",
+                "link": "https://www.google.com/maps/search/Sv%C3%A9da+1924+P%C3%A9ks%C3%A9g+Kft./@47.8984053,20.3866691?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.9,
+                "main_category": "Mian Bao Pi Fa Shang "
+            },
+            {
+                "name": "Fornetti",
+                "link": "https://www.google.com/maps/search/Fornetti/@47.9038262,20.3730737?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Radi Pekseg OBI",
+                "link": "https://www.google.com/maps/search/Radi+Pekseg+OBI/@47.927568199999996,20.3696312?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://www.numanpekseg.hu/",
+        "owner": {
+            "id": "110397575116565041306",
+            "name": "Numan Pekseg (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110397575116565041306"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNT6hnKUhjjsYKjC2dI1z56pKqYRnrAxH0Ir1lo=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 70 413 0842",
+        "address": "Eger, Numan Pekseg, Kertesz u. 42, 3300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Numan+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x47408df1cc6a2a31:0x6a92a2935daa39a4!8m2!3d47.895883!4d20.3868615!16s%2Fg%2F11s8kzkgs0!19sChIJMSpqzPGNQEcRpDmqXZOikmo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJR_fAW-6NQEcRRsaLu1a3Stg",
         "name": "KORREKT Caffe Kavegep szerviz",
         "description": null,
@@ -3830,6 +2948,66 @@
         "link": "https://www.google.com/maps/place/KORREKT+Caffe+K%C3%A1v%C3%A9g%C3%A9p+szerviz/data=!4m7!3m6!1s0x47408dee5bc0f747:0xd84ab756bb8bc646!8m2!3d47.9043957!4d20.3666415!16s%2Fg%2F11sckjs5m_!19sChIJR_fAW-6NQEcRRsaLu1a3Stg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJsf5l7p6NQEcRyPJM8k0Kt2M",
+        "name": "Szurkebarat Fagyizo Eger",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [],
+        "website": "https://szurkebaratfagyizoeger.hu/%3Flang%3Den",
+        "owner": {
+            "id": "103240125366627251725",
+            "name": "Szurkebarat Fagyizo Eger (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103240125366627251725"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPBK6uioxPVdpVTx7uvHKhqfoF7LZ6DQ7vBQm0x=w408-h334-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Gao Ji Can Ting ",
+            "Xue Gao Dian ",
+            "Wu Can Can Ting ",
+            "Gao Bing Dian ",
+            "Su Shi Can Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 20 406 9032",
+        "address": "Eger, Szurkebarat Fagyizo Eger, Szent Hedvig Kollegium, Dobo Istvan ter 6, 3300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sz%C3%BCrkebar%C3%A1t+Fagyiz%C3%B3+Eger/data=!4m7!3m6!1s0x47408d9eee65feb1:0x63b70a4df24cf2c8!8m2!3d47.9024327!4d20.3773497!16s%2Fg%2F11l2wrts1q!19sChIJsf5l7p6NQEcRyPJM8k0Kt2M?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJeZxR4WyNQEcRXTGPg_Ucueo",
+        "name": "Janovicz Pekseg - Eger Hadnagy uti mintabolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [],
+        "website": "http://www.janoviczpekseg.hu/",
+        "owner": {
+            "id": "112299701875494379522",
+            "name": "Janovicz Pekseg - Eger Hadnagy uti mintabolt (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112299701875494379522"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkllHGLeDX9K1RjsO4PsXvUWS9V35epcLCBQy8=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+36 30 618 5865",
+        "address": "Eger, Janovicz Pekseg - Eger Hadnagy uti mintabolt, Hadnagy u. 5, 3300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Janovicz+P%C3%A9ks%C3%A9g+-+Eger+Hadnagy+%C3%BAti+mintabolt/data=!4m7!3m6!1s0x47408d6ce1519c79:0xeab91cf5838f315d!8m2!3d47.8954814!4d20.3857087!16s%2Fg%2F11vdwvld46!19sChIJeZxR4WyNQEcRXTGPg_Ucueo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJW0UwVpyNQEcReYYHC9AbNWM",
         "name": "Kossuth Csemege",
         "description": null,
@@ -3878,87 +3056,30 @@
         "link": "https://www.google.com/maps/place/Kossuth+Csemege/data=!4m7!3m6!1s0x47408d9c5630455b:0x63351bd00b078679!8m2!3d47.9003437!4d20.3774595!16s%2Fg%2F11cnnzt6sx!19sChIJW0UwVpyNQEcReYYHC9AbNWM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJPzzGUBiNQEcRJgAj6MlW6Ts",
-        "name": "Nemzeti Dohanybolt",
+        "place_id": "ChIJ0Xi9KWyNQEcR3jtp5EmymoI",
+        "name": "OXO Bubble Tea Agria Park",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2,
+        "reviews": 1,
         "competitors": [],
-        "website": "https://nemzetidohany.hu/",
+        "website": "https://oxoshop.hu/",
         "owner": {
-            "id": null,
-            "name": "Nemzeti Dohanybolt (Ye Zhu )",
-            "link": null
+            "id": "113785461281968249057",
+            "name": "OXO Bubble Tea Agria Park (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113785461281968249057"
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JGgTEeuQ5ZAMVRKSQfOYbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=353.63028&pitch=0&thumbfov=100",
-        "main_category": "Yan Cao Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPU_X2Kk731fMW_JYnasO0Y3Q-ODRKaK14Mvk-_=w408-h306-k-no",
+        "main_category": "Zhen Zhu Nai Cha Dian ",
         "categories": [
-            "Yan Cao Dian "
+            "Zhen Zhu Nai Cha Dian "
         ],
         "rating": 5,
-        "workday_timing": "05:15-22:00",
+        "workday_timing": "11:00-20:00",
         "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Nemzeti Dohanybolt, Sas u. 1, 3300 Xiong Ya Li ",
+        "phone": "+36 70 701 2535",
+        "address": "Eger, OXO Bubble Tea Agria Park, Agria Park, Torvenyhaz u. 4, 3300 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt/data=!4m7!3m6!1s0x47408d1850c63c3f:0x3be956c9e8230026!8m2!3d47.8899749!4d20.3813767!16s%2Fg%2F11l2zrxmcj!19sChIJPzzGUBiNQEcRJgAj6MlW6Ts?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJdymrdzKTQEcRuANS19aSX1U",
-        "name": "Mentes Shop",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Gluten Free Bakery",
-                "link": "https://www.google.com/maps/search/Gluten+Free+Bakery/@47.9027993,20.3743052?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 194,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Protein Plaza Eger",
-                "link": "https://www.google.com/maps/search/Protein+Pl%C3%A1za+Eger/@47.880965599999996,20.3975105?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Wei Ta Ming Yu Ying Yang Bu Chong Pin Dian "
-            },
-            {
-                "name": "Mez webaruhaz",
-                "link": "https://www.google.com/maps/search/M%C3%A9z+web%C3%A1ruh%C3%A1z/@47.9360819,20.365029399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.3,
-                "main_category": "Jian Kang Shi Pin Zhuan Mai Dian "
-            },
-            {
-                "name": "Zen Natural Kft.",
-                "link": "https://www.google.com/maps/search/Zen+Natural+Kft./@47.8950014,20.3649177?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Shang Dian "
-            }
-        ],
-        "website": "http://mentesshop.shop.hu/",
-        "owner": {
-            "id": "114329669894254168564",
-            "name": "Mentes Shop (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114329669894254168564"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM2m0cwUMShoiMn6L27ad-7M7J-BiqQdvrQdH0o=w408-h289-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 30 411 0484",
-        "address": "Eger, Mentes Shop, Hontalan u. 1, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mentes+Shop/data=!4m7!3m6!1s0x4740933277ab2977:0x555f92d6d75203b8!8m2!3d47.8895607!4d20.3941863!16s%2Fg%2F11s954850k!19sChIJdymrdzKTQEcRuANS19aSX1U?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/OXO+Bubble+Tea+Agria+Park/data=!4m7!3m6!1s0x47408d6c29bd78d1:0x829ab249e4693bde!8m2!3d47.9002412!4d20.3683307!16s%2Fg%2F11v3_s_tcc!19sChIJ0Xi9KWyNQEcR3jtp5EmymoI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJQ4Z-IwGNQEcRDkSfScnRAKk",
@@ -3991,33 +3112,33 @@
         "name": "DEPRESSO KITCHEN Etterem",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1610,
+        "reviews": 1612,
         "competitors": [
             {
                 "name": "Palacsintavar Etterem",
                 "link": "https://www.google.com/maps/search/Palacsintav%C3%A1r+%C3%89tterem/@47.9029309,20.3793737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4121,
+                "reviews": 4124,
                 "rating": 4.5,
                 "main_category": "Jian Bing "
             },
             {
                 "name": "Foter Cafe Restaurant",
                 "link": "https://www.google.com/maps/search/F%C5%91t%C3%A9r+Cafe+Restaurant/@47.90278120000001,20.3768022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1672,
+                "reviews": 1673,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Forst-Haz Etterem es Kavezo",
                 "link": "https://www.google.com/maps/search/Forst-H%C3%A1z+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.902143099999996,20.3762205?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1185,
+                "reviews": 1186,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Korzo Etterem",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+%C3%89tterem/@47.903172600000005,20.3776147?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 843,
+                "reviews": 845,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -4102,7 +3223,7 @@
             {
                 "name": "Il Padrino Pizza Club",
                 "link": "https://www.google.com/maps/search/Il+Padrino+Pizza+Club/@47.9024225,20.3789344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2173,
+                "reviews": 2175,
                 "rating": 4.6,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -4116,7 +3237,7 @@
             {
                 "name": "Peppino Etterem & Pizzeria",
                 "link": "https://www.google.com/maps/search/Peppino+%C3%89tterem+%26+Pizzeria/@47.9081535,20.380933700000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1365,
+                "reviews": 1366,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -4248,7 +3369,7 @@
             {
                 "name": "Radi Pekseg",
                 "link": "https://www.google.com/maps/search/R%C3%A1di+P%C3%A9ks%C3%A9g/@47.9003437,20.3774595?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 559,
+                "reviews": 561,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4311,7 +3432,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -4417,19 +3538,19 @@
         "name": "Rock Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 201,
+        "reviews": 202,
         "competitors": [
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4468,68 +3589,6 @@
         "link": "https://www.google.com/maps/place/Rock+Caf%C3%A9/data=!4m7!3m6!1s0x47408d8622b2beb3:0xbc5a26a1955a5cb8!8m2!3d47.8889336!4d20.3844472!16s%2Fg%2F11fr2wv4rr!19sChIJs76yIoaNQEcRuFxalaEmWrw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJYbrEo5CNQEcRjnkpkOunl0g",
-        "name": "Delta-Var Bt / Vecsey Abc, GLS CsomagPont",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 159,
-        "competitors": [
-            {
-                "name": "Euro Csemege",
-                "link": "https://www.google.com/maps/search/Euro+Csemege/@47.8991677,20.3799988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 3.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "ABC Malomarok",
-                "link": "https://www.google.com/maps/search/ABC+Malom%C3%A1rok/@47.912026999999995,20.372525?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Elestar ABC",
-                "link": "https://www.google.com/maps/search/%C3%89l%C3%A9st%C3%A1r+ABC/@47.9155279,20.3718018?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Arany ABC",
-                "link": "https://www.google.com/maps/search/Arany+ABC/@47.8976246,20.3720118?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 2.2,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Delta-Var Bt.",
-                "link": "https://www.google.com/maps/search/Delta-V%C3%A1r+Bt./@47.906385,20.3832883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shang Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "101509120479760658008",
-            "name": "Delta-Var Bt / Vecsey Abc, GLS CsomagPont (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101509120479760658008"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP8Iz4uExPtuDXNVvT01bp1ExsO4KMt0VbNQJa9=w426-h240-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "04:30-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 240 0227",
-        "address": "Eger, Delta-Var Bt / Vecsey Abc, GLS CsomagPont, Vecsey Sandor u. 24, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Delta-V%C3%A1r+Bt+%2F+V%C3%A9csey+Abc,+GLS+CsomagPont/data=!4m7!3m6!1s0x47408d90a3c4ba61:0x4897a7eb9029798e!8m2!3d47.9074934!4d20.3806525!16s%2Fg%2F11b76tygf6!19sChIJYbrEo5CNQEcRjnkpkOunl0g?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJIeq96puNQEcR0UadlRFh6Os",
         "name": "Eger Pasa Tent",
         "description": null,
@@ -4539,7 +3598,7 @@
             {
                 "name": "Central Park Eger Board game Cafe & Bar",
                 "link": "https://www.google.com/maps/search/Central+Park+Eger+Board+game+Caf%C3%A9+%26+Bar/@47.901556,20.3755581?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 584,
+                "reviews": 586,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -4649,7 +3708,7 @@
             {
                 "name": "Cicuskam Cat Cafe",
                 "link": "https://www.google.com/maps/search/Cicusk%C3%A1m+Cat+Cafe/@47.9008025,20.3763964?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 290,
+                "reviews": 292,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -4754,35 +3813,35 @@
             {
                 "name": "DEPRESSO KITCHEN Etterem",
                 "link": "https://www.google.com/maps/search/DEPRESSO+KITCHEN+%C3%89tterem/@47.901934999999995,20.3762926?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1609,
+                "reviews": 1612,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Central Park Eger Board game Cafe & Bar",
                 "link": "https://www.google.com/maps/search/Central+Park+Eger+Board+game+Caf%C3%A9+%26+Bar/@47.901556,20.3755581?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 584,
+                "reviews": 586,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Kappu plusz Cafe * Bar",
                 "link": "https://www.google.com/maps/search/Kappu+plusz+Cafe+%E2%80%A2+Bar/@47.9771801,20.4296433?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 282,
+                "reviews": 285,
                 "rating": 5,
                 "main_category": "Jiu Ba "
             }
@@ -4807,57 +3866,6 @@
         "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9zz+ON/data=!4m7!3m6!1s0x47408d6fbe25030d:0x68d2d59aa57ec4fe!8m2!3d47.9022738!4d20.3752656!16s%2Fg%2F11fb04c66c!19sChIJDQMlvm-NQEcR_sR-pZrV0mg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJQVhj3q2NQEcRZpASJQRRIdQ",
-        "name": "Jancsi bacsi kurtoskalacs sutodeje - Eger",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 61,
-        "competitors": [
-            {
-                "name": "EgriKurtos",
-                "link": "https://www.google.com/maps/search/EgriK%C3%BCrt%C5%91s/@47.902143599999995,20.3751623?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Kurtos-Cafe",
-                "link": "https://www.google.com/maps/search/K%C3%BCrt%C5%91s-Caf%C3%A9/@47.92556,20.3701309?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Kurtoskalacs",
-                "link": "https://www.google.com/maps/search/K%C3%BCrt%C3%B6skal%C3%A1cs/@47.902156999999995,20.3757759?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.8,
-                "main_category": "Tang Guo Gao Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "111894551927742106115",
-            "name": "Jancsi bacsi kurtoskalacs sutodeje - Eger (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111894551927742106115"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3hFD1MMp2sXTawXSDbqcVyzWEv40ggQTtu-BM=w408-h306-k-no",
-        "main_category": "Tian Pin Dian ",
-        "categories": [
-            "Tian Pin Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "10:00-19:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+36 70 405 3374",
-        "address": "Eger, Jancsi bacsi kurtoskalacs sutodeje - Eger, II. Rakoczi Ferenc u. 100, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Jancsi+b%C3%A1csi+k%C3%BCrt%C5%91skal%C3%A1cs+s%C3%BCt%C3%B6d%C3%A9je+-+Eger/data=!4m7!3m6!1s0x47408dadde635841:0xd421510425129066!8m2!3d47.9240379!4d20.3699096!16s%2Fg%2F11sxvsslvn!19sChIJQVhj3q2NQEcRZpASJQRRIdQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJeZkVTQ2NQEcRsB9EUt8CgJY",
         "name": "Dolina Krasavits Eger",
         "description": null,
@@ -4867,7 +3875,7 @@
             {
                 "name": "Valley of the Beautiful Women",
                 "link": "https://www.google.com/maps/search/Valley+of+the+Beautiful+Women/@47.8906055,20.3591882?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19324,
+                "reviews": 19336,
                 "rating": 4.7,
                 "main_category": "Gong Yuan "
             },
@@ -4881,7 +3889,7 @@
             {
                 "name": "Greg-Vin Pinceszet",
                 "link": "https://www.google.com/maps/search/Greg-Vin+Pinc%C3%A9szet/@47.8902796,20.359450799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
+                "reviews": 148,
                 "rating": 4.6,
                 "main_category": "Pu Tao Jiu Ba "
             },
@@ -4934,7 +3942,7 @@
             {
                 "name": "Marjan Confectionery",
                 "link": "https://www.google.com/maps/search/Marjan+Confectionery/@47.9019165,20.3808041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3516,
+                "reviews": 3517,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -5016,125 +4024,6 @@
         "link": "https://www.google.com/maps/place/B+Bea/data=!4m7!3m6!1s0x47408d25451626c3:0x68d84c20f5432aa!8m2!3d47.902627!4d20.3756407!16s%2Fg%2F11f6hfbjbp!19sChIJwyYWRSWNQEcRqjJUD8KEjQY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJkbd3u8CNQEcRIvPhZ4bfhiQ",
-        "name": "Numan Pekseg",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 54,
-        "competitors": [
-            {
-                "name": "Fresh Bakery Eger",
-                "link": "https://www.google.com/maps/search/Fresh+Bakery+Eger/@47.885452699999995,20.380584799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Radi Pekseg OBI",
-                "link": "https://www.google.com/maps/search/Radi+Pekseg+OBI/@47.927568199999996,20.3696312?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 3.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Fornetti",
-                "link": "https://www.google.com/maps/search/Fornetti/@47.9038262,20.3730737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Euro Fornetti Pekseg",
-                "link": "https://www.google.com/maps/search/Euro+Fornetti+P%C3%A9ks%C3%A9g/@47.8993009,20.379818399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Suto es Tarsa 2001 Bt.",
-                "link": "https://www.google.com/maps/search/S%C3%BCt%C5%91+%C3%A9s+T%C3%A1rsa+2001+Bt./@47.8943357,20.390215599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Numan Pekseg (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kvuK4ZF8pyoeN_W5pFDMrw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=15.586607&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:00-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Eger, Numan Pekseg, Vallon u., 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Numan+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x47408dc0bb77b791:0x2486df8667e1f322!8m2!3d47.9194155!4d20.3738822!16s%2Fg%2F11h26g_qw1!19sChIJkbd3u8CNQEcRIvPhZ4bfhiQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJe-nKvb2NQEcRvCGuMXiEHeI",
-        "name": "ABC Malomarok",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 53,
-        "competitors": [
-            {
-                "name": "COOP Szuper (661. sz. COOP Szuper)",
-                "link": "https://www.google.com/maps/search/COOP+Szuper+%28661.+sz.+COOP+Szuper%29/@47.910449899999996,20.3732565?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 256,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Delta-Var Bt / Vecsey Abc, GLS CsomagPont",
-                "link": "https://www.google.com/maps/search/Delta-V%C3%A1r+Bt+%2F+V%C3%A9csey+Abc%2C+GLS+CsomagPont/@47.9074934,20.380652500000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 159,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Elestar ABC",
-                "link": "https://www.google.com/maps/search/%C3%89l%C3%A9st%C3%A1r+ABC/@47.9155279,20.3718018?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Arany ABC",
-                "link": "https://www.google.com/maps/search/Arany+ABC/@47.8976246,20.3720118?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 2.2,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "ABC Malomarok (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sUXRPO9gTNTdl_-4OkcOtA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=239.99776&pitch=0&thumbfov=100",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, ABC Malomarok, Malomarok u. 1/a, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/ABC+Malom%C3%A1rok/data=!4m7!3m6!1s0x47408dbdbdcae97b:0xe21d847831ae21bc!8m2!3d47.912027!4d20.372525!16s%2Fg%2F11dxdc95b7!19sChIJe-nKvb2NQEcRvCGuMXiEHeI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJmbVxFsaNQEcRXjyGFL2x7Q8",
         "name": "Kurtos-Cafe",
         "description": null,
@@ -5151,7 +4040,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -5206,7 +4095,7 @@
             {
                 "name": "Foter Cafe Restaurant",
                 "link": "https://www.google.com/maps/search/F%C5%91t%C3%A9r+Cafe+Restaurant/@47.90278120000001,20.3768022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1672,
+                "reviews": 1673,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -5318,21 +4207,21 @@
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "DEPRESSO KITCHEN Etterem",
                 "link": "https://www.google.com/maps/search/DEPRESSO+KITCHEN+%C3%89tterem/@47.901934999999995,20.3762926?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1609,
+                "reviews": 1612,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Rock Cafe",
                 "link": "https://www.google.com/maps/search/Rock+Caf%C3%A9/@47.888933599999994,20.3844472?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -5369,6 +4258,54 @@
         "address": "Eger, Chris Cafe, Torvenyhaz u. 4-1.emelet, 3300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Chris+Cafe/data=!4m7!3m6!1s0x4741c1322817842f:0x7e0824f5769f280d!8m2!3d47.9004949!4d20.3682255!16s%2Fg%2F11jbd51x1h!19sChIJL4QXKDLBQUcRDSifdvUkCH4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJMXXjuh6NQEcR9VfRmgNZ20k",
+        "name": "Kavezz.ON Vintage Style",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "competitors": [
+            {
+                "name": "Kavesdoboz Coffee Bar & Deli",
+                "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 303,
+                "rating": 4.6,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Cirkele - reggeli & brunch",
+                "link": "https://www.google.com/maps/search/Cirkele+-+reggeli+%26+brunch/@47.901727799999996,20.3813346?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 4.9,
+                "main_category": "Zao Wu Can "
+            },
+            {
+                "name": "Chris Cafe",
+                "link": "https://www.google.com/maps/search/Chris+Cafe/@47.9004949,20.368225499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kavezz.ON Vintage Style (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGvXRsfLjfd84MWxs0-EcbpB932ZWeol0YEdRC=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Eger, Kavezz.ON Vintage Style, Lenkey Udvar, 3300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9zz.ON+Vintage+Style/data=!4m7!3m6!1s0x47408d1ebae37531:0x49db59039ad157f5!8m2!3d47.9026393!4d20.3744425!16s%2Fg%2F11j6vqy3ql!19sChIJMXXjuh6NQEcR9VfRmgNZ20k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJnwluNn-NQEcRdoK3jEHVg5Y",
@@ -5424,54 +4361,6 @@
         "address": "Eger, Primo Gelateria, Szechenyi Istvan u. 7, 3300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Primo+Gelateria/data=!4m7!3m6!1s0x47408d7f366e099f:0x9683d5418cb78276!8m2!3d47.9017909!4d20.3739222!16s%2Fg%2F11p5005dxg!19sChIJnwluNn-NQEcRdoK3jEHVg5Y?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJMXXjuh6NQEcR9VfRmgNZ20k",
-        "name": "Kavezz.ON Vintage Style",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 19,
-        "competitors": [
-            {
-                "name": "Kavesdoboz Coffee Bar & Deli",
-                "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
-                "rating": 4.6,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Cirkele - reggeli & brunch",
-                "link": "https://www.google.com/maps/search/Cirkele+-+reggeli+%26+brunch/@47.901727799999996,20.3813346?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4.9,
-                "main_category": "Zao Wu Can "
-            },
-            {
-                "name": "Chris Cafe",
-                "link": "https://www.google.com/maps/search/Chris+Cafe/@47.9004949,20.368225499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Kavezz.ON Vintage Style (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGvXRsfLjfd84MWxs0-EcbpB932ZWeol0YEdRC=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Kavezz.ON Vintage Style, Lenkey Udvar, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9zz.ON+Vintage+Style/data=!4m7!3m6!1s0x47408d1ebae37531:0x49db59039ad157f5!8m2!3d47.9026393!4d20.3744425!16s%2Fg%2F11j6vqy3ql!19sChIJMXXjuh6NQEcR9VfRmgNZ20k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJZ7wN6YaNQEcRuHNnZhlKmhY",
@@ -5571,7 +4460,7 @@
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -5585,14 +4474,14 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Rock Cafe",
                 "link": "https://www.google.com/maps/search/Rock+Caf%C3%A9/@47.888933599999994,20.3844472?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
+                "reviews": 202,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -5741,61 +4630,6 @@
         "link": "https://www.google.com/maps/place/Picurka+Abc/data=!4m7!3m6!1s0x47408da3de83bed3:0xcb68b93ed7eaee6d!8m2!3d47.9051557!4d20.3642891!16s%2Fg%2F11c0vpbbgg!19sChIJ076D3qONQEcRbe7q1z65aMs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJyyfNGpyNQEcR_I-Tv_y8CNk",
-        "name": "Kurtoskalacs",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 10,
-        "competitors": [
-            {
-                "name": "Szent Lorinc Confectionery",
-                "link": "https://www.google.com/maps/search/Szent+L%C5%91rinc+Confectionery/@47.8957562,20.385669699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 213,
-                "rating": 4.5,
-                "main_category": "Tang Guo Gao Bing Dian "
-            },
-            {
-                "name": "EgriKurtos",
-                "link": "https://www.google.com/maps/search/EgriK%C3%BCrt%C5%91s/@47.902143599999995,20.3751623?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Szamos Marcipan Bolt",
-                "link": "https://www.google.com/maps/search/Szamos+Marcip%C3%A1n+Bolt/@47.904768,20.3770989?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.6,
-                "main_category": "Tang Guo Dian "
-            },
-            {
-                "name": "Jancsi bacsi kurtoskalacs sutodeje - Eger",
-                "link": "https://www.google.com/maps/search/Jancsi+b%C3%A1csi+k%C3%BCrt%C5%91skal%C3%A1cs+s%C3%BCt%C3%B6d%C3%A9je+-+Eger/@47.9240379,20.3699096?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 61,
-                "rating": 4,
-                "main_category": "Tian Pin Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Kurtoskalacs (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4lEoETwGQ3dLQYDApBjeBZpgIYjnLQhM_cfm9=w408-h306-k-no",
-        "main_category": "Tang Guo Gao Bing Dian ",
-        "categories": [
-            "Tang Guo Gao Bing Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": "10:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 31 788 8926",
-        "address": "Eger, Kurtoskalacs, Szent Janos u. 14, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/K%C3%BCrt%C3%B6skal%C3%A1cs/data=!4m7!3m6!1s0x47408d9c1acd27cb:0xd908bcfcbf938ffc!8m2!3d47.902157!4d20.3757759!16s%2Fg%2F11gfddxy9x!19sChIJyyfNGpyNQEcR_I-Tv_y8CNk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJoyAcLpmNQEcRgc_0QRo6H3E",
         "name": "Fornetti",
         "description": null,
@@ -5805,7 +4639,7 @@
             {
                 "name": "Radi Pekseg",
                 "link": "https://www.google.com/maps/search/R%C3%A1di+P%C3%A9ks%C3%A9g/@47.9003437,20.3774595?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 559,
+                "reviews": 561,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -5860,30 +4694,68 @@
         "link": "https://www.google.com/maps/place/Fornetti/data=!4m7!3m6!1s0x47408d992e1c20a3:0x711f3a1a41f4cf81!8m2!3d47.9038262!4d20.3730737!16s%2Fg%2F11bxdx51bj!19sChIJoyAcLpmNQEcRgc_0QRo6H3E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJzybs9V-NQEcRuNvsSEMRLoA",
-        "name": "Nemzeti dohanybolt",
+        "place_id": "ChIJuQkOx0ONQEcR95yTNFFF9Po",
+        "name": "Dobo Deli",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 5,
-        "competitors": [],
+        "competitors": [
+            {
+                "name": "Borkereskedes",
+                "link": "https://www.google.com/maps/search/Borkeresked%C3%A9s/@47.9028296,20.3802578?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4.2,
+                "main_category": "Jiu Pin Zhuan Mai Dian "
+            },
+            {
+                "name": "Kossuth Csemege",
+                "link": "https://www.google.com/maps/search/Kossuth+Csemege/@47.9003437,20.3774595?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 3.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Euro-Delikat",
+                "link": "https://www.google.com/maps/search/Euro-Delik%C3%A1t/@47.899783,20.3795949?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            },
+            {
+                "name": "Deli Balazs",
+                "link": "https://www.google.com/maps/search/Deli+Bal%C3%A1zs/@47.9012628,20.376649099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            },
+            {
+                "name": "egebakkal",
+                "link": "https://www.google.com/maps/search/egebakkal/@47.9025348,20.3772284?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            }
+        ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Nemzeti dohanybolt (Ye Zhu )",
-            "link": null
+            "id": "109379973433060479268",
+            "name": "Dobo Deli (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109379973433060479268"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHv-JWB0Dpfuv1jivcEPOQz2P33f1vvZFnjoec=w408-h544-k-no",
-        "main_category": "Yan Cao Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO10VWzTuLGAqgNcxNt1hHrLKPR5hIIiEQDtVJl=w408-h477-k-no",
+        "main_category": "Shou Shi Dian ",
         "categories": [
-            "Yan Cao Dian "
+            "Shou Shi Dian "
         ],
-        "rating": 4,
-        "workday_timing": "07:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 36 817 227",
-        "address": "Eger, Nemzeti dohanybolt, Szent Janos u. 13, 3300 Xiong Ya Li ",
+        "rating": 5,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+36 20 965 1412",
+        "address": "Eger, Dobo Deli, Dobo Istvan u. 11, 3300 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+doh%C3%A1nybolt/data=!4m7!3m6!1s0x47408d5ff5ec26cf:0x802e114348ecdbb8!8m2!3d47.90247!4d20.3759309!16s%2Fg%2F11mpctthhq!19sChIJzybs9V-NQEcRuNvsSEMRLoA?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Dob%C3%B3+Deli/data=!4m7!3m6!1s0x47408d43c70e09b9:0xfaf4455134939cf7!8m2!3d47.9028813!4d20.3790611!16s%2Fg%2F11sz2mjzsx!19sChIJuQkOx0ONQEcR95yTNFFF9Po?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ7XovviGNQEcR4bbQ_KhShBo",
@@ -5952,68 +4824,6 @@
         "address": "Eger, Kunyho-NassCafe & Fagyizo, Deak Ferenc u. 19, 3300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kunyh%C3%B3-NassCafe+%26+Fagyiz%C3%B3/data=!4m7!3m6!1s0x47408d21be2f7aed:0x1a8452a8fcd0b6e1!8m2!3d47.8955325!4d20.3757302!16s%2Fg%2F11q1rm8xrc!19sChIJ7XovviGNQEcR4bbQ_KhShBo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJuQkOx0ONQEcR95yTNFFF9Po",
-        "name": "Dobo Deli",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "Borkereskedes",
-                "link": "https://www.google.com/maps/search/Borkeresked%C3%A9s/@47.9028296,20.3802578?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.2,
-                "main_category": "Jiu Pin Zhuan Mai Dian "
-            },
-            {
-                "name": "Kossuth Csemege",
-                "link": "https://www.google.com/maps/search/Kossuth+Csemege/@47.9003437,20.3774595?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Euro-Delikat",
-                "link": "https://www.google.com/maps/search/Euro-Delik%C3%A1t/@47.899783,20.3795949?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            },
-            {
-                "name": "Deli Balazs",
-                "link": "https://www.google.com/maps/search/Deli+Bal%C3%A1zs/@47.9012628,20.376649099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            },
-            {
-                "name": "egebakkal",
-                "link": "https://www.google.com/maps/search/egebakkal/@47.9025348,20.3772284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "109379973433060479268",
-            "name": "Dobo Deli (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109379973433060479268"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO10VWzTuLGAqgNcxNt1hHrLKPR5hIIiEQDtVJl=w408-h477-k-no",
-        "main_category": "Shou Shi Dian ",
-        "categories": [
-            "Shou Shi Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "10:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 965 1412",
-        "address": "Eger, Dobo Deli, Dobo Istvan u. 11, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Dob%C3%B3+Deli/data=!4m7!3m6!1s0x47408d43c70e09b9:0xfaf4455134939cf7!8m2!3d47.9028813!4d20.3790611!16s%2Fg%2F11sz2mjzsx!19sChIJuQkOx0ONQEcR95yTNFFF9Po?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJC3F32nqNQEcRxBN8CSP29_I",
@@ -6087,7 +4897,7 @@
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -6244,87 +5054,6 @@
         "link": "https://www.google.com/maps/place/Koru+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47408df88af69c0d:0x4c51991b6c28afc!8m2!3d47.9029843!4d20.3780136!16s%2Fg%2F11vlr0k0d2!19sChIJDZz2iviNQEcR_IrCtpEZxQQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJRZBUhwqNQEcRNLONHPduUeo",
-        "name": "mT`m eger",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "mT`m eger (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VBBH61s3zz1EYSimGJ0GbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=278.10446&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, mT`m eger, Szepasszonyvolgy 36, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%A7%D8%B9%D9%85+eger%E2%80%AD/data=!4m7!3m6!1s0x47408d0a87549045:0xea516ef71c8db334!8m2!3d47.8899202!4d20.3586292!16s%2Fg%2F11v6k631h2!19sChIJRZBUhwqNQEcRNLONHPduUeo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJI11YnZCNQEcRr8oFgdVK3-M",
-        "name": "Fruit Cafe Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Frei Eger",
-                "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kavesdoboz Coffee Bar & Deli",
-                "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
-                "rating": 4.6,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Club Cafe & Bar",
-                "link": "https://www.google.com/maps/search/Club+Caf%C3%A9+%26+Bar/@47.8994678,20.382893499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 91,
-                "rating": 4.2,
-                "main_category": "Fa Shi Can Ting "
-            },
-            {
-                "name": "Cafe Jardin Eger",
-                "link": "https://www.google.com/maps/search/Cafe+Jardin+Eger/@47.9046449,20.3774696?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 61,
-                "rating": 4.9,
-                "main_category": "Tian Pin Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Fruit Cafe Kft. (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9OecNfvNEayOXg-IkqpYVA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.22536&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 36 517 664",
-        "address": "Eger, Fruit Cafe Kft., Gardonyi Geza u. 5, 3304 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Fruit+Cafe+Kft./data=!4m7!3m6!1s0x47408d909d585d23:0xe3df4ad58105caaf!8m2!3d47.906932!4d20.381355!16s%2Fg%2F11cn8tb64m!19sChIJI11YnZCNQEcRr8oFgdVK3-M?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJoSkgwsiNQEcRSb_4r79xvTs",
         "name": "Uszi Bufe",
         "description": null,
@@ -6387,6 +5116,115 @@
         "link": "https://www.google.com/maps/place/Uszi+B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x47408dc8c22029a1:0x3bbd71bfaff8bf49!8m2!3d47.8992168!4d20.3836285!16s%2Fg%2F11pd0nssp6!19sChIJoSkgwsiNQEcRSb_4r79xvTs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJRZBUhwqNQEcRNLONHPduUeo",
+        "name": "mT`m eger",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mT`m eger (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VBBH61s3zz1EYSimGJ0GbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=278.10446&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Eger, mT`m eger, Szepasszonyvolgy 36, 3300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%A7%D8%B9%D9%85+eger%E2%80%AD/data=!4m7!3m6!1s0x47408d0a87549045:0xea516ef71c8db334!8m2!3d47.8899202!4d20.3586292!16s%2Fg%2F11v6k631h2!19sChIJRZBUhwqNQEcRNLONHPduUeo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJI11YnZCNQEcRr8oFgdVK3-M",
+        "name": "Fruit Cafe Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Cafe Frei Eger",
+                "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1743,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kavesdoboz Coffee Bar & Deli",
+                "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 303,
+                "rating": 4.6,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Club Cafe & Bar",
+                "link": "https://www.google.com/maps/search/Club+Caf%C3%A9+%26+Bar/@47.8994678,20.382893499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 91,
+                "rating": 4.2,
+                "main_category": "Fa Shi Can Ting "
+            },
+            {
+                "name": "Cafe Jardin Eger",
+                "link": "https://www.google.com/maps/search/Cafe+Jardin+Eger/@47.9046449,20.3774696?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 62,
+                "rating": 4.9,
+                "main_category": "Tian Pin Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fruit Cafe Kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9OecNfvNEayOXg-IkqpYVA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.22536&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 36 517 664",
+        "address": "Eger, Fruit Cafe Kft., Gardonyi Geza u. 5, 3304 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fruit+Cafe+Kft./data=!4m7!3m6!1s0x47408d909d585d23:0xe3df4ad58105caaf!8m2!3d47.906932!4d20.381355!16s%2Fg%2F11cn8tb64m!19sChIJI11YnZCNQEcRr8oFgdVK3-M?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJwS27dPWNQEcRJj7oK3U8PtI",
+        "name": "Lipoti Pekseg Pult",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lipoti Pekseg Pult (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ljhu7tT6MTMZ8DvJGip0Hw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=276.0707&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": "06:15-18:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Eger, Lipoti Pekseg Pult, Baktai ut 2, 3300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+Pult/data=!4m7!3m6!1s0x47408df574bb2dc1:0xd23e3c752be83e26!8m2!3d47.9061265!4d20.3636665!16s%2Fg%2F11vb0yqqb3!19sChIJwS27dPWNQEcRJj7oK3U8PtI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJD3V9QLyNQEcR6KsxgGOhmmM",
         "name": "Kmp Cafe Kft.V.A.",
         "description": null,
@@ -6396,14 +5234,14 @@
             {
                 "name": "Manooka Kavezo",
                 "link": "https://www.google.com/maps/search/Manooka+K%C3%A1v%C3%A9z%C3%B3/@47.9013649,20.3763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 780,
+                "reviews": 782,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kavesdoboz Coffee Bar & Deli",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9sdoboz+Coffee+Bar+%26+Deli/@47.900624099999995,20.377565999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
+                "reviews": 303,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -6440,32 +5278,6 @@
         "address": "Eger, Kmp Cafe Kft.V.A., II. Rakoczi Ferenc u. 37, 3300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kmp+Caf%C3%A9+Kft.V.A./data=!4m7!3m6!1s0x47408dbc407d750f:0x639aa1638031abe8!8m2!3d47.912896!4d20.3697997!16s%2Fg%2F1hhx5r3k_!19sChIJD3V9QLyNQEcR6KsxgGOhmmM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJiQBu3YONQEcR_aHMV-nix7o",
-        "name": "Zoldseges bolt",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Zoldseges bolt (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6jDSq13E52eVEeluQH0q0w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.45334&pitch=0&thumbfov=100",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Eger, Zoldseges bolt, Malomarok u. 4, 3300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Z%C3%B6lds%C3%A9ges+bolt/data=!4m7!3m6!1s0x47408d83dd6e0089:0xbac7e2e957cca1fd!8m2!3d47.9103694!4d20.3732265!16s%2Fg%2F11kk7886sc!19sChIJiQBu3YONQEcR_aHMV-nix7o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJn0CY-NeNQEcRg1ZmdqI46pc",
@@ -6518,14 +5330,14 @@
             {
                 "name": "Cafe Frei Eger",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eger/@47.900095799999995,20.36837?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1741,
+                "reviews": 1743,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Edeskert Etterem es Fagyizo",
                 "link": "https://www.google.com/maps/search/%C3%89deskert+%C3%89tterem+%C3%A9s+Fagyiz%C3%B3/@47.891365099999994,20.3592102?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 773,
+                "reviews": 774,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },

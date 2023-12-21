@@ -4,19 +4,19 @@
         "name": "El Viejo Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2191,
+        "reviews": 2193,
         "competitors": [
             {
                 "name": "Cafe Condesa",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Condesa/@14.5567436,-90.73431749999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2323,
+                "reviews": 2324,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -30,7 +30,7 @@
             {
                 "name": "Cafe Boheme",
                 "link": "https://www.google.com/maps/search/Cafe+Boheme/@14.5563256,-90.7355358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
+                "reviews": 482,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -58,8 +58,10 @@
             "Can Ting "
         ],
         "rating": 4.6,
-        "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "06:30-22:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+502 7832 1576",
         "address": "El Viejo Cafe, 3ra. Calle Poniente y 6ta Ave Norte. 12 La Antigua Guatemala Antigua, Guatemala 03001Wei Di Ma La ",
         "review_keywords": [
@@ -107,7 +109,7 @@
             {
                 "name": "Restaurante Cafetenango",
                 "link": "https://www.google.com/maps/search/Restaurante+Cafetenango/@14.580166099999998,-90.7330552?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1003,
+                "reviews": 1004,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -201,102 +203,6 @@
         "link": "https://www.google.com/maps/place/Finca+Colombia,+La+Antigua+Guatemala/data=!4m7!3m6!1s0x85890e23d94e3049:0x9018bfc637f01cb2!8m2!3d14.5343107!4d-90.7481682!16s%2Fg%2F11b6208_pv!19sChIJSTBO2SMOiYURshzwN8a_GJA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJO7H2Cn0PiYURl7xC-_LprLs",
-        "name": "Starbucks",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 683,
-        "competitors": [
-            {
-                "name": "Cafe Cafe Guatemala",
-                "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
-                "rating": 4.8,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Barista Coffee Antigua",
-                "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Starbucks",
-                "link": "https://www.google.com/maps/search/Starbucks/@14.60865,-90.58914?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 788,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe Estudio",
-                "link": "https://www.google.com/maps/search/Cafe+Estudio/@14.5593777,-90.73327789999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 419,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe La Parada",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://sbgt.premium.gt/",
-        "owner": {
-            "id": "110609224936268176704",
-            "name": "Starbucks (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110609224936268176704"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipONdaG47l4oPuDisv8zlflJLIPv232mE7zKlf4=w426-h240-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting ",
-            "Ka Pei Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Starbucks, centro historico, 5a Avenida Norte 15, Antigua Guatemala, Wei Di Ma La ",
-        "review_keywords": [
-            {
-                "keyword": "Ka Pei ",
-                "count": 87
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 36
-            },
-            {
-                "keyword": "Fang Jian ",
-                "count": 13
-            },
-            {
-                "keyword": "wifi",
-                "count": 11
-            },
-            {
-                "keyword": "Bi Hua ",
-                "count": 9
-            },
-            {
-                "keyword": "Hua Yuan ",
-                "count": 7
-            },
-            {
-                "keyword": "Guo Jia ",
-                "count": 6
-            },
-            {
-                "keyword": "Jian Zhu ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x85890f7d0af6b13b:0xbbace9f2fb42bc97!8m2!3d14.5582123!4d-90.7341843!16s%2Fg%2F11qb3j2j0l!19sChIJO7H2Cn0PiYURl7xC-_LprLs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJx7j8wwwOiYURTdxwOThagN8",
         "name": "Bella Vista Coffee",
         "description": null,
@@ -306,28 +212,28 @@
             {
                 "name": "El Viejo Cafe",
                 "link": "https://www.google.com/maps/search/El+Viejo+Caf%C3%A9/@14.5583571,-90.73535410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2188,
+                "reviews": 2192,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Fernando's Kaffee",
                 "link": "https://www.google.com/maps/search/Fernando%27s+Kaffee/@14.561602199999998,-90.73628819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 654,
+                "reviews": 655,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -398,19 +304,19 @@
         "name": "Union Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 489,
+        "reviews": 492,
         "competitors": [
             {
                 "name": "El Viejo Cafe",
                 "link": "https://www.google.com/maps/search/El+Viejo+Caf%C3%A9/@14.5583571,-90.73535410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2188,
+                "reviews": 2192,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -449,7 +355,7 @@
             "Ka Pei Ting ",
             "Ka Pei Dian "
         ],
-        "rating": 4.6,
+        "rating": 4.7,
         "workday_timing": "07:30-18:00",
         "closed_on": "Open All Days",
         "phone": "+502 7832 1986",
@@ -457,7 +363,7 @@
         "review_keywords": [
             {
                 "keyword": "Bing Sha ",
-                "count": 58
+                "count": 59
             },
             {
                 "keyword": "wifi",
@@ -465,7 +371,7 @@
             },
             {
                 "keyword": "atmosphere",
-                "count": 18
+                "count": 17
             },
             {
                 "keyword": "vegan",
@@ -499,26 +405,26 @@
         "name": "Cafe Boheme",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 480,
+        "reviews": 482,
         "competitors": [
             {
                 "name": "Cafe Condesa",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Condesa/@14.5567436,-90.73431749999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2323,
+                "reviews": 2324,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "El Viejo Cafe",
                 "link": "https://www.google.com/maps/search/El+Viejo+Caf%C3%A9/@14.5583571,-90.73535410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2188,
+                "reviews": 2192,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -532,7 +438,7 @@
             {
                 "name": "Cafe La Parada",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 398,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -577,113 +483,11 @@
                 "count": 11
             },
             {
-                "keyword": "Bu Lang Ni ",
-                "count": 10
-            },
-            {
                 "keyword": "Ou Mu Dan ",
                 "count": 7
             }
         ],
         "link": "https://www.google.com/maps/place/Cafe+Boheme/data=!4m7!3m6!1s0x85890e0ce7f2622f:0x4481fe4abf805578!8m2!3d14.5563256!4d-90.7355358!16s%2Fg%2F11c1t5l4nx!19sChIJL2Ly5wwOiYUReFWAv0r-gUQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJQWD2acMPiYURxakrsLLZlh0",
-        "name": "Artista de Cafe - Specialty Coffeeshop",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 379,
-        "competitors": [
-            {
-                "name": "Cafe Cafe Guatemala",
-                "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
-                "rating": 4.8,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Barista Coffee Antigua",
-                "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Estudio",
-                "link": "https://www.google.com/maps/search/Cafe+Estudio/@14.5593777,-90.73327789999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 419,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Sol",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "http://www.artistadecafe.com/",
-        "owner": {
-            "id": "109133953418859428380",
-            "name": "Artista de Cafe - Specialty Coffeeshop (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109133953418859428380"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxFhU3E0F_wEqXgDZYJApJMW9AM0YFafKuFjTp=w408-h331-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Zao Wu Can Can Ting ",
-            "Ka Pei Dian ",
-            "Gong Tong Gong Zuo Kong Jian ",
-            "Guo Zhi Dian ",
-            "Can Ting ",
-            "Cha Yi Guan "
-        ],
-        "rating": 4.7,
-        "workday_timing": "07:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+502 4795 6598",
-        "address": "Artista de Cafe - Specialty Coffeeshop, 5ta avenida sur no. 34B, Antigua Guatemala, Wei Di Ma La ",
-        "review_keywords": [
-            {
-                "keyword": "Kong Jian ",
-                "count": 13
-            },
-            {
-                "keyword": "wifi",
-                "count": 12
-            },
-            {
-                "keyword": "Ka Pei Shi ",
-                "count": 10
-            },
-            {
-                "keyword": "Jing Yan ",
-                "count": 9
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 8
-            },
-            {
-                "keyword": "Mei Gan ",
-                "count": 7
-            },
-            {
-                "keyword": "She Ji ",
-                "count": 6
-            },
-            {
-                "keyword": "Dou ",
-                "count": 6
-            },
-            {
-                "keyword": "Hu Luo Bo Dan Gao ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/data=!4m7!3m6!1s0x85890fc369f66041:0x1d96d9b2b02ba9c5!8m2!3d14.5529114!4d-90.7343154!16s%2Fg%2F11gwmhrjcb!19sChIJQWD2acMPiYURxakrsLLZlh0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJk25ckGUPiYURAXxETKzs9Cw",
@@ -695,7 +499,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -785,104 +589,6 @@
         "link": "https://www.google.com/maps/place/Siena+Luz,+Coffee+%26+Book+Shop/data=!4m7!3m6!1s0x85890f65905c6e93:0x2cf4ecac4c447c01!8m2!3d14.5601621!4d-90.7353741!16s%2Fg%2F11rsfg71hj!19sChIJk25ckGUPiYURAXxETKzs9Cw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJEzErGcYPiYUR9obji__ZRNs",
-        "name": "El Alquimista Cafe Bar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 224,
-        "competitors": [
-            {
-                "name": "El Viejo Cafe",
-                "link": "https://www.google.com/maps/search/El+Viejo+Caf%C3%A9/@14.5583571,-90.73535410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2188,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Por Que No? Cafe",
-                "link": "https://www.google.com/maps/search/Por+Qu%C3%A9+No%3F+Cafe/@14.552314400000002,-90.73107689999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 592,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe 22",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+22/@14.555348400000002,-90.7345211?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.8,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Vital Cafe",
-                "link": "https://www.google.com/maps/search/Vital+Caf%C3%A9/@14.551382900000002,-90.7408674?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://elalquimistacafebar.com/",
-        "owner": {
-            "id": "116386195562571444305",
-            "name": "El Alquimista Cafe Bar (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116386195562571444305"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOquoA3238sb-EmW8OHqANeMLeH-aK9A6x7HepK=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Jiu Ba ",
-            "Ji Wei Jiu Jiu Ba ",
-            "Ka Pei Dian ",
-            "Jiu Ba Ya Zuo ",
-            "Can Ting ",
-            "Xi Ban Ya Xiao Shi Jiu Ba ",
-            "Pu Tao Jiu Ba "
-        ],
-        "rating": 4.9,
-        "workday_timing": "08:00-22:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+502 5692 8506",
-        "address": "El Alquimista Cafe Bar, 2 Avenida Sur 51A, Antigua Guatemala, Wei Di Ma La ",
-        "review_keywords": [
-            {
-                "keyword": "Mo Fa ",
-                "count": 32
-            },
-            {
-                "keyword": "Diao Jiu ",
-                "count": 24
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 16
-            },
-            {
-                "keyword": "Gai Nian ",
-                "count": 7
-            },
-            {
-                "keyword": "Ha Li Bo Te ",
-                "count": 6
-            },
-            {
-                "keyword": "Gong Xiang ",
-                "count": 6
-            },
-            {
-                "keyword": "Shi Jue ",
-                "count": 5
-            },
-            {
-                "keyword": "Chuang Yi ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/El+Alquimista+Cafe+Bar/data=!4m7!3m6!1s0x85890fc6192b3113:0xdb44d9ff8be386f6!8m2!3d14.551153!4d-90.7310801!16s%2Fg%2F11s7cq_sy0!19sChIJEzErGcYPiYUR9obji__ZRNs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ76i-1ugPiYURFghG2Mduqs8",
         "name": "Alegria Cafe / Specialty Coffee Shop",
         "description": null,
@@ -892,21 +598,21 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe Boheme",
                 "link": "https://www.google.com/maps/search/Cafe+Boheme/@14.5563256,-90.7355358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
+                "reviews": 482,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "El Gran Cafe",
                 "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -920,7 +626,7 @@
             {
                 "name": "Raiz Cafe",
                 "link": "https://www.google.com/maps/search/Raiz+Caf%C3%A9/@14.555310199999997,-90.7362057?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
+                "reviews": 40,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -937,7 +643,7 @@
             "Ka Pei Dian "
         ],
         "rating": 4.8,
-        "workday_timing": "08:00-17:00",
+        "workday_timing": "08:00-16:00",
         "closed_on": "Open All Days",
         "phone": null,
         "address": "Alegria Cafe / Specialty Coffee Shop, 5 Calle Poniente.2 Antigua, Guatemala 10101Wei Di Ma La ",
@@ -982,12 +688,12 @@
         "name": "Antigua Cat Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 112,
+        "reviews": 113,
         "competitors": [
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1072,21 +778,21 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Fernando's Kaffee",
                 "link": "https://www.google.com/maps/search/Fernando%27s+Kaffee/@14.561602199999998,-90.73628819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 654,
+                "reviews": 655,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe La Parada",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 398,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1167,21 +873,21 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1213,13 +919,19 @@
         ],
         "rating": 4.9,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": null,
         "address": "El Gran Cafe, 5a Calle Poniente 3B, Antigua Guatemala, Wei Di Ma La ",
         "review_keywords": [
             {
                 "keyword": "Ka Pei Shi ",
                 "count": 5
+            },
+            {
+                "keyword": "latte",
+                "count": 4
             },
             {
                 "keyword": "espresso",
@@ -1235,10 +947,6 @@
             },
             {
                 "keyword": "Zhuo ",
-                "count": 3
-            },
-            {
-                "keyword": "Na Tie ",
                 "count": 3
             },
             {
@@ -1258,14 +966,14 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Boheme",
                 "link": "https://www.google.com/maps/search/Cafe+Boheme/@14.5563256,-90.7355358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
+                "reviews": 482,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1279,7 +987,7 @@
             {
                 "name": "El Gran Cafe",
                 "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -1306,7 +1014,9 @@
         ],
         "rating": 4.8,
         "workday_timing": "07:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+502 3072 8111",
         "address": "Serve Hope Cafe GT, 6a Calle Poniente 39, Antigua Guatemala, Wei Di Ma La ",
         "review_keywords": [
@@ -1347,7 +1057,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1361,7 +1071,7 @@
             {
                 "name": "El Gran Cafe",
                 "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -1375,7 +1085,7 @@
             {
                 "name": "Raiz Cafe",
                 "link": "https://www.google.com/maps/search/Raiz+Caf%C3%A9/@14.555310199999997,-90.7362057?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
+                "reviews": 40,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -1436,7 +1146,7 @@
             {
                 "name": "El Gran Cafe",
                 "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -1464,7 +1174,7 @@
             {
                 "name": "La Rosona Coffee Shop",
                 "link": "https://www.google.com/maps/search/La+Rosona+Coffee+Shop/@14.5556357,-90.7353658?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
+                "reviews": 27,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             }
@@ -1511,22 +1221,22 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe La Parada",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 398,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Artista de Cafe - Specialty Coffeeshop",
                 "link": "https://www.google.com/maps/search/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/@14.5529114,-90.7343154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 378,
-                "rating": 4.8,
+                "reviews": 380,
+                "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -1594,21 +1304,21 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe La Parada",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 398,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1735,12 +1445,12 @@
         "name": "Raiz Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 39,
+        "reviews": 40,
         "competitors": [
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1754,7 +1464,7 @@
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1935,14 +1645,14 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Fernando's Kaffee",
                 "link": "https://www.google.com/maps/search/Fernando%27s+Kaffee/@14.561602199999998,-90.73628819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 654,
+                "reviews": 655,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1997,7 +1707,7 @@
             {
                 "name": "Fernando's Kaffee",
                 "link": "https://www.google.com/maps/search/Fernando%27s+Kaffee/@14.561602199999998,-90.73628819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 654,
+                "reviews": 655,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2083,21 +1793,21 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Artista de Cafe - Specialty Coffeeshop",
                 "link": "https://www.google.com/maps/search/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/@14.5529114,-90.7343154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 378,
-                "rating": 4.8,
+                "reviews": 380,
+                "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "La Rosona Coffee Shop",
                 "link": "https://www.google.com/maps/search/La+Rosona+Coffee+Shop/@14.5556357,-90.7353658?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
+                "reviews": 27,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -2153,7 +1863,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2167,7 +1877,7 @@
             {
                 "name": "Raiz Cafe",
                 "link": "https://www.google.com/maps/search/Raiz+Caf%C3%A9/@14.555310199999997,-90.7362057?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
+                "reviews": 40,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2217,14 +1927,14 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe Boheme",
                 "link": "https://www.google.com/maps/search/Cafe+Boheme/@14.5563256,-90.7355358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
+                "reviews": 482,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2282,13 +1992,6 @@
                 "reviews": 106,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Paty's Cafe",
-                "link": "https://www.google.com/maps/search/Paty%27s+Caf%C3%A9/@14.563913,-90.7372445?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 5,
-                "main_category": "Zao Wu Can "
             },
             {
                 "name": "Cafe Siete",
@@ -2464,7 +2167,7 @@
                 "main_category": "Jiu Ba "
             }
         ],
-        "website": "https://www.facebook.com/profile.php%3Fid%3D100070405565156",
+        "website": "https://www.facebook.com/profile.php?id=100070405565156",
         "owner": {
             "id": null,
             "name": "Aurora Cafe Bar (Ye Zhu )",
@@ -2496,28 +2199,28 @@
             {
                 "name": "El Viejo Cafe",
                 "link": "https://www.google.com/maps/search/El+Viejo+Caf%C3%A9/@14.5583571,-90.73535410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2188,
+                "reviews": 2192,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -2534,7 +2237,7 @@
             "Ka Pei Dian "
         ],
         "rating": 5,
-        "workday_timing": "07:00-17:00",
+        "workday_timing": "07:00-19:00",
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er ",
@@ -2612,28 +2315,28 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe La Parada",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 398,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Artista de Cafe - Specialty Coffeeshop",
                 "link": "https://www.google.com/maps/search/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/@14.5529114,-90.7343154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 378,
-                "rating": 4.8,
+                "reviews": 380,
+                "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2711,29 +2414,29 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Fernando's Kaffee",
                 "link": "https://www.google.com/maps/search/Fernando%27s+Kaffee/@14.561602199999998,-90.73628819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 654,
+                "reviews": 655,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Artista de Cafe - Specialty Coffeeshop",
                 "link": "https://www.google.com/maps/search/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/@14.5529114,-90.7343154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 378,
-                "rating": 4.8,
+                "reviews": 380,
+                "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
         ],
@@ -2798,111 +2501,6 @@
         "link": "https://www.google.com/maps/place/Fat+Cat+Coffee+House/data=!4m7!3m6!1s0x85890e735edb32d7:0x43a895351423b6ab!8m2!3d14.5574487!4d-90.7314933!16s%2Fg%2F11b7cjxmmm!19sChIJ1zLbXnMOiYURq7YjFDWVqEM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJNYTlsnMOiYURfX8Tnx-tcaQ",
-        "name": "Por Que No? Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 592,
-        "competitors": [
-            {
-                "name": "El Viejo Cafe",
-                "link": "https://www.google.com/maps/search/El+Viejo+Caf%C3%A9/@14.5583571,-90.73535410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2188,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Los Tres Tiempos",
-                "link": "https://www.google.com/maps/search/Los+Tres+Tiempos/@14.5602081,-90.7341521?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1728,
-                "rating": 4.3,
-                "main_category": "Wei Di Ma La Cai "
-            },
-            {
-                "name": "Cafe No Se",
-                "link": "https://www.google.com/maps/search/Cafe+No+Se/@14.555657799999999,-90.729592?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 580,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Once Once",
-                "link": "https://www.google.com/maps/search/Once+Once/@14.559464199999999,-90.7307464?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 292,
-                "rating": 4.7,
-                "main_category": "Yan Ge Su Shi Liao Li "
-            },
-            {
-                "name": "El Portal Cafe",
-                "link": "https://www.google.com/maps/search/El+Portal+Cafe/@14.556976599999999,-90.734314?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 208,
-                "rating": 4.4,
-                "main_category": "Zao Can "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "109856477128589543831",
-            "name": "Por Que No? Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109856477128589543831"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO17ijdYJue1klMJtEPKAEd9Xm7KiEmCgcHD5dx=w408-h408-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting ",
-            "Jiu Ba ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "18:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+502 5610 2274",
-        "address": "Por Que No? Cafe, 2a Avenida Sur y 9 Calle Oriente Casa 9 Antigua Guatemala, 03001Wei Di Ma La ",
-        "review_keywords": [
-            {
-                "keyword": "Juan Bing ",
-                "count": 22
-            },
-            {
-                "keyword": "Qiang ",
-                "count": 17
-            },
-            {
-                "keyword": "Qie Zi ",
-                "count": 14
-            },
-            {
-                "keyword": "sangria",
-                "count": 13
-            },
-            {
-                "keyword": "Bao Shi ",
-                "count": 11
-            },
-            {
-                "keyword": "Bu Lang Ni ",
-                "count": 10
-            },
-            {
-                "keyword": "Ti ",
-                "count": 8
-            },
-            {
-                "keyword": "Jue Shi Le ",
-                "count": 8
-            },
-            {
-                "keyword": "Ge Xing ",
-                "count": 5
-            },
-            {
-                "keyword": "Sheng ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Por+Qu%C3%A9+No%3F+Cafe/data=!4m7!3m6!1s0x85890e73b2e58435:0xa471ad1f9f137f7d!8m2!3d14.5523144!4d-90.7310769!16s%2Fg%2F1s047_v88!19sChIJNYTlsnMOiYURfX8Tnx-tcaQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ9w92vHQOiYURgWBM_I0hcUc",
         "name": "Cafe Estudio",
         "description": null,
@@ -2912,28 +2510,28 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Fernando's Kaffee",
                 "link": "https://www.google.com/maps/search/Fernando%27s+Kaffee/@14.561602199999998,-90.73628819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 654,
+                "reviews": 655,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Artista de Cafe - Specialty Coffeeshop",
                 "link": "https://www.google.com/maps/search/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/@14.5529114,-90.7343154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 378,
-                "rating": 4.8,
+                "reviews": 380,
+                "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -3011,14 +2609,14 @@
             {
                 "name": "Cafe Condesa",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Condesa/@14.5567436,-90.73431749999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2323,
+                "reviews": 2324,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3032,7 +2630,7 @@
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -3094,14 +2692,14 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3259,14 +2857,14 @@
             {
                 "name": "Pappys BBQ",
                 "link": "https://www.google.com/maps/search/Pappys+BBQ/@14.555172,-90.7353826?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1823,
+                "reviews": 1825,
                 "rating": 4.6,
                 "main_category": "Shao Kao "
             },
             {
                 "name": "Churrasquitos Olguis",
                 "link": "https://www.google.com/maps/search/Churrasquitos+Olguis/@14.567044099999999,-90.7396788?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
+                "reviews": 29,
                 "rating": 4.7,
                 "main_category": "Mo Xi Ge Jia Bing "
             },
@@ -3340,15 +2938,15 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Artista de Cafe - Specialty Coffeeshop",
                 "link": "https://www.google.com/maps/search/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/@14.5529114,-90.7343154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 378,
-                "rating": 4.8,
+                "reviews": 380,
+                "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3541,85 +3139,6 @@
         "link": "https://www.google.com/maps/place/Fue+En+Un+Cafe/data=!4m7!3m6!1s0x858911733580c359:0x2c1eb0a5cc40726c!8m2!3d14.5242568!4d-90.7618486!16s%2Fg%2F11n14f440x!19sChIJWcOANXMRiYURbHJAzKWwHiw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJixaL4REPiYURtsEjC6BfsX8",
-        "name": "Cafe Collecto @ Blu Antigua",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 50,
-        "competitors": [
-            {
-                "name": "El Gran Cafe",
-                "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
-                "rating": 4.9,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffea Cafes Especiales",
-                "link": "https://www.google.com/maps/search/Coffea+Caf%C3%A9s+Especiales/@14.5564234,-90.73040929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.8,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Don Cafeone",
-                "link": "https://www.google.com/maps/search/Don+Cafeone/@14.560643599999999,-90.7358003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 42,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Dulce Lily Cafe",
-                "link": "https://www.google.com/maps/search/Dulce+Lily+Caf%C3%A9/@14.5552398,-90.73838370000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "El Cafecito en Antigua",
-                "link": "https://www.google.com/maps/search/El+Cafecito+en+Antigua/@14.565213,-90.73701109999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "106412457893564764454",
-            "name": "Cafe Collecto @ Blu Antigua (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106412457893564764454"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-1tM69_PNi1c9wRpP-vBEu7_8seuRmrJDZ_sa=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+502 5041 0019",
-        "address": "Cafe Collecto @ Blu Antigua, 4 Avenida Norte #16, Antigua Guatemala, Wei Di Ma La ",
-        "review_keywords": [
-            {
-                "keyword": "Na Tie ",
-                "count": 4
-            },
-            {
-                "keyword": "Jiao Tang ",
-                "count": 3
-            },
-            {
-                "keyword": "Tian Dian ",
-                "count": 3
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Collecto+@+Blu+Antigua/data=!4m7!3m6!1s0x85890f11e18b168b:0x7fb15fa00b23c1b6!8m2!3d14.5601941!4d-90.7332697!16s%2Fg%2F11ghfp3fl4!19sChIJixaL4REPiYURtsEjC6BfsX8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJxTI53NERiYURXOYn1FBNdU0",
         "name": "Coffee Shop Del Volcan De Agua",
         "description": null,
@@ -3701,21 +3220,21 @@
             {
                 "name": "El Viejo Cafe",
                 "link": "https://www.google.com/maps/search/El+Viejo+Caf%C3%A9/@14.5583571,-90.73535410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2188,
+                "reviews": 2192,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3869,7 +3388,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3883,7 +3402,7 @@
             {
                 "name": "Cafe La Parada",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 398,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -3944,7 +3463,7 @@
             {
                 "name": "La Rosona Coffee Shop",
                 "link": "https://www.google.com/maps/search/La+Rosona+Coffee+Shop/@14.5556357,-90.7353658?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
+                "reviews": 27,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -4004,7 +3523,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4067,7 +3586,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4081,8 +3600,8 @@
             {
                 "name": "Artista de Cafe - Specialty Coffeeshop",
                 "link": "https://www.google.com/maps/search/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/@14.5529114,-90.7343154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 378,
-                "rating": 4.8,
+                "reviews": 380,
+                "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -4143,7 +3662,7 @@
             {
                 "name": "Super Del Barrio San Jose Villa Nueva",
                 "link": "https://www.google.com/maps/search/Super+Del+Barrio+San+Jose+Villa+Nueva/@14.548674,-90.5923297?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 117,
                 "rating": 4.2,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -4198,14 +3717,14 @@
             {
                 "name": "Fernando's Kaffee",
                 "link": "https://www.google.com/maps/search/Fernando%27s+Kaffee/@14.561602199999998,-90.73628819999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 654,
+                "reviews": 655,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe La Parada",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 398,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -4260,7 +3779,7 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4274,21 +3793,21 @@
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "El Gran Cafe",
                 "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "La Rosona Coffee Shop",
                 "link": "https://www.google.com/maps/search/La+Rosona+Coffee+Shop/@14.5556357,-90.7353658?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
+                "reviews": 27,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             }
@@ -4334,7 +3853,7 @@
             "name": "Maranon Smoothies/Paninis/Cafe (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/116029238099765312070"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-JxtIKhBPqnT_08UYBN459PzW5qTgwjSwdUUk=w519-h240-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPb2XpAcn0sQv2Zc1lLCvWOS0S9ovtTWkwti_lE=w408-h306-k-no",
         "main_category": "Zheng Liu Ka Pei Ba ",
         "categories": [
             "Zheng Liu Ka Pei Ba "
@@ -4351,61 +3870,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Mara%C3%B1%C3%B3n+Smoothies%2FPaninis%2FCaf%C3%A9/data=!4m7!3m6!1s0x85890f19c68d86fd:0xefb3d368cfa266ec!8m2!3d14.5598967!4d-90.7363371!16s%2Fg%2F11v5t3wdkl!19sChIJ_YaNxhkPiYUR7Gaiz2jTs-8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ45IZ4dgPiYURVTqCfjsFppA",
-        "name": "Donde Mama Sheny",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 13,
-        "competitors": [
-            {
-                "name": "Chimino",
-                "link": "https://www.google.com/maps/search/Chimino/@14.5574407,-90.7340141?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 104,
-                "rating": 3.9,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe Tonita",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Tonita/@14.560991900000001,-90.7312393?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Los Volcanes",
-                "link": "https://www.google.com/maps/search/Los+Volcanes/@14.555449099999999,-90.7370012?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cooffee tully's antigua guatemala",
-                "link": "https://www.google.com/maps/search/Cooffee+tully%27s+antigua+guatemala/@14.562936700000002,-90.7353268?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Donde Mama Sheny (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNavz1PJHgz3vULiBUJw1pwhLX3GZngzfyJjWc5=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": "18:30-01:00",
-        "closed_on": "Open All Days",
-        "phone": "+502 4214 2662",
-        "address": "Donde Mama Sheny, Alameda de Santa Lucia 19, Antigua Guatemala, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Donde+Mama+Sheny/data=!4m7!3m6!1s0x85890fd8e11992e3:0x90a6053b7e823a55!8m2!3d14.5586725!4d-90.7377879!16s%2Fg%2F11hdz9n94_!19sChIJ45IZ4dgPiYURVTqCfjsFppA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ40efXAkPiYURtlw1YFC-w_o",
@@ -4456,7 +3920,7 @@
             "Chun Su Can Ting "
         ],
         "rating": 5,
-        "workday_timing": "10:00-21:00",
+        "workday_timing": "09:00-19:00",
         "closed_on": [
             "Xing Qi Yi "
         ],
@@ -4528,125 +3992,6 @@
         "link": "https://www.google.com/maps/place/LA+REPOSTER%C3%8DA/data=!4m7!3m6!1s0x858911244e4e85c1:0x11c6ac7d8aaf21b7!8m2!3d14.5241448!4d-90.7623564!16s%2Fg%2F11j8hlbzbt!19sChIJwYVOTiQRiYURtyGvin2sxhE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJf2aYie4PiYURUGxPbnEY9fM",
-        "name": "Los Azahares Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 9,
-        "competitors": [
-            {
-                "name": "Cafe Cafe Guatemala",
-                "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
-                "rating": 4.8,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Artista de Cafe - Specialty Coffeeshop",
-                "link": "https://www.google.com/maps/search/Artista+de+Caf%C3%A9+-+Specialty+Coffeeshop/@14.5529114,-90.7343154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 378,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "El Gran Cafe",
-                "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
-                "rating": 4.9,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Raiz Cafe",
-                "link": "https://www.google.com/maps/search/Raiz+Caf%C3%A9/@14.555310199999997,-90.7362057?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "La Estacion Cafe",
-                "link": "https://www.google.com/maps/search/La+Estacion+Cafe/@14.5580126,-90.73635089999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Los Azahares Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFGIZ2B4YfvJLBF9d-BV9qVAid_kvjwsuGdM2o=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.9,
-        "workday_timing": "11:00-22:00",
-        "closed_on": [
-            "Xing Qi Si "
-        ],
-        "phone": null,
-        "address": "Los Azahares Cafe, 2 Avenida Sur 79, Antigua Guatemala, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Los+Azahares+Cafe/data=!4m7!3m6!1s0x85890fee8998667f:0xf3f518716e4f6c50!8m2!3d14.5492514!4d-90.7310176!16s%2Fg%2F11h8gtnqcw!19sChIJf2aYie4PiYURUGxPbnEY9fM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJi5n3axwOiYURLYLIdBQql5M",
-        "name": "Refacciones Q.K",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "Qahwa Coffee Shop",
-                "link": "https://www.google.com/maps/search/Qahwa+Coffee+Shop/@14.5585819,-90.7362442?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Refacciones dona LINA",
-                "link": "https://www.google.com/maps/search/Refacciones+do%C3%B1a+LINA/@14.578302899999999,-90.7368716?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Refacciones El Centro",
-                "link": "https://www.google.com/maps/search/Refacciones+El+Centro/@14.684353999999999,-90.9470475?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Mi ReFa",
-                "link": "https://www.google.com/maps/search/Mi+ReFa/@14.5576984,-90.7395966?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Refacciones Q.K (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMj4Jntxe8B_cM4hq4Qdy-KksntJyQeLReogpRW=w408-h725-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 3.9,
-        "workday_timing": "08:00-17:00",
-        "closed_on": "Open All Days",
-        "phone": "+502 4223 3849",
-        "address": "G7X2+C6W Refacciones Q.K, Unnamed Road, Antigua Guatemala, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Refacciones+Q.K/data=!4m7!3m6!1s0x85890e1c6bf7998b:0x93972a1474c8822d!8m2!3d14.5486022!4d-90.7494317!16s%2Fg%2F11h9rvcllf!19sChIJi5n3axwOiYURLYLIdBQql5M?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJXwuUXvAPiYURb4o8ozvkCTs",
         "name": "Rinconcito de las flores",
         "description": null,
@@ -4656,7 +4001,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4709,6 +4054,37 @@
         "link": "https://www.google.com/maps/place/Rinconcito+de+las+flores/data=!4m7!3m6!1s0x85890ff05e940b5f:0x3b09e43ba33c8a6f!8m2!3d14.5529857!4d-90.7343067!16s%2Fg%2F11rgfwg7hz!19sChIJXwuUXvAPiYURb4o8ozvkCTs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJD6K_ViwPiYUREAG3UeaNQEk",
+        "name": "El Cafetalito",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "El Cafetalito (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPi3QRgVAlqOrZa5OLwjYbN_uqgXcutwdmqJUlP=w408-h408-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 2.7,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "El Cafetalito, Centro Comercial El Encuentro, Cd Vieja, Wei Di Ma La ",
+        "review_keywords": [
+            {
+                "keyword": "Su Jiao ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/El+Cafetalito/data=!4m7!3m6!1s0x85890f2c56bfa20f:0x49408de651b70110!8m2!3d14.5313181!4d-90.7512747!16s%2Fg%2F11vdqmbgwy!19sChIJD6K_ViwPiYUREAG3UeaNQEk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJaVTdc5IPiYUR6h3aKN_yV0Q",
         "name": "Coffee Shop & Bistro Antigua",
         "description": null,
@@ -4744,7 +4120,7 @@
             {
                 "name": "El Viejo Cafe",
                 "link": "https://www.google.com/maps/search/El+Viejo+Caf%C3%A9/@14.5583571,-90.73535410000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2188,
+                "reviews": 2192,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -4795,37 +4171,6 @@
         "address": "Cafe Roma Ciudad Vieja, 1a Calle 2-01, Cd Vieja, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Roma+Ciudad+Vieja/data=!4m7!3m6!1s0x858911061860f0c9:0x86c359ecc0bad6dc!8m2!3d14.52534!4d-90.7679132!16s%2Fg%2F11n_8c6xpk!19sChIJyfBgGAYRiYUR3Na6wOxZw4Y?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJD6K_ViwPiYUREAG3UeaNQEk",
-        "name": "El Cafetalito",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "El Cafetalito (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPi3QRgVAlqOrZa5OLwjYbN_uqgXcutwdmqJUlP=w408-h408-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 2.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "El Cafetalito, Centro Comercial El Encuentro, Cd Vieja, Wei Di Ma La ",
-        "review_keywords": [
-            {
-                "keyword": "Su Jiao ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/El+Cafetalito/data=!4m7!3m6!1s0x85890f2c56bfa20f:0x49408de651b70110!8m2!3d14.5313181!4d-90.7512747!16s%2Fg%2F11vdqmbgwy!19sChIJD6K_ViwPiYUREAG3UeaNQEk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJZZofPSkRiYURBNZz_JJxclw",
@@ -4895,6 +4240,68 @@
         "link": "https://www.google.com/maps/place/Cultura+coffee+shop/data=!4m7!3m6!1s0x858911293d1f9a65:0x5c727192fc73d604!8m2!3d14.5227107!4d-90.7650324!16s%2Fg%2F11s4slpcz7!19sChIJZZofPSkRiYURBNZz_JJxclw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJgx8Sd3IOiYURuXBF98AZnTg",
+        "name": "Tostaduria Antigua. Coffee & Cacao Roasting",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Barista Coffee Antigua",
+                "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 803,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "LA VID COFFEE ROASTERS",
+                "link": "https://www.google.com/maps/search/LA+VID+COFFEE+ROASTERS/@14.558341799999997,-90.7356391?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 110,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "El Gran Cafe",
+                "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 85,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffea Cafes Especiales",
+                "link": "https://www.google.com/maps/search/Coffea+Caf%C3%A9s+Especiales/@14.5564234,-90.73040929999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 80,
+                "rating": 4.8,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Cafe Colmena Antigua Guatemala",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Colmena+Antigua+Guatemala/@14.5573815,-90.7374127?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Tostaduria Antigua. Coffee & Cacao Roasting (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN0EWhQx-aZSI8rur8O3bKCHyduxtmhcp1GaetP=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Tostaduria Antigua. Coffee & Cacao Roasting, 2 Avenida Sur 36, Antigua Guatemala, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tostaduria+Antigua.+Coffee+%26+Cacao+Roasting/data=!4m7!3m6!1s0x85890e7277121f83:0x389d19c0f74570b9!8m2!3d14.5529263!4d-90.731214!16s%2Fg%2F11dxqc0h35!19sChIJgx8Sd3IOiYURuXBF98AZnTg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJBUPaUIoPiYURw9jLTflhGtk",
         "name": "Cafe Tonita",
         "description": null,
@@ -4904,7 +4311,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -4950,68 +4357,6 @@
         "address": "Cafe Tonita, 6a Calle Poniente 15, Antigua Guatemala, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Tonita/data=!4m7!3m6!1s0x85890f8a50da4305:0xd91a61f94dcbd8c3!8m2!3d14.5552188!4d-90.7347635!16s%2Fg%2F11fs7_387j!19sChIJBUPaUIoPiYURw9jLTflhGtk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJgx8Sd3IOiYURuXBF98AZnTg",
-        "name": "Tostaduria Antigua. Coffee & Cacao Roasting",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5,
-        "competitors": [
-            {
-                "name": "Barista Coffee Antigua",
-                "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "LA VID COFFEE ROASTERS",
-                "link": "https://www.google.com/maps/search/LA+VID+COFFEE+ROASTERS/@14.558341799999997,-90.7356391?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 110,
-                "rating": 4.9,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "El Gran Cafe",
-                "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.9,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffea Cafes Especiales",
-                "link": "https://www.google.com/maps/search/Coffea+Caf%C3%A9s+Especiales/@14.5564234,-90.73040929999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.8,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Cafe Colmena Antigua Guatemala",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Colmena+Antigua+Guatemala/@14.5573815,-90.7374127?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tostaduria Antigua. Coffee & Cacao Roasting (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN0EWhQx-aZSI8rur8O3bKCHyduxtmhcp1GaetP=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "08:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Tostaduria Antigua. Coffee & Cacao Roasting, 2 Avenida Sur 36, Antigua Guatemala, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tostaduria+Antigua.+Coffee+%26+Cacao+Roasting/data=!4m7!3m6!1s0x85890e7277121f83:0x389d19c0f74570b9!8m2!3d14.5529263!4d-90.731214!16s%2Fg%2F11dxqc0h35!19sChIJgx8Sd3IOiYURuXBF98AZnTg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ6bV5C0cRiYUR1pDBEQArD5s",
@@ -5083,9 +4428,9 @@
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "G678+8M2 Xkanul Cafe, Cd Vieja, Wei Di Ma La ",
+        "address": "G678+8M8 Xkanul Cafe, Cd Vieja, Wei Di Ma La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Xkanul+Cafe/data=!4m7!3m6!1s0x858911006f23f23b:0x33c7b744182c8377!8m2!3d14.5132694!4d-90.7833438!16s%2Fg%2F11vlz52pfh!19sChIJO_IjbwARiYURd4MsGES3xzM?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Xkanul+Cafe/data=!4m7!3m6!1s0x858911006f23f23b:0x33c7b744182c8377!8m2!3d14.5132882!4d-90.7833115!16s%2Fg%2F11vlz52pfh!19sChIJO_IjbwARiYURd4MsGES3xzM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ65HyKiMRiYUR7VHiFc1p-eE",
@@ -5309,7 +4654,7 @@
             {
                 "name": "Luna de Miel",
                 "link": "https://www.google.com/maps/search/Luna+de+Miel/@14.5604177,-90.73541209999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5032,
+                "reviews": 5036,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -5488,14 +4833,14 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -5509,7 +4854,7 @@
             {
                 "name": "El Gran Cafe",
                 "link": "https://www.google.com/maps/search/El+Gran+Caf%C3%A9/@14.5562069,-90.7346424?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -5552,14 +4897,14 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe Boheme",
                 "link": "https://www.google.com/maps/search/Cafe+Boheme/@14.5563256,-90.7355358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
+                "reviews": 482,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -5671,7 +5016,7 @@
             {
                 "name": "Dunkin Donuts",
                 "link": "https://www.google.com/maps/search/Dunkin+Donuts/@14.5573907,-90.7348112?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 668,
+                "reviews": 669,
                 "rating": 4.4,
                 "main_category": "Tian Tian Quan "
             },
@@ -5719,7 +5064,7 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -5834,54 +5179,6 @@
         "address": "Catrinas Bar, 0101 Guatemala, 01001Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Catrinas+Bar/data=!4m7!3m6!1s0x8589113ea24dd645:0x846f5acfcfe45d7!8m2!3d14.5256692!4d-90.7661857!16s%2Fg%2F11pcq2br55!19sChIJRdZNoj4RiYUR10X-_Kz1Rgg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ6aJHhFURiYURleDWjEtyQXQ",
-        "name": "\"El Club\" Cafe Y Bar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "El Naranjo, San Miguel Escobar, Ciudad Vieja, Antigua Guatemala",
-                "link": "https://www.google.com/maps/search/El+Naranjo%2C+San+Miguel+Escobar%2C+Ciudad+Vieja%2C+Antigua+Guatemala/@14.529476999999998,-90.7574211?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Miguel",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Miguel/@14.526952899999998,-90.7524931?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Club De Nutricion HERBALIFE",
-                "link": "https://www.google.com/maps/search/Club+De+Nutricion+HERBALIFE/@14.524038299999999,-90.76186?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 2.7,
-                "main_category": "Jian Kang Shi Pin "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "\"El Club\" Cafe Y Bar (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+502 4801 9441",
-        "address": "G6HV+75P \"El Club\" Cafe Y Bar, Unnamed Road, Cd Vieja, Wei Di Ma La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%22El+Club%22+Caf%C3%A9+Y+Bar/data=!4m7!3m6!1s0x858911558447a2e9:0x7441724b8cd6e095!8m2!3d14.5282115!4d-90.7570352!16s%2Fg%2F11h21qhfr6!19sChIJ6aJHhFURiYURleDWjEtyQXQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJGSPYtysRiYURnNDOcPd2wOU",
@@ -5999,6 +5296,54 @@
         "address": "Waffle Station, 4a calle 3-23, Cd Vieja, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Waffle+Station/data=!4m7!3m6!1s0x8589119146779081:0xaf1cb04104d36cfa!8m2!3d14.5242951!4d-90.7618631!16s%2Fg%2F11h8_4x0_d!19sChIJgZB3RpERiYUR-mzTBEGwHK8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6aJHhFURiYURleDWjEtyQXQ",
+        "name": "\"El Club\" Cafe Y Bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "El Naranjo, San Miguel Escobar, Ciudad Vieja, Antigua Guatemala",
+                "link": "https://www.google.com/maps/search/El+Naranjo%2C+San+Miguel+Escobar%2C+Ciudad+Vieja%2C+Antigua+Guatemala/@14.529476999999998,-90.7574211?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Miguel",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Miguel/@14.526952899999998,-90.7524931?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Club De Nutricion HERBALIFE",
+                "link": "https://www.google.com/maps/search/Club+De+Nutricion+HERBALIFE/@14.524038299999999,-90.76186?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 2.7,
+                "main_category": "Jian Kang Shi Pin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "\"El Club\" Cafe Y Bar (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+502 4801 9441",
+        "address": "G6HV+75P \"El Club\" Cafe Y Bar, Unnamed Road, Cd Vieja, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%22El+Club%22+Caf%C3%A9+Y+Bar/data=!4m7!3m6!1s0x858911558447a2e9:0x7441724b8cd6e095!8m2!3d14.5282115!4d-90.7570352!16s%2Fg%2F11h21qhfr6!19sChIJ6aJHhFURiYURleDWjEtyQXQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJL5w-DxkRiYURpEDOHUKk_N0",
@@ -6363,14 +5708,14 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe Sol",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Sol/@14.557987500000001,-90.7275604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6451,7 +5796,7 @@
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -6513,14 +5858,14 @@
             {
                 "name": "Cafe Boheme",
                 "link": "https://www.google.com/maps/search/Cafe+Boheme/@14.5563256,-90.7355358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
+                "reviews": 482,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe La Parada",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Parada/@14.5610061,-90.7353449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 395,
+                "reviews": 398,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6575,14 +5920,14 @@
             {
                 "name": "Cafe Cafe Guatemala",
                 "link": "https://www.google.com/maps/search/Cafe+Cafe+Guatemala/@14.559438000000002,-90.7361753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
+                "reviews": 980,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Barista Coffee Antigua",
                 "link": "https://www.google.com/maps/search/Barista+Coffee+Antigua/@14.5573839,-90.7341387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 803,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -6626,6 +5971,32 @@
         "address": "Republic coffee shop, 7a Avenida Norte 8, Antigua Guatemala, Wei Di Ma La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Republic+coffee+shop/data=!4m7!3m6!1s0x85890ff6a10b79a7:0x193489eb575da067!8m2!3d14.557585!4d-90.7363419!16s%2Fg%2F11gydgl3md!19sChIJp3kLofYPiYURZ6BdV-uJNBk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJf4nFHDgPiYURwKJuxHmQnFA",
+        "name": "C.C. La Fuente, 4ta Calle Oriente #14",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "C.C. La Fuente, 4ta Calle Oriente #14 (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=piDBw32CBYQOqMaBJbdJWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=299.09375&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "H748+WPW C.C. La Fuente, 4ta Calle Oriente #14, Antigua Guatemala, Wei Di Ma La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/C.C.+La+Fuente,+4ta+Calle+Oriente+%2314/data=!4m7!3m6!1s0x85890f381cc5897f:0x509c9079c46ea2c0!8m2!3d14.5573627!4d-90.7331586!16s%2Fg%2F11l6x6fx6g!19sChIJf4nFHDgPiYURwKJuxHmQnFA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJB27yN5MPiYUR047PqKuoia4",
@@ -6821,7 +6192,7 @@
             {
                 "name": "Raiz Cafe",
                 "link": "https://www.google.com/maps/search/Raiz+Caf%C3%A9/@14.555310199999997,-90.7362057?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
+                "reviews": 40,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },

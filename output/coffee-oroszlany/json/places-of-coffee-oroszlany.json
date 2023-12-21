@@ -4,7 +4,7 @@
         "name": "Tesco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1506,
+        "reviews": 1507,
         "competitors": [
             {
                 "name": "Lidl",
@@ -16,7 +16,7 @@
             {
                 "name": "PENNY Oroszlany",
                 "link": "https://www.google.com/maps/search/PENNY+Oroszl%C3%A1ny/@47.4935293,18.3198114?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 785,
+                "reviews": 786,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -56,7 +56,10 @@
         ],
         "rating": 3.7,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Oroszlany, Tesco, Kornyei ut 3-5, 2840 Xiong Ya Li ",
         "review_keywords": [],
@@ -72,14 +75,14 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.4957438,18.320940699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1506,
+                "reviews": 1507,
                 "rating": 3.7,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "PENNY Oroszlany",
                 "link": "https://www.google.com/maps/search/PENNY+Oroszl%C3%A1ny/@47.4935293,18.3198114?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 785,
+                "reviews": 786,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -119,7 +122,11 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Oroszlany, Lidl, Kornyei ut 2, 2840 Xiong Ya Li ",
         "review_keywords": [],
@@ -130,12 +137,12 @@
         "name": "PENNY Oroszlany",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 785,
+        "reviews": 786,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.4957438,18.320940699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1506,
+                "reviews": 1507,
                 "rating": 3.7,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -156,7 +163,7 @@
             {
                 "name": "Pepco",
                 "link": "https://www.google.com/maps/search/Pepco/@47.4942928,18.3211118?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
+                "reviews": 20,
                 "rating": 4.7,
                 "main_category": "Fu Zhuang Dian "
             },
@@ -198,7 +205,7 @@
             {
                 "name": "V8 Vendeglo",
                 "link": "https://www.google.com/maps/search/V8+Vend%C3%A9gl%C5%91/@47.483321499999995,18.3237866?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
+                "reviews": 1132,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -248,21 +255,21 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.4957438,18.320940699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1506,
+                "reviews": 1507,
                 "rating": 3.7,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "PENNY Oroszlany",
                 "link": "https://www.google.com/maps/search/PENNY+Oroszl%C3%A1ny/@47.4935293,18.3198114?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 785,
+                "reviews": 786,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
             {
                 "name": "Gresok",
                 "link": "https://www.google.com/maps/search/Gres%C3%B3k/@47.4872273,18.3154188?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
+                "reviews": 170,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -295,7 +302,11 @@
         ],
         "rating": 3.8,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7380",
         "address": "Oroszlany, SPAR szupermarket, Nepekbaratsaga u. 35, 2840 Xiong Ya Li ",
         "review_keywords": [],
@@ -306,7 +317,7 @@
         "name": "Gresok",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 169,
+        "reviews": 170,
         "competitors": [
             {
                 "name": "Goods Market",
@@ -373,7 +384,7 @@
             {
                 "name": "Gresok",
                 "link": "https://www.google.com/maps/search/Gres%C3%B3k/@47.4872273,18.3154188?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
+                "reviews": 170,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -381,7 +392,7 @@
                 "name": "Kolcsar Pekseg Mintabolt",
                 "link": "https://www.google.com/maps/search/Kolcs%C3%A1r+P%C3%A9ks%C3%A9g+Mintabolt/@47.5472914,18.3290555?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 25,
-                "rating": 4.6,
+                "rating": 4.5,
                 "main_category": "Shang Dian "
             },
             {
@@ -442,18 +453,18 @@
                 "main_category": "Ka Pei Fan Mai Ji "
             },
             {
+                "name": "Kreativ kutyulde",
+                "link": "https://www.google.com/maps/search/Kreat%C3%ADv+k%C3%BCty%C3%BClde/@47.4854002,18.311706100000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Fang Zhi Pin Shang Dian "
+            },
+            {
                 "name": "VERTIKAL ZRT",
                 "link": "https://www.google.com/maps/search/VERTIK%C3%81L+ZRT/@47.4423603,18.2831616?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Hui Shou Fu Wu Zhong Xin "
-            },
-            {
-                "name": "Kreativ kutyulde",
-                "link": "https://www.google.com/maps/search/Kreat%C3%ADv+k%C3%BCty%C3%BClde/@47.4854002,18.311706100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Fang Zhi Pin Shang Dian "
             },
             {
                 "name": "Oroszlany",
@@ -484,6 +495,7 @@
         "rating": 4.8,
         "workday_timing": "09:00-15:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -502,8 +514,8 @@
             {
                 "name": "Vianni",
                 "link": "https://www.google.com/maps/search/Vianni/@47.3142797,18.7886944?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.6,
+                "reviews": 33,
+                "rating": 4.5,
                 "main_category": "Shang Dian "
             },
             {
@@ -607,7 +619,7 @@
             {
                 "name": "PENNY Oroszlany",
                 "link": "https://www.google.com/maps/search/PENNY+Oroszl%C3%A1ny/@47.4935293,18.3198114?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 785,
+                "reviews": 786,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -682,7 +694,7 @@
             {
                 "name": "Alma Butor",
                 "link": "https://www.google.com/maps/search/Alma+B%C3%BAtor/@47.4797703,18.303537?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 77,
+                "reviews": 78,
                 "rating": 4.5,
                 "main_category": "Jia Dian "
             },
@@ -740,12 +752,12 @@
         "name": "Pepco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 19,
+        "reviews": 20,
         "competitors": [
             {
                 "name": "PENNY Oroszlany",
                 "link": "https://www.google.com/maps/search/PENNY+Oroszl%C3%A1ny/@47.4935293,18.3198114?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 785,
+                "reviews": 786,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -870,7 +882,7 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.4957438,18.320940699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1506,
+                "reviews": 1507,
                 "rating": 3.7,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -884,7 +896,7 @@
             {
                 "name": "Gresok",
                 "link": "https://www.google.com/maps/search/Gres%C3%B3k/@47.4872273,18.3154188?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
+                "reviews": 170,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1040,17 +1052,17 @@
         "reviews": 4,
         "competitors": [
             {
+                "name": "Alma Butor",
+                "link": "https://www.google.com/maps/search/Alma+B%C3%BAtor/@47.4797703,18.303537?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 4.5,
+                "main_category": "Jia Dian "
+            },
+            {
                 "name": "co.mode Oroszlany",
                 "link": "https://www.google.com/maps/search/co.mode+Oroszl%C3%A1ny/@47.4918504,18.3064002?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 78,
                 "rating": 4.1,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Alma Butor",
-                "link": "https://www.google.com/maps/search/Alma+B%C3%BAtor/@47.4797703,18.303537?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 77,
-                "rating": 4.5,
                 "main_category": "Jia Dian "
             },
             {
@@ -1176,6 +1188,69 @@
         "link": "https://www.google.com/maps/place/Oroszl%C3%A1ny/data=!4m7!3m6!1s0x476a3eb196c943e1:0xd28fb9b44c843e22!8m2!3d47.4920947!4d18.3188732!16s%2Fg%2F11hf04blwh!19sChIJ4UPJlrE-akcRIj6ETLS5j9I?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJWxv4sqs-akcR7em2iFTbzHQ",
+        "name": "SPAR szupermarket",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 715,
+        "competitors": [
+            {
+                "name": "Tesco",
+                "link": "https://www.google.com/maps/search/Tesco/@47.4957438,18.320940699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1507,
+                "rating": 3.7,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "PENNY Oroszlany",
+                "link": "https://www.google.com/maps/search/PENNY+Oroszl%C3%A1ny/@47.4935293,18.3198114?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 786,
+                "rating": 4.2,
+                "main_category": "Zhe Kou Shang Dian "
+            },
+            {
+                "name": "Gresok",
+                "link": "https://www.google.com/maps/search/Gres%C3%B3k/@47.4872273,18.3154188?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 170,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Cba Aruhaz",
+                "link": "https://www.google.com/maps/search/Cba+%C3%81ruh%C3%A1z/@47.484775899999995,18.3040529?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 115,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Virag-Ajandek uzlet",
+                "link": "https://www.google.com/maps/search/Vir%C3%A1g-Aj%C3%A1nd%C3%A9k+%C3%BCzlet/@47.4910437,18.315186?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Li Pin Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "104404008598760265180",
+            "name": "SPAR szupermarket (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104404008598760265180"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZuakjM-zFSTZSF_bbuL8ize5cIaWphf0TCdU6=w427-h240-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang ",
+            "Za Huo Dian "
+        ],
+        "rating": 3.9,
+        "workday_timing": "06:30-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 20 823 7377",
+        "address": "Oroszlany, SPAR szupermarket, Tancsics Mihaly ut 1/a, 2840 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SPAR+szupermarket/data=!4m7!3m6!1s0x476a3eabb2f81b5b:0x74ccdb5488b6e9ed!8m2!3d47.4841245!4d18.3098819!16s%2Fg%2F1hjhgv7tr!19sChIJWxv4sqs-akcR7em2iFTbzHQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ11XMpKA-akcRwaDRmOv_sf0",
         "name": "Fanni Fagyizo",
         "description": null,
@@ -1185,7 +1260,7 @@
             {
                 "name": "Gresok",
                 "link": "https://www.google.com/maps/search/Gres%C3%B3k/@47.4872273,18.3154188?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
+                "reviews": 170,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1302,7 +1377,7 @@
             {
                 "name": "Gresok",
                 "link": "https://www.google.com/maps/search/Gres%C3%B3k/@47.4872273,18.3154188?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
+                "reviews": 170,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1348,6 +1423,73 @@
         "address": "Oroszlany, Goods Market, Furst Sandor u. 46, 2840 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Goods+Market/data=!4m7!3m6!1s0x476a3eabe6e347a9:0x15d8c8648b64d3fe!8m2!3d47.4854818!4d18.3133942!16s%2Fg%2F11gm6dqdgw!19sChIJqUfj5qs-akcR_tNki2TI2BU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJx-YRqZc5akcRhjYvPk8R6x4",
+        "name": "Lebego Falu kilato,Caffe es Chill Terasz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "competitors": [
+            {
+                "name": "Somlo Lookout",
+                "link": "https://www.google.com/maps/search/Soml%C3%B3+Lookout/@47.5173904,18.3716992?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 209,
+                "rating": 4.7,
+                "main_category": "Jing Dian "
+            },
+            {
+                "name": "Lebego falu kilato,es Blori Pecatanya Parkolo",
+                "link": "https://www.google.com/maps/search/Lebeg%C5%91+falu+kil%C3%A1t%C3%B3%2C%C3%A9s+Bl%C3%B6ri+Pecatanya+Parkol%C3%B3/@47.5006907,18.2856652?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 145,
+                "rating": 4.5,
+                "main_category": "Xing Shan Jing "
+            },
+            {
+                "name": "Lebego Falu Blori Kilato",
+                "link": "https://www.google.com/maps/search/Lebeg%C5%91+Falu+Bl%C3%B6ri+Kil%C3%A1t%C3%B3/@47.501179699999994,18.2842035?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 111,
+                "rating": 4.5,
+                "main_category": "Xiu Xi Zhan "
+            },
+            {
+                "name": "Viztorony Oroszlany",
+                "link": "https://www.google.com/maps/search/V%C3%ADztorony+Oroszl%C3%A1ny/@47.484277299999995,18.3195536?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 79,
+                "rating": 4.4,
+                "main_category": ""
+            },
+            {
+                "name": "Blori Pecatanya Bokod Fishing",
+                "link": "https://www.google.com/maps/search/Bl%C3%B6ri+Pecatanya+Bokod+Fishing/@47.501152,18.2841454?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 5,
+                "main_category": "Lu You Jing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "115577194061862137758",
+            "name": "Lebego Falu kilato,Caffe es Chill Terasz (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115577194061862137758"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrk9_RSL95lqs8OPFA2Ny82qzkiXXTsD9gVDE4=w408-h306-k-no",
+        "main_category": "Lu You Jing Dian ",
+        "categories": [
+            "Lu You Jing Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "09:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 70 612 2884",
+        "address": "Oroszlany, Lebego Falu kilato,Caffe es Chill Terasz, Eromui topart 48, 2840 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Yin Liao ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Lebeg%C5%91+Falu+kil%C3%A1t%C3%B3,Caff%C3%A9+%C3%A9s+Chill+Terasz/data=!4m7!3m6!1s0x476a3997a911e6c7:0x1eeb114f3e2f3686!8m2!3d47.5012148!4d18.2841383!16s%2Fg%2F11pcprcts9!19sChIJx-YRqZc5akcRhjYvPk8R6x4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJqTQb_as-akcRe49v2konRRE",
@@ -1424,7 +1566,7 @@
             {
                 "name": "Gresok",
                 "link": "https://www.google.com/maps/search/Gres%C3%B3k/@47.4872273,18.3154188?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 169,
+                "reviews": 170,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1837,6 +1979,13 @@
                 "main_category": "Fa Shi Can Ting "
             },
             {
+                "name": "Vendeghaz es kavezo Bokod",
+                "link": "https://www.google.com/maps/search/Vend%C3%A9gh%C3%A1z+%C3%A9s+k%C3%A1v%C3%A9z%C3%B3+Bokod/@47.4930476,18.244284699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.9,
+                "main_category": "Zhu Su "
+            },
+            {
                 "name": "Barlang Bisztro",
                 "link": "https://www.google.com/maps/search/Barlang+Bisztr%C3%B3/@47.492652199999995,18.243130999999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 12,
@@ -1844,16 +1993,9 @@
                 "main_category": "Jiu Ba "
             },
             {
-                "name": "Vendeghaz es kavezo Bokod",
-                "link": "https://www.google.com/maps/search/Vend%C3%A9gh%C3%A1z+%C3%A9s+k%C3%A1v%C3%A9z%C3%B3+Bokod/@47.4930476,18.244284699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.9,
-                "main_category": "Zhu Su "
-            },
-            {
                 "name": "Zsuzsanna Sutode",
                 "link": "https://www.google.com/maps/search/Zsuzsanna+S%C3%BCt%C3%B6de/@47.490783,18.250909?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
+                "reviews": 11,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
@@ -1876,6 +2018,32 @@
         "address": "Bokod, Szavilla Kft., Fo u. 8, 2855 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Szavilla+Kft./data=!4m7!3m6!1s0x476a39b7d8fc7927:0xb393cbd011250ae7!8m2!3d47.4929679!4d18.2443968!16s%2Fg%2F11qm_yp9lg!19sChIJJ3n82Lc5akcR5wolEdDLk7M?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5ydP87k_akcRWG3b-1YEOmM",
+        "name": "Friss pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Friss pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ST2GEll2TP-jZycglNP9nQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=118.168915&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Oroszlany, Friss pekseg, Furst Sandor u. 13, 2840 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Friss+p%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x476a3fb9f34f27e7:0x633a0456fbdb6d58!8m2!3d47.4816714!4d18.3147025!16s%2Fg%2F11vc0s0j2v!19sChIJ5ydP87k_akcRWG3b-1YEOmM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJu956Px8_akcRnaGy9FUQHHw",
@@ -1902,5 +2070,34 @@
         "address": "Oroszlany, Oroslan' vengriia, Furst Sandor u., 2840 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/%D0%9E%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%BD%D1%8C+%D0%B2%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F/data=!4m7!3m6!1s0x476a3f1f3f7adebb:0x7c1c1055f4b2a19d!8m2!3d47.4818468!4d18.3147032!16s%2Fg%2F11ksnv8fh0!19sChIJu956Px8_akcRnaGy9FUQHHw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJEal_DfU5akcROEMiM11JaV0",
+        "name": "Familia Vegyesbolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "113403611266199967718",
+            "name": "Familia Vegyesbolt (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113403611266199967718"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Pce6GowCW2-D2ry2euz5JA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=75.56427&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": null,
+        "workday_timing": "05:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": null,
+        "address": "Oroszlany, Familia Vegyesbolt, Bem Jozsef u. 25, 2840 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fam%C3%ADlia+Vegyesbolt/data=!4m7!3m6!1s0x476a39f50d7fa911:0x5d69495d33224338!8m2!3d47.4899825!4d18.3033483!16s%2Fg%2F11v3h4sh61!19sChIJEal_DfU5akcROEMiM11JaV0?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

@@ -9,7 +9,7 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -23,7 +23,7 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -64,6 +64,10 @@
                 "count": 24
             },
             {
+                "keyword": "Na Tie ",
+                "count": 18
+            },
+            {
                 "keyword": "Zhuo ",
                 "count": 17
             },
@@ -90,10 +94,6 @@
             {
                 "keyword": "Zuo ",
                 "count": 9
-            },
-            {
-                "keyword": "Shou ",
-                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/Starbucks+Livingston+Drive+Thru/data=!4m7!3m6!1s0x4887deabe3fe5183:0x407315f7c0b200ea!8m2!3d55.8801608!4d-3.5249042!16s%2Fg%2F11g6m8z9km!19sChIJg1H-46veh0gR6gCywPcVc0A?authuser=0&hl=zh-TW&rclk=1"
@@ -103,12 +103,12 @@
         "name": "Costa Coffee",
         "description": "Cai Gui Tai Dian Can De Lian Suo Ka Pei Dian ,Gong Ying Re Yin , Bing Liang Leng Yin , Tian Dian He San Ming Zhi . ",
         "is_spending_on_ads": false,
-        "reviews": 911,
+        "reviews": 913,
         "competitors": [
             {
                 "name": "Starbucks Livingston Drive Thru",
                 "link": "https://www.google.com/maps/search/Starbucks+Livingston+Drive+Thru/@55.8801608,-3.5249042?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 995,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -129,15 +129,15 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             }
         ],
@@ -165,19 +165,19 @@
             },
             {
                 "keyword": "Dan Gao ",
-                "count": 22
+                "count": 23
             },
             {
                 "keyword": "Na Tie ",
-                "count": 18
+                "count": 19
+            },
+            {
+                "keyword": "Ke Ke ",
+                "count": 11
             },
             {
                 "keyword": "Jia Ge ",
                 "count": 11
-            },
-            {
-                "keyword": "Ke Ke ",
-                "count": 10
             },
             {
                 "keyword": "Guan Li ",
@@ -219,7 +219,7 @@
             {
                 "name": "Klondyke Garden Centre",
                 "link": "https://www.google.com/maps/search/Klondyke+Garden+Centre/@55.8814199,-3.5306669?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 453,
+                "reviews": 456,
                 "rating": 4.4,
                 "main_category": "Yuan Yi Dian "
             },
@@ -260,7 +260,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "09:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+44 1506 811433",
         "address": "Williamson's My Florist Garden Centre & Coffee Shop., Beechwood Nurseries, 17 Houston Mains Holdings, Uphall, Livingston West Lothian, Livingston EH52 6PAYing Guo ",
         "review_keywords": [
@@ -270,7 +273,7 @@
             },
             {
                 "keyword": "Wu Can ",
-                "count": 37
+                "count": 38
             },
             {
                 "keyword": "Dan Gao ",
@@ -297,7 +300,7 @@
                 "count": 7
             },
             {
-                "keyword": "Zhuang Shi ",
+                "keyword": "Gou ",
                 "count": 6
             }
         ],
@@ -334,15 +337,15 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             }
         ],
@@ -361,7 +364,9 @@
         ],
         "rating": 4,
         "workday_timing": "07:15-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+44 1506 462457",
         "address": "Starbucks Coffee, McArthurGlen Designer Outlet, Unit 23 Almondvale Ave, Livingston EH54 6HSYing Guo ",
         "review_keywords": [
@@ -418,7 +423,7 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -432,7 +437,7 @@
             {
                 "name": "NowNow Cafe",
                 "link": "https://www.google.com/maps/search/NowNow+Cafe/@55.884499899999994,-3.5118161999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 436,
+                "reviews": 439,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -446,7 +451,7 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -463,7 +468,7 @@
             "Ka Pei Dian "
         ],
         "rating": 4.3,
-        "workday_timing": "08:30-18:00",
+        "workday_timing": "08:30-19:00",
         "closed_on": "Open All Days",
         "phone": "+44 1506 418808",
         "address": "Caffe Nero, Unit 42 McArthurGlen Designer Outlet Almond Avenue, Livingston EH54 6QXYing Guo ",
@@ -512,108 +517,11 @@
         "link": "https://www.google.com/maps/place/Caff%C3%A8+Nero/data=!4m7!3m6!1s0x4887deaa8dfdbc9f:0x82e2986b9235b64a!8m2!3d55.8834939!4d-3.5206971!16s%2Fg%2F1hc3n5d_0!19sChIJn7z9jareh0gRSrY1kmuY4oI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJa6cuSazeh0gRRvBpgJjsv2s",
-        "name": "Klondyke Garden Centre",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 455,
-        "competitors": [
-            {
-                "name": "Dobbies Garden Centre Livingston",
-                "link": "https://www.google.com/maps/search/Dobbies+Garden+Centre+Livingston/@55.919698999999994,-3.5231589999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1046,
-                "rating": 4,
-                "main_category": "Yuan Yi Dian "
-            },
-            {
-                "name": "Williamson's My Florist Garden Centre & Coffee Shop.",
-                "link": "https://www.google.com/maps/search/Williamson%27s+My+Florist+Garden+Centre+%26+Coffee+Shop./@55.9221522,-3.5158495999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 847,
-                "rating": 4.4,
-                "main_category": "Yuan Yi Dian "
-            },
-            {
-                "name": "Urban Planters",
-                "link": "https://www.google.com/maps/search/Urban+Planters/@55.9067496,-3.5753426?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Shi Nei Pen Jing Fu Wu "
-            },
-            {
-                "name": "Your Garden",
-                "link": "https://www.google.com/maps/search/Your+Garden/@55.902712699999995,-3.5510175999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Yuan Yi Dian "
-            }
-        ],
-        "website": "http://www.klondyke.co.uk/static/klondyke-garden-centre-livingston.html",
-        "owner": {
-            "id": "117857707531246793153",
-            "name": "Klondyke Garden Centre (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117857707531246793153"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMYlmhod5OXIlWbO6Y1uMB3VHzP-jm0WaABeigo=w408-h305-k-no",
-        "main_category": "Yuan Yi Dian ",
-        "categories": [
-            "Yuan Yi Dian ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "09:00-17:30",
-        "closed_on": "Open All Days",
-        "phone": "+44 1506 410053",
-        "address": "Klondyke Garden Centre, Campus Roundabout, Livingston EH54 7AWYing Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Ka Pei Ting ",
-                "count": 55
-            },
-            {
-                "keyword": "Zao Can ",
-                "count": 19
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 17
-            },
-            {
-                "keyword": "Dan Gao ",
-                "count": 12
-            },
-            {
-                "keyword": "Wu Can ",
-                "count": 12
-            },
-            {
-                "keyword": "Sheng Dan ",
-                "count": 10
-            },
-            {
-                "keyword": "Li Wu ",
-                "count": 8
-            },
-            {
-                "keyword": "Che ",
-                "count": 8
-            },
-            {
-                "keyword": "Si Kang ",
-                "count": 5
-            },
-            {
-                "keyword": "You Hui ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Klondyke+Garden+Centre/data=!4m7!3m6!1s0x4887deac492ea76b:0x6bbfec988069f046!8m2!3d55.8814199!4d-3.5306669!16s%2Fg%2F11cnc5g40f!19sChIJa6cuSazeh0gRRvBpgJjsv2s?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJjVHiDMLdh0gRV10bpvVoLiY",
         "name": "NowNow Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 436,
+        "reviews": 439,
         "competitors": [
             {
                 "name": "wagamama livingston",
@@ -639,7 +547,7 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -676,7 +584,7 @@
             },
             {
                 "keyword": "Xuan Ze ",
-                "count": 7
+                "count": 8
             },
             {
                 "keyword": "Wu Fu Zhi ",
@@ -698,7 +606,7 @@
         "name": "Don Pollo Peri Peri Ltd",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 424,
+        "reviews": 425,
         "competitors": [
             {
                 "name": "Tony Macaroni",
@@ -710,14 +618,14 @@
             {
                 "name": "Nando's Livingston",
                 "link": "https://www.google.com/maps/search/Nando%27s+Livingston/@55.882670000000005,-3.5169099999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 833,
+                "reviews": 834,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Oscars Pizza.Pasta.Burgers",
                 "link": "https://www.google.com/maps/search/Oscars+Pizza.Pasta.Burgers/@55.8983229,-3.5309535999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 429,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             }
@@ -738,7 +646,11 @@
         ],
         "rating": 4.1,
         "workday_timing": "12:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+44 1506 894317",
         "address": "Don Pollo Peri Peri Ltd, 2 Ladywell E Rd, Livingston EH54 6AGYing Guo ",
         "review_keywords": [
@@ -755,11 +667,11 @@
                 "count": 16
             },
             {
-                "keyword": "Dian Hua ",
+                "keyword": "Nai Xi ",
                 "count": 11
             },
             {
-                "keyword": "Nai Xi ",
+                "keyword": "Dian Hua ",
                 "count": 11
             },
             {
@@ -801,8 +713,8 @@
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -887,7 +799,7 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -929,7 +841,9 @@
         ],
         "rating": 4,
         "workday_timing": "09:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+44 1276 601170",
         "address": "Unit 93, Krispy Kreme Livingston, The Centre, Almondvale Blvd, Livingston EH54 6HRYing Guo ",
         "review_keywords": [
@@ -965,7 +879,7 @@
         "name": "Artisan Cheesecakes",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 278,
+        "reviews": 279,
         "competitors": [
             {
                 "name": "Stack & Still",
@@ -1011,7 +925,8 @@
         "rating": 4.3,
         "workday_timing": "11:30-16:30",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+44 1506 238660",
         "address": "Artisan Cheesecakes, 2a St Andrew's Way, Deans, Livingston EH54 8QHYing Guo ",
@@ -1033,15 +948,15 @@
                 "count": 6
             },
             {
+                "keyword": "Tang ",
+                "count": 6
+            },
+            {
                 "keyword": "Re Gou ",
                 "count": 5
             },
             {
                 "keyword": "Shu Pian ",
-                "count": 5
-            },
-            {
-                "keyword": "Sheng Ri ",
                 "count": 5
             }
         ],
@@ -1057,7 +972,7 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1071,7 +986,7 @@
             {
                 "name": "NowNow Cafe",
                 "link": "https://www.google.com/maps/search/NowNow+Cafe/@55.884499899999994,-3.5118161999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 436,
+                "reviews": 439,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1085,8 +1000,8 @@
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             }
         ],
@@ -1160,7 +1075,7 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1174,15 +1089,15 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -1206,7 +1121,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "07:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+44 1506 431837",
         "address": "U96, Greggs, The Centre, Almondvale Blvd, Livingston EH54 6HSYing Guo ",
         "review_keywords": [
@@ -1259,15 +1176,15 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -1326,6 +1243,10 @@
                 "count": 8
             },
             {
+                "keyword": "Zou Lu ",
+                "count": 5
+            },
+            {
                 "keyword": "Gong Yuan ",
                 "count": 5
             },
@@ -1350,7 +1271,7 @@
             {
                 "name": "Starbucks Livingston Drive Thru",
                 "link": "https://www.google.com/maps/search/Starbucks+Livingston+Drive+Thru/@55.8801608,-3.5249042?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 995,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -1364,7 +1285,7 @@
             {
                 "name": "NowNow Cafe",
                 "link": "https://www.google.com/maps/search/NowNow+Cafe/@55.884499899999994,-3.5118161999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 436,
+                "reviews": 439,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1432,12 +1353,12 @@
         "name": "Bakers + Baristas",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 147,
+        "reviews": 148,
         "competitors": [
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1458,7 +1379,7 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -1481,7 +1402,7 @@
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": 4.2,
+        "rating": 4.1,
         "workday_timing": "08:00-17:30",
         "closed_on": "Open All Days",
         "phone": "+44 1506 442312",
@@ -1505,98 +1426,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Bakers+%2B+Baristas/data=!4m7!3m6!1s0x4887dc07405d2a29:0x993d909576c9b5a4!8m2!3d55.8842512!4d-3.5116125!16s%2Fg%2F1vqmhytt!19sChIJKSpdQAfch0gRpLXJdpWQPZk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJU0ljuuLeh0gRubMZl3-Vnmc",
-        "name": "Thistles Coffee Shop & Catering",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 141,
-        "competitors": [
-            {
-                "name": "The New Cafe",
-                "link": "https://www.google.com/maps/search/The+New+Cafe/@55.851333999999994,-3.5714576?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 167,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Little Whispers Sanctuary",
-                "link": "https://www.google.com/maps/search/Little+Whispers+Sanctuary/@55.850725,-3.5730382?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 132,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Psychic Cafe",
-                "link": "https://www.google.com/maps/search/Psychic+Cafe/@55.850688899999994,-3.5729455999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "The Brunch Club",
-                "link": "https://www.google.com/maps/search/The+Brunch+Club/@55.84921,-3.5747261999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://thistlescoffeeshop.co.uk/",
-        "owner": {
-            "id": "109261741912955672511",
-            "name": "Thistles Coffee Shop & Catering (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109261741912955672511"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-auBqN9yb0ZYvVUiTk9cOzOXL8fd9cO9pxdQi=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Wai Hui Yin Shi Gong Ying Shang ",
-            "Cha Yi Guan "
-        ],
-        "rating": 4.7,
-        "workday_timing": "10:00-15:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+44 1506 873322",
-        "address": "Thistles Coffee Shop & Catering, 11 Main St, West Calder EH55 8BYYing Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Wu Can ",
-                "count": 14
-            },
-            {
-                "keyword": "Dan Gao ",
-                "count": 14
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 11
-            },
-            {
-                "keyword": "San Ming Zhi ",
-                "count": 7
-            },
-            {
-                "keyword": "Tang ",
-                "count": 6
-            },
-            {
-                "keyword": "Si Kang ",
-                "count": 5
-            },
-            {
-                "keyword": "Fa Guo Mian Bao ",
-                "count": 4
-            },
-            {
-                "keyword": "Pa Ni Ni ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Thistles+Coffee+Shop+%26+Catering/data=!4m7!3m6!1s0x4887dee2ba634953:0x679e957f9719b3b9!8m2!3d55.8513726!4d-3.5720268!16s%2Fg%2F1hc1nddbw!19sChIJU0ljuuLeh0gRubMZl3-Vnmc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJP_p1uijdh0gRmWq8cQaEkBo",
@@ -1634,14 +1463,14 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Calderwood Cafe",
                 "link": "https://www.google.com/maps/search/Calderwood+Cafe/@55.9006652,-3.4549456?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1767,6 +1596,9 @@
         "rating": 4.6,
         "workday_timing": "09:00-15:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
         "phone": null,
@@ -1804,7 +1636,7 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -1848,7 +1680,9 @@
         ],
         "rating": 3.3,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+44 1506 465641",
         "address": "Morrisons Cafe, Almondvale Roundabout, Livingston EH54 6GBYing Guo ",
         "review_keywords": [
@@ -2047,8 +1881,8 @@
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -2098,7 +1932,7 @@
             {
                 "name": "Starbucks Livingston Drive Thru",
                 "link": "https://www.google.com/maps/search/Starbucks+Livingston+Drive+Thru/@55.8801608,-3.5249042?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 995,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2187,7 +2021,7 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -2252,7 +2086,7 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -2328,8 +2162,8 @@
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -2404,14 +2238,14 @@
             {
                 "name": "Calderwood Cafe",
                 "link": "https://www.google.com/maps/search/Calderwood+Cafe/@55.9006652,-3.4549456?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Thistles Coffee Shop & Catering",
                 "link": "https://www.google.com/maps/search/Thistles+Coffee+Shop+%26+Catering/@55.8513726,-3.5720267999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2498,92 +2332,6 @@
         "link": "https://www.google.com/maps/place/Coffee+Direct+Scotland+Ltd/data=!4m7!3m6!1s0x488877d418177dc9:0xd1d0dede00cb3ae2!8m2!3d55.8989931!4d-3.5319335!16s%2Fg%2F11qrr7_z67!19sChIJyX0XGNR3iEgR4jrLAN7e0NE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJcb2oHWvdh0gRd7hlUh-Yh3U",
-        "name": "Greggs",
-        "description": "Lian Suo Mian Bao Dian ,Fan Shou Mian Bao , Xian Shi Dian Xin , San Ming Zhi Yu Tian Dian . ",
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": "https://www.greggs.co.uk/%3Futm_source%3DYext%26utm_medium%3DGMB",
-        "owner": {
-            "id": "108747496536956628389",
-            "name": "Greggs (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108747496536956628389"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kNc2GdCMSuGTsnI98Yr2Pg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=284.79242&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": "06:00-17:00",
-        "closed_on": "Open All Days",
-        "phone": "+44 7359 005712",
-        "address": "Greggs, Almondvale S, Livingston EH54 6NAYing Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Greggs/data=!4m7!3m6!1s0x4887dd6b1da8bd71:0x7587981f5265b877!8m2!3d55.8833018!4d-3.5154016!16s%2Fg%2F11svb8p9mm!19sChIJcb2oHWvdh0gRd7hlUh-Yh3U?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJBT3ZhlPZh0gRDlwE9DkSQkk",
-        "name": "Vending Services Ltd",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Excel Vending Ltd",
-                "link": "https://www.google.com/maps/search/Excel+Vending+Ltd/@55.741178,-4.1665684?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 5,
-                "main_category": "Ka Pei Fan Mai Ji "
-            },
-            {
-                "name": "Capital Vending Ltd",
-                "link": "https://www.google.com/maps/search/Capital+Vending+Ltd/@55.9052534,-3.5009694999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 1,
-                "main_category": "Zi Dong Fan Mai Ji Gong Ying Shang "
-            },
-            {
-                "name": "Coffee Services Edinburgh",
-                "link": "https://www.google.com/maps/search/Coffee+Services+Edinburgh/@55.893800299999995,-3.4617404?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Xiao Xing Jia Dian Wei Xiu Fu Wu "
-            }
-        ],
-        "website": "http://www.vendingservicesltd.co.uk/",
-        "owner": {
-            "id": "118414929003060581823",
-            "name": "Vending Services Ltd (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118414929003060581823"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6qdPDLZZEaKdRqPzdidXKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=333.39175&pitch=0&thumbfov=100",
-        "main_category": "Zi Dong Fan Mai Ji Gong Ying Shang ",
-        "categories": [
-            "Zi Dong Fan Mai Ji Gong Ying Shang ",
-            "Yin Pin Fen Xiao Shang ",
-            "Ping Zhuang Shui Gong Ying Shang ",
-            "Fan He Gong Ying Shang ",
-            "Ka Pei Ji Gong Ying Shang ",
-            "Ka Pei Dian ",
-            "Kuai Di Gong Si ",
-            "Za Huo Dian ",
-            "Wai Song Su Di Can Ting ",
-            "Rou Lei Pi Fa Shang "
-        ],
-        "rating": null,
-        "workday_timing": "08:30-17:00",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+44 1506 467424",
-        "address": "Vending Services Ltd, Argyll House, Quarrywood Ct, Livingston EH54 6AXYing Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Vending+Services+Ltd/data=!4m7!3m6!1s0x4887d95386d93d05:0x49421239f4045c0e!8m2!3d55.8883325!4d-3.5284534!16s%2Fg%2F12nqgnhzj!19sChIJBT3ZhlPZh0gRDlwE9DkSQkk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJKSpdQAfch0gRmgLn0X3i6Ys",
         "name": "The Mall Cafe Bar",
         "description": null,
@@ -2593,7 +2341,7 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -2607,7 +2355,7 @@
             {
                 "name": "NowNow Cafe",
                 "link": "https://www.google.com/maps/search/NowNow+Cafe/@55.884499899999994,-3.5118161999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 436,
+                "reviews": 439,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2621,8 +2369,8 @@
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             }
         ],
@@ -2695,7 +2443,7 @@
             {
                 "name": "Starbucks Livingston Drive Thru",
                 "link": "https://www.google.com/maps/search/Starbucks+Livingston+Drive+Thru/@55.8801608,-3.5249042?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 995,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2783,7 +2531,7 @@
             {
                 "name": "Costa Coffee",
                 "link": "https://www.google.com/maps/search/Costa+Coffee/@55.883724,-3.5148699999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 910,
+                "reviews": 912,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -2797,7 +2545,7 @@
             {
                 "name": "Muffin Break",
                 "link": "https://www.google.com/maps/search/Muffin+Break/@55.8830458,-3.5160202999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -2949,7 +2697,7 @@
             {
                 "name": "Calderwood Cafe",
                 "link": "https://www.google.com/maps/search/Calderwood+Cafe/@55.9006652,-3.4549456?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -3023,7 +2771,7 @@
             {
                 "name": "Brucefield Farm",
                 "link": "https://www.google.com/maps/search/Brucefield+Farm/@55.866496899999994,-3.5351334?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1608,
+                "reviews": 1610,
                 "rating": 4.2,
                 "main_category": "Jiu Ba "
             },
@@ -3122,14 +2870,14 @@
             {
                 "name": "Howden Park Centre",
                 "link": "https://www.google.com/maps/search/Howden+Park+Centre/@55.8924598,-3.5189244?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 982,
+                "reviews": 983,
                 "rating": 4.5,
                 "main_category": "Yi Shu Zhong Xin "
             },
             {
                 "name": "Don Pollo Peri Peri Ltd",
                 "link": "https://www.google.com/maps/search/Don+Pollo+Peri+Peri+Ltd/@55.894237800000006,-3.5252523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 424,
+                "reviews": 425,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -3246,8 +2994,8 @@
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -3308,8 +3056,8 @@
             {
                 "name": "RoRo Tea",
                 "link": "https://www.google.com/maps/search/RoRo+Tea/@55.9513117,-3.1799136?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 62,
-                "rating": 4,
+                "reviews": 64,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -3322,8 +3070,8 @@
             {
                 "name": "Museum Caffe",
                 "link": "https://www.google.com/maps/search/Museum+Caffe/@55.950978,-3.22784?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.5,
+                "reviews": 9,
+                "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -3370,8 +3118,8 @@
             {
                 "name": "Bakers + Baristas",
                 "link": "https://www.google.com/maps/search/Bakers+%2B+Baristas/@55.884251199999994,-3.5116125?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 147,
-                "rating": 4.2,
+                "reviews": 148,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -3418,7 +3166,7 @@
             {
                 "name": "NowNow Cafe",
                 "link": "https://www.google.com/maps/search/NowNow+Cafe/@55.884499899999994,-3.5118161999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 436,
+                "reviews": 439,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },

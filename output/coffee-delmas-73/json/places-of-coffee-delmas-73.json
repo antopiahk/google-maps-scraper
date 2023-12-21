@@ -43,6 +43,35 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+NONO/data=!4m7!3m6!1s0x8eb9e75b8fec82a9:0x2d5344ddbc88657b!8m2!3d18.5596025!4d-72.2949947!16s%2Fg%2F11nysxmmy4!19sChIJqYLsj1vnuY4Re2WIvN1EUy0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJJTXUJcrnuY4R8nl5g6VeHLc",
+        "name": "Snack Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "competitors": [],
+        "website": "http://snackcafe.business.site/",
+        "owner": {
+            "id": "115587602320296639617",
+            "name": "Snack Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115587602320296639617"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3uUH9I-tYTL7bNKh-zWKUnFhpv0Q4BL36JuUb=w408-h725-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Service establishment"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:30-18:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+509 43 71 3875",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Snack+Caf%C3%A9/data=!4m7!3m6!1s0x8eb9e7ca25d43525:0xb71c5ea5837979f2!8m2!3d18.5429354!4d-72.3054184!16s%2Fg%2F11hcjt8q91!19sChIJJTXUJcrnuY4R8nl5g6VeHLc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJj2D5rpLnuY4RZ1mXNHOck28",
         "name": "L'AB-petit",
         "description": null,
@@ -185,6 +214,10 @@
                 "count": 3
             },
             {
+                "keyword": "Han Bao ",
+                "count": 3
+            },
+            {
                 "keyword": "San Ming Zhi ",
                 "count": 3
             }
@@ -201,7 +234,7 @@
             {
                 "name": "Idgie's Restaurant",
                 "link": "https://www.google.com/maps/search/Idgie%27s+Restaurant/@18.541093,-72.2977963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 550,
+                "reviews": 551,
                 "rating": 3.9,
                 "main_category": "Can Ting "
             },
@@ -418,5 +451,69 @@
         "address": "Belneges, Port-au-Prince, Hai Di ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Belneges/data=!4m7!3m6!1s0x8eb9e7f5239bd7cb:0xa9ea0705a77bb4a6!8m2!3d18.5433614!4d-72.3052124!16s%2Fg%2F11k4jtklb8!19sChIJy9ebI_XnuY4RprR7pwUH6qk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ60-gSVPnuY4R61xlix3fVyg",
+        "name": "Cafe Caraibe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Presse Cafe",
+                "link": "https://www.google.com/maps/search/Presse+Caf%C3%A9/@18.515332,-72.28855899999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 102,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Terrasse",
+                "link": "https://www.google.com/maps/search/Cafe+Terrasse/@18.5426523,-72.33450040000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 3.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Delice",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Delice/@18.5362372,-72.2446641?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 3.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Rev Cafe",
+                "link": "https://www.google.com/maps/search/R%C3%A8v+Cafe/@18.548261399999998,-72.2877989?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "The Karibbean Bar & Restaurant",
+                "link": "https://www.google.com/maps/search/The+Karibbean+Bar+%26+Restaurant/@18.52805,-72.3304393?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 2,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "116078337186813399892",
+            "name": "Cafe Caraibe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116078337186813399892"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOuqAPOv2xTnPni17GvRc6-tjiwG8LAKQAf1M-w=w408-h285-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-04:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+509 48 29 8765",
+        "address": "Cafe Caraibe, Auto route de l'aer, Port-au-Prince, Hai Di ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Cara%C3%AFbe/data=!4m7!3m6!1s0x8eb9e75349a04feb:0x2857df1d8b655ceb!8m2!3d18.5433614!4d-72.3052124!16s%2Fg%2F11k4v3hnp5!19sChIJ60-gSVPnuY4R61xlix3fVyg?authuser=0&hl=zh-TW&rclk=1"
     }
 ]
