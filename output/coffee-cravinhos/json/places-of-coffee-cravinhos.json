@@ -134,7 +134,7 @@
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
-        "website": "https://www.instagram.com/rossipanificadora_/?hl=pt-br",
+        "website": "https://www.instagram.com/rossipanificadora_/%3Fhl%3Dpt-br",
         "owner": {
             "id": "111361733352763020117",
             "name": "Rossi panificadora (Ye Zhu )",
@@ -229,7 +229,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "08:00-20:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+55 16 99627-0766",
         "address": "Supermercado Descontao - R. Ormindo Salomao, 40 - Joao Berbel, Cravinhos - SP, 14140-000Ba Xi ",
         "review_keywords": [
@@ -480,7 +482,7 @@
         "review_keywords": [
             {
                 "keyword": "Jia Ge ",
-                "count": 18
+                "count": 19
             },
             {
                 "keyword": "Tui Guang ",
@@ -552,7 +554,7 @@
             {
                 "name": "Matuto Restaurante",
                 "link": "https://www.google.com/maps/search/Matuto+Restaurante/@-21.2827305,-47.7561812?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 299,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -659,7 +661,7 @@
             {
                 "name": "Loja Claro de Cravinhos",
                 "link": "https://www.google.com/maps/search/Loja+Claro+de+Cravinhos/@-21.341123,-47.734317999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 55,
+                "reviews": 56,
                 "rating": 4.4,
                 "main_category": "Dian Xun Fu Wu Shang "
             },
@@ -678,7 +680,7 @@
                 "main_category": "Jia Dian "
             }
         ],
-        "website": "https://vendedor.magazineluiza.com.br/filiais/240?utm_source=google&utm_medium=maps&utm_campaign=gmb",
+        "website": "https://vendedor.magazineluiza.com.br/filiais/240%3Futm_source%3Dgoogle%26utm_medium%3Dmaps%26utm_campaign%3Dgmb",
         "owner": {
             "id": "114431125472081407936",
             "name": "Magazine Luiza (Ye Zhu )",
@@ -728,7 +730,7 @@
             {
                 "name": "Pastelao Do Costa",
                 "link": "https://www.google.com/maps/search/Pastel%C3%A3o+Do+Costa/@-21.3397568,-47.741644199999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 120,
                 "rating": 4.4,
                 "main_category": "San Wen Zhi "
             },
@@ -1098,7 +1100,7 @@
                 "main_category": "Shi Chang "
             }
         ],
-        "website": "https://instagram.com/merceariabarone?igshid=MzNlNGNkZWQ4Mg==",
+        "website": "https://instagram.com/merceariabarone%3Figshid%3DMzNlNGNkZWQ4Mg%3D%3D",
         "owner": {
             "id": "102780999313750082423",
             "name": "Mercearia Barone (Ye Zhu )",
@@ -1306,35 +1308,6 @@
         "link": "https://www.google.com/maps/place/Duas+X%C3%ADcaras/data=!4m7!3m6!1s0xa5ace71e2d64d715:0xd632f23fd2abdcbe!8m2!3d-14.4095262!4d-51.31668!16s%2Fg%2F11sxy9f7vc!19sChIJFddkLR7nrKURvtyr0j_yMtY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ-9RdjsZ3IWkRuSN8G8fgAe8",
-        "name": "Duas Xicaras",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": "http://www.duasxicaras.com.br/",
-        "owner": {
-            "id": "117613832098343417268",
-            "name": "Duas Xicaras (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117613832098343417268"
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Service establishment"
-        ],
-        "rating": null,
-        "workday_timing": "08:30-17:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 16 4141-3574",
-        "address": null,
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Duas+X%C3%ADcaras/data=!4m7!3m6!1s0x692177c68e5dd4fb:0xef01e0c71b7c23b9!8m2!3d-14.4095262!4d-51.31668!16s%2Fg%2F11pzx76mgr!19sChIJ-9RdjsZ3IWkRuSN8G8fgAe8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJZSm3PLvJuZQRnBHqAj5Fzx0",
         "name": "Meu Super Supermercado",
         "description": null,
@@ -1482,7 +1455,7 @@
         "name": "Panificadora Pao Quentinho",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 155,
+        "reviews": 156,
         "competitors": [
             {
                 "name": "Rossi panificadora",
@@ -1774,7 +1747,7 @@
             {
                 "name": "Cacau Show",
                 "link": "https://www.google.com/maps/search/Cacau+Show/@-21.340131700000004,-47.7326236?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
+                "reviews": 36,
                 "rating": 4.7,
                 "main_category": "Qiao Ke Li Gong Chang "
             }
@@ -2736,63 +2709,6 @@
         "link": "https://www.google.com/maps/place/Milana+Padaria+e+Mercearia/data=!4m7!3m6!1s0x94b9c96a9401eb45:0xd1f0a5a976d9db49!8m2!3d-21.3308629!4d-47.7587256!16s%2Fg%2F11hntjhy6d!19sChIJResBlGrJuZQRSdvZdqml8NE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJCevSvyfKuZQR7KHq6RkXi_4",
-        "name": "Moveis Canarinho",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "Magazine Luiza",
-                "link": "https://www.google.com/maps/search/Magazine+Luiza/@-21.3399177,-47.73169?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
-                "rating": 4.3,
-                "main_category": "Bai Huo Gong Si "
-            },
-            {
-                "name": "Rei Dos Moveis",
-                "link": "https://www.google.com/maps/search/Rei+Dos+M%C3%B3veis/@-21.340053299999997,-47.732011299999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 3.9,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Cadflex Moveis Corporativos e Planejados",
-                "link": "https://www.google.com/maps/search/Cadflex+M%C3%B3veis+Corporativos+e+Planejados/@-21.351306299999997,-47.7285628?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 5,
-                "main_category": "Jia Ju Pi Fa Shang "
-            },
-            {
-                "name": "Casa De Moveis Nossa Senhora Aparecida",
-                "link": "https://www.google.com/maps/search/Casa+De+M%C3%B3veis+Nossa+Senhora+Aparecida/@-21.340371700000002,-47.732946299999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Jia Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Moveis Canarinho (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AwRzclTWYgkyZsJbcJRTZg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.026187&pitch=0&thumbfov=100",
-        "main_category": "Jia Dian ",
-        "categories": [
-            "Jia Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 39511102",
-        "address": "Moveis Canarinho, Cravinhos - SP, 14140-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/M%C3%B3veis+Canarinho/data=!4m7!3m6!1s0x94b9ca27bfd2eb09:0xfe8b1719e9eaa1ec!8m2!3d-21.3417015!4d-47.7355526!16s%2Fg%2F11bzwmyd6m!19sChIJCevSvyfKuZQR7KHq6RkXi_4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJu_dd5SLLuZQRSNllYf1z10E",
         "name": "Panetorio Fermentacao Natural",
         "description": null,
@@ -2905,7 +2821,7 @@
             "name": "Supermercado Davi Santos e Jayme (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2CR7pVSHTvwF2N4JW_uGOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=317.75616&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2CR7pVSHTvwF2N4JW_uGOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.30005&pitch=0&thumbfov=100",
         "main_category": "Chao Ji Shi Chang ",
         "categories": [
             "Chao Ji Shi Chang "
@@ -3107,54 +3023,6 @@
         "link": "https://www.google.com/maps/place/Mini+Mercado+Ramos/data=!4m7!3m6!1s0x94b9cb748cb541cd:0xad0287f01e8800b4!8m2!3d-21.3407146!4d-47.7352981!16s%2Fg%2F11g4fs3s00!19sChIJzUG1jHTLuZQRtACIHvCHAq0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJQ4R18yfKuZQRVdH-CszDFuE",
-        "name": "Fazenda Sapecado",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "Fazenda Cravinhos",
-                "link": "https://www.google.com/maps/search/Fazenda+Cravinhos/@-21.320119599999998,-47.711970699999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.8,
-                "main_category": "Nong Chang "
-            },
-            {
-                "name": "Fazenda Santa Rosa",
-                "link": "https://www.google.com/maps/search/Fazenda+Santa+Rosa/@-21.2743495,-47.738012999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Nong Chang "
-            },
-            {
-                "name": "Fazenda figueirinha",
-                "link": "https://www.google.com/maps/search/Fazenda+figueirinha/@-21.2697877,-47.7479101?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Nong Chang "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Fazenda Sapecado (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNS3ThIWm4t5k7UDhO7iWvc0OQwUPt1b2K1yKZY=w408-h544-k-no",
-        "main_category": "Nong Chang ",
-        "categories": [
-            "Nong Chang "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Fazenda Sapecado, Cravinhos - SP, 14140-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Fazenda+Sapecado/data=!4m7!3m6!1s0x94b9ca27f3758443:0xe116c3cc0afed155!8m2!3d-21.3384196!4d-47.754003!16s%2Fg%2F11bc96dfvg!19sChIJQ4R18yfKuZQRVdH-CszDFuE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJi2UQGS_KuZQRx77Kj8nlUe0",
         "name": "Casa da Dulci",
         "description": null,
@@ -3196,7 +3064,7 @@
             "name": "Casa da Dulci (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FNDZxQRTdyaBDr-oDdPVGw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=33.273857&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FNDZxQRTdyaBDr-oDdPVGw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=35.96846&pitch=0&thumbfov=100",
         "main_category": "Chao Ji Shi Chang ",
         "categories": [
             "Chao Ji Shi Chang "
@@ -3748,68 +3616,6 @@
         "link": "https://www.google.com/maps/place/MINI+Mercado+Bot%C3%A2nico/data=!4m7!3m6!1s0x94b9c932f67a2bfd:0x304ed81334d4deb6!8m2!3d-21.34367!4d-47.7484309!16s%2Fg%2F11hy9tprsg!19sChIJ_St69jLJuZQRtt7UNBPYTjA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJl7s8tiDJuZQR7HGg9mPKuI0",
-        "name": "Mercado Santana",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Mercado Municipal",
-                "link": "https://www.google.com/maps/search/Mercado+Municipal/@-21.3419931,-47.7325071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 150,
-                "rating": 4.5,
-                "main_category": "Shu Guo Dian "
-            },
-            {
-                "name": "Meu Super Supermercado",
-                "link": "https://www.google.com/maps/search/Meu+Super+Supermercado/@-21.3318175,-47.7563153?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 4.1,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Mini Mercado",
-                "link": "https://www.google.com/maps/search/Mini+Mercado/@-21.3294712,-47.7577771?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
-                "rating": 4.1,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Mercado Do Anderson",
-                "link": "https://www.google.com/maps/search/Mercado+Do+Anderson/@-21.328259199999998,-47.759451899999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.2,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Mercearia ferreira",
-                "link": "https://www.google.com/maps/search/Mercearia+ferreira/@-21.332323,-47.7558593?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 5,
-                "main_category": "Shi Chang "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Mercado Santana (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6X5BEy2a6h4m3Lgc_0AD7w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=44.742016&pitch=0&thumbfov=100",
-        "main_category": "Shi Chang ",
-        "categories": [
-            "Shi Chang "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Mercado Santana - R. Mario Brasca, 96 - Jardim Santana, Cravinhos - SP, 14140-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mercado+Santana/data=!4m7!3m6!1s0x94b9c920b63cbb97:0x8db8ca63f6a071ec!8m2!3d-21.3282592!4d-47.7594519!16s%2Fg%2F11s4tyzm0x!19sChIJl7s8tiDJuZQR7HGg9mPKuI0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJb4TtcEjJuZQROh5fd4HCRtQ",
         "name": "Markim Merkadim",
         "description": null,
@@ -4236,7 +4042,7 @@
             "name": "Rede posto Iguatemi (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EbefXkUVnq5lAOUtKRuWQg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=76.417564&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EbefXkUVnq5lAOUtKRuWQg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=66.61537&pitch=0&thumbfov=100",
         "main_category": "Mian Bao Xi Bing Dian ",
         "categories": [
             "Mian Bao Xi Bing Dian "

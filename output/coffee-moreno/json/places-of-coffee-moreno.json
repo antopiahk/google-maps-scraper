@@ -4,12 +4,12 @@
         "name": "Mimi's Cafe",
         "description": "Huan Jing Chong Man Xiang Cun Feng Ge De Lian Suo Xiu Xian Can Ting ,Gong Ying Fa Shi He Mei Shi Zhu Can . ",
         "is_spending_on_ads": false,
-        "reviews": 1654,
+        "reviews": 1655,
         "competitors": [
             {
                 "name": "Black Bear Diner Moreno Valley",
                 "link": "https://www.google.com/maps/search/Black+Bear+Diner+Moreno+Valley/@33.9388289,-117.22722089999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2098,
+                "reviews": 2099,
                 "rating": 4.4,
                 "main_category": "Mei Guo Cai "
             },
@@ -23,7 +23,7 @@
             {
                 "name": "IHOP",
                 "link": "https://www.google.com/maps/search/IHOP/@33.9421258,-117.2401024?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1434,
+                "reviews": 1435,
                 "rating": 4,
                 "main_category": "Zao Can "
             },
@@ -37,7 +37,7 @@
             {
                 "name": "France House Of Crepes",
                 "link": "https://www.google.com/maps/search/France+House+Of+Crepes/@33.9461899,-117.28026399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 668,
+                "reviews": 669,
                 "rating": 4.5,
                 "main_category": "Fa Guo Cai "
             }
@@ -63,7 +63,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 951-653-2511",
         "address": "Mimi's Cafe, 12590 Day St, Moreno Valley, CA 92553Mei Guo ",
         "review_keywords": [
@@ -104,14 +106,14 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@33.8919194,-117.2061342?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1941,
+                "reviews": 1942,
                 "rating": 3,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@33.8908774,-117.2083148?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 789,
+                "reviews": 790,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
@@ -154,7 +156,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "04:30-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 951-924-7202",
         "address": "Starbucks, Lakeside Plaza, 25960 Iris Ave, Moreno Valley, CA 92551Mei Guo ",
         "review_keywords": [
@@ -305,119 +309,120 @@
         "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80dca78b44ed9377:0x8795fcd281bcfa3b!8m2!3d33.9356686!4d-117.1788866!16s%2Fg%2F1tf9nk72!19sChIJd5PtRIun3IARO_q8gdL8lYc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJE-3vpzLLlzMRTGQ1K6Xg4m4",
-        "name": "Kapetolyo by SGD Coffee",
+        "place_id": "ChIJO9fMjZlH2YARXVK9tMfPeQ4",
+        "name": "El Cafe del Moreno",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 525,
+        "reviews": 495,
         "competitors": [
             {
-                "name": "Kape 'Tol Cafe",
-                "link": "https://www.google.com/maps/search/Kape+%27Tol+Cafe/@14.6089095,121.00121850000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 45,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
+                "name": "Cafe de la Flor Otay",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+de+la+Flor+Otay/@32.5319265,-116.94796789999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1618,
+                "rating": 4.4,
+                "main_category": "Can Ting "
             },
             {
-                "name": "Barbara's Coffee Shop",
-                "link": "https://www.google.com/maps/search/Barbara%27s+Coffee+Shop/@14.5894401,120.9751769?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
-                "rating": 3.9,
+                "name": "D'Volada",
+                "link": "https://www.google.com/maps/search/D%27Volada/@32.531843,-116.948349?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 485,
+                "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Kapetolyo",
-                "link": "https://www.google.com/maps/search/Kapetolyo/@14.5906823,120.98166769999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": ""
+                "name": "Entrebosques Cafe",
+                "link": "https://www.google.com/maps/search/Entrebosques+Caf%C3%A9/@32.5315042,-116.9460669?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 106,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Farron Cafe",
-                "link": "https://www.google.com/maps/search/Farron+Cafe/@14.58941,120.98343450000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
+                "name": "Cafe del Moreno",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+del+Moreno/@32.528585,-117.0200162?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 101,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Katha Kape",
-                "link": "https://www.google.com/maps/search/Katha+Kape/@14.5894546,120.975286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
+                "name": "Cafe en Caliente",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+en+Caliente/@32.5160943,-117.022647?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 65,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://m.facebook.com/pages/category/Coffee-Shop/Kapetolyo-by-SGD-Coffee-102779571603592/",
+        "website": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.facebook.com/saborasuvida/?locale2=es_LA&ved=2ahUKEwipxq6fu_TsAhXIt1kKHU7zCxQQFjALegQIBBAB&usg=AOvVaw3kX11s3zETJXcLnO1FAkBk&cshid=1604890650044",
         "owner": {
-            "id": "100878516011533528322",
-            "name": "Kapetolyo by SGD Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100878516011533528322"
+            "id": null,
+            "name": "El Cafe del Moreno (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEfPFfHgqUifPJE8v4DfDL7V6wjr_CbKb7xNTW=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6aq-FU_FhDTPJ7gSrRMMeBYiqb2geDXcRwLwv=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
         "categories": [
+            "Ka Pei Ting ",
             "Ka Pei Dian "
         ],
-        "rating": 4.1,
-        "workday_timing": "10:00-21:00",
+        "rating": 4.6,
+        "workday_timing": "07:00-22:00",
         "closed_on": "Open All Days",
-        "phone": "+63 915 241 4285",
-        "address": "Kapetolyo by SGD Coffee, Kartilya ng Katipunan Park, Cecilia Munoz Palma Drive, Ermita, Manila, Metro Manila, Fei Lu Bin ",
+        "phone": "+52 664 366 2645",
+        "address": "El Cafe del Moreno, Otay Constituyentes, 22457 Tijuana, B.C., Mo Xi Ge ",
         "review_keywords": [
             {
-                "keyword": "Jia Ge ",
-                "count": 31
+                "keyword": "Fu You ",
+                "count": 25
             },
             {
-                "keyword": "Gao ",
+                "keyword": "Kou Wei ",
                 "count": 21
             },
             {
-                "keyword": "flat white",
-                "count": 12
+                "keyword": "Jia Ge ",
+                "count": 15
             },
             {
-                "keyword": "Jing Yan ",
-                "count": 9
+                "keyword": "Tian Dian ",
+                "count": 13
             },
             {
-                "keyword": "Yin Le ",
+                "keyword": "Huan Jing ",
+                "count": 10
+            },
+            {
+                "keyword": "Pin Zhi ",
                 "count": 8
             },
             {
-                "keyword": "Zhuang Xiu ",
+                "keyword": "He ",
                 "count": 6
             },
             {
-                "keyword": "Yi Da Li Mian ",
+                "keyword": "Na Tie ",
+                "count": 6
+            },
+            {
+                "keyword": "Chan Pin ",
                 "count": 5
             },
             {
-                "keyword": "Ma Ke Bei ",
-                "count": 5
-            },
-            {
-                "keyword": "Gong Yuan ",
-                "count": 5
-            },
-            {
-                "keyword": "Bing Gan ",
+                "keyword": "San Ming Zhi ",
                 "count": 5
             }
         ],
-        "link": "https://www.google.com/maps/place/Kapetolyo+by+SGD+Coffee/data=!4m7!3m6!1s0x3397cb32a7efed13:0x6ee2e0a52b35644c!8m2!3d14.591226!4d120.9813712!16s%2Fg%2F11hxmcmrjc!19sChIJE-3vpzLLlzMRTGQ1K6Xg4m4?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/El+Caf%C3%A9+del+Moreno/data=!4m7!3m6!1s0x80d947998dccd73b:0xe79cfc7b4bd525d!8m2!3d32.5290937!4d-116.9482319!16s%2Fg%2F11fy2jvyt2!19sChIJO9fMjZlH2YARXVK9tMfPeQ4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJixwkmzGl3IARDb_rPrM4eEQ",
         "name": "The Coffee Bean & Tea Leaf",
         "description": "Gong Ying Zhao Pai Bing Sha Deng Duo Yang Yin Pin De Ka Pei Lian Suo Pin Pai . ",
         "is_spending_on_ads": false,
-        "reviews": 425,
+        "reviews": 426,
         "competitors": [
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@33.9399576,-117.2783722?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1170,
+                "reviews": 1171,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -457,7 +462,7 @@
             "Zheng Liu Ka Pei Ba ",
             "Cha Yi Guan "
         ],
-        "rating": 4.3,
+        "rating": 4.2,
         "workday_timing": "05:00-22:00",
         "closed_on": "Open All Days",
         "phone": "+1 951-363-3979",
@@ -512,7 +517,7 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@33.9399576,-117.2783722?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1170,
+                "reviews": 1171,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -551,7 +556,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 951-653-0037",
         "address": "The Cupcake & Espresso Bar, 12620 Day St STE D, Moreno Valley, CA 92553Mei Guo ",
         "review_keywords": [
@@ -693,7 +700,7 @@
             {
                 "name": "Kafeneio Notos",
                 "link": "https://www.google.com/maps/search/Kafeneio+Notos/@37.943675899999995,23.6856498?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 241,
+                "reviews": 242,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -740,91 +747,176 @@
         "link": "https://www.google.com/maps/place/Moreno/data=!4m7!3m6!1s0x14a1bc69cccb44b7:0x153ab4ff1ff82af!8m2!3d37.9489459!4d23.6910351!16s%2Fg%2F11h1hqjmc!19sChIJt0TLzGm8oRQRr4L_8U-rUwE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJe5M3yICn3IARIieqxFZDInQ",
-        "name": "Starbucks",
-        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
+        "place_id": "ChIJs4TqzxqCYw0RkvSbprm8rEg",
+        "name": "Pan Moreno",
+        "description": null,
         "is_spending_on_ads": false,
-        "reviews": 214,
+        "reviews": 289,
         "competitors": [
             {
-                "name": "The Cupcake & Espresso Bar",
-                "link": "https://www.google.com/maps/search/The+Cupcake+%26+Espresso+Bar/@33.9104831,-117.1746233?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 516,
-                "rating": 4.6,
+                "name": "Cafes Moreno",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9s+Moreno/@37.984592899999996,-1.1343393?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 138,
+                "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "The Coffee Bean & Tea Leaf",
-                "link": "https://www.google.com/maps/search/The+Coffee+Bean+%26+Tea+Leaf/@33.9323615,-117.2784219?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "name": "La Solera, Pan Artesano",
+                "link": "https://www.google.com/maps/search/La+Solera%2C+Pan+Artesano/@37.9846848,-1.1241834?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 94,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pan moreno",
+                "link": "https://www.google.com/maps/search/Pan+moreno/@37.9876921,-1.1346595?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 87,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pan de Pan",
+                "link": "https://www.google.com/maps/search/Pan+de+Pan/@37.9980247,-1.1250404?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "QUINTO NIVEL",
+                "link": "https://www.google.com/maps/search/QUINTO+NIVEL/@37.9765291,-1.1277879?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.8,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": "http://www.panaderiamoreno.com/",
+        "owner": {
+            "id": null,
+            "name": "Pan Moreno (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_eXQ8vM-3_69JiWFujbnFg97C-ZOBmuU1DKlc=w426-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian ",
+            "Ka Pei Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+34 968 21 67 11",
+        "address": "Pan Moreno, C. San Antonio, 19, 30001 Murcia, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Chan Pin ",
+                "count": 35
+            },
+            {
+                "keyword": "Zao Can ",
+                "count": 24
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 17
+            },
+            {
+                "keyword": "Tian ",
+                "count": 13
+            },
+            {
+                "keyword": "Ka Pei Ting ",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Pan+Moreno/data=!4m7!3m6!1s0xd63821acfea84b3:0x48acbcb9a69bf492!8m2!3d37.9850251!4d-1.1258512!16s%2Fg%2F11c5mks7z_!19sChIJs4TqzxqCYw0RkvSbprm8rEg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJVTX2nCQ7dkgR8Uzjv2vAcbw",
+        "name": "Moreno's Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 193,
+        "competitors": [
+            {
+                "name": "Caffe Nero",
+                "link": "https://www.google.com/maps/search/Caff%C3%A8+Nero/@51.80193,-0.20675829999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 514,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Panera Bread",
-                "link": "https://www.google.com/maps/search/Panera+Bread/@33.9121342,-117.19572329999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4,
+                "name": "Trio",
+                "link": "https://www.google.com/maps/search/Trio/@51.8010123,-0.20726770000000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 463,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Boba Express",
-                "link": "https://www.google.com/maps/search/Boba+Express/@33.938625699999996,-117.2706313?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 3.5,
+                "name": "Costa Coffee",
+                "link": "https://www.google.com/maps/search/Costa+Coffee/@51.801178,-0.206028?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 437,
+                "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "DCH Roasters - Moreno Valley",
-                "link": "https://www.google.com/maps/search/DCH+Roasters+-+Moreno+Valley/@33.896681199999996,-117.1875912?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Ka Pei Dian "
+                "name": "Tewin Road Cafe",
+                "link": "https://www.google.com/maps/search/Tewin+Road+Cafe/@51.8036994,-0.1938478?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 407,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe W",
+                "link": "https://www.google.com/maps/search/Cafe+W/@51.8010236,-0.2056028?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.starbucks.com/store-locator/store/1027161",
+        "website": "https://www.facebook.com/huseyinzorlu7911/%3Frf%3D499932256715963",
         "owner": {
-            "id": "107907161339191415090",
-            "name": "Starbucks (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107907161339191415090"
+            "id": "115882024547709650444",
+            "name": "Moreno's Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115882024547709650444"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMC8ifMLUeNtQluUa9ZOnbc0VXFt9ytI0p_piWN=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNO43KOiohza9lAIymJCTRD5MpMOALyHffNShVv=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
         "categories": [
-            "Ka Pei Dian ",
-            "Zao Can Can Ting ",
-            "Ka Pei Ting ",
-            "Zheng Liu Ka Pei Ba ",
-            "Wang Ba "
+            "Ka Pei Ting "
         ],
-        "rating": 4.4,
-        "workday_timing": "04:30-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 951-478-1240",
-        "address": "Starbucks, 14455 Moreno Beach Dr, Moreno Valley, CA 92555Mei Guo ",
+        "rating": 4.6,
+        "workday_timing": "07:00-16:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+44 1707 376437",
+        "address": "Moreno's Cafe, 9 Wigmores S, Welwyn Garden City AL8 6PLYing Guo ",
         "review_keywords": [
             {
-                "keyword": "Ka Pei Shi ",
-                "count": 8
+                "keyword": "Jia Ge ",
+                "count": 21
             },
             {
-                "keyword": "De Lai Su ",
-                "count": 7
+                "keyword": "Jia Zhi ",
+                "count": 10
             },
             {
-                "keyword": "San Ming Zhi ",
-                "count": 4
+                "keyword": "Qian ",
+                "count": 5
             },
             {
-                "keyword": "Zao Shang ",
-                "count": 4
+                "keyword": "Liao Li ",
+                "count": 3
             },
             {
-                "keyword": "app",
+                "keyword": "Pin Zhi ",
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80dca780c837937b:0x74224356c4aa2722!8m2!3d33.9111116!4d-117.1745533!16s%2Fg%2F11j4l_39ff!19sChIJe5M3yICn3IARIieqxFZDInQ?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Moreno%27s+Cafe/data=!4m7!3m6!1s0x48763b249cf63555:0xbc71c06bbfe34cf1!8m2!3d51.801032!4d-0.2072302!16s%2Fg%2F1yh9tqfwj!19sChIJVTX2nCQ7dkgR8Uzjv2vAcbw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ9brFvNqp3IARFsqP24sGIVQ",
@@ -915,12 +1007,12 @@
         "name": "Cafeteria panaderia El Pan Moreno",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 91,
+        "reviews": 92,
         "competitors": [
             {
                 "name": "Bakery Salvador (Echeverria)",
                 "link": "https://www.google.com/maps/search/Bakery+Salvador+%28Echeverria%29/@36.7213765,-4.363143?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 679,
+                "reviews": 681,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -987,6 +1079,82 @@
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+panader%C3%ADa+El+Pan+Moreno/data=!4m7!3m6!1s0xd725836f180d049:0xe5d3feba1cf1a80d!8m2!3d36.7206557!4d-4.3631937!16s%2Fg%2F1tf76w3p!19sChIJSdCA8TZYcg0RDajxHLr-0-U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJMZd1Xf-SUA0Rmzr89Y-4fAM",
+        "name": "Cafes Moreno",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 88,
+        "competitors": [
+            {
+                "name": "Cafe Peregrino",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Peregrino/@42.8168064,-1.6456415999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1404,
+                "rating": 4.4,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Compania Cafe",
+                "link": "https://www.google.com/maps/search/Compa%C3%B1%C3%ADa+Caf%C3%A9/@42.8191777,-1.6418557000000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 275,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Indiano Cafe",
+                "link": "https://www.google.com/maps/search/Indiano+Caf%C3%A9/@42.8177181,-1.6439787000000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 110,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafes El Tostadero",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9s+El+Tostadero/@42.811672699999995,-1.6366775999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 24,
+                "rating": 4.6,
+                "main_category": "Zi Zhu Can Ting "
+            }
+        ],
+        "website": "http://www.cafesmoreno.com/",
+        "owner": {
+            "id": "107639042316015258526",
+            "name": "Cafes Moreno (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107639042316015258526"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnSAbDq9SeDFRhQzIF3psv_qFJvZb1xUiXktbk=w408-h272-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian ",
+            "Zi Zhu Can Ting "
+        ],
+        "rating": 4.1,
+        "workday_timing": "09:30-14:00, 17:00-20:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+34 948 59 84 02",
+        "address": "Cafes Moreno, C. Paulino Caballero, 8, 31002 Pamplona, Navarra, Xi Ban Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 7
+            },
+            {
+                "keyword": "Chan Pin ",
+                "count": 3
+            },
+            {
+                "keyword": "Cai Dan ",
+                "count": 3
+            },
+            {
+                "keyword": "Zao Can ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9s+Moreno/data=!4m7!3m6!1s0xd5092ff5d759731:0x37cb88ff5fc3a9b!8m2!3d42.8134899!4d-1.64111!16s%2Fg%2F1q5bmbsf4!19sChIJMZd1Xf-SUA0Rmzr89Y-4fAM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ1VI9HE6oOxMRIKb85KGmpo8",
         "name": "Caffe Moreno",
         "description": null,
@@ -1040,54 +1208,6 @@
         "link": "https://www.google.com/maps/place/Caff%C3%A8+Moreno/data=!4m7!3m6!1s0x133ba84e1c3d52d5:0x8fa6a6a1e4fca620!8m2!3d40.8991546!4d14.3202695!16s%2Fg%2F1vntxtqx!19sChIJ1VI9HE6oOxMRIKb85KGmpo8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJbVBrl9kIOxMRFrmWeLaIKrs",
-        "name": "Caffe' Moreno",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 23,
-        "competitors": [
-            {
-                "name": "L'angolo Del Caffe Caffe Moreno",
-                "link": "https://www.google.com/maps/search/L%27angolo+Del+Caff%C3%A9+Caff%C3%A8+Moreno/@40.893081599999995,14.2665853?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Caffe Moreno",
-                "link": "https://www.google.com/maps/search/Caff%C3%A8+Moreno/@40.889382399999995,14.238344099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 2,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Caffe Moreno",
-                "link": "https://www.google.com/maps/search/Caff%C3%A9+Moreno/@40.874055399999996,14.2860096?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            }
-        ],
-        "website": "https://caffemoreno.it/",
-        "owner": {
-            "id": null,
-            "name": "Caffe' Moreno (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnoDs6to59cS0Lx0GNm2lkQenqEXAv0gWFgcnC=w426-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "07:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+39 081 424 1434",
-        "address": "Caffe' Moreno, Via Giustiniano, 281, 80126 Napoli NA, Yi Da Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caffe%27+Moreno/data=!4m7!3m6!1s0x133b08d9976b506d:0xbb2a88b67896b916!8m2!3d40.842449!4d14.2068074!16s%2Fg%2F11c575kcyd!19sChIJbVBrl9kIOxMRFrmWeLaIKrs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ0Y-75OW9oRQRBdMkncgccPI",
         "name": "CAFFE MORENO HELLAS",
         "description": null,
@@ -1097,7 +1217,7 @@
             {
                 "name": "MOKKA SPECIALTY COFFEE S.A.",
                 "link": "https://www.google.com/maps/search/MOKKA+SPECIALTY+COFFEE+S.A./@37.9807947,23.7273982?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1051,
+                "reviews": 1052,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -1153,40 +1273,6 @@
         "link": "https://www.google.com/maps/place/CAFFE+MORENO+HELLAS/data=!4m7!3m6!1s0x14a1bde5e4bb8fd1:0xf2701cc89d24d305!8m2!3d37.9813213!4d23.7110201!16s%2Fg%2F11qmvlhkvc!19sChIJ0Y-75OW9oRQRBdMkncgccPI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJL_RtVlkIOxMRzQDB1N1Cc6U",
-        "name": "Caffe Moreno",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Caffe Moreno",
-                "link": "https://www.google.com/maps/search/Caff%C3%A8+Moreno/@40.8524093,14.267379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": "https://caffemoreno.it/",
-        "owner": {
-            "id": null,
-            "name": "Caffe Moreno (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGzeFaqJSgYTe9KUz4jT-N3otS2nvOPLihp8Xe=w408-h544-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4,
-        "workday_timing": "07:00-20:30",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Caffe Moreno, Via Ventaglieri, 80135 Napoli NA, Yi Da Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caff%C3%A9+Moreno/data=!4m7!3m6!1s0x133b0859566df42f:0xa57342ddd4c100cd!8m2!3d40.8482236!4d14.2453183!16s%2Fg%2F11c1t14b91!19sChIJL_RtVlkIOxMRzQDB1N1Cc6U?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJVQKDtnwABDQRVFARcwYGV9A",
         "name": "Moreno Bridal",
         "description": null,
@@ -1196,7 +1282,7 @@
             {
                 "name": "Designer Bridal Room",
                 "link": "https://www.google.com/maps/search/Designer+Bridal+Room/@22.2867321,114.15237540000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 254,
+                "reviews": 253,
                 "rating": 3.4,
                 "main_category": "Hun Sha Dian "
             },
@@ -1250,64 +1336,6 @@
         "link": "https://www.google.com/maps/place/Moreno+Bridal/data=!4m7!3m6!1s0x3404007cb6830255:0xd057060673115054!8m2!3d22.2844956!4d114.1554419!16s%2Fg%2F11bzt2sc33!19sChIJVQKDtnwABDQRVFARcwYGV9A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJtyzwr1OJzYURxIzmAIRtewc",
-        "name": "Cafe Moreno",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Cafe Mexicano",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Mexicano/@19.2903611,-99.66010150000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
-                "rating": 4.7,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Cafe de mis Amores",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+de+mis+Amores/@19.2922263,-99.66200479999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 4.9,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe y mas",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+y+m%C3%A1s/@19.2849923,-99.66552019999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "My Cake & Cafe",
-                "link": "https://www.google.com/maps/search/My+Cake+%26+Caf%C3%A9/@19.2905923,-99.6629059?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.facebook.com/cafemorenotoluca",
-        "owner": {
-            "id": null,
-            "name": "Cafe Moreno (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPw0qnB7oaPlTGI8qIDJXJ9Rv3DOEJ4P8Ipaz-_=w408-h408-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 5,
-        "workday_timing": "16:00-20:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+52 55 5274 3071",
-        "address": "Cafe Moreno, Manzana 015, Delegacion San Mateo Oxtotitlan, 50100 San Mateo Oxtotitlan, Mex., Mo Xi Ge ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Moreno/data=!4m7!3m6!1s0x85cd8953aff02cb7:0x77b6d8400e68cc4!8m2!3d19.2924301!4d-99.6869181!16s%2Fg%2F11lgjtk7dh!19sChIJtyzwr1OJzYURxIzmAIRtewc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJm0vGSiqn3IARfKCkUIoCmyQ",
         "name": "DCH Roasters - Moreno Valley",
         "description": null,
@@ -1338,7 +1366,7 @@
             {
                 "name": "XANTI'S COFFEE",
                 "link": "https://www.google.com/maps/search/XANTI%E2%80%99S+COFFEE/@33.9381888,-117.26937980000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 47,
+                "reviews": 48,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1403,7 +1431,7 @@
             {
                 "name": "Birch's Cafe",
                 "link": "https://www.google.com/maps/search/Birch%27s+Cafe/@52.0463835,-0.021634?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
+                "reviews": 27,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1429,7 +1457,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "07:30-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+44 1763 247267",
         "address": "Moreno's Cafe, 1 Angel Pavement, Royston SG8 9ASYing Guo ",
         "review_keywords": [
@@ -1440,6 +1471,10 @@
             {
                 "keyword": "Jia Zhi ",
                 "count": 14
+            },
+            {
+                "keyword": "Liao Li ",
+                "count": 12
             },
             {
                 "keyword": "Xiao Hai ",
@@ -1462,11 +1497,7 @@
                 "count": 7
             },
             {
-                "keyword": "Xiao Rong ",
-                "count": 7
-            },
-            {
-                "keyword": "Zhu Chu ",
+                "keyword": "Ji Rou ",
                 "count": 6
             },
             {
@@ -1477,36 +1508,140 @@
         "link": "https://www.google.com/maps/place/Moreno%27s+Cafe/data=!4m7!3m6!1s0x4877d56b3a6cd509:0xeb089aaaae33870d!8m2!3d52.0462814!4d-0.0230594!16s%2Fg%2F11b_3cs_1p!19sChIJCdVsOmvVd0gRDYczrqqaCOs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJS5nYOTWJQQ0RgEGnutVJMzI",
-        "name": "Cafe Bar Moreno y Cepeda",
+        "place_id": "ChIJTSY7dyjZuxQRQuyLQm0VHME",
+        "name": "Moreno Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 70,
-        "competitors": [],
+        "reviews": 71,
+        "competitors": [
+            {
+                "name": "Frida Cafe",
+                "link": "https://www.google.com/maps/search/Frida+Cafe/@38.4093704,27.1174373?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 254,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Stone House Cafe",
+                "link": "https://www.google.com/maps/search/Stone+House+Cafe/@38.4090324,27.117478?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 243,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee No Name",
+                "link": "https://www.google.com/maps/search/Coffee+No+Name/@38.4053069,27.1194076?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 123,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Tarihi Asansor Restorant",
+                "link": "https://www.google.com/maps/search/Tarihi+Asans%C3%B6r+Restorant/@38.408630099999996,27.1179154?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 86,
+                "rating": 3.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Asansor Cafe Restoran Kahvalti Bahcesi",
+                "link": "https://www.google.com/maps/search/Asans%C3%B6r+Cafe+Restoran+Kahvalt%C4%B1+Bah%C3%A7esi/@38.408735199999995,27.1175827?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 80,
+                "rating": 4.1,
+                "main_category": "Jing Dian "
+            }
+        ],
         "website": null,
         "owner": {
-            "id": "115552831338669887855",
-            "name": "Cafe Bar Moreno y Cepeda (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115552831338669887855"
+            "id": null,
+            "name": "Moreno Cafe (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTc-Urhakbwl05uN2PlMYx0LzQVh8h4QudPtzP=w426-h240-k-no",
-        "main_category": "Jiu Ba ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMt7BEowQMe_a-en9_VNfuOuniISydwDRvR2-qf=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
         "categories": [
-            "Jiu Ba ",
-            "Pi Jiu Guan ",
-            "Zheng Liu Ka Pei Ba ",
-            "La Mei Jiu Ba ",
-            "Yun Dong Jiu Ba ",
-            "Xi Ban Ya Xiao Shi Jiu Ba "
+            "Ka Pei Ting "
         ],
-        "rating": 4.2,
-        "workday_timing": "08:00-23:00",
-        "closed_on": [
-            "Xing Qi Si "
+        "rating": 3.5,
+        "workday_timing": "10:00-00:00",
+        "closed_on": "Open All Days",
+        "phone": "+90 543 414 11 41",
+        "address": "Turgut Reis, Moreno Cafe, Dario Moreno Sk. No:4 Asansor, 35280 Konak/Izmir, Tu Er Qi ",
+        "review_keywords": [
+            {
+                "keyword": "Yin Le ",
+                "count": 4
+            },
+            {
+                "keyword": "Dian Ti ",
+                "count": 3
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 3
+            }
         ],
-        "phone": "+34 916 19 30 00",
-        "address": "Cafe Bar Moreno y Cepeda, C. Jaboneria, 55, 28921 Alcorcon, Madrid, Xi Ban Ya ",
+        "link": "https://www.google.com/maps/place/Moreno+Cafe/data=!4m7!3m6!1s0x14bbd928773b264d:0xc11c156d428bec42!8m2!3d38.4091944!4d27.1172701!16s%2Fg%2F11h3b2x6pl!19sChIJTSY7dyjZuxQRQuyLQm0VHME?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJDTCfU0_3yxQR418YhkJtUyk",
+        "name": "Moreno Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "competitors": [
+            {
+                "name": "VETERIS",
+                "link": "https://www.google.com/maps/search/VETER%C4%B0S/@39.89053200000001,30.0663296?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 150,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kavanoz Cafe & Aperativo",
+                "link": "https://www.google.com/maps/search/Kavanoz+Cafe+%26+Aperativo/@39.9022222,30.065833299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 134,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "ORTA KAHVE",
+                "link": "https://www.google.com/maps/search/ORTA+KAHVE/@39.905014,30.059795299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 46,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Aslan Kafe",
+                "link": "https://www.google.com/maps/search/Aslan+Kafe/@39.8934989,30.040760100000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kahve's Cafe-Bistro",
+                "link": "https://www.google.com/maps/search/Kahve%27s+Cafe-Bistro/@39.9051529,30.0448731?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "118117799209072950348",
+            "name": "Moreno Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/118117799209072950348"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKqn6pUJN3mNrzvion1dNzwUdyrFi-wiqmtLFn=w408-h272-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "10:00-00:00",
+        "closed_on": "Open All Days",
+        "phone": "+90 546 453 63 13",
+        "address": "4 Eylul, Moreno Coffee, Ismet Inonu Cd. No:245 No: 245, 11300 Bozuyuk/Bilecik, Tu Er Qi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Bar+Moreno+y+Cepeda/data=!4m7!3m6!1s0xd41893539d8994b:0x323349d5baa74180!8m2!3d40.3493658!4d-3.8241556!16s%2Fg%2F11fylz7py3!19sChIJS5nYOTWJQQ0RgEGnutVJMzI?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Moreno+Coffee/data=!4m7!3m6!1s0x14cbf74f539f300d:0x29536d4286185fe3!8m2!3d39.9022048!4d30.0659889!16s%2Fg%2F11p0dc8vcl!19sChIJDTCfU0_3yxQR418YhkJtUyk?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

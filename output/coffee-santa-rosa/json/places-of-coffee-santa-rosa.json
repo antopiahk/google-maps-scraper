@@ -4,12 +4,12 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 1694,
+        "reviews": 1693,
         "competitors": [
             {
                 "name": "Wendy's",
                 "link": "https://www.google.com/maps/search/Wendy%27s/@38.42045460000001,-122.71298560000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1157,
+                "reviews": 1158,
                 "rating": 3.8,
                 "main_category": "Kuai Can "
             },
@@ -101,28 +101,28 @@
             {
                 "name": "Sam's for Play Cafe & Catering",
                 "link": "https://www.google.com/maps/search/Sam%27s+for+Play+Cafe+%26+Catering/@38.4633797,-122.7280887?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1069,
+                "reviews": 1071,
                 "rating": 4.4,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Huckleberry's Breakfast & Lunch",
                 "link": "https://www.google.com/maps/search/Huckleberry%27s+Breakfast+%26+Lunch/@38.475257899999995,-122.73320319999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 292,
+                "reviews": 294,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Panera Bread",
                 "link": "https://www.google.com/maps/search/Panera+Bread/@38.4809154,-122.73601769999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 288,
+                "reviews": 289,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Norm's Kitchen",
                 "link": "https://www.google.com/maps/search/Norm%27s+Kitchen/@38.501674799999996,-122.750433?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 286,
+                "reviews": 287,
                 "rating": 4.4,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -187,7 +187,7 @@
         "name": "Dutch Bros Coffee",
         "description": "Yi Cha Yin , Nai Xi , Ka Pei He Te Se Yin Pin Wen Ming De Lian Suo Yin Pin Dian . ",
         "is_spending_on_ads": false,
-        "reviews": 1228,
+        "reviews": 1229,
         "competitors": [
             {
                 "name": "Peet's Coffee",
@@ -199,7 +199,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -213,7 +213,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -225,7 +225,7 @@
                 "main_category": "Ka Pei Hong Bei Shang "
             }
         ],
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-e346ec7056c1?y_source=1_MTUyMjgyOTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "website": "https://locations.dutchbros.com/dutch-bros-coffee-e346ec7056c1%3Fy_source%3D1_MTUyMjgyOTktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
         "owner": {
             "id": "112160192929388904737",
             "name": "Dutch Bros Coffee (Ye Zhu )",
@@ -239,9 +239,11 @@
             "Guo Zhi Dian ",
             "Cha Yi Guan "
         ],
-        "rating": 4.6,
+        "rating": 4.5,
         "workday_timing": "05:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 541-955-4700",
         "address": "Dutch Bros Coffee, 1300 Mendocino Ave, Santa Rosa, CA 95401Mei Guo ",
         "review_keywords": [
@@ -250,16 +252,12 @@
                 "count": 48
             },
             {
+                "keyword": "Jiao Tong ",
+                "count": 20
+            },
+            {
                 "keyword": "Ting Che ",
                 "count": 19
-            },
-            {
-                "keyword": "Jiao Tong ",
-                "count": 19
-            },
-            {
-                "keyword": "Xiao Rong ",
-                "count": 14
             },
             {
                 "keyword": "Tang ",
@@ -308,7 +306,7 @@
             {
                 "name": "Carlos' Country Kitchen",
                 "link": "https://www.google.com/maps/search/Carlos%27+Country+Kitchen/@38.445639299999996,-122.72959569999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 881,
+                "reviews": 882,
                 "rating": 4.5,
                 "main_category": "Mei Guo Cai "
             },
@@ -322,7 +320,7 @@
             {
                 "name": "Village Cafe",
                 "link": "https://www.google.com/maps/search/Village+Cafe/@38.453339299999996,-122.77177540000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 135,
+                "reviews": 136,
                 "rating": 4.3,
                 "main_category": "Mei Guo Cai "
             }
@@ -343,13 +341,19 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-14:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-528-2929",
         "address": "Sam's for Play Cafe & Catering, 2630 Cleveland Ave, Santa Rosa, CA 95403Mei Guo ",
         "review_keywords": [
             {
                 "keyword": "Zao Can ",
                 "count": 118
+            },
+            {
+                "keyword": "Ou Mu Dan ",
+                "count": 17
             },
             {
                 "keyword": "Shu Shi ,Shi Wu ",
@@ -370,10 +374,6 @@
             {
                 "keyword": "Shu Bing ",
                 "count": 7
-            },
-            {
-                "keyword": "Xia Ren ",
-                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/Sam%27s+for+Play+Cafe+%26+Catering/data=!4m7!3m6!1s0x8084387abc5b37c1:0x3116cb8cc235b179!8m2!3d38.4633797!4d-122.7280887!16s%2Fg%2F1vfwd1_k!19sChIJwTdbvHo4hIARebE1wozLFjE?authuser=0&hl=zh-TW&rclk=1"
@@ -416,7 +416,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             }
@@ -475,6 +475,99 @@
         "link": "https://www.google.com/maps/place/A%27Roma+Roasters+Coffee+%26+Tea/data=!4m7!3m6!1s0x80843801b3bffdf1:0xd45306e6053b45d2!8m2!3d38.4381047!4d-122.7214884!16s%2Fg%2F1tdc5fr1!19sChIJ8f2_swE4hIAR0kU7BeYGU9Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJOyVrAwRIhIAR-O83DZ0Xilk",
+        "name": "Dierk's Parkside Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 961,
+        "competitors": [
+            {
+                "name": "The Spinster Sisters",
+                "link": "https://www.google.com/maps/search/The+Spinster+Sisters/@38.4329139,-122.71515559999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 860,
+                "rating": 4.5,
+                "main_category": "Xian Dai Mei Shi Liao Li "
+            },
+            {
+                "name": "Jeffrey's Hillside Cafe",
+                "link": "https://www.google.com/maps/search/Jeffrey%27s+Hillside+Cafe/@38.4503975,-122.6870034?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 753,
+                "rating": 4.6,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "Hank's Creekside Restaurant",
+                "link": "https://www.google.com/maps/search/Hank%27s+Creekside+Restaurant/@38.4493188,-122.6889712?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 737,
+                "rating": 4.7,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "The Naked Pig Cafe",
+                "link": "https://www.google.com/maps/search/The+Naked+Pig+Cafe/@38.4415396,-122.71319849999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 471,
+                "rating": 4,
+                "main_category": "Xian Dai Mei Shi Liao Li "
+            },
+            {
+                "name": "J&M's Midtown Cafe",
+                "link": "https://www.google.com/maps/search/J%26M%27s+Midtown+Caf%C3%A9/@38.44732,-122.7009217?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 419,
+                "rating": 4.6,
+                "main_category": "Zao Can "
+            }
+        ],
+        "website": "http://www.dierksparkside.com/",
+        "owner": {
+            "id": "110177022236610322067",
+            "name": "Dierk's Parkside Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110177022236610322067"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuyUskwEwfW7xfbfrM8ri0-6xtlARThTa_XvG1=w408-h305-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-13:30",
+        "closed_on": [
+            "Xing Qi Si "
+        ],
+        "phone": "+1 707-573-5955",
+        "address": "Dierk's Parkside Cafe, 404 Santa Rosa Ave, Santa Rosa, CA 95404Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 208
+            },
+            {
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 28
+            },
+            {
+                "keyword": "Zao Wu Can ",
+                "count": 25
+            },
+            {
+                "keyword": "Ou Mu Dan ",
+                "count": 21
+            },
+            {
+                "keyword": "Zha Niu Pai ",
+                "count": 11
+            },
+            {
+                "keyword": "You Feng Ya Tui ",
+                "count": 6
+            },
+            {
+                "keyword": "Shui Bo Dan ",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dierk%27s+Parkside+Cafe/data=!4m7!3m6!1s0x80844804036b253b:0x598a179d0d37eff8!8m2!3d38.4344635!4d-122.7116503!16s%2Fg%2F1tpbc5x0!19sChIJOyVrAwRIhIAR-O83DZ0Xilk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJA3_Z6fVHhIARuywtxFMh9Ak",
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
@@ -484,21 +577,21 @@
             {
                 "name": "Chick-fil-A",
                 "link": "https://www.google.com/maps/search/Chick-fil-A/@38.454177,-122.71717600000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2045,
+                "reviews": 2046,
                 "rating": 4.5,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Taco Bell",
                 "link": "https://www.google.com/maps/search/Taco+Bell/@38.4580048,-122.7178712?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 814,
+                "reviews": 813,
                 "rating": 3.4,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Five Guys",
                 "link": "https://www.google.com/maps/search/Five+Guys/@38.4620615,-122.7167927?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 638,
+                "reviews": 639,
                 "rating": 4.2,
                 "main_category": "Kuai Can "
             },
@@ -605,7 +698,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             }
@@ -683,14 +776,14 @@
             {
                 "name": "Panera Bread",
                 "link": "https://www.google.com/maps/search/Panera+Bread/@38.4809154,-122.73601769999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 288,
+                "reviews": 289,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Dutch Bros Coffee",
                 "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@38.4801715,-122.7367834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 118,
+                "reviews": 119,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -705,7 +798,7 @@
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.4408684,-122.71240399999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 86,
-                "rating": 4.4,
+                "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             }
         ],
@@ -779,7 +872,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -807,7 +900,7 @@
             {
                 "name": "Flagship Taproom",
                 "link": "https://www.google.com/maps/search/Flagship+Taproom/@38.4417422,-122.71684629999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 98,
+                "reviews": 99,
                 "rating": 4.5,
                 "main_category": "Pi Jiu Hua Yuan "
             }
@@ -834,7 +927,7 @@
         "review_keywords": [
             {
                 "keyword": "atmosphere",
-                "count": 48
+                "count": 49
             },
             {
                 "keyword": "Bang Wan ",
@@ -852,92 +945,6 @@
         "link": "https://www.google.com/maps/place/Brew+Coffee+and+Beer+House/data=!4m7!3m6!1s0x808447f8a0651a55:0x36f154371a700d1a!8m2!3d38.4433107!4d-122.7180961!16s%2Fg%2F11b6x7p_vp!19sChIJVRploPhHhIARGg1wGjdU8TY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJg-UIqNlHhIARyfLieJlqPsk",
-        "name": "Jeffrey's Hillside Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 753,
-        "competitors": [
-            {
-                "name": "Dierk's Parkside Cafe",
-                "link": "https://www.google.com/maps/search/Dierk%27s+Parkside+Cafe/@38.4344635,-122.71165029999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 958,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Carlos' Country Kitchen",
-                "link": "https://www.google.com/maps/search/Carlos%27+Country+Kitchen/@38.445639299999996,-122.72959569999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 881,
-                "rating": 4.5,
-                "main_category": "Mei Guo Cai "
-            },
-            {
-                "name": "Hank's Creekside Restaurant",
-                "link": "https://www.google.com/maps/search/Hank%27s+Creekside+Restaurant/@38.4493188,-122.6889712?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 737,
-                "rating": 4.7,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "J&M's Midtown Cafe",
-                "link": "https://www.google.com/maps/search/J%26M%27s+Midtown+Caf%C3%A9/@38.44732,-122.7009217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 417,
-                "rating": 4.6,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Huckleberry's Breakfast & Lunch",
-                "link": "https://www.google.com/maps/search/Huckleberry%27s+Breakfast+%26+Lunch/@38.475257899999995,-122.73320319999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 292,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://jeffreyshillsidecafe.com/",
-        "owner": {
-            "id": "108367248369472931196",
-            "name": "Jeffrey's Hillside Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108367248369472931196"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOEMKFqvWHZArjmOevYoQcGvry9yuRlgwKyKVx=w426-h240-k-no",
-        "main_category": "Mei Shi Can Ting ",
-        "categories": [
-            "Mei Shi Can Ting ",
-            "Zao Can Can Ting ",
-            "Zao Wu Can Can Ting ",
-            "Can Ting "
-        ],
-        "rating": 4.6,
-        "workday_timing": "08:00-13:30",
-        "closed_on": "Open All Days",
-        "phone": "+1 707-546-6317",
-        "address": "Jeffrey's Hillside Cafe, 2901 4th St, Santa Rosa, CA 95409Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Ban Ni Di Ke Dan ",
-                "count": 26
-            },
-            {
-                "keyword": "Zao Wu Can ",
-                "count": 18
-            },
-            {
-                "keyword": "Zha Niu Pai ",
-                "count": 17
-            },
-            {
-                "keyword": "Fa Shi Tu Si ",
-                "count": 11
-            },
-            {
-                "keyword": "Shui Bo Dan ",
-                "count": 7
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Jeffrey%27s+Hillside+Cafe/data=!4m7!3m6!1s0x808447d9a808e583:0xc93e6a9978e2f2c9!8m2!3d38.4503975!4d-122.6870034!16s%2Fg%2F1td25n_b!19sChIJg-UIqNlHhIARyfLieJlqPsk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJJyHUMtNHhIARQQ7O3w42N64",
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
@@ -947,21 +954,21 @@
             {
                 "name": "Chick-fil-A",
                 "link": "https://www.google.com/maps/search/Chick-fil-A/@38.454177,-122.71717600000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2045,
+                "reviews": 2046,
                 "rating": 4.5,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Wendy's",
                 "link": "https://www.google.com/maps/search/Wendy%27s/@38.42045460000001,-122.71298560000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1157,
+                "reviews": 1158,
                 "rating": 3.8,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@38.4352188,-122.68653090000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 899,
+                "reviews": 898,
                 "rating": 3.3,
                 "main_category": "Kuai Can "
             },
@@ -1042,12 +1049,12 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 680,
+        "reviews": 679,
         "competitors": [
             {
                 "name": "Chick-fil-A",
                 "link": "https://www.google.com/maps/search/Chick-fil-A/@38.454177,-122.71717600000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2045,
+                "reviews": 2046,
                 "rating": 4.5,
                 "main_category": "Kuai Can "
             },
@@ -1068,7 +1075,7 @@
             {
                 "name": "Panera Bread",
                 "link": "https://www.google.com/maps/search/Panera+Bread/@38.4809154,-122.73601769999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 288,
+                "reviews": 289,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -1080,7 +1087,7 @@
                 "main_category": "Kuai Can "
             }
         ],
-        "website": "https://www.mcdonalds.com/us/en-us/location/CA/SANTA-ROSA/879-HOPPER-AVE/21184.html%3Fcid%3DRF:YXT:GMB::Clicks",
+        "website": "https://www.mcdonalds.com/us/en-us/location/CA/SANTA-ROSA/879-HOPPER-AVE/21184.html?cid=RF:YXT:GMB::Clicks",
         "owner": {
             "id": "118049835506348382297",
             "name": "McDonald's (Ye Zhu )",
@@ -1096,7 +1103,7 @@
             "Can Ting ",
             "San Wen Zhi Dian "
         ],
-        "rating": 3.6,
+        "rating": 3.5,
         "workday_timing": "06:00-23:00",
         "closed_on": "Open All Days",
         "phone": "+1 707-523-2534",
@@ -1146,26 +1153,26 @@
         "name": "Sam's For Play Cafe & Catering",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 609,
+        "reviews": 610,
         "competitors": [
             {
                 "name": "Applebee's Grill + Bar",
                 "link": "https://www.google.com/maps/search/Applebee%27s+Grill+%2B+Bar/@38.4170559,-122.71315849999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1272,
+                "reviews": 1273,
                 "rating": 3.9,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Carlos' Country Kitchen",
                 "link": "https://www.google.com/maps/search/Carlos%27+Country+Kitchen/@38.445639299999996,-122.72959569999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 881,
+                "reviews": 882,
                 "rating": 4.5,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Sebastopol Sunshine Cafe",
                 "link": "https://www.google.com/maps/search/Sebastopol+Sunshine+Cafe/@38.4016753,-122.82427240000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 259,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -1179,7 +1186,7 @@
             {
                 "name": "Village Cafe",
                 "link": "https://www.google.com/maps/search/Village+Cafe/@38.453339299999996,-122.77177540000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 135,
+                "reviews": 136,
                 "rating": 4.3,
                 "main_category": "Mei Guo Cai "
             }
@@ -1245,7 +1252,7 @@
             {
                 "name": "Ike's Love & Sandwiches",
                 "link": "https://www.google.com/maps/search/Ike%27s+Love+%26+Sandwiches/@38.4571732,-122.7167453?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1133,
+                "reviews": 1134,
                 "rating": 4.5,
                 "main_category": "San Wen Zhi "
             },
@@ -1314,6 +1321,10 @@
                 "count": 11
             },
             {
+                "keyword": "Ou Mu Dan ",
+                "count": 9
+            },
+            {
                 "keyword": "Xian ,Niu Rou ",
                 "count": 8
             },
@@ -1329,7 +1340,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 530,
+        "reviews": 531,
         "competitors": [
             {
                 "name": "A'Roma Roasters Coffee & Tea",
@@ -1384,7 +1395,9 @@
         ],
         "rating": 3.9,
         "workday_timing": "04:30-21:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-527-1006",
         "address": "Starbucks, 2688 Santa Rosa Ave, Santa Rosa, CA 95407Mei Guo ",
         "review_keywords": [
@@ -1488,7 +1501,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "10:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-303-4100",
         "address": "Boudin SF, 2345 Midway Dr, Santa Rosa, CA 95405Mei Guo ",
         "review_keywords": [
@@ -1533,8 +1548,8 @@
             {
                 "name": "Dutch Bros Coffee",
                 "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@38.4531645,-122.7170664?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1228,
-                "rating": 4.6,
+                "reviews": 1229,
+                "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -1554,7 +1569,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -1585,7 +1600,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "05:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-568-3464",
         "address": "Peet's Coffee, 2500 Mendocino Ave, Santa Rosa, CA 95403Mei Guo ",
         "review_keywords": [
@@ -1610,6 +1627,10 @@
                 "count": 6
             },
             {
+                "keyword": "Xiao Rong ",
+                "count": 5
+            },
+            {
                 "keyword": "Gao ",
                 "count": 5
             },
@@ -1620,81 +1641,9 @@
             {
                 "keyword": "Yu Shi ",
                 "count": 5
-            },
-            {
-                "keyword": "Kou Wei ",
-                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Peet%27s+Coffee/data=!4m7!3m6!1s0x80843877f4627ea3:0xb8e49b5d5b9c4e74!8m2!3d38.4653776!4d-122.719203!16s%2Fg%2F1tgkhhty!19sChIJo35i9Hc4hIARdE6cW12b5Lg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ8zFSV6o5hIARtTQ0gSSLNKE",
-        "name": "Grossman's Noshery & Bar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 458,
-        "competitors": [
-            {
-                "name": "FRANCHETTIS' Gasthaus + Biergarten",
-                "link": "https://www.google.com/maps/search/FRANCHETTIS%27+Gasthaus+%2B+Biergarten/@38.4469588,-122.73211210000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 653,
-                "rating": 4.4,
-                "main_category": "Pi Jiu Hua Yuan "
-            },
-            {
-                "name": "Mac's",
-                "link": "https://www.google.com/maps/search/Mac%27s/@38.4407972,-122.7129315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
-                "rating": 4.7,
-                "main_category": "Shou Shi Dian "
-            },
-            {
-                "name": "The Naked Pig Cafe",
-                "link": "https://www.google.com/maps/search/The+Naked+Pig+Cafe/@38.4415396,-122.71319849999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 470,
-                "rating": 4,
-                "main_category": "Xian Dai Mei Shi Liao Li "
-            },
-            {
-                "name": "Sonoma Bagel and Deli Inc.",
-                "link": "https://www.google.com/maps/search/Sonoma+Bagel+and+Deli+Inc./@38.4461881,-122.6862966?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 191,
-                "rating": 4.2,
-                "main_category": "Mian Bao Quan Dian "
-            },
-            {
-                "name": "Carmen's Bistro & Bar",
-                "link": "https://www.google.com/maps/search/Carmen%E2%80%99s+Bistro+%26+Bar/@38.440922,-122.7134706?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://grossmanssr.com/",
-        "owner": {
-            "id": "108702997427093470396",
-            "name": "Grossman's Noshery & Bar (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108702997427093470396"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOctUPTaJmKsPZcvE0bPOEmx7MkGXVJT_q2x5xK=w408-h272-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting ",
-            "Shou Shi Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 707-595-7707",
-        "address": "Grossman's Noshery & Bar, 308 Wilson St, Santa Rosa, CA 95401Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Bei Guo ",
-                "count": 39
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Grossman%27s+Noshery+%26+Bar/data=!4m7!3m6!1s0x808439aa575231f3:0xa1348b24813434b5!8m2!3d38.4378776!4d-122.7209323!16s%2Fg%2F11j38xfv56!19sChIJ8zFSV6o5hIARtTQ0gSSLNKE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJL_QALIs3hIARlOgYoVNfffA",
@@ -1809,7 +1758,7 @@
             {
                 "name": "Crumbl - Santa Rosa",
                 "link": "https://www.google.com/maps/search/Crumbl+-+Santa+Rosa/@38.4176492,-122.7123715?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2229,
+                "reviews": 2232,
                 "rating": 4.9,
                 "main_category": "Tian Pin Dian "
             },
@@ -1850,7 +1799,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "07:30-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+1 707-888-3546",
         "address": "Criminal Baking & Catering Company, 808 Donahue St, Santa Rosa, CA 95401Mei Guo ",
         "review_keywords": [
@@ -1916,7 +1868,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -1941,7 +1893,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-595-5984",
         "address": "Avid Coffee, 2365 Midway Dr, Santa Rosa, CA 95405Mei Guo ",
         "review_keywords": [
@@ -1981,7 +1935,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 405,
+        "reviews": 406,
         "competitors": [
             {
                 "name": "Kaffe Mocha & Grill",
@@ -2036,7 +1990,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "04:30-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-542-5964",
         "address": "Starbucks, 269 Aviation Blvd, Santa Rosa, CA 95403Mei Guo ",
         "review_keywords": [
@@ -2192,7 +2148,7 @@
             {
                 "name": "Hardcore Espresso",
                 "link": "https://www.google.com/maps/search/Hardcore+Espresso/@38.3805389,-122.806041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 453,
+                "reviews": 454,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2238,7 +2194,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "07:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": "+1 707-827-8065",
         "address": "Retrograde Coffee Roasters, 130 S Main St #103, Sebastopol, CA 95472Mei Guo ",
         "review_keywords": [
@@ -2276,93 +2235,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Retrograde+Coffee+Roasters/data=!4m7!3m6!1s0x808430a6dc151c47:0x3788ac352b6523eb!8m2!3d38.4015861!4d-122.8240722!16s%2Fg%2F11c30wtctk!19sChIJRxwV3KYwhIAR6yNlKzWsiDc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJC3cg325IhIAR8tSTul4XFjU",
-        "name": "Starbucks",
-        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
-        "is_spending_on_ads": false,
-        "reviews": 343,
-        "competitors": [
-            {
-                "name": "Avid Coffee",
-                "link": "https://www.google.com/maps/search/Avid+Coffee/@38.446504999999995,-122.687114?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 428,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "SoCo Coffee",
-                "link": "https://www.google.com/maps/search/SoCo+Coffee/@38.4438752,-122.70712979999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 207,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Des Croissants",
-                "link": "https://www.google.com/maps/search/Cafe+Des+Croissants/@38.4277407,-122.66703199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Peet's Coffee in Book Store",
-                "link": "https://www.google.com/maps/search/Peet%27s+Coffee+in+Book+Store/@38.44350300000001,-122.686382?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 3.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee Rx",
-                "link": "https://www.google.com/maps/search/Coffee+Rx/@38.4430263,-122.7002082?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://www.starbucks.com/store-locator/store/12487/",
-        "owner": {
-            "id": "103920199857047645510",
-            "name": "Starbucks (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103920199857047645510"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNL_6PhVr23IK4Y1pkG33a0n2mEYhdHDy_lqMvO=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Zao Can Can Ting ",
-            "Ka Pei Ting ",
-            "Zheng Liu Ka Pei Ba ",
-            "Wang Ba "
-        ],
-        "rating": 4.3,
-        "workday_timing": "04:30-20:30",
-        "closed_on": "Open All Days",
-        "phone": "+1 707-546-6920",
-        "address": "Starbucks, 1511 Farmers Ln Center, Santa Rosa, CA 95405Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "De Lai Su ",
-                "count": 25
-            },
-            {
-                "keyword": "Min Zhong ",
-                "count": 3
-            },
-            {
-                "keyword": "Li Jie ",
-                "count": 3
-            },
-            {
-                "keyword": "Na Tie ",
-                "count": 3
-            },
-            {
-                "keyword": "San Ming Zhi ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x8084486edf20770b:0x3516175eba93d4f2!8m2!3d38.4349715!4d-122.6885886!16s%2Fg%2F1tq4r9bn!19sChIJC3cg325IhIAR8tSTul4XFjU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJXb2uQohHhIARifHGVzMFfxo",
@@ -2457,6 +2329,93 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Cafe+des+Croissants/data=!4m7!3m6!1s0x8084478842aebd5d:0x1a7f053357c6f189!8m2!3d38.4652048!4d-122.7161455!16s%2Fg%2F1v5k372_!19sChIJXb2uQohHhIARifHGVzMFfxo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJC3cg325IhIAR8tSTul4XFjU",
+        "name": "Starbucks",
+        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
+        "is_spending_on_ads": false,
+        "reviews": 343,
+        "competitors": [
+            {
+                "name": "Avid Coffee",
+                "link": "https://www.google.com/maps/search/Avid+Coffee/@38.446504999999995,-122.687114?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 428,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "SoCo Coffee",
+                "link": "https://www.google.com/maps/search/SoCo+Coffee/@38.4438752,-122.70712979999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 207,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Des Croissants",
+                "link": "https://www.google.com/maps/search/Cafe+Des+Croissants/@38.4277407,-122.66703199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Peet's Coffee in Book Store",
+                "link": "https://www.google.com/maps/search/Peet%27s+Coffee+in+Book+Store/@38.44350300000001,-122.686382?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Rx",
+                "link": "https://www.google.com/maps/search/Coffee+Rx/@38.4430263,-122.7002082?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.starbucks.com/store-locator/store/12487/",
+        "owner": {
+            "id": "103920199857047645510",
+            "name": "Starbucks (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103920199857047645510"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNL_6PhVr23IK4Y1pkG33a0n2mEYhdHDy_lqMvO=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Zao Can Can Ting ",
+            "Ka Pei Ting ",
+            "Zheng Liu Ka Pei Ba ",
+            "Wang Ba "
+        ],
+        "rating": 4.3,
+        "workday_timing": "04:30-20:30",
+        "closed_on": "Open All Days",
+        "phone": "+1 707-546-6920",
+        "address": "Starbucks, 1511 Farmers Ln Center, Santa Rosa, CA 95405Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "De Lai Su ",
+                "count": 25
+            },
+            {
+                "keyword": "Min Zhong ",
+                "count": 3
+            },
+            {
+                "keyword": "Li Jie ",
+                "count": 3
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 3
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x8084486edf20770b:0x3516175eba93d4f2!8m2!3d38.4349715!4d-122.6885886!16s%2Fg%2F1tq4r9bn!19sChIJC3cg325IhIAR8tSTul4XFjU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJWZiU45pHhIARxaOcd6Oi7kA",
@@ -2571,8 +2530,8 @@
             {
                 "name": "Dutch Bros Coffee",
                 "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@38.4531645,-122.7170664?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1228,
-                "rating": 4.6,
+                "reviews": 1229,
+                "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -2592,7 +2551,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2621,7 +2580,9 @@
         ],
         "rating": 4.1,
         "workday_timing": "05:00-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-576-7582",
         "address": "Starbucks, Mendocino Marketplace, 2240 Mendocino Ave, Santa Rosa, CA 95403Mei Guo ",
         "review_keywords": [
@@ -2653,7 +2614,7 @@
         "name": "Savor Vietnamese Cuisine",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 301,
+        "reviews": 302,
         "competitors": [
             {
                 "name": "Pho Vietnam Restaurant",
@@ -2665,7 +2626,7 @@
             {
                 "name": "Simply Vietnam",
                 "link": "https://www.google.com/maps/search/Simply+Vietnam/@38.4742526,-122.732228?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 731,
+                "reviews": 732,
                 "rating": 4.4,
                 "main_category": "Yue Nan Cai "
             },
@@ -2756,7 +2717,7 @@
         "name": "Panera Bread",
         "description": "Gui Tai Dian Can Shi Lian Suo Mian Bao Dian /Ka Pei Ting ,Gong Ying San Ming Zhi , Sha La Deng Can Dian ,Yi Mian Bao He Mian Fei  WiFi Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 288,
+        "reviews": 289,
         "competitors": [
             {
                 "name": "Piner Cafe",
@@ -2864,7 +2825,7 @@
         "name": "Norm's Kitchen",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 286,
+        "reviews": 287,
         "competitors": [
             {
                 "name": "Denny's",
@@ -2876,7 +2837,7 @@
             {
                 "name": "Sam's for Play Cafe & Catering",
                 "link": "https://www.google.com/maps/search/Sam%27s+for+Play+Cafe+%26+Catering/@38.4633797,-122.7280887?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1069,
+                "reviews": 1071,
                 "rating": 4.4,
                 "main_category": "Mei Guo Cai "
             },
@@ -2918,7 +2879,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-14:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-579-4007",
         "address": "Norm's Kitchen, 478 Larkfield Center, Santa Rosa, CA 95403Mei Guo ",
         "review_keywords": [
@@ -2971,7 +2934,7 @@
             {
                 "name": "Chick-fil-A",
                 "link": "https://www.google.com/maps/search/Chick-fil-A/@38.454177,-122.71717600000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2045,
+                "reviews": 2046,
                 "rating": 4.5,
                 "main_category": "Kuai Can "
             },
@@ -2985,7 +2948,7 @@
             {
                 "name": "Five Guys",
                 "link": "https://www.google.com/maps/search/Five+Guys/@38.4620615,-122.7167927?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 638,
+                "reviews": 639,
                 "rating": 4.2,
                 "main_category": "Kuai Can "
             },
@@ -3074,6 +3037,13 @@
                 "main_category": "Ka Pei Dian "
             },
             {
+                "name": "Burger King",
+                "link": "https://www.google.com/maps/search/Burger+King/@38.4283503,-122.74200369999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 200,
+                "rating": 3.7,
+                "main_category": "Can Ting "
+            },
+            {
                 "name": "Donut Bagel Cafe",
                 "link": "https://www.google.com/maps/search/Donut+Bagel+Cafe/@38.4285089,-122.7405577?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 160,
@@ -3112,7 +3082,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "05:00-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-545-7057",
         "address": "Starbucks, 2780 Stony Point Road, Bellevue Ave, Santa Rosa, CA 95407Mei Guo ",
         "review_keywords": [
@@ -3153,14 +3125,14 @@
             {
                 "name": "IHOP",
                 "link": "https://www.google.com/maps/search/IHOP/@38.4498797,-122.6894131?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 960,
+                "reviews": 961,
                 "rating": 4.1,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Carlos' Country Kitchen",
                 "link": "https://www.google.com/maps/search/Carlos%27+Country+Kitchen/@38.445639299999996,-122.72959569999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 881,
+                "reviews": 882,
                 "rating": 4.5,
                 "main_category": "Mei Guo Cai "
             },
@@ -3174,7 +3146,7 @@
             {
                 "name": "J&M's Midtown Cafe",
                 "link": "https://www.google.com/maps/search/J%26M%27s+Midtown+Caf%C3%A9/@38.44732,-122.7009217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 417,
+                "reviews": 419,
                 "rating": 4.6,
                 "main_category": "Zao Can "
             },
@@ -3280,7 +3252,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             }
@@ -3399,12 +3371,12 @@
                 "count": 9
             },
             {
-                "keyword": "San Ming Zhi ",
+                "keyword": "Gang Qin ",
                 "count": 8
             },
             {
-                "keyword": "Gang Qin ",
-                "count": 7
+                "keyword": "San Ming Zhi ",
+                "count": 8
             },
             {
                 "keyword": "Bei Guo ",
@@ -3510,11 +3482,11 @@
                 "count": 3
             },
             {
-                "keyword": "Wu Fu Zhi ",
+                "keyword": "Nan Gua ",
                 "count": 3
             },
             {
-                "keyword": "Nan Gua ",
+                "keyword": "Wu Fu Zhi ",
                 "count": 3
             },
             {
@@ -3541,7 +3513,7 @@
             {
                 "name": "Village Cafe",
                 "link": "https://www.google.com/maps/search/Village+Cafe/@38.453339299999996,-122.77177540000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 135,
+                "reviews": 136,
                 "rating": 4.3,
                 "main_category": "Mei Guo Cai "
             },
@@ -3549,7 +3521,7 @@
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.4408684,-122.71240399999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 86,
-                "rating": 4.4,
+                "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -3708,7 +3680,7 @@
             {
                 "name": "Hardcore Espresso",
                 "link": "https://www.google.com/maps/search/Hardcore+Espresso/@38.3805389,-122.806041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 453,
+                "reviews": 454,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3755,7 +3727,9 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-634-7129",
         "address": "Taylor Lane Organic Coffee, 6790 McKinley St #170, Sebastopol, CA 95472Mei Guo ",
         "review_keywords": [
@@ -3815,7 +3789,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -3830,7 +3804,7 @@
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.4408684,-122.71240399999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 86,
-                "rating": 4.4,
+                "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -3895,7 +3869,7 @@
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.4408684,-122.71240399999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 86,
-                "rating": 4.4,
+                "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -3937,7 +3911,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "05:00-20:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-571-8747",
         "address": "Starbucks, 1385 Santa Rosa Ave, Santa Rosa, CA 95404Mei Guo ",
         "review_keywords": [
@@ -3969,7 +3945,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -4009,8 +3985,9 @@
         "rating": 4.3,
         "workday_timing": "08:00-14:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Yi ",
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+1 707-978-2801",
         "address": "The Pharmacy, 990 Sonoma Ave #1, Santa Rosa, CA 95404Mei Guo ",
@@ -4064,8 +4041,8 @@
             {
                 "name": "Dutch Bros Coffee",
                 "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@38.4531645,-122.7170664?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1228,
-                "rating": 4.6,
+                "reviews": 1229,
+                "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -4085,7 +4062,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -4097,7 +4074,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://myfriendjoecoffee.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://myfriendjoecoffee.business.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": "112478315129492933225",
             "name": "My Friend Joe Coffee (Ye Zhu )",
@@ -4247,7 +4224,7 @@
             {
                 "name": "Cafe Mimosa",
                 "link": "https://www.google.com/maps/search/Cafe+Mimosa/@38.445430099999996,-122.7180027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 331,
+                "reviews": 332,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -4356,7 +4333,7 @@
             {
                 "name": "Mac's",
                 "link": "https://www.google.com/maps/search/Mac%27s/@38.4407972,-122.7129315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
+                "reviews": 538,
                 "rating": 4.7,
                 "main_category": "Shou Shi Dian "
             },
@@ -4403,17 +4380,19 @@
         ],
         "rating": 4.2,
         "workday_timing": "06:30-14:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-535-0570",
         "address": "Grateful Bagel, 631 4th St, Santa Rosa, CA 95404Mei Guo ",
         "review_keywords": [
             {
-                "keyword": "Jia Ge ",
+                "keyword": "Nai You Qi Si ",
                 "count": 8
             },
             {
-                "keyword": "Nai You Qi Si ",
-                "count": 8
+                "keyword": "Jia Ge ",
+                "count": 7
             },
             {
                 "keyword": "Zao Shang ",
@@ -4560,11 +4539,11 @@
         "address": "Johnny Doughnuts, 1200 4th St, Santa Rosa, CA 95404Mei Guo ",
         "review_keywords": [
             {
-                "keyword": "vegan",
-                "count": 10
+                "keyword": "Jia Ge ",
+                "count": 11
             },
             {
-                "keyword": "Jia Ge ",
+                "keyword": "vegan",
                 "count": 10
             },
             {
@@ -4588,11 +4567,11 @@
                 "count": 4
             },
             {
-                "keyword": "Nai You ",
+                "keyword": "Guo Dong ",
                 "count": 3
             },
             {
-                "keyword": "Pin Jiu ",
+                "keyword": "Nai You ",
                 "count": 3
             }
         ],
@@ -4608,7 +4587,7 @@
             {
                 "name": "Omelette Express",
                 "link": "https://www.google.com/maps/search/Omelette+Express/@38.437561099999996,-122.72013059999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 931,
+                "reviews": 930,
                 "rating": 4.5,
                 "main_category": "Zao Can "
             },
@@ -4622,7 +4601,7 @@
             {
                 "name": "Cafe Mimosa",
                 "link": "https://www.google.com/maps/search/Cafe+Mimosa/@38.445430099999996,-122.7180027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 331,
+                "reviews": 332,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -4636,7 +4615,7 @@
             {
                 "name": "Village Cafe",
                 "link": "https://www.google.com/maps/search/Village+Cafe/@38.453339299999996,-122.77177540000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 135,
+                "reviews": 136,
                 "rating": 4.3,
                 "main_category": "Mei Guo Cai "
             }
@@ -4700,7 +4679,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             },
@@ -4728,13 +4707,19 @@
         ],
         "rating": 4.4,
         "workday_timing": "05:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 541-955-4700",
         "address": "Dutch Bros Coffee, 919 Hopper Ave, Santa Rosa, CA 95403Mei Guo ",
         "review_keywords": [
             {
                 "keyword": "De Lai Su ",
                 "count": 5
+            },
+            {
+                "keyword": "Chuang ",
+                "count": 3
             },
             {
                 "keyword": "Jiu ",
@@ -4757,7 +4742,7 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.4124546,-122.71279390000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 530,
+                "reviews": 531,
                 "rating": 3.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -4947,14 +4932,14 @@
             {
                 "name": "La Reyna Bakery",
                 "link": "https://www.google.com/maps/search/La+Reyna+Bakery/@38.472079799999996,-122.73910420000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.4,
+                "reviews": 50,
+                "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Red Bird Bakery",
                 "link": "https://www.google.com/maps/search/Red+Bird+Bakery/@38.433382,-122.71404739999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
+                "reviews": 31,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4988,6 +4973,7 @@
         "rating": 4.6,
         "workday_timing": "06:30-16:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi Ri "
         ],
         "phone": "+1 707-540-9864",
@@ -5017,7 +5003,7 @@
         "name": "Nimble & Finn's",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 95,
+        "reviews": 96,
         "competitors": [
             {
                 "name": "Fosters Freeze",
@@ -5067,9 +5053,10 @@
             "Xue Gao Dian ",
             "San Wen Zhi Dian "
         ],
-        "rating": 4.7,
+        "rating": 4.8,
         "workday_timing": "12:00-21:00",
         "closed_on": [
+            "Xing Qi Yi ",
             "Xing Qi San "
         ],
         "phone": "+1 707-666-9590",
@@ -5123,7 +5110,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -5164,9 +5151,11 @@
             "Zheng Liu Ka Pei Ba ",
             "Wang Ba "
         ],
-        "rating": 4.4,
+        "rating": 4.3,
         "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-466-1796",
         "address": "Starbucks, 650 4th St, Santa Rosa, CA 95404Mei Guo ",
         "review_keywords": [
@@ -5176,70 +5165,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x8084476bafdbdc61:0xadbf892f44083b3d!8m2!3d38.4408684!4d-122.712404!16s%2Fg%2F11q91w3m2b!19sChIJYdzbr2tHhIARPTsIRC-Jv60?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJIxOOGv5HhIARxGtMbBMP9D4",
-        "name": "Menchie's Frozen Yogurt & Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 83,
-        "competitors": [
-            {
-                "name": "Frozen Art Gourmet Ice Cream",
-                "link": "https://www.google.com/maps/search/Frozen+Art+Gourmet+Ice+Cream/@38.429894499999996,-122.7264898?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 170,
-                "rating": 4.7,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Baskin-Robbins",
-                "link": "https://www.google.com/maps/search/Baskin-Robbins/@38.457775399999996,-122.7310801?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 154,
-                "rating": 4.1,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Yogurt Farms",
-                "link": "https://www.google.com/maps/search/Yogurt+Farms/@38.452023,-122.717181?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 131,
-                "rating": 4.7,
-                "main_category": "Shuang Dong You Ge "
-            },
-            {
-                "name": "Toppings frozen yogurt and smoothie bar",
-                "link": "https://www.google.com/maps/search/Toppings+frozen+yogurt+and+smoothie+bar/@38.434844399999996,-122.68972339999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 4.9,
-                "main_category": "Tian Pin Dian "
-            }
-        ],
-        "website": "https://www.menchies.com/locations/frozen-yogurt-santa-rosa-marketplace-ca",
-        "owner": {
-            "id": "103473840304508617617",
-            "name": "Menchie's Frozen Yogurt & Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103473840304508617617"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPsZW2JNm4QJlyhXMMh3U0qZeBoZsZ_hmZaGEdS=w408-h351-k-no",
-        "main_category": "Ru Luo Xue Gao Dian ",
-        "categories": [
-            "Ru Luo Xue Gao Dian ",
-            "Ka Pei Dian ",
-            "Tian Pin Can Ting ",
-            "Tian Pin Dian ",
-            "Xue Gao Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 707-545-9866",
-        "address": "Menchie's Frozen Yogurt & Coffee, 2188 Santa Rosa Ave, Santa Rosa, CA 95407Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Kou Wei ",
-                "count": 13
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Menchie%27s+Frozen+Yogurt+%26+Coffee/data=!4m7!3m6!1s0x808447fe1a8e1323:0x3ef40f136c4c6bc4!8m2!3d38.4179901!4d-122.7123754!16s%2Fg%2F11b6zpdxnd!19sChIJIxOOGv5HhIARxGtMbBMP9D4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJozYuOvdIhIARyJLUHdsHpZk",
@@ -5301,7 +5226,9 @@
         ],
         "rating": 4.1,
         "workday_timing": "04:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-545-2738",
         "address": "Starbucks, Shopping Center, 2755 Yulupa Avenue, Bennett Valley Rd, Santa Rosa, CA 95405Mei Guo ",
         "review_keywords": [],
@@ -5317,14 +5244,14 @@
             {
                 "name": "Ike's Love & Sandwiches",
                 "link": "https://www.google.com/maps/search/Ike%27s+Love+%26+Sandwiches/@38.4571732,-122.7167453?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1133,
+                "reviews": 1134,
                 "rating": 4.5,
                 "main_category": "San Wen Zhi "
             },
             {
                 "name": "Mac's",
                 "link": "https://www.google.com/maps/search/Mac%27s/@38.4407972,-122.7129315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
+                "reviews": 538,
                 "rating": 4.7,
                 "main_category": "Shou Shi Dian "
             },
@@ -5366,7 +5293,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-230-2462",
         "address": "Wine Country Cafe & Deli, 5855 Sonoma Hwy, Santa Rosa, CA 95409Mei Guo ",
         "review_keywords": [
@@ -5402,13 +5331,13 @@
         "name": "Land and Water Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 74,
+        "reviews": 75,
         "competitors": [
             {
                 "name": "Dutch Bros Coffee",
                 "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@38.4531645,-122.7170664?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1228,
-                "rating": 4.6,
+                "reviews": 1229,
+                "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -5564,7 +5493,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 62,
+        "reviews": 63,
         "competitors": [
             {
                 "name": "Safeway",
@@ -5615,7 +5544,7 @@
             "Ka Pei Ting ",
             "Zheng Liu Ka Pei Ba "
         ],
-        "rating": 4.2,
+        "rating": 4.1,
         "workday_timing": "05:00-19:00",
         "closed_on": "Open All Days",
         "phone": "+1 707-539-1771",
@@ -5633,8 +5562,8 @@
             {
                 "name": "Dutch Bros Coffee",
                 "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@38.4531645,-122.7170664?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1228,
-                "rating": 4.6,
+                "reviews": 1229,
+                "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -5723,12 +5652,12 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.4656768,-122.65167530000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 62,
-                "rating": 4.2,
+                "reviews": 63,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://locations.dunkindonuts.com/en/ca/santa-rosa/138-a-calistoga-rd/358723?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=358723&y_source=1_MTY0OTg4MzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "website": "https://locations.dunkindonuts.com/en/ca/santa-rosa/138-a-calistoga-rd/358723%3Futm_source%3Dgoogle%26utm_medium%3Dlocal%26utm_campaign%3Dlocalmaps%26utm_content%3D358723%26y_source%3D1_MTY0OTg4MzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
         "owner": {
             "id": "109821767234229503497",
             "name": "Dunkin' (Ye Zhu )",
@@ -5847,14 +5776,14 @@
             {
                 "name": "Piner Cafe",
                 "link": "https://www.google.com/maps/search/Piner+Cafe/@38.4722693,-122.7369609?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1239,
+                "reviews": 1241,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Sam's for Play Cafe & Catering",
                 "link": "https://www.google.com/maps/search/Sam%27s+for+Play+Cafe+%26+Catering/@38.4633797,-122.7280887?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1069,
+                "reviews": 1071,
                 "rating": 4.4,
                 "main_category": "Mei Guo Cai "
             },
@@ -5984,11 +5913,11 @@
         "rating": 4.8,
         "workday_timing": "08:30-14:00",
         "closed_on": [
-            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
             "Xing Qi San ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+1 707-522-2796",
         "address": "SRJC Cafe Rose and Alex Ling Bakery, 1670 Mendocino Ave, Santa Rosa, CA 95401Mei Guo ",
@@ -6014,7 +5943,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6141,7 +6070,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6156,7 +6085,7 @@
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.4408684,-122.71240399999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 86,
-                "rating": 4.4,
+                "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -6300,7 +6229,7 @@
             {
                 "name": "Sarmentine",
                 "link": "https://www.google.com/maps/search/Sarmentine/@38.457920699999995,-122.6740389?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 121,
+                "reviews": 122,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
@@ -6324,7 +6253,7 @@
         "review_keywords": [
             {
                 "keyword": "Ke Song ",
-                "count": 4
+                "count": 5
             },
             {
                 "keyword": "San Ming Zhi ",
@@ -6343,8 +6272,8 @@
             {
                 "name": "Dutch Bros Coffee",
                 "link": "https://www.google.com/maps/search/Dutch+Bros+Coffee/@38.4531645,-122.7170664?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1228,
-                "rating": 4.6,
+                "reviews": 1229,
+                "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -6391,7 +6320,9 @@
         ],
         "rating": 3.5,
         "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-596-5587",
         "address": "Starbucks, 950 Coddingtown Center, Santa Rosa, CA 95401Mei Guo ",
         "review_keywords": [],
@@ -6477,7 +6408,9 @@
         ],
         "rating": 3.6,
         "workday_timing": "11:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-997-2600",
         "address": "ZERO& Santa Rosa, 1071 Santa Rosa Plaza #1021A, Santa Rosa, CA 95401Mei Guo ",
         "review_keywords": [
@@ -6505,7 +6438,7 @@
             {
                 "name": "Target",
                 "link": "https://www.google.com/maps/search/Target/@38.417287,-122.7087842?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 394,
+                "reviews": 395,
                 "rating": 4.1,
                 "main_category": "Bai Huo Gong Si "
             },
@@ -6520,7 +6453,7 @@
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.4408684,-122.71240399999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 86,
-                "rating": 4.4,
+                "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -6546,7 +6479,9 @@
         ],
         "rating": 3.4,
         "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-575-0665",
         "address": "Starbucks, 1980 Santa Rosa Ave, Santa Rosa, CA 95407Mei Guo ",
         "review_keywords": [],
@@ -6559,7 +6494,7 @@
         "is_spending_on_ads": false,
         "reviews": 7,
         "competitors": [],
-        "website": "https://www.loopneighborhood.com/location/dutton-shell/%3Futm_source%3DGBP%26utm_campaign%3D255%2520Dutton%2520Ave%26utm_medium%3Dorganic",
+        "website": "https://www.loopneighborhood.com/location/dutton-shell/?utm_source=GBP&utm_campaign=255%20Dutton%20Ave&utm_medium=organic",
         "owner": {
             "id": "106903989233610249429",
             "name": "Loop Neighborhood Market (Ye Zhu )",
@@ -6655,7 +6590,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6694,37 +6629,13 @@
         ],
         "rating": 4,
         "workday_timing": "08:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-536-9561",
         "address": "Trail House Cafe, 4036 Montgomery Dr, Santa Rosa, CA 95405Mei Guo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Trail+House+Cafe/data=!4m7!3m6!1s0x8084474a35e27c47:0xca29e4e427f37111!8m2!3d38.4534386!4d-122.6728745!16s%2Fg%2F11s9wtxvt1!19sChIJR3ziNUpHhIAREXHzJ-TkKco?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJNVXCW2JHhIAREkJowsFN038",
-        "name": "TeaSide Bubble Tea",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": "https://postmates.com/store/teaside-bubble-tea/Bks3HP6EUNuZ3MhcwsWRXA",
-        "owner": {
-            "id": "113410533272990486102",
-            "name": "TeaSide Bubble Tea (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113410533272990486102"
-        },
-        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIUNS6BnjiQ2O2YanxP8RVDktSCil0YzxUxpLWZqih8QNXtn1IPTfaGKGacpUKbiSs476L2jGlXx_tdkAKjzynbW8UAfjzb5ZeDuMKlizsafA2maJCV6LON2DMFRb7wMAgGniw9iABSkDm1-cIxL2-SexxiqIIfqzSai01mNsKkDePQB169tr132g=w426-h240-k-no",
-        "main_category": "Zhen Zhu Nai Cha Dian ",
-        "categories": [
-            "Zhen Zhu Nai Cha Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "11:30-20:30",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "TeaSide Bubble Tea, 519 4th St, Santa Rosa, CA 95401Mei Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/TeaSide+Bubble+Tea/data=!4m7!3m6!1s0x808447625bc25535:0x7fd34dc1c2684212!8m2!3d38.4402266!4d-122.7151349!16s%2Fg%2F11krpnkwcr!19sChIJNVXCW2JHhIAREkJowsFN038?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ3c1V1K45hIARA4lmOAoue2I",
@@ -6743,7 +6654,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6787,6 +6698,32 @@
         "address": "BigMouthUnique, 24 10th St, Santa Rosa, CA 95401Mei Guo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/BigMouthUnique/data=!4m7!3m6!1s0x808439aed455cddd:0x627b2e0a38668903!8m2!3d38.4431031!4d-122.7252622!16s%2Fg%2F11jcmw8b2z!19sChIJ3c1V1K45hIARA4lmOAoue2I?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJNVXCW2JHhIAREkJowsFN038",
+        "name": "TeaSide Bubble Tea",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [],
+        "website": "https://postmates.com/store/teaside-bubble-tea/Bks3HP6EUNuZ3MhcwsWRXA",
+        "owner": {
+            "id": "113410533272990486102",
+            "name": "TeaSide Bubble Tea (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113410533272990486102"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/AMy85WL6EoXCGQF-jktnNqkCsMh755voWY5Z_9iutCnVTJVpKpks6Tuq8TRY_dPkO2T7DDQSk-V83IIhyES-4GYWCWHFFKo-Y3TFmBYgwrzbrLzdxiIcAwYkANN8aH5Y1RYatPXKX5xDirULDOo3sAfrGTtSaqbbzMUS7n8uJjjZyRYoB95O17euvs5nZA=w426-h240-k-no",
+        "main_category": "Zhen Zhu Nai Cha Dian ",
+        "categories": [
+            "Zhen Zhu Nai Cha Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "11:30-20:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "TeaSide Bubble Tea, 519 4th St, Santa Rosa, CA 95401Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TeaSide+Bubble+Tea/data=!4m7!3m6!1s0x808447625bc25535:0x7fd34dc1c2684212!8m2!3d38.4402266!4d-122.7151349!16s%2Fg%2F11krpnkwcr!19sChIJNVXCW2JHhIAREkJowsFN038?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJhcIx8883hIARThyIRNeKKVo",
@@ -6845,8 +6782,8 @@
         "rating": 5,
         "workday_timing": "08:00-13:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+1 707-524-6600",
         "address": "BI Buzz Cafe, 2240 Mercury Way, Santa Rosa, CA 95407Mei Guo ",
@@ -6892,14 +6829,14 @@
             {
                 "name": "Coffee & Moore",
                 "link": "https://www.google.com/maps/search/Coffee+%26+Moore/@38.402234899999996,-122.81991939999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 240,
+                "reviews": 241,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.404702,-122.826964?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
+                "reviews": 128,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
@@ -6940,7 +6877,9 @@
         ],
         "rating": 3,
         "workday_timing": "08:00-15:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 707-829-9801",
         "address": "WFM Coffee Bar, 6910 McKinley St, Sebastopol, CA 95472Mei Guo ",
         "review_keywords": [],
@@ -6967,11 +6906,11 @@
         "rating": null,
         "workday_timing": "09:00-15:00",
         "closed_on": [
-            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San ",
             "Xing Qi Si ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": null,
         "address": "Myriad Coffee, 1319 Central Ave Suite D, Santa Rosa, CA 95401Mei Guo ",
@@ -7169,7 +7108,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -7251,15 +7190,15 @@
                 "count": 5
             },
             {
+                "keyword": "Huan Jing ",
+                "count": 4
+            },
+            {
                 "keyword": "Bing Sha ",
                 "count": 4
             },
             {
                 "keyword": "Jing Ya ",
-                "count": 3
-            },
-            {
-                "keyword": "Ka Pei Shi ",
                 "count": 3
             }
         ],
@@ -7270,12 +7209,12 @@
         "name": "Sonoma Bagel and Deli Inc.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 191,
+        "reviews": 192,
         "competitors": [
             {
                 "name": "Mac's",
                 "link": "https://www.google.com/maps/search/Mac%27s/@38.4407972,-122.7129315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 537,
+                "reviews": 538,
                 "rating": 4.7,
                 "main_category": "Shou Shi Dian "
             },
@@ -7592,7 +7531,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             }
@@ -7770,7 +7709,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             }
@@ -7789,17 +7728,14 @@
         "rating": 4.6,
         "workday_timing": "07:00-12:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+1 707-541-6020",
         "address": "Colleen's Coffee Shop, 5755 Mountain Hawk Dr #101, Santa Rosa, CA 95409Mei Guo ",
         "review_keywords": [
             {
                 "keyword": "atmosphere",
-                "count": 5
-            },
-            {
-                "keyword": "Zao Can ",
                 "count": 5
             },
             {
@@ -7823,14 +7759,14 @@
             {
                 "name": "The Spinster Sisters",
                 "link": "https://www.google.com/maps/search/The+Spinster+Sisters/@38.4329139,-122.71515559999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 859,
+                "reviews": 860,
                 "rating": 4.5,
                 "main_category": "Xian Dai Mei Shi Liao Li "
             },
             {
                 "name": "The Naked Pig Cafe",
                 "link": "https://www.google.com/maps/search/The+Naked+Pig+Cafe/@38.4415396,-122.71319849999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 470,
+                "reviews": 471,
                 "rating": 4,
                 "main_category": "Xian Dai Mei Shi Liao Li "
             },
@@ -7844,7 +7780,7 @@
             {
                 "name": "Vitality Bowls Santa Rosa",
                 "link": "https://www.google.com/maps/search/Vitality+Bowls+Santa+Rosa/@38.45836,-122.71669999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 77,
+                "reviews": 78,
                 "rating": 4.1,
                 "main_category": "Jian Kang Shi Pin "
             }
@@ -7985,7 +7921,7 @@
             {
                 "name": "La Michoacana Natural Ice Cream",
                 "link": "https://www.google.com/maps/search/La+Michoacana+Natural+Ice+Cream/@38.3098342,-122.47912249999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 312,
+                "reviews": 313,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -8040,7 +7976,7 @@
             {
                 "name": "Crooks Coffee",
                 "link": "https://www.google.com/maps/search/Crooks+Coffee/@38.441497,-122.7144934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 338,
+                "reviews": 340,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -8087,8 +8023,8 @@
         "rating": 5,
         "workday_timing": "07:00-16:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+1 707-953-9998",
         "address": "Coffee Rx, 1162 Montgomery Dr, Santa Rosa, CA 95405Mei Guo ",
@@ -8105,7 +8041,7 @@
             {
                 "name": "Piner Cafe",
                 "link": "https://www.google.com/maps/search/Piner+Cafe/@38.4722693,-122.7369609?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1239,
+                "reviews": 1241,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -8133,7 +8069,7 @@
             {
                 "name": "Land and Water Coffee",
                 "link": "https://www.google.com/maps/search/Land+and+Water+Coffee/@38.4490135,-122.72747760000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.7,
                 "main_category": "Ka Pei Hong Bei Shang "
             }
@@ -8156,8 +8092,8 @@
         "rating": 4,
         "workday_timing": "12:00-18:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": null,
         "address": "Piner & Coffey To Go, 3215 Coffey Ln, Santa Rosa, CA 95403Mei Guo ",
@@ -8185,8 +8121,8 @@
         "rating": 5,
         "workday_timing": "09:00-14:00",
         "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+1 707-545-4000",
         "address": "The Grove Cafe, 3033 Cleveland Ave, Santa Rosa, CA 95403Mei Guo ",
