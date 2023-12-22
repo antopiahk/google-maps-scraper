@@ -4,33 +4,33 @@
         "name": "Cafe Gerbeaud",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 8861,
+        "reviews": 8889,
         "competitors": [
             {
                 "name": "Zoo Cafe",
                 "link": "https://www.google.com/maps/search/Zoo+Caf%C3%A9/@47.489513699999996,19.0584725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5908,
+                "reviews": 5920,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Budapest Baristas",
                 "link": "https://www.google.com/maps/search/Budapest+Baristas/@47.4925375,19.0606983?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1615,
+                "reviews": 1618,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Szamos Gourmet Haz",
                 "link": "https://www.google.com/maps/search/Szamos+Gourmet+H%C3%A1z/@47.495849299999996,19.0505416?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1531,
+                "reviews": 1533,
                 "rating": 4.2,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe Brunch Budapest - Fovam ter",
                 "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+F%C5%91v%C3%A1m+t%C3%A9r/@47.487468799999995,19.0567527?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 782,
+                "reviews": 791,
                 "rating": 4.5,
                 "main_category": "Zao Wu Can "
             },
@@ -80,40 +80,40 @@
         "name": "Cat Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 7496,
+        "reviews": 7509,
         "competitors": [
             {
                 "name": "Niu Yue Gong Dian Ka Pei ",
                 "link": "https://www.google.com/maps/search/%E7%B4%90%E7%B4%84%E5%AE%AE%E6%AE%BF%E5%92%96%E5%95%A1/@47.4987259,19.0704556?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29411,
+                "reviews": 29548,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Gerbeaud",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Gerbeaud/@47.496964000000006,19.0502535?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8855,
+                "reviews": 8885,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zoo Cafe",
                 "link": "https://www.google.com/maps/search/Zoo+Caf%C3%A9/@47.489513699999996,19.0584725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5908,
+                "reviews": 5920,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "CAT Budapest",
                 "link": "https://www.google.com/maps/search/CAT+Budapest/@47.4984654,19.0591701?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1494,
+                "reviews": 1495,
                 "rating": 4.2,
                 "main_category": "Ju Le Bu "
             },
             {
                 "name": "CORTO",
                 "link": "https://www.google.com/maps/search/CORTO/@47.5043566,19.058632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 452,
+                "reviews": 453,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -131,25 +131,29 @@
         ],
         "rating": 4.4,
         "workday_timing": "10:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 617 3301",
         "address": "Budapest, Cat Cafe, Revay u. 3, 1065 Xiong Ya Li ",
         "review_keywords": [
             {
                 "keyword": "Ke Ai ",
-                "count": 202
+                "count": 204
             },
             {
                 "keyword": "Shui ",
                 "count": 157
             },
             {
-                "keyword": "Xiang Fa ",
-                "count": 33
-            },
-            {
                 "keyword": "Ban Shou Li ",
                 "count": 19
+            },
+            {
+                "keyword": "Wan Ju ",
+                "count": 15
             },
             {
                 "keyword": "Gui Ze ",
@@ -157,7 +161,11 @@
             },
             {
                 "keyword": "Man You ",
-                "count": 11
+                "count": 12
+            },
+            {
+                "keyword": "Hao Qi ",
+                "count": 10
             }
         ],
         "link": "https://www.google.com/maps/place/Cat+Cafe/data=!4m7!3m6!1s0x4741dc6afcffefad:0xc49dbdd4d9c36290!8m2!3d47.500782!4d19.0557334!16s%2Fg%2F12ml2yq71!19sChIJre___GrcQUcRkGLD2dS9ncQ?authuser=0&hl=zh-TW&rclk=1"
@@ -167,33 +175,33 @@
         "name": "Anna Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 6300,
+        "reviews": 6310,
         "competitors": [
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.488715,19.056829?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3200,
+                "reviews": 3202,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Szamos Gourmet Haz",
                 "link": "https://www.google.com/maps/search/Szamos+Gourmet+H%C3%A1z/@47.495849299999996,19.0505416?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1531,
+                "reviews": 1533,
                 "rating": 4.2,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Cafe Brunch Budapest - Fovam ter",
                 "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+F%C5%91v%C3%A1m+t%C3%A9r/@47.487468799999995,19.0567527?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 782,
+                "reviews": 791,
                 "rating": 4.5,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Old Street Cafe",
                 "link": "https://www.google.com/maps/search/Old+Street+Caf%C3%A9/@47.487921199999995,19.057552200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 437,
+                "reviews": 438,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -225,7 +233,7 @@
         "review_keywords": [
             {
                 "keyword": "Lu You ",
-                "count": 62
+                "count": 63
             },
             {
                 "keyword": "Diao Jiu ",
@@ -233,7 +241,7 @@
             },
             {
                 "keyword": "Fu Wu Fei ",
-                "count": 40
+                "count": 41
             },
             {
                 "keyword": "Xiao Fei ",
@@ -259,19 +267,19 @@
         "name": "Cafe Vian Liszt Ferenc ter",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3422,
+        "reviews": 3424,
         "competitors": [
             {
                 "name": "Brunch Bistro Budapest",
                 "link": "https://www.google.com/maps/search/Brunch+Bistro+Budapest/@47.502102,19.0552441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1611,
+                "reviews": 1620,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Yes it is vegan 2",
                 "link": "https://www.google.com/maps/search/Yes+it+is+vegan+2/@47.5038817,19.063560499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 489,
+                "reviews": 491,
                 "rating": 4.7,
                 "main_category": "Yan Ge Su Shi Liao Li "
             },
@@ -285,7 +293,7 @@
             {
                 "name": "Cafe Liszt",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Liszt/@47.4998189,19.053403199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
+                "reviews": 37,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -335,8 +343,8 @@
                 "count": 16
             },
             {
-                "keyword": "Xin ",
-                "count": 11
+                "keyword": "Ning Meng Ta ",
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Vian+Liszt+Ferenc+t%C3%A9r/data=!4m7!3m6!1s0x4741dc6e936d712d:0xaa4a33ea07ed6ef3!8m2!3d47.5037499!4d19.0638482!16s%2Fg%2F1v3klvqf!19sChIJLXFtk27cQUcR827tB-ozSqo?authuser=0&hl=zh-TW&rclk=1"
@@ -346,12 +354,12 @@
         "name": "BITE bakery cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3324,
+        "reviews": 3344,
         "competitors": [
             {
                 "name": "Harom Tarka Macska",
                 "link": "https://www.google.com/maps/search/H%C3%A1rom+Tarka+Macska/@47.5059069,19.0621375?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -420,26 +428,26 @@
         "name": "Cafe Frei Karoly Korut",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2817,
+        "reviews": 2818,
         "competitors": [
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.488715,19.056829?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3200,
+                "reviews": 3202,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Fekete",
                 "link": "https://www.google.com/maps/search/Fekete/@47.493540599999996,19.0599201?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2082,
+                "reviews": 2086,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Frei Corvin Plaza",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Corvin+Plaza/@47.485957199999994,19.0743708?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1370,
+                "reviews": 1371,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -515,34 +523,34 @@
         "name": "Madal Ka Pei Guan ",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2687,
+        "reviews": 2691,
         "competitors": [
             {
-                "name": "Espresso Embassy",
-                "link": "https://www.google.com/maps/search/Espresso+Embassy/@47.501940999999995,19.049827999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3855,
+                "name": "espresso embassy",
+                "link": "https://www.google.com/maps/search/espresso+embassy/@47.501940999999995,19.049827999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3861,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Budapest Baristas",
                 "link": "https://www.google.com/maps/search/Budapest+Baristas/@47.4925375,19.0606983?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1615,
+                "reviews": 1618,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Mantra Specialty Coffee Minibar",
                 "link": "https://www.google.com/maps/search/Mantra+Specialty+Coffee+Minibar/@47.490061999999995,19.0568764?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 942,
+                "reviews": 946,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Kontakt - speciality coffeeshop",
                 "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 866,
-                "rating": 4.7,
+                "reviews": 868,
+                "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
@@ -607,33 +615,33 @@
         "name": "Caffe Gian Mario",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2662,
+        "reviews": 2668,
         "competitors": [
             {
                 "name": "Trattoria Pomo D'Oro",
                 "link": "https://www.google.com/maps/search/Trattoria+Pomo+D%27Oro/@47.5018806,19.048272?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6974,
+                "reviews": 6989,
                 "rating": 4.6,
                 "main_category": "Yi Da Li Cai "
             },
             {
                 "name": "Il Terzo Cerchio",
                 "link": "https://www.google.com/maps/search/Il+Terzo+Cerchio/@47.496634099999994,19.066402699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3996,
-                "rating": 4.4,
+                "reviews": 4002,
+                "rating": 4.5,
                 "main_category": "Yi Da Li Cai "
             },
             {
                 "name": "Cucina the Italian Kitchen",
                 "link": "https://www.google.com/maps/search/Cucina+the+Italian+Kitchen/@47.4940814,19.0527625?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3265,
+                "reviews": 3274,
                 "rating": 4.1,
                 "main_category": "Yi Da Li Cai "
             },
             {
                 "name": "Da Mario Budapest",
                 "link": "https://www.google.com/maps/search/Da+Mario+Budapest/@47.5052861,19.049382599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2148,
+                "reviews": 2151,
                 "rating": 4.4,
                 "main_category": "Yi Da Li Cai "
             },
@@ -665,6 +673,9 @@
         "rating": 4.6,
         "workday_timing": "11:00-21:45",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Ri "
         ],
         "phone": "+36 30 465 0675",
@@ -690,19 +701,19 @@
         "name": "My Little Melbourne Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2492,
+        "reviews": 2494,
         "competitors": [
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -716,7 +727,7 @@
             {
                 "name": "Hivatal Kavezo",
                 "link": "https://www.google.com/maps/search/Hivatal+K%C3%A1v%C3%A9z%C3%B3/@47.49835220000001,19.0583484?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 332,
+                "reviews": 333,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -747,7 +758,7 @@
         "review_keywords": [
             {
                 "keyword": "Qia Bu Qi Nuo ",
-                "count": 61
+                "count": 62
             },
             {
                 "keyword": "Gao ",
@@ -755,23 +766,23 @@
             },
             {
                 "keyword": "flat white",
-                "count": 50
+                "count": 51
             },
             {
                 "keyword": "Dou Zi ",
-                "count": 19
+                "count": 21
             },
             {
                 "keyword": "Wen Qing ",
                 "count": 16
             },
             {
-                "keyword": "vegan",
-                "count": 9
+                "keyword": "Tang ",
+                "count": 15
             },
             {
-                "keyword": "Xin ",
-                "count": 6
+                "keyword": "Niang Zao ",
+                "count": 10
             }
         ],
         "link": "https://www.google.com/maps/place/My+Little+Melbourne+Coffee/data=!4m7!3m6!1s0x4741dc41fee060af:0xe4e77b0d7ae6e9b4!8m2!3d47.4977226!4d19.0577454!16s%2Fg%2F11b66c18n9!19sChIJr2Dg_kHcQUcRtOnmeg175-Q?authuser=0&hl=zh-TW&rclk=1"
@@ -781,40 +792,40 @@
         "name": "Madal Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2351,
+        "reviews": 2353,
         "competitors": [
             {
                 "name": "Mantra Specialty Coffee Minibar",
                 "link": "https://www.google.com/maps/search/Mantra+Specialty+Coffee+Minibar/@47.490061999999995,19.0568764?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 942,
+                "reviews": 946,
                 "rating": 4.8,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Kontakt - speciality coffeeshop",
-                "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 866,
-                "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "SixLetter Coffee Co. - Specialty Coffee Bar & Breakfast, Brunch",
                 "link": "https://www.google.com/maps/search/SixLetter+Coffee+Co.+-+Specialty+Coffee+Bar+%26+Breakfast%2C+Brunch/@47.507418,19.052829?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 865,
+                "reviews": 869,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
+                "name": "Kontakt - speciality coffeeshop",
+                "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 868,
+                "rating": 4.6,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
                 "name": "Cafe Bene",
                 "link": "https://www.google.com/maps/search/Cafe+Bene/@47.507883199999995,19.0537584?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 407,
+                "reviews": 409,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Madal Food - Vegan Etterem - Vegan Pizza specialitasok",
                 "link": "https://www.google.com/maps/search/Madal+Food+-+Vegan+%C3%89tterem+-+Veg%C3%A1n+Pizza+specialit%C3%A1sok/@47.507418,19.0491962?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.6,
                 "main_category": "Su Shi Liao Li "
             }
@@ -839,11 +850,19 @@
         "review_keywords": [
             {
                 "keyword": "vegan",
-                "count": 77
+                "count": 79
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 60
             },
             {
                 "keyword": "Yi Da Li Mian ",
                 "count": 23
+            },
+            {
+                "keyword": "Bi Dian ",
+                "count": 19
             },
             {
                 "keyword": "Qi Si Dan Gao ",
@@ -852,14 +871,6 @@
             {
                 "keyword": "Bu Lang Ni ",
                 "count": 10
-            },
-            {
-                "keyword": "Dian Nao ",
-                "count": 7
-            },
-            {
-                "keyword": "Xue Sheng ",
-                "count": 7
             }
         ],
         "link": "https://www.google.com/maps/place/Madal+Cafe/data=!4m7!3m6!1s0x4741dc1186b19695:0x56846b8fb91853b0!8m2!3d47.5074082!4d19.0491092!16s%2Fg%2F11c70g_zjy!19sChIJlZaxhhHcQUcRsFMYuY9rhFY?authuser=0&hl=zh-TW&rclk=1"
@@ -869,12 +880,12 @@
         "name": "California Coffee Company",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2236,
+        "reviews": 2239,
         "competitors": [
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -935,6 +946,10 @@
                 "count": 13
             },
             {
+                "keyword": "Lu You ",
+                "count": 13
+            },
+            {
                 "keyword": "Xue Sheng ",
                 "count": 11
             },
@@ -945,10 +960,6 @@
             {
                 "keyword": "Mi Ma ",
                 "count": 8
-            },
-            {
-                "keyword": "Shou Ju ",
-                "count": 7
             },
             {
                 "keyword": "Wei Sheng Zhi ",
@@ -962,27 +973,27 @@
         "name": "Muvesz Coffee House (Artist Cafe)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2036,
+        "reviews": 2047,
         "competitors": [
             {
                 "name": "Fekete",
                 "link": "https://www.google.com/maps/search/Fekete/@47.493540599999996,19.0599201?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2082,
+                "reviews": 2086,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Budapest Baristas",
                 "link": "https://www.google.com/maps/search/Budapest+Baristas/@47.4925375,19.0606983?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1615,
+                "reviews": 1618,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Muvesz Cukraszda",
                 "link": "https://www.google.com/maps/search/M%C3%BBv%C3%A9sz+Cukr%C3%A1szda/@47.502715599999995,19.0599001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 4.1,
+                "reviews": 36,
+                "rating": 4,
                 "main_category": "Tang Guo Gao Bing Dian "
             }
         ],
@@ -1006,11 +1017,7 @@
         "review_keywords": [
             {
                 "keyword": "Tian Dian ",
-                "count": 55
-            },
-            {
-                "keyword": "Gao ",
-                "count": 38
+                "count": 56
             },
             {
                 "keyword": "Ge Ju ",
@@ -1018,7 +1025,7 @@
             },
             {
                 "keyword": "Li Shi ",
-                "count": 12
+                "count": 13
             },
             {
                 "keyword": "Zhuang Xiu ",
@@ -1032,19 +1039,19 @@
         "name": "Starbucks Kiraly",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 1894,
+        "reviews": 1902,
         "competitors": [
             {
                 "name": "Starbucks Oktogon",
                 "link": "https://www.google.com/maps/search/Starbucks+Oktogon/@47.5056727,19.0632441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1180,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Blue Bird Cafe",
                 "link": "https://www.google.com/maps/search/Blue+Bird+Cafe/@47.4982422,19.0597072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
+                "reviews": 112,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1082,7 +1089,7 @@
             "Ka Pei Dian "
         ],
         "rating": 4.2,
-        "workday_timing": "07:00-20:00",
+        "workday_timing": "07:00-21:00",
         "closed_on": "Open All Days",
         "phone": "+36 70 682 1907",
         "address": "Budapest, Starbucks Kiraly, Erzsebet krt. 53, 1073 Xiong Ya Li ",
@@ -1093,7 +1100,7 @@
             },
             {
                 "keyword": "Jing Yan ",
-                "count": 14
+                "count": 15
             },
             {
                 "keyword": "wifi",
@@ -1120,8 +1127,8 @@
                 "count": 8
             },
             {
-                "keyword": "Zao Shang ",
-                "count": 8
+                "keyword": "Ming ",
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Starbucks+Kir%C3%A1ly/data=!4m7!3m6!1s0x4741dd8aa59b89f7:0x969fb24fb5c39cf7!8m2!3d47.5032903!4d19.066085!16s%2Fg%2F11h0xk0bs!19sChIJ94mbpYrdQUcR95zDtU-yn5Y?authuser=0&hl=zh-TW&rclk=1"
@@ -1131,40 +1138,40 @@
         "name": "Lion's Locker",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1861,
+        "reviews": 1867,
         "competitors": [
             {
                 "name": "Cirkusz Cafe",
                 "link": "https://www.google.com/maps/search/Cirkusz+Caf%C3%A9/@47.49845690000001,19.061539000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4814,
+                "reviews": 4824,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Zoska Reggelizo Kavezo",
                 "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1968,
+                "reviews": 1970,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Szimply - Breakfast & brunch",
                 "link": "https://www.google.com/maps/search/Szimply+-+Breakfast+%26+brunch/@47.4956931,19.058008200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1743,
+                "reviews": 1744,
                 "rating": 4.4,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Pantry Brunch & Coffee",
                 "link": "https://www.google.com/maps/search/Pantry+Brunch+%26+Coffee/@47.49536080000001,19.0617072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 840,
+                "reviews": 841,
                 "rating": 4.7,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Portobello Coffee, Brunch & Wine",
                 "link": "https://www.google.com/maps/search/Portobello+Coffee%2C+Brunch+%26+Wine/@47.491349199999995,19.0560895?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 609,
+                "reviews": 610,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
@@ -1188,7 +1195,12 @@
         ],
         "rating": 4.8,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 593 1994",
         "address": "Budapest, Lion's Locker, Vasvari Pal u. 11, 1061 Xiong Ya Li ",
         "review_keywords": [
@@ -1228,26 +1240,26 @@
         "name": "Madal Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1850,
+        "reviews": 1855,
         "competitors": [
             {
                 "name": "9BAR",
                 "link": "https://www.google.com/maps/search/9BAR/@47.501931,19.0559108?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1689,
+                "reviews": 1692,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Bene",
                 "link": "https://www.google.com/maps/search/Cafe+Bene/@47.507883199999995,19.0537584?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 407,
+                "reviews": 409,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1307,7 +1319,7 @@
             },
             {
                 "keyword": "Bi Dian ",
-                "count": 6
+                "count": 7
             }
         ],
         "link": "https://www.google.com/maps/place/Madal+Cafe/data=!4m7!3m6!1s0x4741dc0f18b5f975:0x9698d8265795f548!8m2!3d47.513285!4d19.0496282!16s%2Fg%2F12jg946g5!19sChIJdfm1GA_cQUcRSPWVVybYmJY?authuser=0&hl=zh-TW&rclk=1"
@@ -1317,19 +1329,19 @@
         "name": "BITE bakery cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1708,
+        "reviews": 1711,
         "competitors": [
             {
                 "name": "Brunch Bistro Budapest",
                 "link": "https://www.google.com/maps/search/Brunch+Bistro+Budapest/@47.502102,19.0552441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1611,
+                "reviews": 1620,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Nai You Xiong Di Mian Bao Dian He Xiao Jiu Guan ",
                 "link": "https://www.google.com/maps/search/%E5%A5%B6%E6%B2%B9%E5%85%84%E5%BC%9F%E9%BA%B5%E5%8C%85%E5%BA%97%E5%92%8C%E5%B0%8F%E9%85%92%E9%A4%A8/@47.485673,19.0621707?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1214,
+                "reviews": 1215,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1418,19 +1430,19 @@
         "name": "9BAR",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1690,
+        "reviews": 1695,
         "competitors": [
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "The Goat Herder - Istvan utca",
                 "link": "https://www.google.com/maps/search/The+Goat+Herder+-+Istv%C3%A1n+utca/@47.5029806,19.0777361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1426,
+                "reviews": 1427,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1444,7 +1456,7 @@
             {
                 "name": "Steamhouse Cafe",
                 "link": "https://www.google.com/maps/search/Steamhouse+Cafe/@47.506084699999995,19.038018299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 435,
+                "reviews": 436,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -1508,45 +1520,45 @@
         "name": "Cafe Brunch Budapest - Opera",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1646,
+        "reviews": 1654,
         "competitors": [
             {
                 "name": "Cirkusz Cafe",
                 "link": "https://www.google.com/maps/search/Cirkusz+Caf%C3%A9/@47.49845690000001,19.061539000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4814,
+                "reviews": 4824,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Szimply - Breakfast & brunch",
                 "link": "https://www.google.com/maps/search/Szimply+-+Breakfast+%26+brunch/@47.4956931,19.058008200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1743,
+                "reviews": 1744,
                 "rating": 4.4,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Brunch Bistro Budapest",
                 "link": "https://www.google.com/maps/search/Brunch+Bistro+Budapest/@47.502102,19.0552441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1611,
+                "reviews": 1620,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Pantry Brunch & Coffee",
                 "link": "https://www.google.com/maps/search/Pantry+Brunch+%26+Coffee/@47.49536080000001,19.0617072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 840,
+                "reviews": 841,
                 "rating": 4.7,
                 "main_category": "Zao Wu Can "
             }
         ],
-        "website": "https://www.cafebrunchbudapest.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D18069991979532651057",
+        "website": "https://www.cafebrunchbudapest.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=18069991979532651057",
         "owner": {
             "id": "102896485305196888846",
             "name": "Cafe Brunch Budapest - Opera (Ye Zhu )",
@@ -1568,7 +1580,7 @@
         "review_keywords": [
             {
                 "keyword": "Bei Guo ",
-                "count": 15
+                "count": 16
             },
             {
                 "keyword": "Liu Cheng Zhi ",
@@ -1587,8 +1599,8 @@
                 "count": 10
             },
             {
-                "keyword": "Shui Bo Dan ",
-                "count": 8
+                "keyword": "Gui Yu ",
+                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/Cafe+Brunch+Budapest+-+Opera/data=!4m7!3m6!1s0x4741dc6cc7390177:0xaf93786eef655854!8m2!3d47.5046727!4d19.0564154!16s%2Fg%2F11fxf0q53q!19sChIJdwE5x2zcQUcRVFhl7254k68?authuser=0&hl=zh-TW&rclk=1"
@@ -1598,12 +1610,12 @@
         "name": "Ecocafe - organic specialty coffee shop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1463,
+        "reviews": 1466,
         "competitors": [
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -1654,7 +1666,11 @@
             },
             {
                 "keyword": "Ke Song ",
-                "count": 18
+                "count": 19
+            },
+            {
+                "keyword": "Sha La ",
+                "count": 16
             },
             {
                 "keyword": "Mo Cha ",
@@ -1667,10 +1683,6 @@
             {
                 "keyword": "flat white",
                 "count": 6
-            },
-            {
-                "keyword": "Liu Cheng Zhi ",
-                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Ecocafe+-+organic+specialty+coffee+shop/data=!4m7!3m6!1s0x4741dc76d4fa8d61:0x58fc340a63bb47da!8m2!3d47.5076369!4d19.0665132!16s%2Fg%2F1hhvnjqbg!19sChIJYY361HbcQUcR2ke7Ywo0_Fg?authuser=0&hl=zh-TW&rclk=1"
@@ -1680,12 +1692,12 @@
         "name": "Cafe Frei Eiffel square",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1445,
+        "reviews": 1448,
         "competitors": [
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.488715,19.056829?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3200,
+                "reviews": 3202,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1699,7 +1711,7 @@
             {
                 "name": "Cafe Frei Savoya park",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Savoya+park/@47.435683100000006,19.040236?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
+                "reviews": 85,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1737,10 +1749,14 @@
             },
             {
                 "keyword": "Ka Pei Shi ",
-                "count": 7
+                "count": 8
             },
             {
                 "keyword": "Gao ",
+                "count": 6
+            },
+            {
+                "keyword": "Nai You ",
                 "count": 6
             },
             {
@@ -1752,23 +1768,19 @@
                 "count": 5
             },
             {
-                "keyword": "Nai You ",
-                "count": 5
+                "keyword": "Zhen Guo ",
+                "count": 3
             },
             {
-                "keyword": "atmosphere",
-                "count": 4
-            },
-            {
-                "keyword": "Kou Wei ",
-                "count": 4
-            },
-            {
-                "keyword": "Zhuo ",
-                "count": 4
+                "keyword": "Huo Che ",
+                "count": 3
             },
             {
                 "keyword": "Gan Mou ",
+                "count": 3
+            },
+            {
+                "keyword": "Ke Ke ",
                 "count": 3
             }
         ],
@@ -1779,33 +1791,33 @@
         "name": "The Goat Herder - Istvan utca",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1426,
+        "reviews": 1427,
         "competitors": [
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "London Coffee Society",
                 "link": "https://www.google.com/maps/search/London+Coffee+Society/@47.496525999999996,19.066485?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2398,
+                "reviews": 2404,
                 "rating": 4.7,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Pantry Brunch & Coffee",
                 "link": "https://www.google.com/maps/search/Pantry+Brunch+%26+Coffee/@47.49536080000001,19.0617072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 840,
+                "reviews": 841,
                 "rating": 4.7,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Selah Coffee House - Specialty Coffee",
                 "link": "https://www.google.com/maps/search/Selah+Coffee+House+-+Specialty+Coffee/@47.5001119,19.057277799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 726,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1849,18 +1861,14 @@
             },
             {
                 "keyword": "Yin Le ",
-                "count": 23
+                "count": 24
             },
             {
                 "keyword": "Bing Gan ",
-                "count": 22
+                "count": 23
             },
             {
                 "keyword": "Shui Guo Sha La ",
-                "count": 8
-            },
-            {
-                "keyword": "Liao Tian ",
                 "count": 8
             }
         ],
@@ -1871,33 +1879,33 @@
         "name": "Cafe Zsivago",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1315,
+        "reviews": 1318,
         "competitors": [
             {
                 "name": "Cafe Gerbeaud",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Gerbeaud/@47.496964000000006,19.0502535?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8855,
+                "reviews": 8885,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zoo Cafe",
                 "link": "https://www.google.com/maps/search/Zoo+Caf%C3%A9/@47.489513699999996,19.0584725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5908,
+                "reviews": 5920,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Selah Coffee House - Specialty Coffee",
                 "link": "https://www.google.com/maps/search/Selah+Coffee+House+-+Specialty+Coffee/@47.5001119,19.057277799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 726,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zaj Cafe",
                 "link": "https://www.google.com/maps/search/Zaj+Caf%C3%A9/@47.506835599999995,19.0598414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 4.9,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1935,6 +1943,10 @@
                 "count": 30
             },
             {
+                "keyword": "Shu ",
+                "count": 18
+            },
+            {
                 "keyword": "Hong Jiu ",
                 "count": 15
             },
@@ -1955,15 +1967,109 @@
                 "count": 10
             },
             {
-                "keyword": "Xian Jin ",
-                "count": 8
-            },
-            {
                 "keyword": "Diao Jiu Shi ",
                 "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Zsiv%C3%A1g%C3%B3/data=!4m7!3m6!1s0x4741dc6ea7ea6d19:0x51df95fcd02406e!8m2!3d47.5030967!4d19.0617097!16s%2Fg%2F11b5wkdw64!19sChIJGW3qp27cQUcRbkACzV_5HQU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7QdElF7dQUcRvEipWoTpXk4",
+        "name": "Cosy Cafe Budapest",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1239,
+        "competitors": [
+            {
+                "name": "Cirkusz Cafe",
+                "link": "https://www.google.com/maps/search/Cirkusz+Caf%C3%A9/@47.49845690000001,19.061539000000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4824,
+                "rating": 4.7,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Zoska Reggelizo Kavezo",
+                "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1970,
+                "rating": 4.3,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Cafe Brunch Budapest - Opera",
+                "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+Opera/@47.5046727,19.0564154?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1651,
+                "rating": 4.3,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Brunch Bistro Budapest",
+                "link": "https://www.google.com/maps/search/Brunch+Bistro+Budapest/@47.502102,19.0552441?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1620,
+                "rating": 4.3,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Csengery Reggelizo es Kavezo",
+                "link": "https://www.google.com/maps/search/Csengery+Reggeliz%C5%91+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.5038963,19.068692199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 447,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.cosycafe.hu/",
+        "owner": {
+            "id": "110788341738566887870",
+            "name": "Cosy Cafe Budapest (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110788341738566887870"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnQjTC3orfKQ3N5YfCSy79LsnvqkU5jBEt_Cdj=w426-h240-k-no",
+        "main_category": "Zao Can Can Ting ",
+        "categories": [
+            "Zao Can Can Ting ",
+            "Zao Wu Can Can Ting ",
+            "Ka Pei Ting ",
+            "Can Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 990 9491",
+        "address": "Budapest, Cosy Cafe Budapest, Szondi u. 11, 1067 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Wu Can ",
+                "count": 73
+            },
+            {
+                "keyword": "Ka Pei Ting ",
+                "count": 40
+            },
+            {
+                "keyword": "vegan",
+                "count": 22
+            },
+            {
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 21
+            },
+            {
+                "keyword": "Ke Song ",
+                "count": 17
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 15
+            },
+            {
+                "keyword": "Bing Sha ",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cosy+Caf%C3%A9+Budapest/data=!4m7!3m6!1s0x4741dd5e944407ed:0x4e5ee9845aa948bc!8m2!3d47.5085239!4d19.0606462!16s%2Fg%2F11fr6x5x8c!19sChIJ7QdElF7dQUcRvEipWoTpXk4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJTx6zfG3cQUcRb-OgkR8xxSU",
@@ -1975,28 +2081,28 @@
             {
                 "name": "Cafe Frei Eiffel square",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eiffel+square/@47.5097163,19.058112899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1445,
+                "reviews": 1448,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Starbucks Nyugati",
                 "link": "https://www.google.com/maps/search/Starbucks+Nyugati/@47.509718299999996,19.0559567?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 779,
+                "reviews": 798,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "CORTO",
                 "link": "https://www.google.com/maps/search/CORTO/@47.5043566,19.058632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 452,
+                "reviews": 453,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zsolnay Kavehaz",
                 "link": "https://www.google.com/maps/search/Zsolnay+K%C3%A1v%C3%A9h%C3%A1z/@47.5081644,19.0595859?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 217,
+                "reviews": 218,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -2021,7 +2127,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 30 465 2195",
         "address": "Budapest, California Coffee Company, Terez krt. 38, 1066 Xiong Ya Li ",
         "review_keywords": [
@@ -2065,117 +2173,23 @@
         "link": "https://www.google.com/maps/place/California+Coffee+Company/data=!4m7!3m6!1s0x4741dc6d7cb31e4f:0x25c5311f91a0e36f!8m2!3d47.5073655!4d19.0600162!16s%2Fg%2F1tl9lc1w!19sChIJTx6zfG3cQUcRb-OgkR8xxSU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ7QdElF7dQUcRvEipWoTpXk4",
-        "name": "Cosy Cafe Budapest",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1232,
-        "competitors": [
-            {
-                "name": "Cirkusz Cafe",
-                "link": "https://www.google.com/maps/search/Cirkusz+Caf%C3%A9/@47.49845690000001,19.061539000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4814,
-                "rating": 4.7,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Zoska Reggelizo Kavezo",
-                "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1968,
-                "rating": 4.3,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Cafe Brunch Budapest - Opera",
-                "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+Opera/@47.5046727,19.0564154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1645,
-                "rating": 4.3,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Brunch Bistro Budapest",
-                "link": "https://www.google.com/maps/search/Brunch+Bistro+Budapest/@47.502102,19.0552441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1611,
-                "rating": 4.3,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Csengery Reggelizo es Kavezo",
-                "link": "https://www.google.com/maps/search/Csengery+Reggeliz%C5%91+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.5038963,19.068692199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 447,
-                "rating": 4.9,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.cosycafe.hu/",
-        "owner": {
-            "id": "110788341738566887870",
-            "name": "Cosy Cafe Budapest (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110788341738566887870"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnQjTC3orfKQ3N5YfCSy79LsnvqkU5jBEt_Cdj=w426-h240-k-no",
-        "main_category": "Zao Can Can Ting ",
-        "categories": [
-            "Zao Can Can Ting ",
-            "Zao Wu Can Can Ting ",
-            "Ka Pei Ting ",
-            "Can Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": "08:00-15:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 990 9491",
-        "address": "Budapest, Cosy Cafe Budapest, Szondi u. 11, 1067 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Zao Wu Can ",
-                "count": 71
-            },
-            {
-                "keyword": "Ka Pei Ting ",
-                "count": 39
-            },
-            {
-                "keyword": "vegan",
-                "count": 22
-            },
-            {
-                "keyword": "Ban Ni Di Ke Dan ",
-                "count": 21
-            },
-            {
-                "keyword": "Ke Song ",
-                "count": 16
-            },
-            {
-                "keyword": "Qia Bu Qi Nuo ",
-                "count": 15
-            },
-            {
-                "keyword": "Bing Sha ",
-                "count": 7
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Cosy+Caf%C3%A9+Budapest/data=!4m7!3m6!1s0x4741dd5e944407ed:0x4e5ee9845aa948bc!8m2!3d47.5085239!4d19.0606462!16s%2Fg%2F11fr6x5x8c!19sChIJ7QdElF7dQUcRvEipWoTpXk4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ79OKdW7cQUcRQs4FUnxD95k",
         "name": "Starbucks Oktogon",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 1175,
+        "reviews": 1180,
         "competitors": [
             {
                 "name": "BITE bakery cafe",
                 "link": "https://www.google.com/maps/search/BITE+bakery+caf%C3%A9/@47.5056985,19.0633889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3314,
+                "reviews": 3332,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Starbucks Gozsdu",
                 "link": "https://www.google.com/maps/search/Starbucks+Gozsdu/@47.499317,19.058359799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 876,
+                "reviews": 877,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -2267,26 +2281,26 @@
         "name": "California Coffee Company",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1127,
+        "reviews": 1128,
         "competitors": [
             {
                 "name": "Cafe Vian Liszt Ferenc ter",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Vian+Liszt+Ferenc+t%C3%A9r/@47.503749899999995,19.0638482?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3422,
+                "reviews": 3423,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Selah Coffee House - Specialty Coffee",
                 "link": "https://www.google.com/maps/search/Selah+Coffee+House+-+Specialty+Coffee/@47.5001119,19.057277799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 726,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2371,7 +2385,7 @@
             {
                 "name": "Tuk Tuk Bar",
                 "link": "https://www.google.com/maps/search/Tuk+Tuk+Bar/@47.501173699999995,19.0588922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 776,
+                "reviews": 785,
                 "rating": 4.7,
                 "main_category": "Ji Wei Jiu Jiu Ba "
             },
@@ -2417,6 +2431,7 @@
         "closed_on": [
             "Xing Qi Yi ",
             "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -2459,19 +2474,19 @@
         "name": "Flow Specialty Coffee Bar & Bistro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1014,
+        "reviews": 1015,
         "competitors": [
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Caferol Kavezo Bistro",
                 "link": "https://www.google.com/maps/search/Caferol+K%C3%A1v%C3%A9z%C3%B3+Bistro/@47.508534499999996,19.0687347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 348,
+                "reviews": 353,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -2553,19 +2568,19 @@
         "name": "Voros Oroszlan Teahaz",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 953,
+        "reviews": 956,
         "competitors": [
             {
                 "name": "Sirius Teahaz",
                 "link": "https://www.google.com/maps/search/Sirius+Teahaz/@47.4926764,19.066131100000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1168,
+                "reviews": 1171,
                 "rating": 4.7,
                 "main_category": "Cha Yi Guan "
             },
             {
                 "name": "Podma Cafe",
                 "link": "https://www.google.com/maps/search/Podma+Cafe/@47.5081521,19.0566742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 317,
                 "rating": 4.7,
                 "main_category": "Cha Yi Guan "
             },
@@ -2604,7 +2619,11 @@
         ],
         "rating": 4.5,
         "workday_timing": "11:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 789 0206",
         "address": "Budapest, Voros Oroszlan Teahaz, Jokai ter 8, 1061 Xiong Ya Li ",
         "review_keywords": [
@@ -2641,7 +2660,7 @@
             {
                 "name": "Napfenyes Restaurant and Confectionery",
                 "link": "https://www.google.com/maps/search/Napf%C3%A9nyes+Restaurant+and+Confectionery/@47.492360999999995,19.055201099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4259,
+                "reviews": 4268,
                 "rating": 4.6,
                 "main_category": "Su Shi Liao Li "
             },
@@ -2655,7 +2674,7 @@
             {
                 "name": "Las Vegan's",
                 "link": "https://www.google.com/maps/search/Las+Vegan%27s/@47.4973822,19.063375999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 778,
+                "reviews": 779,
                 "rating": 4.3,
                 "main_category": "Yan Ge Su Shi Liao Li "
             },
@@ -2669,7 +2688,7 @@
             {
                 "name": "Napfenyes Cukraszda es Pekseg - Vegan, tejmentes es glutenmentes tortak, sutemenyek es etelek",
                 "link": "https://www.google.com/maps/search/Napf%C3%A9nyes+Cukr%C3%A1szda+%C3%A9s+P%C3%A9ks%C3%A9g+-+Veg%C3%A1n%2C+tejmentes+%C3%A9s+glut%C3%A9nmentes+tort%C3%A1k%2C+s%C3%BCtem%C3%A9nyek+%C3%A9s+%C3%A9telek/@47.5095068,19.0553325?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
+                "reviews": 95,
                 "rating": 4.6,
                 "main_category": "Yan Ge Su Shi Liao Li "
             }
@@ -2689,9 +2708,10 @@
             "Chun Su Can Ting "
         ],
         "rating": 4.7,
-        "workday_timing": "12:00-19:00",
+        "workday_timing": "10:00-19:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+36 70 380 8407",
         "address": "Budapest, Naspolya Nassolda, Kaldy Gyula u. 7, 1061 Xiong Ya Li ",
@@ -2732,19 +2752,19 @@
         "name": "My Green Cup",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 915,
+        "reviews": 917,
         "competitors": [
             {
                 "name": "Partisan Coffee Shop",
                 "link": "https://www.google.com/maps/search/Partisan+Coffee+Shop/@47.5157689,19.0496257?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 499,
+                "reviews": 500,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Waycup kavezo / Specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Waycup+k%C3%A1v%C3%A9z%C3%B3+%2F+Specialty+coffee+shop/@47.5137165,19.0485366?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 296,
+                "reviews": 299,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2805,7 +2825,7 @@
             },
             {
                 "keyword": "Mo Cha ",
-                "count": 9
+                "count": 10
             },
             {
                 "keyword": "Na Tie ",
@@ -2816,8 +2836,8 @@
                 "count": 8
             },
             {
-                "keyword": "Ke Song ",
-                "count": 8
+                "keyword": "Ka Pei Shi ",
+                "count": 7
             },
             {
                 "keyword": "Bi Dian ",
@@ -2835,26 +2855,26 @@
         "name": "Starbucks Gozsdu",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 875,
+        "reviews": 879,
         "competitors": [
             {
                 "name": "Starbucks Oktogon",
                 "link": "https://www.google.com/maps/search/Starbucks+Oktogon/@47.5056727,19.0632441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1180,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kern Collective Coffee",
                 "link": "https://www.google.com/maps/search/Kern+Collective+Coffee/@47.500262899999996,19.0600508?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 372,
+                "reviews": 377,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Blue Bird Cafe",
                 "link": "https://www.google.com/maps/search/Blue+Bird+Cafe/@47.4982422,19.0597072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
+                "reviews": 112,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -2868,7 +2888,7 @@
             {
                 "name": "5 to go",
                 "link": "https://www.google.com/maps/search/5+to+go/@47.4981442,19.0565225?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
+                "reviews": 44,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -2892,7 +2912,7 @@
         "review_keywords": [
             {
                 "keyword": "Ka Pei Shi ",
-                "count": 14
+                "count": 13
             },
             {
                 "keyword": "atmosphere",
@@ -2941,30 +2961,30 @@
         "reviews": 868,
         "competitors": [
             {
-                "name": "Espresso Embassy",
-                "link": "https://www.google.com/maps/search/Espresso+Embassy/@47.501940999999995,19.049827999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3855,
+                "name": "espresso embassy",
+                "link": "https://www.google.com/maps/search/espresso+embassy/@47.501940999999995,19.049827999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3861,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Budapest Baristas",
                 "link": "https://www.google.com/maps/search/Budapest+Baristas/@47.4925375,19.0606983?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1615,
+                "reviews": 1618,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Mantra Specialty Coffee Minibar",
                 "link": "https://www.google.com/maps/search/Mantra+Specialty+Coffee+Minibar/@47.490061999999995,19.0568764?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 942,
+                "reviews": 946,
                 "rating": 4.8,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3003,7 +3023,7 @@
             },
             {
                 "keyword": "Ka Pei Shi ",
-                "count": 28
+                "count": 27
             },
             {
                 "keyword": "flat white",
@@ -3037,40 +3057,40 @@
         "name": "Mokka Cukka",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 842,
+        "reviews": 843,
         "competitors": [
             {
                 "name": "Cirkusz Cafe",
                 "link": "https://www.google.com/maps/search/Cirkusz+Caf%C3%A9/@47.49845690000001,19.061539000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4814,
+                "reviews": 4824,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Stika Gastropub",
                 "link": "https://www.google.com/maps/search/Stika+Gastropub/@47.500688499999995,19.0637161?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3137,
+                "reviews": 3166,
                 "rating": 4.4,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Zoska Reggelizo Kavezo",
                 "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1968,
+                "reviews": 1970,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Brunch Budapest - Fovam ter",
                 "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+F%C5%91v%C3%A1m+t%C3%A9r/@47.487468799999995,19.0567527?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 782,
+                "reviews": 791,
                 "rating": 4.5,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Lui",
                 "link": "https://www.google.com/maps/search/Lui/@47.505520999999995,19.051793?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 407,
+                "reviews": 411,
                 "rating": 4.9,
                 "main_category": "Zao Can "
             }
@@ -3096,7 +3116,7 @@
         "review_keywords": [
             {
                 "keyword": "Zao Wu Can ",
-                "count": 58
+                "count": 60
             },
             {
                 "keyword": "Ban Ni Di Ke Dan ",
@@ -3108,7 +3128,7 @@
             },
             {
                 "keyword": "Ka Pei Ting ",
-                "count": 26
+                "count": 27
             },
             {
                 "keyword": "Song Bing ",
@@ -3138,19 +3158,19 @@
         "name": "Starbucks Nyugati",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 782,
+        "reviews": 799,
         "competitors": [
             {
                 "name": "BITE bakery cafe",
                 "link": "https://www.google.com/maps/search/BITE+bakery+caf%C3%A9/@47.509716,19.0566271?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1707,
+                "reviews": 1711,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Starbucks Oktogon",
                 "link": "https://www.google.com/maps/search/Starbucks+Oktogon/@47.5056727,19.0632441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1174,
+                "reviews": 1180,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -3193,12 +3213,12 @@
                 "count": 6
             },
             {
-                "keyword": "Jia Ge ",
+                "keyword": "Ka Pei Shi ",
                 "count": 5
             },
             {
-                "keyword": "Ka Pei Shi ",
-                "count": 4
+                "keyword": "Jia Ge ",
+                "count": 5
             },
             {
                 "keyword": "Na Tie ",
@@ -3228,7 +3248,7 @@
         "name": "Rabbit Hole Bar & Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 662,
+        "reviews": 665,
         "competitors": [
             {
                 "name": "Boutiq Bar",
@@ -3240,22 +3260,22 @@
             {
                 "name": "Hotsy Totsy Budapest",
                 "link": "https://www.google.com/maps/search/Hotsy+Totsy+Budapest/@47.4976523,19.0610073?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1053,
+                "reviews": 1055,
                 "rating": 4.7,
                 "main_category": "Ji Wei Jiu Jiu Ba "
             },
             {
                 "name": "Tuk Tuk Bar",
                 "link": "https://www.google.com/maps/search/Tuk+Tuk+Bar/@47.501173699999995,19.0588922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 776,
+                "reviews": 785,
                 "rating": 4.7,
                 "main_category": "Ji Wei Jiu Jiu Ba "
             },
             {
                 "name": "Her Majesty The Rabbit",
                 "link": "https://www.google.com/maps/search/Her+Majesty+The+Rabbit/@47.4981924,19.0607632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.3,
+                "reviews": 91,
+                "rating": 4.4,
                 "main_category": "Ji Wei Jiu Jiu Ba "
             },
             {
@@ -3332,19 +3352,19 @@
         "name": "Cafe Muse",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 562,
+        "reviews": 570,
         "competitors": [
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -3358,7 +3378,7 @@
             {
                 "name": "Mia's Cafe, Bakery & Bistro",
                 "link": "https://www.google.com/maps/search/Mia%27s+Cafe%2C+Bakery+%26+Bistro/@47.4915618,19.0539398?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
+                "reviews": 130,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3383,14 +3403,12 @@
         ],
         "rating": 4.8,
         "workday_timing": "08:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 20 208 1917",
         "address": "Budapest, Cafe Muse, Petofi Sandor u. 8, 1052 Xiong Ya Li ",
         "review_keywords": [
-            {
-                "keyword": "atmosphere",
-                "count": 38
-            },
             {
                 "keyword": "Gao ",
                 "count": 36
@@ -3401,11 +3419,11 @@
             },
             {
                 "keyword": "Zao Wu Can ",
-                "count": 12
+                "count": 13
             },
             {
                 "keyword": "Ban Ni Di Ke Dan ",
-                "count": 7
+                "count": 8
             },
             {
                 "keyword": "Wan ",
@@ -3418,6 +3436,10 @@
             {
                 "keyword": "Fa Shi Tu Si ",
                 "count": 5
+            },
+            {
+                "keyword": "Can Yin ",
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Cafe+Muse/data=!4m7!3m6!1s0x4741dd86ae242c35:0xee9feac835fc655!8m2!3d47.493796!4d19.0546596!16s%2Fg%2F11k3r6xrbl!19sChIJNSwkrobdQUcRVcZfg6z-6Q4?authuser=0&hl=zh-TW&rclk=1"
@@ -3427,33 +3449,33 @@
         "name": "Brew Brothers",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 561,
+        "reviews": 562,
         "competitors": [
             {
                 "name": "My Little Melbourne Coffee",
                 "link": "https://www.google.com/maps/search/My+Little+Melbourne+Coffee/@47.497722599999996,19.057745399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2490,
+                "reviews": 2494,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "BITE bakery cafe",
                 "link": "https://www.google.com/maps/search/BITE+bakery+caf%C3%A9/@47.509716,19.0566271?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1707,
+                "reviews": 1711,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -3522,23 +3544,123 @@
         "link": "https://www.google.com/maps/place/Brew+Brothers/data=!4m7!3m6!1s0x4741dc6d5bacb261:0xb50f4e25e5e85eab!8m2!3d47.5068131!4d19.0555309!16s%2Fg%2F11f55846dm!19sChIJYbKsW23cQUcRq17o5SVOD7U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ6SvuvBTcQUcReObXxfF7nps",
+        "name": "Dose Espresso Budapest",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 455,
+        "competitors": [
+            {
+                "name": "espresso embassy",
+                "link": "https://www.google.com/maps/search/espresso+embassy/@47.501940999999995,19.049827999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3861,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Starbucks Bazilika",
+                "link": "https://www.google.com/maps/search/Starbucks+Bazilika/@47.5000886,19.053551799999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1452,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kontakt - speciality coffeeshop",
+                "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 868,
+                "rating": 4.6,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Coffee house Pastery shop",
+                "link": "https://www.google.com/maps/search/Coffee+house+Pastery+shop/@47.5028826,19.0528686?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 15,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "ES DELI",
+                "link": "https://www.google.com/maps/search/%C3%89S+DELI/@47.4971647,19.052266799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://doseespressobudapest.com/",
+        "owner": {
+            "id": "118192873930241661532",
+            "name": "Dose Espresso Budapest (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/118192873930241661532"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNI0lhBZix_VCMfT4hBNRvw5LhAV3--q9UsKmfp=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 20 370 2099",
+        "address": "Budapest, Dose Espresso Budapest, Hercegprimas u. 21, 1052 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "atmosphere",
+                "count": 17
+            },
+            {
+                "keyword": "cake",
+                "count": 14
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 10
+            },
+            {
+                "keyword": "Zhuang Xiu ",
+                "count": 9
+            },
+            {
+                "keyword": "flat white",
+                "count": 9
+            },
+            {
+                "keyword": "Gao ",
+                "count": 8
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 7
+            },
+            {
+                "keyword": "Mo Cha ",
+                "count": 5
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dose+Espresso+Budapest/data=!4m7!3m6!1s0x4741dc14bcee2be9:0x9b9e7bf1c5d7e678!8m2!3d47.5031204!4d19.0526741!16s%2Fg%2F11c70hcxsq!19sChIJ6SvuvBTcQUcReObXxfF7nps?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ2f_7q23cQUcRma7TiPEiyw0",
         "name": "CORTO",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 452,
+        "reviews": 453,
         "competitors": [
             {
                 "name": "Cat Cafe",
                 "link": "https://www.google.com/maps/search/Cat+Cafe/@47.500782,19.055733399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7491,
+                "reviews": 7501,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -3564,7 +3686,11 @@
         ],
         "rating": 4.9,
         "workday_timing": "08:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Budapest, CORTO, O u. 29, 1066 Xiong Ya Li ",
         "review_keywords": [
@@ -3621,22 +3747,22 @@
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "9BAR",
                 "link": "https://www.google.com/maps/search/9BAR/@47.501931,19.0559108?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1689,
+                "reviews": 1692,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kontakt - speciality coffeeshop",
                 "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 866,
-                "rating": 4.7,
+                "reviews": 868,
+                "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
@@ -3669,7 +3795,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "07:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 70 628 0307",
         "address": "Budapest, Cube Coffee Bar - specialty coffee shop, Hunyadi ter 8, 1067 Xiong Ya Li ",
         "review_keywords": [
@@ -3713,106 +3842,6 @@
         "link": "https://www.google.com/maps/place/Cube+Coffee+Bar+-+specialty+coffee+shop/data=!4m7!3m6!1s0x4741dc6fd17e4713:0x53ef626a1ff4a8db!8m2!3d47.5059631!4d19.0677653!16s%2Fg%2F11dxrv9fjq!19sChIJE0d-0W_cQUcR26j0H2pi71M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ6SvuvBTcQUcReObXxfF7nps",
-        "name": "Dose Espresso Budapest",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 450,
-        "competitors": [
-            {
-                "name": "Espresso Embassy",
-                "link": "https://www.google.com/maps/search/Espresso+Embassy/@47.501940999999995,19.049827999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3855,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Starbucks Bazilika",
-                "link": "https://www.google.com/maps/search/Starbucks+Bazilika/@47.5000886,19.053551799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1451,
-                "rating": 4.1,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Kontakt - speciality coffeeshop",
-                "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 866,
-                "rating": 4.7,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Coffee house Pastery shop",
-                "link": "https://www.google.com/maps/search/Coffee+house+Pastery+shop/@47.5028826,19.0528686?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.1,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "ES DELI",
-                "link": "https://www.google.com/maps/search/%C3%89S+DELI/@47.4971647,19.052266799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://doseespressobudapest.com/",
-        "owner": {
-            "id": "118192873930241661532",
-            "name": "Dose Espresso Budapest (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118192873930241661532"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOf5xxvjxYQ08uC_boLYquFnqqwu8YldEpgxIQx=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.6,
-        "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 370 2099",
-        "address": "Budapest, Dose Espresso Budapest, Hercegprimas u. 21, 1052 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "atmosphere",
-                "count": 17
-            },
-            {
-                "keyword": "cake",
-                "count": 14
-            },
-            {
-                "keyword": "Na Tie ",
-                "count": 10
-            },
-            {
-                "keyword": "Zhuang Xiu ",
-                "count": 9
-            },
-            {
-                "keyword": "flat white",
-                "count": 9
-            },
-            {
-                "keyword": "Gao ",
-                "count": 8
-            },
-            {
-                "keyword": "Qia Bu Qi Nuo ",
-                "count": 6
-            },
-            {
-                "keyword": "Mo Cha ",
-                "count": 5
-            },
-            {
-                "keyword": "Ka Pei Shi ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Dose+Espresso+Budapest/data=!4m7!3m6!1s0x4741dc14bcee2be9:0x9b9e7bf1c5d7e678!8m2!3d47.5031204!4d19.0526741!16s%2Fg%2F11c70hcxsq!19sChIJ6SvuvBTcQUcReObXxfF7nps?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJM54b-nbdQUcRVt_klgfDq9g",
         "name": "Csengery Reggelizo es Kavezo",
         "description": null,
@@ -3822,35 +3851,35 @@
             {
                 "name": "Cirkusz Cafe",
                 "link": "https://www.google.com/maps/search/Cirkusz+Caf%C3%A9/@47.49845690000001,19.061539000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4814,
+                "reviews": 4824,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Ket Szerecsen",
                 "link": "https://www.google.com/maps/search/K%C3%A9t+Szerecsen/@47.5028236,19.060944799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4075,
+                "reviews": 4085,
                 "rating": 4.6,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
             {
                 "name": "Zoska Reggelizo Kavezo",
                 "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1968,
+                "reviews": 1970,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Brunch Budapest - Opera",
                 "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+Opera/@47.5046727,19.0564154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1645,
+                "reviews": 1651,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             }
@@ -3867,7 +3896,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.9,
-        "workday_timing": "07:00-15:00",
+        "workday_timing": "07:00-17:00",
         "closed_on": "Open All Days",
         "phone": null,
         "address": "Budapest, Csengery Reggelizo es Kavezo, Csengery u. 21, 1074 Xiong Ya Li ",
@@ -3885,6 +3914,10 @@
                 "count": 12
             },
             {
+                "keyword": "Tian Dian ",
+                "count": 9
+            },
+            {
                 "keyword": "Jing Yan ",
                 "count": 7
             },
@@ -3897,11 +3930,11 @@
                 "count": 4
             },
             {
-                "keyword": "Guo Zhi ",
-                "count": 4
+                "keyword": "Ou Mu Dan ",
+                "count": 3
             },
             {
-                "keyword": "Ou Mu Dan ",
+                "keyword": "Song Bing ",
                 "count": 3
             }
         ],
@@ -3912,12 +3945,12 @@
         "name": "Fabrik Specialty Coffee - Design - Workshop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 412,
+        "reviews": 414,
         "competitors": [
             {
                 "name": "Madal Cafe",
                 "link": "https://www.google.com/maps/search/Madal+Cafe/@47.513284999999996,19.0496282?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1848,
+                "reviews": 1854,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -4016,21 +4049,21 @@
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kontakt - speciality coffeeshop",
                 "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 866,
-                "rating": 4.7,
+                "reviews": 868,
+                "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Selah Coffee House - Specialty Coffee",
                 "link": "https://www.google.com/maps/search/Selah+Coffee+House+-+Specialty+Coffee/@47.5001119,19.057277799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 726,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4096,8 +4129,8 @@
                 "count": 4
             },
             {
-                "keyword": "Chuang ",
-                "count": 3
+                "keyword": "Qiao Ke Li ",
+                "count": 4
             }
         ],
         "link": "https://www.google.com/maps/place/COFFEE+STAND+DOB+st.+specialty+coffeeshop/data=!4m7!3m6!1s0x4741dde35f246cbf:0xa34d61585d63d748!8m2!3d47.4973462!4d19.0604416!16s%2Fg%2F11hykm2h5z!19sChIJv2wkX-PdQUcRSNdjXVhhTaM?authuser=0&hl=zh-TW&rclk=1"
@@ -4107,33 +4140,33 @@
         "name": "Kern Collective Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 373,
+        "reviews": 378,
         "competitors": [
             {
                 "name": "California Coffee Company",
                 "link": "https://www.google.com/maps/search/California+Coffee+Company/@47.504226599999996,19.0624196?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1126,
+                "reviews": 1128,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Starbucks Gozsdu",
                 "link": "https://www.google.com/maps/search/Starbucks+Gozsdu/@47.499317,19.058359799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 876,
+                "reviews": 877,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kontakt - speciality coffeeshop",
                 "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 866,
-                "rating": 4.7,
+                "reviews": 868,
+                "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Selah Coffee House - Specialty Coffee",
                 "link": "https://www.google.com/maps/search/Selah+Coffee+House+-+Specialty+Coffee/@47.5001119,19.057277799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 726,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4164,7 +4197,7 @@
         "review_keywords": [
             {
                 "keyword": "atmosphere",
-                "count": 29
+                "count": 31
             },
             {
                 "keyword": "Ka Pei Shi ",
@@ -4206,26 +4239,26 @@
         "name": "Maghaz Restaurant and Teahouse",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 365,
+        "reviews": 366,
         "competitors": [
             {
                 "name": "Menza Etterem es Kavehaz",
                 "link": "https://www.google.com/maps/search/Menza+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9h%C3%A1z/@47.5039639,19.062816500000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14129,
+                "reviews": 14151,
                 "rating": 4.4,
                 "main_category": "Xiong Ya Li Cai "
             },
             {
                 "name": "MagNet Kozossegi Haz",
                 "link": "https://www.google.com/maps/search/MagNet+K%C3%B6z%C3%B6ss%C3%A9gi+H%C3%A1z/@47.510746,19.0710805?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2279,
+                "reviews": 2282,
                 "rating": 4.7,
                 "main_category": "Wen Hua Zhong Xin "
             },
             {
                 "name": "Andrassy Garden",
                 "link": "https://www.google.com/maps/search/Andr%C3%A1ssy+Garden/@47.5121653,19.0743102?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
+                "reviews": 745,
                 "rating": 4.5,
                 "main_category": "Xiong Ya Li Cai "
             },
@@ -4258,8 +4291,14 @@
             "Ka Pei Ting "
         ],
         "rating": 4.5,
-        "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "11:00-15:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 373 4993",
         "address": "Budapest, Maghaz Restaurant and Teahouse, Andrassy ut 98, 1062 Xiong Ya Li ",
         "review_keywords": [
@@ -4283,90 +4322,23 @@
         "link": "https://www.google.com/maps/place/Magh%C3%A1z+Restaurant+and+Teahouse/data=!4m7!3m6!1s0x4741dc70d38cf557:0xc01ea699bfc412ed!8m2!3d47.5108336!4d19.0711106!16s%2Fg%2F1pv1066fw!19sChIJV_WM03DcQUcR7RLEv5mmHsA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJUaof9WHdQUcRxddLUhEY7YI",
-        "name": "Starbucks Westend Niagara",
-        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
-        "is_spending_on_ads": false,
-        "reviews": 352,
-        "competitors": [
-            {
-                "name": "Starbucks Westend Terrace",
-                "link": "https://www.google.com/maps/search/Starbucks+Westend+Terrace/@47.514430499999996,19.0597064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1723,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Frei Westend",
-                "link": "https://www.google.com/maps/search/Cafe+Frei+Westend/@47.5132459,19.058921599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 143,
-                "rating": 3.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee cup",
-                "link": "https://www.google.com/maps/search/Coffee+cup/@47.5130267,19.058725199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 94,
-                "rating": 3.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Starbucks Duna Corso",
-                "link": "https://www.google.com/maps/search/Starbucks+Duna+Corso/@47.495238699999994,19.048926599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 3.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Axis Cafe and Lounge",
-                "link": "https://www.google.com/maps/search/Axis+Caf%C3%A9+and+Lounge/@47.5128713,19.0580654?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://starbucks.hu/",
-        "owner": {
-            "id": "113456277340866698772",
-            "name": "Starbucks Westend Niagara (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113456277340866698772"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPafh7mt9XcajDyD5pHXlrJvZKc2QlJ3ce2udTe=w408-h541-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4,
-        "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 70 682 1910",
-        "address": "Budapest, Starbucks Westend Niagara, Vaci ut 1-3, 1062 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Wai Dai ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Starbucks+Westend+Niagara/data=!4m7!3m6!1s0x4741dd61f51faa51:0x82ed1811524bd7c5!8m2!3d47.5123524!4d19.0576364!16s%2Fg%2F11h5s_n896!19sChIJUaof9WHdQUcRxddLUhEY7YI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJBdl5ydzdQUcRkAUucalvNL0",
         "name": "Caferol Kavezo Bistro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 349,
+        "reviews": 353,
         "competitors": [
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4406,7 +4378,10 @@
         ],
         "rating": 4.9,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 222 3893",
         "address": "Budapest, Caferol Kavezo Bistro, Andrassy ut 79, 1062 Xiong Ya Li ",
         "review_keywords": [
@@ -4450,16 +4425,83 @@
         "link": "https://www.google.com/maps/place/Caferol+K%C3%A1v%C3%A9z%C3%B3+Bistro/data=!4m7!3m6!1s0x4741dddcc979d905:0xbd346fa9712e0590!8m2!3d47.5085345!4d19.0687347!16s%2Fg%2F11r8td1j12!19sChIJBdl5ydzdQUcRkAUucalvNL0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJUaof9WHdQUcRxddLUhEY7YI",
+        "name": "Starbucks Westend Niagara",
+        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
+        "is_spending_on_ads": false,
+        "reviews": 352,
+        "competitors": [
+            {
+                "name": "Starbucks Westend Terrace",
+                "link": "https://www.google.com/maps/search/Starbucks+Westend+Terrace/@47.514430499999996,19.0597064?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1724,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Frei Westend",
+                "link": "https://www.google.com/maps/search/Cafe+Frei+Westend/@47.513671599999995,19.0593468?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 143,
+                "rating": 3.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee cup",
+                "link": "https://www.google.com/maps/search/Coffee+cup/@47.5130267,19.058725199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 94,
+                "rating": 3.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Starbucks Duna Corso",
+                "link": "https://www.google.com/maps/search/Starbucks+Duna+Corso/@47.495238699999994,19.048926599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 48,
+                "rating": 3.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Axis Cafe and Lounge",
+                "link": "https://www.google.com/maps/search/Axis+Caf%C3%A9+and+Lounge/@47.5128713,19.0580654?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 34,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://starbucks.hu/",
+        "owner": {
+            "id": "113456277340866698772",
+            "name": "Starbucks Westend Niagara (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113456277340866698772"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPafh7mt9XcajDyD5pHXlrJvZKc2QlJ3ce2udTe=w408-h541-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 70 682 1910",
+        "address": "Budapest, Starbucks Westend Niagara, Vaci ut 1-3, 1062 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Wai Dai ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks+Westend+Niagara/data=!4m7!3m6!1s0x4741dd61f51faa51:0x82ed1811524bd7c5!8m2!3d47.5123524!4d19.0576364!16s%2Fg%2F11h5s_n896!19sChIJUaof9WHdQUcRxddLUhEY7YI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJfwIq5HHcQUcRWQMu-8Pfo2c",
         "name": "Callas Cafe & Restaurant",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 341,
+        "reviews": 342,
         "competitors": [
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -4473,7 +4515,7 @@
             {
                 "name": "Caferol Kavezo Bistro",
                 "link": "https://www.google.com/maps/search/Caferol+K%C3%A1v%C3%A9z%C3%B3+Bistro/@47.508534499999996,19.0687347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 348,
+                "reviews": 353,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -4529,10 +4571,6 @@
                 "count": 7
             },
             {
-                "keyword": "Can ",
-                "count": 6
-            },
-            {
                 "keyword": "Hong Jiu ",
                 "count": 6
             },
@@ -4541,8 +4579,8 @@
                 "count": 5
             },
             {
-                "keyword": "Gang Qin ",
-                "count": 4
+                "keyword": "Bu Jing ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Callas+Cafe+%26+Restaurant/data=!4m7!3m6!1s0x4741dc71e42a027f:0x67a3dfc3fb2e0359!8m2!3d47.5023474!4d19.0581626!16s%2Fg%2F11gbwywkgn!19sChIJfwIq5HHcQUcRWQMu-8Pfo2c?authuser=0&hl=zh-TW&rclk=1"
@@ -4580,8 +4618,9 @@
         "rating": 4.6,
         "workday_timing": "08:00-19:00",
         "closed_on": [
-            "Xing Qi Si ",
-            "Xing Qi Wu ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -4595,12 +4634,12 @@
         "name": "Podma Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 317,
+        "reviews": 319,
         "competitors": [
             {
                 "name": "Altair Teahaz",
                 "link": "https://www.google.com/maps/search/Altair+Teah%C3%A1z/@47.492463799999996,19.063610999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1220,
+                "reviews": 1223,
                 "rating": 4.7,
                 "main_category": "Cha Yi Guan "
             },
@@ -4621,7 +4660,7 @@
             {
                 "name": "Kardamom Kavezo es Teahaz",
                 "link": "https://www.google.com/maps/search/Kardamom+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Teah%C3%A1z/@47.5108378,19.023238?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 224,
+                "reviews": 225,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -4660,115 +4699,16 @@
         "link": "https://www.google.com/maps/place/Podma+Cafe/data=!4m7!3m6!1s0x4741dc12a842c11b:0xfa04eaee68fa8a07!8m2!3d47.5081521!4d19.0566742!16s%2Fg%2F1tdrd48x!19sChIJG8FCqBLcQUcRB4r6aO7qBPo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJCdIRW2rcQUcRKqnjJqkwHjg",
-        "name": "Pottyos Bogre Bisztro",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 312,
-        "competitors": [
-            {
-                "name": "Zoska Reggelizo Kavezo",
-                "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1968,
-                "rating": 4.3,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Brunch Bistro Budapest",
-                "link": "https://www.google.com/maps/search/Brunch+Bistro+Budapest/@47.502102,19.0552441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1611,
-                "rating": 4.3,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Pantry Brunch & Coffee",
-                "link": "https://www.google.com/maps/search/Pantry+Brunch+%26+Coffee/@47.49536080000001,19.0617072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 840,
-                "rating": 4.7,
-                "main_category": "Zao Wu Can "
-            },
-            {
-                "name": "Portobello Coffee, Brunch & Wine",
-                "link": "https://www.google.com/maps/search/Portobello+Coffee%2C+Brunch+%26+Wine/@47.491349199999995,19.0560895?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 609,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "http://www.facebook.com/pottyosbogrebisztro",
-        "owner": {
-            "id": "103499345804853487884",
-            "name": "Pottyos Bogre Bisztro (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103499345804853487884"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN26JE5m5O487Ys4sTNyHWF8yRaaeti_nI3AvyA=w408-h544-k-no",
-        "main_category": "Zao Can Can Ting ",
-        "categories": [
-            "Zao Can Can Ting ",
-            "Mian Bao Xi Bing Dian ",
-            "Xiao Can Guan  (Bistro)",
-            "Zao Wu Can Can Ting ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "07:30-15:00",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 70 977 9317",
-        "address": "Budapest, Pottyos Bogre Bisztro, Paulay Ede u. 8, 1061 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 30
-            },
-            {
-                "keyword": "San Ming Zhi ",
-                "count": 20
-            },
-            {
-                "keyword": "Ke Song ",
-                "count": 19
-            },
-            {
-                "keyword": "Shuo Hua ",
-                "count": 13
-            },
-            {
-                "keyword": "Gao ",
-                "count": 9
-            },
-            {
-                "keyword": "Ou Mu Dan ",
-                "count": 7
-            },
-            {
-                "keyword": "Bei Guo ",
-                "count": 6
-            },
-            {
-                "keyword": "Fu You ",
-                "count": 5
-            },
-            {
-                "keyword": "Can Jiu Guan ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/P%C3%B6tty%C3%B6s+B%C3%B6gre+Bisztr%C3%B3/data=!4m7!3m6!1s0x4741dc6a5b11d209:0x381e30a926e3a92a!8m2!3d47.499859!4d19.0562796!16s%2Fg%2F12hn3w6vb!19sChIJCdIRW2rcQUcRKqnjJqkwHjg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJDQfvlPjdQUcRq9P3osXSBgQ",
         "name": "Harom Tarka Macska",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 307,
+        "reviews": 308,
         "competitors": [
             {
                 "name": "BITE bakery cafe",
                 "link": "https://www.google.com/maps/search/BITE+bakery+caf%C3%A9/@47.5056985,19.0633889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3314,
+                "reviews": 3332,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4782,7 +4722,7 @@
             {
                 "name": "Kiskovasz Kezmuves Pekseg - Budapest VI. kerulet",
                 "link": "https://www.google.com/maps/search/Kiskov%C3%A1sz+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g+-+Budapest+VI.+ker%C3%BClet/@47.504421699999995,19.0588106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 279,
+                "reviews": 280,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4817,7 +4757,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 1 607 3083",
         "address": "Budapest, Harom Tarka Macska, Oktogon 22, 1066 Xiong Ya Li ",
         "review_keywords": [
@@ -4869,19 +4812,19 @@
         "name": "Waycup kavezo / Specialty coffee shop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 297,
+        "reviews": 299,
         "competitors": [
             {
                 "name": "My Green Cup",
                 "link": "https://www.google.com/maps/search/My+Green+Cup/@47.515300499999995,19.0496224?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 915,
+                "reviews": 917,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Partisan Coffee Shop",
                 "link": "https://www.google.com/maps/search/Partisan+Coffee+Shop/@47.5157689,19.0496257?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 499,
+                "reviews": 500,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4972,12 +4915,12 @@
         "name": "Kiskovasz Kezmuves Pekseg - Budapest VI. kerulet",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 279,
+        "reviews": 282,
         "competitors": [
             {
                 "name": "KISPEREC kezmuves sutode",
                 "link": "https://www.google.com/maps/search/KISPEREC+k%C3%A9zm%C5%B1ves+s%C3%BCt%C3%B6de/@47.482895299999996,19.0662543?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 329,
+                "reviews": 330,
                 "rating": 4.7,
                 "main_category": "Za Huo Dian "
             },
@@ -5042,6 +4985,10 @@
             {
                 "keyword": "Liu Cheng Zhi ",
                 "count": 3
+            },
+            {
+                "keyword": "Tian ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Kiskov%C3%A1sz+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g+-+Budapest+VI.+ker%C3%BClet/data=!4m7!3m6!1s0x4741dc6cf5f59717:0xed4166848de379ba!8m2!3d47.5044217!4d19.0588106!16s%2Fg%2F11cs3gx9m4!19sChIJF5f19WzcQUcRunnjjYRmQe0?authuser=0&hl=zh-TW&rclk=1"
@@ -5056,7 +5003,7 @@
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -5070,7 +5017,7 @@
             {
                 "name": "Zaj Cafe",
                 "link": "https://www.google.com/maps/search/Zaj+Caf%C3%A9/@47.506835599999995,19.0598414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 4.9,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -5147,19 +5094,19 @@
         "name": "Donuterie Cafe - donuts, coffee & more",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 231,
+        "reviews": 232,
         "competitors": [
             {
                 "name": "The Box Donut",
                 "link": "https://www.google.com/maps/search/The+Box+Donut/@47.509650699999995,19.0567642?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1844,
+                "reviews": 1845,
                 "rating": 4.5,
                 "main_category": "Tian Tian Quan "
             },
             {
                 "name": "La Donuteria Budapest",
                 "link": "https://www.google.com/maps/search/La+Donuteria+Budapest/@47.4883904,19.0625174?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 381,
+                "reviews": 382,
                 "rating": 4.4,
                 "main_category": "Tian Tian Quan "
             },
@@ -5192,7 +5139,7 @@
             "Dong Shuai Dian "
         ],
         "rating": 4.6,
-        "workday_timing": "08:30-20:00",
+        "workday_timing": "10:00-19:00",
         "closed_on": "Open All Days",
         "phone": "+36 1 460 8941",
         "address": "Budapest, Donuterie Cafe - donuts, coffee & more, Bajcsy-Zsilinszky ut 56, 1054 Xiong Ya Li ",
@@ -5241,19 +5188,19 @@
         "name": "Starbucks Podmaniczky",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 219,
+        "reviews": 221,
         "competitors": [
             {
                 "name": "Starbucks Nyugati",
                 "link": "https://www.google.com/maps/search/Starbucks+Nyugati/@47.509718299999996,19.0559567?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 779,
+                "reviews": 798,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Dose Espresso Budapest",
                 "link": "https://www.google.com/maps/search/Dose+Espresso+Budapest/@47.5031204,19.0526741?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 448,
+                "reviews": 454,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -5292,7 +5239,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Budapest, Starbucks Podmaniczky, Podmaniczky Frigyes ter, 1054 Xiong Ya Li ",
         "review_keywords": [],
@@ -5303,26 +5253,26 @@
         "name": "Zsolnay Kavehaz",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 217,
+        "reviews": 218,
         "competitors": [
             {
                 "name": "Niu Yue Gong Dian Ka Pei ",
                 "link": "https://www.google.com/maps/search/%E7%B4%90%E7%B4%84%E5%AE%AE%E6%AE%BF%E5%92%96%E5%95%A1/@47.4987259,19.0704556?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29411,
+                "reviews": 29548,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Gerbeaud",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Gerbeaud/@47.496964000000006,19.0502535?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8855,
+                "reviews": 8885,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -5379,19 +5329,19 @@
         "name": "Jokenyer Pekseg Nagymezo utca",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 189,
+        "reviews": 190,
         "competitors": [
             {
                 "name": "Kiskovasz Kezmuves Pekseg - Budapest VI. kerulet",
                 "link": "https://www.google.com/maps/search/Kiskov%C3%A1sz+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g+-+Budapest+VI.+ker%C3%BClet/@47.504421699999995,19.0588106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 279,
+                "reviews": 280,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Jokenyer Istenhegyi ut",
                 "link": "https://www.google.com/maps/search/J%C3%B3keny%C3%A9r+Istenhegyi+%C3%BAt/@47.4998259,19.009708399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 280,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -5405,7 +5355,7 @@
             {
                 "name": "Kemence Pek",
                 "link": "https://www.google.com/maps/search/Kemence+P%C3%A9k/@47.506344999999996,19.0615214?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
+                "reviews": 30,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
@@ -5426,6 +5376,8 @@
         "rating": 4.6,
         "workday_timing": "07:00-19:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 20 620 2234",
@@ -5437,7 +5389,7 @@
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 5
+                "count": 6
             },
             {
                 "keyword": "Qian ",
@@ -5447,37 +5399,112 @@
         "link": "https://www.google.com/maps/place/J%C3%B3keny%C3%A9r+P%C3%A9ks%C3%A9g+Nagymez%C5%91+utca/data=!4m7!3m6!1s0x4741dc6c0048015f:0xe7903d5c84951f3b!8m2!3d47.5027396!4d19.0610987!16s%2Fg%2F11by_ysgwv!19sChIJXwFIAGzcQUcROx-VhFw9kOc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJqRv2j73dQUcR9SApVu6zkpE",
+        "name": "Meron Budapest",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 176,
+        "competitors": [
+            {
+                "name": "Mokka's Bagel & Coffee",
+                "link": "https://www.google.com/maps/search/Mokka%27s+Bagel+%26+Coffee/@47.498014999999995,19.050796?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 60,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "kyvrTvSH KHSHr mhdryn",
+                "link": "https://www.google.com/maps/search/%D7%A7%D7%99%D7%95%D7%A8%D7%98%D7%95%D7%A9+%D7%9B%D7%A9%D7%A8+%D7%9E%D7%94%D7%93%D7%A8%D7%99%D7%9F/@47.497110899999996,19.065527?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.meron.coffee/",
+        "owner": {
+            "id": "102384271007398092825",
+            "name": "Meron Budapest (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102384271007398092825"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhstTQ1bAiPwtTRUX3bjIbh1gVERI5GkhW_Iw=w408-h544-k-no",
+        "main_category": "Zao Wu Can Can Ting ",
+        "categories": [
+            "Zao Wu Can Can Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "08:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 30 072 4932",
+        "address": "Budapest, Meron Budapest, Podmaniczky Frigyes ter 3, 1051 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "atmosphere",
+                "count": 11
+            },
+            {
+                "keyword": "Jing Yan ",
+                "count": 8
+            },
+            {
+                "keyword": "Gao ",
+                "count": 5
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 5
+            },
+            {
+                "keyword": "Ji Jian ",
+                "count": 4
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 4
+            },
+            {
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 4
+            },
+            {
+                "keyword": "espresso",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Meron+Budapest/data=!4m7!3m6!1s0x4741ddbd8ff61ba9:0x9192b3ee562920f5!8m2!3d47.5030262!4d19.0539673!16s%2Fg%2F11srjpdbcr!19sChIJqRv2j73dQUcR9SApVu6zkpE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJvRJDKhTcQUcRhq9QAZ8vgj0",
         "name": "Cafe Santo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 172,
+        "reviews": 175,
         "competitors": [
             {
                 "name": "Anna Cafe",
                 "link": "https://www.google.com/maps/search/Anna+Caf%C3%A9/@47.4955159,19.0513513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6296,
+                "reviews": 6306,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zoo Cafe",
                 "link": "https://www.google.com/maps/search/Zoo+Caf%C3%A9/@47.489513699999996,19.0584725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5908,
+                "reviews": 5920,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.488715,19.056829?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3200,
+                "reviews": 3202,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             }
@@ -5504,16 +5531,16 @@
                 "count": 7
             },
             {
+                "keyword": "Dan Gao ",
+                "count": 6
+            },
+            {
                 "keyword": "San Ming Zhi ",
                 "count": 6
             },
             {
                 "keyword": "Ke Song ",
                 "count": 6
-            },
-            {
-                "keyword": "Dan Gao ",
-                "count": 5
             },
             {
                 "keyword": "Zuo ",
@@ -5621,21 +5648,21 @@
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kontakt - speciality coffeeshop",
                 "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 866,
-                "rating": 4.7,
+                "reviews": 868,
+                "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Selah Coffee House - Specialty Coffee",
                 "link": "https://www.google.com/maps/search/Selah+Coffee+House+-+Specialty+Coffee/@47.5001119,19.057277799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 726,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -5649,7 +5676,7 @@
             {
                 "name": "COFFEE STAND DOB st. specialty coffeeshop",
                 "link": "https://www.google.com/maps/search/COFFEE+STAND+DOB+st.+specialty+coffeeshop/@47.497346199999996,19.0604416?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 383,
+                "reviews": 385,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -5724,7 +5751,7 @@
             {
                 "name": "Cafe Frei - Falk Miksa",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+-+Falk+Miksa/@47.511578,19.048341?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 640,
+                "reviews": 642,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -5738,7 +5765,7 @@
             {
                 "name": "Starbucks Westend Niagara",
                 "link": "https://www.google.com/maps/search/Starbucks+Westend+Niagara/@47.5123524,19.0576364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 351,
+                "reviews": 352,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -5779,19 +5806,19 @@
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Cafe+Frei+Westend/data=!4m7!3m6!1s0x4741dda7fd5bc38f:0x6e7fdaccb6fa168a!8m2!3d47.5132459!4d19.0589216!16s%2Fg%2F11sq5f5tqh!19sChIJj8Nb_afdQUcRihb6tszaf24?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Cafe+Frei+Westend/data=!4m7!3m6!1s0x4741dda7fd5bc38f:0x6e7fdaccb6fa168a!8m2!3d47.5136716!4d19.0593468!16s%2Fg%2F11sq5f5tqh!19sChIJj8Nb_afdQUcRihb6tszaf24?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJrY5EpBLdQUcRCxcL1wqd7c0",
         "name": "Zaj Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 140,
+        "reviews": 141,
         "competitors": [
             {
                 "name": "Cafe Zsivago",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Zsiv%C3%A1g%C3%B3/@47.5030967,19.061709699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1314,
+                "reviews": 1317,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -5865,7 +5892,7 @@
         "name": "R&D Tea Oktogon Store",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 134,
+        "reviews": 135,
         "competitors": [
             {
                 "name": "Find Tea",
@@ -5884,7 +5911,7 @@
             {
                 "name": "Voros Oroszlan Teahaz",
                 "link": "https://www.google.com/maps/search/V%C3%B6r%C3%B6s+Oroszl%C3%A1n+Teah%C3%A1z/@47.5056297,19.0615774?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 953,
+                "reviews": 954,
                 "rating": 4.5,
                 "main_category": "Cha Yi Guan "
             },
@@ -5953,14 +5980,14 @@
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -5974,7 +6001,7 @@
             {
                 "name": "The Rusty Coffee - Opera",
                 "link": "https://www.google.com/maps/search/The+Rusty+Coffee+-+Opera/@47.502758199999995,19.0574302?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
+                "reviews": 54,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6036,21 +6063,21 @@
             {
                 "name": "Szimply - Breakfast & brunch",
                 "link": "https://www.google.com/maps/search/Szimply+-+Breakfast+%26+brunch/@47.4956931,19.058008200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1743,
+                "reviews": 1744,
                 "rating": 4.4,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Brunch Bistro Budapest",
                 "link": "https://www.google.com/maps/search/Brunch+Bistro+Budapest/@47.502102,19.0552441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1611,
+                "reviews": 1620,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -6117,21 +6144,21 @@
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Podma Cafe",
                 "link": "https://www.google.com/maps/search/Podma+Cafe/@47.5081521,19.0566742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 317,
                 "rating": 4.7,
                 "main_category": "Cha Yi Guan "
             },
             {
                 "name": "Zaj Cafe",
                 "link": "https://www.google.com/maps/search/Zaj+Caf%C3%A9/@47.506835599999995,19.0598414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 4.9,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -6164,6 +6191,8 @@
         "rating": 4.8,
         "workday_timing": "12:00-22:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 20 385 2107",
@@ -6197,19 +6226,19 @@
         "name": "ConTe Cafe Basilica",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 104,
+        "reviews": 105,
         "competitors": [
             {
                 "name": "Starbucks Bazilika",
                 "link": "https://www.google.com/maps/search/Starbucks+Bazilika/@47.5000886,19.053551799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1451,
+                "reviews": 1452,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Toscana Club Delicates - Gourmet Focacce & Panini Italiani",
                 "link": "https://www.google.com/maps/search/Toscana+Club+Delicates+-+Gourmet+Focacce+%26+Panini+Italiani/@47.4967484,19.041198700000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 350,
+                "reviews": 351,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -6251,7 +6280,11 @@
         ],
         "rating": 4.3,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 642 6090",
         "address": "Budapest, ConTe Cafe Basilica, Sas u 11, 1051 Xiong Ya Li ",
         "review_keywords": [
@@ -6291,7 +6324,7 @@
         "name": "Hollyweed Cannabistro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 89,
+        "reviews": 90,
         "competitors": [
             {
                 "name": "CBD Shop Westend",
@@ -6345,7 +6378,7 @@
         "name": "Coffee 13",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 63,
+        "reviews": 65,
         "competitors": [],
         "website": "http://www.coffee13.hu/",
         "owner": {
@@ -6360,7 +6393,10 @@
         ],
         "rating": 4.9,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 411 2129",
         "address": "Budapest, Coffee 13, Lehel u 19, 1134 Xiong Ya Li ",
         "review_keywords": [],
@@ -6371,7 +6407,7 @@
         "name": "Mokka's Bagel & Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 55,
+        "reviews": 60,
         "competitors": [
             {
                 "name": "baKudapa Indonez Etelbar",
@@ -6399,9 +6435,12 @@
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.9,
+        "rating": 4.8,
         "workday_timing": "09:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 382 6005",
         "address": "Budapest, Mokka's Bagel & Coffee, Jozsef nador ter 9, 1051 Xiong Ya Li ",
         "review_keywords": [
@@ -6421,26 +6460,26 @@
         "name": "The Rusty Coffee - Opera",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 54,
+        "reviews": 55,
         "competitors": [
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Brunch Budapest - Opera",
                 "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+Opera/@47.5046727,19.0564154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1645,
+                "reviews": 1651,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "CAUSE Cafe & Roastery",
                 "link": "https://www.google.com/maps/search/CAUSE+Caf%C3%A9+%26+Roastery/@47.5005047,19.0501157?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 282,
+                "reviews": 286,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             }
@@ -6458,7 +6497,11 @@
         ],
         "rating": 4.5,
         "workday_timing": "09:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Budapest, The Rusty Coffee - Opera, Dalszinhaz u. 10, 1061 Xiong Ya Li ",
         "review_keywords": [
@@ -6483,7 +6526,7 @@
             {
                 "name": "Matinee Coffeeshop",
                 "link": "https://www.google.com/maps/search/Matinee+Coffeeshop/@47.509240399999996,19.070744500000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 828,
+                "reviews": 831,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -6497,14 +6540,14 @@
             {
                 "name": "Mr. Beans Cafe & Tea Shop",
                 "link": "https://www.google.com/maps/search/Mr.+Beans+Cafe+%26+Tea+Shop/@47.5056246,19.0616758?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 249,
+                "reviews": 250,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zaj Cafe",
                 "link": "https://www.google.com/maps/search/Zaj+Caf%C3%A9/@47.506835599999995,19.0598414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 4.9,
                 "main_category": "Zheng Liu Ka Pei Ba "
             }
@@ -6554,7 +6597,7 @@
             {
                 "name": "Caffe Gian Mario",
                 "link": "https://www.google.com/maps/search/Caff%C3%A9+Gian+Mario/@47.5050393,19.0552144?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2662,
+                "reviews": 2666,
                 "rating": 4.6,
                 "main_category": "Yi Da Li Cai "
             },
@@ -6610,19 +6653,19 @@
         "name": "COFFEEHUT kavezo - Specialty Coffee Inside (Coffee Hut Budapest)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 35,
+        "reviews": 37,
         "competitors": [
             {
                 "name": "My Green Cup",
                 "link": "https://www.google.com/maps/search/My+Green+Cup/@47.515300499999995,19.0496224?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 915,
+                "reviews": 917,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Partisan Coffee Shop",
                 "link": "https://www.google.com/maps/search/Partisan+Coffee+Shop/@47.5157689,19.0496257?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 499,
+                "reviews": 500,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -6658,8 +6701,10 @@
             "San Wen Zhi Dian "
         ],
         "rating": 4.9,
-        "workday_timing": "08:00-16:00",
+        "workday_timing": "07:30-16:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -6695,6 +6740,10 @@
             {
                 "keyword": "atmosphere",
                 "count": 9
+            },
+            {
+                "keyword": "Zao Shang ",
+                "count": 3
             },
             {
                 "keyword": "Jia Ge ",
@@ -6771,7 +6820,7 @@
             {
                 "name": "9BAR",
                 "link": "https://www.google.com/maps/search/9BAR/@47.501931,19.0559108?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1689,
+                "reviews": 1692,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -6785,13 +6834,13 @@
             {
                 "name": "A99 Coffee Shop Budapest",
                 "link": "https://www.google.com/maps/search/A99+Coffee+Shop+Budapest/@47.5108487,19.0723113?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 154,
+                "reviews": 155,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Frei Westend",
-                "link": "https://www.google.com/maps/search/Cafe+Frei+Westend/@47.5132459,19.058921599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Cafe+Frei+Westend/@47.513671599999995,19.0593468?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 143,
                 "rating": 3.4,
                 "main_category": "Ka Pei Dian "
@@ -6858,14 +6907,14 @@
             {
                 "name": "Madal Food - Vegan Etterem - Vegan Pizza specialitasok",
                 "link": "https://www.google.com/maps/search/Madal+Food+-+Vegan+%C3%89tterem+-+Veg%C3%A1n+Pizza+specialit%C3%A1sok/@47.507418,19.0491962?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.6,
                 "main_category": "Su Shi Liao Li "
             },
             {
                 "name": "MINO'S",
                 "link": "https://www.google.com/maps/search/MINO%27S/@47.504480099999995,19.0639552?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
+                "reviews": 67,
                 "rating": 4.8,
                 "main_category": "Kuai Can "
             },
@@ -6922,7 +6971,7 @@
             {
                 "name": "Dose Espresso Budapest",
                 "link": "https://www.google.com/maps/search/Dose+Espresso+Budapest/@47.5031204,19.0526741?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 448,
+                "reviews": 454,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -6978,7 +7027,7 @@
             {
                 "name": "Cafe Brunch Budapest - Opera",
                 "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+Opera/@47.5046727,19.0564154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1645,
+                "reviews": 1651,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
@@ -7059,28 +7108,28 @@
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zaj Cafe",
                 "link": "https://www.google.com/maps/search/Zaj+Caf%C3%A9/@47.506835599999995,19.0598414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 4.9,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Muvesz Cukraszda",
                 "link": "https://www.google.com/maps/search/M%C3%BBv%C3%A9sz+Cukr%C3%A1szda/@47.502715599999995,19.0599001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 4.1,
+                "reviews": 36,
+                "rating": 4,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
             {
                 "name": "Mizaru Mambou Caffe",
                 "link": "https://www.google.com/maps/search/Mizaru+Mambou+Caffe/@47.50517250000001,19.0651075?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
+                "reviews": 22,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -7142,35 +7191,35 @@
             {
                 "name": "Zoo Cafe",
                 "link": "https://www.google.com/maps/search/Zoo+Caf%C3%A9/@47.489513699999996,19.0584725?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5908,
+                "reviews": 5920,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Zoska Reggelizo Kavezo",
                 "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1968,
+                "reviews": 1970,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Zsivago",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Zsiv%C3%A1g%C3%B3/@47.5030967,19.061709699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1314,
+                "reviews": 1317,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Ez Az Bisztro",
                 "link": "https://www.google.com/maps/search/Ez+Az+Bisztr%C3%B3/@47.5007077,19.055224799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 922,
+                "reviews": 925,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Zaj Cafe",
                 "link": "https://www.google.com/maps/search/Zaj+Caf%C3%A9/@47.506835599999995,19.0598414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 4.9,
                 "main_category": "Zheng Liu Ka Pei Ba "
             }
@@ -7199,40 +7248,40 @@
         "name": "Mon Cheri Coffee Shop Budapest",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1473,
+        "reviews": 1476,
         "competitors": [
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.488715,19.056829?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3200,
+                "reviews": 3202,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Frei Karoly Korut",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+K%C3%A1roly+K%C3%B6r%C3%BAt/@47.496735099999995,19.057707399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2814,
+                "reviews": 2818,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Fekete",
                 "link": "https://www.google.com/maps/search/Fekete/@47.493540599999996,19.0599201?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2082,
+                "reviews": 2086,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Zoska Reggelizo Kavezo",
                 "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1968,
+                "reviews": 1970,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             }
@@ -7294,7 +7343,7 @@
         "name": "Find Tea",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1039,
+        "reviews": 1040,
         "competitors": [
             {
                 "name": "BUBU Bubble Tea",
@@ -7343,16 +7392,12 @@
         "address": "Budapest, Find Tea, Bajcsy-Zsilinszky ut 19a, 1065 Xiong Ya Li ",
         "review_keywords": [
             {
-                "keyword": "Hei Tang ",
-                "count": 22
+                "keyword": "Dan Gao ",
+                "count": 15
             },
             {
                 "keyword": "Fu Wu ",
                 "count": 15
-            },
-            {
-                "keyword": "Qi Si ",
-                "count": 13
             },
             {
                 "keyword": "Ce Suo ",
@@ -7386,19 +7431,19 @@
         "name": "Matinee Coffeeshop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 829,
+        "reviews": 831,
         "competitors": [
             {
                 "name": "My Little Melbourne Coffee",
                 "link": "https://www.google.com/maps/search/My+Little+Melbourne+Coffee/@47.497722599999996,19.057745399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2490,
+                "reviews": 2494,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -7489,41 +7534,41 @@
         "name": "Selah Coffee House - Specialty Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 724,
+        "reviews": 726,
         "competitors": [
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Budapest Baristas",
                 "link": "https://www.google.com/maps/search/Budapest+Baristas/@47.4925375,19.0606983?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1615,
+                "reviews": 1618,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Zsivago",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Zsiv%C3%A1g%C3%B3/@47.5030967,19.061709699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1314,
+                "reviews": 1317,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kontakt - speciality coffeeshop",
                 "link": "https://www.google.com/maps/search/Kontakt+-+speciality+coffeeshop/@47.4955432,19.0578407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 866,
-                "rating": 4.7,
+                "reviews": 868,
+                "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Lara Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Lara+Caf%C3%A8+Budapest/@47.4981539,19.068112?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 560,
-                "rating": 4.5,
+                "reviews": 564,
+                "rating": 4.4,
                 "main_category": "Zao Wu Can "
             }
         ],
@@ -7543,6 +7588,9 @@
         "rating": 4.7,
         "workday_timing": "09:00-18:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -7551,7 +7599,7 @@
         "review_keywords": [
             {
                 "keyword": "atmosphere",
-                "count": 31
+                "count": 33
             },
             {
                 "keyword": "Yin Le ",
@@ -7566,15 +7614,15 @@
                 "count": 10
             },
             {
+                "keyword": "Gao ",
+                "count": 8
+            },
+            {
                 "keyword": "Qia Bu Qi Nuo ",
                 "count": 7
             },
             {
                 "keyword": "Song Bing ",
-                "count": 7
-            },
-            {
-                "keyword": "Gao ",
                 "count": 7
             },
             {
@@ -7593,40 +7641,40 @@
         "name": "Mai Mano Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 632,
+        "reviews": 633,
         "competitors": [
             {
                 "name": "Madal Ka Pei Guan ",
                 "link": "https://www.google.com/maps/search/Madal+%E5%92%96%E5%95%A1%E9%A4%A8/@47.4925548,19.0561834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2684,
+                "reviews": 2690,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "My Little Melbourne Coffee",
                 "link": "https://www.google.com/maps/search/My+Little+Melbourne+Coffee/@47.497722599999996,19.057745399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2490,
+                "reviews": 2494,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Podma Cafe",
                 "link": "https://www.google.com/maps/search/Podma+Cafe/@47.5081521,19.0566742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 317,
                 "rating": 4.7,
                 "main_category": "Cha Yi Guan "
             },
             {
                 "name": "Dehogynem kavemuhely",
                 "link": "https://www.google.com/maps/search/Dehogynem+k%C3%A1v%C3%A9m%C5%B1hely/@47.4985666,19.0654008?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
+                "reviews": 117,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -7692,33 +7740,33 @@
         "name": "Steamhouse Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 435,
+        "reviews": 436,
         "competitors": [
             {
                 "name": "Madal Cafe",
                 "link": "https://www.google.com/maps/search/Madal+Cafe/@47.513284999999996,19.0496282?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1848,
+                "reviews": 1854,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Zerge Coffeeshop",
                 "link": "https://www.google.com/maps/search/Z%C3%ABrg%C3%AB+Coffeeshop/@47.4998012,19.0401722?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 899,
+                "reviews": 903,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Pekmuhely",
                 "link": "https://www.google.com/maps/search/P%C3%A9km%C5%B1hely/@47.5070513,19.032218999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 668,
+                "reviews": 669,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Walzer Cafe",
                 "link": "https://www.google.com/maps/search/Walzer+Caf%C3%A9/@47.5039818,19.0322657?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 445,
+                "reviews": 446,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -7804,28 +7852,28 @@
             {
                 "name": "Cirkusz Cafe",
                 "link": "https://www.google.com/maps/search/Cirkusz+Caf%C3%A9/@47.49845690000001,19.061539000000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4814,
+                "reviews": 4824,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Zoska Reggelizo Kavezo",
                 "link": "https://www.google.com/maps/search/Zoska+Reggeliz%C5%91+K%C3%A1v%C3%A9z%C3%B3/@47.4929646,19.060283000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1968,
+                "reviews": 1970,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Pantry Brunch & Coffee",
                 "link": "https://www.google.com/maps/search/Pantry+Brunch+%26+Coffee/@47.49536080000001,19.0617072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 840,
+                "reviews": 841,
                 "rating": 4.7,
                 "main_category": "Zao Wu Can "
             },
             {
                 "name": "Sock's Coffee BUDA",
                 "link": "https://www.google.com/maps/search/Sock%27s+Coffee+BUDA/@47.5080719,19.0283253?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
+                "reviews": 110,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -7899,19 +7947,19 @@
         "name": "A99 Coffee Shop Budapest",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 154,
+        "reviews": 155,
         "competitors": [
             {
                 "name": "9BAR",
                 "link": "https://www.google.com/maps/search/9BAR/@47.501931,19.0559108?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1689,
+                "reviews": 1692,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -7944,6 +7992,8 @@
         "rating": 4.7,
         "workday_timing": "10:00-18:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+45 91 94 93 32",
@@ -7998,21 +8048,21 @@
             {
                 "name": "Cafe Brunch Budapest - Opera",
                 "link": "https://www.google.com/maps/search/Cafe+Brunch+Budapest+-+Opera/@47.5046727,19.0564154?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1645,
+                "reviews": 1651,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Podma Cafe",
                 "link": "https://www.google.com/maps/search/Podma+Cafe/@47.5081521,19.0566742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 316,
+                "reviews": 317,
                 "rating": 4.7,
                 "main_category": "Cha Yi Guan "
             },
@@ -8045,7 +8095,7 @@
             "Zao Wu Can Can Ting "
         ],
         "rating": 4.7,
-        "workday_timing": "08:00-17:00",
+        "workday_timing": "09:00-17:00",
         "closed_on": "Open All Days",
         "phone": "+36 30 609 6111",
         "address": "Budapest, Free Place Cafe, Podmaniczky u. 9, 1065 Xiong Ya Li ",
@@ -8095,28 +8145,28 @@
             {
                 "name": "BITE bakery cafe",
                 "link": "https://www.google.com/maps/search/BITE+bakery+caf%C3%A9/@47.509716,19.0566271?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1707,
+                "reviews": 1711,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Brunch Bistro Budapest",
                 "link": "https://www.google.com/maps/search/Brunch+Bistro+Budapest/@47.502102,19.0552441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1611,
+                "reviews": 1620,
                 "rating": 4.3,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cosy Cafe Budapest",
                 "link": "https://www.google.com/maps/search/Cosy+Caf%C3%A9+Budapest/@47.5085239,19.0606462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1231,
+                "reviews": 1239,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             }
@@ -8160,14 +8210,14 @@
             {
                 "name": "Starbucks Westend Terrace",
                 "link": "https://www.google.com/maps/search/Starbucks+Westend+Terrace/@47.514430499999996,19.0597064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1723,
+                "reviews": 1724,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Starbucks Westend Niagara",
                 "link": "https://www.google.com/maps/search/Starbucks+Westend+Niagara/@47.5123524,19.0576364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 351,
+                "reviews": 352,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -8180,7 +8230,7 @@
             },
             {
                 "name": "Cafe Frei Westend",
-                "link": "https://www.google.com/maps/search/Cafe+Frei+Westend/@47.5132459,19.058921599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Cafe+Frei+Westend/@47.513671599999995,19.0593468?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 143,
                 "rating": 3.4,
                 "main_category": "Ka Pei Dian "
@@ -8210,19 +8260,19 @@
         "name": "LA SERA CAFE",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 89,
+        "reviews": 92,
         "competitors": [
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -8236,7 +8286,7 @@
             {
                 "name": "Caferol Kavezo Bistro",
                 "link": "https://www.google.com/maps/search/Caferol+K%C3%A1v%C3%A9z%C3%B3+Bistro/@47.508534499999996,19.0687347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 348,
+                "reviews": 353,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             }
@@ -8265,6 +8315,10 @@
             {
                 "keyword": "Qing Jie ",
                 "count": 3
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/LA+SERA+CAFE/data=!4m7!3m6!1s0x4741dd307ec00c8f:0x7a98760f925d418d!8m2!3d47.5084166!4d19.0676574!16s%2Fg%2F11t1k1y_3b!19sChIJjwzAfjDdQUcRjUFdkg92mHo?authuser=0&hl=zh-TW&rclk=1"
@@ -8279,21 +8333,21 @@
             {
                 "name": "BITE bakery cafe",
                 "link": "https://www.google.com/maps/search/BITE+bakery+caf%C3%A9/@47.5056985,19.0633889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3314,
+                "reviews": 3332,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Caferol Kavezo Bistro",
                 "link": "https://www.google.com/maps/search/Caferol+K%C3%A1v%C3%A9z%C3%B3+Bistro/@47.508534499999996,19.0687347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 348,
+                "reviews": 353,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -8350,7 +8404,7 @@
         "name": "Robert Capa Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 46,
+        "reviews": 47,
         "competitors": [],
         "website": null,
         "owner": {
@@ -8372,6 +8426,10 @@
             {
                 "keyword": "Ke Song ",
                 "count": 4
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Robert+Capa+Cafe/data=!4m7!3m6!1s0x4741dd597968ee1b:0x33d85335f8588561!8m2!3d47.5023208!4d19.0616139!16s%2Fg%2F11kpm_4kjg!19sChIJG-5oeVndQUcRYYVY-DVT2DM?authuser=0&hl=zh-TW&rclk=1"
@@ -8386,21 +8444,21 @@
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "9BAR",
                 "link": "https://www.google.com/maps/search/9BAR/@47.501931,19.0559108?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1689,
+                "reviews": 1692,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Down Under Bar",
                 "link": "https://www.google.com/maps/search/Down+Under+Bar/@47.504888,19.0594331?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 558,
+                "reviews": 559,
                 "rating": 4.6,
                 "main_category": "Ying Shi Gao Ji Jiu Ba "
             },
@@ -8481,8 +8539,11 @@
             "Ka Pei Dian "
         ],
         "rating": 4.7,
-        "workday_timing": "07:30-17:30",
-        "closed_on": "Open All Days",
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Budapest, Laget Pekseg, Bajcsy-Zsilinszky ut 49, 1065 Xiong Ya Li ",
         "review_keywords": [
@@ -8492,7 +8553,7 @@
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 4
+                "count": 5
             },
             {
                 "keyword": "San Ming Zhi ",
@@ -8510,7 +8571,7 @@
         "name": "Donut and Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 36,
+        "reviews": 37,
         "competitors": [],
         "website": null,
         "owner": {
@@ -8541,13 +8602,13 @@
             {
                 "name": "Starbucks Westend Terrace",
                 "link": "https://www.google.com/maps/search/Starbucks+Westend+Terrace/@47.514430499999996,19.0597064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1723,
+                "reviews": 1724,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Frei Westend",
-                "link": "https://www.google.com/maps/search/Cafe+Frei+Westend/@47.5132459,19.058921599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Cafe+Frei+Westend/@47.513671599999995,19.0593468?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 143,
                 "rating": 3.4,
                 "main_category": "Ka Pei Dian "
@@ -8651,21 +8712,21 @@
             {
                 "name": "Starbucks Gozsdu",
                 "link": "https://www.google.com/maps/search/Starbucks+Gozsdu/@47.499317,19.058359799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 876,
+                "reviews": 877,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "ARIOSO Budapest Cafe & Brunch",
                 "link": "https://www.google.com/maps/search/ARIOSO+Budapest+Caf%C3%A9+%26+Brunch/@47.4987486,19.0576267?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 425,
+                "reviews": 427,
                 "rating": 4.4,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Zao Wu Can "
             },
             {
                 "name": "Blue Bird Cafe",
                 "link": "https://www.google.com/maps/search/Blue+Bird+Cafe/@47.4982422,19.0597072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
+                "reviews": 112,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -8709,14 +8770,14 @@
             {
                 "name": "Lui",
                 "link": "https://www.google.com/maps/search/Lui/@47.505520999999995,19.051793?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 407,
+                "reviews": 411,
                 "rating": 4.9,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Caferol Kavezo Bistro",
                 "link": "https://www.google.com/maps/search/Caferol+K%C3%A1v%C3%A9z%C3%B3+Bistro/@47.508534499999996,19.0687347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 348,
+                "reviews": 353,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -8800,7 +8861,7 @@
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -8814,7 +8875,7 @@
             {
                 "name": "Caferol Kavezo Bistro",
                 "link": "https://www.google.com/maps/search/Caferol+K%C3%A1v%C3%A9z%C3%B3+Bistro/@47.508534499999996,19.0687347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 348,
+                "reviews": 353,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -8855,21 +8916,21 @@
             {
                 "name": "BITE bakery cafe",
                 "link": "https://www.google.com/maps/search/BITE+bakery+caf%C3%A9/@47.5056985,19.0633889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3314,
+                "reviews": 3332,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Muvesz Coffee House (Artist Cafe)",
                 "link": "https://www.google.com/maps/search/M%C5%B1v%C3%A9sz+Coffee+House+%28Artist+Cafe%29/@47.502638,19.060017?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2032,
+                "reviews": 2045,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -8910,28 +8971,28 @@
             {
                 "name": "Cafe Vian Liszt Ferenc ter",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Vian+Liszt+Ferenc+t%C3%A9r/@47.503749899999995,19.0638482?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3422,
+                "reviews": 3423,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Cafe Frei Eiffel square",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+Eiffel+square/@47.5097163,19.058112899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1445,
+                "reviews": 1448,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Incognito Bar Cafe",
                 "link": "https://www.google.com/maps/search/Incognito+Bar+Cafe/@47.5036202,19.063301?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1295,
+                "reviews": 1300,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "California Coffee Company",
                 "link": "https://www.google.com/maps/search/California+Coffee+Company/@47.504226599999996,19.0624196?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1126,
+                "reviews": 1128,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -8981,8 +9042,8 @@
             {
                 "name": "Komedias Kavehaz",
                 "link": "https://www.google.com/maps/search/Kom%C3%A9di%C3%A1s+K%C3%A1v%C3%A9h%C3%A1z/@47.503797,19.0595492?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 502,
-                "rating": 4.4,
+                "reviews": 505,
+                "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
@@ -9084,14 +9145,14 @@
             {
                 "name": "Ecocafe - organic specialty coffee shop",
                 "link": "https://www.google.com/maps/search/Ecocafe+-+organic+specialty+coffee+shop/@47.5076369,19.0665132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1463,
+                "reviews": 1466,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "A99 Coffee Shop Budapest",
                 "link": "https://www.google.com/maps/search/A99+Coffee+Shop+Budapest/@47.5108487,19.0723113?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 154,
+                "reviews": 155,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },

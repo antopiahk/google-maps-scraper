@@ -4,7 +4,7 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1084,
+        "reviews": 1086,
         "competitors": [
             {
                 "name": "Zoldseg es gyumolcs",
@@ -56,7 +56,11 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Gyomaendrod, Lidl, Fo ut 81/2, 5502 Xiong Ya Li ",
         "review_keywords": [],
@@ -67,7 +71,7 @@
         "name": "Three Rivers Pub - Gasztro Haz",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 732,
+        "reviews": 733,
         "competitors": [
             {
                 "name": "Bowling Treff - Etterem",
@@ -93,7 +97,7 @@
             {
                 "name": "Vadasz Sorozo",
                 "link": "https://www.google.com/maps/search/Vad%C3%A1sz+S%C3%B6r%C3%B6z%C5%91/@46.935201199999995,20.821188199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
+                "reviews": 19,
                 "rating": 4.7,
                 "main_category": "Fa Shi Can Ting "
             }
@@ -122,12 +126,12 @@
         "name": "PENNY Gyomaendrod",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 555,
+        "reviews": 557,
         "competitors": [
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@46.9319,20.8010999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1084,
+                "reviews": 1086,
                 "rating": 4.5,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -181,6 +185,61 @@
         "link": "https://www.google.com/maps/place/PENNY+Gyomaendr%C5%91d/data=!4m7!3m6!1s0x4746a3227c39d8cf:0x4ddb1a2fbaffb33c!8m2!3d46.9337381!4d20.8172481!16s%2Fg%2F11bxfrwdw6!19sChIJz9g5fCKjRkcRPLP_ui8a200?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJnw5iUxKjRkcRzp431Q3SZ6k",
+        "name": "Bowling Treff - Etterem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 513,
+        "competitors": [
+            {
+                "name": "Langos Bufe",
+                "link": "https://www.google.com/maps/search/L%C3%A1ngos+B%C3%BCf%C3%A9/@46.9330018,20.787734699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 431,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Holler etterem",
+                "link": "https://www.google.com/maps/search/Holler+etterem/@46.9400024,20.832962?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 366,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Hidfo Etterem",
+                "link": "https://www.google.com/maps/search/H%C3%ADdf%C5%91+%C3%89tterem/@46.9340741,20.772938?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 305,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Pavilon Fogado",
+                "link": "https://www.google.com/maps/search/Pavilon+Fogad%C3%B3/@46.9390079,20.8375669?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 252,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://www.bowlingtreff.hu/",
+        "owner": {
+            "id": null,
+            "name": "Bowling Treff - Etterem (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvg4ZE7wSb_W4YsYISrzN7W7A6pTLKCzP3fIFl=w408-h306-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "11:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 70 406 0381",
+        "address": "Gyomaendrod, Bowling Treff - Etterem, Fo ut 81/1, 5502 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bowling+Treff+-+%C3%89tterem/data=!4m7!3m6!1s0x4746a31253620e9f:0xa967d20dd5379ece!8m2!3d46.9323043!4d20.7966079!16s%2Fg%2F11cs5kt35f!19sChIJnw5iUxKjRkcRzp431Q3SZ6k?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJU6twmt6iRkcR9_zpf7vY1UU",
         "name": "Dreher Sorozo - Etterem",
         "description": null,
@@ -190,7 +249,7 @@
             {
                 "name": "Holler etterem",
                 "link": "https://www.google.com/maps/search/Holler+etterem/@46.9400024,20.832962?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 366,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -204,7 +263,7 @@
             {
                 "name": "Vadasz Sorozo",
                 "link": "https://www.google.com/maps/search/Vad%C3%A1sz+S%C3%B6r%C3%B6z%C5%91/@46.935201199999995,20.821188199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
+                "reviews": 19,
                 "rating": 4.7,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -236,11 +295,66 @@
         "link": "https://www.google.com/maps/place/Dreher+S%C3%B6r%C3%B6z%C5%91+-+%C3%89tterem/data=!4m7!3m6!1s0x4746a2de9a70ab53:0x45d5d8bb7fe9fcf7!8m2!3d46.93652!4d20.8320595!16s%2Fg%2F1vc_p3zr!19sChIJU6twmt6iRkcR9_zpf7vY1UU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJx-pYFtmiRkcRYOPFlpwULXg",
+        "name": "Holler etterem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 366,
+        "competitors": [
+            {
+                "name": "Bowling Treff - Etterem",
+                "link": "https://www.google.com/maps/search/Bowling+Treff+-+%C3%89tterem/@46.9323043,20.796607899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 513,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Dreher Sorozo - Etterem",
+                "link": "https://www.google.com/maps/search/Dreher+S%C3%B6r%C3%B6z%C5%91+-+%C3%89tterem/@46.936519999999994,20.8320595?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 499,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Hidfo Etterem",
+                "link": "https://www.google.com/maps/search/H%C3%ADdf%C5%91+%C3%89tterem/@46.9340741,20.772938?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 305,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Pavilon Fogado",
+                "link": "https://www.google.com/maps/search/Pavilon+Fogad%C3%B3/@46.9390079,20.8375669?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 252,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://www.korospanzio.hu/",
+        "owner": {
+            "id": "116606867207562372389",
+            "name": "Holler etterem (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116606867207562372389"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPAXksVk9O6aPDDwxiKgD7UTIk-hdk4gE6Nctj5=w426-h240-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 66 386 055",
+        "address": "Gyomaendrod, Holler etterem, Szabadsag ter 1, 5500 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Holler+etterem/data=!4m7!3m6!1s0x4746a2d91658eac7:0x782d149c96c5e360!8m2!3d46.9400024!4d20.832962!16s%2Fg%2F11c0t9hcwc!19sChIJx-pYFtmiRkcRYOPFlpwULXg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJORDtPdmiRkcRsTTjBd3UUS8",
         "name": "Koros Hotel",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 217,
+        "reviews": 218,
         "competitors": [],
         "website": "http://korospanzio.hu/",
         "owner": {
@@ -266,7 +380,7 @@
         "name": "JANKER Ital, Elelmiszer es Vegyiaru Gyomaendrod",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 160,
+        "reviews": 161,
         "competitors": [
             {
                 "name": "Spar Sutoipari es Kereskedelmi Kft. 4. sz. bolt",
@@ -299,7 +413,7 @@
             {
                 "name": "Familia Uzlethaz",
                 "link": "https://www.google.com/maps/search/Fam%C3%ADlia+%C3%9Czleth%C3%A1z/@46.9369788,20.8250577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
+                "reviews": 8,
                 "rating": 4.9,
                 "main_category": "Shang Dian "
             }
@@ -319,7 +433,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 263 7720",
         "address": "Gyomaendrod, JANKER Ital, Elelmiszer es Vegyiaru Gyomaendrod, Kossuth Lajos ut 27, 5500 Xiong Ya Li ",
         "review_keywords": [],
@@ -330,9 +447,9 @@
         "name": "Ket Ur Dohanybolt, Lottozo es Kavezo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 139,
+        "reviews": 141,
         "competitors": [],
-        "website": "https://www.facebook.com/pages/K%C3%A9t-%C3%9Ar-S%C3%B6r%C3%B6z%C5%91-%C3%A9s-Doh%C3%A1nybolt/189402474538120",
+        "website": "https://www.facebook.com/pages/K%25C3%25A9t-%25C3%259Ar-S%25C3%25B6r%25C3%25B6z%25C5%2591-%25C3%25A9s-Doh%25C3%25A1nybolt/189402474538120",
         "owner": {
             "id": "114714164744641984199",
             "name": "Ket Ur Dohanybolt, Lottozo es Kavezo (Ye Zhu )",
@@ -368,7 +485,7 @@
             {
                 "name": "PENNY Gyomaendrod",
                 "link": "https://www.google.com/maps/search/PENNY+Gyomaendr%C5%91d/@46.9337381,20.8172481?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 554,
+                "reviews": 557,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -415,7 +532,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "05:30-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 747 5246",
         "address": "Gyomaendrod, SPAR Market, Bajcsy-Zsilinszky ut 49, 5500 Xiong Ya Li ",
         "review_keywords": [],
@@ -426,7 +546,7 @@
         "name": "Zold Endre Zold Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 82,
+        "reviews": 83,
         "competitors": [
             {
                 "name": "Tibi Confectionery",
@@ -457,7 +577,7 @@
                 "main_category": "Tang Guo Gao Bing Pi Fa Shang "
             }
         ],
-        "website": "https://www.facebook.com/profile.php%3Fid%3D100085641489338",
+        "website": "https://www.facebook.com/profile.php?id=100085641489338",
         "owner": {
             "id": null,
             "name": "Zold Endre Zold Cukraszda (Ye Zhu )",
@@ -535,7 +655,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "05:30-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 747 5592",
         "address": "Gyomaendrod, SPAR partner, Kossuth Lajos ut 2, 5500 Xiong Ya Li ",
         "review_keywords": [],
@@ -726,7 +849,7 @@
         "name": "Vadasz Sorozo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 18,
+        "reviews": 19,
         "competitors": [
             {
                 "name": "Bowling Treff - Etterem",
@@ -875,7 +998,7 @@
             {
                 "name": "Siker Sutoipari es Kereskedelmi Kft. 1. sz. bolt",
                 "link": "https://www.google.com/maps/search/Sik%C3%A9r+S%C3%BCt%C5%91ipari+%C3%A9s+Kereskedelmi+Kft.+1.+sz.+bolt/@46.932769799999996,20.778750799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.6,
                 "main_category": "Za Huo Dian "
             },
@@ -956,32 +1079,6 @@
         "link": "https://www.google.com/maps/place/BORA-Ital+Kiskereskedelmi+Kft./data=!4m7!3m6!1s0x4746a30eb50252ef:0x6efcbe9a144779fe!8m2!3d46.9336893!4d20.8114541!16s%2Fg%2F11kqkk7wkr!19sChIJ71ICtQ6jRkcR_nlHFJq-_G4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJS19pWHajRkcRRNnKTSYOflc",
-        "name": "18 Nemzeti Dohanybolt Gyomaendrod",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": "http://nemzetidohany.hu/",
-        "owner": {
-            "id": null,
-            "name": "18 Nemzeti Dohanybolt Gyomaendrod (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=18GdBTiRCgz6XvOa1g6fSQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=229.78474&pitch=0&thumbfov=100",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Gyomaendrod, 18 Nemzeti Dohanybolt Gyomaendrod, 5502 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/18+Nemzeti+Doh%C3%A1nybolt+Gyomaendr%C5%91d/data=!4m7!3m6!1s0x4746a37658695f4b:0x577e0e264dcad944!8m2!3d46.9258678!4d20.7772335!16s%2Fg%2F11h_smxcp5!19sChIJS19pWHajRkcRRNnKTSYOflc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ1WG23n29RkcRfQiYwP74Rvg",
         "name": "KiK Gyomaendrod",
         "description": null,
@@ -1031,14 +1128,14 @@
             {
                 "name": "Langos Bufe",
                 "link": "https://www.google.com/maps/search/L%C3%A1ngos+B%C3%BCf%C3%A9/@46.9330018,20.787734699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 430,
+                "reviews": 431,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Holler etterem",
                 "link": "https://www.google.com/maps/search/Holler+etterem/@46.9400024,20.832962?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 366,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             }
@@ -1072,7 +1169,7 @@
             {
                 "name": "Zold Endre Zold Cukraszda",
                 "link": "https://www.google.com/maps/search/Z%C3%B6ld+Endre+Z%C3%B6ld+Cukr%C3%A1szda/@46.931908500000006,20.8289781?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -1141,7 +1238,7 @@
             {
                 "name": "Siker Sutoipari es Kereskedelmi Kft. 1. sz. bolt",
                 "link": "https://www.google.com/maps/search/Sik%C3%A9r+S%C3%BCt%C5%91ipari+%C3%A9s+Kereskedelmi+Kft.+1.+sz.+bolt/@46.932769799999996,20.778750799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.6,
                 "main_category": "Za Huo Dian "
             },
@@ -1189,7 +1286,7 @@
             {
                 "name": "PENNY Gyomaendrod",
                 "link": "https://www.google.com/maps/search/PENNY+Gyomaendr%C5%91d/@46.9337381,20.8172481?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 554,
+                "reviews": 557,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -1203,8 +1300,8 @@
             {
                 "name": "Sportcsarnok, Varosi",
                 "link": "https://www.google.com/maps/search/Sportcsarnok%2C+V%C3%A1rosi/@46.938240699999994,20.833913499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 4.4,
+                "reviews": 60,
+                "rating": 4.5,
                 "main_category": "Zong He Yun Dong Zhong Xin "
             },
             {
@@ -1264,7 +1361,7 @@
             {
                 "name": "Siker Sutoipari es Kereskedelmi Kft. 1. sz. bolt",
                 "link": "https://www.google.com/maps/search/Sik%C3%A9r+S%C3%BCt%C5%91ipari+%C3%A9s+Kereskedelmi+Kft.+1.+sz.+bolt/@46.932769799999996,20.778750799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.6,
                 "main_category": "Za Huo Dian "
             },
@@ -1395,7 +1492,7 @@
             {
                 "name": "Siker Sutoipari es Kereskedelmi Kft. 1. sz. bolt",
                 "link": "https://www.google.com/maps/search/Sik%C3%A9r+S%C3%BCt%C5%91ipari+%C3%A9s+Kereskedelmi+Kft.+1.+sz.+bolt/@46.932769799999996,20.778750799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.6,
                 "main_category": "Za Huo Dian "
             },
@@ -1450,7 +1547,7 @@
             {
                 "name": "Holler etterem",
                 "link": "https://www.google.com/maps/search/Holler+etterem/@46.9400024,20.832962?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 366,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1464,7 +1561,7 @@
             {
                 "name": "Vadasz Sorozo",
                 "link": "https://www.google.com/maps/search/Vad%C3%A1sz+S%C3%B6r%C3%B6z%C5%91/@46.935201199999995,20.821188199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
+                "reviews": 19,
                 "rating": 4.7,
                 "main_category": "Fa Shi Can Ting "
             }
@@ -1553,7 +1650,7 @@
             {
                 "name": "PENNY Gyomaendrod",
                 "link": "https://www.google.com/maps/search/PENNY+Gyomaendr%C5%91d/@46.9337381,20.8172481?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 554,
+                "reviews": 557,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -1710,7 +1807,7 @@
             {
                 "name": "Siker Sutoipari es Kereskedelmi Kft. 1. sz. bolt",
                 "link": "https://www.google.com/maps/search/Sik%C3%A9r+S%C3%BCt%C5%91ipari+%C3%A9s+Kereskedelmi+Kft.+1.+sz.+bolt/@46.932769799999996,20.778750799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.6,
                 "main_category": "Za Huo Dian "
             },
@@ -1753,7 +1850,7 @@
         "name": "Babecz es Tarsa Bt.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 19,
+        "reviews": 20,
         "competitors": [
             {
                 "name": "Butor Lakberendezesi Aruhaz",
@@ -1795,7 +1892,7 @@
         "categories": [
             "Jia Dian "
         ],
-        "rating": 4.6,
+        "rating": 4.7,
         "workday_timing": "08:00-17:00",
         "closed_on": [
             "Xing Qi Ri "
@@ -1822,7 +1919,7 @@
             {
                 "name": "Zold Endre Zold Cukraszda",
                 "link": "https://www.google.com/maps/search/Z%C3%B6ld+Endre+Z%C3%B6ld+Cukr%C3%A1szda/@46.931908500000006,20.8289781?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -1991,7 +2088,7 @@
             {
                 "name": "Zold Endre Zold Cukraszda",
                 "link": "https://www.google.com/maps/search/Z%C3%B6ld+Endre+Z%C3%B6ld+Cukr%C3%A1szda/@46.931908500000006,20.8289781?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
+                "reviews": 83,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -2034,7 +2131,7 @@
         "name": "Panda market",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": null,
+        "reviews": 1,
         "competitors": [],
         "website": null,
         "owner": {
@@ -2047,7 +2144,7 @@
         "categories": [
             "Bian Li Dian "
         ],
-        "rating": null,
+        "rating": 5,
         "workday_timing": "08:00-18:00",
         "closed_on": [
             "Xing Qi Ri "
@@ -2056,5 +2153,67 @@
         "address": "Xiong Ya Li  Gyomaendrod, Pasztor Janos u., Panda marketYou Zheng Bian Ma : 5500",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Panda+market/data=!4m7!3m6!1s0x4746a3ef9cd8f929:0xbb2bd73c87da2273!8m2!3d46.9332565!4d20.8182232!16s%2Fg%2F11t_ky5bwr!19sChIJKfnYnO-jRkcRcyLahzzXK7s?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJEy3QuiijRkcRTn3pf-6VckA",
+        "name": "Elelmiszerbolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Spar Sutoipari es Kereskedelmi Kft. 4. sz. bolt",
+                "link": "https://www.google.com/maps/search/Spar+S%C3%BCt%C5%91ipari+%C3%A9s+Kereskedelmi+Kft.+4.+sz.+bolt/@46.938043,20.832186999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 169,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "SPAR Market",
+                "link": "https://www.google.com/maps/search/SPAR+Market/@46.93593,20.824532?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 135,
+                "rating": 4.4,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Privat Elelmiszer",
+                "link": "https://www.google.com/maps/search/Priv%C3%A1t+%C3%89lelmiszer/@46.931872299999995,20.774144700000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 72,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Plus Market",
+                "link": "https://www.google.com/maps/search/Plus+Market/@46.93723730000001,20.8257642?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.9,
+                "main_category": "Bai Huo Gong Si "
+            },
+            {
+                "name": "Zoldseg es gyumolcs",
+                "link": "https://www.google.com/maps/search/Z%C3%B6lds%C3%A9g+%C3%A9s+gy%C3%BCm%C3%B6lcs/@46.9382266,20.827626799999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 4.5,
+                "main_category": "Chao Ji Shi Chang "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Elelmiszerbolt (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OjLS7b74gwoC5GHhZsDDbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=329.0668&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": null,
+        "workday_timing": "04:30-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 66 386 565",
+        "address": "Gyomaendrod, Elelmiszerbolt, Hosok tere 10/1, 5500 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C3%89lelmiszerbolt/data=!4m7!3m6!1s0x4746a328bad02d13:0x407295ee7fe97d4e!8m2!3d46.9372554!4d20.8330307!16s%2Fg%2F1tf749k6!19sChIJEy3QuiijRkcRTn3pf-6VckA?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

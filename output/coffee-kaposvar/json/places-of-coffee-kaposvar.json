@@ -4,19 +4,19 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 3306,
+        "reviews": 3309,
         "competitors": [
             {
                 "name": "Burger King Kaposvar",
                 "link": "https://www.google.com/maps/search/Burger+King+Kaposv%C3%A1r/@46.3536317,17.7941867?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1222,
+                "reviews": 1223,
                 "rating": 4.3,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "KFC Kaposvar DT",
                 "link": "https://www.google.com/maps/search/KFC+Kaposv%C3%A1r+DT/@46.3597894,17.7830609?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 620,
+                "reviews": 622,
                 "rating": 3.8,
                 "main_category": "Kuai Can "
             },
@@ -30,7 +30,7 @@
             {
                 "name": "KP Burger & Etelmuhely Kaposvar",
                 "link": "https://www.google.com/maps/search/KP+Burger+%26+%C3%89telm%C5%B1hely+Kaposv%C3%A1r/@46.361909499999996,17.7877886?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
+                "reviews": 129,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -55,7 +55,10 @@
         ],
         "rating": 4.2,
         "workday_timing": "07:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Kaposvar, McDonald's, Berzsenyi u. 11, 7400 Xiong Ya Li ",
         "review_keywords": [
@@ -71,7 +74,7 @@
         "name": "Hotel Kapos",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1415,
+        "reviews": 1418,
         "competitors": [],
         "website": "http://www.kaposhotel.hu/",
         "owner": {
@@ -121,7 +124,7 @@
         "name": "Neu Olasz Fagyizo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1340,
+        "reviews": 1341,
         "competitors": [
             {
                 "name": "Gard'Ann Cukraszda",
@@ -240,7 +243,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "07:30-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 182 0849",
         "address": "Kaposvar, Cafe Frei Kaposvar, Teleki u. 7, 7400 Xiong Ya Li ",
         "review_keywords": [
@@ -256,12 +262,12 @@
         "name": "Florida Burger City - Gyorsetterem Street Food Hamburger",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 664,
+        "reviews": 665,
         "competitors": [
             {
                 "name": "Texas Burger",
                 "link": "https://www.google.com/maps/search/Texas+Burger/@46.358588999999995,17.787869999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1059,
+                "reviews": 1060,
                 "rating": 4.4,
                 "main_category": "Mei Shi Can Che Dian "
             },
@@ -309,7 +315,7 @@
             "Wai Mai Zi Qu Can Ting "
         ],
         "rating": 4.3,
-        "workday_timing": "09:00-22:00",
+        "workday_timing": "09:00-21:00",
         "closed_on": [
             "Xing Qi Ri "
         ],
@@ -323,19 +329,19 @@
         "name": "KFC Kaposvar DT",
         "description": "Lian Suo Can Ting ,Yi Zha Ji Tong , Tao Can He Pei Can Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 621,
+        "reviews": 623,
         "competitors": [
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@46.3591966,17.7833492?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3306,
+                "reviews": 3308,
                 "rating": 4.2,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Burger King Kaposvar",
                 "link": "https://www.google.com/maps/search/Burger+King+Kaposv%C3%A1r/@46.3536317,17.7941867?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1222,
+                "reviews": 1223,
                 "rating": 4.3,
                 "main_category": "Kuai Can "
             },
@@ -349,7 +355,7 @@
             {
                 "name": "KP Burger & Etelmuhely Kaposvar",
                 "link": "https://www.google.com/maps/search/KP+Burger+%26+%C3%89telm%C5%B1hely+Kaposv%C3%A1r/@46.361909499999996,17.7877886?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
+                "reviews": 129,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -374,73 +380,14 @@
         ],
         "rating": 3.8,
         "workday_timing": "08:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 649 8645",
         "address": "Kaposvar, KFC Kaposvar DT, Berzsenyi u. 13, 7400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/KFC+Kaposv%C3%A1r+DT/data=!4m7!3m6!1s0x4768150d08378b25:0xa90f55104ad74956!8m2!3d46.3597894!4d17.7830609!16s%2Fg%2F11n2q3j86f!19sChIJJYs3CA0VaEcRVknXShBVD6k?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJjeGhqOs9aEcRu1HwdhOljvc",
-        "name": "McDonald's",
-        "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
-        "is_spending_on_ads": false,
-        "reviews": 512,
-        "competitors": [
-            {
-                "name": "ALDI",
-                "link": "https://www.google.com/maps/search/ALDI/@46.3659414,17.8058865?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 915,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "KFC Kaposvar DT",
-                "link": "https://www.google.com/maps/search/KFC+Kaposv%C3%A1r+DT/@46.3597894,17.7830609?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 620,
-                "rating": 3.8,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Dorottya Bisztro",
-                "link": "https://www.google.com/maps/search/Dorottya+Bisztro/@46.3568596,17.7945377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "DEICHMANN",
-                "link": "https://www.google.com/maps/search/DEICHMANN/@46.3638231,17.8094862?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 104,
-                "rating": 4.4,
-                "main_category": "Xie Pin Dian "
-            },
-            {
-                "name": "dm-drogerie markt Kft.",
-                "link": "https://www.google.com/maps/search/dm-drogerie+markt+Kft./@46.36323410000001,17.810195999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.9,
-                "main_category": "Yao Fang "
-            }
-        ],
-        "website": "https://www.mcdonalds.hu/ettermeink/kaposvar-spar",
-        "owner": {
-            "id": "107013197829688724421",
-            "name": "McDonald's (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107013197829688724421"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOkk3PiR_EjYTRsxPP6AXzlcPsWEykLBxIZRNo1=w427-h240-k-no",
-        "main_category": "Kuai Can Dian ",
-        "categories": [
-            "Kuai Can Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Kaposvar, McDonald's, Arpad u. 20, 7400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x47683deba8a1e18d:0xf78ea51376f051bb!8m2!3d46.364582!4d17.8090934!16s%2Fg%2F11p4zxft9_!19sChIJjeGhqOs9aEcRu1HwdhOljvc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ0xgFr_0VaEcROerHxFIR9jg",
@@ -459,7 +406,7 @@
             {
                 "name": "Subito Pizzeria",
                 "link": "https://www.google.com/maps/search/Subito+Pizz%C3%A9ria/@46.352736799999995,17.7991599?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 290,
+                "reviews": 292,
                 "rating": 4.3,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -473,7 +420,7 @@
             {
                 "name": "KP Burger & Etelmuhely Kaposvar",
                 "link": "https://www.google.com/maps/search/KP+Burger+%26+%C3%89telm%C5%B1hely+Kaposv%C3%A1r/@46.361909499999996,17.7877886?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
+                "reviews": 129,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -593,7 +540,10 @@
         ],
         "rating": 4.8,
         "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 362 8122",
         "address": "Kaposvar, Emperor Restaurant (lottery), Kaposret sor 79, 7400 Xiong Ya Li ",
         "review_keywords": [],
@@ -609,7 +559,7 @@
             {
                 "name": "Slendy Bakery",
                 "link": "https://www.google.com/maps/search/Slendy+Bakery/@46.3565921,17.7982753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 485,
+                "reviews": 488,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -637,8 +587,8 @@
             {
                 "name": "Pekeraj pekseg",
                 "link": "https://www.google.com/maps/search/Peker%C3%A1j+p%C3%A9ks%C3%A9g/@46.356521900000004,17.793620699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.1,
+                "reviews": 10,
+                "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
@@ -702,7 +652,7 @@
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://www.facebook.com/pg/SaSaCafeEszpresszo/about/%3Fref%3Dpage_internal",
+        "website": "https://www.facebook.com/pg/SaSaCafeEszpresszo/about/?ref=page_internal",
         "owner": {
             "id": "116420685831420263778",
             "name": "Sasa Caffee Espresso (Ye Zhu )",
@@ -726,12 +676,12 @@
         "name": "Memoriae Restaurant Delicates & Brunch",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 179,
+        "reviews": 180,
         "competitors": [
             {
                 "name": "Gecco Mexican Restaurant",
                 "link": "https://www.google.com/maps/search/Gecco+Mexican+Restaurant/@46.3583918,17.796915?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1516,
+                "reviews": 1517,
                 "rating": 4.8,
                 "main_category": "Mo Xi Ge Cai "
             },
@@ -745,7 +695,7 @@
             {
                 "name": "Cser Vendeglo",
                 "link": "https://www.google.com/maps/search/Cser+Vend%C3%A9gl%C5%91/@46.3515106,17.772135199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 292,
+                "reviews": 295,
                 "rating": 4,
                 "main_category": "Can Ting "
             },
@@ -781,7 +731,7 @@
         "name": "Agi Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 164,
+        "reviews": 165,
         "competitors": [
             {
                 "name": "Gard'Ann Cukraszda",
@@ -846,7 +796,7 @@
         "name": "Egykavezo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 151,
+        "reviews": 152,
         "competitors": [
             {
                 "name": "Rosco Kavezo",
@@ -897,11 +847,11 @@
         "link": "https://www.google.com/maps/place/Egyk%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x476815fa41d46ed1:0x4a45e7bbc1ed309c!8m2!3d46.3568415!4d17.7905365!16s%2Fg%2F11flgh806_!19sChIJ0W7UQfoVaEcRnDDtwbvnRUo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ-fnXw_wVaEcRtfXwrWVD97E",
-        "name": "FagyiZona",
+        "place_id": "ChIJV6jyZjE_aEcRqTLrHvMAoGE",
+        "name": "Kisfaludy Cukraszda es Fagyizo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 147,
+        "reviews": 129,
         "competitors": [
             {
                 "name": "Neu Olasz Fagyizo",
@@ -911,10 +861,17 @@
                 "main_category": "Tian Pin Dian "
             },
             {
-                "name": "Kisfaludy Cukraszda es Fagyizo",
-                "link": "https://www.google.com/maps/search/Kisfaludy+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.3696784,17.7876905?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "name": "Agi Cukraszda",
+                "link": "https://www.google.com/maps/search/%C3%81gi+Cukr%C3%A1szda/@46.410764900000004,17.7792531?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 164,
                 "rating": 4.6,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Ibolya Cukraszda",
+                "link": "https://www.google.com/maps/search/Ibolya+Cukr%C3%A1szda/@46.3614763,17.7877455?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 160,
+                "rating": 4.3,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
             {
@@ -925,13 +882,6 @@
                 "main_category": "Shuang Dong You Ge "
             },
             {
-                "name": "Malna fagylaltozo",
-                "link": "https://www.google.com/maps/search/M%C3%A1lna+fagylaltoz%C3%B3/@46.3564003,17.792371199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 5,
-                "main_category": "Shuang Dong You Ge "
-            },
-            {
                 "name": "Sarokhaz Cukraszda",
                 "link": "https://www.google.com/maps/search/Sarokh%C3%A1z+Cukr%C3%A1szda/@46.3537244,17.7925683?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 4,
@@ -939,27 +889,25 @@
                 "main_category": "Tang Guo Gao Bing Dian "
             }
         ],
-        "website": "https://www.facebook.com/Fagyiz%25C3%25B3na-301129579939420/",
+        "website": "http://www.neuolaszfagyi.hu/",
         "owner": {
-            "id": "100702284497779038483",
-            "name": "FagyiZona (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100702284497779038483"
+            "id": "118279723151519307552",
+            "name": "Kisfaludy Cukraszda es Fagyizo (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/118279723151519307552"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_CMFR2Mpjv5WK9_l0q_4pK2Q-l2yA9DFaRSiH=w408-h677-k-no",
-        "main_category": "Xue Gao Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN64Mq7K1Thaei-Uwbr1uUIDJcuZaWgNRc1ZPes=w425-h240-k-no",
+        "main_category": "Tang Guo Gao Bing Dian ",
         "categories": [
-            "Xue Gao Dian ",
-            "Ka Pei Ting ",
             "Tang Guo Gao Bing Dian ",
-            "Ru Luo Xue Gao Dian "
+            "Xue Gao Dian "
         ],
-        "rating": 4.7,
-        "workday_timing": null,
+        "rating": 4.6,
+        "workday_timing": "11:00-18:00",
         "closed_on": "Open All Days",
-        "phone": "+36 20 327 0413",
-        "address": "Kaposvar, FagyiZona, Teleki u. 11, 7400 Xiong Ya Li ",
+        "phone": "+36 30 378 5873",
+        "address": "Kaposvar, Kisfaludy Cukraszda es Fagyizo, Kisfaludy u. 29, 7400 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/FagyiZ%C3%B3na/data=!4m7!3m6!1s0x476815fcc3d7f9f9:0xb1f74365adf0f5b5!8m2!3d46.354718!4d17.791676!16s%2Fg%2F11ddzhtgg3!19sChIJ-fnXw_wVaEcRtfXwrWVD97E?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Kisfaludy+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/data=!4m7!3m6!1s0x47683f3166f2a857:0x61a000f31eeb32a9!8m2!3d46.3696784!4d17.7876905!16s%2Fg%2F11j6mtwbsj!19sChIJV6jyZjE_aEcRqTLrHvMAoGE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJGTjNy9Y9aEcRm-0X0nkjSVg",
@@ -1010,7 +958,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "05:00-13:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 269 1272",
         "address": "Kaposvar, Deseda Bakery and Confectionery Plant Kft., Kemping u. 7, 7400 Xiong Ya Li ",
         "review_keywords": [],
@@ -1250,6 +1201,9 @@
         "rating": 5,
         "workday_timing": "08:00-17:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -1325,7 +1279,7 @@
             {
                 "name": "TESCO",
                 "link": "https://www.google.com/maps/search/TESCO/@46.36038,17.78185?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4941,
+                "reviews": 4943,
                 "rating": 3.8,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -1353,8 +1307,8 @@
             {
                 "name": "Pekeraj pekseg",
                 "link": "https://www.google.com/maps/search/Peker%C3%A1j+p%C3%A9ks%C3%A9g/@46.356521900000004,17.793620699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.1,
+                "reviews": 10,
+                "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
@@ -1378,6 +1332,71 @@
         "link": "https://www.google.com/maps/place/Lip%C3%B3ti+Bakery/data=!4m7!3m6!1s0x476815f098383a15:0x250fbff16cc22058!8m2!3d46.3606211!4d17.7819299!16s%2Fg%2F11c5r5kmkm!19sChIJFTo4mPAVaEcRWCDCbPG_DyU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ8WRrRTs_aEcRViq2mM33uUw",
+        "name": "Vivi Edesszalon",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "competitors": [
+            {
+                "name": "Neu Olasz Fagyizo",
+                "link": "https://www.google.com/maps/search/Neu+Olasz+Fagyiz%C3%B3/@46.3551602,17.791543?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1339,
+                "rating": 4.5,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Gard'Ann Cukraszda",
+                "link": "https://www.google.com/maps/search/Gard%27Ann+Cukr%C3%A1szda/@46.3563991,17.78983?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 327,
+                "rating": 4.6,
+                "main_category": "Tang Guo Gao Bing Dian "
+            },
+            {
+                "name": "Ibolya Cukraszda",
+                "link": "https://www.google.com/maps/search/Ibolya+Cukr%C3%A1szda/@46.3614763,17.7877455?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 160,
+                "rating": 4.3,
+                "main_category": "Tang Guo Gao Bing Dian "
+            },
+            {
+                "name": "Kisfaludy Cukraszda es Fagyizo",
+                "link": "https://www.google.com/maps/search/Kisfaludy+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.3696784,17.7876905?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 129,
+                "rating": 4.6,
+                "main_category": "Tang Guo Gao Bing Dian "
+            },
+            {
+                "name": "B.B. Cuki",
+                "link": "https://www.google.com/maps/search/B.B.+Cuki/@46.355024799999995,17.7947588?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 39,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://www.viviedesmuhely.com/",
+        "owner": {
+            "id": "106040535142208966639",
+            "name": "Vivi Edesszalon (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106040535142208966639"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOGkOcWihBL3_PcJ7J4Qo5VqIIRcJn9tXD40ndq=w408-h544-k-no",
+        "main_category": "Tian Pin Dian ",
+        "categories": [
+            "Tian Pin Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 204 6060",
+        "address": "Kaposvar, Vivi Edesszalon, Szent Imre u. 41, 7400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vivi+%C3%89desszalon/data=!4m7!3m6!1s0x47683f3b456b64f1:0x4cb9f7cd98b62a56!8m2!3d46.3665845!4d17.7935033!16s%2Fg%2F11nx3j0vh1!19sChIJ8WRrRTs_aEcRViq2mM33uUw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJP4J-f5oVaEcRksht64pRB6c",
         "name": "Kapos Kavehaz",
         "description": null,
@@ -1387,7 +1406,7 @@
             {
                 "name": "Hotel Kapos",
                 "link": "https://www.google.com/maps/search/Hotel+Kapos/@46.3566386,17.7879255?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1414,
+                "reviews": 1418,
                 "rating": 4.4,
                 "main_category": "2 Xing Ji Fan Dian "
             },
@@ -1445,6 +1464,71 @@
         "link": "https://www.google.com/maps/place/Kapos+K%C3%A1v%C3%A9h%C3%A1z/data=!4m7!3m6!1s0x4768159a7f7e823f:0xa707518aeb6dc892!8m2!3d46.3564881!4d17.7876686!16s%2Fg%2F11r_y6650t!19sChIJP4J-f5oVaEcRksht64pRB6c?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJU6qb7u8VaEcRmibj8I_pjpw",
+        "name": "Caffe Brando Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "competitors": [
+            {
+                "name": "Roastopus Coffee Roastery",
+                "link": "https://www.google.com/maps/search/Roastopus+Coffee+Roastery/@46.395433399999995,17.840122?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 5,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Puratos Zrt.",
+                "link": "https://www.google.com/maps/search/Puratos+Zrt./@46.3538638,17.778399699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.2,
+                "main_category": "Hong Bei Yong Ju Dian "
+            },
+            {
+                "name": "Nika Caffe Kavegepbolt",
+                "link": "https://www.google.com/maps/search/Nika+Caffe+K%C3%A1v%C3%A9g%C3%A9pbolt/@46.3613954,17.78596?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Ka Pei Ji Gong Ying Shang "
+            },
+            {
+                "name": "Bonus-Cafeteria Kft.",
+                "link": "https://www.google.com/maps/search/Bonus-Cafeteria+Kft./@46.3572116,17.760928099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Peet Coffe",
+                "link": "https://www.google.com/maps/search/Peet+Coffe/@46.3526682,17.781127899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ji Gong Ying Shang "
+            }
+        ],
+        "website": "http://www.caffebrando.hu/hu",
+        "owner": {
+            "id": "107503902337829970440",
+            "name": "Caffe Brando Kft. (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107503902337829970440"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP8ZsCrZSjOz6s_pxHUq9QaqwvVfMC9kezQeMn_=w408-h408-k-no",
+        "main_category": "Ka Pei Pi Fa Shang ",
+        "categories": [
+            "Ka Pei Pi Fa Shang "
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 82 510 610",
+        "address": "Kaposvar, Caffe Brando Kft., Cseri ut 2, 7400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caffe+Brando+Kft./data=!4m7!3m6!1s0x476815efee9baa53:0x9c8ee98ff0e3269a!8m2!3d46.359741!4d17.7726734!16s%2Fg%2F1tf3mqd0!19sChIJU6qb7u8VaEcRmibj8I_pjpw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJdwlt9f0VaEcR63NoM90emWM",
         "name": "Slendy Suti mintabolt",
         "description": null,
@@ -1454,7 +1538,7 @@
             {
                 "name": "Slendy Bakery",
                 "link": "https://www.google.com/maps/search/Slendy+Bakery/@46.3565921,17.7982753?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 485,
+                "reviews": 488,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1508,6 +1592,193 @@
         "address": "Kaposvar, Slendy Suti mintabolt, Anna u. 1, 7400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Slendy+S%C3%BCti+mintabolt/data=!4m7!3m6!1s0x476815fdf56d0977:0x63991edd336873eb!8m2!3d46.3565472!4d17.797584!16s%2Fg%2F1q69ngg3l!19sChIJdwlt9f0VaEcR63NoM90emWM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJq9FA1y8_aEcRfLmFuZytqoM",
+        "name": "Kovacs ABC",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "competitors": [
+            {
+                "name": "GLS Hungary",
+                "link": "https://www.google.com/maps/search/GLS+Hungary/@46.3815427,17.768389199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 3.2,
+                "main_category": "Wu Liu Fu Wu "
+            },
+            {
+                "name": "Cobra Videoteka, GLS CsomagPont , Packeta ( Packeta csak keszpenz)",
+                "link": "https://www.google.com/maps/search/Cobra+Videot%C3%A9ka%2C+GLS+CsomagPont+%2C+Packeta+%28+Packeta+csak+k%C3%A9szp%C3%A9nz%29/@46.364732499999995,17.7878305?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 19,
+                "rating": 5,
+                "main_category": "DVD Dian "
+            },
+            {
+                "name": "Baross ABC",
+                "link": "https://www.google.com/maps/search/Baross+ABC/@46.3529972,17.7986284?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Ado & Szamvitel Kft.",
+                "link": "https://www.google.com/maps/search/Ad%C3%B3+%26+Sz%C3%A1mvitel+Kft./@46.361756799999995,17.7902091?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Hui Ji Gong Si "
+            }
+        ],
+        "website": "https://hu-hu.facebook.com/abckovacs/",
+        "owner": {
+            "id": "115077426851190720663",
+            "name": "Kovacs ABC (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115077426851190720663"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOSmUSzqAemo6IRWXa3ZTDvvUB-K2KBJPGc5oqL=w426-h240-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian ",
+            "Za Huo Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 82 512 114",
+        "address": "Kaposvar, Kovacs ABC, Damjanich u. 35, 7400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kov%C3%A1cs+ABC/data=!4m7!3m6!1s0x47683f2fd740d1ab:0x83aaad9cb985b97c!8m2!3d46.3621292!4d17.8006087!16s%2Fg%2F11fmrg35hq!19sChIJq9FA1y8_aEcRfLmFuZytqoM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ61VctQkWaEcRsIiT5vYVNwI",
+        "name": "Brunner Sutoipari Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "competitors": [
+            {
+                "name": "Toth Sutoipari Kft",
+                "link": "https://www.google.com/maps/search/T%C3%B3th+S%C3%BCt%C5%91ipari+Kft/@46.368035,17.766425899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Toth Sutoipari Kft.",
+                "link": "https://www.google.com/maps/search/T%C3%B3th+S%C3%BCt%C5%91ipari+Kft./@46.363363199999995,17.7877662?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pojtner Pekseg",
+                "link": "https://www.google.com/maps/search/Pojtner+P%C3%A9ks%C3%A9g/@46.366901899999995,17.791120400000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 39,
+                "rating": 4.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Slendy Suti mintabolt",
+                "link": "https://www.google.com/maps/search/Slendy+S%C3%BCti+mintabolt/@46.3565472,17.797584?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pekeraj pekseg",
+                "link": "https://www.google.com/maps/search/Peker%C3%A1j+p%C3%A9ks%C3%A9g/@46.356521900000004,17.793620699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://brunnerpekseg.hu/",
+        "owner": {
+            "id": null,
+            "name": "Brunner Sutoipari Kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrc5ytHD4dXfTfFCdF7ff03YD0pNh7_HRud4Pa=w408-h725-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 82 510 561",
+        "address": "Kaposvar, Brunner Sutoipari Kft., Nyar u. 23, 7400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Brunner+S%C3%BCt%C5%91ipari+Kft./data=!4m7!3m6!1s0x47681609b55c55eb:0x23715f6e69388b0!8m2!3d46.349992!4d17.7957762!16s%2Fg%2F1vxw71g3!19sChIJ61VctQkWaEcRsIiT5vYVNwI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ8P2V_c9aEcRX51flgSlWLA",
+        "name": "Meroi Kenyargyar es Cukrasz uzem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "competitors": [
+            {
+                "name": "Host Meat Shops",
+                "link": "https://www.google.com/maps/search/Host+Meat+Shops/@46.363779699999995,17.817312599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Pekeraj pekseg",
+                "link": "https://www.google.com/maps/search/Peker%C3%A1j+p%C3%A9ks%C3%A9g/@46.356521900000004,17.793620699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "MECSEK Elelmiszer es Vegyiaru Kereskedelmi Zrt.",
+                "link": "https://www.google.com/maps/search/MECSEK+%C3%89lelmiszer+%C3%A9s+Vegyi%C3%A1ru+Kereskedelmi+Zrt./@46.364716099999995,17.7804491?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Kenyergyar utca 1.",
+                "link": "https://www.google.com/maps/search/Keny%C3%A9rgy%C3%A1r+utca+1./@46.362874999999995,17.816805?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Gong Che Zhan "
+            },
+            {
+                "name": "HemiProdukt",
+                "link": "https://www.google.com/maps/search/HemiProdukt/@46.3567228,17.7962998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": "http://merokenyergyar.hu/",
+        "owner": {
+            "id": "101728228314621337649",
+            "name": "Meroi Kenyargyar es Cukrasz uzem (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101728228314621337649"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5-pNMK7pp5nAZHsFawrvQLhGDp-xp1nivZKrd=w408-h725-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "05:00-15:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Kaposvar, Meroi Kenyargyar es Cukrasz uzem, Kenyergyar u. 4, 7400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/M%C3%A9r%C5%91i+Keny%C3%A1rgy%C3%A1r+%C3%A9s+Cukr%C3%A1sz+%C3%BCzem/data=!4m7!3m6!1s0x47683df757f6c343:0xb058a504965f9d5f!8m2!3d46.363805!4d17.817317!16s%2Fg%2F11c6btchkn!19sChIJQ8P2V_c9aEcRX51flgSlWLA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJPbRVPZg_aEcRLY9hJSpox6Q",
@@ -1578,7 +1849,7 @@
         "is_spending_on_ads": false,
         "reviews": 10,
         "competitors": [],
-        "website": "https://www.facebook.com/profile.php%3Fid%3D100092353922117",
+        "website": "https://www.facebook.com/profile.php?id=100092353922117",
         "owner": {
             "id": "102164386745461509602",
             "name": "Bverzio (Ye Zhu )",
@@ -1660,66 +1931,6 @@
         "address": "Kaposvar, Roastopus Coffee Roastery, Orci ut 13, 7400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Roastopus+Coffee+Roastery/data=!4m7!3m6!1s0x47683da3326661a1:0xdceb998ba38a5d84!8m2!3d46.3954334!4d17.840122!16s%2Fg%2F11hz8n4pbj!19sChIJoWFmMqM9aEcRhF2Ko4uZ69w?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJAWLo3CIVaEcRIS1kSJdsFzc",
-        "name": "MentesVekni",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 9,
-        "competitors": [
-            {
-                "name": "B.B. Cuki",
-                "link": "https://www.google.com/maps/search/B.B.+Cuki/@46.355024799999995,17.7947588?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Eszti's snacks",
-                "link": "https://www.google.com/maps/search/Eszti%27s+snacks/@46.356733899999995,17.796892?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.2,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Briggcake cukraszat",
-                "link": "https://www.google.com/maps/search/Briggcake+cukr%C3%A1szat/@46.367790199999995,17.8002042?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 5,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Fornetti",
-                "link": "https://www.google.com/maps/search/Fornetti/@46.3553412,17.786566099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "http://www.mentesvekni.hu/",
-        "owner": {
-            "id": "115562694733436538251",
-            "name": "MentesVekni (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115562694733436538251"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4ivITrUSNGalpw0XrTrS1veTjbGFBsXm8iuXJ=w408-h306-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "14:00-18:30",
-        "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi Si ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 70 277 6552",
-        "address": "Kaposvar, MentesVekni, Nemzetor sor 5, 7400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/MentesVekni/data=!4m7!3m6!1s0x47681522dce86201:0x37176c9748642d21!8m2!3d46.363227!4d17.7890941!16s%2Fg%2F11tj1g3z6f!19sChIJAWLo3CIVaEcRIS1kSJdsFzc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ7cBn5mMVaEcRRsL21hWaCCA",
@@ -2010,7 +2221,7 @@
         "name": "Eleven Kulturbisztro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 269,
+        "reviews": 270,
         "competitors": [
             {
                 "name": "Rosco Kavezo",
@@ -2198,55 +2409,61 @@
         "link": "https://www.google.com/maps/place/Blackhole+k%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x476815fd4a8bd9fb:0xb234fcfb93f44812!8m2!3d46.3535156!4d17.7946681!16s%2Fg%2F11bwydf3r2!19sChIJ-9mLSv0VaEcREkj0k_v8NLI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJz2cXuOQ9aEcRueKVYI8wCIw",
-        "name": "MATE Kaposvari Campus Etterem",
+        "place_id": "ChIJMQjjZvwVaEcRvGhBX_iA2HA",
+        "name": "Europa-Ic Kft.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 81,
+        "reviews": 75,
         "competitors": [
             {
-                "name": "Memoriae Restaurant Delicates & Brunch",
-                "link": "https://www.google.com/maps/search/Memoriae+Restaurant+Delicates+%26+Brunch/@46.3583375,17.7877407?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 179,
-                "rating": 4.8,
-                "main_category": "Can Ting "
+                "name": "Slendy Bakery",
+                "link": "https://www.google.com/maps/search/Slendy+Bakery/@46.3565921,17.7982753?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 488,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
             },
             {
-                "name": "MATE Kaposvari Campus Uj Kollegium",
-                "link": "https://www.google.com/maps/search/MATE+Kaposv%C3%A1ri+Campus+%C3%9Aj+Koll%C3%A9gium/@46.385813899999995,17.826820700000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 4.6,
-                "main_category": "Xue Sheng Su She "
+                "name": "Europa Pek Kft.",
+                "link": "https://www.google.com/maps/search/Eur%C3%B3pa+P%C3%A9k+Kft./@46.590240099999995,17.4207333?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
             },
             {
-                "name": "MATE Kaposvari Campus Autosiskola",
-                "link": "https://www.google.com/maps/search/MATE+Kaposv%C3%A1ri+Campus+Aut%C3%B3siskola/@46.3850213,17.826086099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Jia Shi Xue Xiao "
+                "name": "Pekeraj pekseg",
+                "link": "https://www.google.com/maps/search/Peker%C3%A1j+p%C3%A9ks%C3%A9g/@46.356521900000004,17.793620699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Toth Sutoipari Kft.",
+                "link": "https://www.google.com/maps/search/T%C3%B3th+S%C3%BCt%C5%91ipari+Kft./@46.3556288,17.792730799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": "112016451455286568281",
-            "name": "MATE Kaposvari Campus Etterem (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112016451455286568281"
+            "id": null,
+            "name": "Europa-Ic Kft. (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNX4U9ZBTVrAQTX-H4zSkasrTiD2VqDCprq8rbT=w408-h272-k-no",
-        "main_category": "Can Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZq12IWJh2W90yLso4AF7TGnPQV2uyZm_mAcr9=w426-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
         "categories": [
-            "Can Ting "
+            "Mian Bao Xi Bing Dian "
         ],
-        "rating": 4.5,
-        "workday_timing": "11:30-14:30",
+        "rating": 4.2,
+        "workday_timing": "06:00-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
-        "phone": "+36 82 505 800",
-        "address": "Kaposvar, MATE Kaposvari Campus Etterem, Guba Sandor u. 40, 7400 Xiong Ya Li ",
+        "phone": "+36 36 318 595",
+        "address": "Kaposvar, Europa-Ic Kft., Iranyi Daniel u. 2, 7400 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/MATE+Kaposv%C3%A1ri+Campus+%C3%89tterem/data=!4m7!3m6!1s0x47683de4b81767cf:0x8c08308f6095e2b9!8m2!3d46.3854119!4d17.8277089!16s%2Fg%2F11gns7b7jz!19sChIJz2cXuOQ9aEcRueKVYI8wCIw?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Europa-Ic+Kft./data=!4m7!3m6!1s0x476815fc66e30831:0x70d880f85f4168bc!8m2!3d46.3565595!4d17.7921239!16s%2Fg%2F11cn8tcnv6!19sChIJMQjjZvwVaEcRvGhBX_iA2HA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ-2jNoPgVaEcRssaUGBtORpQ",
@@ -2421,6 +2638,56 @@
         "link": "https://www.google.com/maps/place/Siesta+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47683d55eb830a07:0x6784d4afed177087!8m2!3d46.3625627!4d17.8167244!16s%2Fg%2F11fs26w523!19sChIJBwqD61U9aEcRh3AX7a_UhGc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJFROWta8_aEcR_RPoAkklrg4",
+        "name": "La Bottega Olasz Elelmiszerek Boltja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "competitors": [
+            {
+                "name": "Olasz Abc",
+                "link": "https://www.google.com/maps/search/Olasz+Abc/@46.407291099999995,17.779204?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 44,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Mokka Shop",
+                "link": "https://www.google.com/maps/search/Mokka+Shop/@46.3624354,17.8169288?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 5,
+                "main_category": "Yi Da Li Za Huo Dian "
+            },
+            {
+                "name": "HemiProdukt",
+                "link": "https://www.google.com/maps/search/HemiProdukt/@46.3567228,17.7962998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "113888677127167624337",
+            "name": "La Bottega Olasz Elelmiszerek Boltja (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113888677127167624337"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNPtY8jTFtWwFi32sgY_ITeNW3JWEetBOtDAWLD=w408-h725-k-no",
+        "main_category": "Yi Da Li Za Huo Dian ",
+        "categories": [
+            "Yi Da Li Za Huo Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 939 0911",
+        "address": "Kaposvar, La Bottega Olasz Elelmiszerek Boltja, Kisfaludy u. 13, 7400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Bottega+Olasz+%C3%89lelmiszerek+Boltja/data=!4m7!3m6!1s0x47683fafb5961315:0xeae254902e813fd!8m2!3d46.3685262!4d17.7880779!16s%2Fg%2F11g07trltr!19sChIJFROWta8_aEcR_RPoAkklrg4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJl96fRfo9aEcRPBcUDepA7rc",
         "name": "Mokka Shop",
         "description": null,
@@ -2547,6 +2814,127 @@
         "link": "https://www.google.com/maps/place/Caffe+Park/data=!4m7!3m6!1s0x476815802094b2f7:0x80ce305e6b9bf742!8m2!3d46.3631633!4d17.7936226!16s%2Fg%2F11jrql3htx!19sChIJ97KUIIAVaEcRQveba14wzoA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJXarhF0EVaEcRdl7PtSKNpyc",
+        "name": "Eszti's snacks",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Slendy Bakery",
+                "link": "https://www.google.com/maps/search/Slendy+Bakery/@46.3565921,17.7982753?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 488,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Ibolya Cukraszda",
+                "link": "https://www.google.com/maps/search/Ibolya+Cukr%C3%A1szda/@46.3614763,17.7877455?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 160,
+                "rating": 4.3,
+                "main_category": "Tang Guo Gao Bing Dian "
+            },
+            {
+                "name": "Vivi Edesszalon",
+                "link": "https://www.google.com/maps/search/Vivi+%C3%89desszalon/@46.366584499999995,17.793503299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 38,
+                "rating": 4.9,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Slendy Suti mintabolt",
+                "link": "https://www.google.com/maps/search/Slendy+S%C3%BCti+mintabolt/@46.3565472,17.797584?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Neked sutottem",
+                "link": "https://www.google.com/maps/search/Neked+s%C3%BCt%C3%B6ttem/@46.3565889,17.792507300000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4,
+                "main_category": "Tang Guo Gao Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "117596614690315983480",
+            "name": "Eszti's snacks (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117596614690315983480"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyVJgleO8wB8UEYChNWlvZG5lRh2reJ4frI9J6=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 598 9113",
+        "address": "Kaposvar, Eszti's snacks, Fo u. 53, 7400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Eszti%27s+snacks/data=!4m7!3m6!1s0x4768154117e1aa5d:0x27a78d22b5cf5e76!8m2!3d46.3567339!4d17.796892!16s%2Fg%2F11rj5kmnb8!19sChIJXarhF0EVaEcRdl7PtSKNpyc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJDWf7AF0VaEcRf5zmknDNDz8",
+        "name": "Pekeraj pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Slendy Bakery",
+                "link": "https://www.google.com/maps/search/Slendy+Bakery/@46.3565921,17.7982753?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 488,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Lipoti Pekseg",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g/@46.356394699999996,17.7876652?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 222,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Europa-Ic Kft.",
+                "link": "https://www.google.com/maps/search/Europa-Ic+Kft./@46.356559499999996,17.7921239?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 75,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pojtner Pekseg",
+                "link": "https://www.google.com/maps/search/Pojtner+P%C3%A9ks%C3%A9g/@46.366901899999995,17.791120400000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 39,
+                "rating": 4.7,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pekeraj pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMc7nyBBtOCaKh4FIe0MQP497tQiX804GPDp9pL=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.2,
+        "workday_timing": "05:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 82 310 120",
+        "address": "Kaposvar, Pekeraj pekseg, Fo u. 20, 7400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Peker%C3%A1j+p%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4768155d00fb670d:0x3f0fcd7092e69c7f!8m2!3d46.3565219!4d17.7936207!16s%2Fg%2F11r_v7jlhs!19sChIJDWf7AF0VaEcRf5zmknDNDz8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJBRdIsFI_aEcRBaZe-kurAWg",
         "name": "Icon Caffe",
         "description": null,
@@ -2607,61 +2995,6 @@
         "address": "Kaposvar, Icon Caffe, Unnamed Road, 7400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Icon+Caffe/data=!4m7!3m6!1s0x47683f52b0481705:0x6801ab4bfa5ea605!8m2!3d46.3978967!4d17.8221976!16s%2Fg%2F11jtqkz5gf!19sChIJBRdIsFI_aEcRBaZe-kurAWg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJP_J2778XaEcRnotmZ_cLxkc",
-        "name": "Galeria Presszo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 9,
-        "competitors": [
-            {
-                "name": "Pince Presszo",
-                "link": "https://www.google.com/maps/search/Pince+Pressz%C3%B3/@46.36431710000001,17.7997118?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.7,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Horpinto Pub",
-                "link": "https://www.google.com/maps/search/H%C3%B6rpint%C5%91+Pub/@46.3574479,17.7784844?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Gabi Presszo",
-                "link": "https://www.google.com/maps/search/Gabi+Pressz%C3%B3/@46.3639806,17.7819345?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "City presszo Kaposvar",
-                "link": "https://www.google.com/maps/search/City+pressz%C3%B3+Kaposv%C3%A1r/@46.3646482,17.7878733?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Galeria Presszo (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kK3s-iNYXckVDAND28q_KA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=196.30576&pitch=0&thumbfov=100",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.2,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Kaposvar, Galeria Presszo, Nemeth Istvan fasor 30, 7400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Gal%C3%A9ria+Pressz%C3%B3/data=!4m7!3m6!1s0x476817bfef76f23f:0x47c60bf767668b9e!8m2!3d46.3603615!4d17.8006935!16s%2Fg%2F11j8n_vhhw!19sChIJP_J2778XaEcRnotmZ_cLxkc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJkfh7j8UYakYRopTg5JqMWN8",
@@ -2971,11 +3304,11 @@
         "competitors": [],
         "website": null,
         "owner": {
-            "id": null,
+            "id": "117607665181462191730",
             "name": "Edes-Kert Cukraszda (Ye Zhu )",
-            "link": null
+            "link": "https://www.google.com/maps/contrib/117607665181462191730"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM2ZLERBlolLenrDQcfFR8wmggB8dXy8g-HczhF=w408-h408-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkGVitN1B8AXW93R3U_pvoxMWETwYk8NjSVJZ6=w408-h306-k-no",
         "main_category": "Tian Pin Dian ",
         "categories": [
             "Tian Pin Dian "
@@ -2986,7 +3319,7 @@
         "phone": "+36 70 948 9797",
         "address": "Kaposvar, Edes-Kert Cukraszda, Arany Janos ter 3-4, 7499 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%C3%89des-Kert+Cukr%C3%A1szda/data=!4m7!3m6!1s0x47683f77a3cdec9d:0x433709236e89a391!8m2!3d46.3679106!4d17.7879173!16s%2Fg%2F11vljqyss0!19sChIJnezNo3c_aEcRkaOJbiMJN0M?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/%C3%89des-Kert+Cukr%C3%A1szda/data=!4m7!3m6!1s0x47683f77a3cdec9d:0x433709236e89a391!8m2!3d46.3678523!4d17.7880471!16s%2Fg%2F11vljqyss0!19sChIJnezNo3c_aEcRkaOJbiMJN0M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJeQkHv5EVaEcRStwmbzRUIbY",
@@ -3097,32 +3430,6 @@
         "address": "Kaposvar, Espresso Italia Speciale kavekapszula, Egyenesi ut 5, 7400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Espresso+Italia+Speciale+k%C3%A1v%C3%A9kapszula/data=!4m7!3m6!1s0x476815bff6587d9f:0x786731360ebf8fe4!8m2!3d46.347464!4d17.7635235!16s%2Fg%2F11hyt0jvhy!19sChIJn31Y9r8VaEcR5I-_DjYxZ3g?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJUUSXipMXaEcRPdAjGYVhFeM",
-        "name": "Muveszkavezo/szineszbufe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Muveszkavezo/szineszbufe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNcIqfWl4-OUYKh1RKCAtEC72aKYEUQw-kz7Fle=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Kaposvar, Muveszkavezo/szineszbufe, Rakoczi ter 12, 7400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/M%C5%B1v%C3%A9szk%C3%A1v%C3%A9z%C3%B3%2Fsz%C3%ADn%C3%A9szb%C3%BCf%C3%A9/data=!4m7!3m6!1s0x476817938a974451:0xe31561851923d03d!8m2!3d46.3545629!4d17.7974307!16s%2Fg%2F11svytm82y!19sChIJUUSXipMXaEcRPdAjGYVhFeM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJO_X1x5IVaEcRpJbv8FA63vk",
@@ -3240,177 +3547,5 @@
         "address": "Kaposvar, Viva Cafe, Raktar u. 25, 7400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Viva+Cafe/data=!4m7!3m6!1s0x47683e3dd70991c3:0xa985bd79fc3b11bc!8m2!3d46.380658!4d17.780286!16s%2Fg%2F11f9vmkj_s!19sChIJw5EJ1z0-aEcRvBE7_Hm9hak?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJkaddwfwVaEcRcHvty44wZlk",
-        "name": "Atrium Cafe Bt.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Frei Kaposvar",
-                "link": "https://www.google.com/maps/search/Cafe+Frei+Kaposv%C3%A1r/@46.355515399999994,17.790349199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1080,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Noir",
-                "link": "https://www.google.com/maps/search/Cafe+Noir/@46.3553644,17.7884083?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 123,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Caffe Park",
-                "link": "https://www.google.com/maps/search/Caffe+Park/@46.3631633,17.7936226?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Ice Rock Cafe",
-                "link": "https://www.google.com/maps/search/Ice+Rock+Cafe/@46.354718,17.791676?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Atrium Cafe Bt. (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MmoZ3Mat0_BfMDLTcpBejw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=88.29289&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 70 369 8725",
-        "address": "Kaposvar, Atrium Cafe Bt., Teleki u. 11, 7400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Atrium+Caf%C3%A9+Bt./data=!4m7!3m6!1s0x476815fcc15da791:0x5966308ecbed7b70!8m2!3d46.354718!4d17.791676!16s%2Fg%2F12qgyffdl!19sChIJkaddwfwVaEcRcHvty44wZlk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJKeVdc_sVaEcR3_IlQMZdaB4",
-        "name": "Atrium Cafe Bt.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "New York Cafe kaposvar",
-                "link": "https://www.google.com/maps/search/New+York+Cafe+kaposv%C3%A1r/@46.361940499999996,17.7853347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 319,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Noir",
-                "link": "https://www.google.com/maps/search/Cafe+Noir/@46.3553644,17.7884083?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 123,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Caffe Park",
-                "link": "https://www.google.com/maps/search/Caffe+Park/@46.3631633,17.7936226?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Ice Rock Cafe",
-                "link": "https://www.google.com/maps/search/Ice+Rock+Cafe/@46.354718,17.791676?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Atrium Cafe Bt. (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r-Ej2rZ_iu2BdJhsT6Nd-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=10.717835&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 70 616 4467",
-        "address": "Kaposvar, Atrium Cafe Bt., Teleki u. 1, 7400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%C3%81trium+Caf%C3%A9+Bt./data=!4m7!3m6!1s0x476815fb735de529:0x1e685dc64025f2df!8m2!3d46.3563659!4d17.7892571!16s%2Fg%2F1vc80lw2!19sChIJKeVdc_sVaEcR3_IlQMZdaB4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJI3xBQPwVaEcRuZLYdnpIYMg",
-        "name": "Havanna Etelbar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Frei Kaposvar",
-                "link": "https://www.google.com/maps/search/Cafe+Frei+Kaposv%C3%A1r/@46.355515399999994,17.790349199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1080,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Hek etterem",
-                "link": "https://www.google.com/maps/search/Hek+%C3%A9tterem/@46.3606422,17.7947709?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "e-Cafe",
-                "link": "https://www.google.com/maps/search/e-Cafe/@46.3535894,17.794781399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 85,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pitango Gyros",
-                "link": "https://www.google.com/maps/search/Pitango+Gyros/@46.354427799999996,17.791320799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Cubanos bufe",
-                "link": "https://www.google.com/maps/search/Cubanos+b%C3%BCf%C3%A9/@46.3666653,17.7880888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Kuai Can "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Havanna Etelbar (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l1gEWRjo8JmEm3ac_6H-6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=192.30432&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 82 320 497",
-        "address": "Kaposvar, Havanna Etelbar, Fo u. 23, 7400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Havanna+%C3%89telb%C3%A1r/data=!4m7!3m6!1s0x476815fc40417c23:0xc860487a76d892b9!8m2!3d46.3567343!4d17.7927668!16s%2Fg%2F1tfdxn26!19sChIJI3xBQPwVaEcRuZLYdnpIYMg?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

@@ -147,7 +147,11 @@
         ],
         "rating": 4.6,
         "workday_timing": "08:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+354 565 1665",
         "address": "Brikk, Nordurbakki 1b, 220 Hafnarfjordur, Bing Dao ",
         "review_keywords": [
@@ -211,7 +215,7 @@
             {
                 "name": "Iceland",
                 "link": "https://www.google.com/maps/search/Iceland/@64.0667672,-21.9362159?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
+                "reviews": 149,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
@@ -244,8 +248,10 @@
             "Chao Ji Shi Chang "
         ],
         "rating": 4.2,
-        "workday_timing": "09:00-21:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "09:00-22:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+354 585 7000",
         "address": "Kronan, Hvaleyrarbraut, 220 Hafnarfjordur, Bing Dao ",
         "review_keywords": [],
@@ -256,12 +262,12 @@
         "name": "Iceland",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 148,
+        "reviews": 149,
         "competitors": [
             {
                 "name": "Bonus",
                 "link": "https://www.google.com/maps/search/B%C3%B3nus/@64.077541,-21.941895199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 317,
+                "reviews": 316,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -545,7 +551,7 @@
             {
                 "name": "Iceland",
                 "link": "https://www.google.com/maps/search/Iceland/@64.0667672,-21.9362159?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
+                "reviews": 149,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
@@ -566,8 +572,8 @@
             {
                 "name": "Euro Market",
                 "link": "https://www.google.com/maps/search/Euro+Market/@64.1111014,-21.850880900000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 55,
-                "rating": 4.5,
+                "reviews": 56,
+                "rating": 4.4,
                 "main_category": "Za Huo Dian "
             },
             {
@@ -595,7 +601,66 @@
         "phone": "+354 571 0402",
         "address": "Mini Market, Reykjavikurvegur 62, 220 Hafnarfjordur, Bing Dao ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mini+Market/data=!4m7!3m6!1s0x48d60cf3ba416967:0x86e6a7eab4a8fca5!8m2!3d64.0778243!4d-21.9495771!16s%2Fg%2F11dztwz16v!19sChIJZ2lBuvMM1kgRpfyotOqn5oY?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Mini+Market/data=!4m7!3m6!1s0x48d60cf3ba416967:0x86e6a7eab4a8fca5!8m2!3d64.0778153!4d-21.9495314!16s%2Fg%2F11dztwz16v!19sChIJZ2lBuvMM1kgRpfyotOqn5oY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJeRZ4QWEN1kgRbxsWfpDmZhA",
+        "name": "Kronan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "competitors": [
+            {
+                "name": "Bonus",
+                "link": "https://www.google.com/maps/search/B%C3%B3nus/@64.0524612,-21.9796831?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 335,
+                "rating": 4.4,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Iceland",
+                "link": "https://www.google.com/maps/search/Iceland/@64.0667672,-21.9362159?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 149,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Netto",
+                "link": "https://www.google.com/maps/search/Nett%C3%B3/@64.0787921,-21.9569896?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 92,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Krambudin",
+                "link": "https://www.google.com/maps/search/Kramb%C3%BA%C3%B0in/@64.14829139999999,-21.8834944?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.1,
+                "main_category": "Chao Ji Shi Chang "
+            }
+        ],
+        "website": "https://kronan.is/",
+        "owner": {
+            "id": "118064929489640983453",
+            "name": "Kronan (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/118064929489640983453"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOX1ofocXqFLDK0ZG-DBP4hChvQjF6orcVmQiD3=w408-h249-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang ",
+            "Zhe Kou Shang Dian ",
+            "Ping Jia Chao Ji Shi Chang "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-22:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+354 585 7000",
+        "address": "Kronan, Nordurhella, 221 Hafnarfjordur, Bing Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kr%C3%B3nan/data=!4m7!3m6!1s0x48d60d6141781679:0x1066e6907e161b6f!8m2!3d64.0463409!4d-21.9838237!16s%2Fg%2F11hxynshv6!19sChIJeRZ4QWEN1kgRbxsWfpDmZhA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ1ZiF7e0M1kgRjQQpmJ7digI",
@@ -832,7 +897,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "07:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+354 577 3200",
         "address": "Bakarameistarinn - Hafnarfjordur, Flatahraun, 220 Hafnarfjordur, Bing Dao ",
         "review_keywords": [],
@@ -959,61 +1027,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Lindabakar%C3%AD/data=!4m7!3m6!1s0x48d60db7cd41321b:0xc876a6eee3c9c01!8m2!3d64.0525003!4d-21.9795486!16s%2Fg%2F11jjpw9txm!19sChIJGzJBzbcN1kgRAZw87m5qhww?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJQxVdO0oN1kgRl5MdQO90frY",
-        "name": "Isbud Huppu",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 13,
-        "competitors": [
-            {
-                "name": "Isbud Vesturbaejar",
-                "link": "https://www.google.com/maps/search/%C3%8Dsb%C3%BA%C3%B0+Vesturb%C3%A6jar/@64.0670876,-21.9549569?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
-                "rating": 4.1,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Isbudin Gardabae",
-                "link": "https://www.google.com/maps/search/%C3%8Dsb%C3%BA%C3%B0in+Gar%C3%B0ab%C3%A6/@64.0909781,-21.926364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 51,
-                "rating": 3.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Isbud Huppu",
-                "link": "https://www.google.com/maps/search/%C3%8Dsb%C3%BA%C3%B0+Huppu/@64.1506007,-21.786407399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.5,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Isbud Huppu Gardabae",
-                "link": "https://www.google.com/maps/search/%C3%8Dsb%C3%BA%C3%B0+Huppu+Gar%C3%B0ab%C3%A6/@64.08833349999999,-21.9206941?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 3.8,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": "http://www.isbudhuppu.is/",
-        "owner": {
-            "id": null,
-            "name": "Isbud Huppu (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPp53jEnKtZXzTsGwkYWgsTtLtmCR4sePc8jA32=w408-h306-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 4.9,
-        "workday_timing": "14:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+354 419 6060",
-        "address": "Isbud Huppu, Reykjavikurvegur 72, 220 Hafnarfjordur, Bing Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%C3%8Dsb%C3%BA%C3%B0+Huppu/data=!4m7!3m6!1s0x48d60d4a3b5d1543:0xb67e74ef401d9397!8m2!3d64.080295!4d-21.9480329!16s%2Fg%2F11r6b8f38d!19sChIJQxVdO0oN1kgRl5MdQO90frY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJAWzCGOQN1kgRoAhqRTpe05k",
@@ -1237,7 +1250,7 @@
             {
                 "name": "KFC",
                 "link": "https://www.google.com/maps/search/KFC/@64.07830489999999,-21.9419796?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
+                "reviews": 57,
                 "rating": 3.6,
                 "main_category": "Kuai Can "
             },

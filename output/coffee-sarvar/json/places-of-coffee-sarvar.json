@@ -56,7 +56,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Sarvar, Lidl, Rakoczi Ferenc u. 12, 9600 Xiong Ya Li ",
         "review_keywords": [
@@ -72,83 +76,11 @@
         "link": "https://www.google.com/maps/place/Lidl/data=!4m7!3m6!1s0x47694cfeeab86119:0x53a29f8b52882c57!8m2!3d47.25025!4d16.94171!16s%2Fg%2F12mkw9bfw!19sChIJGWG46v5MaUcRVyyIUoufolM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJf8phEt9NaUcRsMXTtfr2jTo",
-        "name": "Tesco",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2503,
-        "competitors": [
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.25025,16.94171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
-                "rating": 4.4,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "Penny Market",
-                "link": "https://www.google.com/maps/search/Penny+Market/@47.2540762,16.925427499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 965,
-                "rating": 3.9,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "SPAR",
-                "link": "https://www.google.com/maps/search/SPAR/@47.25434860000001,16.9288579?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 918,
-                "rating": 4.3,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "PatikaPlus Gyogyszertar",
-                "link": "https://www.google.com/maps/search/PatikaPlus+Gy%C3%B3gyszert%C3%A1r/@47.246389099999995,16.9570318?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 4.4,
-                "main_category": "Yao Fang "
-            },
-            {
-                "name": "Sarvar, TESCO Hipermarket",
-                "link": "https://www.google.com/maps/search/S%C3%A1rv%C3%A1r%2C+TESCO+Hipermarket/@47.245698999999995,16.9547501?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Gong Che Zhan "
-            }
-        ],
-        "website": "https://tesco.hu/aruhazak/aruhaz/tesco-sarvar-hipermarket",
-        "owner": {
-            "id": "107392425812083824359",
-            "name": "Tesco (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107392425812083824359"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMYEZB_YGrukShsDjAhKDPbR-n9dsTZNJu5optP=w408-h306-k-no",
-        "main_category": "Da Xing Chao Ji Shi Chang ",
-        "categories": [
-            "Da Xing Chao Ji Shi Chang ",
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 4,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Sarvar, Tesco, Rakoczi Ferenc u. 83, 9600 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 9
-            },
-            {
-                "keyword": "Xuan Ze ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Tesco/data=!4m7!3m6!1s0x47694ddf1261ca7f:0x3a8df6fab5d3c5b0!8m2!3d47.246478!4d16.9565022!16s%2Fg%2F1hg4s198b!19sChIJf8phEt9NaUcRsMXTtfr2jTo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ-w8AOuxNaUcR3WubBfu0hdU",
         "name": "ALDI",
         "description": "Fan Shou Ge Zhong Za Huo , Rou Lei He Ru Zhi Pin De Lian Suo Ling Shou Shang . ",
         "is_spending_on_ads": false,
-        "reviews": 976,
+        "reviews": 977,
         "competitors": [
             {
                 "name": "Lidl",
@@ -200,7 +132,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Sarvar, ALDI, Deak Ferenc u. 14, 9600 Xiong Ya Li ",
         "review_keywords": [
@@ -313,7 +248,7 @@
             {
                 "name": "Tinodi Vendeglo",
                 "link": "https://www.google.com/maps/search/Tin%C3%B3di+Vend%C3%A9gl%C5%91/@47.2540707,16.9310887?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 363,
+                "reviews": 364,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             }
@@ -343,74 +278,6 @@
         "link": "https://www.google.com/maps/place/N%C3%A1dasdy+Vend%C3%A9gl%C5%91/data=!4m7!3m6!1s0x47694ce6755ee763:0xc391e2d4e0a6e01a!8m2!3d47.248131!4d16.9233789!16s%2Fg%2F1td3kczb!19sChIJY-dedeZMaUcRGuCm4NTikcM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ-XzcR-JMaUcRZycD2PD6dQM",
-        "name": "SPAR",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 918,
-        "competitors": [
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.25025,16.94171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2695,
-                "rating": 4.4,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "Tesco",
-                "link": "https://www.google.com/maps/search/Tesco/@47.246477999999996,16.956502200000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2503,
-                "rating": 4,
-                "main_category": "Da Xing Chao Ji Shi Chang "
-            },
-            {
-                "name": "ALDI",
-                "link": "https://www.google.com/maps/search/ALDI/@47.2570604,16.938372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 976,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Penny Market",
-                "link": "https://www.google.com/maps/search/Penny+Market/@47.2540762,16.925427499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 965,
-                "rating": 3.9,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "SPAR parkolo",
-                "link": "https://www.google.com/maps/search/SPAR+parkol%C3%B3/@47.254387,16.9293318?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.2,
-                "main_category": "Ting Che Chang "
-            }
-        ],
-        "website": "https://www.spar.hu/uzletek/spar-szupermarket-sarvar-9600-laktanya-utca-32-44-",
-        "owner": {
-            "id": "111042952022775947623",
-            "name": "SPAR (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111042952022775947623"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpjT4JTP2zlHrIJFSBHQ1s-6JWAyBf4aLkh8ea=w427-h240-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang ",
-            "Za Huo Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 823 7213",
-        "address": "Sarvar, SPAR, Laktanya u. 32-44, 9600 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/SPAR/data=!4m7!3m6!1s0x47694ce247dc7cf9:0x375faf0d8032767!8m2!3d47.2543486!4d16.9288579!16s%2Fg%2F1hjgvr2ng!19sChIJ-XzcR-JMaUcRZycD2PD6dQM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJv3-Mnf1MaUcRMzA3t_M0grE",
         "name": "Neo Etterem es Kavezo",
         "description": null,
@@ -420,7 +287,7 @@
             {
                 "name": "Brick Bistro",
                 "link": "https://www.google.com/maps/search/Brick+Bistro/@47.253923,16.9373178?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 967,
+                "reviews": 968,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -441,15 +308,15 @@
             {
                 "name": "Onyx Garden Cafe & Restaurant",
                 "link": "https://www.google.com/maps/search/Onyx+Garden+Cafe+%26+Restaurant/@47.2496769,16.9450657?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 512,
+                "reviews": 513,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Harmonia Etterem",
                 "link": "https://www.google.com/maps/search/Harm%C3%B3nia+%C3%89tterem/@47.2479486,16.948757699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 194,
-                "rating": 4.4,
+                "reviews": 195,
+                "rating": 4.5,
                 "main_category": "Can Ting "
             }
         ],
@@ -490,7 +357,7 @@
         "name": "Onyx Garden Cafe & Restaurant",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 512,
+        "reviews": 513,
         "competitors": [
             {
                 "name": "Platan az izes etterem",
@@ -502,7 +369,7 @@
             {
                 "name": "Brick Bistro",
                 "link": "https://www.google.com/maps/search/Brick+Bistro/@47.253923,16.9373178?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 967,
+                "reviews": 968,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -523,8 +390,8 @@
             {
                 "name": "Harmonia Etterem",
                 "link": "https://www.google.com/maps/search/Harm%C3%B3nia+%C3%89tterem/@47.2479486,16.948757699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 194,
-                "rating": 4.4,
+                "reviews": 195,
+                "rating": 4.5,
                 "main_category": "Can Ting "
             }
         ],
@@ -546,6 +413,10 @@
         "address": "Sarvar, Onyx Garden Cafe & Restaurant, Rakoczi Ferenc u. 32, 9600 Xiong Ya Li ",
         "review_keywords": [
             {
+                "keyword": "Sha La ",
+                "count": 3
+            },
+            {
                 "keyword": "Jia Ge ",
                 "count": 3
             }
@@ -557,7 +428,7 @@
         "name": "Ahoy Gasztro & Caffe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 324,
+        "reviews": 325,
         "competitors": [
             {
                 "name": "Platan az izes etterem",
@@ -576,7 +447,7 @@
             {
                 "name": "Onyx Garden Cafe & Restaurant",
                 "link": "https://www.google.com/maps/search/Onyx+Garden+Cafe+%26+Restaurant/@47.2496769,16.9450657?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 512,
+                "reviews": 513,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -590,8 +461,8 @@
             {
                 "name": "Harmonia Etterem",
                 "link": "https://www.google.com/maps/search/Harm%C3%B3nia+%C3%89tterem/@47.2479486,16.948757699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 194,
-                "rating": 4.4,
+                "reviews": 195,
+                "rating": 4.5,
                 "main_category": "Can Ting "
             }
         ],
@@ -624,7 +495,7 @@
         "name": "Rossmann",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 320,
+        "reviews": 321,
         "competitors": [
             {
                 "name": "Tesco",
@@ -681,7 +552,7 @@
         "name": "TURNER'S Cafe Bar Terrace",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 203,
+        "reviews": 206,
         "competitors": [
             {
                 "name": "Neo Etterem es Kavezo",
@@ -725,7 +596,7 @@
             "name": "TURNER'S Cafe Bar Terrace (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/104184248375890267339"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvx1sL1TK3RbQfhsxIHxOi8Wi39FgPIM3ZpMhH=w408-h544-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPU05gh5PxYd0ZOth9o3UH05j4wGbHUIjdYzGI8=w426-h240-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
@@ -768,7 +639,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -844,7 +715,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -901,7 +772,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -972,7 +843,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -991,7 +862,7 @@
                 "main_category": "Tang Guo Gao Bing Dian "
             }
         ],
-        "website": "https://www.facebook.com/pages/Oszk%25C3%25B3-s%25C3%25BCtem%25C3%25A9nyesbolt/154901197992696",
+        "website": "https://www.facebook.com/pages/Oszk%C3%B3-s%C3%BCtem%C3%A9nyesbolt/154901197992696",
         "owner": {
             "id": "115912954192524722583",
             "name": "Oszko sutemenyesbolt (Ye Zhu )",
@@ -1030,7 +901,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -1208,30 +1079,30 @@
         "link": "https://www.google.com/maps/place/National+tobacco+shop/data=!4m7!3m6!1s0x47694ce2deb996d5:0x2018f115114dbcef!8m2!3d47.2533995!4d16.9323302!16s%2Fg%2F12mkw993v!19sChIJ1Za53uJMaUcR77xNERXxGCA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ7dnbEtlNaUcRKbnnTcU4LDQ",
-        "name": "Siamo Bistro",
+        "place_id": "ChIJfWcNWuJMaUcRcWwxCG7No9M",
+        "name": "National Tobacco Shop and lottery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 16,
+        "reviews": 23,
         "competitors": [],
-        "website": "https://siamobistro.hu/",
+        "website": "http://pontittuzletek.hu/",
         "owner": {
-            "id": "118222038904410060845",
-            "name": "Siamo Bistro (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118222038904410060845"
+            "id": null,
+            "name": "National Tobacco Shop and lottery (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeU1Z-o1LJogBdfRW0KuzNjWO9htrRVQQ95LEE=w408-h306-k-no",
-        "main_category": "Can Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNB2wNDxMfLeaAzMcf0TCFhXE9IXwu_LRJCStqj=w720-h240-k-no",
+        "main_category": "Yan Cao Dian ",
         "categories": [
-            "Can Ting "
+            "Yan Cao Dian "
         ],
-        "rating": 4.5,
-        "workday_timing": "17:00-22:00",
+        "rating": 4.2,
+        "workday_timing": "06:00-20:00",
         "closed_on": "Open All Days",
-        "phone": "+36 20 336 9553",
-        "address": "Sarvar, Siamo Bistro, Rakoczi Ferenc u. 57, 9600 Xiong Ya Li ",
+        "phone": "+36 30 546 5258",
+        "address": "Sarvar, National Tobacco Shop and lottery, Laktanya u. 2, 9600 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Siamo+Bistro/data=!4m7!3m6!1s0x47694dd912dbd9ed:0x342c38c54de7b929!8m2!3d47.2485856!4d16.9492282!16s%2Fg%2F11stpsbsd4!19sChIJ7dnbEtlNaUcRKbnnTcU4LDQ?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/National+Tobacco+Shop+and+lottery/data=!4m7!3m6!1s0x47694ce25a0d677d:0xd3a3cd6e08316c71!8m2!3d47.2541673!4d16.9300241!16s%2Fg%2F11c6yb9t_6!19sChIJfWcNWuJMaUcRcWwxCG7No9M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ0z7WZv5MaUcRTOzNlLByfl8",
@@ -1257,7 +1128,7 @@
             {
                 "name": "TURNER'S Cafe Bar Terrace",
                 "link": "https://www.google.com/maps/search/TURNER%27S+Cafe+Bar+Terrace/@47.253412399999995,16.937333499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 202,
+                "reviews": 205,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1296,6 +1167,34 @@
         "link": "https://www.google.com/maps/place/%C3%81trium+Eszpressz%C3%B3/data=!4m7!3m6!1s0x47694cfe66d63ed3:0x5f7e72b094cdec4c!8m2!3d47.2523844!4d16.9408064!16s%2Fg%2F11clshhcn3!19sChIJ0z7WZv5MaUcRTOzNlLByfl8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJcx4D71NNaUcRpAz_rt0VPpI",
+        "name": "PALMA Sarvar Pub & Caffee, GLS Csomagpont",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "competitors": [],
+        "website": "https://www.facebook.com/palma.sarvar",
+        "owner": {
+            "id": "105736968827368632547",
+            "name": "PALMA Sarvar Pub & Caffee, GLS Csomagpont (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105736968827368632547"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpxmOcxMBu1KduVcQidNGugjVyjfD2Xcr2kx9t=w408-h306-k-no",
+        "main_category": "Jiu Ba ",
+        "categories": [
+            "Jiu Ba ",
+            "Zheng Liu Ka Pei Ba ",
+            "Fa Shi Can Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-23:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 70 673 0055",
+        "address": "Sarvar, PALMA Sarvar Pub & Caffee, GLS Csomagpont, Batthyany u. 27, 9600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/P%C3%81LMA+S%C3%A1rv%C3%A1r+Pub+%26+Caffee,+GLS+Csomagpont/data=!4m7!3m6!1s0x47694d53ef031e73:0x923e15ddaeff0ca4!8m2!3d47.2536073!4d16.9329467!16s%2Fg%2F11l2fr8wwr!19sChIJcx4D71NNaUcRpAz_rt0VPpI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJD-J7E-FMaUcRdjYk0Tg7Qj0",
         "name": "Castello Kavezo",
         "description": null,
@@ -1312,7 +1211,7 @@
             {
                 "name": "TURNER'S Cafe Bar Terrace",
                 "link": "https://www.google.com/maps/search/TURNER%27S+Cafe+Bar+Terrace/@47.253412399999995,16.937333499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 202,
+                "reviews": 205,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1356,34 +1255,6 @@
         "address": "Sarvar, Castello Kavezo, Sarsziget u. 2, 9600 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Castello+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47694ce1137be20f:0x3d423b38d1243676!8m2!3d47.2533683!4d16.9250731!16s%2Fg%2F11bx5p8k8f!19sChIJD-J7E-FMaUcRdjYk0Tg7Qj0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJcx4D71NNaUcRpAz_rt0VPpI",
-        "name": "PALMA Sarvar Pub & Caffee, GLS Csomagpont",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 12,
-        "competitors": [],
-        "website": "https://www.facebook.com/palma.sarvar",
-        "owner": {
-            "id": "105736968827368632547",
-            "name": "PALMA Sarvar Pub & Caffee, GLS Csomagpont (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105736968827368632547"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpxmOcxMBu1KduVcQidNGugjVyjfD2Xcr2kx9t=w408-h306-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba ",
-            "Zheng Liu Ka Pei Ba ",
-            "Fa Shi Can Ting "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 70 673 0055",
-        "address": "Sarvar, PALMA Sarvar Pub & Caffee, GLS Csomagpont, Batthyany u. 27, 9600 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/P%C3%81LMA+S%C3%A1rv%C3%A1r+Pub+%26+Caffee,+GLS+Csomagpont/data=!4m7!3m6!1s0x47694d53ef031e73:0x923e15ddaeff0ca4!8m2!3d47.2536073!4d16.9329467!16s%2Fg%2F11l2fr8wwr!19sChIJcx4D71NNaUcRpAz_rt0VPpI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJGT673-ZMaUcRRPGHjl8nvTI",
@@ -1549,7 +1420,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -1676,7 +1547,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -1719,7 +1590,7 @@
         "name": "Fagyizo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 275,
+        "reviews": 276,
         "competitors": [
             {
                 "name": "Kiraly Kavezo Es Cukraszda",
@@ -1811,7 +1682,9 @@
         ],
         "rating": 4.7,
         "workday_timing": "09:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 30 204 1204",
         "address": "Sarvar, Del Conte kezmuves cukraszda es kavezo, Rakoczi Ferenc u. 11, 9600 Xiong Ya Li ",
         "review_keywords": [],
@@ -1889,7 +1762,7 @@
             {
                 "name": "Brick Bistro",
                 "link": "https://www.google.com/maps/search/Brick+Bistro/@47.253923,16.9373178?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 967,
+                "reviews": 968,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -1917,7 +1790,7 @@
             {
                 "name": "TURNER'S Cafe Bar Terrace",
                 "link": "https://www.google.com/maps/search/TURNER%27S+Cafe+Bar+Terrace/@47.253412399999995,16.937333499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 202,
+                "reviews": 205,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -1951,7 +1824,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
@@ -2006,7 +1879,7 @@
             {
                 "name": "TURNER'S Cafe Bar Terrace",
                 "link": "https://www.google.com/maps/search/TURNER%27S+Cafe+Bar+Terrace/@47.253412399999995,16.937333499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 202,
+                "reviews": 205,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2045,17 +1918,24 @@
         "link": "https://www.google.com/maps/place/Moon+Caf%C3%A9/data=!4m7!3m6!1s0x47694da60c0c871d:0x382d9876e4dfc435!8m2!3d47.25029!4d16.9303512!16s%2Fg%2F11h9lppj73!19sChIJHYcMDKZNaUcRNcTf5HaYLTg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ8wjzWvxMaUcRI7VlDw7Lnwk",
-        "name": "Bufe",
+        "place_id": "ChIJK1ygS3pNaUcRR2GNR6i5pxQ",
+        "name": "Feeling kafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 5,
+        "reviews": 4,
         "competitors": [
             {
-                "name": "Hamburger Garden",
-                "link": "https://www.google.com/maps/search/Hamburger+Garden/@47.2536043,16.9322675?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 367,
-                "rating": 4.2,
+                "name": "Brick Bistro",
+                "link": "https://www.google.com/maps/search/Brick+Bistro/@47.253923,16.9373178?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 968,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Street Kitchen",
+                "link": "https://www.google.com/maps/search/Street+Kitchen/@47.249439699999996,16.9456156?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 778,
+                "rating": 3.8,
                 "main_category": "Can Ting "
             },
             {
@@ -2066,18 +1946,11 @@
                 "main_category": "Jiu Ba "
             },
             {
-                "name": "Fregatt Sorozo",
-                "link": "https://www.google.com/maps/search/Fregatt+S%C3%B6r%C3%B6z%C5%91/@47.2527469,16.9286137?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 102,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Langos es hamburger bolt",
-                "link": "https://www.google.com/maps/search/L%C3%A1ngos+%C3%A9s+hamburger+bolt/@47.2546063,16.9268464?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Mei Shi Guang Chang "
+                "name": "YOLO Fast Food Bar",
+                "link": "https://www.google.com/maps/search/YOLO+Fast+Food+Bar/@47.252758,16.931653999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 15,
+                "rating": 3.6,
+                "main_category": "Kuai Can "
             },
             {
                 "name": "Kebab",
@@ -2090,21 +1963,21 @@
         "website": null,
         "owner": {
             "id": null,
-            "name": "Bufe (Ye Zhu )",
+            "name": "Feeling kafe (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDG8GVWTMXzVEvZ8xJPC3jJkmeUr8zUSNcJnaw=w408-h544-k-no",
-        "main_category": "Jiu Ba ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6w227RAI_Mj7riEuYiCNwStg1-tJkheQ148Zd=w408-h306-k-no",
+        "main_category": "Ai Xin Shi Tang ",
         "categories": [
-            "Jiu Ba "
+            "Ai Xin Shi Tang "
         ],
-        "rating": 4,
-        "workday_timing": null,
+        "rating": 5,
+        "workday_timing": "08:00-23:00",
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Sarvar, Bufe, Varkerulet u. 14, 9600 Xiong Ya Li ",
+        "address": "Sarvar, Feeling kafe, Batthyany u., 9600 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x47694cfc5af308f3:0x99fcb0e0f65b523!8m2!3d47.2517148!4d16.9369518!16s%2Fg%2F11cls8sfk6!19sChIJ8wjzWvxMaUcRI7VlDw7Lnwk?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Feeling+kaf%C3%A9/data=!4m7!3m6!1s0x47694d7a4ba05c2b:0x14a7b9a8478d6147!8m2!3d47.2536128!4d16.9319312!16s%2Fg%2F11s8x9ymvg!19sChIJK1ygS3pNaUcRR2GNR6i5pxQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJZxnLneVMaUcRRivAxbigqIo",
@@ -2133,68 +2006,6 @@
         "link": "https://www.google.com/maps/place/Krisztina+Tabak+Bt./data=!4m7!3m6!1s0x47694ce59dcb1967:0x8aa8a0b8c5c02b46!8m2!3d47.2472684!4d16.9265054!16s%2Fg%2F11cn8t4gzc!19sChIJZxnLneVMaUcRRivAxbigqIo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJnbKjcNpNaUcRLFqQWcL8D64",
-        "name": "Atak Cafe Bar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Fregatt Sorozo",
-                "link": "https://www.google.com/maps/search/Fregatt+S%C3%B6r%C3%B6z%C5%91/@47.2527469,16.9286137?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 102,
-                "rating": 4.3,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Afetto Cafe",
-                "link": "https://www.google.com/maps/search/Afetto+Cafe/@47.245461899999995,16.9482286?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Italok, Troja Falo Gyros Bar",
-                "link": "https://www.google.com/maps/search/Italok%2C+Troja+Falo+Gyros+Bar/@47.246549699999996,16.9504589?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.4,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            },
-            {
-                "name": "Studio 54",
-                "link": "https://www.google.com/maps/search/Studio+54/@47.248798099999995,16.9520827?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 3,
-                "main_category": "Disco"
-            },
-            {
-                "name": "Alternativ Zenei Klub",
-                "link": "https://www.google.com/maps/search/Alternat%C3%ADv+Zenei+Klub/@47.252365999999995,16.9370539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ye Zong Hui "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Atak Cafe Bar (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtOdpnDfXPz45euFrgkeWoXwG4qbzvN8tjiUOx=w408-h306-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 3.7,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Sarvar, Atak Cafe Bar, Rakoczi Ferenc u. 65, 9600 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Atak+Caf%C3%A9+Bar/data=!4m7!3m6!1s0x47694dda70a3b29d:0xae0ffcc259905a2c!8m2!3d47.2466772!4d16.9505669!16s%2Fg%2F11s266f1tt!19sChIJnbKjcNpNaUcRLFqQWcL8D64?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJnc0F571NaUcRQx9uSSh30Uk",
         "name": "Var-bisztro",
         "description": null,
@@ -2211,7 +2022,7 @@
             {
                 "name": "TURNER'S Cafe Bar Terrace",
                 "link": "https://www.google.com/maps/search/TURNER%27S+Cafe+Bar+Terrace/@47.253412399999995,16.937333499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 202,
+                "reviews": 205,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2259,7 +2070,7 @@
             {
                 "name": "Fagyizo",
                 "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@47.253923699999994,16.9342804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 275,
+                "reviews": 276,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },

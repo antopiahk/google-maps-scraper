@@ -4,12 +4,12 @@
         "name": "Tesco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 4156,
+        "reviews": 4158,
         "competitors": [
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.876689999999996,17.26232?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2007,
+                "reviews": 2008,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -23,8 +23,8 @@
             {
                 "name": "Yettel Tesco Mosonmagyarovar",
                 "link": "https://www.google.com/maps/search/Yettel+Tesco+Mosonmagyar%C3%B3v%C3%A1r/@47.877015,17.256911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 3.2,
+                "reviews": 55,
+                "rating": 3.3,
                 "main_category": "Shou Ji Zhuan Men Dian "
             },
             {
@@ -55,7 +55,10 @@
         ],
         "rating": 3.9,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Mosonmagyarovar, Tesco, Kiralyhidai u. 42, 9200 Xiong Ya Li ",
         "review_keywords": [
@@ -99,26 +102,26 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 2421,
+        "reviews": 2423,
         "competitors": [
             {
                 "name": "Doni Burger",
                 "link": "https://www.google.com/maps/search/Doni+Burger/@47.866996199999996,17.272491199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 636,
+                "reviews": 637,
                 "rating": 4.5,
                 "main_category": "Han Bao Bao "
             },
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "KFC Mosonmagyarovar DT",
                 "link": "https://www.google.com/maps/search/KFC+Mosonmagyar%C3%B3v%C3%A1r+DT/@47.879101899999995,17.2560713?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 260,
+                "reviews": 269,
                 "rating": 3.5,
                 "main_category": "Kuai Can "
             },
@@ -143,7 +146,10 @@
         ],
         "rating": 4.1,
         "workday_timing": "07:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Mosonmagyarovar, McDonald's, Szekeres Richard u. 19, 9200 Xiong Ya Li ",
         "review_keywords": [
@@ -167,12 +173,12 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2007,
+        "reviews": 2008,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.876497099999995,17.2571262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4155,
+                "reviews": 4157,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -193,7 +199,7 @@
             {
                 "name": "Real elelmiszer bolt",
                 "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%A9lelmiszer+bolt/@47.8848583,17.2714401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
+                "reviews": 113,
                 "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
@@ -219,7 +225,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Mosonmagyarovar, Lidl, Kiralyhidai u. 49, 9200 Xiong Ya Li ",
         "review_keywords": [
@@ -235,19 +245,19 @@
         "name": "Aldi",
         "description": "Fan Shou Ge Zhong Za Huo , Rou Lei He Ru Zhi Pin De Lian Suo Ling Shou Shang . ",
         "is_spending_on_ads": false,
-        "reviews": 1572,
+        "reviews": 1573,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.876497099999995,17.2571262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4155,
+                "reviews": 4157,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.876689999999996,17.26232?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2007,
+                "reviews": 2008,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -279,7 +289,7 @@
             "name": "Aldi (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/103832606791624827234"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyUhosjXsJjskjg3_jsLy0oUuJWBNyNzS1eCVI=w408-h244-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYncXWVYRBnTrwupUBnyC8cuAu8AKxE8Q6qo73=w408-h306-k-no",
         "main_category": "Za Huo Dian ",
         "categories": [
             "Za Huo Dian ",
@@ -287,7 +297,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Mosonmagyarovar, Aldi, Kiralyhidai u. 63, 9200 Xiong Ya Li ",
         "review_keywords": [
@@ -319,7 +332,7 @@
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -361,7 +374,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 96 234 574",
         "address": "Mosonmagyarovar, Varkert Kavezo, Cserhati Sandor u. 5, 9200 Xiong Ya Li ",
         "review_keywords": [
@@ -389,6 +405,98 @@
         "link": "https://www.google.com/maps/place/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x476c77e2fe4d78ad:0x61bd539b38427572!8m2!3d47.8785957!4d17.2739585!16s%2Fg%2F124yfkrqk!19sChIJrXhN_uJ3bEcRcnVCOJtTvWE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJg5p8v5N3bEcRcZUfv6T6tBE",
+        "name": "McDonald's",
+        "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
+        "is_spending_on_ads": false,
+        "reviews": 1150,
+        "competitors": [
+            {
+                "name": "KFC Mosonmagyarovar DT",
+                "link": "https://www.google.com/maps/search/KFC+Mosonmagyar%C3%B3v%C3%A1r+DT/@47.879101899999995,17.2560713?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 269,
+                "rating": 3.5,
+                "main_category": "Kuai Can "
+            },
+            {
+                "name": "Restaurant in the M1 Autohof Lebeny",
+                "link": "https://www.google.com/maps/search/Restaurant+in+the+M1+Autohof+L%C3%A9b%C3%A9ny/@47.753365599999995,17.4228871?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 122,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Parkolo",
+                "link": "https://www.google.com/maps/search/Parkol%C3%B3/@47.872706699999995,17.216194299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 82,
+                "rating": 4,
+                "main_category": "Shou Fei Dao Lu Xiu Xi Zhan "
+            },
+            {
+                "name": "M1 Moson Piheno",
+                "link": "https://www.google.com/maps/search/M1+Moson+Pihen%C5%91/@47.8722176,17.215812?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 3.1,
+                "main_category": "Shou Fei Dao Lu Xiu Xi Zhan "
+            }
+        ],
+        "website": "https://www.mcdonalds.hu/ettermeink/m1-mosonmagyarovar-del",
+        "owner": {
+            "id": "113448618030498246268",
+            "name": "McDonald's (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113448618030498246268"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOPUTgaPIiPTyN_VXqgm4JVO8PuVEYo_MYZRw8D=w408-h306-k-no",
+        "main_category": "Kuai Can Dian ",
+        "categories": [
+            "Kuai Can Dian "
+        ],
+        "rating": 3.7,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Level, McDonald's, 041 13 hrsz, 9221 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Zhi Fu ",
+                "count": 27
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 16
+            },
+            {
+                "keyword": "Qing Jie ",
+                "count": 6
+            },
+            {
+                "keyword": "Fu Wu Fei ",
+                "count": 5
+            },
+            {
+                "keyword": "Xi Guan ",
+                "count": 4
+            },
+            {
+                "keyword": "Zhuo ",
+                "count": 4
+            },
+            {
+                "keyword": "Niao ",
+                "count": 3
+            },
+            {
+                "keyword": "Ke Le ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x476c7793bf7c9a83:0x11b4faa4bf1f9571!8m2!3d47.8710441!4d17.2157211!16s%2Fg%2F11jwgldy4z!19sChIJg5p8v5N3bEcRcZUfv6T6tBE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJvynEhyWIa0cRxwfnwVRPbCg",
         "name": "PENNY Mosonmagyarovar",
         "description": null,
@@ -398,14 +506,14 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.876497099999995,17.2571262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4155,
+                "reviews": 4157,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.861626,17.276263999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 849,
+                "reviews": 850,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -458,58 +566,6 @@
         "link": "https://www.google.com/maps/place/PENNY+Mosonmagyar%C3%B3v%C3%A1r/data=!4m7!3m6!1s0x476b882587c429bf:0x286c4f54c1e707c7!8m2!3d47.8605515!4d17.2759882!16s%2Fg%2F11c3v6z5s4!19sChIJvynEhyWIa0cRxwfnwVRPbCg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJtYhA_-Z3bEcRI-KZ9vRmqRw",
-        "name": "Nimrod Hotel - Etterem",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1035,
-        "competitors": [],
-        "website": "http://www.nimrodetterem.hu/",
-        "owner": {
-            "id": "108947448095119550253",
-            "name": "Nimrod Hotel - Etterem (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108947448095119550253"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWsYeb0mJADGlDnAfbb-hsoUFTck8NFeH0GLDg=w427-h240-k-no",
-        "main_category": "Jiu Dian ",
-        "categories": [
-            "Jiu Dian ",
-            "Can Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 96 211 141",
-        "address": "Mosonmagyarovar, Nimrod Hotel - Etterem, Kiralyhidai u. 59, 9200 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Qing Jie ",
-                "count": 16
-            },
-            {
-                "keyword": "Chu Fang ",
-                "count": 10
-            },
-            {
-                "keyword": "Ting Che Chang ",
-                "count": 6
-            },
-            {
-                "keyword": "cpZhi ",
-                "count": 5
-            },
-            {
-                "keyword": "Jie Dai ",
-                "count": 5
-            },
-            {
-                "keyword": "Dian Shi ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Nimr%C3%B3d+Hotel+%E2%80%93+%C3%89tterem/data=!4m10!3m9!1s0x476c77e6ff4088b5:0x1ca966f4f699e223!5m2!4m1!1i2!8m2!3d47.877479!4d17.259891!16s%2Fg%2F113jkhxg9!19sChIJtYhA_-Z3bEcRI-KZ9vRmqRw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJH35gJuJ3bEcRAJHFwS99OsU",
         "name": "Monarchia Kavehaz",
         "description": null,
@@ -519,14 +575,14 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -681,7 +737,7 @@
         "name": "SPAR szupermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 849,
+        "reviews": 850,
         "competitors": [
             {
                 "name": "Tesco",
@@ -733,7 +789,11 @@
         ],
         "rating": 4.3,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 9624",
         "address": "Mosonmagyarovar, SPAR szupermarket, Aranyossziget u. 1, 9200 Xiong Ya Li ",
         "review_keywords": [],
@@ -744,12 +804,12 @@
         "name": "Marina Ristorante Pizzeria & Steakhouse",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 665,
+        "reviews": 667,
         "competitors": [
             {
                 "name": "Nabob Etterem",
                 "link": "https://www.google.com/maps/search/N%C3%A1bob+%C3%89tterem/@47.8502139,17.2807227?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 531,
+                "reviews": 532,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -800,7 +860,7 @@
             "Mei Shi Niu Ba Wu "
         ],
         "rating": 4.3,
-        "workday_timing": "11:00-21:00",
+        "workday_timing": "11:00-20:00",
         "closed_on": "Open All Days",
         "phone": "+36 30 443 4262",
         "address": "Mosonmagyarovar, Marina Ristorante Pizzeria & Steakhouse, Kiralyhidai u. 50, 9200 Xiong Ya Li ",
@@ -815,6 +875,10 @@
             },
             {
                 "keyword": "Ke Fu ",
+                "count": 3
+            },
+            {
+                "keyword": "Rou ",
                 "count": 3
             }
         ],
@@ -851,7 +915,7 @@
             {
                 "name": "Real elelmiszer bolt",
                 "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%A9lelmiszer+bolt/@47.8848583,17.2714401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
+                "reviews": 113,
                 "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
@@ -892,7 +956,7 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -913,7 +977,7 @@
             {
                 "name": "ENGLER ETTEREM - MOSONMAGYAROVAR",
                 "link": "https://www.google.com/maps/search/ENGLER+%C3%89TTEREM+-+MOSONMAGYAR%C3%93V%C3%81R/@47.8564071,17.2899456?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 218,
+                "reviews": 219,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -975,19 +1039,19 @@
         "name": "Kozpont Cafe & Bistro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 578,
+        "reviews": 579,
         "competitors": [
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1052,7 +1116,7 @@
             {
                 "name": "Harsfa Etterem",
                 "link": "https://www.google.com/maps/search/H%C3%A1rsfa+%C3%89tterem/@47.87490270000001,17.2766841?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2159,
+                "reviews": 2168,
                 "rating": 4.6,
                 "main_category": "Xiong Ya Li Cai "
             },
@@ -1080,7 +1144,7 @@
             {
                 "name": "Europa Etterem",
                 "link": "https://www.google.com/maps/search/Eur%C3%B3pa+%C3%89tterem/@47.8568601,17.2749164?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 134,
+                "reviews": 133,
                 "rating": 3.1,
                 "main_category": "Can Ting "
             }
@@ -1119,7 +1183,7 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.876689999999996,17.26232?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2007,
+                "reviews": 2008,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -1165,7 +1229,10 @@
         ],
         "rating": 3.7,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Mosonmagyarovar, Tesco, Szent I. kir. u. 96, 9200 Xiong Ya Li ",
         "review_keywords": [],
@@ -1188,7 +1255,7 @@
             {
                 "name": "Croissant Bakery",
                 "link": "https://www.google.com/maps/search/Croissant+Bakery/@47.863088999999995,17.278586?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
+                "reviews": 51,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1236,7 +1303,7 @@
             {
                 "name": "Magyaros Vendeglo - Gasthaus",
                 "link": "https://www.google.com/maps/search/Magyaros+Vend%C3%A9gl%C5%91+-+Gasthaus/@47.877964899999995,17.2718442?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 543,
+                "reviews": 545,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -1250,7 +1317,7 @@
             {
                 "name": "Korzo Restaurant",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+Restaurant/@47.877723599999996,17.2716457?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 383,
+                "reviews": 384,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1320,8 +1387,8 @@
             {
                 "name": "Ecofamily",
                 "link": "https://www.google.com/maps/search/Ecofamily/@47.878563799999995,17.258623099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 167,
-                "rating": 4.7,
+                "reviews": 168,
+                "rating": 4.8,
                 "main_category": "Zhe Kou Shang Dian "
             },
             {
@@ -1334,7 +1401,7 @@
             {
                 "name": "Vady Bt.",
                 "link": "https://www.google.com/maps/search/Vady+Bt./@47.878537699999995,17.2536465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
+                "reviews": 69,
                 "rating": 4.8,
                 "main_category": "Jiu Pin Dian "
             },
@@ -1443,7 +1510,7 @@
             {
                 "name": "Fagylaltszalon Cukraszda",
                 "link": "https://www.google.com/maps/search/Fagylaltszalon+Cukr%C3%A1szda/@47.875515899999996,17.2688171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 853,
+                "reviews": 854,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -1502,7 +1569,7 @@
         "name": "Fresh Corner Restaurant Moson South",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 226,
+        "reviews": 228,
         "competitors": [
             {
                 "name": "Marche",
@@ -1532,7 +1599,7 @@
             "Xiao Can Guan  (Bistro)",
             "Jia Ting Can Ting "
         ],
-        "rating": 3.9,
+        "rating": 4,
         "workday_timing": "06:00-00:00",
         "closed_on": "Open All Days",
         "phone": "+36 20 500 0180",
@@ -1612,6 +1679,76 @@
         "link": "https://www.google.com/maps/place/CBA+Pr%C3%ADma/data=!4m7!3m6!1s0x476b88209163c2a3:0xebe5360e7cb531e1!8m2!3d47.8677241!4d17.2721!16s%2Fg%2F11ddx6654c!19sChIJo8JjkSCIa0cR4TG1fA425es?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJiYnKhM53bEcRspUns9_4q3w",
+        "name": "Tesco expressz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 198,
+        "competitors": [
+            {
+                "name": "SPAR szupermarket",
+                "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.872347100000006,17.2687763?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 770,
+                "rating": 4.1,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Yettel Tesco Mosonmagyarovar",
+                "link": "https://www.google.com/maps/search/Yettel+Tesco+Mosonmagyar%C3%B3v%C3%A1r/@47.877015,17.256911?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 55,
+                "rating": 3.3,
+                "main_category": "Shou Ji Zhuan Men Dian "
+            },
+            {
+                "name": "S market",
+                "link": "https://www.google.com/maps/search/S+market/@47.875785,17.2709242?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Nemzeti Dohanybolt - Nagy TESCO",
+                "link": "https://www.google.com/maps/search/Nemzeti+Doh%C3%A1nybolt+-+Nagy+TESCO/@47.8774653,17.256369199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Yan Cao Dian "
+            },
+            {
+                "name": "Mosonmagyarovar",
+                "link": "https://www.google.com/maps/search/Mosonmagyar%C3%B3v%C3%A1r/@47.8628049,17.276406299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shu Guo Dian "
+            }
+        ],
+        "website": "https://tesco.hu/aruhazak/aruhaz/tesco-szupermarket-movar-magyar-utca",
+        "owner": {
+            "id": null,
+            "name": "Tesco expressz (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_6xyzenb9Ho3nFdj3TLSuLURJnuLe_t8jztwW=w426-h240-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang ",
+            "Za Huo Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Mosonmagyarovar, Tesco expressz, Magyar u. 32, 9200 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Xuan Ze ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tesco+expressz/data=!4m7!3m6!1s0x476c77ce84ca8989:0x7cabf8dfb32795b2!8m2!3d47.8758338!4d17.270941!16s%2Fg%2F11fr77n0fl!19sChIJiYnKhM53bEcRspUns9_4q3w?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJI0RefuV3bEcRi6v2vlnPRA4",
         "name": "Inyenc Cukraszda es Bufe",
         "description": null,
@@ -1621,7 +1758,7 @@
             {
                 "name": "Fagylaltszalon Cukraszda",
                 "link": "https://www.google.com/maps/search/Fagylaltszalon+Cukr%C3%A1szda/@47.875515899999996,17.2688171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 853,
+                "reviews": 854,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -1671,12 +1808,12 @@
         "name": "Ecofamily",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 167,
+        "reviews": 168,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.876497099999995,17.2571262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4155,
+                "reviews": 4157,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -1720,9 +1857,13 @@
         "categories": [
             "Zhe Kou Shang Dian "
         ],
-        "rating": 4.7,
+        "rating": 4.8,
         "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 225 2842",
         "address": "Mosonmagyarovar, Ecofamily, Szekeres Richard u. 19, 9200 Xiong Ya Li ",
         "review_keywords": [],
@@ -1738,7 +1879,7 @@
             {
                 "name": "Fagylaltszalon Cukraszda",
                 "link": "https://www.google.com/maps/search/Fagylaltszalon+Cukr%C3%A1szda/@47.875515899999996,17.2688171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 853,
+                "reviews": 854,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -1835,8 +1976,8 @@
             {
                 "name": "Yettel Tesco Mosonmagyarovar",
                 "link": "https://www.google.com/maps/search/Yettel+Tesco+Mosonmagyar%C3%B3v%C3%A1r/@47.877015,17.256911?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 3.2,
+                "reviews": 55,
+                "rating": 3.3,
                 "main_category": "Shou Ji Zhuan Men Dian "
             },
             {
@@ -1904,7 +2045,7 @@
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.875115699999995,17.2700894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1945,7 +2086,7 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.876497099999995,17.2571262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4155,
+                "reviews": 4157,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -1996,7 +2137,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 96 577 320",
         "address": "Mosonmagyarovar, Muller Drogeria, Szekeres Richard u. 19, 9200 Xiong Ya Li ",
         "review_keywords": [],
@@ -2040,7 +2184,7 @@
             {
                 "name": "Europa Etterem",
                 "link": "https://www.google.com/maps/search/Eur%C3%B3pa+%C3%89tterem/@47.8568601,17.2749164?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 134,
+                "reviews": 133,
                 "rating": 3.1,
                 "main_category": "Can Ting "
             }
@@ -2074,7 +2218,7 @@
             {
                 "name": "Europe Bakery",
                 "link": "https://www.google.com/maps/search/Europe+Bakery/@47.865589500000006,17.273167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 257,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2088,7 +2232,7 @@
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.875115699999995,17.2700894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2102,7 +2246,7 @@
             {
                 "name": "Croissant Bakery",
                 "link": "https://www.google.com/maps/search/Croissant+Bakery/@47.863088999999995,17.278586?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
+                "reviews": 51,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
@@ -2155,144 +2299,16 @@
         "link": "https://www.google.com/maps/place/Lott%C3%B3z%C3%B3+Mosonmagyar%C3%B3v%C3%A1r/data=!4m7!3m6!1s0x476b882119130519:0x616b204355e867d1!8m2!3d47.8672713!4d17.2742465!16s%2Fg%2F11c2nv7zvr!19sChIJGQUTGSGIa0cR0WfoVUMga2E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJY7Bn0SaIa0cRmoKMKPfDxcM",
-        "name": "Vady Italdiszkont (Nemzeti Dohanybolt)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 75,
-        "competitors": [
-            {
-                "name": "National tobacco shop",
-                "link": "https://www.google.com/maps/search/National+tobacco+shop/@47.865986299999996,17.272922599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 83,
-                "rating": 4.3,
-                "main_category": "Yan Cao Dian "
-            },
-            {
-                "name": "Vady Bt.",
-                "link": "https://www.google.com/maps/search/Vady+Bt./@47.878537699999995,17.2536465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
-                "rating": 4.8,
-                "main_category": "Jiu Pin Dian "
-            },
-            {
-                "name": "National tobacco shop",
-                "link": "https://www.google.com/maps/search/National+tobacco+shop/@47.856989899999995,17.2762375?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 4.4,
-                "main_category": "Yan Cao Dian "
-            },
-            {
-                "name": "Nemzeti Dohanybolt",
-                "link": "https://www.google.com/maps/search/Nemzeti+Doh%C3%A1nybolt/@47.8771304,17.2693312?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 31,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Vady Italdiszkont",
-                "link": "https://www.google.com/maps/search/Vady+Italdiszkont/@47.869364,17.2839506?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            }
-        ],
-        "website": "http://vady.hu/",
-        "owner": {
-            "id": "112807650565518904691",
-            "name": "Vady Italdiszkont (Nemzeti Dohanybolt) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112807650565518904691"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGF_YU7jfk3qSSh7MhJCaxTBNCOx_j6znywrzB=w408-h544-k-no",
-        "main_category": "Jiu Pin Dian ",
-        "categories": [
-            "Jiu Pin Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "05:00-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 96 203 255",
-        "address": "Mosonmagyarovar, Vady Italdiszkont (Nemzeti Dohanybolt), Szent Istvan kiraly ut 40, 9200 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Vady+Italdiszkont+%28Nemzeti+Doh%C3%A1nybolt%29/data=!4m7!3m6!1s0x476b8826d167b063:0xc3c5c3f7288c829a!8m2!3d47.8657112!4d17.2731398!16s%2Fg%2F11bx2hlzm1!19sChIJY7Bn0SaIa0cRmoKMKPfDxcM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ94YxJMqJa0cRoCFbzhkYx-4",
-        "name": "Shell",
+        "place_id": "ChIJzZhuNup3bEcR1SU_QiVz30c",
+        "name": "Lipoti Pekseg es Kavezo",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 73,
         "competitors": [
             {
-                "name": "MOL",
-                "link": "https://www.google.com/maps/search/MOL/@47.8712687,17.2174671?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3321,
-                "rating": 4.1,
-                "main_category": "You Zhan "
-            },
-            {
-                "name": "OMV",
-                "link": "https://www.google.com/maps/search/OMV/@47.866005799999996,17.2675921?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 657,
-                "rating": 4.4,
-                "main_category": "You Zhan "
-            },
-            {
-                "name": "UniOil - Mosonmagyarovar",
-                "link": "https://www.google.com/maps/search/UniOil+-+Mosonmagyar%C3%B3v%C3%A1r/@47.8766883,17.2584811?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 68,
-                "rating": 4.4,
-                "main_category": "You Zhan "
-            },
-            {
-                "name": "Oranges Oil",
-                "link": "https://www.google.com/maps/search/Oranges+Oil/@47.878425199999995,17.257705599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
-                "rating": 4.3,
-                "main_category": "You Zhan "
-            },
-            {
-                "name": "Magan",
-                "link": "https://www.google.com/maps/search/Mag%C3%A1n/@47.8783735,17.2577391?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 3,
-                "main_category": "You Zhan "
-            }
-        ],
-        "website": "https://find.shell.com/hu/fuel/10203136-mosonmagyarovar-i/hu_HU",
-        "owner": {
-            "id": "116328077419281222796",
-            "name": "Shell (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116328077419281222796"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjK0PqR2VdaS2LPLuS9gp-TmfYXx2aCNVGNUVD=w426-h240-k-no",
-        "main_category": "You Zhan ",
-        "categories": [
-            "You Zhan ",
-            "Bian Li Dian ",
-            "San Wen Zhi Dian "
-        ],
-        "rating": 3.3,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 655 4989",
-        "address": "Mosonmagyarovar, Shell, Gabonarakpart 10, 9200 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x476b89ca243186f7:0xeec71819ce5b21a0!8m2!3d47.8443764!4d17.282221!16s%2Fg%2F11bx3stp_j!19sChIJ94YxJMqJa0cRoCFbzhkYx-4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJzZhuNup3bEcR1SU_QiVz30c",
-        "name": "Lipoti Pekseg es Kavezo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 71,
-        "competitors": [
-            {
                 "name": "Europe Bakery",
                 "link": "https://www.google.com/maps/search/Europe+Bakery/@47.865589500000006,17.273167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 257,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2424,7 +2440,7 @@
             {
                 "name": "Fagylaltszalon Cukraszda",
                 "link": "https://www.google.com/maps/search/Fagylaltszalon+Cukr%C3%A1szda/@47.875515899999996,17.2688171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 853,
+                "reviews": 854,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -2515,7 +2531,7 @@
             {
                 "name": "Europe Bakery",
                 "link": "https://www.google.com/maps/search/Europe+Bakery/@47.865589500000006,17.273167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 257,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2567,7 +2583,7 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -2581,7 +2597,7 @@
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -2709,6 +2725,68 @@
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Mosonmagyar%C3%B3v%C3%A1r/data=!4m7!3m6!1s0x476c77ad1e86664f:0x150fced2780c6bb8!8m2!3d47.8760336!4d17.2697453!16s%2Fg%2F11glt3jgwh!19sChIJT2aGHq13bEcRuGsMeNLODxU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJydzKlHaJa0cRHNiVRnPVxu0",
+        "name": "Real Aruhaz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [
+            {
+                "name": "Manna Food Discount and C + C",
+                "link": "https://www.google.com/maps/search/Manna+Food+Discount+and+C+%2B+C/@47.8685567,17.254622599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 197,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Real elelmiszer bolt",
+                "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%A9lelmiszer+bolt/@47.8848583,17.2714401?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 113,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Lira Konyvesbolt",
+                "link": "https://www.google.com/maps/search/L%C3%ADra+K%C3%B6nyvesbolt/@47.872695,17.2689193?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 97,
+                "rating": 4.5,
+                "main_category": "Shu Dian "
+            },
+            {
+                "name": "Real Manna Aruhaz",
+                "link": "https://www.google.com/maps/search/Re%C3%A1l+Manna+%C3%81ruh%C3%A1z/@47.8847972,17.2714502?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 3.8,
+                "main_category": ""
+            },
+            {
+                "name": "Real-Express Ingatlaniroda",
+                "link": "https://www.google.com/maps/search/Real-Express+Ingatlaniroda/@47.87475080000001,17.2688916?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.3,
+                "main_category": "Di Chan Gong Si "
+            }
+        ],
+        "website": "http://www.real.hu/",
+        "owner": {
+            "id": null,
+            "name": "Real Aruhaz (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTJvnWKSs7pfTnWZyxQLe0dzPhIrf0L0xMtqGS=w426-h240-k-no",
+        "main_category": "Shang Dian ",
+        "categories": [
+            "Shang Dian "
+        ],
+        "rating": 3,
+        "workday_timing": "06:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Mosonmagyarovar, Real Aruhaz, Erkel Ferenc u. 16, 9200 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Re%C3%A1l+%C3%81ruh%C3%A1z/data=!4m7!3m6!1s0x476b897694cadcc9:0xedc6d5734695d81c!8m2!3d47.8675878!4d17.2781913!16s%2Fg%2F11rrqgjw4g!19sChIJydzKlHaJa0cRHNiVRnPVxu0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJiUbMsxCJa0cRklqcRXiEIws",
         "name": "Havanna Club Kavehaz",
         "description": null,
@@ -2718,7 +2796,7 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -2822,7 +2900,7 @@
             {
                 "name": "Csopak Borozo",
                 "link": "https://www.google.com/maps/search/Csopak+Boroz%C3%B3/@47.858348,17.2659296?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 156,
+                "reviews": 157,
                 "rating": 4.7,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -2872,7 +2950,7 @@
         "name": "Doni Burger",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 636,
+        "reviews": 637,
         "competitors": [
             {
                 "name": "Marina Ristorante Pizzeria & Steakhouse",
@@ -2884,14 +2962,14 @@
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Lajta Garden",
                 "link": "https://www.google.com/maps/search/Lajta+Garden/@47.8746769,17.270716699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 394,
+                "reviews": 395,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -2945,7 +3023,7 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -2959,7 +3037,7 @@
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -3014,7 +3092,7 @@
             {
                 "name": "Real elelmiszer bolt",
                 "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%A9lelmiszer+bolt/@47.8848583,17.2714401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
+                "reviews": 113,
                 "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
@@ -3064,7 +3142,7 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -3078,7 +3156,7 @@
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -3143,7 +3221,7 @@
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.875115699999995,17.2700894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3157,8 +3235,8 @@
             {
                 "name": "Galeria Center",
                 "link": "https://www.google.com/maps/search/Gal%C3%A9ria+Center/@47.879875,17.2564939?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4.3,
+                "reviews": 31,
+                "rating": 4.2,
                 "main_category": "Gou Wu Zhong Xin "
             }
         ],
@@ -3196,14 +3274,14 @@
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.875115699999995,17.2700894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Croissant Bakery",
                 "link": "https://www.google.com/maps/search/Croissant+Bakery/@47.863088999999995,17.278586?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
+                "reviews": 51,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3244,7 +3322,7 @@
             {
                 "name": "Fagylaltszalon Cukraszda",
                 "link": "https://www.google.com/maps/search/Fagylaltszalon+Cukr%C3%A1szda/@47.875515899999996,17.2688171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 853,
+                "reviews": 854,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -3290,7 +3368,12 @@
         ],
         "rating": 4.6,
         "workday_timing": "10:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 96 259 274",
         "address": "Mosonmagyarovar, Lila Akac Cukraszda, Kapolna ter 13, 9200 Xiong Ya Li ",
         "review_keywords": [],
@@ -3345,6 +3428,68 @@
         "link": "https://www.google.com/maps/place/G%C3%B6rbe+Kifli/data=!4m7!3m6!1s0x476b882183dcc9b7:0x9377b91c2b9f6436!8m2!3d47.8679559!4d17.2770996!16s%2Fg%2F11bx2hq4y5!19sChIJt8ncgyGIa0cRNmSfKxy5d5M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ2d6oL4R3bEcRz5VQDFNSwV4",
+        "name": "Real elelmiszer bolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 113,
+        "competitors": [
+            {
+                "name": "Manna Food Discount and C + C",
+                "link": "https://www.google.com/maps/search/Manna+Food+Discount+and+C+%2B+C/@47.8685567,17.254622599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 197,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Lomb Kisbolt",
+                "link": "https://www.google.com/maps/search/Lomb+Kisbolt/@47.884084699999995,17.2650131?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 73,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Real Aruhaz",
+                "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%81ruh%C3%A1z/@47.867587799999995,17.2781913?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "Real Manna Aruhaz",
+                "link": "https://www.google.com/maps/search/Re%C3%A1l+Manna+%C3%81ruh%C3%A1z/@47.8847972,17.2714502?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 3.8,
+                "main_category": ""
+            },
+            {
+                "name": "Elelmiszerbolt",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszerbolt/@47.8801201,17.2758008?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Real elelmiszer bolt (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN16ZxIU12fw5MjqCX1jrN284lDWc3KhLEx1g_q=w480-h240-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "05:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Mosonmagyarovar, Real elelmiszer bolt, Beke u. 3, 9200 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Re%C3%A1l+%C3%A9lelmiszer+bolt/data=!4m7!3m6!1s0x476c77842fa8ded9:0x5ec152530c5095cf!8m2!3d47.8848583!4d17.2714401!16s%2Fg%2F11hdxgn1h8!19sChIJ2d6oL4R3bEcRz5VQDFNSwV4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJZ0_pKiGIa0cRCDDBTHtBnzw",
         "name": "National tobacco shop",
         "description": null,
@@ -3387,7 +3532,7 @@
             {
                 "name": "Real elelmiszer bolt",
                 "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%A9lelmiszer+bolt/@47.8848583,17.2714401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
+                "reviews": 113,
                 "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
@@ -3426,63 +3571,6 @@
         "link": "https://www.google.com/maps/place/Lomb+Kisbolt/data=!4m7!3m6!1s0x476c77f00e06403f:0xbf833be6c18035bf!8m2!3d47.8840847!4d17.2650131!16s%2Fg%2F11c6c8kj1_!19sChIJP0AGDvB3bEcRvzWAweY7g78?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJufa0xNGOa0cRhMmvl8SJ0p8",
-        "name": "Mokka kavezo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 70,
-        "competitors": [
-            {
-                "name": "Malom Cafe",
-                "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Tonic Menu",
-                "link": "https://www.google.com/maps/search/Tonic+Men%C3%BC/@47.8161759,17.3630381?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.9,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Klaudia Cukraszda",
-                "link": "https://www.google.com/maps/search/Klaudia+Cukr%C3%A1szda/@47.8011251,17.3462002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.6,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Korcsma",
-                "link": "https://www.google.com/maps/search/Korcsma/@47.8274299,17.371674199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "100925972864293597247",
-            "name": "Mokka kavezo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100925972864293597247"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMsAr8u_tvkm4EUO5NpSooG4rxaavP9mB1GH2vI=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Ka Pei Ting ",
-            "Xue Gao Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": "12:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 852 0590",
-        "address": "Kimle, Mokka kavezo, Vizpart u. 2, 9181 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mokka+k%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x476b8ed1c4b4f6b9:0x9fd289c497afc984!8m2!3d47.8260209!4d17.369829!16s%2Fg%2F11d_2j669s!19sChIJufa0xNGOa0cRhMmvl8SJ0p8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ5z4kSC6Ia0cRXTKRY2RWJGU",
         "name": "Lipoti Pekseg Mosoni uzlete",
         "description": null,
@@ -3513,7 +3601,7 @@
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.875115699999995,17.2700894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3556,7 +3644,7 @@
             {
                 "name": "Real elelmiszer bolt",
                 "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%A9lelmiszer+bolt/@47.8848583,17.2714401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
+                "reviews": 113,
                 "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
@@ -3630,7 +3718,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "04:30-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Mosonmagyarovar, National tobacco shop, Szent Istvan kiraly ut 119, 9200 Xiong Ya Li ",
         "review_keywords": [],
@@ -3646,7 +3737,7 @@
             {
                 "name": "Fagylaltszalon Cukraszda",
                 "link": "https://www.google.com/maps/search/Fagylaltszalon+Cukr%C3%A1szda/@47.875515899999996,17.2688171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 853,
+                "reviews": 854,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -3705,12 +3796,12 @@
         "name": "Croissant Bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 50,
+        "reviews": 51,
         "competitors": [
             {
                 "name": "Europe Bakery",
                 "link": "https://www.google.com/maps/search/Europe+Bakery/@47.865589500000006,17.273167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 257,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3724,7 +3815,7 @@
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.875115699999995,17.2700894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3752,12 +3843,43 @@
         "rating": 4.7,
         "workday_timing": "06:00-18:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 30 317 4212",
         "address": "Mosonmagyarovar, Croissant Bakery, Kokeny u. 11, 9200 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Croissant+Bakery/data=!4m7!3m6!1s0x476b890984244df3:0xb5b701936a1056fc!8m2!3d47.863089!4d17.278586!16s%2Fg%2F11rsg9_s_6!19sChIJ800khAmJa0cR_FYQapMBt7U?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJC7bZGT92bEcRO8DWqZbT3sw",
+        "name": "PARTOS TRAFIK Bt.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "112718245313783529915",
+            "name": "PARTOS TRAFIK Bt. (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112718245313783529915"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0RnYxbBdkU_XKWOjNnAKuQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=214.49739&pitch=0&thumbfov=100",
+        "main_category": "Yan Cao Dian ",
+        "categories": [
+            "Yan Cao Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-19:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+36 30 957 4673",
+        "address": "Mosonmagyarovar, PARTOS TRAFIK Bt., Ujudvar Verseny u. 1, 9246 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/PARTOS+TRAFIK+Bt./data=!4m7!3m6!1s0x476c763f19d9b60b:0xccded396a9d6c03b!8m2!3d47.8407212!4d17.2267224!16s%2Fg%2F1q65_21n5!19sChIJC7bZGT92bEcRO8DWqZbT3sw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJOdd0M5N3bEcRWeCe09wo78U",
@@ -3776,14 +3898,14 @@
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.875115699999995,17.2700894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Croissant Bakery",
                 "link": "https://www.google.com/maps/search/Croissant+Bakery/@47.863088999999995,17.278586?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
+                "reviews": 51,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3833,7 +3955,7 @@
             {
                 "name": "Inyenc Cukraszda es Bufe",
                 "link": "https://www.google.com/maps/search/%C3%8Dnyenc+Cukr%C3%A1szda+%C3%A9s+B%C3%BCf%C3%A9/@47.8652805,17.2674783?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 187,
+                "reviews": 186,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -3877,6 +3999,7 @@
         "workday_timing": "09:00-12:30, 13:30-17:00",
         "closed_on": [
             "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 20 486 5640",
@@ -3894,7 +4017,7 @@
             {
                 "name": "Fagylaltszalon Cukraszda",
                 "link": "https://www.google.com/maps/search/Fagylaltszalon+Cukr%C3%A1szda/@47.875515899999996,17.2688171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 853,
+                "reviews": 854,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -3970,7 +4093,7 @@
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.875115699999995,17.2700894?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4018,7 +4141,7 @@
             {
                 "name": "Fagylaltszalon Cukraszda",
                 "link": "https://www.google.com/maps/search/Fagylaltszalon+Cukr%C3%A1szda/@47.875515899999996,17.2688171?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 853,
+                "reviews": 854,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -4080,7 +4203,7 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -4219,7 +4342,7 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -4233,7 +4356,7 @@
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -4294,66 +4417,66 @@
         "link": "https://www.google.com/maps/place/Hans%C3%A1g+Vegyeskeresked%C3%A9s/data=!4m7!3m6!1s0x476c77c10729b083:0xf7d50c99f479ac8c!8m2!3d47.8657546!4d17.264115!16s%2Fg%2F11l5m72w82!19sChIJg7ApB8F3bEcRjKx59JkM1fc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ17LqT-eJa0cRsWO3T1zdV3w",
-        "name": "MUSZAKI HAZTARTASI GEP ALKATRESZ BOLT",
+        "place_id": "ChIJM87JxxV3bEcRcyCBd_uRPIM",
+        "name": "Tabak",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 1,
         "competitors": [
             {
-                "name": "Premier Technology Store",
-                "link": "https://www.google.com/maps/search/Premier+Technology+Store/@47.866645,17.2733515?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 232,
-                "rating": 4.7,
-                "main_category": "Dian Qi Xing "
+                "name": "National tobacco shop",
+                "link": "https://www.google.com/maps/search/National+tobacco+shop/@47.865986299999996,17.272922599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 83,
+                "rating": 4.3,
+                "main_category": "Yan Cao Dian "
             },
             {
-                "name": "Kisalfold Aruhaz Mosonmagyarovar",
-                "link": "https://www.google.com/maps/search/Kisalf%C3%B6ld+%C3%81ruh%C3%A1z+Mosonmagyar%C3%B3v%C3%A1r/@47.8676982,17.272362599999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.5,
-                "main_category": "Bai Huo Gong Si "
+                "name": "National tobacco shop",
+                "link": "https://www.google.com/maps/search/National+tobacco+shop/@47.856989899999995,17.2762375?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4.4,
+                "main_category": "Yan Cao Dian "
             },
             {
-                "name": "HAZTARTASI GEP SZERVIZ KAVEGEP SZERVIZ NAGY UNIVERSAL KFT",
-                "link": "https://www.google.com/maps/search/H%C3%81ZTART%C3%81SI+G%C3%89P+SZERVIZ+K%C3%81V%C3%89G%C3%89P+SZERVIZ+NAGY+UNIVERSAL+KFT/@47.854423999999995,17.2655215?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
+                "name": "Nemzeti Dohanybolt Mosonmagyarovar",
+                "link": "https://www.google.com/maps/search/Nemzeti+Doh%C3%A1nybolt+Mosonmagyar%C3%B3v%C3%A1r/@47.8760336,17.2697453?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
                 "rating": 4.8,
-                "main_category": "Jia Ting Yong Pin Wei Xiu Fu Wu "
+                "main_category": "Yan Cao Dian "
             },
             {
-                "name": "MOVAS Szolgaltato Szovetkezet",
-                "link": "https://www.google.com/maps/search/MOVAS+Szolg%C3%A1ltat%C3%B3+Sz%C3%B6vetkezet/@47.8698925,17.2703541?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Jia Ting Yong Pin Wei Xiu Fu Wu "
+                "name": "Nemzeti Dohanybolt",
+                "link": "https://www.google.com/maps/search/Nemzeti+Doh%C3%A1nybolt/@47.875953599999995,17.2737272?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Yan Cao Dian "
             },
             {
-                "name": "Thuroczy Lajos",
-                "link": "https://www.google.com/maps/search/Thur%C3%B3czy+Lajos/@47.8704135,17.2705053?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Jia Ting Yong Pin Wei Xiu Fu Wu "
+                "name": "Nemzeti Dohanybolt Hansag utca",
+                "link": "https://www.google.com/maps/search/Nemzeti+Doh%C3%A1nybolt+Hans%C3%A1g+utca/@47.86584,17.2668413?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Yan Cao Dian "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "MUSZAKI HAZTARTASI GEP ALKATRESZ BOLT (Ye Zhu )",
+            "name": "Tabak (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzpCU1sgeEwUA62rnJ2v7HPhZKVcXWaP6uJT9t=w408-h544-k-no",
-        "main_category": "Bian Li Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKZfpCAVOSUmHzaXSLXR73snsSqy-AsM1ImgEn=w493-h240-k-no",
+        "main_category": "Yao Fang ",
         "categories": [
-            "Bian Li Dian "
+            "Yao Fang "
         ],
-        "rating": 5,
-        "workday_timing": null,
+        "rating": 1,
+        "workday_timing": "05:00-20:00",
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Mosonmagyarovar, MUSZAKI HAZTARTASI GEP ALKATRESZ BOLT, Szent Istvan kiraly ut 125, 9200 Xiong Ya Li ",
+        "address": "Mosonmagyarovar, Tabak, Kiralyhidai u., 9200 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/M%C5%B0SZAKI+H%C3%81ZTART%C3%81SI+G%C3%89P+ALKATR%C3%89SZ+BOLT/data=!4m7!3m6!1s0x476b89e74feab2d7:0x7c57dd5c4fb763b1!8m2!3d47.856443!4d17.2767066!16s%2Fg%2F11pdmf_5lk!19sChIJ17LqT-eJa0cRsWO3T1zdV3w?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Tabak/data=!4m7!3m6!1s0x476c7715c7c9ce33:0x833c91fb77812073!8m2!3d47.8789747!4d17.2561978!16s%2Fg%2F11h8rtwtfd!19sChIJM87JxxV3bEcRcyCBd_uRPIM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJs0hjKut3bEcRJ5Ds1k6wJ3Q",
@@ -4420,7 +4543,7 @@
             {
                 "name": "Varkert Kavezo",
                 "link": "https://www.google.com/maps/search/V%C3%A1rkert+K%C3%A1v%C3%A9z%C3%B3/@47.8785957,17.2739585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1161,
+                "reviews": 1163,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -4434,7 +4557,7 @@
             {
                 "name": "Malom Cafe",
                 "link": "https://www.google.com/maps/search/Malom+Cafe/@47.8788986,17.272210299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 604,
+                "reviews": 605,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -4482,7 +4605,7 @@
             {
                 "name": "Borhalo Ovar",
                 "link": "https://www.google.com/maps/search/Borh%C3%A1l%C3%B3+%C3%93v%C3%A1r/@47.8779399,17.2602582?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 4.9,
                 "main_category": "Jiu Pin Zhuan Mai Dian "
             },
@@ -4496,7 +4619,7 @@
             {
                 "name": "Magia Tours - Magia 2000 Kft.",
                 "link": "https://www.google.com/maps/search/M%C3%A1gia+Tours+-+M%C3%A1gia+2000+Kft./@47.8655093,17.2674931?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
+                "reviews": 15,
                 "rating": 4.4,
                 "main_category": "Lu Xing She "
             },
@@ -4531,6 +4654,63 @@
         "address": "Mosonmagyarovar, ChocoCard, Szigetfoldi u., 9200 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/ChocoCard/data=!4m7!3m6!1s0x476c77d5fe6dc51d:0xcbc47362de57ff2b!8m2!3d47.857436!4d17.263351!16s%2Fg%2F11hf04c9vf!19sChIJHcVt_tV3bEcRK_9X3mJzxMs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJl3UtMGWJa0cR5JXteD33cfM",
+        "name": "Mini ABC",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Non-Stop ABC - Karpati Pekseg",
+                "link": "https://www.google.com/maps/search/Non-Stop+ABC+-+K%C3%A1rp%C3%A1ti+P%C3%A9ks%C3%A9g/@47.8501179,17.2811169?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 500,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Szellorozsa ABC Malomszer Csemege",
+                "link": "https://www.google.com/maps/search/Szell%C5%91r%C3%B3zsa+ABC+Malomszer+Csemege/@47.881036699999996,17.2867745?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 64,
+                "rating": 4.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Ipartelepi Mini ABC",
+                "link": "https://www.google.com/maps/search/Ipartelepi+Mini+ABC/@47.8710701,17.2563987?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Mini Abc",
+                "link": "https://www.google.com/maps/search/Mini+Abc/@47.8568,17.2724856?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mini ABC (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IRE4yoxiyJ91pUPLym5Drw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=213.05402&pitch=0&thumbfov=100",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian "
+        ],
+        "rating": null,
+        "workday_timing": "05:00-12:00, 13:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Mosonmagyarovar, Mini ABC, Szent Istvan kiraly ut 187, 9200 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mini+ABC/data=!4m7!3m6!1s0x476b8965302d7597:0xf371f73d78ed95e4!8m2!3d47.8520692!4d17.2809069!16s%2Fg%2F11j4spphkc!19sChIJl3UtMGWJa0cR5JXteD33cfM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJp1S2pgSJa0cR0X8pn_BfQ2o",
@@ -4601,7 +4781,7 @@
             {
                 "name": "Real elelmiszer bolt",
                 "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%A9lelmiszer+bolt/@47.8848583,17.2714401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
+                "reviews": 113,
                 "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
@@ -4638,62 +4818,5 @@
         "address": "Mosonmagyarovar, Select Elelmiszer, 1 193, 9200 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Select+%C3%89lelmiszer/data=!4m7!3m6!1s0x476b8833834fab79:0x64f477b2785cda3b!8m2!3d47.8518918!4d17.2815382!16s%2Fg%2F11fhnfcs45!19sChIJeatPgzOIa0cRO9pceLJ39GQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJl3UtMGWJa0cR5JXteD33cfM",
-        "name": "Mini ABC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Non-Stop ABC - Karpati Pekseg",
-                "link": "https://www.google.com/maps/search/Non-Stop+ABC+-+K%C3%A1rp%C3%A1ti+P%C3%A9ks%C3%A9g/@47.8501179,17.2811169?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 500,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Szellorozsa ABC Malomszer Csemege",
-                "link": "https://www.google.com/maps/search/Szell%C5%91r%C3%B3zsa+ABC+Malomszer+Csemege/@47.881036699999996,17.2867745?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 64,
-                "rating": 4.7,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Ipartelepi Mini ABC",
-                "link": "https://www.google.com/maps/search/Ipartelepi+Mini+ABC/@47.8710701,17.2563987?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Mini Abc",
-                "link": "https://www.google.com/maps/search/Mini+Abc/@47.8568,17.2724856?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Mini ABC (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IRE4yoxiyJ91pUPLym5Drw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=213.05402&pitch=0&thumbfov=100",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": null,
-        "workday_timing": "05:00-12:00, 13:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Mosonmagyarovar, Mini ABC, Szent Istvan kiraly ut 187, 9200 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mini+ABC/data=!4m7!3m6!1s0x476b8965302d7597:0xf371f73d78ed95e4!8m2!3d47.8520692!4d17.2809069!16s%2Fg%2F11j4spphkc!19sChIJl3UtMGWJa0cR5JXteD33cfM?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

@@ -4,7 +4,7 @@
         "name": "IKEA Budaors",
         "description": "Si Kan Di Na Wei Ya Lian Suo Dian ,Fan Shou Dai Zu Zhuang De Jia Ju , Fang Zhi Pin , Deng Ju Ji Jia Ju Shi Pin . ",
         "is_spending_on_ads": false,
-        "reviews": 32973,
+        "reviews": 32999,
         "competitors": [
             {
                 "name": "JYSK Budaors, Budapest",
@@ -62,7 +62,11 @@
         ],
         "rating": 4.5,
         "workday_timing": "10:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 1 808 9230",
         "address": "Budaors, IKEA Budaors, Sport u. 2-4, 2040 Xiong Ya Li ",
         "review_keywords": [
@@ -102,100 +106,11 @@
         "link": "https://www.google.com/maps/place/IKEA+Buda%C3%B6rs/data=!4m7!3m6!1s0x4741e083b9c8ca6f:0xb18a976b087aba59!8m2!3d47.4540832!4d18.9399627!16s%2Fg%2F1tt0pxff!19sChIJb8rIuYPgQUcRWbp6CGuXirE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJCYOnxBzeQUcRkdVTzZriskw",
-        "name": "Mountex Budaors",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1256,
-        "competitors": [
-            {
-                "name": "Decathlon Budaors",
-                "link": "https://www.google.com/maps/search/Decathlon+Buda%C3%B6rs/@47.4536696,18.936672599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13848,
-                "rating": 4.6,
-                "main_category": "Yun Dong Yong Pin Dian "
-            },
-            {
-                "name": "Intersport",
-                "link": "https://www.google.com/maps/search/Intersport/@47.450552699999996,18.9682432?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1021,
-                "rating": 4.3,
-                "main_category": "Yun Dong Yong Pin Dian "
-            },
-            {
-                "name": "Tengerszem Hiking Equipment",
-                "link": "https://www.google.com/maps/search/Tengerszem+Hiking+Equipment/@47.496761799999994,19.067212599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 586,
-                "rating": 4.8,
-                "main_category": "Hu Wai Yun Dong Yong Pin Dian "
-            },
-            {
-                "name": "Watthajtas Kft. - Kerekparszerviz Budaors - Shimano Service Center",
-                "link": "https://www.google.com/maps/search/Watthajt%C3%A1s+Kft.+-+Ker%C3%A9kp%C3%A1rszerviz+Buda%C3%B6rs+-+Shimano+Service+Center/@47.4611239,18.9621736?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Dan Che Wei Xiu Dian "
-            },
-            {
-                "name": "TSL Outdoor",
-                "link": "https://www.google.com/maps/search/TSL+Outdoor/@47.4526348,18.9727671?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Yun Dong Yong Pin Dian "
-            }
-        ],
-        "website": "http://www.mountex.hu/budaors",
-        "owner": {
-            "id": "115890521721738815991",
-            "name": "Mountex Budaors (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115890521721738815991"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNm8CH4KZfxPJbW11DRrmyPqto5OBa60kJtQwy8=w408-h306-k-no",
-        "main_category": "Hu Wai Yun Dong Yong Pin Dian ",
-        "categories": [
-            "Hu Wai Yun Dong Yong Pin Dian ",
-            "Dan Che Wei Xiu Dian ",
-            "Dan Che Dian ",
-            "Lu Ying Yong Pin Dian ",
-            "Fu Zhuang Dian ",
-            "Zheng Liu Ka Pei Ba ",
-            "Xie Pin Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "10:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 23 500 306",
-        "address": "Budaors, Mountex Budaors, Malomko u. 7, 2040 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Hu Wai Huo Dong ",
-                "count": 9
-            },
-            {
-                "keyword": "Yi Fu ",
-                "count": 8
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 4
-            },
-            {
-                "keyword": "Pan Pa ",
-                "count": 3
-            },
-            {
-                "keyword": "Chi Lun ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Mountex+Buda%C3%B6rs/data=!4m7!3m6!1s0x4741de1cc4a78309:0x4cb2e29acd53d591!8m2!3d47.454435!4d18.974998!16s%2Fg%2F1tj51cpg!19sChIJCYOnxBzeQUcRkdVTzZriskw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJuy7LEdbfQUcRjZieqpjk_rE",
         "name": "Hollosy Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1204,
+        "reviews": 1205,
         "competitors": [
             {
                 "name": "Szamos Cukraszat",
@@ -379,7 +294,7 @@
             {
                 "name": "Budakert Restaurant",
                 "link": "https://www.google.com/maps/search/Budakert+Restaurant/@47.4610053,18.9582299?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1698,
+                "reviews": 1700,
                 "rating": 4.7,
                 "main_category": "Xiong Ya Li Cai "
             },
@@ -393,7 +308,7 @@
             {
                 "name": "Postart Cafe",
                 "link": "https://www.google.com/maps/search/Postart+Caf%C3%A9/@47.4612215,18.9646802?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 515,
+                "reviews": 517,
                 "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -426,7 +341,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 23 789 558",
         "address": "Budaors, Szertar Kavezo, Templom ter 1, 2040 Xiong Ya Li ",
         "review_keywords": [
@@ -492,7 +410,7 @@
         "name": "Postart Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 516,
+        "reviews": 517,
         "competitors": [
             {
                 "name": "Szertar Kavezo",
@@ -504,8 +422,8 @@
             {
                 "name": "Major - Korty es Falat",
                 "link": "https://www.google.com/maps/search/Major+-+Korty+%C3%A9s+Falat/@47.459512,18.9645889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 478,
-                "rating": 4.6,
+                "reviews": 479,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -556,7 +474,7 @@
         "name": "Major - Korty es Falat",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 478,
+        "reviews": 479,
         "competitors": [
             {
                 "name": "Szertar Kavezo",
@@ -568,7 +486,7 @@
             {
                 "name": "Postart Cafe",
                 "link": "https://www.google.com/maps/search/Postart+Caf%C3%A9/@47.4612215,18.9646802?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 515,
+                "reviews": 517,
                 "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -606,7 +524,7 @@
             "Ka Pei Ting ",
             "Zao Can Can Ting "
         ],
-        "rating": 4.6,
+        "rating": 4.5,
         "workday_timing": "07:30-18:00",
         "closed_on": "Open All Days",
         "phone": "+36 30 892 2252",
@@ -628,12 +546,12 @@
         "name": "Starbucks Budaors Auchan",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 466,
+        "reviews": 470,
         "competitors": [
             {
                 "name": "Auchan",
                 "link": "https://www.google.com/maps/search/Auchan/@47.4551157,18.943638099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15086,
+                "reviews": 15096,
                 "rating": 4.3,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -672,82 +590,14 @@
         ],
         "rating": 4.3,
         "workday_timing": "07:00-20:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 520 7157",
         "address": "Budapest, Starbucks Budaors Auchan, Sport u. 2-4, 2040 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Starbucks+Buda%C3%B6rs+Auchan/data=!4m7!3m6!1s0x4741e09d6cc5c671:0xfe1190d757056b67!8m2!3d47.4541816!4d18.9421672!16s%2Fg%2F11gclz61m9!19sChIJccbFbJ3gQUcRZ2sFV9eQEf4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJN-al_iXeQUcRYCIRcWGgdlM",
-        "name": "Jokenyer Shop",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 391,
-        "competitors": [
-            {
-                "name": "Friss Pekseg",
-                "link": "https://www.google.com/maps/search/Friss+P%C3%A9ks%C3%A9g/@47.4572785,18.940946?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 189,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Spejz Bistro Shop Caffe",
-                "link": "https://www.google.com/maps/search/Spejz+Bistro+Shop+Caffe/@47.460916999999995,18.9608036?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
-                "rating": 4.8,
-                "main_category": "Zao Wu Can "
-            },
-            {
-                "name": "Delili Grocery Sandwich Delicacy",
-                "link": "https://www.google.com/maps/search/Delili+Grocery+Sandwich+Delicacy/@47.4607008,18.951168?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 41,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Lipoti Pekseg",
-                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g/@47.460916999999995,18.957881999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 4.2,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Budaorsi Delicatesse",
-                "link": "https://www.google.com/maps/search/Buda%C3%B6rsi+Delicatesse/@47.460720699999996,18.950931600000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.7,
-                "main_category": "Shou Shi Dian "
-            }
-        ],
-        "website": "https://jokenyer.hu/",
-        "owner": {
-            "id": "116146380418412293388",
-            "name": "Jokenyer Shop (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116146380418412293388"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOPy5GFRX-Cyf2PZN5EfjB5epqdmDTEQvkKVpKx=w408-h306-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian ",
-            "Zao Can Can Ting ",
-            "Za Huo Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "06:30-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 20 620 2230",
-        "address": "Budaors, Jokenyer Shop, Szabadsag ut 100, 2040 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Ka Pei ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/J%C3%B3keny%C3%A9r+Shop/data=!4m7!3m6!1s0x4741de25fea5e637:0x5376a06171112260!8m2!3d47.4607152!4d18.950933!16s%2Fg%2F11b5qh5jrx!19sChIJN-al_iXeQUcRYCIRcWGgdlM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ21mHsiHeQUcRGORYCiM4yA8",
@@ -786,7 +636,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 23 952 060",
         "address": "Budaors, Veldi Confectionery, Budapesti ut 128, 2040 Xiong Ya Li ",
         "review_keywords": [
@@ -802,7 +655,7 @@
         "name": "Nour - Art of Desserts",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 228,
+        "reviews": 229,
         "competitors": [
             {
                 "name": "Punto Cukraszda & Bistro & Pizzeria",
@@ -871,7 +724,7 @@
             {
                 "name": "CBA Prima",
                 "link": "https://www.google.com/maps/search/CBA+Pr%C3%ADma/@47.4612359,18.9572126?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1073,
+                "reviews": 1074,
                 "rating": 4.1,
                 "main_category": "Shi Pin Shang Dian "
             },
@@ -933,14 +786,14 @@
             {
                 "name": "Cafe Frei ETELE Plaza",
                 "link": "https://www.google.com/maps/search/Cafe+Frei+ETELE+Pl%C3%A1za/@47.464673,19.023903?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 387,
+                "reviews": 388,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Frei Budaors",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+Buda%C3%B6rs/@47.4604253,18.957010099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
+                "reviews": 110,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -995,7 +848,7 @@
             {
                 "name": "Postart Cafe",
                 "link": "https://www.google.com/maps/search/Postart+Caf%C3%A9/@47.4612215,18.9646802?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 515,
+                "reviews": 517,
                 "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1031,6 +884,9 @@
         "rating": 4.7,
         "workday_timing": "08:30-17:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -1044,7 +900,7 @@
         "name": "Sorriso",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 60,
+        "reviews": 61,
         "competitors": [
             {
                 "name": "Szertar Kavezo",
@@ -1067,7 +923,7 @@
             "name": "Sorriso (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/118309627762587288451"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN0FsIqXVTzryUV1bN-C-tRJEIy5xM_MOK--eCF=w408-h725-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLOtGFdR76GVMJqhjd9GJoQYtTU1pPicAB6HSW=w408-h544-k-no",
         "main_category": "Yi Da Li Za Huo Dian ",
         "categories": [
             "Yi Da Li Za Huo Dian ",
@@ -1097,7 +953,7 @@
             {
                 "name": "Postart Cafe",
                 "link": "https://www.google.com/maps/search/Postart+Caf%C3%A9/@47.4612215,18.9646802?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 515,
+                "reviews": 517,
                 "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1159,7 +1015,7 @@
             {
                 "name": "Postart Cafe",
                 "link": "https://www.google.com/maps/search/Postart+Caf%C3%A9/@47.4612215,18.9646802?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 515,
+                "reviews": 517,
                 "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1208,6 +1064,63 @@
         "link": "https://www.google.com/maps/place/Cafe+L%C3%BCty%C5%91/data=!4m7!3m6!1s0x4741e173897715bb:0xf9dcd1992d7bf56f!8m2!3d47.4558601!4d18.9373836!16s%2Fg%2F11h4pqwfj8!19sChIJuxV3iXPhQUcRb_V7LZnR3Pk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ_RIJv1_fQUcR9_xMIdAtT6s",
+        "name": "Delili Grocery Sandwich Delicacy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 42,
+        "competitors": [
+            {
+                "name": "Jokenyer Shop",
+                "link": "https://www.google.com/maps/search/J%C3%B3keny%C3%A9r+Shop/@47.460715199999996,18.950933?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 391,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Lipoti Pekseg",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g/@47.460916999999995,18.957881999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 35,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Lipoti Pekseg es Kavezo Budaors",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3+Buda%C3%B6rs/@47.4555576,18.940707600000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Budaorsi Delicatesse",
+                "link": "https://www.google.com/maps/search/Buda%C3%B6rsi+Delicatesse/@47.460720699999996,18.950931600000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 26,
+                "rating": 4.7,
+                "main_category": "Shou Shi Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/Delilibudaors/",
+        "owner": {
+            "id": "113040617639541003519",
+            "name": "Delili Grocery Sandwich Delicacy (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113040617639541003519"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipODX_sN3rY-slpFH_y9UN6saTzAYTqH1YJFcLX9=w408-h544-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:30-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 70 770 0084",
+        "address": "Budaors, Delili Grocery Sandwich Delicacy, Szabadsag ut 98, 2040 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Delili+Grocery+Sandwich+Delicacy/data=!4m7!3m6!1s0x4741df5fbf0912fd:0xab4f2dd0214cfcf7!8m2!3d47.4607008!4d18.951168!16s%2Fg%2F11s0jgygc3!19sChIJ_RIJv1_fQUcR9_xMIdAtT6s?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJcb88cSTeQUcR7n5TTDNRdIo",
         "name": "Lipoti Pekseg",
         "description": null,
@@ -1238,8 +1151,8 @@
             {
                 "name": "Delili Grocery Sandwich Delicacy",
                 "link": "https://www.google.com/maps/search/Delili+Grocery+Sandwich+Delicacy/@47.4607008,18.951168?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 41,
-                "rating": 4.2,
+                "reviews": 42,
+                "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
             {
@@ -1314,6 +1227,9 @@
         "rating": 5,
         "workday_timing": "10:00-17:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -1332,7 +1248,7 @@
             {
                 "name": "Nour - Art of Desserts",
                 "link": "https://www.google.com/maps/search/Nour+-+Art+of+Desserts/@47.4634144,18.9811358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 228,
+                "reviews": 229,
                 "rating": 4.6,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -1385,7 +1301,7 @@
             {
                 "name": "Starbucks Budaors Auchan",
                 "link": "https://www.google.com/maps/search/Starbucks+Buda%C3%B6rs+Auchan/@47.4541816,18.9421672?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 465,
+                "reviews": 469,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -1459,7 +1375,7 @@
             {
                 "name": "Cafe Frei Budaors",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Frei+Buda%C3%B6rs/@47.4604253,18.957010099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
+                "reviews": 110,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -1499,6 +1415,9 @@
         "rating": 5,
         "workday_timing": "07:00-16:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -1677,22 +1596,22 @@
             {
                 "name": "Budakert Restaurant",
                 "link": "https://www.google.com/maps/search/Budakert+Restaurant/@47.4610053,18.9582299?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1698,
+                "reviews": 1700,
                 "rating": 4.7,
                 "main_category": "Xiong Ya Li Cai "
             },
             {
                 "name": "Komlo es Tehen",
                 "link": "https://www.google.com/maps/search/Koml%C3%B3+%C3%A9s+Teh%C3%A9n/@47.461359099999996,18.967935?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1410,
+                "reviews": 1412,
                 "rating": 4.7,
                 "main_category": "Han Bao Bao "
             },
             {
                 "name": "Major - Korty es Falat",
                 "link": "https://www.google.com/maps/search/Major+-+Korty+%C3%A9s+Falat/@47.459512,18.9645889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 478,
-                "rating": 4.6,
+                "reviews": 479,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -2074,7 +1993,7 @@
         "name": "Starbucks Biatorbagy Outlet Center",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 292,
+        "reviews": 304,
         "competitors": [
             {
                 "name": "Starbucks Allee",
@@ -2086,8 +2005,8 @@
             {
                 "name": "Subway",
                 "link": "https://www.google.com/maps/search/Subway/@47.465523,18.8869318?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 364,
-                "rating": 3.7,
+                "reviews": 366,
+                "rating": 3.6,
                 "main_category": "San Wen Zhi "
             },
             {
@@ -2116,9 +2035,12 @@
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": 4.1,
+        "rating": 4.2,
         "workday_timing": "09:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Biatorbagy, FV8F+CP Starbucks Biatorbagy Outlet Center, 2051 Xiong Ya Li ",
         "review_keywords": [],
@@ -2129,7 +2051,7 @@
         "name": "Juhasz Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 110,
+        "reviews": 111,
         "competitors": [
             {
                 "name": "Hollosy Cukraszda",
@@ -2155,7 +2077,7 @@
             {
                 "name": "Nour - Art of Desserts",
                 "link": "https://www.google.com/maps/search/Nour+-+Art+of+Desserts/@47.4634144,18.9811358?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 228,
+                "reviews": 229,
                 "rating": 4.6,
                 "main_category": "Tang Guo Gao Bing Dian "
             }
@@ -2184,7 +2106,7 @@
         "name": "Cafe Frei Budaors",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 109,
+        "reviews": 110,
         "competitors": [
             {
                 "name": "Cafe Frei",
@@ -2292,7 +2214,11 @@
         ],
         "rating": 4.8,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 562 0776",
         "address": "Budaors, Spejz Bistro Shop Caffe, Szabadsag ut 19, 2040 Xiong Ya Li ",
         "review_keywords": [],
@@ -2377,8 +2303,8 @@
             {
                 "name": "Delili Grocery Sandwich Delicacy",
                 "link": "https://www.google.com/maps/search/Delili+Grocery+Sandwich+Delicacy/@47.4607008,18.951168?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 41,
-                "rating": 4.2,
+                "reviews": 42,
+                "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
             {
@@ -2430,68 +2356,6 @@
         "link": "https://www.google.com/maps/place/Buda%C3%B6rsi+Delicatesse/data=!4m7!3m6!1s0x4741de25fef64a97:0xac29505d155eed3d!8m2!3d47.4607207!4d18.9509316!16s%2Fg%2F11xmzpch5!19sChIJl0r2_iXeQUcRPe1eFV1QKaw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJEYeJDSnfQUcRLDM2Z5MbpQQ",
-        "name": "Mini ABC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 25,
-        "competitors": [
-            {
-                "name": "Csocso Csemege",
-                "link": "https://www.google.com/maps/search/Csocs%C3%B3+Csemege/@47.4613635,18.982226999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Lottozo es ABC",
-                "link": "https://www.google.com/maps/search/Lott%C3%B3z%C3%B3+%C3%A9s+ABC/@47.440859599999996,18.979021?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 3.8,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "ABC",
-                "link": "https://www.google.com/maps/search/ABC/@47.4587009,18.9638463?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.6,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Coop Mini",
-                "link": "https://www.google.com/maps/search/Coop+Mini/@47.457922499999995,18.9391845?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 3.8,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "MINI ABC",
-                "link": "https://www.google.com/maps/search/MINI+ABC/@47.501999399999995,19.082686?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Mini ABC (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y0o0rmbQmN2u_AMsvMT_XA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=155.08997&pitch=0&thumbfov=100",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 3.1,
-        "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Budaors, Mini ABC, Budapesti ut 114, 2040 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mini+ABC/data=!4m7!3m6!1s0x4741df290d898711:0x4a51b936736332c!8m2!3d47.4626864!4d18.9787413!16s%2Fg%2F11fpghqxgq!19sChIJEYeJDSnfQUcRLDM2Z5MbpQQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJaRh2-B3eQUcRI5y8aGtgiMI",
         "name": "McCafe",
         "description": "Mai Dang Lao Qi Xia De Lian Suo Dian ,Gong Ying Duo Zhong Te Se Ka Pei Yin Pin , Hong Bei Can Dian Yu Qi Ta Liao Li . ",
@@ -2501,7 +2365,7 @@
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@47.4521319,18.9680611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2761,
+                "reviews": 2768,
                 "rating": 4.2,
                 "main_category": "Kuai Can "
             },
@@ -2647,6 +2511,34 @@
         "link": "https://www.google.com/maps/place/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3+Buda%C3%B6rs+Tesco/data=!4m7!3m6!1s0x4741e1a2e9c1ef6f:0x1666dccf14681388!8m2!3d47.4505036!4d18.9629957!16s%2Fg%2F11vkrmbc66!19sChIJb-_B6aLhQUcRiBNoFM_cZhY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJT1Gkg1PfQUcRyfltr5BlWYY",
+        "name": "Inyencek Haza - JoKenyer Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "110837707189125118530",
+            "name": "Inyencek Haza - JoKenyer Pekseg (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110837707189125118530"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMctEGCC6tOyoU3DCw0lclgzrpcCo9LtwEwt_S=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:30-19:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 409 9030",
+        "address": "Budaors, Inyencek Haza - JoKenyer Pekseg, Szabadsag ut 100, 2040 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C3%8Dnyencek+H%C3%A1za+-+J%C3%B3Keny%C3%A9r+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4741df5383a4514f:0x86596590af6df9c9!8m2!3d47.4607088!4d18.9509667!16s%2Fg%2F11t_ltpk85!19sChIJT1Gkg1PfQUcRyfltr5BlWYY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJXWSWb4ffQUcRNtbvqaEpW8k",
         "name": "Adler hotel es kavezo",
         "description": null,
@@ -2670,7 +2562,7 @@
             {
                 "name": "Postart Cafe",
                 "link": "https://www.google.com/maps/search/Postart+Caf%C3%A9/@47.4612215,18.9646802?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 515,
+                "reviews": 517,
                 "rating": 4.7,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2707,6 +2599,32 @@
         "address": "Budaors, Adler hotel es kavezo, Budapesti ut 2, 2040 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Adler+hotel+%C3%A9s+k%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4741df876f96645d:0xc95b29a1a9efd636!8m2!3d47.4613112!4d18.9659084!16s%2Fg%2F11thgdp40f!19sChIJXWSWb4ffQUcRNtbvqaEpW8k?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJG9EquF7hQUcR_EMDL-gG88Q",
+        "name": "Lipoti pekseg es kavezo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lipoti pekseg es kavezo (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KD_tYO5i1v7Uqx5jupb7nw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=163.39331&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Budaors, Lipoti pekseg es kavezo, Torokbalinti u. 23, 2040 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lip%C3%B3ti+p%C3%A9ks%C3%A9g+%C3%A9s+k%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4741e15eb82ad11b:0xc4f306e82f0343fc!8m2!3d47.4504535!4d18.9648814!16s%2Fg%2F11vhy94sq0!19sChIJG9EquF7hQUcR_EMDL-gG88Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJEca--yLeQUcRAurmOB8N_AM",

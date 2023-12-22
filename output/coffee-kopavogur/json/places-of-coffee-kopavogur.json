@@ -118,13 +118,17 @@
         ],
         "rating": 4.3,
         "workday_timing": "14:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+354 462 4478",
         "address": "Brynju is, Engihjalli 8, 200 Kopavogur, Bing Dao ",
         "review_keywords": [
             {
                 "keyword": "vegan",
-                "count": 3
+                "count": 4
             }
         ],
         "link": "https://www.google.com/maps/place/Brynju+%C3%ADs/data=!4m7!3m6!1s0x48d6735ca7425419:0x63aa0be559d62740!8m2!3d64.1099619!4d-21.8583634!16s%2Fg%2F11cn9llb6b!19sChIJGVRCp1xz1kgRQCfWWeULqmM?authuser=0&hl=zh-TW&rclk=1"
@@ -251,7 +255,7 @@
             "Xue Gao Dian "
         ],
         "rating": 4.4,
-        "workday_timing": "14:00-23:00",
+        "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": "+354 517 0416",
         "address": "Isbud Yoyo, Nybylavegur 18, 200 Kopavogur, Bing Dao ",
@@ -319,6 +323,130 @@
         "link": "https://www.google.com/maps/place/Bakar%C3%ADi%C3%B0+Reynir+bakari/data=!4m7!3m6!1s0x48d6734e4001de9f:0xa198e277caf18eb1!8m2!3d64.1045986!4d-21.8756072!16s%2Fg%2F11gz8z3_5!19sChIJn94BQE5z1kgRsY7xynfimKE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJPWCrC4Bz1kgRCQ7ypt-U8SY",
+        "name": "Kaffitar Storhofda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "competitors": [
+            {
+                "name": "Kattakaffihusid",
+                "link": "https://www.google.com/maps/search/Kattakaffih%C3%BAsi%C3%B0/@64.1450636,-21.9329609?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 526,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Te & Kaffi",
+                "link": "https://www.google.com/maps/search/Te+%26+Kaffi/@64.1396781,-21.8834953?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 105,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Dalur - Family Cafe",
+                "link": "https://www.google.com/maps/search/Dalur+-+Family+Caf%C3%A9/@64.14654829999999,-21.874689?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://kaffitar.is/",
+        "owner": {
+            "id": null,
+            "name": "Kaffitar Storhofda (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQ4h0UsnlUFdaKpYKfxmK-OYKNnXG3h5GgqDfq=w408-h541-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-17:00",
+        "closed_on": "Open All Days",
+        "phone": "+354 669 8255",
+        "address": "Kaffitar Storhofda, Storhofdi 17, 110 Reykjavik, Bing Dao ",
+        "review_keywords": [
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 4
+            },
+            {
+                "keyword": "Gao ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kaffit%C3%A1r+St%C3%B3rh%C3%B6f%C3%B0a/data=!4m7!3m6!1s0x48d673800bab603d:0x26f194dfa6f20e09!8m2!3d64.1287132!4d-21.8104838!16s%2Fg%2F11g8bwqm8f!19sChIJPWCrC4Bz1kgRCQ7ypt-U8SY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJVZHnYLB01kgRG6D1oqf6B3E",
+        "name": "Cafe Roma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 46,
+        "competitors": [
+            {
+                "name": "Reykjavik Roasters",
+                "link": "https://www.google.com/maps/search/Reykjavik+Roasters/@64.1436111,-21.9266667?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1541,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kaffibrennslan",
+                "link": "https://www.google.com/maps/search/Kaffibrennslan/@64.1458177,-21.9293151?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 761,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kaffifelagid",
+                "link": "https://www.google.com/maps/search/Kaffif%C3%A9lagi%C3%B0/@64.1457683,-21.9324768?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 103,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Te & Kaffi",
+                "link": "https://www.google.com/maps/search/Te+%26+Kaffi/@64.1298075,-21.895739199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 35,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kaffitar, Kringlan",
+                "link": "https://www.google.com/maps/search/Kaffitar%2C+Kringlan/@64.1312391,-21.893479?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 22,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.caferoma.is/",
+        "owner": {
+            "id": null,
+            "name": "Cafe Roma (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxIEyopHKZ165zsowxo1_Iwry0xTbnriNobuyd=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-18:30",
+        "closed_on": "Open All Days",
+        "phone": "+354 588 7240",
+        "address": "Cafe Roma, Kringlan 4-12, 103 Reykjavik, Bing Dao ",
+        "review_keywords": [
+            {
+                "keyword": "Dan Gao ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafe+Roma/data=!4m7!3m6!1s0x48d674b060e79155:0x7107faa7a2f5a01b!8m2!3d64.1301295!4d-21.8956979!16s%2Fg%2F11b_00scf3!19sChIJVZHnYLB01kgRG6D1oqf6B3E?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ5T_8lzoL1kgRjIX_wMvfHrc",
         "name": "Brikk",
         "description": null,
@@ -374,7 +502,11 @@
         ],
         "rating": 4.7,
         "workday_timing": "08:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+354 565 1665",
         "address": "Brikk, Hafnarbraut, 200 Kopavogur, Bing Dao ",
         "review_keywords": [
@@ -409,13 +541,6 @@
                 "link": "https://www.google.com/maps/search/SK%C3%9ABB+Ice+Cream/@64.1466918,-21.8726447?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 174,
                 "rating": 4.7,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Isbud Yoyo",
-                "link": "https://www.google.com/maps/search/%C3%8Dsb%C3%BA%C3%B0+Yoyo/@64.1140863,-21.8924797?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
-                "rating": 4.4,
                 "main_category": "Bing Qi Lin "
             },
             {
@@ -540,6 +665,80 @@
         "link": "https://www.google.com/maps/place/Brau%C3%B0+%26+Co/data=!4m7!3m6!1s0x48d673b650ad0fff:0xcf0b54f78eddc011!8m2!3d64.114209!4d-21.8942329!16s%2Fg%2F11lfzp87m2!19sChIJ_w-tULZz1kgREcDdjvdUC88?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJtT2uW7B01kgRYqFzQkj6oSE",
+        "name": "Te & Kaffi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "competitors": [
+            {
+                "name": "Kaffi O-le",
+                "link": "https://www.google.com/maps/search/Kaffi+%C3%93-le/@64.148183,-21.9386539?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 168,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kaffifelagid",
+                "link": "https://www.google.com/maps/search/Kaffif%C3%A9lagi%C3%B0/@64.1457683,-21.9324768?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 103,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kaffitar Storhofda",
+                "link": "https://www.google.com/maps/search/Kaffit%C3%A1r+St%C3%B3rh%C3%B6f%C3%B0a/@64.12871319999999,-21.8104838?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Roma",
+                "link": "https://www.google.com/maps/search/Cafe+Roma/@64.1301295,-21.8956979?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 46,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kaffitar, Kringlan",
+                "link": "https://www.google.com/maps/search/Kaffitar%2C+Kringlan/@64.1312391,-21.893479?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 22,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.teogkaffi.is/",
+        "owner": {
+            "id": "111726976529419181354",
+            "name": "Te & Kaffi (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111726976529419181354"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPlFycz4lW1kCUX1_5tnV7k5-ybUW4_caUCdnWG=w408-h272-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Ka Pei Hong Bei Shang ",
+            "Ka Pei Pi Fa Shang ",
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:30-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+354 527 2887",
+        "address": "Te & Kaffi, Kringlan, 103 Reykjavik, Bing Dao ",
+        "review_keywords": [
+            {
+                "keyword": "Dan Gao ",
+                "count": 3
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Te+%26+Kaffi/data=!4m7!3m6!1s0x48d674b05bae3db5:0x21a1fa484273a162!8m2!3d64.1298075!4d-21.8957392!16s%2Fg%2F1tgtf282!19sChIJtT2uW7B01kgRYqFzQkj6oSE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ72czk0xz1kgRe-yIdkRRwQ4",
         "name": "Te & Kaffi",
         "description": null,
@@ -549,7 +748,7 @@
             {
                 "name": "Cafe Adesso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Adesso/@64.1011079,-21.8830772?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
+                "reviews": 27,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -622,15 +821,15 @@
             {
                 "name": "Sbarro",
                 "link": "https://www.google.com/maps/search/Sbarro/@64.10103300000002,-21.88346?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
-                "rating": 2.8,
+                "reviews": 23,
+                "rating": 2.7,
                 "main_category": "Yi Shi Bo Bing "
             },
             {
                 "name": "Energia",
                 "link": "https://www.google.com/maps/search/Energia/@64.1012897,-21.8819174?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.3,
+                "reviews": 14,
+                "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
@@ -664,6 +863,64 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Adesso/data=!4m7!3m6!1s0x48d6734cfaa60bf7:0x51f500c7d55459c6!8m2!3d64.1011079!4d-21.8830772!16s%2Fg%2F11c4514vfp!19sChIJ9wum-kxz1kgRxllU1ccA9VE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJJyEEdU5z1kgRjpQ5lChbGHc",
+        "name": "Bakarameistarinn - Smaratorg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "competitors": [
+            {
+                "name": "Bakariid Reynir bakari",
+                "link": "https://www.google.com/maps/search/Bakar%C3%ADi%C3%B0+Reynir+bakari/@64.1045986,-21.875607199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Brikk",
+                "link": "https://www.google.com/maps/search/Brikk/@64.1129815,-21.9388316?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 43,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Lindabakari",
+                "link": "https://www.google.com/maps/search/Lindabakar%C3%AD/@64.09878929999999,-21.8766551?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Bakarameistarinn - Holtagardar",
+                "link": "https://www.google.com/maps/search/Bakarameistarinn+-+Holtagar%C3%B0ar/@64.1415271,-21.847627199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://www.bakarameistarinn.is/is/shop/smaratorg",
+        "owner": {
+            "id": "114747994204452418973",
+            "name": "Bakarameistarinn - Smaratorg (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114747994204452418973"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6H33biryQrqL4t5uLkF6VHXN19gF9LiJUrORI=w408-h544-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:30-17:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+354 555 6100",
+        "address": "Bakarameistarinn - Smaratorg, 201 Kopavogur, Bing Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bakarameistarinn+-+Sm%C3%A1ratorg/data=!4m7!3m6!1s0x48d6734e75042127:0x77185b289439948e!8m2!3d64.104078!4d-21.8778529!16s%2Fg%2F11c6ch320t!19sChIJJyEEdU5z1kgRjpQ5lChbGHc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJR6nB9U9z1kgRKFJGOmXurnU",
@@ -722,9 +979,11 @@
         "rating": 4.8,
         "workday_timing": "17:00-23:00",
         "closed_on": [
-            "Xing Qi San ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Si ",
-            "Xing Qi Liu "
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
         ],
         "phone": "+354 497 1166",
         "address": "Dons Donuts, Nupalind 1, 201 Kopavogur, Bing Dao ",
@@ -792,6 +1051,61 @@
         "link": "https://www.google.com/maps/place/Lindabakar%C3%AD/data=!4m7!3m6!1s0x48d673abea7b89dd:0x3cd245dc0f5fcb31!8m2!3d64.0962854!4d-21.8027992!16s%2Fg%2F11h6xcl5m9!19sChIJ3Yl76qtz1kgRMctfD9xF0jw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJA4E0kktz1kgRLNYvfEXndyk",
+        "name": "Lindabakari",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "competitors": [
+            {
+                "name": "Bakariid Reynir bakari",
+                "link": "https://www.google.com/maps/search/Bakar%C3%ADi%C3%B0+Reynir+bakari/@64.1045986,-21.875607199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Braud & Co",
+                "link": "https://www.google.com/maps/search/Brau%C3%B0+%26+Co/@64.09816239999999,-21.9088469?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kokuhusid",
+                "link": "https://www.google.com/maps/search/K%C3%B6kuh%C3%BAsi%C4%91/@64.11334,-21.902511099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Bakarameistarinn - Smaratorg",
+                "link": "https://www.google.com/maps/search/Bakarameistarinn+-+Sm%C3%A1ratorg/@64.104078,-21.8778529?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 3.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "https://lindabakari.is/",
+        "owner": {
+            "id": null,
+            "name": "Lindabakari (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyOUEtF4Z31R0KPMW-JzcbFcg1keA_4pvCZIPq=w408-h541-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-17:00",
+        "closed_on": "Open All Days",
+        "phone": "+354 544 5566",
+        "address": "Lindabakari, Baejarlind 1-3, 201 Kopavogur, Bing Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lindabakar%C3%AD/data=!4m7!3m6!1s0x48d6734b92348103:0x2977e7457c2fd62c!8m2!3d64.0987893!4d-21.8766551!16s%2Fg%2F1v_smv1c!19sChIJA4E0kktz1kgRLNYvfEXndyk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJHdl95Uxz1kgRNl4dosCFUFY",
         "name": "JOE & THE JUICE",
         "description": null,
@@ -806,18 +1120,18 @@
                 "main_category": "Can Ting "
             },
             {
+                "name": "Cafe Adesso",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Adesso/@64.1011079,-21.8830772?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
                 "name": "Te & Kaffi",
                 "link": "https://www.google.com/maps/search/Te+%26+Kaffi/@64.101316,-21.8834141?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 27,
                 "rating": 3.8,
                 "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Adesso",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Adesso/@64.1011079,-21.8830772?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.2,
-                "main_category": "Can Ting "
             },
             {
                 "name": "Subway",
@@ -885,7 +1199,7 @@
             {
                 "name": "Cafe Adesso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Adesso/@64.1011079,-21.8830772?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
+                "reviews": 27,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -918,6 +1232,35 @@
         "address": "34X6+735 Cafe Atlanta, 201 Kopavogur, Bing Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Atlanta/data=!4m7!3m6!1s0x48d60d2193589d21:0xe25b6639d5ad94d!8m2!3d64.0981266!4d-21.8897779!16s%2Fg%2F11g10ttp7m!19sChIJIZ1YkyEN1kgRTdlanWO2JQ4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJq2NAFcRz1kgRCnpMPUQrgkQ",
+        "name": "Brikk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [],
+        "website": "http://brikk.is/",
+        "owner": {
+            "id": "104066207405354981303",
+            "name": "Brikk (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104066207405354981303"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqfyEByEM7m0LOk1o7GSHU2fS8lQQ59rMA_mW7=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+354 565 1665",
+        "address": "Brikk, Dalvegur 32b, 201 Kopavogur, Bing Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Brikk/data=!4m7!3m6!1s0x48d673c4154063ab:0x44822b443d4c7a0a!8m2!3d64.106277!4d-21.8554055!16s%2Fg%2F11st683qxh!19sChIJq2NAFcRz1kgRCnpMPUQrgkQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJBS9nmVVz1kgRrP_UQZuWizE",
@@ -1049,7 +1392,7 @@
             {
                 "name": "Cafe Adesso",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Adesso/@64.1011079,-21.8830772?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
+                "reviews": 27,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -1088,6 +1431,35 @@
         "link": "https://www.google.com/maps/place/Nespresso+Sm%C3%A1ralind/data=!4m7!3m6!1s0x48d673f324d6cf8b:0xdd96dcdf9a9841d8!8m2!3d64.1010327!4d-21.8834604!16s%2Fg%2F11h1kwgcm8!19sChIJi8_WJPNz1kgR2EGYmt_clt0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJcypZcntz1kgRUTadoRGwcSs",
+        "name": "Polo Vape Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": "https://www.rafrettur.is/",
+        "owner": {
+            "id": "115873916804290937415",
+            "name": "Polo Vape Shop (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115873916804290937415"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOVqGY7ZP3ABEpWXlrWkorJnJ89YIp-b2P1qQ4g=w408-h313-k-no",
+        "main_category": "Dian Zi Yan Zhuan Men Dian ",
+        "categories": [
+            "Dian Zi Yan Zhuan Men Dian "
+        ],
+        "rating": null,
+        "workday_timing": "10:30-18:30",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+354 784 9010",
+        "address": "Polo Vape Shop, Smidjuvegur 6, 200 Kopavogur, Bing Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Polo+Vape+Shop/data=!4m7!3m6!1s0x48d6737b72592a73:0x2b71b011a19d3651!8m2!3d64.11212!4d-21.8490767!16s%2Fg%2F11l2113s8x!19sChIJcypZcntz1kgRUTadoRGwcSs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJJfIwMeIL1kgRhwfoD-CwPBg",
         "name": "Aleppo Cafe",
         "description": null,
@@ -1097,14 +1469,14 @@
             {
                 "name": "Kaffi O-le",
                 "link": "https://www.google.com/maps/search/Kaffi+%C3%93-le/@64.148183,-21.9386539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 167,
+                "reviews": 168,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Hygge Coffee & Micro Bakery",
                 "link": "https://www.google.com/maps/search/Hygge+Coffee+%26+Micro+Bakery/@64.1516942,-21.9525233?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
+                "reviews": 138,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },

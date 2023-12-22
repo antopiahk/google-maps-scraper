@@ -4,12 +4,12 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1030,
+        "reviews": 1033,
         "competitors": [
             {
                 "name": "PENNY Puspokladany",
                 "link": "https://www.google.com/maps/search/PENNY+P%C3%BCsp%C3%B6klad%C3%A1ny/@47.3166168,21.1149397?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 436,
                 "rating": 4.1,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -49,23 +49,61 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Puspokladany, Lidl, Rakoczi u. 16-20, 4150 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Lidl/data=!4m7!3m6!1s0x4746de8a1ea291ed:0x7fba216cc837d3bc!8m2!3d47.32086!4d21.11988!16s%2Fg%2F11bwt0rg_2!19sChIJ7ZGiHoreRkcRvNM3yGwhun8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJVRr0J33eRkcRnD-s-3khPx0",
+        "name": "Korona Hotel es Etterem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 495,
+        "competitors": [],
+        "website": "http://www.koronahotel.com/",
+        "owner": {
+            "id": "109440341925370741585",
+            "name": "Korona Hotel es Etterem (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109440341925370741585"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPijk8xq7l1npdF39zQ9LlMo6weaUhmvmlbc-uL=w408-h272-k-no",
+        "main_category": "Jiu Dian ",
+        "categories": [
+            "Jiu Dian ",
+            "Ka Pei Ting ",
+            "Xiong Ya Li Can Ting ",
+            "Bo Bing Can Ting "
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 54 451 231",
+        "address": "Puspokladany, Korona Hotel es Etterem, Damjanich Janos utca 7, 4150 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Korona+Hotel+%C3%A9s+%C3%89tterem/data=!4m10!3m9!1s0x4746de7d27f41a55:0x1d3f2179fbac3f9c!5m2!4m1!1i2!8m2!3d47.314439!4d21.119831!16s%2Fg%2F1thclk97!19sChIJVRr0J33eRkcRnD-s-3khPx0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJd-9314feRkcRKvxoa4LjQOs",
         "name": "PENNY Puspokladany",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 435,
+        "reviews": 436,
         "competitors": [
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.320859999999996,21.11988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1030,
+                "reviews": 1032,
                 "rating": 4.5,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -79,7 +117,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.315674,21.114259999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 205,
+                "reviews": 206,
                 "rating": 4.2,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -161,6 +199,9 @@
         "rating": 4.5,
         "workday_timing": "09:00-17:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Ri "
         ],
         "phone": "+36 20 911 9657",
@@ -219,7 +260,8 @@
         "rating": 4.6,
         "workday_timing": "09:00-19:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+36 30 262 9714",
         "address": "Puspokladany, Ulveczki Kezmuves Cukraszda es kavezo, Kismester u., 4150 Xiong Ya Li ",
@@ -236,14 +278,14 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.320859999999996,21.11988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1030,
+                "reviews": 1032,
                 "rating": 4.5,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
             {
                 "name": "PENNY Puspokladany",
                 "link": "https://www.google.com/maps/search/PENNY+P%C3%BCsp%C3%B6klad%C3%A1ny/@47.3166168,21.1149397?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 436,
                 "rating": 4.1,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -283,59 +325,15 @@
         ],
         "rating": 4.2,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7905",
         "address": "Puspokladany, SPAR szupermarket, Kossuth u. 11, 4150 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/SPAR+szupermarket/data=!4m7!3m6!1s0x4746de87b082d5ff:0x55ee9893f249f4b9!8m2!3d47.315674!4d21.11426!16s%2Fg%2F11b6czc9vh!19sChIJ_9WCsIfeRkcRufRJ8pOY7lU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJiXpMa4jeRkcRFfMqVolwSEA",
-        "name": "dm-drogerie markt Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 131,
-        "competitors": [
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.320859999999996,21.11988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1030,
-                "rating": 4.5,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "Szepsegszalon",
-                "link": "https://www.google.com/maps/search/Sz%C3%A9ps%C3%A9gszalon/@47.3162826,21.1191061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mei Rong Yuan "
-            },
-            {
-                "name": "Barandi Patika Kft.",
-                "link": "https://www.google.com/maps/search/B%C3%A1r%C3%A1ndi+Patika+Kft./@47.3138459,21.130476599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Yao Fang "
-            }
-        ],
-        "website": "https://www.dm.hu/store/u05d/puespoekladany/bocskai-ut-1",
-        "owner": {
-            "id": "109650636740085849424",
-            "name": "dm-drogerie markt Kft. (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109650636740085849424"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPevNganU85PvSMgF2GaJuNn4IWwMDQ6Z50CNr7=w408-h306-k-no",
-        "main_category": "Yao Fang ",
-        "categories": [
-            "Yao Fang "
-        ],
-        "rating": 4.4,
-        "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 781 7240",
-        "address": "Puspokladany, dm-drogerie markt Kft., Bocskai u. 1, 4150 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/dm-drogerie+markt+Kft./data=!4m7!3m6!1s0x4746de886b4c7a89:0x40487089562af315!8m2!3d47.31731!4d21.11798!16s%2Fg%2F11hd6zlc92!19sChIJiXpMa4jeRkcRFfMqVolwSEA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJFfe_IIjeRkcRw2i_ONF0SI0",
@@ -400,6 +398,72 @@
         "address": "CO-OP Star Zrt. 575.sz. Vas-muszaki bolt, 5140 Puspokladany, Hosok tere 4, Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/CO-OP+Star+Zrt.+575.sz.+Vas-m%C5%B1szaki+bolt/data=!4m7!3m6!1s0x4746de8820bff715:0x8d4874d138bf68c3!8m2!3d47.3184925!4d21.1172398!16s%2Fg%2F1tfmm50k!19sChIJFfe_IIjeRkcRw2i_ONF0SI0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJI4dH0n3eRkcRZoizg2xOm2w",
+        "name": "Lati-Therm Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 92,
+        "competitors": [
+            {
+                "name": "Csempecentrum",
+                "link": "https://www.google.com/maps/search/Csempecentrum/@47.3168358,21.1197914?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.4,
+                "main_category": "Ci Zhuan Dian "
+            },
+            {
+                "name": "Hajzer Epuletgepeszet-Elektro Mega",
+                "link": "https://www.google.com/maps/search/Hajzer+%C3%89p%C3%BCletg%C3%A9p%C3%A9szet-Elektro+Mega/@47.3203457,21.119369799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.3,
+                "main_category": "Jian Cai Shang Dian "
+            },
+            {
+                "name": "MENTAVILL Villamossagi Szakuzlet",
+                "link": "https://www.google.com/maps/search/MENTAVILL+Villamoss%C3%A1gi+Szak%C3%BCzlet/@47.31827270000001,21.1169759?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.8,
+                "main_category": "Deng Shi Dian "
+            },
+            {
+                "name": "Facentrum '97 Bt.",
+                "link": "https://www.google.com/maps/search/Facentrum+%2797+Bt./@47.3161367,21.1146068?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.7,
+                "main_category": "Jia Ju Yong Pin Dian "
+            },
+            {
+                "name": "Tuzeloszer es Epitoanyag Kereskedes",
+                "link": "https://www.google.com/maps/search/T%C3%BCzel%C5%91szer+%C3%A9s+%C3%89p%C3%ADt%C5%91anyag+Keresked%C3%A9s/@47.328178,21.138344?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Jian Cai Shang Dian "
+            }
+        ],
+        "website": "http://facebook.com/latitherm",
+        "owner": {
+            "id": "102859923684897371544",
+            "name": "Lati-Therm Kft. (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102859923684897371544"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLbWahWZoK6SVsw_3um6u0jEHIy3p_ahp65g7r=w408-h263-k-no",
+        "main_category": "Dian Qi Ling Shou ",
+        "categories": [
+            "Dian Qi Ling Shou ",
+            "Yu Shi Yong Pin Dian ",
+            "Shui Guan Yong Pin Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 54 452 128",
+        "address": "Puspokladany, Lati-Therm Kft., Damjanich u. 30, 4150 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lati-Therm+Kft./data=!4m7!3m6!1s0x4746de7dd2478723:0x6c9b4e6c83b38866!8m2!3d47.311926!4d21.118004!16s%2Fg%2F1tczp45q!19sChIJI4dH0n3eRkcRZoizg2xOm2w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ1Vicz5HeRkcRpQX12JoK_Bw",
@@ -473,7 +537,7 @@
             {
                 "name": "PENNY Puspokladany",
                 "link": "https://www.google.com/maps/search/PENNY+P%C3%BCsp%C3%B6klad%C3%A1ny/@47.3166168,21.1149397?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 436,
                 "rating": 4.1,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -896,23 +960,71 @@
         "link": "https://www.google.com/maps/place/P%C3%BCsp%C3%B6klad%C3%A1ny/data=!4m7!3m6!1s0x4746de62844c9017:0xf901b5ab27bfd884!8m2!3d47.3199408!4d21.1219769!16s%2Fg%2F11j0jjy0hn!19sChIJF5BMhGLeRkcRhNi_J6u1Afk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJj1Vi3SPgRkcRrjB5n5s0bkc",
+        "name": "Candyfour Ipari, Kereskedelmi Es Szolgaltato Korlatolt Felelossegu Tarsasag",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Chili Hungaria Webaruhaz",
+                "link": "https://www.google.com/maps/search/Chili+Hung%C3%A1ria+Web%C3%A1ruh%C3%A1z/@47.359459199999996,21.2715864?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Jian Kang Shi Pin Zhuan Mai Dian "
+            },
+            {
+                "name": "Fi-Fu Kft.",
+                "link": "https://www.google.com/maps/search/Fi-Fu+Kft./@47.358334,21.246268999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 3,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": "http://www.candyfour.hu/",
+        "owner": {
+            "id": null,
+            "name": "Candyfour Ipari, Kereskedelmi Es Szolgaltato Korlatolt Felelossegu Tarsasag (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Can Ting Yong Pin Dian ",
+        "categories": [
+            "Can Ting Yong Pin Dian ",
+            "Tang Guo Dian ",
+            "Ka Pei Dian ",
+            "Ye Zong Hui ",
+            "Pi Fa Shang "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 54 520 782",
+        "address": "Kaba, Candyfour Ipari, Kereskedelmi Es Szolgaltato Korlatolt Felelossegu Tarsasag, Cukorgyari ltp., 4183 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Candyfour+Ipari,+Kereskedelmi+Es+Szolgaltato+Korlatolt+Felelossegu+Tarsasag/data=!4m7!3m6!1s0x4746e023dd62558f:0x476e349b9f7930ae!8m2!3d47.3581424!4d21.2463892!16s%2Fg%2F1tk1xv5l!19sChIJj1Vi3SPgRkcRrjB5n5s0bkc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ3Zij62LeRkcRRrZ7dBzxEpI",
         "name": "Piac",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 251,
+        "reviews": 252,
         "competitors": [
             {
                 "name": "PENNY Puspokladany",
                 "link": "https://www.google.com/maps/search/PENNY+P%C3%BCsp%C3%B6klad%C3%A1ny/@47.3166168,21.1149397?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 436,
                 "rating": 4.1,
                 "main_category": "Zhe Kou Shang Dian "
             },
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.315674,21.114259999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 205,
+                "reviews": 206,
                 "rating": 4.2,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -982,6 +1094,61 @@
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+P%C3%BCsp%C3%B6klad%C3%A1ny/data=!4m7!3m6!1s0x4746de7cb296ba05:0xa154ce1d63407087!8m2!3d47.3169053!4d21.1196906!16s%2Fg%2F11cnc0vcgk!19sChIJBbqWsnzeRkcRh3BAYx3OVKE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJSc4k9ojeRkcRwCkokz5XpmQ",
+        "name": "Hanza Bufe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 102,
+        "competitors": [
+            {
+                "name": "Hanza Uzlethaz",
+                "link": "https://www.google.com/maps/search/Hanza+%C3%9Czleth%C3%A1z/@47.318312999999996,21.11509?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 147,
+                "rating": 4.3,
+                "main_category": "Gou Wu Zhong Xin "
+            },
+            {
+                "name": "Puspokladany BBQ",
+                "link": "https://www.google.com/maps/search/P%C3%BCsp%C3%B6klad%C3%A1ny+BBQ/@47.316271,21.121381799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4.9,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "Butykos Sorozo",
+                "link": "https://www.google.com/maps/search/B%C3%BCtyk%C3%B6s+S%C3%B6r%C3%B6z%C5%91/@47.320991899999996,21.111251000000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 15,
+                "rating": 4.7,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Mini Presszo",
+                "link": "https://www.google.com/maps/search/Mini+Pressz%C3%B3/@47.3186884,21.1200424?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hanza Bufe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7l9JCfC8ApFh6oayWcvVW_q0tnCInTaTeF95K=w408-h306-k-no",
+        "main_category": "Jiu Ba ",
+        "categories": [
+            "Jiu Ba "
+        ],
+        "rating": 4.2,
+        "workday_timing": "10:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Puspokladany, Hanza Bufe, Petofi u. 7, 4150 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hanza+B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x4746de88f624ce49:0x64a6573e932829c0!8m2!3d47.318313!4d21.11509!16s%2Fg%2F11bwqbch31!19sChIJSc4k9ojeRkcRwCkokz5XpmQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJxdslg7XfRkcR-izIsp9FGZk",
         "name": "SZIA Virag Ajandek es Italuzlet",
         "description": null,
@@ -1048,7 +1215,7 @@
         "name": "Hefi Presszo-Vegyesbolt",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 19,
+        "reviews": 20,
         "competitors": [
             {
                 "name": "Eross Lajos utcai vegyesbolt",
@@ -1090,7 +1257,7 @@
         "categories": [
             "Za Huo Dian "
         ],
-        "rating": 4.5,
+        "rating": 4.6,
         "workday_timing": "05:00-19:00",
         "closed_on": "Open All Days",
         "phone": null,
@@ -1223,11 +1390,73 @@
         "link": "https://www.google.com/maps/place/K%C3%B6r-Vig+%C3%89lelmiszerbolt/data=!4m7!3m6!1s0x4746df269fd1c597:0x92af936cbad2ba50!8m2!3d47.316907!4d21.091072!16s%2Fg%2F11grtnr0ck!19sChIJl8XRnybfRkcRULrSumyTr5I?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJyUBNTWPeRkcRXKj0DftNETo",
+        "name": "Privat \"Kis 24\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "competitors": [
+            {
+                "name": "SPAR szupermarket",
+                "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.315674,21.114259999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 206,
+                "rating": 4.2,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Mikes vegyes",
+                "link": "https://www.google.com/maps/search/Mikes+vegyes/@47.320848299999994,21.1283158?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.8,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Kor-Vig Elelmiszerbolt",
+                "link": "https://www.google.com/maps/search/K%C3%B6r-Vig+%C3%89lelmiszerbolt/@47.31690700000001,21.091072?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Imki-Food Kft.",
+                "link": "https://www.google.com/maps/search/Imki-Food+Kft./@47.316752,21.107844?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "Mr24 Nonstop",
+                "link": "https://www.google.com/maps/search/Mr24+Nonstop/@47.326266499999996,21.129016399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bian Li Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Privat \"Kis 24\" (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJ_AF-XJURO3VDxzvHtlbZwty_KxheA94SDDLE=w497-h240-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Puspokladany, Privat \"Kis 24\", E60 29, 4150 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Priv%C3%A1t+%22Kis+24%22/data=!4m7!3m6!1s0x4746de634d4d40c9:0x3a114dfb0df4a85c!8m2!3d47.3152112!4d21.123414!16s%2Fg%2F11ckw283kg!19sChIJyUBNTWPeRkcRXKj0DftNETo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJj7msR6DfRkcRvoDBg3h0x5o",
         "name": "Nemzeti Dohanybolt",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 9,
+        "reviews": 10,
         "competitors": [],
         "website": null,
         "owner": {
@@ -1242,7 +1471,9 @@
         ],
         "rating": 4.7,
         "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 30 387 8882",
         "address": "Puspokladany, Nemzeti Dohanybolt, Karcagi u. 30, 4150 Xiong Ya Li ",
         "review_keywords": [],
@@ -1258,7 +1489,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.315674,21.114259999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 205,
+                "reviews": 206,
                 "rating": 4.2,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1322,21 +1553,21 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.320859999999996,21.11988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1030,
+                "reviews": 1032,
                 "rating": 4.5,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
             {
                 "name": "PENNY Puspokladany",
                 "link": "https://www.google.com/maps/search/PENNY+P%C3%BCsp%C3%B6klad%C3%A1ny/@47.3166168,21.1149397?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 436,
                 "rating": 4.1,
                 "main_category": "Zhe Kou Shang Dian "
             },
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.315674,21.114259999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 205,
+                "reviews": 206,
                 "rating": 4.2,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1529,7 +1760,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.315674,21.114259999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 205,
+                "reviews": 206,
                 "rating": 4.2,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1582,8 +1813,8 @@
         "link": "https://www.google.com/maps/place/Mr24+Nonstop/data=!4m7!3m6!1s0x4746df49a00b0ae7:0x95a6adbe94d53755!8m2!3d47.3262665!4d21.1290164!16s%2Fg%2F11tfjrlpwg!19sChIJ5woLoEnfRkcRVTfVlL6tppU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJy0wCKH3fRkcRIFV4GpymtFU",
-        "name": "Barandi pekseg es hamburger",
+        "place_id": "ChIJH7G77pfeRkcRnDZVqhbkkJg",
+        "name": "Barandi Pekseg",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
@@ -1591,49 +1822,21 @@
         "website": null,
         "owner": {
             "id": null,
-            "name": "Barandi pekseg es hamburger (Ye Zhu )",
+            "name": "Barandi Pekseg (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQedNcp6glTxaNFybA2m8ESAkEBIuR-IrJ1iwG=w408-h544-k-no",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=alBPhIoaHPOHXf4_QVZKpQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=330.3331&pitch=0&thumbfov=100",
         "main_category": "Mian Bao Xi Bing Dian ",
         "categories": [
             "Mian Bao Xi Bing Dian "
         ],
         "rating": null,
-        "workday_timing": "04:30-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Puspokladany, Barandi pekseg es hamburger, vasutallomas, 4150 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/B%C3%A1r%C3%A1ndi+p%C3%A9ks%C3%A9g+%C3%A9s+hamburger/data=!4m7!3m6!1s0x4746df7d28024ccb:0x55b4a69c1a785520!8m2!3d47.3274104!4d21.1283042!16s%2Fg%2F11v6wm3lvy!19sChIJy0wCKH3fRkcRIFV4GpymtFU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJPzW2y6rfRkcREBz8U8WeqGk",
-        "name": "Nemzeti Dohanybolt",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Nemzeti Dohanybolt (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i_8gvNTSGCGl-CDJttKSzg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.35675&pitch=0&thumbfov=100",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian "
-        ],
-        "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Puspokladany, Nemzeti Dohanybolt, Petofi u., 4150 Xiong Ya Li ",
+        "address": "Puspokladany, Barandi Pekseg, Petri Pal u., 4150 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt/data=!4m7!3m6!1s0x4746dfaacbb6353f:0x69a89ec553fc1c10!8m2!3d47.3164003!4d21.1148651!16s%2Fg%2F11ptvflfdj!19sChIJPzW2y6rfRkcREBz8U8WeqGk?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/B%C3%A1r%C3%A1ndi+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4746de97eebbb11f:0x9890e416aa55369c!8m2!3d47.3220938!4d21.0928012!16s%2Fg%2F11t_sh324k!19sChIJH7G77pfeRkcRnDZVqhbkkJg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJewd-c2zhRkcRqSVod4MZSsY",

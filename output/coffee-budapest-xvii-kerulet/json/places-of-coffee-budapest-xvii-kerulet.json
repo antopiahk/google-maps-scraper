@@ -4,7 +4,7 @@
         "name": "Torzshely restaurant and bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1184,
+        "reviews": 1186,
         "competitors": [
             {
                 "name": "Aranytyuk Falatozo hazias, magyaros, frissensultek, hamburger, gyros",
@@ -16,7 +16,7 @@
             {
                 "name": "Pecsenyesuto",
                 "link": "https://www.google.com/maps/search/Pecsenyes%C3%BCt%C5%91/@47.467250299999996,19.2493983?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 164,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -30,7 +30,7 @@
             {
                 "name": "Palya Vendeglo",
                 "link": "https://www.google.com/maps/search/P%C3%A1lya+Vend%C3%A9gl%C5%91/@47.484752,19.2793773?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
+                "reviews": 77,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -83,7 +83,7 @@
         "name": "Confectionery Vegvari",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 997,
+        "reviews": 999,
         "competitors": [
             {
                 "name": "Szepreti cukraszda, salatabar",
@@ -134,7 +134,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "09:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 967 1774",
         "address": "Budapest, Confectionery Vegvari, Pesti ut 40, 1173 Xiong Ya Li ",
         "review_keywords": [
@@ -159,21 +162,21 @@
             {
                 "name": "La Donna Pizzeria",
                 "link": "https://www.google.com/maps/search/La+Donna+Pizz%C3%A9ria/@47.483490800000006,19.2385651?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1105,
+                "reviews": 1106,
                 "rating": 4.5,
                 "main_category": "Yi Shi Bo Bing "
             },
             {
                 "name": "Jokonyha Restaurant",
                 "link": "https://www.google.com/maps/search/J%C3%B3konyha+Restaurant/@47.4853169,19.2812003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1040,
+                "reviews": 1041,
                 "rating": 4.5,
                 "main_category": "Xiong Ya Li Cai "
             },
             {
                 "name": "Julian etterem",
                 "link": "https://www.google.com/maps/search/Julian+%C3%A9tterem/@47.481769899999996,19.2554311?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 505,
+                "reviews": 508,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -182,13 +185,6 @@
                 "link": "https://www.google.com/maps/search/Kis-Titok+%C3%89tkezde/@47.4828015,19.2416941?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 72,
                 "rating": 4.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Jollak-tal etterem",
-                "link": "https://www.google.com/maps/search/J%C3%B3llak-t%C3%A1l+%C3%A9tterem/@47.476906899999996,19.2649196?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 2.6,
                 "main_category": "Can Ting "
             }
         ],
@@ -267,7 +263,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "09:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 967 1773",
         "address": "Budapest, Vegvari Cukraszda, Ferihegyi ut 64, 1173 Xiong Ya Li ",
         "review_keywords": [
@@ -283,12 +282,12 @@
         "name": "Main Square Caffe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 712,
+        "reviews": 713,
         "competitors": [
             {
                 "name": "Torzshely restaurant and bar",
                 "link": "https://www.google.com/maps/search/T%C3%B6rzshely+restaurant+and+bar/@47.489408999999995,19.259748300000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1184,
+                "reviews": 1186,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -390,7 +389,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "10:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 967 1775",
         "address": "Budapest, Vegvari Cukraszda, Kvasz Andras u. 36, 1174 Xiong Ya Li ",
         "review_keywords": [
@@ -406,12 +408,12 @@
         "name": "Julian etterem",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 506,
+        "reviews": 508,
         "competitors": [
             {
                 "name": "Campus Royal Restaurant",
                 "link": "https://www.google.com/maps/search/Campus+Royal+Restaurant/@47.4795253,19.0873724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1911,
+                "reviews": 1915,
                 "rating": 4.3,
                 "main_category": "Zi Zhu Can "
             },
@@ -425,7 +427,7 @@
             {
                 "name": "Palya Vendeglo",
                 "link": "https://www.google.com/maps/search/P%C3%A1lya+Vend%C3%A9gl%C5%91/@47.484752,19.2793773?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
+                "reviews": 77,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -434,13 +436,6 @@
                 "link": "https://www.google.com/maps/search/Kis-Titok+%C3%89tkezde/@47.4828015,19.2416941?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 72,
                 "rating": 4.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Jollak-tal etterem",
-                "link": "https://www.google.com/maps/search/J%C3%B3llak-t%C3%A1l+%C3%A9tterem/@47.476906899999996,19.2649196?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 2.6,
                 "main_category": "Can Ting "
             }
         ],
@@ -534,7 +529,7 @@
             {
                 "name": "Caffe Ritazza",
                 "link": "https://www.google.com/maps/search/Caff%C3%A9+Ritazza/@47.4338872,19.2622146?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 216,
+                "reviews": 217,
                 "rating": 1.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -548,14 +543,14 @@
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.432946199999996,19.2607709?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 195,
+                "reviews": 196,
                 "rating": 2.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "TASHBA",
                 "link": "https://www.google.com/maps/search/TASHBA/@47.432837299999996,19.2605416?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 170,
                 "rating": 3,
                 "main_category": "Can Ting "
             },
@@ -586,7 +581,7 @@
         "review_keywords": [
             {
                 "keyword": "Ji Chang ",
-                "count": 26
+                "count": 27
             },
             {
                 "keyword": "Bei ",
@@ -613,8 +608,8 @@
                 "count": 7
             },
             {
-                "keyword": "Shui ",
-                "count": 7
+                "keyword": "Fei ",
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Costa+Coffee/data=!4m7!3m6!1s0x4741c1afcf956499:0xf3a553a99dce1976!8m2!3d47.4330741!4d19.2606264!16s%2Fg%2F11g6ykxdw1!19sChIJmWSVz6_BQUcRdhnOnalTpfM?authuser=0&hl=zh-TW&rclk=1"
@@ -636,7 +631,7 @@
             {
                 "name": "Confectionery Vegvari",
                 "link": "https://www.google.com/maps/search/Confectionery+V%C3%A9gv%C3%A1ri/@47.4831709,19.2398989?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 996,
+                "reviews": 997,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -678,77 +673,20 @@
             "Xue Gao Dian "
         ],
         "rating": 4.6,
-        "workday_timing": "11:00-18:00",
-        "closed_on": "Open All Days",
+        "workday_timing": null,
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 50 136 2886",
         "address": "EdesAnya Cukraszda es Kavezo, Budapest Pesti ut 368, Kucorgo ter uzletsor, 1171 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/%C3%89desAnya+Cukr%C3%A1szda+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4741c182bd151f6d:0x2a191ca27a150f19!8m2!3d47.4695655!4d19.2937467!16s%2Fg%2F11ffnx5cgg!19sChIJbR8VvYLBQUcRGQ8VeqIcGSo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJHwmADlTDQUcRMGCheKzT4jk",
-        "name": "Kurtos 17 Kalacs",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 106,
-        "competitors": [
-            {
-                "name": "Edes Macko",
-                "link": "https://www.google.com/maps/search/%C3%89des+Mack%C3%B3/@47.5196064,19.0825818?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 749,
-                "rating": 4.4,
-                "main_category": "Xi Dian "
-            },
-            {
-                "name": "Kurtoskalacs Haz",
-                "link": "https://www.google.com/maps/search/K%C3%BCrt%C5%91skal%C3%A1cs+H%C3%A1z/@47.5101072,19.056859799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
-                "rating": 3.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Pekseg es Kavezo",
-                "link": "https://www.google.com/maps/search/P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.5126646,19.0491061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
-                "rating": 3.8,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Kurtoskalacs",
-                "link": "https://www.google.com/maps/search/K%C3%BCrt%C5%91skal%C3%A1cs/@47.502924900000004,19.136163099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 2,
-                "main_category": "Tang Guo Gao Bing Dian "
-            },
-            {
-                "name": "Deli Kurtoskalacs Kft.",
-                "link": "https://www.google.com/maps/search/D%C3%A9li+K%C3%BCrt%C5%91skal%C3%A1cs+Kft./@47.4880002,19.2828967?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Yan Cong Fu Wu "
-            }
-        ],
-        "website": "https://m.facebook.com/Kurtos17kalacs/",
-        "owner": {
-            "id": null,
-            "name": "Kurtos 17 Kalacs (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM23abVqPiqwR6adIqbwfk7tRDPuJei7dBYoJk3=w408-h306-k-no",
-        "main_category": "Gao Bing Dian ",
-        "categories": [
-            "Gao Bing Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": "12:00-19:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": null,
-        "address": "Budapest, Kurtos 17 Kalacs, Ujlak u. 5, 1173 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/K%C3%BCrt%C3%B6s+17+Kal%C3%A1cs/data=!4m7!3m6!1s0x4741c3540e80091f:0x39e2d3ac78a16030!8m2!3d47.4805034!4d19.2429296!16s%2Fg%2F11fn9pc0vv!19sChIJHwmADlTDQUcRMGCheKzT4jk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJbwyiPknBQUcREsw3HZNdGQU",
@@ -760,7 +698,7 @@
             {
                 "name": "OMV",
                 "link": "https://www.google.com/maps/search/OMV/@47.484170999999996,19.2354912?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 752,
+                "reviews": 753,
                 "rating": 4.5,
                 "main_category": "You Zhan "
             },
@@ -891,14 +829,14 @@
             {
                 "name": "Geza Pekseg",
                 "link": "https://www.google.com/maps/search/G%C3%A9za+P%C3%A9ks%C3%A9g/@47.4884136,19.259433599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
+                "reviews": 328,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Pesti Pekseg",
                 "link": "https://www.google.com/maps/search/Pesti+P%C3%A9ks%C3%A9g/@47.4727949,19.2777916?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 277,
+                "reviews": 278,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -952,12 +890,12 @@
         "name": "Pille Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 58,
+        "reviews": 59,
         "competitors": [
             {
                 "name": "Pesti Pekseg",
                 "link": "https://www.google.com/maps/search/Pesti+P%C3%A9ks%C3%A9g/@47.4727949,19.2777916?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 277,
+                "reviews": 278,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1060,7 +998,7 @@
         "name": "Eszter-Hazi Cukraszda es Fagyizo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 23,
+        "reviews": 25,
         "competitors": [
             {
                 "name": "Violetta Fagyizo",
@@ -1091,7 +1029,7 @@
                 "main_category": "Tang Guo Gao Bing Dian "
             }
         ],
-        "website": "https://eszterhazicukraszda.business.site/?utm_source=gmb&utm_medium=referral",
+        "website": "https://eszterhazicukraszda.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
         "owner": {
             "id": "100524359006349429010",
             "name": "Eszter-Hazi Cukraszda es Fagyizo (Ye Zhu )",
@@ -1106,7 +1044,8 @@
         "rating": 4.6,
         "workday_timing": "10:00-19:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
         ],
         "phone": "+36 30 526 3564",
         "address": "Budapest, Eszter-Hazi Cukraszda es Fagyizo, Ovono u. 10/A, 1171 Xiong Ya Li ",
@@ -1123,15 +1062,15 @@
             {
                 "name": "Pesti Pekseg",
                 "link": "https://www.google.com/maps/search/Pesti+P%C3%A9ks%C3%A9g/@47.4727949,19.2777916?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 277,
+                "reviews": 278,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Abi Pekseg",
                 "link": "https://www.google.com/maps/search/Abi+P%C3%A9ks%C3%A9g/@47.4803806,19.251077199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 186,
-                "rating": 4.5,
+                "reviews": 187,
+                "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1176,6 +1115,72 @@
         "address": "Budapest, Lipoti Pekseg es Kavezo, Pesti ut 34, 1173 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4741c3e010ece165:0x967296bd0593d99b!8m2!3d47.4833414!4d19.2390638!16s%2Fg%2F11s74ktjky!19sChIJZeHsEODDQUcRm9mTBb2WcpY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJLyN-Mn3bQUcRfDwOJQdV-XI",
+        "name": "Bio-Forras biobolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Bio-Barat Biobolt",
+                "link": "https://www.google.com/maps/search/Bio-Bar%C3%A1t+Biobolt/@47.5027281,19.1386946?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 76,
+                "rating": 4.6,
+                "main_category": "You Ji Shang Dian "
+            },
+            {
+                "name": "Biobolt",
+                "link": "https://www.google.com/maps/search/Biobolt/@47.519655799999995,19.1644236?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 49,
+                "rating": 4.7,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "Herbaria",
+                "link": "https://www.google.com/maps/search/Herb%C3%A1ria/@47.482997399999995,19.228341699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 3.5,
+                "main_category": "Yao Cai Pu "
+            },
+            {
+                "name": "ReformFarm Biobolt",
+                "link": "https://www.google.com/maps/search/ReformFarm+Biobolt/@47.481799699999996,19.255302699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "You Ji Shang Dian "
+            },
+            {
+                "name": "Biopatika",
+                "link": "https://www.google.com/maps/search/Biopatika/@47.4827939,19.241965?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": "http://bioforras.hu/",
+        "owner": {
+            "id": "112493357736564387833",
+            "name": "Bio-Forras biobolt (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112493357736564387833"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwETyvTE17LTxI26L5nQ2Z6n3bippOnhjSQBGo=w408-h362-k-no",
+        "main_category": "Jian Kang Shi Pin Zhuan Mai Dian ",
+        "categories": [
+            "Jian Kang Shi Pin Zhuan Mai Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 1 403 8214",
+        "address": "Budapest, Bio-Forras biobolt, 1173 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bio-Forr%C3%A1s+biobolt/data=!4m7!3m6!1s0x4741db7d327e232f:0x72f95507250e3c7c!8m2!3d47.480744!4d19.2558383!16s%2Fg%2F11h6sb4svw!19sChIJLyN-Mn3bQUcRfDwOJQdV-XI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ_VQq183GQUcRKnmxi0jetao",
@@ -1315,12 +1320,12 @@
         "name": "Szepreti cukraszda, salatabar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1427,
+        "reviews": 1428,
         "competitors": [
             {
                 "name": "Vegvari Cukraszda",
                 "link": "https://www.google.com/maps/search/V%C3%A9gv%C3%A1ri+Cukr%C3%A1szda/@47.480713099999996,19.2574079?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 760,
+                "reviews": 759,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -1391,7 +1396,7 @@
             {
                 "name": "Confectionery Vegvari",
                 "link": "https://www.google.com/maps/search/Confectionery+V%C3%A9gv%C3%A1ri/@47.4831709,19.2398989?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 996,
+                "reviews": 997,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -1433,7 +1438,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "11:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 461 0773",
         "address": "Budapest, Violetta Cukraszda, Uszoda u. 1, 1173 Xiong Ya Li ",
         "review_keywords": [],
@@ -1499,20 +1507,20 @@
         "name": "Geza Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 327,
+        "reviews": 329,
         "competitors": [
             {
                 "name": "Tristani Pekseg",
                 "link": "https://www.google.com/maps/search/Tristani+P%C3%A9ks%C3%A9g/@47.481912300000005,19.270678699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 262,
+                "reviews": 263,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Abi Pekseg",
                 "link": "https://www.google.com/maps/search/Abi+P%C3%A9ks%C3%A9g/@47.4803806,19.251077199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 186,
-                "rating": 4.5,
+                "reviews": 187,
+                "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1559,7 +1567,7 @@
             {
                 "name": "Confectionery Vegvari",
                 "link": "https://www.google.com/maps/search/Confectionery+V%C3%A9gv%C3%A1ri/@47.4831709,19.2398989?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 996,
+                "reviews": 997,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -1614,8 +1622,8 @@
             {
                 "name": "Abi Pekseg",
                 "link": "https://www.google.com/maps/search/Abi+P%C3%A9ks%C3%A9g/@47.4803806,19.251077199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 186,
-                "rating": 4.5,
+                "reviews": 187,
+                "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1628,8 +1636,8 @@
             {
                 "name": "Glutenmentes Tunder Manna Pekmanufaktura",
                 "link": "https://www.google.com/maps/search/Glut%C3%A9nmentes+T%C3%BCnd%C3%A9r+Manna+P%C3%A9kmanufakt%C3%BAra/@47.482711800000004,19.2397155?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 49,
-                "rating": 4.4,
+                "reviews": 50,
+                "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1664,27 +1672,27 @@
         "name": "Tristani Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 262,
+        "reviews": 263,
         "competitors": [
             {
                 "name": "Geza Pekseg",
                 "link": "https://www.google.com/maps/search/G%C3%A9za+P%C3%A9ks%C3%A9g/@47.4884136,19.259433599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
+                "reviews": 328,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Pesti Pekseg",
                 "link": "https://www.google.com/maps/search/Pesti+P%C3%A9ks%C3%A9g/@47.4727949,19.2777916?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 277,
+                "reviews": 278,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Abi Pekseg",
                 "link": "https://www.google.com/maps/search/Abi+P%C3%A9ks%C3%A9g/@47.4803806,19.251077199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 186,
-                "rating": 4.5,
+                "reviews": 187,
+                "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1726,19 +1734,19 @@
         "name": "Abi Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 186,
+        "reviews": 187,
         "competitors": [
             {
                 "name": "Geza Pekseg",
                 "link": "https://www.google.com/maps/search/G%C3%A9za+P%C3%A9ks%C3%A9g/@47.4884136,19.259433599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 327,
+                "reviews": 328,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Pesti Pekseg",
                 "link": "https://www.google.com/maps/search/Pesti+P%C3%A9ks%C3%A9g/@47.4727949,19.2777916?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 277,
+                "reviews": 278,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1775,7 +1783,7 @@
         "categories": [
             "Mian Bao Xi Bing Dian "
         ],
-        "rating": 4.5,
+        "rating": 4.4,
         "workday_timing": "05:00-22:00",
         "closed_on": "Open All Days",
         "phone": "+36 30 312 5990",
@@ -1793,7 +1801,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.496674299999995,19.2722612?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 897,
+                "reviews": 896,
                 "rating": 3.7,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1855,14 +1863,14 @@
             {
                 "name": "Pottyos bakery",
                 "link": "https://www.google.com/maps/search/P%C3%B6tty%C3%B6s+bakery/@47.4662562,19.1155729?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 283,
+                "reviews": 282,
                 "rating": 4.1,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Pesti Pekseg",
                 "link": "https://www.google.com/maps/search/Pesti+P%C3%A9ks%C3%A9g/@47.4727949,19.2777916?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 277,
+                "reviews": 278,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1917,7 +1925,7 @@
             {
                 "name": "Vegvari Cukraszda",
                 "link": "https://www.google.com/maps/search/V%C3%A9gv%C3%A1ri+Cukr%C3%A1szda/@47.480713099999996,19.2574079?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 760,
+                "reviews": 759,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -1969,7 +1977,7 @@
         "name": "Tebe 17. Kerulet",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 13,
+        "reviews": 14,
         "competitors": [
             {
                 "name": "TEBE Hulladementes Bolt",
@@ -2001,6 +2009,8 @@
         "rating": 5,
         "workday_timing": "10:00-18:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 70 385 3681",
@@ -2051,14 +2061,14 @@
             {
                 "name": "Vegvari Cukraszda",
                 "link": "https://www.google.com/maps/search/V%C3%A9gv%C3%A1ri+Cukr%C3%A1szda/@47.480713099999996,19.2574079?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 760,
+                "reviews": 759,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Suti, nem suti Vecses",
                 "link": "https://www.google.com/maps/search/S%C3%BCti%2C+nem+s%C3%BCti+Vecs%C3%A9s/@47.4127218,19.267939?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 198,
+                "reviews": 199,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2207,5 +2217,243 @@
         "address": "Budapest, Gold Caffe Kft, Kispajtas u., 1171 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Gold+Caff%C3%A9+Kft/data=!4m7!3m6!1s0x4741c131d2bd6353:0x727c76bc5d1540d!8m2!3d47.4715915!4d19.2833119!16s%2Fg%2F11hdy2q14q!19sChIJU2O90jHBQUcRDVTRxWvHJwc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJsxteB97BQUcR8f02Heq3AzM",
+        "name": "Serczli Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Tristani Pekseg",
+                "link": "https://www.google.com/maps/search/Tristani+P%C3%A9ks%C3%A9g/@47.481912300000005,19.270678699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 263,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Sercli pekseg",
+                "link": "https://www.google.com/maps/search/Sercli+p%C3%A9ks%C3%A9g/@47.521848299999995,19.286498599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 172,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Abi Pekseg II.",
+                "link": "https://www.google.com/maps/search/Abi+P%C3%A9ks%C3%A9g+II./@47.4814578,19.254959600000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Serczli Shop Pekseg es Delikatesz",
+                "link": "https://www.google.com/maps/search/Serczli+Shop+P%C3%A9ks%C3%A9g+%C3%A9s+Delik%C3%A1tesz/@47.5299538,19.1926222?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Suto-Izes Kft.",
+                "link": "https://www.google.com/maps/search/S%C3%BCt%C5%91-%C3%8Dzes+Kft./@47.48037240000001,19.2558573?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Serczli Pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzGX7Ts3RQ-HEOYlLc2u1pcVxljnSAT5jiR_KN=w408-h545-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Budapest, Serczli Pekseg, 1173 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Serczli+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4741c1de075e1bb3:0x3303b7ea1d36fdf1!8m2!3d47.4820956!4d19.2561461!16s%2Fg%2F11tww48tmg!19sChIJsxteB97BQUcR8f02Heq3AzM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJtepC4lbBQUcR36dlcQOk6OI",
+        "name": "Panini Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Europa Pekseg",
+                "link": "https://www.google.com/maps/search/Eur%C3%B3pa+P%C3%A9ks%C3%A9g/@47.4756691,19.2548288?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 167,
+                "rating": 3.9,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Panino Sutoipari Kft.",
+                "link": "https://www.google.com/maps/search/Panino+S%C3%BCt%C5%91ipari+Kft./@47.4617314,19.1386187?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 51,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Lipoti Pekseg es Kavezo",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.4833414,19.2390638?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Peceli kenyergyar Panini Pek pekseg",
+                "link": "https://www.google.com/maps/search/P%C3%A9celi+keny%C3%A9rgy%C3%A1r+Panini+P%C3%A9k+p%C3%A9ks%C3%A9g/@47.4907214,19.3395623?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Glutenon",
+                "link": "https://www.google.com/maps/search/Glutenon/@47.479099999999995,19.234086299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Panini Kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JnGJnnYoOz_H1x2oJw2Sew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=34.241974&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": "05:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 1 253 0965",
+        "address": "Panini Kft., 1174 Budapest, Merczel utca 68, 1174 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Panini+Kft./data=!4m7!3m6!1s0x4741c156e242eab5:0xe2e8a4037165a7df!8m2!3d47.4776501!4d19.2493317!16s%2Fg%2F11b6jgrqg2!19sChIJtepC4lbBQUcR36dlcQOk6OI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJhReJmOnBQUcRXvW7_GrFBv8",
+        "name": "Elag pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Elag pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0Sz_xISMzuii9zRge-XCog&cb_client=search.gws-prod.gps&w=408&h=240&yaw=102.33486&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Budapest, Elag pekseg, Ferihegyi ut 70, 1173 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El%C3%A0g+p%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4741c1e998891785:0xff06c56afcbbf55e!8m2!3d47.4801537!4d19.2572666!16s%2Fg%2F11l6xbxnqm!19sChIJhReJmOnBQUcRXvW7_GrFBv8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJGZ-giT3SQUcRhZVX71K2IY0",
+        "name": "Hecsedli Biosuti",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Fill Good Kezmuves Sutoltode",
+                "link": "https://www.google.com/maps/search/Fill+Good+K%C3%A9zm%C5%B1ves+S%C3%BCt%C3%B6lt%C3%B6de/@47.513284999999996,19.0496282?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 262,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Abi Pekseg",
+                "link": "https://www.google.com/maps/search/Abi+P%C3%A9ks%C3%A9g/@47.4803806,19.251077199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 187,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Dulce Vida - Mentes shop es cukraszda",
+                "link": "https://www.google.com/maps/search/Dulce+Vida+-+Mentes+shop+%C3%A9s+cukr%C3%A1szda/@47.4893435,19.2593375?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 100,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Birs Eco Kft.",
+                "link": "https://www.google.com/maps/search/Birs+Eco+Kft./@47.4715681,19.2739109?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            },
+            {
+                "name": "Suto-Izes Kft.",
+                "link": "https://www.google.com/maps/search/S%C3%BCt%C5%91-%C3%8Dzes+Kft./@47.48037240000001,19.2558573?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "109135459559438087212",
+            "name": "Hecsedli Biosuti (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109135459559438087212"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a8fVzieaJqgg9IEe_w_fag&cb_client=search.gws-prod.gps&w=408&h=240&yaw=97.936005&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 30 280 0786",
+        "address": "Budapest, Hecsedli Biosuti, Kovirigo u. 36, 1173 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hecsedli+Bios%C3%BCti/data=!4m7!3m6!1s0x4741d23d89a09f19:0x8d21b652ef579585!8m2!3d47.4740383!4d19.235843!16s%2Fg%2F11hys_zjy2!19sChIJGZ-giT3SQUcRhZVX71K2IY0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJeyvRjRjBQUcRefnrLYWEx8M",
+        "name": "Taban Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Taban Pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9BLwMsARPgtt4ug3-dhbEA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=108.68911&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Budapest, Taban Pekseg, Taban u. 4, 1173 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tab%C3%A1n+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4741c1188dd12b7b:0xc3c784852debf979!8m2!3d47.477818!4d19.2517292!16s%2Fg%2F11vbk9gslh!19sChIJeyvRjRjBQUcRefnrLYWEx8M?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

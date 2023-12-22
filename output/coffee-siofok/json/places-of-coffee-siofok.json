@@ -4,12 +4,12 @@
         "name": "Calypso Etterem /Calypso Restaurant Siofok",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2000,
+        "reviews": 1999,
         "competitors": [
             {
                 "name": "Roxy Cafe",
                 "link": "https://www.google.com/maps/search/Roxy+Cafe/@46.905643399999995,18.0513179?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2617,
+                "reviews": 2622,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -22,7 +22,7 @@
             },
             {
                 "name": "Ezustpart Etterem",
-                "link": "https://www.google.com/maps/search/Ez%C3%BCstpart+%C3%89tterem/@46.8996584,18.011015399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Ez%C3%BCstpart+%C3%89tterem/@46.8996827,18.011059499999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 379,
                 "rating": 4.4,
                 "main_category": "Can Ting "
@@ -54,11 +54,11 @@
                 "count": 13
             },
             {
-                "keyword": "Shui ",
+                "keyword": "Pi Sa ",
                 "count": 13
             },
             {
-                "keyword": "Pi Sa ",
+                "keyword": "Shui ",
                 "count": 13
             },
             {
@@ -72,6 +72,10 @@
             {
                 "keyword": "Bang Wan ",
                 "count": 9
+            },
+            {
+                "keyword": "Ka Pei ",
+                "count": 6
             },
             {
                 "keyword": "Shu Tiao ",
@@ -174,7 +178,7 @@
             {
                 "name": "Zafir Bistro Siofok Reggelizo",
                 "link": "https://www.google.com/maps/search/Zaf%C3%ADr+Bistro+Si%C3%B3fok+Reggeliz%C5%91/@46.9145885,18.063921399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 113,
+                "reviews": 115,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             }
@@ -236,7 +240,7 @@
         "name": "Dinasztia Cukraszda es Fagyizo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 830,
+        "reviews": 832,
         "competitors": [
             {
                 "name": "Marcipan cukraszda",
@@ -254,7 +258,7 @@
             },
             {
                 "name": "Ribiszke Cukraszat",
-                "link": "https://www.google.com/maps/search/Ribiszke+Cukr%C3%A1szat/@46.8919174,18.0236204?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Ribiszke+Cukr%C3%A1szat/@46.8919653,18.023642900000002?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 66,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
@@ -282,7 +286,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 84 310 365",
         "address": "Siofok, Dinasztia Cukraszda es Fagyizo, Kalman Imre stny. 2, 8600 Xiong Ya Li ",
         "review_keywords": [
@@ -295,14 +302,14 @@
                 "count": 8
             }
         ],
-        "link": "https://www.google.com/maps/place/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/data=!4m7!3m6!1s0x4769c09a8d8247bb:0x9ffafd2d0399c6d9!8m2!3d46.9069327!4d18.0533441!16s%2Fg%2F11bwqqclpm!19sChIJu0eCjZrAaUcR2caZAy39-p8?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/data=!4m7!3m6!1s0x4769c09a8d8247bb:0x9ffafd2d0399c6d9!8m2!3d46.9069482!4d18.0533326!16s%2Fg%2F11bwqqclpm!19sChIJu0eCjZrAaUcR2caZAy39-p8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJkVYx8-XBaUcRibcEjDBUnIY",
         "name": "Cafe Frei",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 771,
+        "reviews": 772,
         "competitors": [
             {
                 "name": "Marcipan cukraszda",
@@ -366,8 +373,8 @@
         "competitors": [
             {
                 "name": "Dinasztia Cukraszda es Fagyizo",
-                "link": "https://www.google.com/maps/search/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.9069327,18.0533441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 830,
+                "link": "https://www.google.com/maps/search/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.906948199999995,18.0533326?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 831,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -443,7 +450,7 @@
             {
                 "name": "Hexa Cafe and Hot Chocolate from Belgium",
                 "link": "https://www.google.com/maps/search/Hexa+Cafe+and+Hot+Chocolate+from+Belgium/@46.905209,18.0552355?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 380,
+                "reviews": 381,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -491,7 +498,7 @@
         "name": "Hexa Cafe and Hot Chocolate from Belgium",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 380,
+        "reviews": 381,
         "competitors": [
             {
                 "name": "Cafe Frei",
@@ -535,7 +542,11 @@
         ],
         "rating": 4.7,
         "workday_timing": "07:30-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 299 9994",
         "address": "Siofok, Hexa Cafe and Hot Chocolate from Belgium, Kele u. 5, 8600 Xiong Ya Li ",
         "review_keywords": [],
@@ -550,8 +561,8 @@
         "competitors": [
             {
                 "name": "Dinasztia Cukraszda es Fagyizo",
-                "link": "https://www.google.com/maps/search/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.9069327,18.0533441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 830,
+                "link": "https://www.google.com/maps/search/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.906948199999995,18.0533326?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 831,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -611,7 +622,7 @@
             {
                 "name": "Champion Bakery II",
                 "link": "https://www.google.com/maps/search/Champion+Bakery+II/@46.906512899999996,18.054482699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 267,
+                "reviews": 268,
                 "rating": 4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -639,7 +650,7 @@
             {
                 "name": "Dori pekseg",
                 "link": "https://www.google.com/maps/search/D%C3%B3ri+p%C3%A9ks%C3%A9g/@46.8750121,18.0723445?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
+                "reviews": 137,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
@@ -759,6 +770,10 @@
         "review_keywords": [
             {
                 "keyword": "Gong Yu ",
+                "count": 4
+            },
+            {
+                "keyword": "Yin Liao ",
                 "count": 4
             },
             {
@@ -931,6 +946,91 @@
         "link": "https://www.google.com/maps/place/Bar%C3%A1ts%C3%A1g+Fagyiz%C3%B3+%C3%A9s+Drinkb%C3%A1r/data=!4m7!3m6!1s0x4769c109bc960563:0xca4ebab0ff7e50c2!8m2!3d46.8832977!4d18.0678517!16s%2Fg%2F11g13b8js2!19sChIJYwWWvAnBaUcRwlB-_7C6Tso?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ7YFHfDfBaUcRqn36jeM0Cd0",
+        "name": "SevenCorner Coffe & Cocktail",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 74,
+        "competitors": [
+            {
+                "name": "Cocktails & Dreams Siofok",
+                "link": "https://www.google.com/maps/search/Cocktails+%26+Dreams+Si%C3%B3fok/@46.9109914,18.052104699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 145,
+                "rating": 4.1,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Yolo Bar & Cafe",
+                "link": "https://www.google.com/maps/search/Yolo+Bar+%26+Cafe/@46.911535799999996,18.0546659?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 85,
+                "rating": 2.6,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Play Bar Siofok",
+                "link": "https://www.google.com/maps/search/Play+Bar+Si%C3%B3fok/@46.911011699999996,18.0536525?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 65,
+                "rating": 3.6,
+                "main_category": "Ji Wei Jiu Jiu Ba "
+            },
+            {
+                "name": "Corso Bar Siofok",
+                "link": "https://www.google.com/maps/search/Corso+B%C3%A1r+Si%C3%B3fok/@46.911218399999996,18.0545909?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": "https://www.sevencorner.hu/",
+        "owner": {
+            "id": "103586956866666951882",
+            "name": "SevenCorner Coffe & Cocktail (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103586956866666951882"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSOQ_KaqUkPIvdc1i-OPL0oBVwbR7I-od_oNh_=w522-h240-k-no",
+        "main_category": "Jiu Ba ",
+        "categories": [
+            "Jiu Ba "
+        ],
+        "rating": 3.4,
+        "workday_timing": "10:00-04:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Siofok, SevenCorner Coffe & Cocktail, Petofi stny. 3, 8600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SevenCorner+Coffe+%26+Cocktail/data=!4m7!3m6!1s0x4769c1377c4781ed:0xdd0934e38dfa7daa!8m2!3d46.9111262!4d18.0517993!16s%2Fg%2F11h5w48hlf!19sChIJ7YFHfDfBaUcRqn36jeM0Cd0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJrY3VEUPBaUcRwFVj9qG9Ja8",
+        "name": "Artizan Street Food and Breakfast Siofok",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 55,
+        "competitors": [],
+        "website": "http://www.artizansiofok.hu/",
+        "owner": {
+            "id": "111527953640510608073",
+            "name": "Artizan Street Food and Breakfast Siofok (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111527953640510608073"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOz7uZiauavQck7t2btjc0P_gtr9pqxfv4L5wo=w408-h544-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.8,
+        "workday_timing": "11:00-23:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 524 5116",
+        "address": "Siofok, Artizan Street Food and Breakfast Siofok, Szucs u. 5, 8600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Artizan+Street+Food+and+Breakfast+Si%C3%B3fok/data=!4m7!3m6!1s0x4769c14311d58dad:0xaf25bda1f66355c0!8m2!3d46.9045716!4d18.0507989!16s%2Fg%2F11sv2dmkk5!19sChIJrY3VEUPBaUcRwFVj9qG9Ja8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJmd3Sytu_aUcR8zjwRkbF4Jc",
         "name": "Menta Terasz Fagyizo",
         "description": null,
@@ -963,6 +1063,46 @@
         "address": "Siofok, Menta Terasz Fagyizo, Vecsey Karoly u. 4, 8600 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Menta+Terasz+Fagyiz%C3%B3/data=!4m7!3m6!1s0x4769bfdbcad2dd99:0x97e0c54646f038f3!8m2!3d46.8989918!4d18.0176773!16s%2Fg%2F11jn2r_h5s!19sChIJmd3Sytu_aUcR8zjwRkbF4Jc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJW-5iqyPBaUcR6tIRa5oRqNs",
+        "name": "Egyalom Terasz Bar & Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "competitors": [
+            {
+                "name": "Froccsbar",
+                "link": "https://www.google.com/maps/search/Fr%C3%B6ccsbar/@46.9117386,18.0503028?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 2.9,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": "http://facebook.com/egyalomterasz",
+        "owner": {
+            "id": "115043491175402387212",
+            "name": "Egyalom Terasz Bar & Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115043491175402387212"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMVm078_MRJ0ZQv-xoOM_mi4z2kYAQeDLupSkMO=w426-h240-k-no",
+        "main_category": "Jiu Ba ",
+        "categories": [
+            "Jiu Ba "
+        ],
+        "rating": 4.9,
+        "workday_timing": "12:00-19:30",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu "
+        ],
+        "phone": "+36 70 949 3155",
+        "address": "Siofok, Egyalom Terasz Bar & Cafe, Csuszda utca 1, 8600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Egy%C3%A1lom+Terasz+Bar+%26+Cafe/data=!4m7!3m6!1s0x4769c123ab62ee5b:0xdba8119a6b11d2ea!8m2!3d46.9277349!4d18.1006452!16s%2Fg%2F11q8rp7_6h!19sChIJW-5iqyPBaUcR6tIRa5oRqNs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJAU3Y98sW5g4RNJjbmNgmJOs",
@@ -1022,6 +1162,8 @@
         "rating": 5,
         "workday_timing": "08:00-16:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -1037,7 +1179,7 @@
         "is_spending_on_ads": false,
         "reviews": 23,
         "competitors": [],
-        "website": "https://aperitivoterrace.business.site/?utm_source=gmb&utm_medium=referral",
+        "website": "https://aperitivoterrace.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
         "owner": {
             "id": "116795251976856555256",
             "name": "Aperitivo Terasz - Costa Coffee | Reggeli es Brunch | Lounge Bar (Ye Zhu )",
@@ -1068,8 +1210,8 @@
         "competitors": [
             {
                 "name": "Dinasztia Cukraszda es Fagyizo",
-                "link": "https://www.google.com/maps/search/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.9069327,18.0533441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 830,
+                "link": "https://www.google.com/maps/search/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.906948199999995,18.0533326?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 831,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -1137,7 +1279,7 @@
             },
             {
                 "name": "Ribiszke Cukraszat",
-                "link": "https://www.google.com/maps/search/Ribiszke+Cukr%C3%A1szat/@46.8919174,18.0236204?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Ribiszke+Cukr%C3%A1szat/@46.8919653,18.023642900000002?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 66,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
@@ -1191,7 +1333,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 587 5420",
         "address": "Siofok, AFTER 8 Brunch & Coffee, Fo ter 5, 8600 Xiong Ya Li ",
         "review_keywords": [],
@@ -1214,7 +1358,7 @@
             {
                 "name": "Hexa Cafe and Hot Chocolate from Belgium",
                 "link": "https://www.google.com/maps/search/Hexa+Cafe+and+Hot+Chocolate+from+Belgium/@46.905209,18.0552355?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 380,
+                "reviews": 381,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1382,7 +1526,7 @@
             {
                 "name": "Piroska Csarda es Panzio",
                 "link": "https://www.google.com/maps/search/Piroska+Cs%C3%A1rda+%C3%A9s+Panzi%C3%B3/@46.8963317,18.015214900000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1370,
+                "reviews": 1371,
                 "rating": 4.4,
                 "main_category": "Xiong Ya Li Cai "
             },
@@ -1418,7 +1562,7 @@
                 "count": 5
             }
         ],
-        "link": "https://www.google.com/maps/place/Ez%C3%BCstpart+%C3%89tterem/data=!4m7!3m6!1s0x4769bf46d8eaf4f7:0x46256e5e91bbdce6!8m2!3d46.8996584!4d18.0110154!16s%2Fg%2F11g8vcq6q_!19sChIJ9_Tq2Ea_aUcR5ty7kV5uJUY?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Ez%C3%BCstpart+%C3%89tterem/data=!4m7!3m6!1s0x4769bf46d8eaf4f7:0x46256e5e91bbdce6!8m2!3d46.8996827!4d18.0110595!16s%2Fg%2F11g8vcq6q_!19sChIJ9_Tq2Ea_aUcR5ty7kV5uJUY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJQZnWg5rAaUcRdF8kXSdDDsg",
@@ -1499,7 +1643,7 @@
             {
                 "name": "Champion Bakery II",
                 "link": "https://www.google.com/maps/search/Champion+Bakery+II/@46.906512899999996,18.054482699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 267,
+                "reviews": 268,
                 "rating": 4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1573,7 +1717,7 @@
             {
                 "name": "Champion Bakery II",
                 "link": "https://www.google.com/maps/search/Champion+Bakery+II/@46.906512899999996,18.054482699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 267,
+                "reviews": 268,
                 "rating": 4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1721,6 +1865,98 @@
         "link": "https://www.google.com/maps/place/Marci+Bakery/data=!4m7!3m6!1s0x4769bf50f0e7bbef:0xc2d9c5332178b3f0!8m2!3d46.8919285!4d18.0210214!16s%2Fg%2F1tlwdfm0!19sChIJ77vn8FC_aUcR8LN4ITPF2cI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJsV2L1UvAaUcRw899onMmz7Y",
+        "name": "ABC Gold Coast",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 132,
+        "competitors": [
+            {
+                "name": "''Siker'' ABC",
+                "link": "https://www.google.com/maps/search/%27%27Siker%27%27+ABC/@46.925070899999994,18.100325299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 537,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "SETANY ABC",
+                "link": "https://www.google.com/maps/search/S%C3%89T%C3%81NY+ABC/@46.912290999999996,18.0584496?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 187,
+                "rating": 3.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Csaladi Abc - Real Bolt",
+                "link": "https://www.google.com/maps/search/Csal%C3%A1di+Abc+-+Re%C3%A1l+Bolt/@46.9056863,18.0622433?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 160,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "108599622981320528639",
+            "name": "ABC Gold Coast (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108599622981320528639"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM40F8AFZJ6fLR6-zezXf88n7rUJ5QLT4NUUAM5=w408-h306-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian ",
+            "Za Huo Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 20 994 6770",
+        "address": "Siofok, ABC Gold Coast, Szent Laszlo u. 198, 8600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ABC+Gold+Coast/data=!4m7!3m6!1s0x4769c04bd58b5db1:0xb6cf2673a27dcfc3!8m2!3d46.927277!4d18.1032436!16s%2Fg%2F11g6rdh8xl!19sChIJsV2L1UvAaUcRw899onMmz7Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJmdkZD3nBaUcRb_8BAp6XKck",
+        "name": "PIAZZA BUFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 115,
+        "competitors": [
+            {
+                "name": "Bufe Restaurant",
+                "link": "https://www.google.com/maps/search/B%C3%BCf%C3%A9+Restaurant/@46.916315999999995,18.1052377?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 720,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Grill Bufe",
+                "link": "https://www.google.com/maps/search/Grill+B%C3%BCf%C3%A9/@46.9076724,18.0556493?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 4.2,
+                "main_category": "Xiao Can Guan  (Bistro)"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "107378524494500016187",
+            "name": "PIAZZA BUFE (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107378524494500016187"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsXGedXPnBRviApaSvAw5Ltr_umitkVVcER2f9=w408-h306-k-no",
+        "main_category": "Zao Wu Can Can Ting ",
+        "categories": [
+            "Zao Wu Can Can Ting "
+        ],
+        "rating": 4.1,
+        "workday_timing": "11:00-22:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": null,
+        "address": "Siofok, PIAZZA BUFE, Sio u. 19, 8600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/PIAZZA+B%C3%9CF%C3%89/data=!4m7!3m6!1s0x4769c1790f19d999:0xc929979e0201ff6f!8m2!3d46.9045402!4d18.050632!16s%2Fg%2F11m452fx8h!19sChIJmdkZD3nBaUcRb_8BAp6XKck?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJFYmFW4PAaUcRkxDeJimO7ts",
         "name": "Gelatto della palma",
         "description": null,
@@ -1822,6 +2058,54 @@
         "link": "https://www.google.com/maps/place/Korona+Fagyiz%C3%B3/data=!4m7!3m6!1s0x4769bfff12c03d2d:0xe1d1bb7fb2fe38ce!8m2!3d46.9040764!4d18.0345924!16s%2Fg%2F11f8mlgp4_!19sChIJLT3AEv-_aUcRzjj-sn-70eE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJrx9R9US_aUcRyta7mYwmWdY",
+        "name": "Marcipan Cukraszda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 45,
+        "competitors": [
+            {
+                "name": "Marcipan cukraszda",
+                "link": "https://www.google.com/maps/search/Marcip%C3%A1n+cukr%C3%A1szda/@46.9060328,18.053039000000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 764,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Sziro Cukraszda",
+                "link": "https://www.google.com/maps/search/Sziro+Cukr%C3%A1szda/@46.881331,18.0732768?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 152,
+                "rating": 4.7,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Ribiszke Cukraszat",
+                "link": "https://www.google.com/maps/search/Ribiszke+Cukr%C3%A1szat/@46.8919653,18.023642900000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 66,
+                "rating": 4.6,
+                "main_category": "Tian Pin Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Marcipan Cukraszda (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP84SfmA1CmvTxuEdkYHqw-TJSCZ3f9nNbQ-3Ro=w408-h306-k-no",
+        "main_category": "Tian Pin Dian ",
+        "categories": [
+            "Tian Pin Dian "
+        ],
+        "rating": 3.5,
+        "workday_timing": "09:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Siofok, Marcipan Cukraszda, Moricz Zsigmond u. 2, 8600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Marcip%C3%A1n+Cukr%C3%A1szda/data=!4m7!3m6!1s0x4769bf44f5511faf:0xd659268c99bbd6ca!8m2!3d46.8983376!4d18.017088!16s%2Fg%2F11bwwkdyrw!19sChIJrx9R9US_aUcRyta7mYwmWdY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJjbv1AdTAaUcRKcvUUVQ8xnk",
         "name": "Royal kenyerbolt es kavezo",
         "description": null,
@@ -1845,7 +2129,7 @@
             {
                 "name": "Dori pekseg",
                 "link": "https://www.google.com/maps/search/D%C3%B3ri+p%C3%A9ks%C3%A9g/@46.8750121,18.0723445?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
+                "reviews": 137,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1948,6 +2232,54 @@
         "link": "https://www.google.com/maps/place/Renegade+Palacsint%C3%A1z%C3%B3/data=!4m7!3m6!1s0x4769c084985e6725:0x69658c198a825b59!8m2!3d46.9108084!4d18.0510625!16s%2Fg%2F11c50c0w95!19sChIJJWdemITAaUcRWVuCihmMZWk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJH9AKXprAaUcRJBr_hv8C4Yc",
+        "name": "Frozen Belga Gofri & Icecream Bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "competitors": [
+            {
+                "name": "Jegvarazs Fagyizo",
+                "link": "https://www.google.com/maps/search/J%C3%A9gvar%C3%A1zs+Fagyiz%C3%B3/@46.903389499999996,18.0323963?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 152,
+                "rating": 4.6,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Carpigiani Gelato Fagyizo",
+                "link": "https://www.google.com/maps/search/Carpigiani+Gelato+Fagyiz%C3%B3/@46.9061738,18.053619299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Shuang Dong You Ge "
+            },
+            {
+                "name": "Gelato Soft",
+                "link": "https://www.google.com/maps/search/Gelato+Soft/@46.9073074,18.0479554?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Shuang Dong You Ge "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Frozen Belga Gofri & Icecream Bar (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPugCf7CEs-D9Bq7ivdMqQtruLaVckou9EuVSoA=w408-h544-k-no",
+        "main_category": "Tang Guo Gao Bing Dian ",
+        "categories": [
+            "Tang Guo Gao Bing Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "10:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 30 939 9589",
+        "address": "Siofok, Frozen Belga Gofri & Icecream Bar, Hock Janos koz 2, 8600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Frozen+Belga+Gofri+%26+Icecream+Bar/data=!4m7!3m6!1s0x4769c09a5e0ad01f:0x87e102ff86ff1a24!8m2!3d46.9065118!4d18.0523755!16s%2Fg%2F11g8vlgydy!19sChIJH9AKXprAaUcRJBr_hv8C4Yc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJlwVKzZ_AaUcRmSgY-0qDARw",
         "name": "Dara Antal cukraszdaja",
         "description": null,
@@ -1956,8 +2288,8 @@
         "competitors": [
             {
                 "name": "Dinasztia Cukraszda es Fagyizo",
-                "link": "https://www.google.com/maps/search/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.9069327,18.0533441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 830,
+                "link": "https://www.google.com/maps/search/Dinasztia+Cukr%C3%A1szda+%C3%A9s+Fagyiz%C3%B3/@46.906948199999995,18.0533326?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 831,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -1970,7 +2302,7 @@
             },
             {
                 "name": "Adria Fagyizo",
-                "link": "https://www.google.com/maps/search/Adria+Fagyiz%C3%B3/@46.9058917,18.051228899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Adria+Fagyiz%C3%B3/@46.905894,18.0512063?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 31,
                 "rating": 4.5,
                 "main_category": "Can Ting "
@@ -2059,7 +2391,7 @@
             {
                 "name": "Zafir Bistro Siofok Reggelizo",
                 "link": "https://www.google.com/maps/search/Zaf%C3%ADr+Bistro+Si%C3%B3fok+Reggeliz%C5%91/@46.9145885,18.063921399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 113,
+                "reviews": 115,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             }
@@ -2240,6 +2572,61 @@
         "address": "Siofok, Reteshaz, Fo u. 188-190, 8600 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/R%C3%A9tesh%C3%A1z/data=!4m7!3m6!1s0x4769c1c94a8d8b53:0xf1fda2b7c53d52a8!8m2!3d46.9073228!4d18.0559644!16s%2Fg%2F11gjmbj9cj!19sChIJU4uNSsnBaUcRqFI9xbei_fE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJr32lwlfBaUcRw9RGicMAPYQ",
+        "name": "Kave Tradicio Kft",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Roxy Cafe",
+                "link": "https://www.google.com/maps/search/Roxy+Cafe/@46.905643399999995,18.0513179?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2622,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Coffee Shop Company",
+                "link": "https://www.google.com/maps/search/Coffee+Shop+Company/@46.9061288,18.051927499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 458,
+                "rating": 4.1,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "KaveGarazs - Kavegep szerviz Siofok",
+                "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9Gar%C3%A1zs+-+K%C3%A1v%C3%A9g%C3%A9p+szerviz+Si%C3%B3fok/@46.9021354,18.0424628?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 5,
+                "main_category": "Ka Pei Ji Gong Ying Shang "
+            },
+            {
+                "name": "Tradicio Kavehaz Es Fagylaltozo",
+                "link": "https://www.google.com/maps/search/Tradici%C3%B3+K%C3%A1v%C3%A9h%C3%A1z+%C3%89s+Fagylaltoz%C3%B3/@46.90626030000001,18.0521687?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kave Tradicio Kft (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PYEhUwgEv_TBfIYWcITeuA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=132.89366&pitch=0&thumbfov=100",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": null,
+        "workday_timing": "09:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 20 938 4476",
+        "address": "Siofok, Kave Tradicio Kft, Fo ter 5, 8600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9+Trad%C3%ADci%C3%B3+Kft/data=!4m7!3m6!1s0x4769c157c2a57daf:0x843d00c38946d4c3!8m2!3d46.9053558!4d18.0518127!16s%2Fg%2F11q_p6ngsb!19sChIJr32lwlfBaUcRw9RGicMAPYQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJpwskZnC_aUcRatM6W_kuvio",

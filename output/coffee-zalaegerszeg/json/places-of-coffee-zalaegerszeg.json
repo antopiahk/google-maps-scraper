@@ -4,7 +4,7 @@
         "name": "KFC Zalaegerszeg DT",
         "description": "Lian Suo Can Ting ,Yi Zha Ji Tong , Tao Can He Pei Can Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 2416,
+        "reviews": 2419,
         "competitors": [
             {
                 "name": "Burger King DT",
@@ -55,7 +55,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 70 777 8603",
         "address": "Zalaegerszeg, KFC Zalaegerszeg DT, Balatoni ut 5, 8900 Xiong Ya Li ",
         "review_keywords": [],
@@ -66,12 +68,12 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 700,
+        "reviews": 701,
         "competitors": [
             {
                 "name": "KFC Zalaegerszeg DT",
                 "link": "https://www.google.com/maps/search/KFC+Zalaegerszeg+DT/@46.843615199999995,16.8661861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2415,
+                "reviews": 2419,
                 "rating": 4.3,
                 "main_category": "Kuai Can "
             },
@@ -110,7 +112,10 @@
         ],
         "rating": 3.7,
         "workday_timing": "07:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Zalaegerszeg, McDonald's, Balatoni ut 5, 8900 Xiong Ya Li ",
         "review_keywords": [
@@ -220,7 +225,7 @@
             {
                 "name": "Fontana Kave es Csokibar",
                 "link": "https://www.google.com/maps/search/Fontana+K%C3%A1v%C3%A9+%C3%A9s+Csokib%C3%A1r/@46.8413691,16.846324199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
+                "reviews": 116,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -302,6 +307,8 @@
         "rating": 4.7,
         "workday_timing": "07:00-14:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 30 979 4192",
@@ -391,7 +398,7 @@
             {
                 "name": "Kavelabor",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9labor/@46.847286999999994,16.8439861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 584,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -449,14 +456,14 @@
             {
                 "name": "Gero Cukraszda",
                 "link": "https://www.google.com/maps/search/Ger%C5%91+Cukr%C3%A1szda/@46.8422893,16.8465022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 679,
+                "reviews": 680,
                 "rating": 4.3,
                 "main_category": "Fa Shi Gao Bing Dian "
             },
             {
                 "name": "Betty Cukraszda",
                 "link": "https://www.google.com/maps/search/Betty+Cukr%C3%A1szda/@46.843369599999996,16.849089499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 469,
+                "reviews": 470,
                 "rating": 4,
                 "main_category": "Xi Dian "
             },
@@ -513,21 +520,21 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@46.8430544,16.8607957?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3581,
+                "reviews": 3583,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@46.8459,16.86397?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2361,
+                "reviews": 2363,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
             {
                 "name": "Center store",
                 "link": "https://www.google.com/maps/search/Center+store/@46.8438315,16.8471434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 573,
+                "reviews": 574,
                 "rating": 4,
                 "main_category": "Gou Wu Zhong Xin "
             },
@@ -584,7 +591,7 @@
             {
                 "name": "Bro's Kebab & Pizza",
                 "link": "https://www.google.com/maps/search/Bro%27s+Kebab+%26+Pizza/@46.830940899999995,16.8275261?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 292,
+                "reviews": 297,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -630,26 +637,26 @@
         "name": "CONTRAST",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 279,
+        "reviews": 280,
         "competitors": [
             {
                 "name": "Vendiofa Etterem es Panzio",
                 "link": "https://www.google.com/maps/search/V%C3%A9ndi%C3%B3fa+%C3%89tterem+%C3%A9s+Panzi%C3%B3/@46.8466362,16.8356416?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 893,
+                "reviews": 895,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "O 'Connors Pub",
                 "link": "https://www.google.com/maps/search/O+%27Connors+Pub/@46.846686999999996,16.830814999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 680,
+                "reviews": 681,
                 "rating": 4.5,
                 "main_category": "Ai Er Lan Cai "
             },
             {
                 "name": "Feszek Bistro",
                 "link": "https://www.google.com/maps/search/F%C3%A9szek+Bistro/@46.84077,16.8459711?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 229,
+                "reviews": 230,
                 "rating": 4.8,
                 "main_category": "He Jia Jie Yi Liao Li "
             },
@@ -705,7 +712,7 @@
             {
                 "name": "Betty Cukraszda",
                 "link": "https://www.google.com/maps/search/Betty+Cukr%C3%A1szda/@46.843369599999996,16.849089499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 469,
+                "reviews": 470,
                 "rating": 4,
                 "main_category": "Xi Dian "
             },
@@ -745,7 +752,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 92 346 197",
         "address": "Zalaegerszeg, Eden Sutemenyhaz, Tuttossy Ferenc u. 20, 8900 Xiong Ya Li ",
         "review_keywords": [],
@@ -778,7 +788,7 @@
         "phone": "+36 92 350 018",
         "address": "Zalaegerszeg, Omnia Kavezo Nemzeti Dohanybolt Lottozo Zalaegerszeg, Szechenyi ter 4, 8900 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Omnia+K%C3%A1v%C3%A9z%C3%B3+Nemzeti+Doh%C3%A1nybolt+Lott%C3%B3z%C3%B3+Zalaegerszeg/data=!4m7!3m6!1s0x476928140ec6315b:0xec63b57496f2202a!8m2!3d46.8448073!4d16.8463555!16s%2Fg%2F11clwm26sf!19sChIJWzHGDhQoaUcRKiDylnS1Y-w?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Omnia+K%C3%A1v%C3%A9z%C3%B3+Nemzeti+Doh%C3%A1nybolt+Lott%C3%B3z%C3%B3+Zalaegerszeg/data=!4m7!3m6!1s0x476928140ec6315b:0xec63b57496f2202a!8m2!3d46.8448065!4d16.8463777!16s%2Fg%2F11clwm26sf!19sChIJWzHGDhQoaUcRKiDylnS1Y-w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJV3DzjiMoaUcRoCyTcKx9x6M",
@@ -846,7 +856,7 @@
             {
                 "name": "Vendiofa Etterem es Panzio",
                 "link": "https://www.google.com/maps/search/V%C3%A9ndi%C3%B3fa+%C3%89tterem+%C3%A9s+Panzi%C3%B3/@46.8466362,16.8356416?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 893,
+                "reviews": 895,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -860,7 +870,7 @@
             {
                 "name": "CONTRAST",
                 "link": "https://www.google.com/maps/search/CONTRAST/@46.8413245,16.842899199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 279,
+                "reviews": 280,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -907,14 +917,14 @@
             {
                 "name": "Gero Cukraszda",
                 "link": "https://www.google.com/maps/search/Ger%C5%91+Cukr%C3%A1szda/@46.8422893,16.8465022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 679,
+                "reviews": 680,
                 "rating": 4.3,
                 "main_category": "Fa Shi Gao Bing Dian "
             },
             {
                 "name": "Betty Cukraszda",
                 "link": "https://www.google.com/maps/search/Betty+Cukr%C3%A1szda/@46.843369599999996,16.849089499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 469,
+                "reviews": 470,
                 "rating": 4,
                 "main_category": "Xi Dian "
             },
@@ -995,7 +1005,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.facebook.com/profile.php%3Fid%3D576507015692825%26ref%3Dcontent_filter",
+        "website": "https://www.facebook.com/profile.php?id=576507015692825&ref=content_filter",
         "owner": {
             "id": null,
             "name": "Players (Ye Zhu )",
@@ -1021,7 +1031,7 @@
         "name": "Fontana Kave es Csokibar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 115,
+        "reviews": 116,
         "competitors": [
             {
                 "name": "Cafe Frei Zalaegerszeg",
@@ -1076,11 +1086,11 @@
         "name": "Partisan Kezmuves Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 112,
+        "reviews": 113,
         "competitors": [
             {
                 "name": "Korona Pekseg Suto- es Edesipari Kereskedelmi Kft.",
-                "link": "https://www.google.com/maps/search/Korona+P%C3%A9ks%C3%A9g+S%C3%BCt%C5%91-+%C3%A9s+%C3%89desipari+Kereskedelmi+Kft./@46.839003899999994,16.8435633?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Korona+P%C3%A9ks%C3%A9g+S%C3%BCt%C5%91-+%C3%A9s+%C3%89desipari+Kereskedelmi+Kft./@46.838971199999996,16.8433721?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 111,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
@@ -1088,8 +1098,8 @@
             {
                 "name": "Lipoti bakery",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+bakery/@46.8408345,16.8455923?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
-                "rating": 4.4,
+                "reviews": 108,
+                "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1140,7 +1150,7 @@
         "name": "Lipoti bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 109,
+        "reviews": 108,
         "competitors": [
             {
                 "name": "Lipoti Bakery",
@@ -1159,7 +1169,7 @@
             {
                 "name": "Zalaco Sutoipari Zrt- Kossuth utcai szakuzlet",
                 "link": "https://www.google.com/maps/search/Zalaco+S%C3%BCt%C5%91ipari+Zrt-+Kossuth+utcai+szak%C3%BCzlet/@46.83752,16.845542?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 45,
+                "reviews": 46,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1189,7 +1199,7 @@
         "categories": [
             "Mian Bao Xi Bing Dian "
         ],
-        "rating": 4.4,
+        "rating": 4.5,
         "workday_timing": "06:00-18:00",
         "closed_on": [
             "Xing Qi Ri "
@@ -1204,12 +1214,12 @@
         "name": "Zalaco Bakery Plc.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 102,
+        "reviews": 103,
         "competitors": [
             {
                 "name": "Zalaco Sutoipari Zrt- Kossuth utcai szakuzlet",
                 "link": "https://www.google.com/maps/search/Zalaco+S%C3%BCt%C5%91ipari+Zrt-+Kossuth+utcai+szak%C3%BCzlet/@46.83752,16.845542?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 45,
+                "reviews": 46,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1341,7 +1351,9 @@
         "rating": 4.8,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
         ],
         "phone": "+36 30 228 8019",
         "address": "Zalaegerszeg, Exkluziv Desszert, Zrinyi Miklos u. 9, 8900 Xiong Ya Li ",
@@ -1358,7 +1370,7 @@
             {
                 "name": "Zalaco Sutoipari Zrt- Kossuth utcai szakuzlet",
                 "link": "https://www.google.com/maps/search/Zalaco+S%C3%BCt%C5%91ipari+Zrt-+Kossuth+utcai+szak%C3%BCzlet/@46.83752,16.845542?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 45,
+                "reviews": 46,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1422,7 +1434,7 @@
             {
                 "name": "Zalaco Bakery Plc.",
                 "link": "https://www.google.com/maps/search/Zalaco+Bakery+Plc./@46.8559948,16.8480935?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 102,
+                "reviews": 103,
                 "rating": 4.1,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1477,68 +1489,6 @@
         "link": "https://www.google.com/maps/place/Zalaco+S%C3%BCt%C5%91ipari+Zrt-+Kossuth+utcai+szak%C3%BCzlet/data=!4m7!3m6!1s0x476929367a9624af:0x2dbd636d0df49ba4!8m2!3d46.83752!4d16.845542!16s%2Fg%2F11g3hgkqqz!19sChIJrySWejYpaUcRpJv0DW1jvS0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJoVjUmRMoaUcR0Gh-aoOlRbo",
-        "name": "Tom Market",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 46,
-        "competitors": [
-            {
-                "name": "HAT-22 Elelmiszer",
-                "link": "https://www.google.com/maps/search/HAT-22+%C3%89lelmiszer/@46.8417256,16.8512844?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Tom Market Zalaszentivan",
-                "link": "https://www.google.com/maps/search/Tom+Market+Zalaszentiv%C3%A1n/@46.8911156,16.8951548?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Kisbolt",
-                "link": "https://www.google.com/maps/search/Kisbolt/@46.8276512,16.8431551?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Tejbolt es tejivo",
-                "link": "https://www.google.com/maps/search/Tejbolt+%C3%A9s+tejiv%C3%B3/@46.8432313,16.8479818?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Tom Market Zalaegerszeg, Ady Endre u.",
-                "link": "https://www.google.com/maps/search/Tom+Market+Zalaegerszeg%2C+Ady+Endre+u./@46.836977,16.844478?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.8,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "http://www.tommarket.hu/",
-        "owner": {
-            "id": "114771435768211560930",
-            "name": "Tom Market (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114771435768211560930"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjgSvvSfbA4Ma3BSdTvur5GUHW0Eeh2KerIRVK=w408-h271-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "05:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Zalaegerszeg, Tom Market, Kovacs Karoly ter 4/a, 8900 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tom+Market/data=!4m7!3m6!1s0x4769281399d458a1:0xba45a5836a7e68d0!8m2!3d46.8448888!4d16.8484378!16s%2Fg%2F11c60nmhlj!19sChIJoVjUmRMoaUcR0Gh-aoOlRbo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJG7UNadApaUcR5KYQ9vA7kXc",
         "name": "Spajz Eco-Gourmet",
         "description": null,
@@ -1548,7 +1498,7 @@
             {
                 "name": "Kavelabor",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9labor/@46.847286999999994,16.8439861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 584,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1622,7 +1572,11 @@
         ],
         "rating": 4.8,
         "workday_timing": "11:30-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 202 3734",
         "address": "Zalaegerszeg, Gofrim Zalaegerszeg, Ady Endre u. 21, 8900 Xiong Ya Li ",
         "review_keywords": [],
@@ -1741,7 +1695,7 @@
             },
             {
                 "name": "Automata Bufe",
-                "link": "https://www.google.com/maps/search/Automata+B%C3%BCf%C3%A9/@46.8445167,16.846316599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Automata+B%C3%BCf%C3%A9/@46.844466,16.846355499999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Ka Pei Fan Mai Ji "
@@ -1763,6 +1717,9 @@
         "rating": 4.8,
         "workday_timing": "09:00-15:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Wu ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -1795,7 +1752,8 @@
         "rating": 4.8,
         "workday_timing": "06:30-13:30",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": null,
         "address": "Zalaegerszeg, Porteka, Piac ter 3, 8900 Xiong Ya Li ",
@@ -1812,8 +1770,8 @@
             {
                 "name": "Lipoti bakery",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+bakery/@46.8408345,16.8455923?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
-                "rating": 4.4,
+                "reviews": 108,
+                "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1884,7 +1842,7 @@
             {
                 "name": "Fontana Kave es Csokibar",
                 "link": "https://www.google.com/maps/search/Fontana+K%C3%A1v%C3%A9+%C3%A9s+Csokib%C3%A1r/@46.8413691,16.846324199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
+                "reviews": 116,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1952,7 +1910,7 @@
             },
             {
                 "name": "Automata Bufe",
-                "link": "https://www.google.com/maps/search/Automata+B%C3%BCf%C3%A9/@46.8445167,16.846316599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Automata+B%C3%BCf%C3%A9/@46.844466,16.846355499999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Ka Pei Fan Mai Ji "
@@ -1998,8 +1956,8 @@
             {
                 "name": "Lipoti bakery",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+bakery/@46.8408345,16.8455923?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
-                "rating": 4.4,
+                "reviews": 108,
+                "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -2214,6 +2172,68 @@
         "link": "https://www.google.com/maps/place/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4769296d6a0922e9:0xcb60a515a49fca10!8m2!3d46.8393675!4d16.8293185!16s%2Fg%2F11tfv_68lt!19sChIJ6SIJam0paUcREMqfpBWlYMs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ2SmhsWspaUcRvGIQJNS_LtQ",
+        "name": "Zalaco pekseg - piac",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Zalaco Pekseg",
+                "link": "https://www.google.com/maps/search/Zalaco+P%C3%A9ks%C3%A9g/@46.844466,16.8463554?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Kazinczy ter",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kazinczy+t%C3%A9r/@46.845390599999995,16.8449839?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Berzsenyi utca",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Berzsenyi+utca/@46.843471,16.847974000000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Kossuth utca 32.",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kossuth+utca+32./@46.840083199999995,16.8459099?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Biro Marton utca",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+B%C3%ADr%C3%B3+M%C3%A1rton+utca/@46.8407555,16.850679799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://www.zalaco.hu/",
+        "owner": {
+            "id": null,
+            "name": "Zalaco pekseg - piac (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EfkWB-EJ5_Dqx0zgtrm_hg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=73.19391&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-12:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 20 369 4355",
+        "address": "Zalaegerszeg, Zalaco pekseg - piac, Piac ter 6, 8900 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zalaco+p%C3%A9ks%C3%A9g+-+piac/data=!4m7!3m6!1s0x4769296bb1a129d9:0xd42ebfd4241062bc!8m2!3d46.8467127!4d16.8449871!16s%2Fg%2F11rhw04_yk!19sChIJ2SmhsWspaUcRvGIQJNS_LtQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ0UMmTH4paUcRxYeKZg19t4g",
         "name": "Zalaco Pekseg (Disz-ter)",
         "description": null,
@@ -2374,7 +2394,7 @@
             {
                 "name": "Kavelabor",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9labor/@46.847286999999994,16.8439861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 584,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2413,68 +2433,6 @@
         "link": "https://www.google.com/maps/place/Hazai+K%C3%A1v%C3%A9/data=!4m7!3m6!1s0x4769281223ae46f9:0x86c83ed8b6dda57!8m2!3d46.8397805!4d16.8506388!16s%2Fg%2F11hdy2073y!19sChIJ-UauIxIoaUcRV9pti-2DbAg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ2SmhsWspaUcRvGIQJNS_LtQ",
-        "name": "Zalaco pekseg - piac",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Zalaco Pekseg",
-                "link": "https://www.google.com/maps/search/Zalaco+P%C3%A9ks%C3%A9g/@46.844466,16.8463554?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Zalaco pekseg - Kazinczy ter",
-                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kazinczy+t%C3%A9r/@46.845390599999995,16.8449839?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Zalaco pekseg - Berzsenyi utca",
-                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Berzsenyi+utca/@46.843471,16.847974000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Zalaco pekseg - Kossuth utca 32.",
-                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kossuth+utca+32./@46.840083199999995,16.8459099?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Zalaco pekseg - Biro Marton utca",
-                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+B%C3%ADr%C3%B3+M%C3%A1rton+utca/@46.8407555,16.850679799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "http://www.zalaco.hu/",
-        "owner": {
-            "id": null,
-            "name": "Zalaco pekseg - piac (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EfkWB-EJ5_Dqx0zgtrm_hg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=92.09863&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": "06:00-12:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 369 4355",
-        "address": "Zalaegerszeg, Zalaco pekseg - piac, Piac ter 6, 8900 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Zalaco+p%C3%A9ks%C3%A9g+-+piac/data=!4m7!3m6!1s0x4769296bb1a129d9:0xd42ebfd4241062bc!8m2!3d46.8466523!4d16.8449869!16s%2Fg%2F11rhw04_yk!19sChIJ2SmhsWspaUcRvGIQJNS_LtQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJy0eMRhIoaUcRNLk-sZCfKkA",
         "name": "Joy Cafe",
         "description": null,
@@ -2491,7 +2449,7 @@
             {
                 "name": "Kavelabor",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9labor/@46.847286999999994,16.8439861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 584,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2539,14 +2497,14 @@
             {
                 "name": "Kavelabor",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9labor/@46.847286999999994,16.8439861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 584,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Fontana Kave es Csokibar",
                 "link": "https://www.google.com/maps/search/Fontana+K%C3%A1v%C3%A9+%C3%A9s+Csokib%C3%A1r/@46.8413691,16.846324199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
+                "reviews": 116,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2594,7 +2552,7 @@
             {
                 "name": "Kavelabor",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9labor/@46.847286999999994,16.8439861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 584,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2608,7 +2566,7 @@
             {
                 "name": "Fontana Kave es Csokibar",
                 "link": "https://www.google.com/maps/search/Fontana+K%C3%A1v%C3%A9+%C3%A9s+Csokib%C3%A1r/@46.8413691,16.846324199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
+                "reviews": 116,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -2717,7 +2675,7 @@
         "competitors": [
             {
                 "name": "Korona Pekseg Suto- es Edesipari Kereskedelmi Kft.",
-                "link": "https://www.google.com/maps/search/Korona+P%C3%A9ks%C3%A9g+S%C3%BCt%C5%91-+%C3%A9s+%C3%89desipari+Kereskedelmi+Kft./@46.839003899999994,16.8435633?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Korona+P%C3%A9ks%C3%A9g+S%C3%BCt%C5%91-+%C3%A9s+%C3%89desipari+Kereskedelmi+Kft./@46.838971199999996,16.8433721?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 111,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
@@ -2826,61 +2784,6 @@
         "link": "https://www.google.com/maps/place/Zs%C3%B3-Ka+Pressz%C3%B3/data=!4m7!3m6!1s0x4768d7e1bfc6a1b7:0x868f35bc82d91fcb!8m2!3d46.8287474!4d16.835467!16s%2Fg%2F11c2q3x325!19sChIJt6HGv-HXaEcRyx_Zgrw1j4Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJB9s-8YEpaUcRIx_oopMx_0E",
-        "name": "HAT-22 Elelmiszer",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 63,
-        "competitors": [
-            {
-                "name": "Tom Market",
-                "link": "https://www.google.com/maps/search/Tom+Market/@46.8448888,16.8484378?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "6-22 Elelmiszerbolt",
-                "link": "https://www.google.com/maps/search/6-22+%C3%89lelmiszerbolt/@46.8438896,16.8422029?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Zsuzsi ABC",
-                "link": "https://www.google.com/maps/search/Zsuzsi+ABC/@46.8297984,16.8475475?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.7,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Kisbolt",
-                "link": "https://www.google.com/maps/search/Kisbolt/@46.8276512,16.8431551?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "117906566025013741218",
-            "name": "HAT-22 Elelmiszer (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117906566025013741218"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcN8oInyZBuoqBZUZR6hm6r_vBiklGJRBB6MAF=w408-h544-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Zalaegerszeg, HAT-22 Elelmiszer, Biro Marton u. 24, 8900 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/HAT-22+%C3%89lelmiszer/data=!4m7!3m6!1s0x47692981f13edb07:0x41ff3193a2e81f23!8m2!3d46.8417256!4d16.8512844!16s%2Fg%2F11h07wy6l1!19sChIJB9s-8YEpaUcRIx_oopMx_0E?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJW5OqIBQoaUcRPO_O5TeiPLM",
         "name": "MANDALA Kavezo",
         "description": null,
@@ -2890,7 +2793,7 @@
             {
                 "name": "Kavelabor",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9labor/@46.847286999999994,16.8439861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 584,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -2918,7 +2821,7 @@
             {
                 "name": "Fontana Kave es Csokibar",
                 "link": "https://www.google.com/maps/search/Fontana+K%C3%A1v%C3%A9+%C3%A9s+Csokib%C3%A1r/@46.8413691,16.846324199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
+                "reviews": 116,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -2955,7 +2858,7 @@
             {
                 "name": "Gero Cukraszda",
                 "link": "https://www.google.com/maps/search/Ger%C5%91+Cukr%C3%A1szda/@46.8422893,16.8465022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 679,
+                "reviews": 680,
                 "rating": 4.3,
                 "main_category": "Fa Shi Gao Bing Dian "
             },
@@ -3006,7 +2909,7 @@
             {
                 "name": "Betty Cukraszda",
                 "link": "https://www.google.com/maps/search/Betty+Cukr%C3%A1szda/@46.843369599999996,16.849089499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 469,
+                "reviews": 470,
                 "rating": 4,
                 "main_category": "Xi Dian "
             },
@@ -3054,59 +2957,68 @@
         "link": "https://www.google.com/maps/place/%C3%89denkert/data=!4m7!3m6!1s0x4768d7566951150d:0x9d51c6ac02729e21!8m2!3d46.8285077!4d16.8334171!16s%2Fg%2F11h583vk6s!19sChIJDRVRaVbXaEcRIZ5yAqzGUZ0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJUVHsK-MpaUcRtxDb1UsM1qA",
-        "name": "6-22 Elelmiszerbolt",
+        "place_id": "ChIJJ2rEtVYpaUcRYjaIKxlq07k",
+        "name": "Zalaco Cipo Sarok Pekseg & Cukrazda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 22,
+        "reviews": 26,
         "competitors": [
             {
-                "name": "HAT-22 Elelmiszer",
-                "link": "https://www.google.com/maps/search/HAT-22+%C3%89lelmiszer/@46.8417256,16.8512844?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
+                "name": "Zalaco pekseg - Koztarsasag utja",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+K%C3%B6zt%C3%A1rsas%C3%A1g+%C3%BAtja/@46.8256267,16.830679399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 67,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
             },
             {
-                "name": "Coop Abc",
-                "link": "https://www.google.com/maps/search/Coop+Abc/@46.832794799999995,16.8471074?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Zsuzsi ABC",
-                "link": "https://www.google.com/maps/search/Zsuzsi+ABC/@46.8297984,16.8475475?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.7,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "207. Sz. Coop Super",
-                "link": "https://www.google.com/maps/search/207.+Sz.+Coop+Super/@46.844281599999995,16.8479357?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
+                "name": "Zalaco pekseg - Kazinczy ter",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kazinczy+t%C3%A9r/@46.845390599999995,16.8449839?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
                 "rating": 4,
-                "main_category": "Za Huo Dian "
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Berzsenyi utca",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Berzsenyi+utca/@46.843471,16.847974000000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Kossuth utca 32.",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kossuth+utca+32./@46.840083199999995,16.8459099?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Biro Marton utca",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+B%C3%ADr%C3%B3+M%C3%A1rton+utca/@46.8407555,16.850679799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": "106014195366093535225",
-            "name": "6-22 Elelmiszerbolt (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106014195366093535225"
+            "id": "102672042720912263035",
+            "name": "Zalaco Cipo Sarok Pekseg & Cukrazda (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102672042720912263035"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMla6OAV8UzrI_nrsW1pazI_gSbUXHPUstLNT8s=w408-h386-k-no",
-        "main_category": "Za Huo Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMonyvFfwgg1h4Evvcpoz7l73lqFAbaJwASYWac=w408-h408-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
         "categories": [
-            "Za Huo Dian "
+            "Mian Bao Xi Bing Dian "
         ],
         "rating": 4.5,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Zalaegerszeg, 6-22 Elelmiszerbolt, Sip u. 8, 8900 Xiong Ya Li ",
+        "workday_timing": "05:00-12:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 318 4051",
+        "address": "Zalaegerszeg, Zalaco Cipo Sarok Pekseg & Cukrazda, Andrashida u. 2, 8900 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/6-22+%C3%89lelmiszerbolt/data=!4m7!3m6!1s0x476929e32bec5151:0xa0d60c4bd5db10b7!8m2!3d46.8438896!4d16.8422029!16s%2Fg%2F11jfm4xdwh!19sChIJUVHsK-MpaUcRtxDb1UsM1qA?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Zalaco+Cip%C3%B3+Sarok+P%C3%A9ks%C3%A9g+%26+Cukr%C3%A1zda/data=!4m7!3m6!1s0x47692956b5c46a27:0xb9d36a192b883662!8m2!3d46.8616087!4d16.8004594!16s%2Fg%2F11ghs2kfzz!19sChIJJ2rEtVYpaUcRYjaIKxlq07k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJXTRPlBYoaUcRUrov4HpJZKo",
@@ -3162,6 +3074,47 @@
         "address": "Zalaegerszeg, Orgona Kavezo, Ady Endre u. 21, 8900 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Orgona+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47692816944f345d:0xaa64497ae02fba52!8m2!3d46.84276!4d16.843661!16s%2Fg%2F11bx9_s20h!19sChIJXTRPlBYoaUcRUrov4HpJZKo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJh5yBJhEoaUcRQQbi2DN9WZw",
+        "name": "N",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "competitors": [
+            {
+                "name": "Olasz Kremfagylalt",
+                "link": "https://www.google.com/maps/search/Olasz+Kr%C3%A9mfagylalt/@46.845585899999996,16.8457924?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 4.1,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Fagyizo",
+                "link": "https://www.google.com/maps/search/Fagyiz%C3%B3/@46.841422099999996,16.8462691?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 3.3,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "N (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMQDYU4N5Ch9iv_VQQY3sTjN4oqaV8LkiIW0WA-=w408-h725-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:30-20:30",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Zalaegerszeg, N, Kossuth Lajos u. 26, 8900 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/N/data=!4m7!3m6!1s0x4769281126819c87:0x9c597d33d8e20641!8m2!3d46.840581!4d16.8459721!16s%2Fg%2F11c1sjtm77!19sChIJh5yBJhEoaUcRQQbi2DN9WZw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJUwEFZhQoaUcRLp9yGOTJHjg",
@@ -3272,68 +3225,6 @@
         "address": "Zalaegerszeg, Pilota Club, 2, Koztarsasag utja 87 B, 8900 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Pil%C3%B3ta+Club/data=!4m7!3m6!1s0x4768d7e716e21ef1:0x3f0237208cdcbea8!8m2!3d46.8245359!4d16.8299784!16s%2Fg%2F11hd1pspnk!19sChIJ8R7iFufXaEcRqL7cjCA3Aj8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJNRlE2vspaUcRlRA3vat3ro4",
-        "name": "Fenyo Presszo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 14,
-        "competitors": [
-            {
-                "name": "Diszpinty Gasztro Bar",
-                "link": "https://www.google.com/maps/search/D%C3%ADszpinty+Gasztro+B%C3%A1r/@46.8417706,16.846394200000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 603,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Golf presszo",
-                "link": "https://www.google.com/maps/search/Golf+pressz%C3%B3/@46.83999540000001,16.8438014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 236,
-                "rating": 4.1,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Eva Presszo",
-                "link": "https://www.google.com/maps/search/%C3%89va+Pressz%C3%B3/@46.836943100000006,16.841153?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 189,
-                "rating": 4.4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Saloonzoo Bulvar",
-                "link": "https://www.google.com/maps/search/Saloonzoo+Bulv%C3%A1r/@46.8402086,16.8453311?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 110,
-                "rating": 4.8,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "KISPOTTYOS SOROZO ES LOTTOZO",
-                "link": "https://www.google.com/maps/search/KISP%C3%96TTY%C3%96S+S%C3%96R%C3%96Z%C5%90+%C3%88S+LOTT%C3%93Z%C3%93/@46.847890799999995,16.8271413?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 4.5,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Fenyo Presszo (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgZ5zLZ0hLWnm8ftDiPwp0a-TCZQxyPN2is7yK=w408-h544-k-no",
-        "main_category": "Jiu Ba ",
-        "categories": [
-            "Jiu Ba "
-        ],
-        "rating": 4.9,
-        "workday_timing": "12:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Zalaegerszeg, Fenyo Presszo, Sagodi ut 59, 8900 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Feny%C5%91+Pressz%C3%B3/data=!4m7!3m6!1s0x476929fbda441935:0x8eae77abbd371095!8m2!3d46.8705825!4d16.8248451!16s%2Fg%2F11rgg4rq1v!19sChIJNRlE2vspaUcRlRA3vat3ro4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJqQ5StDApaUcRpEWOloQK4kY",
@@ -3558,6 +3449,63 @@
         "link": "https://www.google.com/maps/place/Fagyiz%C3%B3/data=!4m7!3m6!1s0x476929066a032609:0x965fa816f9ff9ef8!8m2!3d46.8414221!4d16.8462691!16s%2Fg%2F11hj0n7tcx!19sChIJCSYDagYpaUcR-J7_-RaoX5Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJc7LgNpIpaUcRqORdhaan9Gg",
+        "name": "Zalaco pekseg - Berzsenyi utca",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [
+            {
+                "name": "Zalaco Pekseg",
+                "link": "https://www.google.com/maps/search/Zalaco+P%C3%A9ks%C3%A9g/@46.844466,16.8463554?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Kazinczy ter",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kazinczy+t%C3%A9r/@46.845390599999995,16.8449839?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Kossuth utca 32.",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kossuth+utca+32./@46.840083199999995,16.8459099?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Biro Marton utca",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+B%C3%ADr%C3%B3+M%C3%A1rton+utca/@46.8407555,16.850679799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zalaco pekseg - Berzsenyi utca (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BilQupozVFISP0xHf90mhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=22.576035&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "05:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 320 7038",
+        "address": "Zalaegerszeg, Zalaco pekseg - Berzsenyi utca, Berzsenyi Daniel u. 12, 8900 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zalaco+p%C3%A9ks%C3%A9g+-+Berzsenyi+utca/data=!4m7!3m6!1s0x4769299236e0b273:0x68f4a7a6855de4a8!8m2!3d46.843471!4d16.847974!16s%2Fg%2F11sfdjjx9y!19sChIJc7LgNpIpaUcRqORdhaan9Gg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJU8MhT9UpaUcRi5sZO4XUtqk",
         "name": "Press Cafe",
         "description": null,
@@ -3622,8 +3570,8 @@
             {
                 "name": "Lipoti bakery",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+bakery/@46.8408345,16.8455923?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
-                "rating": 4.4,
+                "reviews": 108,
+                "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -3675,6 +3623,120 @@
         "link": "https://www.google.com/maps/place/Partisan+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x476929ddbfe83399:0x9f18b4ce28b6cea4!8m2!3d46.8411574!4d16.8459943!16s%2Fg%2F11pw1t9x58!19sChIJmTPov90paUcRpM62KM60GJ8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJwxS-eNQpaUcRe8LbOUOPun0",
+        "name": "Zalaco pekseg - Kossuth utca 32.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Lipoti bakery",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+bakery/@46.8408345,16.8455923?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 108,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco Pekseg",
+                "link": "https://www.google.com/maps/search/Zalaco+P%C3%A9ks%C3%A9g/@46.844466,16.8463554?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Berzsenyi utca",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Berzsenyi+utca/@46.843471,16.847974000000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Biro Marton utca",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+B%C3%ADr%C3%B3+M%C3%A1rton+utca/@46.8407555,16.850679799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zalaco pekseg - Kossuth utca 32. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObEPlrcQBKNahbRHd9A5WPnTbdpQ6giC0q_nLX=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 369 4385",
+        "address": "Zalaegerszeg, Zalaco pekseg - Kossuth utca 32., Kossuth Lajos u. 32, 8900 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zalaco+p%C3%A9ks%C3%A9g+-+Kossuth+utca+32./data=!4m7!3m6!1s0x476929d478be14c3:0x7dba8f4339dbc27b!8m2!3d46.8400832!4d16.8459099!16s%2Fg%2F11pcrtqtb3!19sChIJwxS-eNQpaUcRe8LbOUOPun0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJlaQVoy4paUcRFh5t-h2LwtY",
+        "name": "Zalaco pekseg - Biro Marton utca",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Zalaco Pekseg",
+                "link": "https://www.google.com/maps/search/Zalaco+P%C3%A9ks%C3%A9g/@46.844466,16.8463554?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Kazinczy ter",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kazinczy+t%C3%A9r/@46.845390599999995,16.8449839?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Berzsenyi utca",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Berzsenyi+utca/@46.843471,16.847974000000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Zalaco pekseg - Kossuth utca 32.",
+                "link": "https://www.google.com/maps/search/Zalaco+p%C3%A9ks%C3%A9g+-+Kossuth+utca+32./@46.840083199999995,16.8459099?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zalaco pekseg - Biro Marton utca (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pdfaoIhwaViwwjnCKhxbbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=297.34167&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "05:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 369 4380",
+        "address": "Zalaegerszeg, Zalaco pekseg - Biro Marton utca, Biro Marton u. 37, 8900 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zalaco+p%C3%A9ks%C3%A9g+-+B%C3%ADr%C3%B3+M%C3%A1rton+utca/data=!4m7!3m6!1s0x4769292ea315a495:0xd6c28b1dfa6d1e16!8m2!3d46.8407555!4d16.8506798!16s%2Fg%2F11pcrsz0sw!19sChIJlaQVoy4paUcRFh5t-h2LwtY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ79FcnJMpaUcRgjAImxU0AfE",
         "name": "Bufe",
         "description": null,
@@ -3704,7 +3766,7 @@
             },
             {
                 "name": "Automata Bufe",
-                "link": "https://www.google.com/maps/search/Automata+B%C3%BCf%C3%A9/@46.8445167,16.846316599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Automata+B%C3%BCf%C3%A9/@46.844466,16.846355499999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Ka Pei Fan Mai Ji "
@@ -3840,6 +3902,61 @@
         "link": "https://www.google.com/maps/place/OXO+Bubble+Tea+Zalaegerszeg/data=!4m7!3m6!1s0x476929583e714c39:0xff4a4462b2ca3aa5!8m2!3d46.8472498!4d16.8520261!16s%2Fg%2F11tdnlv63s!19sChIJOUxxPlgpaUcRpTrKsmJESv8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJvaFqYcYpaUcRS70csNpHw4M",
+        "name": "Broadway Kave es Gofri",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Cafe Frei Zalaegerszeg",
+                "link": "https://www.google.com/maps/search/Cafe+Frei+Zalaegerszeg/@46.84583,16.840006?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 660,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Joy Cafe",
+                "link": "https://www.google.com/maps/search/Joy+Caf%C3%A9/@46.846713,16.8526596?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 224,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Fontana Kave es Csokibar",
+                "link": "https://www.google.com/maps/search/Fontana+K%C3%A1v%C3%A9+%C3%A9s+Csokib%C3%A1r/@46.8413691,16.846324199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 116,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Belvarosi Kavehaz es Sorbar",
+                "link": "https://www.google.com/maps/search/Belv%C3%A1rosi+K%C3%A1v%C3%A9h%C3%A1z+%C3%A9s+S%C3%B6rb%C3%A1r/@46.84313830000001,16.8457158?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Broadway Kave es Gofri (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WuJcq63JLXoP3uYlgBsixQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=280.63568&pitch=0&thumbfov=100",
+        "main_category": "Gou Er Ka Pei Guan ",
+        "categories": [
+            "Gou Er Ka Pei Guan "
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-17:30",
+        "closed_on": "Open All Days",
+        "phone": "+36 20 298 4712",
+        "address": "Zalaegerszeg, Broadway Kave es Gofri, Szechenyi ter 1, 8900 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Broadway+K%C3%A1v%C3%A9+%C3%A9s+Gofri/data=!4m7!3m6!1s0x476929c6616aa1bd:0x83c347dab01cbd4b!8m2!3d46.8446358!4d16.845725!16s%2Fg%2F11rhq1lhkc!19sChIJvaFqYcYpaUcRS70csNpHw4M?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJWWER1vApaUcRTEAnyDtItsY",
         "name": "Takaro kavezo",
         "description": null,
@@ -3849,7 +3966,7 @@
             {
                 "name": "Kavelabor",
                 "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9labor/@46.847286999999994,16.8439861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 583,
+                "reviews": 584,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -3952,7 +4069,7 @@
             {
                 "name": "Feszek Bistro",
                 "link": "https://www.google.com/maps/search/F%C3%A9szek+Bistro/@46.84077,16.8459711?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 229,
+                "reviews": 230,
                 "rating": 4.8,
                 "main_category": "He Jia Jie Yi Liao Li "
             },

@@ -9,14 +9,14 @@
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@48.222235100000006,20.280933299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1461,
+                "reviews": 1462,
                 "rating": 4.2,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@48.22067,20.279799999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1189,
+                "reviews": 1190,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -55,7 +55,10 @@
         ],
         "rating": 3.9,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Ozd, Tesco, Brassoi ut 3, 3600 Xiong Ya Li ",
         "review_keywords": [],
@@ -71,14 +74,14 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@48.224674199999995,20.2744064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1474,
+                "reviews": 1475,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@48.22067,20.279799999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1189,
+                "reviews": 1190,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -118,7 +121,10 @@
         ],
         "rating": 4.2,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 823 8296",
         "address": "Ozd, INTERSPAR Hipermarket, Sarli ut 4, 3600 Xiong Ya Li ",
         "review_keywords": [
@@ -134,19 +140,19 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1189,
+        "reviews": 1190,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@48.224674199999995,20.2744064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1474,
+                "reviews": 1475,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@48.222235100000006,20.280933299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1461,
+                "reviews": 1462,
                 "rating": 4.2,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -166,7 +172,7 @@
             },
             {
                 "name": "Elelmiszer Jellegu Vegyesuzlet",
-                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255507,20.2979947?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255579,20.2980081?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Za Huo Dian "
@@ -186,7 +192,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Ozd, Lidl, Sarli ut 2, 3600 Xiong Ya Li ",
         "review_keywords": [],
@@ -202,21 +212,21 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@48.224674199999995,20.2744064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1474,
+                "reviews": 1475,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@48.222235100000006,20.280933299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1461,
+                "reviews": 1462,
                 "rating": 4.2,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@48.22067,20.279799999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1189,
+                "reviews": 1190,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -265,21 +275,21 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@48.224674199999995,20.2744064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1474,
+                "reviews": 1475,
                 "rating": 3.9,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@48.222235100000006,20.280933299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1461,
+                "reviews": 1462,
                 "rating": 4.2,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@48.22067,20.279799999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1189,
+                "reviews": 1190,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -312,7 +322,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Ozd, ALDI, Jaszi Oszkar u. 4, 3600 Xiong Ya Li ",
         "review_keywords": [],
@@ -323,7 +336,7 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 472,
+        "reviews": 474,
         "competitors": [
             {
                 "name": "Vadvirag kisvendeglo",
@@ -367,7 +380,10 @@
         ],
         "rating": 3.5,
         "workday_timing": "07:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Ozd, McDonald's, Kohasz u. 2, 3600 Xiong Ya Li ",
         "review_keywords": [],
@@ -383,14 +399,14 @@
             {
                 "name": "aCapella Etterem",
                 "link": "https://www.google.com/maps/search/aCapella+%C3%89tterem/@48.218976,20.280587699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 639,
+                "reviews": 640,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "McDonald's",
                 "link": "https://www.google.com/maps/search/McDonald%27s/@48.2201433,20.2824515?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 472,
+                "reviews": 474,
                 "rating": 3.5,
                 "main_category": "Kuai Can "
             },
@@ -445,7 +461,7 @@
         "competitors": [
             {
                 "name": "LAM ABC",
-                "link": "https://www.google.com/maps/search/LAM+ABC/@48.211897699999994,20.266327999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/LAM+ABC/@48.2118858,20.2663406?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 25,
                 "rating": 3.6,
                 "main_category": "Za Huo Dian "
@@ -576,7 +592,7 @@
             },
             {
                 "name": "Elelmiszer Jellegu Vegyesuzlet",
-                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255507,20.2979947?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255579,20.2980081?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Za Huo Dian "
@@ -721,12 +737,14 @@
         "rating": 4.5,
         "workday_timing": "06:00-16:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 20 384 6699",
         "address": "Ozd, Fornetti Mini Pekseg, Csepany ut 88, 3661 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Fornetti+Mini+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x473f80a9f6d3c251:0x9f78b170f13a3af4!8m2!3d48.2082006!4d20.2646046!16s%2Fg%2F11b6gspz0g!19sChIJUcLT9qmAP0cR9Do68XCxeJ8?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Fornetti+Mini+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x473f80a9f6d3c251:0x9f78b170f13a3af4!8m2!3d48.2081951!4d20.26466!16s%2Fg%2F11b6gspz0g!19sChIJUcLT9qmAP0cR9Do68XCxeJ8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJHe_sx0yHP0cRrPo7z3MJHhM",
@@ -1046,7 +1064,7 @@
         "is_spending_on_ads": false,
         "reviews": 1,
         "competitors": [],
-        "website": "https://www.facebook.com/profile.php?id=100088786632818",
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100088786632818",
         "owner": {
             "id": "107194019516703225878",
             "name": "Vivien vegyesbolt (Ye Zhu )",
@@ -1072,7 +1090,7 @@
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [],
-        "website": "https://m.facebook.com/Nemzeti-Doh%C3%A1nybolt-%C3%B3zdi-Tesco-mellett-100851465517300/",
+        "website": "https://m.facebook.com/Nemzeti-Doh%25C3%25A1nybolt-%25C3%25B3zdi-Tesco-mellett-100851465517300/",
         "owner": {
             "id": null,
             "name": "Nemzeti Dohanybolt (Ye Zhu )",
@@ -1208,7 +1226,7 @@
         "name": "Siki Pekseg Mintaboltja",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 56,
+        "reviews": 57,
         "competitors": [
             {
                 "name": "Likaj Pekseg",
@@ -1671,130 +1689,6 @@
         "link": "https://www.google.com/maps/place/B%C3%BCkk+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x473f874cea48be81:0x312efd13952fad0b!8m2!3d48.2215299!4d20.2642501!16s%2Fg%2F11bxg35y2f!19sChIJgb5I6kyHP0cRC60vlRP9LjE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJV9G0wa2AP0cRzK1KF8nCqak",
-        "name": "Kazincbarcikai Sutoipari Zrt.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 10,
-        "competitors": [
-            {
-                "name": "Likaj Pekseg",
-                "link": "https://www.google.com/maps/search/Likaj+P%C3%A9ks%C3%A9g/@48.220116,20.278155299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 286,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Bajnok Cukraszati es Kereskedelmi Kft.",
-                "link": "https://www.google.com/maps/search/Bajnok+Cukr%C3%A1szati+%C3%A9s+Kereskedelmi+Kft./@48.2255507,20.2979947?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
-                "rating": 4.1,
-                "main_category": "Tang Guo Gao Bing Pi Fa Shang "
-            },
-            {
-                "name": "Rina Pekseg",
-                "link": "https://www.google.com/maps/search/Rina+P%C3%A9ks%C3%A9g/@48.2191986,20.2799969?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 3.7,
-                "main_category": "Shi Pin Sheng Chan Shang "
-            },
-            {
-                "name": "KENYERVARAZS Sutoipari Kft.",
-                "link": "https://www.google.com/maps/search/KENY%C3%89RVAR%C3%81ZS+S%C3%BCt%C5%91ipari+Kft./@48.2157473,20.2680459?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 5,
-                "main_category": "Mian Bao Pi Fa Shang "
-            },
-            {
-                "name": "Siki Sutoipari Kft.",
-                "link": "https://www.google.com/maps/search/Siki+S%C3%BCt%C5%91ipari+Kft./@48.21874580000001,20.275074?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Kazincbarcikai Sutoipari Zrt. (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZkbU46f3UvUVeOzaczcKsA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=339.70074&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 48 473 144",
-        "address": "Ozd, Kazincbarcikai Sutoipari Zrt., Zrinyi Miklos ut 36, 3600 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Kazincbarcikai+S%C3%BCt%C5%91ipari+Zrt./data=!4m7!3m6!1s0x473f80adc1b4d157:0xa9a9c2c9174aadcc!8m2!3d48.2157473!4d20.2680459!16s%2Fg%2F11bxg5t9f7!19sChIJV9G0wa2AP0cRzK1KF8nCqak?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJWyANsNaAP0cRFn4iqEBle7k",
-        "name": "Szenna-Mar-Ker Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 10,
-        "competitors": [
-            {
-                "name": "COOP ABC",
-                "link": "https://www.google.com/maps/search/COOP+ABC/@48.2289433,20.3151471?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
-                "rating": 3.9,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Szaniszlo-Auto Kft.",
-                "link": "https://www.google.com/maps/search/Szaniszl%C3%B3-Aut%C3%B3+Kft./@48.240483499999996,20.3236314?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.8,
-                "main_category": "Qi Che Jing Xiao Shang "
-            },
-            {
-                "name": "Elelmiszer Uzlet",
-                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+%C3%9Czlet/@48.2283662,20.311789599999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Szaniszlo-Auto Kft. F. A.",
-                "link": "https://www.google.com/maps/search/Szaniszl%C3%B3-Aut%C3%B3+Kft.+F.+A./@48.2164997,20.281765800000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Qi Che Jing Xiao Shang "
-            },
-            {
-                "name": "Ozd (Szenna), fuszerbolt",
-                "link": "https://www.google.com/maps/search/%C3%93zd+%28Szenna%29%2C+f%C5%B1szerbolt/@48.240429999999996,20.289139?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Gong Che Zhan "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "109691559120824172846",
-            "name": "Szenna-Mar-Ker Kft. (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109691559120824172846"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k-sJdJT0zVuwSKVuoHTpFw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=207.94426&pitch=0&thumbfov=100",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 3.4,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 30 445 0447",
-        "address": "Ozd, Szenna-Mar-Ker Kft., Damjanich ut 173, 3600 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Szenna-Mar-Ker+Kft./data=!4m7!3m6!1s0x473f80d6b00d205b:0xb97b6540a8227e16!8m2!3d48.2402828!4d20.2890947!16s%2Fg%2F11cn8t9_gf!19sChIJWyANsNaAP0cRFn4iqEBle7k?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJb13P0raAP0cR0hjtVBi53cU",
         "name": "Coffee Sunsolar",
         "description": null,
@@ -2048,7 +1942,7 @@
             },
             {
                 "name": "Elelmiszer Jellegu Vegyesuzlet",
-                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255507,20.2979947?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255579,20.2980081?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Za Huo Dian "
@@ -2082,7 +1976,7 @@
         "competitors": [
             {
                 "name": "COOP ABC",
-                "link": "https://www.google.com/maps/search/COOP+ABC/@48.2289433,20.3151471?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/COOP+ABC/@48.2289633,20.3152063?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 60,
                 "rating": 3.9,
                 "main_category": "Za Huo Dian "
@@ -2103,7 +1997,7 @@
             },
             {
                 "name": "Elelmiszer Jellegu Vegyesuzlet",
-                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255507,20.2979947?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255579,20.2980081?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Za Huo Dian "
@@ -2175,6 +2069,130 @@
         "address": "Ozd, Velence Sziget, Petofi Sandor ut 37, 3600 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Velence+Sziget/data=!4m7!3m6!1s0x473f8147e82bdd5b:0x981c595785f6ffd6!8m2!3d48.2244915!4d20.2943136!16s%2Fg%2F11hdngc1w3!19sChIJW90r6EeBP0cR1v_2hVdZHJg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJrQbU5RmBP0cRsv2wL6IHow4",
+        "name": "Drotos Elelmiszee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Lidl",
+                "link": "https://www.google.com/maps/search/Lidl/@48.22067,20.279799999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1190,
+                "rating": 4.4,
+                "main_category": "Ping Jia Chao Ji Shi Chang "
+            },
+            {
+                "name": "Real Elelmiszer",
+                "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%89lelmiszer/@48.2194623,20.2825059?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 136,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Scitec Nutrition - Ozd",
+                "link": "https://www.google.com/maps/search/Scitec+Nutrition+-+%C3%93zd/@48.2212835,20.279404800000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 5,
+                "main_category": "Wei Ta Ming Yu Ying Yang Bu Chong Pin Dian "
+            },
+            {
+                "name": "BiotechUsa Ozd",
+                "link": "https://www.google.com/maps/search/BiotechUsa+%C3%93zd/@48.219087099999996,20.2830447?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Elelmiszer Jellegu Vegyesuzlet",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/@48.2255579,20.2980081?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Drotos Elelmiszee (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iTteS8wEiJoFdsCPPnfvqw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=120.61894&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Ozd, Drotos Elelmiszee, Petofi Sandor ut 101, 3600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dr%C3%B3tos+%C3%89lelmiszee/data=!4m7!3m6!1s0x473f8119e5d406ad:0xea307a22fb0fdb2!8m2!3d48.2264942!4d20.2882239!16s%2Fg%2F11j6zlhw5c!19sChIJrQbU5RmBP0cRsv2wL6IHow4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJvzjxuMGAP0cRrXmDoFpxYsU",
+        "name": "Elelmiszer Jellegu Vegyesuzlet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "COOP ABC",
+                "link": "https://www.google.com/maps/search/COOP+ABC/@48.222783299999996,20.2645417?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 135,
+                "rating": 3.9,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Zoldseg-Gyumolcs",
+                "link": "https://www.google.com/maps/search/Z%C3%B6lds%C3%A9g-Gy%C3%BCm%C3%B6lcs/@48.2223673,20.2653283?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Shu Guo Dian "
+            },
+            {
+                "name": "Nasi Csemege",
+                "link": "https://www.google.com/maps/search/Nasi+Csemege/@48.2223046,20.2681698?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Sarki Kisbolt",
+                "link": "https://www.google.com/maps/search/Sarki+Kisbolt/@48.214152,20.295229199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Bian Li Dian "
+            },
+            {
+                "name": "Elelmiszer Uzlet",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszer+%C3%9Czlet/@48.2283662,20.311789599999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Elelmiszer Jellegu Vegyesuzlet (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ev7UrMjzKX6B5OAny9Xg8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=355.59763&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 48 478 091",
+        "address": "Ozd, Elelmiszer Jellegu Vegyesuzlet, Koalja ut 2, 3600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C3%89lelmiszer+Jelleg%C5%B1+Vegyes%C3%BCzlet/data=!4m7!3m6!1s0x473f80c1b8f138bf:0xc562715aa08379ad!8m2!3d48.2255579!4d20.2980081!16s%2Fg%2F1tj7v4mr!19sChIJvzjxuMGAP0cRrXmDoFpxYsU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJuVqhPrmAP0cRYW50nSpjDDY",

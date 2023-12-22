@@ -48,7 +48,7 @@
             "name": "100 Hundred Year Old Confectionary (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/112760206561163913990"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-csSxKwys42g9BPbJCaWdRDgDT5VGcYkoR2wN=w408-h544-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6EU-3Liz08Q8MiHLn-wsBZYXHMTPFdDlrwvuO=w408-h906-k-no",
         "main_category": "Tang Guo Gao Bing Dian ",
         "categories": [
             "Tang Guo Gao Bing Dian ",
@@ -56,7 +56,7 @@
             "Xue Gao Dian "
         ],
         "rating": 4.6,
-        "workday_timing": null,
+        "workday_timing": "10:00-20:00",
         "closed_on": "Open All Days",
         "phone": "+36 66 362 045",
         "address": "Gyula, 100 Hundred Year Old Confectionary, Erkel ter 1, 5700 Xiong Ya Li ",
@@ -105,15 +105,15 @@
         "competitors": [
             {
                 "name": "TESCO Bekescsaba Hipermarket",
-                "link": "https://www.google.com/maps/search/TESCO+B%C3%A9k%C3%A9scsaba+Hipermarket/@46.68168,21.07226?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4475,
+                "link": "https://www.google.com/maps/search/TESCO+B%C3%A9k%C3%A9scsaba+Hipermarket/@46.6807904,21.07435?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4476,
                 "rating": 4,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@46.6395233,21.2620754?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2160,
+                "reviews": 2162,
                 "rating": 4.5,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -152,7 +152,10 @@
         ],
         "rating": 4.1,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Gyula, TESCO Gyula Hipermarket, Csabai ut 3, 5700 Xiong Ya Li ",
         "review_keywords": [
@@ -232,19 +235,19 @@
         "name": "INTERSPAR Hipermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2161,
+        "reviews": 2162,
         "competitors": [
             {
                 "name": "TESCO Gyula Hipermarket",
                 "link": "https://www.google.com/maps/search/TESCO+Gyula+Hipermarket/@46.64181,21.25977?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2759,
+                "reviews": 2760,
                 "rating": 4.1,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "PENNY Gyula",
                 "link": "https://www.google.com/maps/search/PENNY+Gyula/@46.6406776,21.2649477?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1031,
+                "reviews": 1032,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -284,7 +287,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 823 8276",
         "address": "Gyula, INTERSPAR Hipermarket, Ketegyhazi ut 1, 5700 Xiong Ya Li ",
         "review_keywords": [],
@@ -295,26 +301,26 @@
         "name": "Geza's Kitchen",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1609,
+        "reviews": 1610,
         "competitors": [
             {
                 "name": "Beer Cellar Restaurant Gyula",
                 "link": "https://www.google.com/maps/search/Beer+Cellar+Restaurant+Gyula/@46.6440245,21.2722399?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2858,
+                "reviews": 2862,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Family restaurant",
                 "link": "https://www.google.com/maps/search/Family+restaurant/@46.644635,21.280355999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1814,
+                "reviews": 1815,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Gusto",
                 "link": "https://www.google.com/maps/search/Gusto/@46.6450628,21.2759954?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1242,
+                "reviews": 1243,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -339,7 +345,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "11:30-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 379 8282",
         "address": "Gyula, Geza's Kitchen, Kossuth Lajos ter 3, 5700 Xiong Ya Li ",
         "review_keywords": [
@@ -375,12 +384,12 @@
         "name": "PENNY Gyula",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1031,
+        "reviews": 1032,
         "competitors": [
             {
                 "name": "TESCO Gyula Hipermarket",
                 "link": "https://www.google.com/maps/search/TESCO+Gyula+Hipermarket/@46.64181,21.25977?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2759,
+                "reviews": 2760,
                 "rating": 4.1,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -394,7 +403,7 @@
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@46.6395233,21.2620754?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2160,
+                "reviews": 2162,
                 "rating": 4.5,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -443,7 +452,7 @@
             {
                 "name": "TESCO Gyula Hipermarket",
                 "link": "https://www.google.com/maps/search/TESCO+Gyula+Hipermarket/@46.64181,21.25977?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2759,
+                "reviews": 2760,
                 "rating": 4.1,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -457,7 +466,7 @@
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@46.6395233,21.2620754?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2160,
+                "reviews": 2162,
                 "rating": 4.5,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -490,7 +499,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Gyula, ALDI, Bicere u. 15/A, 5700 Xiong Ya Li ",
         "review_keywords": [],
@@ -501,12 +513,12 @@
         "name": "Black Sheep Kavezo & Konyha Gyula",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 995,
+        "reviews": 998,
         "competitors": [
             {
                 "name": "Manuel Caffe",
                 "link": "https://www.google.com/maps/search/Manuel+Caff%C3%A9/@46.6442732,21.2733577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -565,6 +577,10 @@
                 "count": 6
             },
             {
+                "keyword": "Han Bao ",
+                "count": 4
+            },
+            {
                 "keyword": "Zhuo ",
                 "count": 3
             },
@@ -592,7 +608,7 @@
             {
                 "name": "Best Shop Uzletlanc, Bekescsaba",
                 "link": "https://www.google.com/maps/search/Best+Shop+%C3%9Czletl%C3%A1nc%2C+B%C3%A9k%C3%A9scsaba/@46.678106199999995,21.0943611?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 110,
+                "reviews": 111,
                 "rating": 4.6,
                 "main_category": "Za Huo Dian "
             },
@@ -708,7 +724,7 @@
         "name": "Coop Szuper Plusz",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 296,
+        "reviews": 297,
         "competitors": [
             {
                 "name": "Buszpalyaudvari Non-Stop",
@@ -775,7 +791,7 @@
             {
                 "name": "Black Sheep Kavezo & Konyha Gyula",
                 "link": "https://www.google.com/maps/search/Black+Sheep+K%C3%A1v%C3%A9z%C3%B3+%26+Konyha+Gyula/@46.6453363,21.275858799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 997,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -789,7 +805,7 @@
             {
                 "name": "Manuel Caffe",
                 "link": "https://www.google.com/maps/search/Manuel+Caff%C3%A9/@46.6442732,21.2733577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -917,12 +933,12 @@
         "name": "JANKER Ital, Elelmiszer es Vegyiaru Gyula",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 128,
+        "reviews": 129,
         "competitors": [
             {
                 "name": "JANKER Ital, Elelmiszer es Vegyiaru Bekescsaba",
                 "link": "https://www.google.com/maps/search/JANKER+Ital%2C+%C3%89lelmiszer+%C3%A9s+Vegyi%C3%A1ru+B%C3%A9k%C3%A9scsaba/@46.6677758,21.088594999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 590,
+                "reviews": 591,
                 "rating": 4.6,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -963,7 +979,10 @@
         ],
         "rating": 4.8,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 346 6792",
         "address": "Gyula, JANKER Ital, Elelmiszer es Vegyiaru Gyula, Vasarhelyi Pal u. 2, 5700 Xiong Ya Li ",
         "review_keywords": [],
@@ -986,7 +1005,7 @@
             {
                 "name": "Manuel Caffe",
                 "link": "https://www.google.com/maps/search/Manuel+Caff%C3%A9/@46.6442732,21.2733577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1007,7 +1026,7 @@
             {
                 "name": "Edes Keseru Csokibolt",
                 "link": "https://www.google.com/maps/search/%C3%89des+Keser%C5%B1+Csokibolt/@46.6450982,21.2742509?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
+                "reviews": 19,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             }
@@ -1225,14 +1244,14 @@
             {
                 "name": "Black Sheep Kavezo & Konyha Gyula",
                 "link": "https://www.google.com/maps/search/Black+Sheep+K%C3%A1v%C3%A9z%C3%B3+%26+Konyha+Gyula/@46.6453363,21.275858799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 997,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Manuel Caffe",
                 "link": "https://www.google.com/maps/search/Manuel+Caff%C3%A9/@46.6442732,21.2733577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1377,14 +1396,14 @@
             {
                 "name": "Black Sheep Kavezo & Konyha Gyula",
                 "link": "https://www.google.com/maps/search/Black+Sheep+K%C3%A1v%C3%A9z%C3%B3+%26+Konyha+Gyula/@46.6453363,21.275858799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 997,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Manuel Caffe",
                 "link": "https://www.google.com/maps/search/Manuel+Caff%C3%A9/@46.6442732,21.2733577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1462,9 +1481,9 @@
         "name": "Gyulai Pekmuhely",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 22,
+        "reviews": 23,
         "competitors": [],
-        "website": "https://www.facebook.com/profile.php%3Fid%3D100093613478138",
+        "website": "https://www.facebook.com/profile.php?id=100093613478138",
         "owner": {
             "id": "117367989586105810306",
             "name": "Gyulai Pekmuhely (Ye Zhu )",
@@ -1477,7 +1496,9 @@
         ],
         "rating": 4.9,
         "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 70 457 5711",
         "address": "Gyula, Gyulai Pekmuhely, Kossuth Lajos u. 4, 5700 Xiong Ya Li ",
         "review_keywords": [],
@@ -1488,12 +1509,12 @@
         "name": "Bortaneten",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 18,
+        "reviews": 19,
         "competitors": [
             {
                 "name": "JANKER Ital, Elelmiszer es Vegyiaru Gyula",
                 "link": "https://www.google.com/maps/search/JANKER+Ital%2C+%C3%89lelmiszer+%C3%A9s+Vegyi%C3%A1ru+Gyula/@46.6425124,21.2730919?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
+                "reviews": 129,
                 "rating": 4.8,
                 "main_category": "Jiu Pin Dian "
             },
@@ -1569,6 +1590,54 @@
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Gyula/data=!4m7!3m6!1s0x4745d69879d9f3ed:0x2c5b15790cd8cda9!8m2!3d46.6456197!4d21.2776859!16s%2Fg%2F11bwys7gs1!19sChIJ7fPZeZjWRUcRqc3YDHkVWyw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJKXPs7_zXRUcRTMYBTdfpb3c",
+        "name": "Glutenmentes webaruhaz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "BioTechUSA Gyula",
+                "link": "https://www.google.com/maps/search/BioTechUSA+Gyula/@46.645367199999995,21.274325899999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 154,
+                "rating": 5,
+                "main_category": "Wei Ta Ming Yu Ying Yang Bu Chong Pin Dian "
+            },
+            {
+                "name": "Munka es Tuzvedelmi Szakuzlet",
+                "link": "https://www.google.com/maps/search/Munka+%C3%A9s+T%C5%B1zv%C3%A9delmi+Szak%C3%BCzlet/@46.645316199999996,21.2716748?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 15,
+                "rating": 4.9,
+                "main_category": "Gong Fu Dian "
+            },
+            {
+                "name": "Gyogynoveny Szakuzlet",
+                "link": "https://www.google.com/maps/search/Gy%C3%B3gyn%C3%B6v%C3%A9ny+Szak%C3%BCzlet/@46.640534,21.270115?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Wei Ta Ming Yu Ying Yang Bu Chong Pin Dian "
+            }
+        ],
+        "website": "http://www.glutenmentes.net/",
+        "owner": {
+            "id": "116808780004194190510",
+            "name": "Glutenmentes webaruhaz (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116808780004194190510"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNixqxjp_TZl8J1STOfMmUIqxFV50Lkmyc93uj5=w859-h240-k-no",
+        "main_category": "Bai Huo Gong Si ",
+        "categories": [
+            "Bai Huo Gong Si "
+        ],
+        "rating": 5,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": "+36 30 265 6064",
+        "address": "Gyula, Glutenmentes webaruhaz, Jokai Mor u. 28/B, 5700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Glut%C3%A9nmentes+web%C3%A1ruh%C3%A1z/data=!4m7!3m6!1s0x4745d7fcefec7329:0x776fe9d74d01c64c!8m2!3d46.6464219!4d21.2682612!16s%2Fg%2F11mwc00dkd!19sChIJKXPs7_zXRUcRTMYBTdfpb3c?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJowGVnqLWRUcREDso5eH0w5I",
         "name": "Bols Cafe",
         "description": null,
@@ -1578,7 +1647,7 @@
             {
                 "name": "Gusto",
                 "link": "https://www.google.com/maps/search/Gusto/@46.6450628,21.2759954?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1242,
+                "reviews": 1243,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1592,7 +1661,7 @@
             {
                 "name": "Venezia Pizzeria",
                 "link": "https://www.google.com/maps/search/Venezia+Pizz%C3%A9ria/@46.646433099999996,21.2703444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 371,
+                "reviews": 372,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -1757,12 +1826,12 @@
         "name": "Manuel Caffe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 297,
+        "reviews": 298,
         "competitors": [
             {
                 "name": "Black Sheep Kavezo & Konyha Gyula",
                 "link": "https://www.google.com/maps/search/Black+Sheep+K%C3%A1v%C3%A9z%C3%B3+%26+Konyha+Gyula/@46.6453363,21.275858799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 997,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2361,12 +2430,19 @@
         "name": "Edes Keseru Csokibolt",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 18,
+        "reviews": 19,
         "competitors": [
+            {
+                "name": "100 Hundred Year Old Confectionary",
+                "link": "https://www.google.com/maps/search/100+Hundred+Year+Old+Confectionary/@46.6463708,21.2742678?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7312,
+                "rating": 4.6,
+                "main_category": "Tang Guo Gao Bing Dian "
+            },
             {
                 "name": "Black Sheep Kavezo & Konyha Gyula",
                 "link": "https://www.google.com/maps/search/Black+Sheep+K%C3%A1v%C3%A9z%C3%B3+%26+Konyha+Gyula/@46.6453363,21.275858799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 997,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2533,7 +2609,7 @@
             {
                 "name": "Black Sheep Kavezo & Konyha Gyula",
                 "link": "https://www.google.com/maps/search/Black+Sheep+K%C3%A1v%C3%A9z%C3%B3+%26+Konyha+Gyula/@46.6453363,21.275858799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 994,
+                "reviews": 997,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2547,7 +2623,7 @@
             {
                 "name": "Manuel Caffe",
                 "link": "https://www.google.com/maps/search/Manuel+Caff%C3%A9/@46.6442732,21.2733577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 297,
+                "reviews": 298,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2561,7 +2637,7 @@
             {
                 "name": "Edes Keseru Csokibolt",
                 "link": "https://www.google.com/maps/search/%C3%89des+Keser%C5%B1+Csokibolt/@46.6450982,21.2742509?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
+                "reviews": 19,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             }
@@ -2584,32 +2660,6 @@
         "address": "Gyula, Odds Caffe, Ketegyhazi ut 1, 5700 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Odds+Caff%C3%A9/data=!4m7!3m6!1s0x4745d6a792e120ed:0x4d1b2d72bc25e9e3!8m2!3d46.6399224!4d21.2622822!16s%2Fg%2F11bv39_1xh!19sChIJ7SDhkqfWRUcR4-klvHItG00?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ82jU0lrXRUcRM5znYIR6EB8",
-        "name": "Dohanybolt",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Dohanybolt (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxH1P3e3DNLzaA354sO7W4cHrnNUMzunvBLOI4=w493-h240-k-no",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Gyula, Dohanybolt, Honved u. 8, 5700 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Doh%C3%A1nybolt/data=!4m7!3m6!1s0x4745d75ad2d468f3:0x1f107a8460e79c33!8m2!3d46.6411905!4d21.2702511!16s%2Fg%2F11k4m8qm_q!19sChIJ82jU0lrXRUcRM5znYIR6EB8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJpzeCn6LWRUcRYFKj5hF8sxU",
@@ -2725,5 +2775,67 @@
         "address": "Gyula, Ujkigyosi Sutoipari bt. Uzlete, Honved u. 6, 5700 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/%C3%9Ajk%C3%ADgy%C3%B3si+S%C3%BCt%C5%91ipari+bt.+%C3%9Czlete/data=!4m7!3m6!1s0x4745d6a6a8601159:0x90e3a9d2313b062e!8m2!3d46.6414388!4d21.269312!16s%2Fg%2F11c3v6zqcj!19sChIJWRFgqKbWRUcRLgY7MdKp45A?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJbW_odKfWRUcRovvf7CGJmu4",
+        "name": "Select",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Best Shop",
+                "link": "https://www.google.com/maps/search/Best+Shop/@46.645364900000004,21.2751385?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 385,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "SzuperMarket, Real-Elesker Kft.",
+                "link": "https://www.google.com/maps/search/SzuperMarket%2C+Re%C3%A1l-%C3%89l%C3%A9sker+Kft./@46.643591,21.2695842?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 360,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Real elelmiszerbolt",
+                "link": "https://www.google.com/maps/search/Re%C3%A1l+%C3%A9lelmiszerbolt/@46.6392829,21.2764418?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 62,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Elesker Kft.",
+                "link": "https://www.google.com/maps/search/%C3%89l%C3%A9sker+Kft./@46.641509799999994,21.2691843?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Csabai Szalami Kft.",
+                "link": "https://www.google.com/maps/search/Csabai+Szal%C3%A1mi+Kft./@46.640317,21.2697243?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 3.8,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Select (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5O6MR_x5TC3p69H1u1WR-w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=207.02496&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": null,
+        "workday_timing": "06:30-20:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Gyula, Select, Vertanuk utja, 5700 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Select/data=!4m7!3m6!1s0x4745d6a774e86f6d:0xee9a8921ecdffba2!8m2!3d46.6408488!4d21.2633052!16s%2Fg%2F11g4bd8kkr!19sChIJbW_odKfWRUcRovvf7CGJmu4?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

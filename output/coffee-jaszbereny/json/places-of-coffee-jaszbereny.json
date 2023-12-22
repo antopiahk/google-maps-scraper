@@ -4,12 +4,12 @@
         "name": "Tesco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2855,
+        "reviews": 2857,
         "competitors": [
             {
                 "name": "PENNY Jaszbereny",
                 "link": "https://www.google.com/maps/search/PENNY+J%C3%A1szber%C3%A9ny/@47.4903189,19.892894899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 842,
+                "reviews": 843,
                 "rating": 4.3,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -23,8 +23,8 @@
             {
                 "name": "PatikaPlus Gyogyszertar (Tesco)",
                 "link": "https://www.google.com/maps/search/PatikaPlus+Gy%C3%B3gyszert%C3%A1r+%28Tesco%29/@47.4900178,19.8960081?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.6,
+                "reviews": 12,
+                "rating": 4.3,
                 "main_category": "Yao Fang "
             },
             {
@@ -56,7 +56,10 @@
         ],
         "rating": 4,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Jaszbereny, Tesco, Nagykatai ut 2/a, 5100 Xiong Ya Li ",
         "review_keywords": [
@@ -77,21 +80,21 @@
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.4898719,19.8959236?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2855,
+                "reviews": 2856,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "ALDI",
                 "link": "https://www.google.com/maps/search/ALDI/@47.4879159,19.8876071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1186,
+                "reviews": 1187,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
             {
                 "name": "PENNY Jaszbereny",
                 "link": "https://www.google.com/maps/search/PENNY+J%C3%A1szber%C3%A9ny/@47.4903189,19.892894899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 842,
+                "reviews": 843,
                 "rating": 4.3,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -124,7 +127,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Jaszbereny, Lidl, Nagykatai ut 7/A, 5100 Xiong Ya Li ",
         "review_keywords": [],
@@ -135,7 +142,7 @@
         "name": "ALDI",
         "description": "Fan Shou Ge Zhong Za Huo , Rou Lei He Ru Zhi Pin De Lian Suo Ling Shou Shang . ",
         "is_spending_on_ads": false,
-        "reviews": 1186,
+        "reviews": 1189,
         "competitors": [
             {
                 "name": "Lidl",
@@ -147,7 +154,7 @@
             {
                 "name": "PENNY Jaszbereny",
                 "link": "https://www.google.com/maps/search/PENNY+J%C3%A1szber%C3%A9ny/@47.4903189,19.892894899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 842,
+                "reviews": 843,
                 "rating": 4.3,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -187,7 +194,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Jaszbereny, ALDI, Nagykatai ut 22, 5100 Xiong Ya Li ",
         "review_keywords": [
@@ -203,12 +213,12 @@
         "name": "PENNY Jaszbereny",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 842,
+        "reviews": 844,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.4898719,19.8959236?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2855,
+                "reviews": 2856,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -222,7 +232,7 @@
             {
                 "name": "ALDI",
                 "link": "https://www.google.com/maps/search/ALDI/@47.4879159,19.8876071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1186,
+                "reviews": 1187,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
@@ -236,7 +246,7 @@
             {
                 "name": "Gyongy Market",
                 "link": "https://www.google.com/maps/search/Gy%C3%B6ngy+Market/@47.5089809,19.9097544?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
+                "reviews": 30,
                 "rating": 4,
                 "main_category": "Za Huo Dian "
             }
@@ -263,6 +273,75 @@
         "link": "https://www.google.com/maps/place/PENNY+J%C3%A1szber%C3%A9ny/data=!4m7!3m6!1s0x474107a656f83517:0x1e5ab1cb0b5dac54!8m2!3d47.4903189!4d19.8928949!16s%2Fg%2F11c702m_r0!19sChIJFzX4VqYHQUcRVKxdC8uxWh4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ8wufaBwHQUcRQM3LlOTXLes",
+        "name": "Pipacs Etterem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 535,
+        "competitors": [
+            {
+                "name": "Gosser Forum Sorozo",
+                "link": "https://www.google.com/maps/search/G%C3%B6sser+F%C3%B3rum+S%C3%B6r%C3%B6z%C5%91/@47.5005605,19.9154294?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 491,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "City Gyros",
+                "link": "https://www.google.com/maps/search/City+Gyros/@47.4955662,19.904840099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 403,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Aranykanal",
+                "link": "https://www.google.com/maps/search/Aranykan%C3%A1l/@47.5023957,19.9150378?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 402,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Adi Bufe",
+                "link": "https://www.google.com/maps/search/%C3%81di+B%C3%BCf%C3%A9/@47.5007644,19.911046499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 166,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Aranysas Etterem",
+                "link": "https://www.google.com/maps/search/Aranysas+%C3%89tterem/@47.5026424,19.9269276?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 150,
+                "rating": 3.9,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://pipacsetteremjaszbereny.hu/",
+        "owner": {
+            "id": "116880938358710895871",
+            "name": "Pipacs Etterem (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116880938358710895871"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPanxTXv5WzDPKhX7gA2c0uiqUp_8BHyAUmOiTp=w408-h306-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:30-22:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 57 405 510",
+        "address": "Jaszbereny, Pipacs Etterem, Tancsics Mihaly u. 10, 5100 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Tang ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Pipacs+%C3%89tterem/data=!4m7!3m6!1s0x4741071c689f0bf3:0xeb2dd7e494cbcd40!8m2!3d47.50316!4d19.91512!16s%2Fg%2F1td0lszy!19sChIJ8wufaBwHQUcRQM3LlOTXLes?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJE2TcixsHQUcRXAB-CCXzosA",
         "name": "River Bistro",
         "description": null,
@@ -286,7 +365,7 @@
             {
                 "name": "Krusovice sorhaz es etterem",
                 "link": "https://www.google.com/maps/search/Krusovice+s%C3%B6rh%C3%A1z+%C3%A9s+%C3%A9tterem/@47.5017145,19.9121341?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 293,
+                "reviews": 295,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -329,7 +408,7 @@
         "name": "Euronics Jaszbereny",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 320,
+        "reviews": 321,
         "competitors": [
             {
                 "name": "Akcioelektronika",
@@ -396,7 +475,7 @@
         "name": "Coop szuper",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 307,
+        "reviews": 308,
         "competitors": [
             {
                 "name": "Coop Star Szuper 400.",
@@ -451,7 +530,7 @@
         "name": "OfficeMarket.hu irodaszer webaruhaz- Penna-Office Kft.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 293,
+        "reviews": 296,
         "competitors": [
             {
                 "name": "Papiron Kft. Papir-Iroszer-Irodaszer-Iskolaszer-Dekoracio-Hobbi kreativ-belyegzokeszites-Gravirozas",
@@ -512,6 +591,8 @@
         "rating": 4.9,
         "workday_timing": "09:00-17:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -563,7 +644,7 @@
                 "main_category": "Jia Dian "
             }
         ],
-        "website": "https://jysk.hu/aruhazak?storeid=H860",
+        "website": "https://jysk.hu/aruhazak%3Fstoreid%3DH860",
         "owner": {
             "id": "108310660608158651852",
             "name": "JYSK Jaszbereny (Ye Zhu )",
@@ -579,7 +660,11 @@
         ],
         "rating": 4.5,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 1 701 4222",
         "address": "Jaszbereny, JYSK Jaszbereny, Szabadsag ter 3, 5100 Xiong Ya Li ",
         "review_keywords": [],
@@ -590,7 +675,7 @@
         "name": "Coop Star Szuper 400.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 245,
+        "reviews": 246,
         "competitors": [
             {
                 "name": "Coop szuper",
@@ -650,7 +735,7 @@
             {
                 "name": "TAKKO",
                 "link": "https://www.google.com/maps/search/TAKKO/@47.4880839,19.8863511?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 153,
+                "reviews": 154,
                 "rating": 4.4,
                 "main_category": "Fu Zhuang Dian "
             },
@@ -676,7 +761,7 @@
                 "main_category": "Fu Zhuang Dian "
             }
         ],
-        "website": "http://www.kik.hu/filialfinder/5431/J%C3%A1szber%C3%A9ny/Nagyk%C3%A1tai_%C3%BAt_24/a.?wid=mc.lbm.google.-.5100-Jaszbereny.5431.-.-.-.-",
+        "website": "http://www.kik.hu/filialfinder/5431/J%25C3%25A1szber%25C3%25A9ny/Nagyk%25C3%25A1tai_%25C3%25BAt_24/a.%3Fwid%3Dmc.lbm.google.-.5100-Jaszbereny.5431.-.-.-.-",
         "owner": {
             "id": "109055612164975761932",
             "name": "KiK Jaszbereny (Ye Zhu )",
@@ -819,7 +904,7 @@
         "name": "Hollo Trafik",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 148,
+        "reviews": 149,
         "competitors": [],
         "website": "http://nemzetidohany.hu/",
         "owner": {
@@ -850,7 +935,7 @@
             {
                 "name": "PENNY Jaszbereny",
                 "link": "https://www.google.com/maps/search/PENNY+J%C3%A1szber%C3%A9ny/@47.4903189,19.892894899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 842,
+                "reviews": 843,
                 "rating": 4.3,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -864,14 +949,14 @@
             {
                 "name": "XXL Bevasarlokozpont",
                 "link": "https://www.google.com/maps/search/XXL+Bev%C3%A1s%C3%A1rl%C3%B3k%C3%B6zpont/@47.4881902,19.8842593?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 170,
+                "reviews": 172,
                 "rating": 4.3,
                 "main_category": "Fu Zhuang Dian "
             },
             {
                 "name": "TAKKO",
                 "link": "https://www.google.com/maps/search/TAKKO/@47.4880839,19.8863511?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 153,
+                "reviews": 154,
                 "rating": 4.4,
                 "main_category": "Fu Zhuang Dian "
             },
@@ -913,7 +998,7 @@
             {
                 "name": "JYSK Jaszbereny",
                 "link": "https://www.google.com/maps/search/JYSK+J%C3%A1szber%C3%A9ny/@47.4998435,19.9154834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 280,
+                "reviews": 281,
                 "rating": 4.5,
                 "main_category": "Jia Dian "
             },
@@ -1048,7 +1133,7 @@
             {
                 "name": "City Gyros",
                 "link": "https://www.google.com/maps/search/City+Gyros/@47.4955662,19.904840099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 402,
+                "reviews": 403,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1154,6 +1239,63 @@
         "link": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x474106fbd68acc81:0x795ca03da89761f5!8m2!3d47.4952633!4d19.9286818!16s%2Fg%2F1w9x_wvb!19sChIJgcyK1vsGQUcR9WGXqD2gXHk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ5zJG3xwHQUcRR9ZF5Qi_kBw",
+        "name": "Akcioelektronika",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 97,
+        "competitors": [
+            {
+                "name": "Euronics Jaszbereny",
+                "link": "https://www.google.com/maps/search/Euronics+J%C3%A1szber%C3%A9ny/@47.4879137,19.8866148?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 321,
+                "rating": 4.2,
+                "main_category": "Dian Qi Xing "
+            },
+            {
+                "name": "2000 Video Technical Trading and Service",
+                "link": "https://www.google.com/maps/search/2000+Video+Technical+Trading+and+Service/@47.500676999999996,19.918661?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 73,
+                "rating": 4.6,
+                "main_category": "Dian Qi Shang Dian "
+            },
+            {
+                "name": "Haztartastechnika Kft.",
+                "link": "https://www.google.com/maps/search/H%C3%A1ztart%C3%A1stechnika+Kft./@47.4967956,19.916302800000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 4.3,
+                "main_category": "Dian Qi Ling Shou "
+            },
+            {
+                "name": "Elektro-Quality Kft.",
+                "link": "https://www.google.com/maps/search/Elektro-Quality+Kft./@47.5014515,19.915415?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Dian Qi Shang Dian "
+            }
+        ],
+        "website": "http://www.akcioelektronika.hu/",
+        "owner": {
+            "id": "115484948049392387327",
+            "name": "Akcioelektronika (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115484948049392387327"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1hXSQC2t8gjNrapvoS8sH-DG79O5GjbW051IN=w560-h240-k-no",
+        "main_category": "Dian Qi Ling Shou ",
+        "categories": [
+            "Dian Qi Ling Shou "
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 301 7197",
+        "address": "Jaszbereny, Akcioelektronika, Berkocsis u. 1, 5100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Akci%C3%B3elektronika/data=!4m7!3m6!1s0x4741071cdf4632e7:0x1c90bf08e545d647!8m2!3d47.5004633!4d19.9156449!16s%2Fg%2F11c46cn8m_!19sChIJ5zJG3xwHQUcRR9ZF5Qi_kBw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJMQccc2wHQUcR_jRlBWNtKoQ",
         "name": "Mizsi mazsi cukraszda",
         "description": null,
@@ -1220,7 +1362,7 @@
             {
                 "name": "Euronics Jaszbereny",
                 "link": "https://www.google.com/maps/search/Euronics+J%C3%A1szber%C3%A9ny/@47.4879137,19.8866148?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 320,
+                "reviews": 321,
                 "rating": 4.2,
                 "main_category": "Dian Qi Xing "
             },
@@ -1275,7 +1417,7 @@
             {
                 "name": "JYSK Jaszbereny",
                 "link": "https://www.google.com/maps/search/JYSK+J%C3%A1szber%C3%A9ny/@47.4998435,19.9154834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 280,
+                "reviews": 281,
                 "rating": 4.5,
                 "main_category": "Jia Dian "
             },
@@ -1406,7 +1548,7 @@
             {
                 "name": "Coop abc",
                 "link": "https://www.google.com/maps/search/Coop+abc/@47.4922454,19.9205207?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 157,
+                "reviews": 158,
                 "rating": 3.9,
                 "main_category": "Za Huo Dian "
             },
@@ -1420,7 +1562,7 @@
             {
                 "name": "Piller ABC",
                 "link": "https://www.google.com/maps/search/Pill%C3%A9r+ABC/@47.4967477,19.9027061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
+                "reviews": 47,
                 "rating": 4.5,
                 "main_category": "Shang Dian "
             }
@@ -1606,7 +1748,7 @@
             {
                 "name": "JYSK Jaszbereny",
                 "link": "https://www.google.com/maps/search/JYSK+J%C3%A1szber%C3%A9ny/@47.4998435,19.9154834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 280,
+                "reviews": 281,
                 "rating": 4.5,
                 "main_category": "Jia Dian "
             },
@@ -1765,68 +1907,6 @@
         "address": "Jaszbereny, Premium Koreai Ginseng (Koreai Ginseng Kft.), Fay Andras u. 30, 5100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Pr%C3%A9mium+Koreai+Ginseng+%28Koreai+Ginseng+Kft.%29/data=!4m7!3m6!1s0x474106e208f1ff09:0x49b0380707266165!8m2!3d47.5029814!4d19.9214357!16s%2Fg%2F11fzb0ly7n!19sChIJCf_xCOIGQUcRZWEmBwc4sEk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJlcmj5aMHQUcR6aB87O6GU1c",
-        "name": "dm-drogerie markt Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 14,
-        "competitors": [
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.4901,19.8899?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1772,
-                "rating": 4.4,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "ALDI",
-                "link": "https://www.google.com/maps/search/ALDI/@47.4879159,19.8876071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1186,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Rossmann Drugstore Perfumery",
-                "link": "https://www.google.com/maps/search/Rossmann+Drugstore+Perfumery/@47.5005927,19.9140001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 324,
-                "rating": 4.5,
-                "main_category": "Mei Rong Yi Qi Yong Pin Dian "
-            },
-            {
-                "name": "DEICHMANN",
-                "link": "https://www.google.com/maps/search/DEICHMANN/@47.4879369,19.887540899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 260,
-                "rating": 4.2,
-                "main_category": "Xie Pin Dian "
-            },
-            {
-                "name": "DM",
-                "link": "https://www.google.com/maps/search/DM/@47.488414999999996,19.8862382?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 101,
-                "rating": 4.7,
-                "main_category": "Xiang Shui Dian "
-            }
-        ],
-        "website": "https://www.dm.hu/store/u0bl/jaszbereny/nagykatai-ut-24-a",
-        "owner": {
-            "id": "116388426715075243362",
-            "name": "dm-drogerie markt Kft. (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116388426715075243362"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMp7LAldmcXzYjMn1A7RuzsySKzC2KsoBGs2gBI=w408-h268-k-no",
-        "main_category": "Yao Fang ",
-        "categories": [
-            "Yao Fang "
-        ],
-        "rating": 4,
-        "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 402 4822",
-        "address": "Jaszbereny, dm-drogerie markt Kft., Nagykatai ut 24/A, 5100 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/dm-drogerie+markt+Kft./data=!4m7!3m6!1s0x474107a3e5a3c995:0x575386eeec7ca0e9!8m2!3d47.4884359!4d19.8861362!16s%2Fg%2F11hd6zly5_!19sChIJlcmj5aMHQUcR6aB87O6GU1c?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ41Fx1msHQUcRUaSdYrrr_6k",
@@ -2134,7 +2214,7 @@
                 "main_category": "Tang Guo Gao Bing Dian "
             }
         ],
-        "website": "https://hu-hu.facebook.com/pages/category/Cafe/P%25C3%25A1tria-K%25C3%25A1v%25C3%25A9h%25C3%25A1z-411959965516364/",
+        "website": "https://hu-hu.facebook.com/pages/category/Cafe/P%C3%A1tria-K%C3%A1v%C3%A9h%C3%A1z-411959965516364/",
         "owner": {
             "id": null,
             "name": "Patria Kavehaz (Ye Zhu )",
@@ -2170,14 +2250,14 @@
             {
                 "name": "Gyros Falo",
                 "link": "https://www.google.com/maps/search/Gyros+Fal%C3%B3/@47.493769799999995,19.9019708?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 419,
+                "reviews": 420,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "City Gyros",
                 "link": "https://www.google.com/maps/search/City+Gyros/@47.4955662,19.904840099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 402,
+                "reviews": 403,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -2230,7 +2310,7 @@
             {
                 "name": "JYSK Jaszbereny",
                 "link": "https://www.google.com/maps/search/JYSK+J%C3%A1szber%C3%A9ny/@47.4998435,19.9154834?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 280,
+                "reviews": 281,
                 "rating": 4.5,
                 "main_category": "Jia Dian "
             },
@@ -2287,7 +2367,7 @@
         "name": "Confectionery Tugyi",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 543,
+        "reviews": 544,
         "competitors": [
             {
                 "name": "RIVIERA Fagyizo",
@@ -2455,7 +2535,7 @@
         "name": "Guri Serhaz Jaszbereny",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 193,
+        "reviews": 194,
         "competitors": [
             {
                 "name": "Gosser Forum Sorozo",
@@ -2634,7 +2714,7 @@
             {
                 "name": "Coop abc",
                 "link": "https://www.google.com/maps/search/Coop+abc/@47.4922454,19.9205207?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 157,
+                "reviews": 158,
                 "rating": 3.9,
                 "main_category": "Za Huo Dian "
             },
@@ -2648,7 +2728,7 @@
             {
                 "name": "Piller ABC",
                 "link": "https://www.google.com/maps/search/Pill%C3%A9r+ABC/@47.4967477,19.9027061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
+                "reviews": 47,
                 "rating": 4.5,
                 "main_category": "Shang Dian "
             },
@@ -2841,7 +2921,7 @@
             {
                 "name": "Gyongy Market",
                 "link": "https://www.google.com/maps/search/Gy%C3%B6ngy+Market/@47.5089809,19.9097544?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
+                "reviews": 30,
                 "rating": 4,
                 "main_category": "Za Huo Dian "
             },
@@ -2891,7 +2971,7 @@
             {
                 "name": "Piller ABC",
                 "link": "https://www.google.com/maps/search/Pill%C3%A9r+ABC/@47.4967477,19.9027061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
+                "reviews": 47,
                 "rating": 4.5,
                 "main_category": "Shang Dian "
             },
@@ -3137,6 +3217,71 @@
         "link": "https://www.google.com/maps/place/Trafik+Cafe+%2F+Nemzeti+doh%C3%A1nybolt/data=!4m7!3m6!1s0x47410711db8e61ff:0xcc86e07baea50636!8m2!3d47.4963107!4d19.9073382!16s%2Fg%2F11gv0dbytg!19sChIJ_2GO2xEHQUcRNgalrnvghsw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJh4kYfAIHQUcRG4oJCyMwj4c",
+        "name": "Haztartastechnika Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "competitors": [
+            {
+                "name": "Euronics Jaszbereny",
+                "link": "https://www.google.com/maps/search/Euronics+J%C3%A1szber%C3%A9ny/@47.4879137,19.8866148?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 321,
+                "rating": 4.2,
+                "main_category": "Dian Qi Xing "
+            },
+            {
+                "name": "Akcioelektronika",
+                "link": "https://www.google.com/maps/search/Akci%C3%B3elektronika/@47.5004633,19.9156449?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 97,
+                "rating": 4.7,
+                "main_category": "Dian Qi Ling Shou "
+            },
+            {
+                "name": "Electrolux.",
+                "link": "https://www.google.com/maps/search/Electrolux./@47.4946085,19.8710804?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 2.6,
+                "main_category": "Dian Zi Chan Pin Zhi Zao Shang "
+            },
+            {
+                "name": "KUN Bt.",
+                "link": "https://www.google.com/maps/search/KUN+Bt./@47.5087401,19.909188099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 3.8,
+                "main_category": "Xi Yi Ji Ji Gan Yi Ji Wei Xiu Fu Wu "
+            },
+            {
+                "name": "Elektro-Quality Kft.",
+                "link": "https://www.google.com/maps/search/Elektro-Quality+Kft./@47.5014515,19.915415?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Dian Qi Shang Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Haztartastechnika Kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IS5edkxj6MiKyPJmv9NfXA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=103.9727&pitch=0&thumbfov=100",
+        "main_category": "Dian Qi Ling Shou ",
+        "categories": [
+            "Dian Qi Ling Shou "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 57 412 813",
+        "address": "Jaszbereny, Haztartastechnika Kft., Szent Imre herceg ut 26, 5100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/H%C3%A1ztart%C3%A1stechnika+Kft./data=!4m7!3m6!1s0x474107027c188987:0x878f30230b098a1b!8m2!3d47.4967956!4d19.9163028!16s%2Fg%2F1v_sm07_!19sChIJh4kYfAIHQUcRG4oJCyMwj4c?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJeWaHSYMHQUcRxISRA1hEkFo",
         "name": "Allatkerti Fagyizo",
         "description": null,
@@ -3378,7 +3523,7 @@
             {
                 "name": "Gyongy Market",
                 "link": "https://www.google.com/maps/search/Gy%C3%B6ngy+Market/@47.5089809,19.9097544?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
+                "reviews": 30,
                 "rating": 4,
                 "main_category": "Za Huo Dian "
             },
@@ -3517,7 +3662,9 @@
         "rating": 4.5,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San "
         ],
         "phone": "+36 20 235 7898",
         "address": "Jaszbereny, Edes Alom Cukraszda, Messzelato u. 2, 5100 Xiong Ya Li ",
@@ -3548,7 +3695,7 @@
             {
                 "name": "Gyongy Market",
                 "link": "https://www.google.com/maps/search/Gy%C3%B6ngy+Market/@47.5089809,19.9097544?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
+                "reviews": 30,
                 "rating": 4,
                 "main_category": "Za Huo Dian "
             },
@@ -3931,6 +4078,61 @@
         "link": "https://www.google.com/maps/place/J%C3%A1szber%C3%A9ny/data=!4m7!3m6!1s0x4741071c5cf6156d:0x9b506c9f0c4e56df!8m2!3d47.502674!4d19.915538!16s%2Fg%2F11h_6qb_1v!19sChIJbRX2XBwHQUcR31ZODJ9sUJs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ735C5fgGQUcR6nP1yIzFF00",
+        "name": "Budapest Bakery & Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Pastriku Pekseg",
+                "link": "https://www.google.com/maps/search/Pastriku+P%C3%A9ks%C3%A9g/@47.502476699999995,19.911455099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 198,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Mentes Pekseg",
+                "link": "https://www.google.com/maps/search/Mentes+P%C3%A9ks%C3%A9g/@47.500394899999996,19.9159017?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Sutisarok",
+                "link": "https://www.google.com/maps/search/S%C3%BCtisarok/@47.5015812,19.9093366?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kape 94 Bt.",
+                "link": "https://www.google.com/maps/search/K%C3%A1p%C3%A9+94+Bt./@47.4944008,19.9242894?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Budapest Bakery & Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xPRcjQT5fIvlyc-ZYkR_wQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=242.9755&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 30 963 4431",
+        "address": "Jaszbereny, Budapest Bakery & Cafe, Pafrany u., 5100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Budapest+Bakery+%26+Cafe/data=!4m7!3m6!1s0x474106f8e5427eef:0x4d17c58cc8f573ea!8m2!3d47.4884564!4d19.9231584!16s%2Fg%2F11fn6t66hp!19sChIJ735C5fgGQUcR6nP1yIzFF00?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJLZ2wgTgHQUcRO2djrM6tNTE",
         "name": "Thokoly uti elelmiszerbolt",
         "description": null,
@@ -3961,7 +4163,7 @@
             {
                 "name": "Gyongy Market",
                 "link": "https://www.google.com/maps/search/Gy%C3%B6ngy+Market/@47.5089809,19.9097544?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
+                "reviews": 30,
                 "rating": 4,
                 "main_category": "Za Huo Dian "
             },

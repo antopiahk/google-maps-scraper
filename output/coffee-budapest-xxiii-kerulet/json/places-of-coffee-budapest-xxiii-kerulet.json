@@ -57,29 +57,29 @@
             {
                 "name": "Sommer Cukraszda",
                 "link": "https://www.google.com/maps/search/Sommer+Cukr%C3%A1szda/@47.5074744,19.071593?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 499,
+                "reviews": 504,
                 "rating": 4.4,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Gyongy cukraszda",
                 "link": "https://www.google.com/maps/search/Gy%C3%B6ngy+cukr%C3%A0szda/@47.4206921,19.120220099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 276,
+                "reviews": 277,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Otos pekseg es cukraszda",
                 "link": "https://www.google.com/maps/search/%C3%96t%C3%B6s+p%C3%A9ks%C3%A9g+%C3%A9s+cukr%C3%A1szda/@47.3901569,19.1198339?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
+                "reviews": 120,
                 "rating": 4.2,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
             {
                 "name": "Crema Fagylaltozo",
                 "link": "https://www.google.com/maps/search/Crema+Fagylaltoz%C3%B3/@47.418988899999995,19.157887799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4,
+                "reviews": 26,
+                "rating": 3.9,
                 "main_category": "Bing Qi Lin "
             }
         ],
@@ -111,7 +111,7 @@
         "name": "Kisduna cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 155,
+        "reviews": 159,
         "competitors": [
             {
                 "name": "Zsuzsi Cuki",
@@ -178,7 +178,7 @@
             {
                 "name": "Kisduna cafe",
                 "link": "https://www.google.com/maps/search/Kisduna+cafe/@47.432137,19.0940111?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 155,
+                "reviews": 158,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -341,8 +341,8 @@
             {
                 "name": "Crema Fagylaltozo",
                 "link": "https://www.google.com/maps/search/Crema+Fagylaltoz%C3%B3/@47.418988899999995,19.157887799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4,
+                "reviews": 26,
+                "rating": 3.9,
                 "main_category": "Bing Qi Lin "
             },
             {
@@ -367,7 +367,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 846 5323",
         "address": "Budapest, Mon Cremi - Soroksar, Bevasarlo u. 2, 1239 Xiong Ya Li ",
         "review_keywords": [],
@@ -378,7 +381,7 @@
         "name": "Club N'esztelen",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 27,
+        "reviews": 28,
         "competitors": [],
         "website": "https://m.facebook.com/groups/278829504497047/",
         "owner": {
@@ -409,7 +412,7 @@
         "name": "Crema Fagylaltozo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 25,
+        "reviews": 26,
         "competitors": [
             {
                 "name": "NASs Cukraszda - Fagyizo es Kavezo, Sutemeny, Tortarendeles",
@@ -428,7 +431,7 @@
             {
                 "name": "Otos pekseg es cukraszda",
                 "link": "https://www.google.com/maps/search/%C3%96t%C3%B6s+p%C3%A9ks%C3%A9g+%C3%A9s+cukr%C3%A1szda/@47.3901569,19.1198339?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
+                "reviews": 120,
                 "rating": 4.2,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -454,9 +457,13 @@
             "Zheng Liu Ka Pei Ba ",
             "Ban Ji Dian "
         ],
-        "rating": 3.8,
+        "rating": 3.9,
         "workday_timing": "09:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Budapest, Crema Fagylaltozo, Bevasarlo u. 2, 1239 Xiong Ya Li ",
         "review_keywords": [],
@@ -534,7 +541,7 @@
             {
                 "name": "Kisduna cafe",
                 "link": "https://www.google.com/maps/search/Kisduna+cafe/@47.432137,19.0940111?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 155,
+                "reviews": 158,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -570,12 +577,12 @@
         "name": "Otos pekseg es cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 119,
+        "reviews": 120,
         "competitors": [
             {
                 "name": "Soroksari Buci Pekseg",
                 "link": "https://www.google.com/maps/search/Soroks%C3%A1ri+Buci+P%C3%A9ks%C3%A9g/@47.401502900000004,19.1143638?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 361,
+                "reviews": 362,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -603,8 +610,8 @@
             {
                 "name": "Crema Fagylaltozo",
                 "link": "https://www.google.com/maps/search/Crema+Fagylaltoz%C3%B3/@47.418988899999995,19.157887799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4,
+                "reviews": 26,
+                "rating": 3.9,
                 "main_category": "Bing Qi Lin "
             }
         ],
@@ -699,7 +706,7 @@
             {
                 "name": "IKEA Soroksar",
                 "link": "https://www.google.com/maps/search/IKEA+Soroks%C3%A1r/@47.4118894,19.1610349?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23272,
+                "reviews": 23277,
                 "rating": 4.6,
                 "main_category": "Jia Ju Yong Pin Dian "
             },

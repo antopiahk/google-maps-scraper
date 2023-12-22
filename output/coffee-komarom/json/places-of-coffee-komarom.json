@@ -4,19 +4,19 @@
         "name": "TESCO Komarom Hipermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3885,
+        "reviews": 3890,
         "competitors": [
             {
                 "name": "Tesco",
                 "link": "https://www.google.com/maps/search/Tesco/@47.764599999999994,18.0972?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2079,
+                "reviews": 2080,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.74343700000001,18.116447?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -55,7 +55,10 @@
         ],
         "rating": 4,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Komarom, TESCO Komarom Hipermarket, Bajcsy-Zsilinszky Endre u 7, 2900 Xiong Ya Li ",
         "review_keywords": [
@@ -110,7 +113,7 @@
             {
                 "name": "Goods Market",
                 "link": "https://www.google.com/maps/search/Goods+Market/@47.74209140000001,18.1211278?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 217,
+                "reviews": 219,
                 "rating": 4.5,
                 "main_category": "12 Yuan Dian "
             },
@@ -143,11 +146,15 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Komarom, Lidl, Martirok utja 80, 2900 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Lidl/data=!4m7!3m6!1s0x476a4d493eee5abb:0xb42394dd31ebd046!8m2!3d47.73815!4d18.13826!16s%2Fg%2F11bxdwszq9!19sChIJu1ruPklNakcRRtDrMd2UI7Q?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Lidl/data=!4m7!3m6!1s0x476a4d493eee5abb:0xb42394dd31ebd046!8m2!3d47.7381243!4d18.1391903!16s%2Fg%2F11bxdwszq9!19sChIJu1ruPklNakcRRtDrMd2UI7Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJRca2J0lNakcRtZl9L8ya9Mc",
@@ -159,14 +166,14 @@
             {
                 "name": "TESCO Komarom Hipermarket",
                 "link": "https://www.google.com/maps/search/TESCO+Kom%C3%A1rom+Hipermarket/@47.747766999999996,18.1183961?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3885,
+                "reviews": 3889,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.73815,18.13826?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1622,
+                "link": "https://www.google.com/maps/search/Lidl/@47.738124299999996,18.1391903?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1623,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -180,7 +187,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.74343700000001,18.116447?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -256,7 +263,11 @@
         ],
         "rating": 4.1,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7564",
         "address": "Komarom, SPAR szupermarket, Klapka Gyorgy ut 69, 2900 Xiong Ya Li ",
         "review_keywords": [],
@@ -332,19 +343,19 @@
         "name": "Cafe Monaco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 650,
+        "reviews": 651,
         "competitors": [
             {
                 "name": "Bar-Ka Kavezo es Pizzeria",
                 "link": "https://www.google.com/maps/search/B%C3%A1r-Ka+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Pizz%C3%A9ria/@47.7442971,18.1164921?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 545,
+                "reviews": 547,
                 "rating": 4.1,
                 "main_category": "Yi Shi Bo Bing "
             },
             {
                 "name": "Mona Lisa Cafe",
                 "link": "https://www.google.com/maps/search/Mona+Lisa+Caf%C3%A9/@47.7451642,18.120347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
+                "reviews": 247,
                 "rating": 4.7,
                 "main_category": "Pi Jiu Hua Yuan "
             },
@@ -410,33 +421,33 @@
         "name": "Bar-Ka Kavezo es Pizzeria",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 546,
+        "reviews": 547,
         "competitors": [
             {
                 "name": "King-Shoarma",
                 "link": "https://www.google.com/maps/search/King-Shoarma/@47.74187440000001,18.119377699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3008,
+                "reviews": 3014,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Nana Pizzeria",
                 "link": "https://www.google.com/maps/search/Nana+Pizz%C3%A9ria/@47.7469387,18.1207124?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 552,
+                "reviews": 555,
                 "rating": 4.7,
                 "main_category": "Yi Shi Bo Bing "
             },
             {
                 "name": "Aranytal Kft. - etterem , rendezveny , eskuvohelyszin, hotel , szallas",
                 "link": "https://www.google.com/maps/search/Aranyt%C3%A1l+Kft.+-+%C3%A9tterem+%2C+rendezv%C3%A9ny+%2C+esk%C3%BCv%C5%91helysz%C3%ADn%2C+hotel+%2C+sz%C3%A1ll%C3%A1s/@47.745536699999995,18.11375?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 438,
+                "reviews": 443,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
                 "name": "One Bit Pizzeria es Palacsintazo",
                 "link": "https://www.google.com/maps/search/One+Bit+Pizz%C3%A9ria+%C3%A9s+Palacsint%C3%A1z%C3%B3/@47.7437871,18.1286702?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
+                "reviews": 141,
                 "rating": 3.2,
                 "main_category": "Wai Song Su Di Can Ting "
             },
@@ -471,70 +482,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/B%C3%A1r-Ka+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Pizz%C3%A9ria/data=!4m7!3m6!1s0x476bb2b170435fbf:0x5fe8ea6e828234e7!8m2!3d47.7442971!4d18.1164921!16s%2Fg%2F1tgyvhc9!19sChIJv19DcLGya0cR5zSCgm7q6F8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ82myeRFNakcREfiHQDL1vVE",
-        "name": "Teremgokart es Kavezo - H-Epicentrum Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 381,
-        "competitors": [
-            {
-                "name": "Nemeth Cukraszda es Kavezo",
-                "link": "https://www.google.com/maps/search/N%C3%A9meth+Cukr%C3%A1szda+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.7467946,18.1181871?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 369,
-                "rating": 4.5,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Tatakart",
-                "link": "https://www.google.com/maps/search/Tatakart/@47.668806,18.3234867?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 201,
-                "rating": 4.7,
-                "main_category": "Xiao Xing Sai Che Chang "
-            },
-            {
-                "name": "Liget Kavezo",
-                "link": "https://www.google.com/maps/search/Liget+K%C3%A1v%C3%A9z%C3%B3/@47.7445563,18.1242087?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
-                "rating": 4.9,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Speed Autocenter Bt.",
-                "link": "https://www.google.com/maps/search/Speed+Aut%C3%B3center+Bt./@47.746999599999995,18.1078169?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Qi Che Wei Xiu Dian "
-            },
-            {
-                "name": "Hosi Temeto",
-                "link": "https://www.google.com/maps/search/H%C5%91si+Temet%C5%91/@47.74504,18.1328001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ji Nian Gong Yuan "
-            }
-        ],
-        "website": "http://www.teremgokart.hu/",
-        "owner": {
-            "id": "103481646020954131043",
-            "name": "Teremgokart es Kavezo - H-Epicentrum Kft. (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103481646020954131043"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMqb1VoSOovF5yWlM6c28U_UL1wV5VjJ47jFFUO=w426-h240-k-no",
-        "main_category": "Xiao Xing Sai Che Chang ",
-        "categories": [
-            "Xiao Xing Sai Che Chang ",
-            "Jiu Ba ",
-            "Ka Pei Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 30 989 0067",
-        "address": "Komarom, Teremgokart es Kavezo - H-Epicentrum Kft., Puskaporosi ut, 2900 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Teremgokart+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3+-+H-Epicentrum+Kft./data=!4m7!3m6!1s0x476a4d1179b269f3:0x51bdf5324087f811!8m2!3d47.724068!4d18.151237!16s%2Fg%2F113h38_gp!19sChIJ82myeRFNakcREfiHQDL1vVE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJNyWy5bGya0cRK6zpgkIeMXw",
@@ -603,7 +550,7 @@
         "name": "SPAR szupermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 336,
+        "reviews": 337,
         "competitors": [
             {
                 "name": "Bobe Bt.",
@@ -658,19 +605,19 @@
         "name": "KAVY SVETA | FRISS KAVE | COFFEE WORLD",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 290,
+        "reviews": 291,
         "competitors": [
             {
                 "name": "CAFE FREI",
                 "link": "https://www.google.com/maps/search/CAFE+FREI/@47.7585381,18.1242965?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 224,
+                "reviews": 226,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kut Cafe",
                 "link": "https://www.google.com/maps/search/K%C3%BAt+Caf%C3%A9/@47.758393999999996,18.1290922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -697,7 +644,11 @@
         ],
         "rating": 4.7,
         "workday_timing": "08:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "KAVY SVETA | FRISS KAVE | COFFEE WORLD, Nam. gen. Klapku 5, 945 01 Komarno, Si Luo Fa Ke ",
         "review_keywords": [
@@ -717,19 +668,19 @@
         "name": "CBA",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 251,
+        "reviews": 252,
         "competitors": [
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.74343700000001,18.116447?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
             {
                 "name": "Goods Market",
                 "link": "https://www.google.com/maps/search/Goods+Market/@47.74209140000001,18.1211278?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 217,
+                "reviews": 219,
                 "rating": 4.5,
                 "main_category": "12 Yuan Dian "
             },
@@ -779,19 +730,19 @@
         "name": "Mona Lisa Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 246,
+        "reviews": 247,
         "competitors": [
             {
                 "name": "Cafe Monaco",
                 "link": "https://www.google.com/maps/search/Cafe+Monaco/@47.746264,18.1199448?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 651,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Bar-Ka Kavezo es Pizzeria",
                 "link": "https://www.google.com/maps/search/B%C3%A1r-Ka+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Pizz%C3%A9ria/@47.7442971,18.1164921?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 545,
+                "reviews": 547,
                 "rating": 4.1,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -837,12 +788,12 @@
         "name": "CAFE FREI",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 224,
+        "reviews": 227,
         "competitors": [
             {
                 "name": "KAVY SVETA | FRISS KAVE | COFFEE WORLD",
                 "link": "https://www.google.com/maps/search/K%C3%81VY+SVETA+%7C+FRISS+K%C3%81V%C3%89+%7C+COFFEE+WORLD/@47.757002799999995,18.129248699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 289,
+                "reviews": 290,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -885,12 +836,12 @@
         "name": "Goods Market",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 218,
+        "reviews": 219,
         "competitors": [
             {
                 "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@47.73815,18.13826?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1622,
+                "link": "https://www.google.com/maps/search/Lidl/@47.738124299999996,18.1391903?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1623,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -904,14 +855,14 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.74343700000001,18.116447?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
             {
                 "name": "CBA",
                 "link": "https://www.google.com/maps/search/CBA/@47.7385204,18.1209702?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 251,
+                "reviews": 252,
                 "rating": 4.1,
                 "main_category": "Za Huo Dian "
             },
@@ -954,14 +905,14 @@
             {
                 "name": "Kut Cafe",
                 "link": "https://www.google.com/maps/search/K%C3%BAt+Caf%C3%A9/@47.758393999999996,18.1290922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Laro Restobar & Vintage Gallery",
                 "link": "https://www.google.com/maps/search/Cafe+Laro+Restobar+%26+Vintage+Gallery/@47.7600889,18.1274516?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
+                "reviews": 41,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             }
@@ -1052,7 +1003,8 @@
         "rating": 4.5,
         "workday_timing": "10:00-18:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+36 34 341 919",
         "address": "Komarom, Janoska cukraszda, Bajcsy-Zsilinszky u. 28, 2900 Xiong Ya Li ",
@@ -1138,7 +1090,7 @@
             {
                 "name": "KAVY SVETA | FRISS KAVE | COFFEE WORLD",
                 "link": "https://www.google.com/maps/search/K%C3%81VY+SVETA+%7C+FRISS+K%C3%81V%C3%89+%7C+COFFEE+WORLD/@47.757002799999995,18.129248699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 289,
+                "reviews": 290,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1206,7 +1158,7 @@
             {
                 "name": "frigonetti kft",
                 "link": "https://www.google.com/maps/search/frigonetti+kft/@47.7426378,18.108302899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
+                "reviews": 12,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1249,7 +1201,7 @@
             {
                 "name": "Kut Cafe",
                 "link": "https://www.google.com/maps/search/K%C3%BAt+Caf%C3%A9/@47.758393999999996,18.1290922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -1292,7 +1244,7 @@
         "name": "Nemzeti Dohanybolt Komarom",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 45,
+        "reviews": 46,
         "competitors": [],
         "website": "http://nemzetidohany.hu/",
         "owner": {
@@ -1323,7 +1275,7 @@
             {
                 "name": "Kut Cafe",
                 "link": "https://www.google.com/maps/search/K%C3%BAt+Caf%C3%A9/@47.758393999999996,18.1290922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -1357,7 +1309,9 @@
         "rating": 4.8,
         "workday_timing": "11:00-20:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
         ],
         "phone": null,
         "address": "Palace Cafe & Bar, Nam. gen. Klapku 9, 945 05 Komarno, Si Luo Fa Ke ",
@@ -1374,14 +1328,14 @@
             {
                 "name": "KAVY SVETA | FRISS KAVE | COFFEE WORLD",
                 "link": "https://www.google.com/maps/search/K%C3%81VY+SVETA+%7C+FRISS+K%C3%81V%C3%89+%7C+COFFEE+WORLD/@47.757002799999995,18.129248699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 289,
+                "reviews": 290,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kut Cafe",
                 "link": "https://www.google.com/maps/search/K%C3%BAt+Caf%C3%A9/@47.758393999999996,18.1290922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -1412,8 +1366,10 @@
             "Ka Pei Ting "
         ],
         "rating": 4.7,
-        "workday_timing": "09:00-21:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "14:00-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+421 903 946 070",
         "address": "Sofia - kaviaren a bar, Nadvorie Europy 3, 945 01 Komarno, Si Luo Fa Ke ",
         "review_keywords": [],
@@ -1446,68 +1402,6 @@
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Kom%C3%A1rom/data=!4m7!3m6!1s0x476bb39e89a82df3:0xb97a16a1da8139fc!8m2!3d47.7438372!4d18.1170155!16s%2Fg%2F11hz8l1s6j!19sChIJ8y2oiZ6za0cR_DmB2qEWerk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ5ZZ3RoWza0cRCHtrqUrCMTg",
-        "name": "COOP ABC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 37,
-        "competitors": [
-            {
-                "name": "Coop Abc",
-                "link": "https://www.google.com/maps/search/Coop+Abc/@47.654429799999996,18.5996444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "ELELMISZER ABC",
-                "link": "https://www.google.com/maps/search/%C3%89LELMISZER+ABC/@47.748934,18.0667254?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.3,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "ABC",
-                "link": "https://www.google.com/maps/search/ABC/@47.748063599999995,18.075507599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Hanga Fonal Kft.",
-                "link": "https://www.google.com/maps/search/Hanga+Fonal+Kft./@47.745030299999996,18.1193122?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Szony Mini ABC",
-                "link": "https://www.google.com/maps/search/Sz%C5%91ny+Mini+ABC/@47.727937999999995,18.1785848?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://www.facebook.com/coop.kisdunafood",
-        "owner": {
-            "id": "100338246378776511702",
-            "name": "COOP ABC (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100338246378776511702"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGFNtc9rw8Y_mDkqAbVlK4LEt4JKay1zPU-lKT=w408-h544-k-no",
-        "main_category": "Shang Dian ",
-        "categories": [
-            "Shang Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 975 5450",
-        "address": "Komarom, COOP ABC, Koppanyvezer ut 134, 2903 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/COOP+ABC/data=!4m7!3m6!1s0x476bb385467796e5:0x3831c24aa96b7b08!8m2!3d47.7499612!4d18.0535964!16s%2Fg%2F11jwxkj750!19sChIJ5ZZ3RoWza0cRCHtrqUrCMTg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJnzTnuzOza0cRVoeCUwXUH1c",
         "name": "MOZAIK - Konyvesbolt es kavezo",
         "description": null,
@@ -1517,7 +1411,7 @@
             {
                 "name": "Cafe Monaco",
                 "link": "https://www.google.com/maps/search/Cafe+Monaco/@47.746264,18.1199448?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 651,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1571,61 +1465,6 @@
         "address": "Komarom, MOZAIK - Konyvesbolt es kavezo, Jozsef Attila u. 2, 2900 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/MOZAIK+-+K%C3%B6nyvesbolt+%C3%A9s+k%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x476bb333bbe7349f:0x571fd40553828756!8m2!3d47.7442512!4d18.1167049!16s%2Fg%2F11lgp8nhq6!19sChIJnzTnuzOza0cRVoeCUwXUH1c?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJmbLnZz6ta0cRu9B36hQG_dQ",
-        "name": "Cajovna",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 13,
-        "competitors": [
-            {
-                "name": "KAVY SVETA | FRISS KAVE | COFFEE WORLD",
-                "link": "https://www.google.com/maps/search/K%C3%81VY+SVETA+%7C+FRISS+K%C3%81V%C3%89+%7C+COFFEE+WORLD/@47.757002799999995,18.129248699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 289,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "N Caffe",
-                "link": "https://www.google.com/maps/search/N+Caffe/@47.761704099999996,18.126880699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kut Cafe",
-                "link": "https://www.google.com/maps/search/K%C3%BAt+Caf%C3%A9/@47.758393999999996,18.1290922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Korzo Cafe",
-                "link": "https://www.google.com/maps/search/Korzo+Caf%C3%A9/@47.7636313,18.094604099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://sk-sk.facebook.com/CarovnaCajovna/",
-        "owner": {
-            "id": null,
-            "name": "Cajovna (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMmK7vOe0AMSN3IpBnmG-r5J8Q0Abc17aPQgS8r=w426-h240-k-no",
-        "main_category": "Cha Yi Guan ",
-        "categories": [
-            "Cha Yi Guan "
-        ],
-        "rating": 4.9,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Cajovna, Nadvorie Europy 45, 945 01 Komarno, Si Luo Fa Ke ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%C4%8Cajov%C5%88a/data=!4m7!3m6!1s0x476bad3e67e7b299:0xd4fd0614ea77d0bb!8m2!3d47.7583392!4d18.1290955!16s%2Fg%2F11jx6lx9jf!19sChIJmbLnZz6ta0cRu9B36hQG_dQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ4T3l4Teta0cRaF1M84yVhaA",
@@ -1705,7 +1544,7 @@
             {
                 "name": "Cafe Laro Restobar & Vintage Gallery",
                 "link": "https://www.google.com/maps/search/Cafe+Laro+Restobar+%26+Vintage+Gallery/@47.7600889,18.1274516?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
+                "reviews": 41,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             }
@@ -1735,6 +1574,63 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+%26+Bar+@Laser+Ar%C3%A9na+Kom%C3%A1rno/data=!4m7!3m6!1s0x476badba2cb61abd:0xc47e3b34eb0349e8!8m2!3d47.7605681!4d18.1263729!16s%2Fg%2F11h1dst_w9!19sChIJvRq2LLqta0cR6EkD6zQ7fsQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ1_M0BgtNakcRZllhCw__Jx8",
+        "name": "Molaj Market",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "SPAR szupermarket",
+                "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.74343700000001,18.116447?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 337,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Bobe Bt.",
+                "link": "https://www.google.com/maps/search/B%C3%B3b%C3%A9+Bt./@47.7437028,18.1173459?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 24,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Elelmiszerbolt",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszerbolt/@47.735059799999995,18.1730709?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Spar Express",
+                "link": "https://www.google.com/maps/search/Spar+Express/@47.7382594,18.118210899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Bian Li Dian "
+            }
+        ],
+        "website": "http://molajmarket.hu/",
+        "owner": {
+            "id": null,
+            "name": "Molaj Market (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHysxjo5NZattCV4iaG0SMU5Yz_UWG8-NOhGXy=w426-h240-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 70 223 1232",
+        "address": "Komarom, Molaj Market, Haga Laszlo u. 2, 2921 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Molaj+Market/data=!4m7!3m6!1s0x476a4d0b0634f3d7:0x1f27ff0f0b615966!8m2!3d47.7318871!4d18.1946439!16s%2Fg%2F11j_8w00tt!19sChIJ1_M0BgtNakcRZllhCw__Jx8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJN1J5-g6za0cRj2cMy1x6ljc",
         "name": "Spar Express",
         "description": null,
@@ -1751,7 +1647,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.74343700000001,18.116447?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -1799,7 +1695,7 @@
             {
                 "name": "Cafe Monaco",
                 "link": "https://www.google.com/maps/search/Cafe+Monaco/@47.746264,18.1199448?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 651,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1861,7 +1757,7 @@
             {
                 "name": "frigonetti kft",
                 "link": "https://www.google.com/maps/search/frigonetti+kft/@47.7426378,18.108302899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
+                "reviews": 12,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1923,7 +1819,7 @@
             {
                 "name": "frigonetti kft",
                 "link": "https://www.google.com/maps/search/frigonetti+kft/@47.7426378,18.108302899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
+                "reviews": 12,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1971,7 +1867,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.74343700000001,18.116447?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -2164,7 +2060,7 @@
             {
                 "name": "Cafe Monaco",
                 "link": "https://www.google.com/maps/search/Cafe+Monaco/@47.746264,18.1199448?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 651,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2291,12 +2187,12 @@
         "name": "Cafe Laro Restobar & Vintage Gallery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 40,
+        "reviews": 41,
         "competitors": [
             {
                 "name": "Kut Cafe",
                 "link": "https://www.google.com/maps/search/K%C3%BAt+Caf%C3%A9/@47.758393999999996,18.1290922?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
+                "reviews": 75,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2399,6 +2295,68 @@
         "link": "https://www.google.com/maps/place/Zizi+ABC/data=!4m7!3m6!1s0x476bb2b194d2fb3d:0x4c63c823730eba39!8m2!3d47.7458011!4d18.1170496!16s%2Fg%2F11dfpfflln!19sChIJPfvSlLGya0cROboOcyPIY0w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJYW1fpFWta0cRoUUr6j9aRaE",
+        "name": "Zmrzlina Jadran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "competitors": [
+            {
+                "name": "Patisserie Praline",
+                "link": "https://www.google.com/maps/search/Patisserie+Pralin%C3%A9/@47.759750999999994,18.122699?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 87,
+                "rating": 4.6,
+                "main_category": "Fa Shi Gao Bing Dian "
+            },
+            {
+                "name": "Geovana Gelato",
+                "link": "https://www.google.com/maps/search/Geovana+Gelato/@47.7578647,18.12601?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.4,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Cukraren 1",
+                "link": "https://www.google.com/maps/search/Cukr%C3%A1re%C5%88+1/@47.7681428,18.1115672?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 45,
+                "rating": 4.2,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Balkan Zmrzlina",
+                "link": "https://www.google.com/maps/search/Balkan+Zmrzlina/@47.757002799999995,18.129248699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.6,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Paradiso Cukraren - zmrzlina",
+                "link": "https://www.google.com/maps/search/Paradiso+Cukr%C3%A1re%C5%88+-+zmrzlina/@47.7575442,18.1300271?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.6,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zmrzlina Jadran (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMraeNPfBrL-UvdB_K4dHW0KTx9YQfKo5AcLCbT=w408-h544-k-no",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+421 949 363 555",
+        "address": "Zmrzlina Jadran, 945 05 Komarno, Si Luo Fa Ke ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zmrzlina+Jadran/data=!4m7!3m6!1s0x476bad55a45f6d61:0xa1455a3fea2b45a1!8m2!3d47.7569802!4d18.1293364!16s%2Fg%2F11fy1dvd33!19sChIJYW1fpFWta0cRoUUr6j9aRaE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJtxDYXkCza0cREP3oziVUunA",
         "name": "Chill Zone Cafe&Bar",
         "description": null,
@@ -2408,14 +2366,14 @@
             {
                 "name": "Cafe Monaco",
                 "link": "https://www.google.com/maps/search/Cafe+Monaco/@47.746264,18.1199448?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 651,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Mona Lisa Cafe",
                 "link": "https://www.google.com/maps/search/Mona+Lisa+Caf%C3%A9/@47.7451642,18.120347?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
+                "reviews": 247,
                 "rating": 4.7,
                 "main_category": "Pi Jiu Hua Yuan "
             },
@@ -2526,7 +2484,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.74343700000001,18.116447?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 336,
+                "reviews": 337,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -2654,33 +2612,6 @@
         "link": "https://www.google.com/maps/place/Lounge+Y69/data=!4m7!3m6!1s0x476bb35170fc15cd:0x2036adf04f122ffe!8m2!3d47.7418945!4d18.1181599!16s%2Fg%2F11v64wz10n!19sChIJzRX8cFGza0cR_i8ST_CtNiA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJjWnspsmta0cRgV57tO6GVwk",
-        "name": "EZ AZ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "107883341981598347318",
-            "name": "EZ AZ (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107883341981598347318"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgfqkDEwoNiMYAdK6dg8ONNeVbTft4hmI_bFaV=w408-h544-k-no",
-        "main_category": "Shu Dian ",
-        "categories": [
-            "Shu Dian ",
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+421 915 033 458",
-        "address": "EZ AZ, Nadvorie Europy 45, 945 01 Komarno, Si Luo Fa Ke ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/EZ+AZ/data=!4m7!3m6!1s0x476badc9a6ec698d:0x95786eeb47b5e81!8m2!3d47.7584102!4d18.1291693!16s%2Fg%2F11st3s55wn!19sChIJjWnspsmta0cRgV57tO6GVwk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJLTxa-Pqta0cRcsfu9lmHWl4",
         "name": "Best Caffe",
         "description": null,
@@ -2753,7 +2684,7 @@
                 "name": "Kolcsar Pekseg Mintabolt",
                 "link": "https://www.google.com/maps/search/Kolcs%C3%A1r+P%C3%A9ks%C3%A9g+Mintabolt/@47.5472914,18.3290555?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 25,
-                "rating": 4.6,
+                "rating": 4.5,
                 "main_category": "Shang Dian "
             },
             {
@@ -2793,6 +2724,95 @@
         "link": "https://www.google.com/maps/place/Kolcs%C3%A1r+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x476bb3e2c23a545f:0x8f3fc1ce0e9bd4c7!8m2!3d47.7418177!4d18.1185316!16s%2Fg%2F11gzkvvj09!19sChIJX1Q6wuKza0cRx9SbDs7BP48?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJjWnspsmta0cRgV57tO6GVwk",
+        "name": "EZ AZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "107883341981598347318",
+            "name": "EZ AZ (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107883341981598347318"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgfqkDEwoNiMYAdK6dg8ONNeVbTft4hmI_bFaV=w408-h544-k-no",
+        "main_category": "Shu Dian ",
+        "categories": [
+            "Shu Dian ",
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+421 915 033 458",
+        "address": "EZ AZ, Nadvorie Europy 45, 945 01 Komarno, Si Luo Fa Ke ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/EZ+AZ/data=!4m7!3m6!1s0x476badc9a6ec698d:0x95786eeb47b5e81!8m2!3d47.7584102!4d18.1291693!16s%2Fg%2F11st3s55wn!19sChIJjWnspsmta0cRgV57tO6GVwk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJGXSh_HZNakcRuO36KjxRn_U",
+        "name": "Elelmiszerbolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "CBA",
+                "link": "https://www.google.com/maps/search/CBA/@47.7385204,18.1209702?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 252,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Bobe Bt.",
+                "link": "https://www.google.com/maps/search/B%C3%B3b%C3%A9+Bt./@47.7437028,18.1173459?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 24,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "ELELMISZER ABC",
+                "link": "https://www.google.com/maps/search/%C3%89LELMISZER+ABC/@47.748934,18.0667254?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.3,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "ABC & BUFE",
+                "link": "https://www.google.com/maps/search/ABC+%26+B%C3%9CF%C3%89/@47.7350486,18.1731524?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.8,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Spar Express",
+                "link": "https://www.google.com/maps/search/Spar+Express/@47.7382594,18.118210899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Bian Li Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Elelmiszerbolt (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8KgRpY7_zYq6OikrQJowCg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=208.03275&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 3.5,
+        "workday_timing": "06:30-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 34 342 648",
+        "address": "Komarom, Elelmiszerbolt, Petofi Sandor u. 11, 2921 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C3%89lelmiszerbolt/data=!4m7!3m6!1s0x476a4d76fca17419:0xf59f513c2afaedb8!8m2!3d47.7350598!4d18.1730709!16s%2Fg%2F1vd3tl8m!19sChIJGXSh_HZNakcRuO36KjxRn_U?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ5wSvTlGta0cRxNVWCNatIcU",
         "name": "CITY FLORA & CAFFE",
         "description": null,
@@ -2802,14 +2822,14 @@
             {
                 "name": "KAVY SVETA | FRISS KAVE | COFFEE WORLD",
                 "link": "https://www.google.com/maps/search/K%C3%81VY+SVETA+%7C+FRISS+K%C3%81V%C3%89+%7C+COFFEE+WORLD/@47.757002799999995,18.129248699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 289,
+                "reviews": 290,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "CAFE FREI",
                 "link": "https://www.google.com/maps/search/CAFE+FREI/@47.7585381,18.1242965?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 224,
+                "reviews": 226,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             }
@@ -3027,7 +3047,7 @@
             {
                 "name": "KAVY SVETA | FRISS KAVE | COFFEE WORLD",
                 "link": "https://www.google.com/maps/search/K%C3%81VY+SVETA+%7C+FRISS+K%C3%81V%C3%89+%7C+COFFEE+WORLD/@47.757002799999995,18.129248699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 289,
+                "reviews": 290,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -3064,6 +3084,68 @@
         "address": "Coffee Up Slovakia S.r.o., Druzstevna 3009/8, 945 01 Komarno, Si Luo Fa Ke ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Coffee+Up+Slovakia+S.r.o./data=!4m7!3m6!1s0x476bad6f530897a1:0x87e024c7d46c15a7!8m2!3d47.7698258!4d18.1049787!16s%2Fg%2F1tj29t9l!19sChIJoZcIU2-ta0cRpxVs1Mck4Ic?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ03Fnx01NakcRGjLZ5OH1Ylw",
+        "name": "Kolcsar Sutoipari Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Molnar Fagylaltozo es Cukraszda",
+                "link": "https://www.google.com/maps/search/Moln%C3%A1r+Fagylaltoz%C3%B3+%C3%A9s+Cukr%C3%A1szda/@47.7435696,18.128175199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 754,
+                "rating": 4.7,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Kolcsar Pekseg Mintabolt",
+                "link": "https://www.google.com/maps/search/Kolcs%C3%A1r+P%C3%A9ks%C3%A9g+Mintabolt/@47.5472914,18.3290555?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.5,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "Kolcsar Pekseg",
+                "link": "https://www.google.com/maps/search/Kolcs%C3%A1r+P%C3%A9ks%C3%A9g/@47.7418177,18.1185316?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Kicsikek Pekseg",
+                "link": "https://www.google.com/maps/search/Kicsik%C3%A9k+P%C3%A9ks%C3%A9g/@47.743856099999995,18.1163532?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kolcsar Sutoipari Kft",
+                "link": "https://www.google.com/maps/search/Kolcs%C3%A1r+S%C3%BCt%C5%91ipari+Kft/@47.563607999999995,18.4235127?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kolcsar Sutoipari Kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uxl7FLccu5aCRKM6pzTsPg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=231.26479&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Komarom, Kolcsar Sutoipari Kft., Tancsics Mihaly u., 2900 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kolcs%C3%A1r+S%C3%BCt%C5%91ipari+Kft./data=!4m7!3m6!1s0x476a4d4dc76771d3:0x5c62f5e1e4d9321a!8m2!3d47.7433215!4d18.1300132!16s%2Fg%2F11spw1vjpq!19sChIJ03Fnx01NakcRGjLZ5OH1Ylw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJI06qyV2za0cRMTPTrfvCoVk",
@@ -3126,53 +3208,5 @@
         "address": "Komarom, Fagyizo, Igmandi ut 17, 2900 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Fagyizo/data=!4m7!3m6!1s0x476bb35dc9aa4e23:0x59a1c2fbadd33331!8m2!3d47.7439098!4d18.1189685!16s%2Fg%2F11q9jjd3bk!19sChIJI06qyV2za0cRMTPTrfvCoVk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJn2kMJt6ta0cRbaittClWnx4",
-        "name": "Corner Caffe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "N Caffe",
-                "link": "https://www.google.com/maps/search/N+Caffe/@47.761704099999996,18.126880699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 119,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe & Bar @Laser Arena Komarno",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+%26+Bar+%40Laser+Ar%C3%A9na+Kom%C3%A1rno/@47.7605681,18.1263729?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Caffe Europa",
-                "link": "https://www.google.com/maps/search/Caffe+Europa/@47.759459199999995,18.1252566?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Jiu Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Corner Caffe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3NgC-MxNYEGPkokSzh2doQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=66.42549&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Corner Caffe, 945 01 Komarno, Si Luo Fa Ke ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Corner+Caffe/data=!4m7!3m6!1s0x476badde260c699f:0x1e9f5629b4ada86d!8m2!3d47.7612613!4d18.1263027!16s%2Fg%2F11jx659zcl!19sChIJn2kMJt6ta0cRbaittClWnx4?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

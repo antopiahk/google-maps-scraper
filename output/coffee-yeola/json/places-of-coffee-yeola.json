@@ -5,7 +5,15 @@
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 134,
-        "competitors": [],
+        "competitors": [
+            {
+                "name": "Kalika Cafe",
+                "link": "https://www.google.com/maps/search/Kalika+Cafe/@20.0407086,74.4879139?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Dian Nao Zhuan Men Dian "
+            }
+        ],
         "website": "https://siddhakalaonineservices.business.site/",
         "owner": {
             "id": "102293147360561577461",
@@ -64,7 +72,7 @@
             },
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -146,7 +154,7 @@
             },
             {
                 "name": "Hotel Jeevandhara",
-                "link": "https://www.google.com/maps/search/Hotel+Jeevandhara/@20.0431125,74.4815744?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Hotel+Jeevandhara/@20.043295399999998,74.4826048?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 11,
                 "rating": 4.3,
                 "main_category": "Can Ting "
@@ -179,62 +187,6 @@
         "address": "Hotel Sahara, Nagar, Manmad Rd, near Kanda Market, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Hotel+Sahara/data=!4m7!3m6!1s0x3bdc45e2b4f7fbcf:0xb9dfcc9e9b50346!8m2!3d20.0499447!4d74.4815143!16s%2Fg%2F11gjxf4hzm!19sChIJz_v3tOJF3DsRRgO16cn8nQs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJFfW_bAE53DsRec5aUsvjqj0",
-        "name": "Cafe Coffee Day",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 98,
-        "competitors": [
-            {
-                "name": "The crush cafe yeola",
-                "link": "https://www.google.com/maps/search/The+crush+cafe+yeola/@20.0495737,74.4810303?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "The Black cafe",
-                "link": "https://www.google.com/maps/search/The+Black+caf%C3%A9/@20.065704399999998,74.4585458?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pusadkar(OM SAI )",
-                "link": "https://www.google.com/maps/search/Pusadkar%28OM+SAI+%29/@20.066952,74.44464680000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Yari Dosti Cafe",
-                "link": "https://www.google.com/maps/search/Yari+Dosti+Cafe/@20.0516379,74.4799776?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.cafecoffeeday.com/",
-        "owner": {
-            "id": null,
-            "name": "Cafe Coffee Day (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPq6nujwzjegtCQuq-TMi8jpTaMmRFwdWAwMYmS=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Ka Pei Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "10:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+91 1800 102 5093",
-        "address": "Cafe Coffee Day, Dhanore, Maharashtra 423401Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafe+Coffee+Day/data=!4m7!3m6!1s0x3bdc39016cbff515:0x3daae3cb525ace79!8m2!3d20.066178!4d74.4570453!16s%2Fg%2F11fy7c2hwn!19sChIJFfW_bAE53DsRec5aUsvjqj0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ44QaO0453DsRXahv_6EVz9g",
@@ -411,15 +363,15 @@
         "reviews": 2,
         "competitors": [
             {
-                "name": "aabaa amRttuly yevlaa",
-                "link": "https://www.google.com/maps/search/%E0%A4%86%E0%A4%AC%E0%A4%BE+%E0%A4%85%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AF+%E0%A4%AF%E0%A5%87%E0%A4%B5%E0%A4%B2%E0%A4%BE/@20.056917,74.47849579999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
+                "name": "Shivneri Cha",
+                "link": "https://www.google.com/maps/search/Shivneri+Cha/@20.044251799999998,74.4837338?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
                 "main_category": "Cha Xie Dian "
             },
             {
-                "name": "Shivneri Cha",
-                "link": "https://www.google.com/maps/search/Shivneri+Cha/@20.044251799999998,74.4837338?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "aabaa amRttuly yevlaa",
+                "link": "https://www.google.com/maps/search/%E0%A4%86%E0%A4%AC%E0%A4%BE+%E0%A4%85%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AF+%E0%A4%AF%E0%A5%87%E0%A4%B5%E0%A4%B2%E0%A4%BE/@20.056917,74.47849579999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Cha Xie Dian "
@@ -536,7 +488,7 @@
         "name": "Khau Gali Yeola",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 229,
+        "reviews": 230,
         "competitors": [
             {
                 "name": "Jay Ambe Kulswamini Matan Khanaval",
@@ -597,7 +549,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -686,7 +638,48 @@
         "phone": "+91 95110 05959",
         "address": "Yeola Amrutulya, Shop1 Fatypura Naka Yeola Auragabad Rod, Maharashtra 423401Yin Du ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Yeola+Amrutulya/data=!4m7!3m6!1s0x3bdc39a3a0689c85:0x828357ee1f2586c3!8m2!3d20.0383857!4d74.4866589!16s%2Fg%2F11fq8c79pz!19sChIJhZxooKM53DsRw4YlH-5Xg4I?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Yeola+Amrutulya/data=!4m7!3m6!1s0x3bdc39a3a0689c85:0x828357ee1f2586c3!8m2!3d20.0381395!4d74.48735!16s%2Fg%2F11fq8c79pz!19sChIJhZxooKM53DsRw4YlH-5Xg4I?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJkYe9gQU53DsRg5EtDJ2qkpg",
+        "name": "Suvarna Amruttulya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "competitors": [
+            {
+                "name": "Mauli Tonic Tea",
+                "link": "https://www.google.com/maps/search/Mauli+Tonic+Tea/@20.108603199999997,74.4557284?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Cha Xie Dian "
+            },
+            {
+                "name": "Aaba Amrutulya",
+                "link": "https://www.google.com/maps/search/Aaba+Amrutulya/@20.0884903,74.46575349999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Cha Xie Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "108087370569720793437",
+            "name": "Suvarna Amruttulya (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108087370569720793437"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSfx7lsSA_4n7mt8zE22f8B3A5zP0b9NaZgi2f=w426-h240-k-no",
+        "main_category": "Cha Xie Dian ",
+        "categories": [
+            "Cha Xie Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": "+91 76201 27149",
+        "address": "Suvarna Amruttulya, a/p sawergaon tel, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Suvarna+Amruttulya/data=!4m7!3m6!1s0x3bdc390581bd8791:0x9892aa9d0c2d9183!8m2!3d20.1066172!4d74.4587518!16s%2Fg%2F11t7_cjhwq!19sChIJkYe9gQU53DsRg5EtDJ2qkpg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJmYiejuw53DsR1oWEMOBg0mg",
@@ -746,54 +739,6 @@
         "address": "Cafe Crave VTC, Ved Colony, Kotamgoan Road, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Cafe+Crave+VTC/data=!4m7!3m6!1s0x3bdc39ec8e9e8899:0x68d260e0308485d6!8m2!3d20.0367204!4d74.49856!16s%2Fg%2F11nxrwqb66!19sChIJmYiejuw53DsR1oWEMOBg0mg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ_8GitcA43DsRwU7jYGxHtMU",
-        "name": "Bits N Bytes Computers",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 16,
-        "competitors": [
-            {
-                "name": "Ganesh Enterprises",
-                "link": "https://www.google.com/maps/search/Ganesh+Enterprises/@20.065714099999997,74.4584821?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 51,
-                "rating": 4.7,
-                "main_category": "Dian Nao Wei Xiu Fu Wu "
-            },
-            {
-                "name": "Shinde Cyber World",
-                "link": "https://www.google.com/maps/search/Shinde+Cyber+World/@20.038304000000004,74.482024?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 3.7,
-                "main_category": "Wang Ba "
-            },
-            {
-                "name": "BITS N BYTES COMPUTERS",
-                "link": "https://www.google.com/maps/search/BITS+N+BYTES+COMPUTERS/@20.0429748,74.4897754?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Dian Nao Zhi Yuan Ji Fu Wu "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Bits N Bytes Computers (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrQ8hj6E3SnSrzHF2bsO3gXx6R61VRSEeFQI2k=w408-h403-k-no",
-        "main_category": "Shang Dian ",
-        "categories": [
-            "Shang Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "2FVJ+3M6 Bits N Bytes Computers, Shree Ram Colony, Angan, Yeola, Maharashtra 423401Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bits+N+Bytes+Computers/data=!4m7!3m6!1s0x3bdc38c0b5a2c1ff:0xc5b4476c60e34ec1!8m2!3d20.0426593!4d74.4816466!16s%2Fg%2F11bwydf2s4!19sChIJ_8GitcA43DsRwU7jYGxHtMU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJHdB_lEw53DsR8hJceNY6wRE",
@@ -907,7 +852,7 @@
             },
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -1003,7 +948,7 @@
             },
             {
                 "name": "The Black cafe",
-                "link": "https://www.google.com/maps/search/The+Black+caf%C3%A9/@20.065704399999998,74.4585458?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/The+Black+caf%C3%A9/@20.0656273,74.45860449999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 6,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
@@ -1214,7 +1159,48 @@
         "phone": null,
         "address": "3F85+7C The Black cafe, Babhulgaon Kh., Maharashtra 423401Yin Du ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/The+Black+caf%C3%A9/data=!4m7!3m6!1s0x3bdc39ac23d0c46b:0xfc182afe87284a21!8m2!3d20.0657044!4d74.4585458!16s%2Fg%2F11p63swx_1!19sChIJa8TQI6w53DsRIUooh_4qGPw?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/The+Black+caf%C3%A9/data=!4m7!3m6!1s0x3bdc39ac23d0c46b:0xfc182afe87284a21!8m2!3d20.0656273!4d74.4586045!16s%2Fg%2F11p63swx_1!19sChIJa8TQI6w53DsRIUooh_4qGPw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJPWv6Krk43DsRiKhrhD4J9h4",
+        "name": "Shinde Cyber World",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "competitors": [
+            {
+                "name": "Ganesh Enterprises",
+                "link": "https://www.google.com/maps/search/Ganesh+Enterprises/@20.065714099999997,74.4584821?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 51,
+                "rating": 4.7,
+                "main_category": "Dian Nao Wei Xiu Fu Wu "
+            },
+            {
+                "name": "Bits N Bytes Computers",
+                "link": "https://www.google.com/maps/search/Bits+N+Bytes+Computers/@20.0426593,74.48164659999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.3,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Shinde Cyber World (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Wang Ba ",
+        "categories": [
+            "Wang Ba "
+        ],
+        "rating": 3.7,
+        "workday_timing": "09:00-10:00",
+        "closed_on": "Open All Days",
+        "phone": "+91 90119 79594",
+        "address": "Shinde Cyber World, Shinde Complex, Paregaon Rd, Bajirao Nagar, Raje Sambhji Nagar, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shinde+Cyber+World/data=!4m7!3m6!1s0x3bdc38b92afa6b3d:0x1ef6093e846ba888!8m2!3d20.038304!4d74.482024!16s%2Fg%2F11cn9343j6!19sChIJPWv6Krk43DsRiKhrhD4J9h4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ5U6IKds53DsR9pMcRXzjFms",
@@ -1446,7 +1432,7 @@
             },
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -1486,40 +1472,6 @@
         "link": "https://www.google.com/maps/place/Yari+Dosti+Cafe/data=!4m7!3m6!1s0x3bdc39b1d44f0b11:0x9e42ab71266580e3!8m2!3d20.0516379!4d74.4799776!16s%2Fg%2F11pdr7hmrt!19sChIJEQtP1LE53DsR44BlJnGrQp4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJmXMQL0E53DsRiUz1tpBWKk4",
-        "name": "Siddhi samarth Net",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Bits N Bytes Computers",
-                "link": "https://www.google.com/maps/search/Bits+N+Bytes+Computers/@20.0426593,74.48164659999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.3,
-                "main_category": "Shang Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Siddhi samarth Net (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 3.7,
-        "workday_timing": "09:00-17:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Siddhi samarth Net, Angangaon, Yeola, Maharashtra 423401Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Siddhi+samarth+Net/data=!4m7!3m6!1s0x3bdc39412f107399:0x4e2a5690b6f54c89!8m2!3d20.0432631!4d74.4789221!16s%2Fg%2F11hz5_07dh!19sChIJmXMQL0E53DsRiUz1tpBWKk4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJaX5ROfw53DsRbAI9PJR0CPw",
         "name": "FRUITO REAL ICECREAM",
         "description": null,
@@ -1552,6 +1504,40 @@
         "address": "FRUITO REAL ICECREAM, 1, Vinchur Road, near Basket Mall, Angan, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/FRUITO+REAL+ICECREAM/data=!4m7!3m6!1s0x3bdc39fc39517e69:0xfc0874943c3d026c!8m2!3d20.0414679!4d74.4766367!16s%2Fg%2F11tsv3x2yb!19sChIJaX5ROfw53DsRbAI9PJR0CPw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJmXMQL0E53DsRiUz1tpBWKk4",
+        "name": "Siddhi samarth Net",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Bits N Bytes Computers",
+                "link": "https://www.google.com/maps/search/Bits+N+Bytes+Computers/@20.0426593,74.48164659999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.3,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Siddhi samarth Net (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3.7,
+        "workday_timing": "09:00-17:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Siddhi samarth Net, Angangaon, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Siddhi+samarth+Net/data=!4m7!3m6!1s0x3bdc39412f107399:0x4e2a5690b6f54c89!8m2!3d20.0432631!4d74.4789221!16s%2Fg%2F11hz5_07dh!19sChIJmXMQL0E53DsRiUz1tpBWKk4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ-2S7OGg53DsRdal24o0Olqk",
@@ -1644,7 +1630,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -1783,7 +1769,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -1893,7 +1879,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -2029,6 +2015,47 @@
         "link": "https://www.google.com/maps/place/COOL+CAFE/data=!4m7!3m6!1s0x3bdc39b5f901f675:0x3aaf1fc68d707b7a!8m2!3d20.0661971!4d74.4572327!16s%2Fg%2F11t2qklyv_!19sChIJdfYB-bU53DsRentwjcYfrzo?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ6SF4Skk53DsRd7wsOer_9lQ",
+        "name": "Mansi Ice Cream",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Lakshmi Vilas Ice Cream Parlour",
+                "link": "https://www.google.com/maps/search/Lakshmi+Vilas+Ice+Cream+Parlour/@20.041865299999998,74.4880282?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Shri Bharka Devi Ice Cream",
+                "link": "https://www.google.com/maps/search/Shri+Bharka+Devi+Ice+Cream/@20.0433594,74.4849146?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mansi Ice Cream (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6Wd-sRKY_6J3PGBzoy-BjXyKdhDLiI6YKqdHM=w408-h408-k-no",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 92265 78968",
+        "address": "Mansi Ice Cream, Shop1 Aurangabad Road, Tal, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mansi+Ice+Cream/data=!4m7!3m6!1s0x3bdc39494a7821e9:0x54f6ffea392cbc77!8m2!3d20.0362126!4d74.4969003!16s%2Fg%2F11rvc2c1jr!19sChIJ6SF4Skk53DsRd7wsOer_9lQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ31pJiqsx3DsRJIjqJo7z8JE",
         "name": "sahara pan shop",
         "description": null,
@@ -2071,47 +2098,6 @@
         "link": "https://www.google.com/maps/place/sahara+pan+shop/data=!4m7!3m6!1s0x3bdc31ab8a495adf:0x91f0f38e26ea8824!8m2!3d20.0430581!4d74.4835719!16s%2Fg%2F11jp07vs13!19sChIJ31pJiqsx3DsRJIjqJo7z8JE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ6SF4Skk53DsRd7wsOer_9lQ",
-        "name": "Mansi Ice Cream",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Lakshmi Vilas Ice Cream Parlour",
-                "link": "https://www.google.com/maps/search/Lakshmi+Vilas+Ice+Cream+Parlour/@20.041865299999998,74.4880282?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Shri Bharka Devi Ice Cream",
-                "link": "https://www.google.com/maps/search/Shri+Bharka+Devi+Ice+Cream/@20.0433594,74.4849146?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Mansi Ice Cream (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6Wd-sRKY_6J3PGBzoy-BjXyKdhDLiI6YKqdHM=w408-h408-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+91 92265 78968",
-        "address": "Mansi Ice Cream, Shop1 Aurangabad Road, Tal, Yeola, Maharashtra 423401Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mansi+Ice+Cream/data=!4m7!3m6!1s0x3bdc39494a7821e9:0x54f6ffea392cbc77!8m2!3d20.0362126!4d74.4969003!16s%2Fg%2F11rvc2c1jr!19sChIJ6SF4Skk53DsRd7wsOer_9lQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJpVAzee1B3DsRn3BOj66IVzQ",
         "name": "Morya Amruttulay",
         "description": null,
@@ -2151,6 +2137,102 @@
         "address": "Morya Amruttulay, Shop1 Aurangabad Road Near Indan Oil Andarsul, Tal, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Morya+Amruttulay/data=!4m7!3m6!1s0x3bdc41ed793350a5:0x345788ae8f4e709f!8m2!3d20.0119344!4d74.5689148!16s%2Fg%2F11rn4lv_0_!19sChIJpVAzee1B3DsRn3BOj66IVzQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJT7O8vRlH3DsRlTN9HbFOwjE",
+        "name": "Hotel Om T House",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "hotel Taj",
+                "link": "https://www.google.com/maps/search/hotel+Taj/@20.0451069,74.4932692?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Cha Xie Dian "
+            },
+            {
+                "name": "More T House",
+                "link": "https://www.google.com/maps/search/More+T+House/@19.9653208,74.3149892?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Hotel Om Sai",
+                "link": "https://www.google.com/maps/search/Hotel+Om+Sai/@19.9471541,74.2923658?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "114570857923283757461",
+            "name": "Hotel Om T House (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114570857923283757461"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WWEoLLwK1pEFhraqvuKROw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=224.73743&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 91308 25151",
+        "address": "Hotel Om T House, Shop1 Malegoan Road Near Bus Stop Rawanda, Tal, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Om+T+House/data=!4m7!3m6!1s0x3bdc4719bdbcb34f:0x31c24eb11d7d3395!8m2!3d19.9627225!4d74.4068637!16s%2Fg%2F11rplmxjb7!19sChIJT7O8vRlH3DsRlTN9HbFOwjE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJG23NtHdB3DsRyYHKJBzLSlQ",
+        "name": "Shivneri Gulaca Chaha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Yeola Amrutulya",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Shivneri Cha",
+                "link": "https://www.google.com/maps/search/Shivneri+Cha/@20.044251799999998,74.4837338?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Cha Xie Dian "
+            },
+            {
+                "name": "Graduate Chai",
+                "link": "https://www.google.com/maps/search/Graduate+Chai/@20.0447264,74.48425499999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "113881611592919596761",
+            "name": "Shivneri Gulaca Chaha (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113881611592919596761"
+        },
+        "featured_image": null,
+        "main_category": "Cha Xie Dian ",
+        "categories": [
+            "Cha Xie Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 86058 28436",
+        "address": "Shivneri Gulaca Chaha, Shop1 Nashik Aurangabad Road Opp Indan Oil Andarsul, Tal, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shivneri+Gulaca+Chaha/data=!4m7!3m6!1s0x3bdc4177b4cd6d1b:0x544acb1c24ca81c9!8m2!3d20.013254!4d74.5678227!16s%2Fg%2F11sych7sd5!19sChIJG23NtHdB3DsRyYHKJBzLSlQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJseWFKL843DsRgqWqLcIReWU",
@@ -2209,7 +2291,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -2311,102 +2393,78 @@
         "link": "https://www.google.com/maps/place/Jai+Hind+Cornar+Masala+Soda/data=!4m7!3m6!1s0x3bdc398a2649833f:0x3362f04a4f591941!8m2!3d20.035762!4d74.4980908!16s%2Fg%2F11lg1rk4t9!19sChIJP4NJJoo53DsRQRlZT0rwYjM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJd5Cy5gI53DsR6Y3CE9w1-0w",
-        "name": "Cafe Aaena",
+        "place_id": "ChIJj1g_4hU53DsRKDAf2BvhfeI",
+        "name": "Smart Cyber Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": null,
+        "reviews": 1,
         "competitors": [
             {
-                "name": "Nana'S chaha",
-                "link": "https://www.google.com/maps/search/Nana%27S+chaha/@20.0434287,74.4837836?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Cha Yi Guan "
+                "name": "Bits N Bytes Computers",
+                "link": "https://www.google.com/maps/search/Bits+N+Bytes+Computers/@20.0426593,74.48164659999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.3,
+                "main_category": "Shang Dian "
             },
             {
-                "name": "Tea Shop",
-                "link": "https://www.google.com/maps/search/Tea+Shop/@20.0462034,74.4944831?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
+                "name": "Shinde Cyber World",
+                "link": "https://www.google.com/maps/search/Shinde+Cyber+World/@20.038304000000004,74.482024?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3.7,
+                "main_category": "Wang Ba "
             },
             {
-                "name": "Sai Ice Cream Parlor & Avni Cafe",
-                "link": "https://www.google.com/maps/search/Sai+Ice+Cream+Parlor+%26+Avni+Cafe/@20.044332999999998,74.4833803?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
+                "name": "Siddhi samarth Net",
+                "link": "https://www.google.com/maps/search/Siddhi+samarth+Net/@20.0432631,74.47892209999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Ka Pei Ting "
             }
         ],
         "website": null,
         "owner": {
-            "id": "105549295151999019790",
-            "name": "Cafe Aaena (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105549295151999019790"
+            "id": "114948848255713072813",
+            "name": "Smart Cyber Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114948848255713072813"
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=w-PrbldnSbKan6myIuuImg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=312.42386&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXGMSfJkb_Vm2RvLgk9C7vNXdd3OZAVS5T038U=w427-h240-k-no",
+        "main_category": "Wang Ba ",
         "categories": [
-            "Ka Pei Dian "
+            "Wang Ba "
         ],
-        "rating": null,
-        "workday_timing": "08:00-23:00",
+        "rating": 5,
+        "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": "+91 92726 35581",
-        "address": "Cafe Aaena, Kacheri Rd, near Ayena Masjid, Babulgaonkar Wada, Yeola, Maharashtra 423401Yin Du ",
+        "phone": null,
+        "address": "Smart Cyber Cafe, Opposite Of Kanda Market, behind Of Darade Jansampark Kryalaya, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafe+Aaena/data=!4m7!3m6!1s0x3bdc3902e6b29077:0x4cfb35dc13c28de9!8m2!3d20.0449394!4d74.4896956!16s%2Fg%2F11t4zbfc0x!19sChIJd5Cy5gI53DsR6Y3CE9w1-0w?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Smart+Cyber+Cafe/data=!4m7!3m6!1s0x3bdc3915e23f588f:0xe27de11bd81f3028!8m2!3d20.0481761!4d74.4822219!16s%2Fg%2F11gns851gz!19sChIJj1g_4hU53DsRKDAf2BvhfeI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJMbiDR_Q53DsRxn2OR7W9UGI",
-        "name": "Sai Ice Cream Parlor & Avni Cafe",
+        "place_id": "ChIJz0UnwUJF3DsRBpYbMn5y40Y",
+        "name": "SB tea house ",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Crave VTC",
-                "link": "https://www.google.com/maps/search/Cafe+Crave+VTC/@20.0367204,74.49856?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 4.5,
-                "main_category": "Vegetarian cafe and deli"
-            },
-            {
-                "name": "AV ice cream parlour , indranil corner yeola 423401",
-                "link": "https://www.google.com/maps/search/AV+ice+cream+parlour+%2C+indranil+corner+yeola+423401/@20.0430097,74.4851809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "AMBAR ICE CREAM PARLOR",
-                "link": "https://www.google.com/maps/search/AMBAR+ICE+CREAM+PARLOR/@20.0450055,74.489778?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
+        "reviews": 1,
+        "competitors": [],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Sai Ice Cream Parlor & Avni Cafe (Ye Zhu )",
+            "name": "SB tea house  (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G1A55oUg7JHivHpYbMPXgA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=228.87573&pitch=0&thumbfov=100",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNin0pJyCKUYtzw8K3XfN0CrPVvPbaXk5Ukx1ta=w408-h306-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": null,
-        "workday_timing": "08:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+91 70286 49552",
-        "address": "Sai Ice Cream Parlor & Avni Cafe, Shop1 Nagar Manmad Road, Tal, opp. Bus Stop, near Khushi Chinese, Yeola, Maharashtra 423401Yin Du ",
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "VFWJ+HQ9 SB tea house , Aurangabad - Nashik Hwy, Angan, Yeola, Kopargaon, Maharashtra 423401Yin Du ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Sai+Ice+Cream+Parlor+%26+Avni+Cafe/data=!4m7!3m6!1s0x3bdc39f44783b831:0x6250bdb5478e7dc6!8m2!3d20.044333!4d74.4833803!16s%2Fg%2F11pys92whc!19sChIJMbiDR_Q53DsRxn2OR7W9UGI?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/SB+tea+house+%F0%9F%AB%96/data=!4m7!3m6!1s0x3bdc4542c12745cf:0x46e3727e321b9606!8m2!3d19.8964191!4d74.4819713!16s%2Fg%2F11txbr8wl5!19sChIJz0UnwUJF3DsRBpYbMn5y40Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJHRhHZ3g53DsRienY8OJPBQg",
@@ -2536,7 +2594,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -2567,6 +2625,104 @@
         "address": "Graduate Chai, Shop1, Tal, opp. Bus Stop, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Graduate+Chai/data=!4m7!3m6!1s0x3bdc3953b1ef3dd3:0x5ce910e89b5fc833!8m2!3d20.0447264!4d74.484255!16s%2Fg%2F11t25xz1tp!19sChIJ0z3vsVM53DsRM8hfm-gQ6Vw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJd5Cy5gI53DsR6Y3CE9w1-0w",
+        "name": "Cafe Aaena",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Nana'S chaha",
+                "link": "https://www.google.com/maps/search/Nana%27S+chaha/@20.0434287,74.4837836?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Tea Shop",
+                "link": "https://www.google.com/maps/search/Tea+Shop/@20.0462034,74.4944831?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Sai Ice Cream Parlor & Avni Cafe",
+                "link": "https://www.google.com/maps/search/Sai+Ice+Cream+Parlor+%26+Avni+Cafe/@20.044332999999998,74.4833803?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "105549295151999019790",
+            "name": "Cafe Aaena (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105549295151999019790"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=w-PrbldnSbKan6myIuuImg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=312.42386&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-23:00",
+        "closed_on": "Open All Days",
+        "phone": "+91 92726 35581",
+        "address": "Cafe Aaena, Kacheri Rd, near Ayena Masjid, Babulgaonkar Wada, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Aaena/data=!4m7!3m6!1s0x3bdc3902e6b29077:0x4cfb35dc13c28de9!8m2!3d20.0449394!4d74.4896956!16s%2Fg%2F11t4zbfc0x!19sChIJd5Cy5gI53DsR6Y3CE9w1-0w?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJMbiDR_Q53DsRxn2OR7W9UGI",
+        "name": "Sai Ice Cream Parlor & Avni Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Cafe Crave VTC",
+                "link": "https://www.google.com/maps/search/Cafe+Crave+VTC/@20.0367204,74.49856?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 4.5,
+                "main_category": "Vegetarian cafe and deli"
+            },
+            {
+                "name": "AV ice cream parlour , indranil corner yeola 423401",
+                "link": "https://www.google.com/maps/search/AV+ice+cream+parlour+%2C+indranil+corner+yeola+423401/@20.0430097,74.4851809?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "AMBAR ICE CREAM PARLOR",
+                "link": "https://www.google.com/maps/search/AMBAR+ICE+CREAM+PARLOR/@20.0450055,74.489778?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sai Ice Cream Parlor & Avni Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G1A55oUg7JHivHpYbMPXgA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=228.87573&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+91 70286 49552",
+        "address": "Sai Ice Cream Parlor & Avni Cafe, Shop1 Nagar Manmad Road, Tal, opp. Bus Stop, near Khushi Chinese, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sai+Ice+Cream+Parlor+%26+Avni+Cafe/data=!4m7!3m6!1s0x3bdc39f44783b831:0x6250bdb5478e7dc6!8m2!3d20.044333!4d74.4833803!16s%2Fg%2F11pys92whc!19sChIJMbiDR_Q53DsRxn2OR7W9UGI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJhUv5Qjg53DsRmHS3y1SH4uo",
@@ -2608,6 +2764,32 @@
         "address": "Shop No, Sheru Coffe Shop, 1, Aurangabad - Nandgaon Rd, Samad Nagar, Padegaon, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Sheru+Coffe+Shop/data=!4m7!3m6!1s0x3bdc393842f94b85:0xeae28754cbb77498!8m2!3d20.0461069!4d74.4943771!16s%2Fg%2F11rd3nwsf8!19sChIJhUv5Qjg53DsRmHS3y1SH4uo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5b1nfyY53DsR33pVAywZaqI",
+        "name": "The Black Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Black Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KTG4mYLF10cgc3KMKxED8A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=212.46527&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "2FVM+7HP The Black Cafe, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Black+Cafe/data=!4m7!3m6!1s0x3bdc39267f67bde5:0xa26a192c03557adf!8m2!3d20.0432004!4d74.4839523!16s%2Fg%2F11kpvwwn75!19sChIJ5b1nfyY53DsR33pVAywZaqI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJu4PkxwE53DsRiyPEo630IKM",
@@ -2656,47 +2838,6 @@
         "address": "Jabreshwar Restaurant, Jabreshwar Hanuman Kund, Main Rd, Patil Wada, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Jabreshwar+Restaurant/data=!4m7!3m6!1s0x3bdc3901c7e483bb:0xa320f4ada3c4238b!8m2!3d20.0422859!4d74.488933!16s%2Fg%2F11tmhpdd3n!19sChIJu4PkxwE53DsRiyPEo630IKM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJKdCZWK453DsROaYB6IbQWm0",
-        "name": "Samarth T House",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Yari Dosti Cafe",
-                "link": "https://www.google.com/maps/search/Yari+Dosti+Cafe/@20.0516379,74.4799776?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tea Shop",
-                "link": "https://www.google.com/maps/search/Tea+Shop/@20.0462034,74.4944831?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "100388359968227748031",
-            "name": "Samarth T House (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100388359968227748031"
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+91 95524 49377",
-        "address": "Samarth T House, Shop1 Nadgoan Baypass, Tal, near Bay Aniruddha Hospital, Yeola, Maharashtra 423401Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Samarth+T+House/data=!4m7!3m6!1s0x3bdc39ae5899d029:0x6d5ad086e801a639!8m2!3d20.0385865!4d74.498755!16s%2Fg%2F11swzm8cxz!19sChIJKdCZWK453DsROaYB6IbQWm0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJJ2-YGY853DsR2l_9VMwBccQ",
@@ -2762,7 +2903,7 @@
             },
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -2836,94 +2977,6 @@
         "link": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5+%E0%A4%9F%E0%A5%80+%E0%A4%B9%E0%A4%BE%E0%A4%8A%E0%A4%B8/data=!4m7!3m6!1s0x3bdc3924c0dd296f:0x7711b87a8fa65f97!8m2!3d20.0386537!4d74.4988182!16s%2Fg%2F11qbcz7vbc!19sChIJbyndwCQ53DsRl1-mj3q4EXc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJY4LYtQ453DsRNxfFCZHISyM",
-        "name": "Izaan Enterprises",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "NILU's Cafe Yeola",
-                "link": "https://www.google.com/maps/search/NILU%27s+Cafe+Yeola/@20.043046099999998,74.4833446?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 123,
-                "rating": 4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe Aaena",
-                "link": "https://www.google.com/maps/search/Cafe+Aaena/@20.0449394,74.48969559999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Sai Ice Cream Parlor & Avni Cafe",
-                "link": "https://www.google.com/maps/search/Sai+Ice+Cream+Parlor+%26+Avni+Cafe/@20.044332999999998,74.4833803?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "ISHWAR ENTERPRISES",
-                "link": "https://www.google.com/maps/search/ISHWAR+ENTERPRISES/@20.042487,74.487307?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Cha Xie Dian "
-            },
-            {
-                "name": "AHMED ENTERPRISES",
-                "link": "https://www.google.com/maps/search/AHMED+ENTERPRISES/@20.045561700000004,74.486319?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Izaan Enterprises (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO0zx3M_Zu4NJYn5v_zrqwkYU49IpMEKUqHLr2x=w408-h554-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "2FVP+G9X Izaan Enterprises, Badi Bazar, Takiya Galli, Yeola, Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Izaan+Enterprises/data=!4m7!3m6!1s0x3bdc390eb5d88263:0x234bc89109c51737!8m2!3d20.0438591!4d74.4859769!16s%2Fg%2F11qp2ss70l!19sChIJY4LYtQ453DsRNxfFCZHISyM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ5b1nfyY53DsR33pVAywZaqI",
-        "name": "The Black Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "The Black Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KTG4mYLF10cgc3KMKxED8A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=212.46527&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "2FVM+7HP The Black Cafe, Yeola, Maharashtra 423401Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/The+Black+Cafe/data=!4m7!3m6!1s0x3bdc39267f67bde5:0xa26a192c03557adf!8m2!3d20.0432004!4d74.4839523!16s%2Fg%2F11kpvwwn75!19sChIJ5b1nfyY53DsR33pVAywZaqI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJWb4dBpU53DsRBeNy_lJAoFA",
         "name": "Shreesai sharddha Tea Centar",
         "description": null,
@@ -2995,11 +3048,11 @@
         ],
         "website": null,
         "owner": {
-            "id": null,
+            "id": "110693345536837224300",
             "name": "Kalika Cafe (Ye Zhu )",
-            "link": null
+            "link": "https://www.google.com/maps/contrib/110693345536837224300"
         },
-        "featured_image": null,
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN7LUHLqaydo6uLk6SRwpXy6ObNEubya4DA6oCa=w408-h544-k-no",
         "main_category": "Dian Nao Zhuan Men Dian ",
         "categories": [
             "Dian Nao Zhuan Men Dian "
@@ -3280,7 +3333,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -3402,6 +3455,157 @@
         "link": "https://www.google.com/maps/place/SATYVIJAY+COLDDRINKS+HOUSE/data=!4m7!3m6!1s0x3bdc3911fe3ae48d:0xbc8f9be858a9b55!8m2!3d20.0521358!4d74.4957466!16s%2Fg%2F11t72lfrvp!19sChIJjeQ6_hE53DsRVZuKhb75yAs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJIbzUgOJB3DsRSBEiMTn5c1Y",
+        "name": "Mauli Amruttulya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Yeola Amrutulya",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Morya Amruttulay",
+                "link": "https://www.google.com/maps/search/Morya+Amruttulay/@20.011934399999998,74.5689148?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Shivneri Gulaca Chaha",
+                "link": "https://www.google.com/maps/search/Shivneri+Gulaca+Chaha/@20.013254,74.5678227?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Cha Xie Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "113654749942472032837",
+            "name": "Mauli Amruttulya (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113654749942472032837"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmzrlIQsmghE-DvfAJY3qAU6OotFSqDqHqBu__=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 91587 67073",
+        "address": "Mauli Amruttulya, Shop1 Aurangabad Road Andarsul, Tal, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mauli+Amruttulya/data=!4m7!3m6!1s0x3bdc41e280d4bc21:0x5673f93931221148!8m2!3d20.0106275!4d74.5743383!16s%2Fg%2F11rvgk3d1b!19sChIJIbzUgOJB3DsRSBEiMTn5c1Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJZWzomEtr3DsR-b9OLAHfeaI",
+        "name": "Kalbhairavnath T House",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "bhole nath bhel center yeola",
+                "link": "https://www.google.com/maps/search/bhole+nath+bhel+center+yeola/@20.0384068,74.4869384?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 3.7,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Tuljabhavani tea house",
+                "link": "https://www.google.com/maps/search/Tuljabhavani+tea+house/@20.0415185,74.4769529?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Bajrang T House",
+                "link": "https://www.google.com/maps/search/Bajrang+T+House/@19.9700153,74.6016807?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "109875973549587524572",
+            "name": "Kalbhairavnath T House (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109875973549587524572"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkvinxwEbnJ_81Zh6Ts4Tllt4I-mehlTYB9ZNH=w408-h725-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 93713 51336",
+        "address": "Shop.no.02, Kalbhairavnath T House, opp. kalbhairavnath Mandir, Bokte, Yeola, Dugalgaon, Maharashtra 423603Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kalbhairavnath+T+House/data=!4m7!3m6!1s0x3bdc6b4b98e86c65:0xa279df012c4ebff9!8m2!3d19.9686035!4d74.6034246!16s%2Fg%2F11rwbc39wv!19sChIJZWzomEtr3DsR-b9OLAHfeaI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJlesqSNBL3DsRScpLEoWUPqE",
+        "name": "Patil T Center",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Durga Tea Centre",
+                "link": "https://www.google.com/maps/search/Durga+Tea+Centre/@20.043719700000004,74.48398560000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 51,
+                "rating": 4.1,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Hotel Om T House",
+                "link": "https://www.google.com/maps/search/Hotel+Om+T+House/@19.962722499999998,74.4068637?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "COOL CAFE",
+                "link": "https://www.google.com/maps/search/COOL+CAFE/@20.0661971,74.45723269999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "More T House",
+                "link": "https://www.google.com/maps/search/More+T+House/@19.9653208,74.3149892?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Patil T Center (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 91462 94597",
+        "address": "Patil T Center, Shop1 vinchur Road Near Sai Mandir Morvis, Tal, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Patil+T+Center/data=!4m7!3m6!1s0x3bdc4bd0482aeb95:0xa13e9485124bca49!8m2!3d19.9719201!4d74.2989248!16s%2Fg%2F11rv06xy6y!19sChIJlesqSNBL3DsRScpLEoWUPqE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJS5yl5dpr3DsRvtEbjpxQkx8",
         "name": "Bajrang T House",
         "description": null,
@@ -3443,6 +3647,47 @@
         "link": "https://www.google.com/maps/place/Bajrang+T+House/data=!4m7!3m6!1s0x3bdc6bdae5a59c4b:0x1f93509c8e1bd1be!8m2!3d19.9700153!4d74.6016807!16s%2Fg%2F11sxzwmybd!19sChIJS5yl5dpr3DsRvtEbjpxQkx8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJKdCZWK453DsROaYB6IbQWm0",
+        "name": "Samarth T House",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Yari Dosti Cafe",
+                "link": "https://www.google.com/maps/search/Yari+Dosti+Cafe/@20.0516379,74.4799776?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Tea Shop",
+                "link": "https://www.google.com/maps/search/Tea+Shop/@20.0462034,74.4944831?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "100388359968227748031",
+            "name": "Samarth T House (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/100388359968227748031"
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 95524 49377",
+        "address": "Samarth T House, Shop1 Nadgoan Baypass, Tal, near Bay Aniruddha Hospital, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Samarth+T+House/data=!4m7!3m6!1s0x3bdc39ae5899d029:0x6d5ad086e801a639!8m2!3d20.0385865!4d74.498755!16s%2Fg%2F11swzm8cxz!19sChIJKdCZWK453DsROaYB6IbQWm0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJPcEUddQ53DsR0uWxT9UujlM",
         "name": "Namastey Bistro",
         "description": null,
@@ -3472,7 +3717,7 @@
             },
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -3496,6 +3741,68 @@
         "address": "Namastey Bistro, Khaugalli,Raamgeet Mall,Kotamgaon Road, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Namastey+Bistro/data=!4m7!3m6!1s0x3bdc39d47514c13d:0x538e2ed54fb1e5d2!8m2!3d20.035801!4d74.4980565!16s%2Fg%2F11rdcjc670!19sChIJPcEUddQ53DsR0uWxT9UujlM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJY4LYtQ453DsRNxfFCZHISyM",
+        "name": "Izaan Enterprises",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "NILU's Cafe Yeola",
+                "link": "https://www.google.com/maps/search/NILU%27s+Cafe+Yeola/@20.043046099999998,74.4833446?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 123,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Cafe Aaena",
+                "link": "https://www.google.com/maps/search/Cafe+Aaena/@20.0449394,74.48969559999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Sai Ice Cream Parlor & Avni Cafe",
+                "link": "https://www.google.com/maps/search/Sai+Ice+Cream+Parlor+%26+Avni+Cafe/@20.044332999999998,74.4833803?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "ISHWAR ENTERPRISES",
+                "link": "https://www.google.com/maps/search/ISHWAR+ENTERPRISES/@20.042487,74.487307?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cha Xie Dian "
+            },
+            {
+                "name": "AHMED ENTERPRISES",
+                "link": "https://www.google.com/maps/search/AHMED+ENTERPRISES/@20.045561700000004,74.486319?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Izaan Enterprises (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO0zx3M_Zu4NJYn5v_zrqwkYU49IpMEKUqHLr2x=w408-h554-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "2FVP+G9X Izaan Enterprises, Badi Bazar, Takiya Galli, Yeola, Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Izaan+Enterprises/data=!4m7!3m6!1s0x3bdc390eb5d88263:0x234bc89109c51737!8m2!3d20.0438591!4d74.4859769!16s%2Fg%2F11qp2ss70l!19sChIJY4LYtQ453DsRNxfFCZHISyM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJTzxgDcg43DsRyq372lUpq5E",
@@ -3530,54 +3837,6 @@
         "address": "2FVQ+885 Behera Web World, Azad Chowk, Patil Wada, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Behera+Web+World/data=!4m7!3m6!1s0x3bdc38c80d603c4f:0x91ab2955dafbadca!8m2!3d20.0432745!4d74.4883712!16s%2Fg%2F11dzwp8f54!19sChIJTzxgDcg43DsRyq372lUpq5E?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJC7Xf7pU53DsRlJkBa9Bvl4s",
-        "name": "Vithu Mauli Tea",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Durga Tea Centre",
-                "link": "https://www.google.com/maps/search/Durga+Tea+Centre/@20.043719700000004,74.48398560000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 51,
-                "rating": 4.1,
-                "main_category": "Cha Yi Guan "
-            },
-            {
-                "name": "COOL CAFE",
-                "link": "https://www.google.com/maps/search/COOL+CAFE/@20.0661971,74.45723269999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Tea Shop",
-                "link": "https://www.google.com/maps/search/Tea+Shop/@20.0462034,74.4944831?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "102369741184055128450",
-            "name": "Vithu Mauli Tea (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102369741184055128450"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dVH7TVp_kLfZhI3nPu6nxw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.993427&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+91 99223 50591",
-        "address": "Vithu Mauli Tea, Shop1 Patoda, Road, near SND collage, Yeola, Maharashtra 423401Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Vithu+Mauli+Tea/data=!4m7!3m6!1s0x3bdc3995eedfb50b:0x8b976fd06b019994!8m2!3d20.0662162!4d74.4569958!16s%2Fg%2F11jyg7v5ng!19sChIJC7Xf7pU53DsRlJkBa9Bvl4s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJq85JpbY53DsRvTXc2oG3Il4",
@@ -3626,47 +3885,6 @@
         "address": "2FVM+8PQ City Of Kite, Patil Wada, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/City+Of+Kite/data=!4m7!3m6!1s0x3bdc39b6a549ceab:0x5e22b781dadc35bd!8m2!3d20.0433269!4d74.4843468!16s%2Fg%2F11ffw4669l!19sChIJq85JpbY53DsRvTXc2oG3Il4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJj1iZJRQ53DsRjHgX0mGm4yk",
-        "name": "Natural Ice cream Factory",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Mansi Ice Cream",
-                "link": "https://www.google.com/maps/search/Mansi+Ice+Cream/@20.0362126,74.4969003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Lakshmi Vilas Ice Cream Parlour",
-                "link": "https://www.google.com/maps/search/Lakshmi+Vilas+Ice+Cream+Parlour/@20.041865299999998,74.4880282?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "103475754154776159208",
-            "name": "Natural Ice cream Factory (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103475754154776159208"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtP73xH3yi13qnrcoyz_6OF727OWcdjos3DYzb=w408-h725-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+91 87886 72382",
-        "address": "Natural Ice cream Factory, Vaijapur Road Khau Galli Cafe 7/12, Yeola, Maharashtra 423401Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Natural+Ice+cream+Factory/data=!4m7!3m6!1s0x3bdc39142599588f:0x29e3a661d217788c!8m2!3d20.03584!4d74.4979035!16s%2Fg%2F11rvjq936t!19sChIJj1iZJRQ53DsRjHgX0mGm4yk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJm7XSzlA53DsR-JEID99iei4",
@@ -3724,8 +3942,8 @@
         "link": "https://www.google.com/maps/place/S+A+ICE+CREAM+CAFE/data=!4m7!3m6!1s0x3bdc3950ced2b59b:0x2e7a62df0f0891f8!8m2!3d20.0433679!4d74.4861611!16s%2Fg%2F11t6y4f4xz!19sChIJm7XSzlA53DsR-JEID99iei4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJxe0zcMc43DsRlePVA5b3Ckg",
-        "name": "Babbu Tea Center",
+        "place_id": "ChIJC7Xf7pU53DsRlJkBa9Bvl4s",
+        "name": "Vithu Mauli Tea",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
@@ -3738,38 +3956,38 @@
                 "main_category": "Cha Yi Guan "
             },
             {
-                "name": "Hotel Saiba",
-                "link": "https://www.google.com/maps/search/Hotel+Saiba/@20.0416548,74.4901639?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 4.7,
-                "main_category": "Can Ting "
+                "name": "COOL CAFE",
+                "link": "https://www.google.com/maps/search/COOL+CAFE/@20.0661971,74.45723269999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Tuljabhavani tea house",
-                "link": "https://www.google.com/maps/search/Tuljabhavani+tea+house/@20.0415185,74.4769529?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
+                "name": "Tea Shop",
+                "link": "https://www.google.com/maps/search/Tea+Shop/@20.0462034,74.4944831?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Babbu Tea Center (Ye Zhu )",
-            "link": null
+            "id": "102369741184055128450",
+            "name": "Vithu Mauli Tea (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102369741184055128450"
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dImKXNEUAp09rlbSyG8mhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=236.93678&pitch=0&thumbfov=100",
-        "main_category": "Can Ting ",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dVH7TVp_kLfZhI3nPu6nxw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.993427&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Can Ting "
+            "Ka Pei Dian "
         ],
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": null,
-        "address": "2FRM+XMC Babbu Tea Center, Angan, Yeola, Maharashtra 423401Yin Du ",
+        "phone": "+91 99223 50591",
+        "address": "Vithu Mauli Tea, Shop1 Patoda, Road, near SND collage, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Babbu+Tea+Center/data=!4m7!3m6!1s0x3bdc38c77033edc5:0x480af79603d5e395!8m2!3d20.0424271!4d74.484131!16s%2Fg%2F11f2b3kcb_!19sChIJxe0zcMc43DsRlePVA5b3Ckg?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Vithu+Mauli+Tea/data=!4m7!3m6!1s0x3bdc3995eedfb50b:0x8b976fd06b019994!8m2!3d20.0662162!4d74.4569958!16s%2Fg%2F11jyg7v5ng!19sChIJC7Xf7pU53DsRlJkBa9Bvl4s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ1S7XUa453DsRFj9_Mp-WQhk",
@@ -3883,7 +4101,7 @@
             },
             {
                 "name": "Iqra Sweet",
-                "link": "https://www.google.com/maps/search/Iqra+Sweet/@20.0451403,74.4925698?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Iqra+Sweet/@20.0451744,74.4926423?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 2,
                 "rating": 4,
                 "main_category": "Can Ting "
@@ -3964,24 +4182,17 @@
         "link": "https://www.google.com/maps/place/Renuka+icecream/data=!4m7!3m6!1s0x3bdc399a23a96579:0x20ef89ed8a4cf9c7!8m2!3d20.0357742!4d74.4977762!16s%2Fg%2F11qhszfw_y!19sChIJeWWpI5o53DsRx_lMiu2J7yA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJK_7ZG7843DsRKntpsOKcnuY",
-        "name": "Classic Icecream",
+        "place_id": "ChIJj1iZJRQ53DsRjHgX0mGm4yk",
+        "name": "Natural Ice cream Factory",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [
             {
-                "name": "AV ice cream parlour , indranil corner yeola 423401",
-                "link": "https://www.google.com/maps/search/AV+ice+cream+parlour+%2C+indranil+corner+yeola+423401/@20.0430097,74.4851809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Shri Bharka Devi Ice Cream",
-                "link": "https://www.google.com/maps/search/Shri+Bharka+Devi+Ice+Cream/@20.0433594,74.4849146?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
+                "name": "Mansi Ice Cream",
+                "link": "https://www.google.com/maps/search/Mansi+Ice+Cream/@20.0362126,74.4969003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
                 "main_category": "Bing Qi Lin "
             },
             {
@@ -3990,22 +4201,15 @@
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "AMBAR ICE CREAM PARLOR",
-                "link": "https://www.google.com/maps/search/AMBAR+ICE+CREAM+PARLOR/@20.0450055,74.489778?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bing Qi Lin "
             }
         ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Classic Icecream (Ye Zhu )",
-            "link": null
+            "id": "103475754154776159208",
+            "name": "Natural Ice cream Factory (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103475754154776159208"
         },
-        "featured_image": null,
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtP73xH3yi13qnrcoyz_6OF727OWcdjos3DYzb=w408-h725-k-no",
         "main_category": "Xue Gao Dian ",
         "categories": [
             "Xue Gao Dian "
@@ -4013,10 +4217,10 @@
         "rating": null,
         "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": null,
-        "address": "2FQH+GX3 Classic Icecream, Bajirao Nagar, Raje Sambhji Nagar, Yeola, Maharashtra 423401Yin Du ",
+        "phone": "+91 87886 72382",
+        "address": "Natural Ice cream Factory, Vaijapur Road Khau Galli Cafe 7/12, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Classic+Icecream/data=!4m7!3m6!1s0x3bdc38bf1bd9fe2b:0xe69e9ce2b0697b2a!8m2!3d20.0387513!4d74.479936!16s%2Fg%2F11f53qwgn5!19sChIJK_7ZG7843DsRKntpsOKcnuY?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Natural+Ice+cream+Factory/data=!4m7!3m6!1s0x3bdc39142599588f:0x29e3a661d217788c!8m2!3d20.03584!4d74.4979035!16s%2Fg%2F11rvjq936t!19sChIJj1iZJRQ53DsRjHgX0mGm4yk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJb3uHBjA53DsRWc2hIjemgKI",
@@ -4027,7 +4231,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -4086,6 +4290,13 @@
                 "reviews": 6,
                 "rating": 3.7,
                 "main_category": "Wang Ba "
+            },
+            {
+                "name": "Kalika Cafe",
+                "link": "https://www.google.com/maps/search/Kalika+Cafe/@20.0407086,74.4879139?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Dian Nao Zhuan Men Dian "
             }
         ],
         "website": null,
@@ -4106,6 +4317,109 @@
         "address": "Kalika Cafe (Online Multi Service center), Near Khanderao Maharaj Mandir Yeola, Tq, Dist, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kalika+Cafe+%28Online+Multi+Service+center%29/data=!4m7!3m6!1s0x3bdc3992b348a10b:0xb390b5655cc0fc1f!8m2!3d20.0432004!4d74.4839523!16s%2Fg%2F11fr3z9krv!19sChIJC6FIs5I53DsRH_zAXGW1kLM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJxe0zcMc43DsRlePVA5b3Ckg",
+        "name": "Babbu Tea Center",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Durga Tea Centre",
+                "link": "https://www.google.com/maps/search/Durga+Tea+Centre/@20.043719700000004,74.48398560000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 51,
+                "rating": 4.1,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Hotel Saiba",
+                "link": "https://www.google.com/maps/search/Hotel+Saiba/@20.0416548,74.4901639?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Tuljabhavani tea house",
+                "link": "https://www.google.com/maps/search/Tuljabhavani+tea+house/@20.0415185,74.4769529?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Babbu Tea Center (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dImKXNEUAp09rlbSyG8mhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=236.93678&pitch=0&thumbfov=100",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "2FRM+XMC Babbu Tea Center, Angan, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Babbu+Tea+Center/data=!4m7!3m6!1s0x3bdc38c77033edc5:0x480af79603d5e395!8m2!3d20.0424271!4d74.484131!16s%2Fg%2F11f2b3kcb_!19sChIJxe0zcMc43DsRlePVA5b3Ckg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJK_7ZG7843DsRKntpsOKcnuY",
+        "name": "Classic Icecream",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "AV ice cream parlour , indranil corner yeola 423401",
+                "link": "https://www.google.com/maps/search/AV+ice+cream+parlour+%2C+indranil+corner+yeola+423401/@20.0430097,74.4851809?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Shri Bharka Devi Ice Cream",
+                "link": "https://www.google.com/maps/search/Shri+Bharka+Devi+Ice+Cream/@20.0433594,74.4849146?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Lakshmi Vilas Ice Cream Parlour",
+                "link": "https://www.google.com/maps/search/Lakshmi+Vilas+Ice+Cream+Parlour/@20.041865299999998,74.4880282?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "AMBAR ICE CREAM PARLOR",
+                "link": "https://www.google.com/maps/search/AMBAR+ICE+CREAM+PARLOR/@20.0450055,74.489778?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Classic Icecream (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "2FQH+GX3 Classic Icecream, Bajirao Nagar, Raje Sambhji Nagar, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Classic+Icecream/data=!4m7!3m6!1s0x3bdc38bf1bd9fe2b:0xe69e9ce2b0697b2a!8m2!3d20.0387513!4d74.479936!16s%2Fg%2F11f53qwgn5!19sChIJK_7ZG7843DsRKntpsOKcnuY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJATOHUOk53DsRO0NmTK_v7Ws",
@@ -4176,68 +4490,6 @@
         "link": "https://www.google.com/maps/place/Maharashtra+Juice+And+Doodh+Dairy/data=!4m7!3m6!1s0x3bdc3987648a635b:0x44ae376ef36011ed!8m2!3d20.045688!4d74.4933601!16s%2Fg%2F11rr278qdz!19sChIJW2OKZIc53DsR7RFg8243rkQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJl7g5ostH3DsR9jFZP_YZZhw",
-        "name": "Moment's Cafeteria Kopargaon",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Tea Bar pocket cafe",
-                "link": "https://www.google.com/maps/search/Tea+Bar+pocket+cafe/@19.8833819,74.4764752?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Neone keNphe niion",
-                "link": "https://www.google.com/maps/search/Cafe+Neone+%E0%A4%95%E0%A5%85%E0%A4%AB%E0%A5%87+%E0%A4%A8%E0%A5%80%E0%A4%93%E0%A4%A8/@19.8832549,74.4761145?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 96,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Delight",
-                "link": "https://www.google.com/maps/search/Cafe+Delight/@19.9024152,74.48249270000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "NISHANT'S CAFE",
-                "link": "https://www.google.com/maps/search/NISHANT%27S+CAFE/@19.8832858,74.4794103?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "JM CAFE",
-                "link": "https://www.google.com/maps/search/JM+CAFE/@19.900646,74.49584999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "109650772413116053482",
-            "name": "Moment's Cafeteria Kopargaon (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109650772413116053482"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkI5NnR9yOkBN9pDBtNUq2Umm4RRpik4gE5GD3=w450-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Moment's Cafeteria Kopargaon, Nagar Manmad Highway Yeola Naka Kopargaon Near By SSGM College Kopargaon, opposite of Bajaj Showroom, Kopargao, Maharashtra 423601Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Moment%27s+Cafeteria+Kopargaon/data=!4m7!3m6!1s0x3bdc47cba239b897:0x1c6619f63f5931f6!8m2!3d19.9801298!4d74.490931!16s%2Fg%2F11t6x9zz41!19sChIJl7g5ostH3DsR9jFZP_YZZhw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJAQdnP-9B3DsRLCwQkisliVs",
         "name": "Hotel Dosti Chaha",
         "description": null,
@@ -4246,7 +4498,7 @@
         "competitors": [
             {
                 "name": "Yeola Amrutulya",
-                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0383857,74.4866589?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Yeola+Amrutulya/@20.0381395,74.48734999999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 33,
                 "rating": 3.8,
                 "main_category": "Ka Pei Dian "
@@ -4310,5 +4562,197 @@
         "address": "2FVM+RFV Shri Mahalakshmi Bahuuddeshiya Mahila Bachat Gat, Patil Wada, Yeola, Maharashtra 423401Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Shri+Mahalakshmi+Bahuuddeshiya+Mahila+Bachat+Gat/data=!4m7!3m6!1s0x3bdc38c6e1a37979:0x696a6ad98b2dcb47!8m2!3d20.0446095!4d74.4836672!16s%2Fg%2F11rvdc9frc!19sChIJeXmj4cY43DsRR8sti9lqamk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJW60BgeNH3DsRKODpGRtzmFw",
+        "name": "Dwarkamai T House",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Hotel Om T House",
+                "link": "https://www.google.com/maps/search/Hotel+Om+T+House/@19.962722499999998,74.4068637?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "More T House",
+                "link": "https://www.google.com/maps/search/More+T+House/@19.9653208,74.3149892?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "115246927119239229409",
+            "name": "Dwarkamai T House (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115246927119239229409"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DuUuOrxXNmEPbLkwfAAZ5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=289.2871&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 75073 87678",
+        "address": "Dwarkamai T House, Shop 1 Near Bazar Tal Ravanda, Tal, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dwarkamai+T+House/data=!4m7!3m6!1s0x3bdc47e38101ad5b:0x5c98731b19e9e028!8m2!3d19.963658!4d74.4067276!16s%2Fg%2F11spf9zqf7!19sChIJW60BgeNH3DsRKODpGRtzmFw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJfa4XowVH3DsRTv0YY8Ieqzg",
+        "name": "Chaitanya amruttulya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Swami Chaha",
+                "link": "https://www.google.com/maps/search/Swami+Chaha/@20.059701099999998,74.47734969999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Cha Xie Dian "
+            },
+            {
+                "name": "Mauli Amruttulya",
+                "link": "https://www.google.com/maps/search/Mauli+Amruttulya/@20.0106275,74.5743383?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "pawar Amrutlay scin gule",
+                "link": "https://www.google.com/maps/search/pawar+Amrutlay+%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%A8+%E0%A4%97%E0%A5%81%E0%A4%B3%E0%A5%87/@20.0538703,74.3664759?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cha Xie Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chaitanya amruttulya (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfAB9YPSPTxuC7Opeog7Vpu4fMirnJXCCtZP0B=w408-h545-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "2F6V+H4C Chaitanya amruttulya, Nandesar, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chaitanya+amruttulya/data=!4m7!3m6!1s0x3bdc4705a317ae7d:0x38ab1ec26318fd4e!8m2!3d20.0114512!4d74.4928223!16s%2Fg%2F11khs8qlj9!19sChIJfa4XowVH3DsRTv0YY8Ieqzg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9Q12cXtB3DsRT7W5FnWoOKw",
+        "name": "Hotel T Point",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "hotel Taj",
+                "link": "https://www.google.com/maps/search/hotel+Taj/@20.0451069,74.4932692?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Cha Xie Dian "
+            },
+            {
+                "name": "Bajrang T House",
+                "link": "https://www.google.com/maps/search/Bajrang+T+House/@19.9700153,74.6016807?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel T Point (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+91 88559 98815",
+        "address": "Hotel T Point, Shop 1 Main Road Sayyed wali Chuk, Anchalgaon - Andarsul Rd, Tal, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+T+Point/data=!4m7!3m6!1s0x3bdc417b71760df5:0xac38a87516b9b54f!8m2!3d20.0110634!4d74.5743489!16s%2Fg%2F11rn84js35!19sChIJ9Q12cXtB3DsRT7W5FnWoOKw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6W6vl6E53DsRDZQnJ68GxZE",
+        "name": "Samsung Smart Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Smart Mobile Zone Yeola",
+                "link": "https://www.google.com/maps/search/Smart+Mobile+Zone+Yeola/@20.0432514,74.4828016?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.3,
+                "main_category": "Gou Wu Zhong Xin "
+            },
+            {
+                "name": "RHYTHM MOBILE",
+                "link": "https://www.google.com/maps/search/RHYTHM+MOBILE/@20.042531699999998,74.4816412?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.3,
+                "main_category": "Shou Ji Wei Xiu Dian "
+            },
+            {
+                "name": "Good Luck Mobile Shop",
+                "link": "https://www.google.com/maps/search/Good+Luck+Mobile+Shop/@20.0421473,74.49423519999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 1,
+                "main_category": "Shou Ji Pei Jian Zhuan Mai Dian "
+            },
+            {
+                "name": "SAMARTH MOBILE",
+                "link": "https://www.google.com/maps/search/SAMARTH+MOBILE/@20.042572500000002,74.4806279?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shou Ji Wei Xiu Dian "
+            },
+            {
+                "name": "yash Mobile Shopee",
+                "link": "https://www.google.com/maps/search/yash+Mobile+Shopee/@20.0411803,74.48043539999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shou Ji Zhuan Men Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "103284079298730792560",
+            "name": "Samsung Smart Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103284079298730792560"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwxVd_2TJh7bwKgxPDwoJBCXVS2vLGmzzohMlF=w408-h306-k-no",
+        "main_category": "Shou Ji Zhuan Men Dian ",
+        "categories": [
+            "Shou Ji Zhuan Men Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Samsung Smart Cafe, Ramgeet Lawns, Khau Galli, Aurangabad Rd, Yeola, Maharashtra 423401Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Samsung+Smart+Cafe/data=!4m7!3m6!1s0x3bdc39a197af6ee9:0x91c506af2727940d!8m2!3d20.0358708!4d74.4976569!16s%2Fg%2F11jt29k1rj!19sChIJ6W6vl6E53DsRDZQnJ68GxZE?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

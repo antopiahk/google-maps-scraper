@@ -4,7 +4,7 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1472,
+        "reviews": 1474,
         "competitors": [
             {
                 "name": "Gyongy Abc",
@@ -56,7 +56,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Torokszentmiklos, Lidl, Kossuth Lajos u. 102-108, 5200 Xiong Ya Li ",
         "review_keywords": [],
@@ -72,7 +76,7 @@
             {
                 "name": "Kismacko Cukraszda",
                 "link": "https://www.google.com/maps/search/Kismack%C3%B3+Cukr%C3%A1szda/@47.1781485,20.4117425?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 244,
+                "reviews": 245,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -134,14 +138,14 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.18043,20.416999999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1472,
+                "reviews": 1473,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.1776907,20.405839099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 411,
+                "reviews": 412,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -198,7 +202,7 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.18043,20.416999999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1472,
+                "reviews": 1473,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -245,7 +249,11 @@
         ],
         "rating": 4,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7623",
         "address": "Torokszentmiklos, SPAR szupermarket, Kossuth Lajos u. 98-100, 5200 Xiong Ya Li ",
         "review_keywords": [],
@@ -256,12 +264,12 @@
         "name": "SPAR szupermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 411,
+        "reviews": 412,
         "competitors": [
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.18043,20.416999999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1472,
+                "reviews": 1473,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -331,7 +339,7 @@
             {
                 "name": "OTP Bank",
                 "link": "https://www.google.com/maps/search/OTP+Bank/@47.178288699999996,20.4061934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
+                "reviews": 25,
                 "rating": 4,
                 "main_category": "Yin Xing "
             },
@@ -546,7 +554,7 @@
                 "main_category": "Yan Cao Dian "
             }
         ],
-        "website": "https://www.facebook.com/Penta-italdiszkont-%C3%A9s-trafik-1923335607910861/?ref=py_c&eid=ARD59l1jQKe-XFboq3EyNSPFXTPZrN1mIAww6BSadaQZBMTEawe5lJx5dblp2DJkogAEf1rYbG2aOc_X",
+        "website": "https://www.facebook.com/Penta-italdiszkont-%25C3%25A9s-trafik-1923335607910861/%3Fref%3Dpy_c%26eid%3DARD59l1jQKe-XFboq3EyNSPFXTPZrN1mIAww6BSadaQZBMTEawe5lJx5dblp2DJkogAEf1rYbG2aOc_X",
         "owner": {
             "id": null,
             "name": "Penta italdiszkont es trafik (Ye Zhu )",
@@ -641,7 +649,7 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.18043,20.416999999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1472,
+                "reviews": 1473,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -696,6 +704,49 @@
         "link": "https://www.google.com/maps/place/Goods+Market/data=!4m7!3m6!1s0x4741484bbae3e13b:0x7c89b99364bd19!8m2!3d47.1743905!4d20.3971458!16s%2Fg%2F11c5zx3w5m!19sChIJO-HjuktIQUcRGb1kk7mJfAA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ2wReVsRJQUcRZDYHUFtr-TU",
+        "name": "Bomvil kft",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 66,
+        "competitors": [
+            {
+                "name": "Butorbox Kft.",
+                "link": "https://www.google.com/maps/search/B%C3%BAtorbox+Kft./@47.1773983,20.412585099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 3,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Miklosi fem Kft.",
+                "link": "https://www.google.com/maps/search/Mikl%C3%B3si+f%C3%A9m+Kft./@47.171737799999995,20.4207371?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Fei Wu Guan Li Fu Wu "
+            }
+        ],
+        "website": "https://www.facebook.com/Bomvil-Haszn%25C3%25A1ltcikk-Kereskedelem-499471863593681/%3F__tn__%3D,d,P-R%26eid%3DARD08dRenutv8XCB-7tzj-LzfGZadDgYXCwLI7k_h5v3Gt_xEjJs4hXo0LoOo4mKUL2VNJno0XcQgzdu",
+        "owner": {
+            "id": "117639782148645160570",
+            "name": "Bomvil kft (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117639782148645160570"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFKQqvjf4oJSJx_VwHizeRXPntKzaTwCmTL16b=w426-h240-k-no",
+        "main_category": "Er Shou Dian ",
+        "categories": [
+            "Er Shou Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 616 1394",
+        "address": "Torokszentmiklos, Bomvil kft, Kossuth Lajos u. 279, 5200 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bomvil+kft/data=!4m7!3m6!1s0x474149c4565e04db:0x35f96b5b50073664!8m2!3d47.1766647!4d20.387708!16s%2Fg%2F11f9f4971n!19sChIJ2wReVsRJQUcRZDYHUFtr-TU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJT2C-DItJQUcRrP4Cy_UvIuE",
         "name": "Levendula Fagylaltozo Torokszentmiklos",
         "description": null,
@@ -712,7 +763,7 @@
             {
                 "name": "Kismacko Cukraszda",
                 "link": "https://www.google.com/maps/search/Kismack%C3%B3+Cukr%C3%A1szda/@47.1781485,20.4117425?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 244,
+                "reviews": 245,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -1026,7 +1077,7 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@47.18043,20.416999999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1472,
+                "reviews": 1473,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -1116,7 +1167,7 @@
                 "main_category": "Za Huo Dian "
             }
         ],
-        "website": "https://www.facebook.com/AranyABC/%3Fref%3Dpy_c%26eid%3DARCndqeBSIN3XCAqSiTw5VTfjxH_8icLPp4x1VVzGE6-RYdO7SNJ6CdThlwqqVvoOyNAEkb9Pj92bV_f",
+        "website": "https://www.facebook.com/AranyABC/?ref=py_c&eid=ARCndqeBSIN3XCAqSiTw5VTfjxH_8icLPp4x1VVzGE6-RYdO7SNJ6CdThlwqqVvoOyNAEkb9Pj92bV_f",
         "owner": {
             "id": "103365432631016926107",
             "name": "Arany ABC (Ye Zhu )",
@@ -1343,11 +1394,68 @@
         "link": "https://www.google.com/maps/place/Tip-Top+ABC/data=!4m7!3m6!1s0x4741490892467853:0xb1e46a8192cb797!8m2!3d47.1703963!4d20.3986617!16s%2Fg%2F11flt26sz3!19sChIJU3hGkghJQUcRl7csGahGHgs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJuW3D6ctJQUcRe2OTjPcbJdc",
+        "name": "Torokszentmiklos",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "PEPCO",
+                "link": "https://www.google.com/maps/search/PEPCO/@47.1774966,20.4041912?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 168,
+                "rating": 4.5,
+                "main_category": "Fu Zhuang Dian "
+            },
+            {
+                "name": "Goods Market",
+                "link": "https://www.google.com/maps/search/Goods+Market/@47.1722526,20.4117145?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 79,
+                "rating": 4.7,
+                "main_category": "12 Yuan Dian "
+            },
+            {
+                "name": "Armacomp Szamitastechnikai Szakuzlet; Armamenta Bt.",
+                "link": "https://www.google.com/maps/search/Armacomp+Sz%C3%A1m%C3%ADt%C3%A1stechnikai+Szak%C3%BCzlet%3B+Armamenta+Bt./@47.1787521,20.4112555?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 55,
+                "rating": 4.5,
+                "main_category": "Dian Nao Zhuan Men Dian "
+            },
+            {
+                "name": "Ujsagos",
+                "link": "https://www.google.com/maps/search/%C3%9Ajs%C3%A1gos/@47.1793596,20.410953?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 3.7,
+                "main_category": "Shu Bao Tan "
+            }
+        ],
+        "website": "http://www.uzletektorokszentmiklos.hu/Melegitok/774",
+        "owner": {
+            "id": null,
+            "name": "Torokszentmiklos (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n2PIGF3OHAP4ueMvoAymgw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.25314&pitch=0&thumbfov=100",
+        "main_category": "Shang Dian ",
+        "categories": [
+            "Shang Dian "
+        ],
+        "rating": null,
+        "workday_timing": "09:00-17:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 56 333 511",
+        "address": "Torokszentmiklos, Kossuth ter 7, 5200 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/T%C3%B6r%C3%B6kszentmikl%C3%B3s/data=!4m7!3m6!1s0x474149cbe9c36db9:0xd7251bf78c93637b!8m2!3d47.1784804!4d20.4114151!16s%2Fg%2F11h84zxcgb!19sChIJuW3D6ctJQUcRe2OTjPcbJdc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ2XBhXclJQUcR6dLGUdnoVJA",
         "name": "Kismacko Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 244,
+        "reviews": 245,
         "competitors": [
             {
                 "name": "IBOLYA CUKRASZDA",
@@ -1545,7 +1653,7 @@
             {
                 "name": "Kismacko Cukraszda",
                 "link": "https://www.google.com/maps/search/Kismack%C3%B3+Cukr%C3%A1szda/@47.1781485,20.4117425?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 244,
+                "reviews": 245,
                 "rating": 4.6,
                 "main_category": "Tian Pin Dian "
             },
@@ -1586,7 +1694,8 @@
         "workday_timing": "10:00-19:00",
         "closed_on": [
             "Xing Qi Yi ",
-            "Xing Qi Er "
+            "Xing Qi Er ",
+            "Xing Qi San "
         ],
         "phone": null,
         "address": "Torokszentmiklos, Bohem Cukraszda, Vasarhelyi Pal u. 21-c, 5200 Xiong Ya Li ",
@@ -1897,6 +2006,70 @@
         "link": "https://www.google.com/maps/place/D%C3%B3zsa+Gy%C3%B6rgy+%C3%BAti+ABC/data=!4m7!3m6!1s0x4741496fbd0b44b7:0x7ee84562c2a5d999!8m2!3d47.1691332!4d20.4232367!16s%2Fg%2F11p12s2yp6!19sChIJt0QLvW9JQUcRmdmlwmJF6H4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJFRBaykZJQUcR5ejUPfgsVg0",
+        "name": "Pekaru Uzlet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "SPAR szupermarket",
+                "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.1776907,20.405839099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 412,
+                "rating": 4.1,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Lipoti pekseg",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+p%C3%A9ks%C3%A9g/@47.179479199999996,20.4112008?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 102,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Ujana Pekseg",
+                "link": "https://www.google.com/maps/search/Ujana+P%C3%A9ks%C3%A9g/@47.1767645,20.409483599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Iskolak Altalanos Iskolak",
+                "link": "https://www.google.com/maps/search/Iskol%C3%A1k+%C3%81ltal%C3%A1nos+Iskol%C3%A1k/@47.1777647,20.3909309?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4,
+                "main_category": "Xue Xiao "
+            },
+            {
+                "name": "SARKI Elelmiszer",
+                "link": "https://www.google.com/maps/search/SARKI+%C3%89lelmiszer/@47.1765992,20.4097254?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pekaru Uzlet (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhTxhufaHu_30OdWsOKnDeIU5Nh1C0NN3qtRAE=w426-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "05:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Torokszentmiklos, Pekaru Uzlet, Kossuth ter 4, 5200 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/P%C3%A9k%C3%A1ru+%C3%9Czlet/data=!4m7!3m6!1s0x47414946ca5a1015:0xd562cf83dd4e8e5!8m2!3d47.1778367!4d20.4127173!16s%2Fg%2F11hyh5n_1s!19sChIJFRBaykZJQUcR5ejUPfgsVg0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJHaoErPdJQUcRU1vbNtKQVWo",
         "name": "Kavezo es bufe az autobusz-allomas teruleten",
         "description": null,
@@ -1925,18 +2098,18 @@
                 "main_category": "Yan Che Zhan "
             },
             {
+                "name": "Rakoczi Sorozo",
+                "link": "https://www.google.com/maps/search/R%C3%A1k%C3%B3czi+S%C3%B6r%C3%B6z%C5%91/@47.1774874,20.4206175?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.8,
+                "main_category": "Fa Shi Can Ting "
+            },
+            {
                 "name": "Autobuszallomas",
                 "link": "https://www.google.com/maps/search/Aut%C3%B3busz%C3%A1llom%C3%A1s/@47.1790782,20.4137749?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 7,
                 "rating": 3.7,
                 "main_category": "Ba Shi Piao Wu Dai Li "
-            },
-            {
-                "name": "Rakoczi Sorozo",
-                "link": "https://www.google.com/maps/search/R%C3%A1k%C3%B3czi+S%C3%B6r%C3%B6z%C5%91/@47.1774874,20.4206175?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.7,
-                "main_category": "Fa Shi Can Ting "
             }
         ],
         "website": null,
@@ -2021,6 +2194,32 @@
         "link": "https://www.google.com/maps/place/%C3%89den+Market/data=!4m7!3m6!1s0x474149db3d002fef:0xde1c8cdf076a032b!8m2!3d47.1827577!4d20.4283511!16s%2Fg%2F11fhvkl0kf!19sChIJ7y8APdtJQUcRKwNqB9-MHN4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJf4rTnTxJQUcR1ug-J9mUwFw",
+        "name": "Ujana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ujana (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c1exyFstUit3OQzAChVZ8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=354.00992&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Torokszentmiklos, Ujana, Foldvari u. 2, 5200 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ujana/data=!4m7!3m6!1s0x4741493c9dd38a7f:0x5cc094d9273ee8d6!8m2!3d47.169967!4d20.4218671!16s%2Fg%2F11vb6c667p!19sChIJf4rTnTxJQUcR1ug-J9mUwFw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJlZdot3hJQUcRC7n2BUZFRVg",
         "name": "SARKI Elelmiszer",
         "description": null,
@@ -2030,7 +2229,7 @@
             {
                 "name": "SPAR szupermarket",
                 "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.1776907,20.405839099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 411,
+                "reviews": 412,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -2190,5 +2389,67 @@
         "address": "Torokszentmiklos, Kavegep Javitas Juhasz Janos, Kossuth Lajos u. 58, 5200 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9g%C3%A9p+Jav%C3%ADt%C3%A1s+Juh%C3%A1sz+J%C3%A1nos/data=!4m7!3m6!1s0x4741495dad37a05d:0x3359cf31e957cdda!8m2!3d47.1817543!4d20.4245377!16s%2Fg%2F11kqfp_xyv!19sChIJXaA3rV1JQUcR2s1X6THPWTM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7eSFv81JQUcRL59Z5Jw2hk8",
+        "name": "Forintos Mini Abc Bt.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Gyongy Abc",
+                "link": "https://www.google.com/maps/search/Gy%C3%B6ngy+Abc/@47.1775478,20.3903639?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Goods Market",
+                "link": "https://www.google.com/maps/search/Goods+Market/@47.1778367,20.4127173?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.7,
+                "main_category": "12 Yuan Dian "
+            },
+            {
+                "name": "Meggyes ABC",
+                "link": "https://www.google.com/maps/search/Meggyes+ABC/@47.161813599999995,20.406782399999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.6,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "CSOKONAI UTI APRO ABC",
+                "link": "https://www.google.com/maps/search/CSOKONAI+%C3%9ATI+APR%C3%93+ABC/@47.1650542,20.4021087?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 4.4,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "T and T Vegyesbolt",
+                "link": "https://www.google.com/maps/search/T+and+T+Vegyesbolt/@47.1814077,20.4320207?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 3.7,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Forintos Mini Abc Bt. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0QNSzMIa3qLAxAJqdfpLWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=47.460747&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 56 379 832",
+        "address": "Torokszentmiklos, Forintos Mini Abc Bt., Ady Endre u. 13, 5200 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Forintos+Mini+Abc+Bt./data=!4m7!3m6!1s0x474149cdbf85e4ed:0x4f86369ce4599f2f!8m2!3d47.1829108!4d20.414113!16s%2Fg%2F1hhwqykty!19sChIJ7eSFv81JQUcRL59Z5Jw2hk8?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

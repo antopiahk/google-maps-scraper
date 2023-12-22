@@ -58,7 +58,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 42 311 314",
         "address": "Nyiregyhaza, Mokka Cukraszda, Szarvas u. 39, 4400 Xiong Ya Li ",
         "review_keywords": [],
@@ -69,12 +72,12 @@
         "name": "Cafe Frei",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1176,
+        "reviews": 1177,
         "competitors": [
             {
                 "name": "Siphon Espresso Bar",
                 "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -101,10 +104,10 @@
             },
             {
                 "name": "Little Cafe",
-                "link": "https://www.google.com/maps/search/Little+Cafe/@47.97318380000001,21.719175699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Little+Cafe/@47.9729142,21.718964?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 26,
                 "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Zheng Liu Ka Pei Ba "
             }
         ],
         "website": "http://www.cafefrei.hu/",
@@ -274,12 +277,12 @@
         "name": "Siphon Espresso Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 561,
+        "reviews": 562,
         "competitors": [
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.9543245,21.7203849?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1176,
+                "reviews": 1177,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -326,7 +329,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "09:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 866 8888",
         "address": "Nyiregyhaza, Siphon Espresso Bar, Kossuth ter 1, 4400 Xiong Ya Li ",
         "review_keywords": [],
@@ -355,10 +361,10 @@
             },
             {
                 "name": "Little Cafe",
-                "link": "https://www.google.com/maps/search/Little+Cafe/@47.97318380000001,21.719175699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Little+Cafe/@47.9729142,21.718964?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 26,
                 "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Retro Terasz",
@@ -413,7 +419,7 @@
             {
                 "name": "Neapolis Pizzeria",
                 "link": "https://www.google.com/maps/search/Neapolis+Pizzeria/@47.954181,21.7219363?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 263,
+                "reviews": 264,
                 "rating": 4.8,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -467,7 +473,7 @@
             {
                 "name": "Siphon Espresso Bar",
                 "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -549,7 +555,7 @@
             {
                 "name": "Neapolis Pizzeria",
                 "link": "https://www.google.com/maps/search/Neapolis+Pizzeria/@47.954181,21.7219363?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 263,
+                "reviews": 264,
                 "rating": 4.8,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -600,7 +606,7 @@
         "name": "Continent Wine & Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 285,
+        "reviews": 287,
         "competitors": [
             {
                 "name": "Like Cafe",
@@ -792,14 +798,14 @@
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.9543245,21.7203849?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1176,
+                "reviews": 1177,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Siphon Espresso Bar",
                 "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -813,12 +819,12 @@
             {
                 "name": "Vela Bisztro",
                 "link": "https://www.google.com/maps/search/Vela+Bisztr%C3%B3/@47.9570802,21.7173716?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
-                "rating": 4.3,
+                "reviews": 47,
+                "rating": 4.4,
                 "main_category": "Zao Wu Can "
             }
         ],
-        "website": "https://hova-tunt-sanyi.business.site/?utm_source=gmb&utm_medium=referral",
+        "website": "https://hova-tunt-sanyi.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
         "owner": {
             "id": "108591525846008074553",
             "name": "Hova tunt Sanyi? Elelmiszerbolt, reggelizo es kavezo (Ye Zhu )",
@@ -863,7 +869,7 @@
             {
                 "name": "Csillag Etelbar",
                 "link": "https://www.google.com/maps/search/Csillag+%C3%89telb%C3%A1r/@47.952723,21.715954999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 315,
+                "reviews": 316,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -1118,8 +1124,8 @@
             {
                 "name": "Vela Bisztro",
                 "link": "https://www.google.com/maps/search/Vela+Bisztr%C3%B3/@47.9570802,21.7173716?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
-                "rating": 4.3,
+                "reviews": 47,
+                "rating": 4.4,
                 "main_category": "Zao Wu Can "
             },
             {
@@ -1175,14 +1181,14 @@
             {
                 "name": "Siphon Espresso Bar",
                 "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Household Appliance Service & Parts Store",
                 "link": "https://www.google.com/maps/search/Household+Appliance+Service+%26+Parts+Store/@47.959222399999994,21.7198232?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 203,
+                "reviews": 205,
                 "rating": 4.5,
                 "main_category": "Jia Ting Yong Pin Wei Xiu Fu Wu "
             },
@@ -1251,8 +1257,8 @@
             {
                 "name": "Vela Bisztro",
                 "link": "https://www.google.com/maps/search/Vela+Bisztr%C3%B3/@47.9570802,21.7173716?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
-                "rating": 4.3,
+                "reviews": 47,
+                "rating": 4.4,
                 "main_category": "Zao Wu Can "
             },
             {
@@ -1285,6 +1291,8 @@
         "rating": 4.2,
         "workday_timing": "06:30-18:30",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 30 645 3348",
@@ -1297,7 +1305,7 @@
         "name": "Martini Friss Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 57,
+        "reviews": 58,
         "competitors": [
             {
                 "name": "Friss Pekseg",
@@ -1335,7 +1343,7 @@
                 "main_category": "Shang Dian "
             }
         ],
-        "website": "https://friss-pekseg-bakery.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://friss-pekseg-bakery.business.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": "109404250195689426050",
             "name": "Martini Friss Pekseg (Ye Zhu )",
@@ -1348,7 +1356,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "04:30-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 253 3428",
         "address": "Nyiregyhaza, Martini Friss Pekseg, Rakoczi u. 100, 4400 Xiong Ya Li ",
         "review_keywords": [],
@@ -1390,7 +1401,7 @@
                 "main_category": "Tian Pin Dian "
             }
         ],
-        "website": "https://m.facebook.com/Happy-K%C3%A9zm%C5%B1ves-Fagylaltoz%C3%B3-100479465495302/?notif_t=page_fan&notif_id=1645970763156622&ref=m_notif",
+        "website": "https://m.facebook.com/Happy-K%25C3%25A9zm%25C5%25B1ves-Fagylaltoz%25C3%25B3-100479465495302/%3Fnotif_t%3Dpage_fan%26notif_id%3D1645970763156622%26ref%3Dm_notif",
         "owner": {
             "id": "114896686670175173060",
             "name": "Happy Kezmuves Fagylaltozo (Ye Zhu )",
@@ -1488,7 +1499,7 @@
             {
                 "name": "Hello Kedves! Kedves Palacsinta, Kedves Pizza, Kedves Hambi",
                 "link": "https://www.google.com/maps/search/Hello+Kedves%21+Kedves+Palacsinta%2C+Kedves+Pizza%2C+Kedves+Hambi/@47.960011699999995,21.7174963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 417,
+                "reviews": 418,
                 "rating": 4.7,
                 "main_category": "Fa Shi Bo Bing "
             },
@@ -1534,7 +1545,7 @@
         "name": "PekPont - Art Bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 35,
+        "reviews": 36,
         "competitors": [
             {
                 "name": "Arany Pekseg",
@@ -1589,7 +1600,7 @@
         "name": "Felbermann EVA Edessegbolt es Kavezo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 18,
+        "reviews": 19,
         "competitors": [
             {
                 "name": "La Rosa Cukraszda",
@@ -1728,7 +1739,7 @@
             {
                 "name": "Siphon Espresso Bar",
                 "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -1779,73 +1790,6 @@
         "address": "Nyiregyhaza, Oranfesh Magyarorszag Kft., Mezo u. 5, 4400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Oranfesh+Magyarorsz%C3%A1g+Kft./data=!4m7!3m6!1s0x47389f93af9d90b3:0x14ec3fdcb10adb8!8m2!3d47.9568836!4d21.7045208!16s%2Fg%2F1vvr4_d0!19sChIJs5Cdr5OfOEcRuK0Qy_3DTgE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJKbldmUCfOEcRNLAi56HVE34",
-        "name": "Sweet Dreams Sutemenyes Bolt",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Gyongyossy Cukraszda",
-                "link": "https://www.google.com/maps/search/Gy%C3%B6ngy%C3%B6ssy+Cukr%C3%A1szda/@47.9648986,21.7329474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 663,
-                "rating": 4.7,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Sutiszalon",
-                "link": "https://www.google.com/maps/search/S%C3%BCtiszalon/@47.9620355,21.7200296?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 364,
-                "rating": 4.4,
-                "main_category": "Tang Guo Gao Bing Dian "
-            },
-            {
-                "name": "Edes Anna Cukraszda",
-                "link": "https://www.google.com/maps/search/%C3%89des+Anna+Cukr%C3%A1szda/@47.9569421,21.71691?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.6,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Mini Csemege",
-                "link": "https://www.google.com/maps/search/Mini+Csemege/@47.9613537,21.7116883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4.7,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Nosztalgia Suti-Sarok",
-                "link": "https://www.google.com/maps/search/Nosztalgia+S%C3%BCti-Sarok/@47.9588995,21.7103498?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "https://www.facebook.com/sweetdreamsutemenyes/",
-        "owner": {
-            "id": "108010315767142903173",
-            "name": "Sweet Dreams Sutemenyes Bolt (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108010315767142903173"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtuRAJiE4VF8is0tWPdVIvRbZEcX50bW8Avtr9=w408-h556-k-no",
-        "main_category": "Gao Bing Dian ",
-        "categories": [
-            "Gao Bing Dian ",
-            "Xi Bing Dian ",
-            "Qu Qi Bing Dian ",
-            "Hun Li Gao Bing Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "10:00-18:30",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": "+36 30 330 2252",
-        "address": "Nyiregyhaza, Sweet Dreams Sutemenyes Bolt, Agyag u. 10, 4400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Sweet+Dreams+S%C3%BCtem%C3%A9nyes+Bolt/data=!4m7!3m6!1s0x47389f40995db929:0x7e13d5a1e722b034!8m2!3d47.9634252!4d21.7265297!16s%2Fg%2F11hz2s1y0s!19sChIJKbldmUCfOEcRNLAi56HVE34?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJkbkNVpufOEcRArw3qwVaFPA",
@@ -2020,61 +1964,6 @@
         "link": "https://www.google.com/maps/place/Omnia+Ice+Cream+parlor/data=!4m7!3m6!1s0x47389f566d16bc73:0x6878582e033aa55f!8m2!3d48.0058362!4d21.725172!16s%2Fg%2F11c0r5fybp!19sChIJc7wWbVafOEcRX6U6Ay5YeGg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJn2G8H0WeOEcRO97dHgBToq4",
-        "name": "Szatmari Fagyizo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 213,
-        "competitors": [
-            {
-                "name": "Magyar Kezmuves Fagyizo",
-                "link": "https://www.google.com/maps/search/Magyar+K%C3%A9zm%C5%B1ves+Fagyiz%C3%B3/@47.968176,21.7092586?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 456,
-                "rating": 4.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Vanilia Fagyizo",
-                "link": "https://www.google.com/maps/search/Van%C3%ADlia+Fagyiz%C3%B3/@47.953740499999995,21.7914158?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 154,
-                "rating": 4.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Siraly fagyizo",
-                "link": "https://www.google.com/maps/search/Sir%C3%A1ly+fagyiz%C3%B3/@47.9448217,21.711270300000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.7,
-                "main_category": "Shuang Dong You Ge "
-            },
-            {
-                "name": "Szamoca artisan ice cream",
-                "link": "https://www.google.com/maps/search/Szam%C3%B3ca+artisan+ice+cream/@47.956095999999995,21.7155831?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.9,
-                "main_category": "Shuang Dong You Ge "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "109075613464881204324",
-            "name": "Szatmari Fagyizo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109075613464881204324"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyUNyVmtuVWDhyTostAnJg0oVPT8_yR2dKB87T=w408-h306-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "12:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Nyiregyhaza, Szatmari Fagyizo, Nyiregyhazi ut 35, 4551 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Szatm%C3%A1ri+Fagyiz%C3%B3/data=!4m7!3m6!1s0x47389e451fbc619f:0xaea253001eddde3b!8m2!3d47.9513245!4d21.7616994!16s%2Fg%2F11g8xfr0yl!19sChIJn2G8H0WeOEcRO97dHgBToq4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJrV6Idb6fOEcR-DIGp2_WQO8",
         "name": "Like Cafe",
         "description": null,
@@ -2084,7 +1973,7 @@
             {
                 "name": "Siphon Espresso Bar",
                 "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -2097,10 +1986,10 @@
             },
             {
                 "name": "Little Cafe",
-                "link": "https://www.google.com/maps/search/Little+Cafe/@47.97318380000001,21.719175699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Little+Cafe/@47.9729142,21.718964?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 26,
                 "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Retro Terasz",
@@ -2141,7 +2030,7 @@
         "name": "Caffe Perte",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 148,
+        "reviews": 149,
         "competitors": [
             {
                 "name": "Like Cafe",
@@ -2152,10 +2041,10 @@
             },
             {
                 "name": "Little Cafe",
-                "link": "https://www.google.com/maps/search/Little+Cafe/@47.97318380000001,21.719175699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Little+Cafe/@47.9729142,21.718964?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 26,
                 "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "City Diner",
@@ -2215,7 +2104,7 @@
             {
                 "name": "Martini Friss Pekseg",
                 "link": "https://www.google.com/maps/search/Martini+Friss+P%C3%A9ks%C3%A9g/@47.964287399999996,21.6992349?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 57,
+                "reviews": 58,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2259,68 +2148,6 @@
         "address": "Nyiregyhaza, Hasi Gold bakery, Kossuth utca 35, 4400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Hasi+Gold+bakery/data=!4m7!3m6!1s0x47389f977a216069:0xdb0c0d5939a2cbf4!8m2!3d47.9614216!4d21.7146498!16s%2Fg%2F11bx1hv9mb!19sChIJaWAhepefOEcR9MuiOVkNDNs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJy4geXmqfOEcRPSKg0F7lhKk",
-        "name": "Lipoti Pekseg",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 99,
-        "competitors": [
-            {
-                "name": "Friss Pekseg",
-                "link": "https://www.google.com/maps/search/Friss+P%C3%A9ks%C3%A9g/@47.9630529,21.7113597?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Belvarosi Lipoti Pekseg Es Kavezo",
-                "link": "https://www.google.com/maps/search/Belv%C3%A1rosi+Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%89s+K%C3%A1v%C3%A9z%C3%B3/@47.9568157,21.7161252?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
-                "rating": 4.2,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Dibri Pekseg",
-                "link": "https://www.google.com/maps/search/Dibri+P%C3%A9ks%C3%A9g/@47.9589145,21.7109146?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Vela Bisztro",
-                "link": "https://www.google.com/maps/search/Vela+Bisztr%C3%B3/@47.9570802,21.7173716?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 46,
-                "rating": 4.3,
-                "main_category": "Zao Wu Can "
-            },
-            {
-                "name": "Lipoti Pekseg Nyiregyhaza SPAR",
-                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+Ny%C3%ADregyh%C3%A1za+SPAR/@47.95602600000001,21.726529?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "113594588991548256826",
-            "name": "Lipoti Pekseg (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113594588991548256826"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNy4iaUFehzewRMsOPAEn3LcwntTvQUA9ooptC7=w408-h383-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 42 512 714",
-        "address": "Nyiregyhaza, Lipoti Pekseg, Dozsa Gyorgy u. 64, 4400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Lip%C3%B3ti+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x47389f6a5e1e88cb:0xa984e55ed0a0223d!8m2!3d47.9623425!4d21.7202452!16s%2Fg%2F11r_gbxl7x!19sChIJy4geXmqfOEcRPSKg0F7lhKk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJMU27D_efOEcRfUAYp_rwRe8",
@@ -2393,7 +2220,7 @@
         "name": "Vela Bisztro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 46,
+        "reviews": 47,
         "competitors": [
             {
                 "name": "Cvekedli Tesztabar",
@@ -2432,7 +2259,7 @@
             "Kuai Can Dian ",
             "San Wen Zhi Dian "
         ],
-        "rating": 4.3,
+        "rating": 4.4,
         "workday_timing": "06:00-19:00",
         "closed_on": [
             "Xing Qi Ri "
@@ -2441,61 +2268,6 @@
         "address": "Nyiregyhaza, Vela Bisztro, Dozsa Gyorgy u. 7, 4400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Vela+Bisztr%C3%B3/data=!4m7!3m6!1s0x47389f9bb5b06be5:0x88e77cab8836db48!8m2!3d47.9570802!4d21.7173716!16s%2Fg%2F11n_xrds1y!19sChIJ5WuwtZufOEcRSNs2iKt854g?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ9R0A0SGfOEcRIWTVm0wuxpY",
-        "name": "Szilva Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 37,
-        "competitors": [
-            {
-                "name": "Siphon Espresso Bar",
-                "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
-                "rating": 4.6,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Blues Cafe",
-                "link": "https://www.google.com/maps/search/Blues+Caf%C3%A9/@47.9591109,21.711458?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 283,
-                "rating": 4.6,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Caffe Perte",
-                "link": "https://www.google.com/maps/search/Caffe+Perte/@47.954207,21.732442199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Platz",
-                "link": "https://www.google.com/maps/search/Platz/@47.9570978,21.7199039?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "105015538345661128921",
-            "name": "Szilva Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105015538345661128921"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfNybkrtEb_3t3aic7bgzQq0C2B75rRuJ3M40R=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.7,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 42 798 849",
-        "address": "Nyiregyhaza, Szilva Cafe, Torzs u. 9/b, 4400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Szilva+Cafe/data=!4m7!3m6!1s0x47389f21d1001df5:0x96c62e4c9bd56421!8m2!3d47.9560047!4d21.7443104!16s%2Fg%2F11flvbp69p!19sChIJ9R0A0SGfOEcRIWTVm0wuxpY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJjXFIK7OfOEcRzIJ02I2Rpr4",
@@ -2555,7 +2327,7 @@
             {
                 "name": "Cafe Frei",
                 "link": "https://www.google.com/maps/search/Cafe+Frei/@47.9543245,21.7203849?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1176,
+                "reviews": 1177,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2590,77 +2362,23 @@
         ],
         "website": null,
         "owner": {
-            "id": null,
+            "id": "116766497316307668643",
             "name": "Little Cafe (Ye Zhu )",
-            "link": null
+            "link": "https://www.google.com/maps/contrib/116766497316307668643"
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9xRGP6efO0IYqVe2hW8lTg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=180.14465&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9xRGP6efO0IYqVe2hW8lTg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.00948&pitch=0&thumbfov=100",
+        "main_category": "Zheng Liu Ka Pei Ba ",
         "categories": [
+            "Zheng Liu Ka Pei Ba ",
             "Ka Pei Dian "
         ],
         "rating": 4.5,
         "workday_timing": "09:00-20:00",
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Nyiregyhaza, Little Cafe, 4400 Xiong Ya Li ",
+        "address": "Nyiregyhaza, Little Cafe, Oszolo u. 118, 4400 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Little+Cafe/data=!4m7!3m6!1s0x47389fa1ad98e307:0xb3f8c997f67764de!8m2!3d47.9731838!4d21.7191757!16s%2Fg%2F11ghrg0l60!19sChIJB-OYraGfOEcR3mR39pfJ-LM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJL032lwKgOEcR0Vm5uaJ1iB0",
-        "name": "Tatai Csemege",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 21,
-        "competitors": [
-            {
-                "name": "Paprika Csemege",
-                "link": "https://www.google.com/maps/search/Paprika+Csemege/@47.9467085,21.7341062?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Csemege",
-                "link": "https://www.google.com/maps/search/Csemege/@47.947661599999996,21.7295821?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 3.9,
-                "main_category": "Shou Shi Dian "
-            },
-            {
-                "name": "Delicates bolt",
-                "link": "https://www.google.com/maps/search/Delicates+bolt/@47.9579789,21.7141898?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Himesi Csemege",
-                "link": "https://www.google.com/maps/search/Himesi+Csemege/@47.9693105,21.7084475?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tatai Csemege (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MjtxtaQEN_l-5p85isHLvA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=194.51595&pitch=0&thumbfov=100",
-        "main_category": "Shou Shi Dian ",
-        "categories": [
-            "Shou Shi Dian "
-        ],
-        "rating": 3.6,
-        "workday_timing": "07:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Nyiregyhaza, Tatai Csemege, Legyezo u. 126, 4400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tatai+Csemege/data=!4m7!3m6!1s0x4738a00297f64d2f:0x1d8875a2b9b959d1!8m2!3d47.9475678!4d21.6754939!16s%2Fg%2F11bxgb0z7s!19sChIJL032lwKgOEcR0Vm5uaJ1iB0?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Little+Cafe/data=!4m7!3m6!1s0x47389fa1ad98e307:0xb3f8c997f67764de!8m2!3d47.9729142!4d21.718964!16s%2Fg%2F11ghrg0l60!19sChIJB-OYraGfOEcR3mR39pfJ-LM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJg18u6GifOEcROzRq2_Prqoc",
@@ -2716,61 +2434,6 @@
         "address": "Nyiregyhaza, Gelateria, 4400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Gelateria/data=!4m7!3m6!1s0x47389f68e82e5f83:0x87aaebf3db6a343b!8m2!3d47.9590589!4d21.7368139!16s%2Fg%2F11gr4b8q9t!19sChIJg18u6GifOEcROzRq2_Prqoc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ5YRd6smfOEcRjN77xKqUChI",
-        "name": "Csemege",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 14,
-        "competitors": [
-            {
-                "name": "Kicsi Csemege",
-                "link": "https://www.google.com/maps/search/Kicsi+Csemege/@47.947687300000005,21.7059675?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Golden Csemege",
-                "link": "https://www.google.com/maps/search/Golden+Csemege/@47.9593145,21.717545599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Ripi-Ropi Csemege",
-                "link": "https://www.google.com/maps/search/Ripi-Ropi+Csemege/@47.9489473,21.730365799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "City Csemege",
-                "link": "https://www.google.com/maps/search/City+Csemege/@47.9595565,21.7172767?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Csemege (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tsaeOow1An8zYqF0fxzbWA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=255.07928&pitch=0&thumbfov=100",
-        "main_category": "Shou Shi Dian ",
-        "categories": [
-            "Shou Shi Dian "
-        ],
-        "rating": 3.9,
-        "workday_timing": "06:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Nyiregyhaza, Csemege, Ady Endre u. 11, 4400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Csemege/data=!4m7!3m6!1s0x47389fc9ea5d84e5:0x120a94aac4fbde8c!8m2!3d47.9476616!4d21.7295821!16s%2Fg%2F11bxg3zdqm!19sChIJ5YRd6smfOEcRjN77xKqUChI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJi8X0Xb6fOEcRpJU8k0sFJjk",
@@ -2833,6 +2496,69 @@
         "address": "Nyiregyhaza, Kiss Italia Fagyizo, Luther u. 1, 4400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kiss+It%C3%A1lia+Fagyiz%C3%B3/data=!4m7!3m6!1s0x47389fbe5df4c58b:0x3926054b933c95a4!8m2!3d47.9550219!4d21.7171569!16s%2Fg%2F11cr_h6y0v!19sChIJi8X0Xb6fOEcRpJU8k0sFJjk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJP8isDb6fOEcRtOmVAtm-mjU",
+        "name": "Retro Terasz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Siphon Espresso Bar",
+                "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 562,
+                "rating": 4.6,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Like Cafe",
+                "link": "https://www.google.com/maps/search/Like+Cafe/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 157,
+                "rating": 4.3,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Caffe Perte",
+                "link": "https://www.google.com/maps/search/Caffe+Perte/@47.954207,21.732442199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 149,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Retro",
+                "link": "https://www.google.com/maps/search/Retro/@47.9596179,21.716420499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            },
+            {
+                "name": "Platz",
+                "link": "https://www.google.com/maps/search/Platz/@47.9570978,21.7199039?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Retro Terasz (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPHIqpFqklgK5AeenbI0i_hGqhc3b_GjotTn6_N=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Shi Pin He Yin Pin "
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-00:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 70 417 9022",
+        "address": "Nyiregyhaza, Retro Terasz, Kossuth ter 1, 4400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Retro+Terasz/data=!4m7!3m6!1s0x47389fbe0dacc83f:0x359abed90295e9b4!8m2!3d47.955647!4d21.716212!16s%2Fg%2F11bwqhq1x_!19sChIJP8isDb6fOEcRtOmVAtm-mjU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJMZMlrlWfOEcRgpoyduXIVAM",
@@ -2918,7 +2644,7 @@
             {
                 "name": "Csillag Etelbar",
                 "link": "https://www.google.com/maps/search/Csillag+%C3%89telb%C3%A1r/@47.952723,21.715954999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 315,
+                "reviews": 316,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -2984,7 +2710,7 @@
             {
                 "name": "Siphon Espresso Bar",
                 "link": "https://www.google.com/maps/search/Siphon+Espresso+Bar/@47.955647,21.716212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 561,
+                "reviews": 562,
                 "rating": 4.6,
                 "main_category": "Zheng Liu Ka Pei Ba "
             },
@@ -3011,10 +2737,10 @@
             },
             {
                 "name": "Little Cafe",
-                "link": "https://www.google.com/maps/search/Little+Cafe/@47.97318380000001,21.719175699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Little+Cafe/@47.9729142,21.718964?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 26,
                 "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Zheng Liu Ka Pei Ba "
             }
         ],
         "website": null,
@@ -3052,10 +2778,10 @@
             },
             {
                 "name": "Little Cafe",
-                "link": "https://www.google.com/maps/search/Little+Cafe/@47.97318380000001,21.719175699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Little+Cafe/@47.9729142,21.718964?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 26,
                 "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Gyorsetterem az Ocenariumnal",
@@ -3090,68 +2816,6 @@
         "address": "Nyiregyhaza, KaveZoo, Blaha Lujza stny. 40, 4431 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9Zoo/data=!4m7!3m6!1s0x47389f39ed7aab1f:0x2a3e30af1584db83!8m2!3d48.000892!4d21.7267231!16s%2Fg%2F11p5l68t6h!19sChIJH6t67TmfOEcRg9uEFa8wPio?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJZ2EsGOufOEcRTA-9OoHPRI0",
-        "name": "Regina fagyizoja",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Magyar Kezmuves Fagyizo",
-                "link": "https://www.google.com/maps/search/Magyar+K%C3%A9zm%C5%B1ves+Fagyiz%C3%B3/@47.968176,21.7092586?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 456,
-                "rating": 4.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Sutiszalon",
-                "link": "https://www.google.com/maps/search/S%C3%BCtiszalon/@47.9620355,21.7200296?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 364,
-                "rating": 4.4,
-                "main_category": "Tang Guo Gao Bing Dian "
-            },
-            {
-                "name": "Edes Anna Cukraszda",
-                "link": "https://www.google.com/maps/search/%C3%89des+Anna+Cukr%C3%A1szda/@47.9569421,21.71691?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.6,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "La Gelateria",
-                "link": "https://www.google.com/maps/search/La+Gelateria/@47.964109300000004,21.7142888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.9,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Panda Kezmuves fagyizo",
-                "link": "https://www.google.com/maps/search/Panda+K%C3%A9zm%C5%B1ves+fagyiz%C3%B3/@47.962625499999994,21.7204552?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.8,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Regina fagyizoja (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkBd4bDi1GdknGsQ3m96yYoSI3tiHBtWE6Fpzm=w426-h240-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Nyiregyhaza, Regina fagyizoja, Dozsa Gyorgy u. 7, 4400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Regina+fagyiz%C3%B3ja/data=!4m7!3m6!1s0x47389feb182c6167:0x8d44cf813abd0f4c!8m2!3d47.9572217!4d21.7172963!16s%2Fg%2F11nm_x_5jx!19sChIJZ2EsGOufOEcRTA-9OoHPRI0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJybafSTafOEcR5uvGtSYaxh8",
@@ -3225,7 +2889,7 @@
             {
                 "name": "Caffe Perte",
                 "link": "https://www.google.com/maps/search/Caffe+Perte/@47.954207,21.732442199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
+                "reviews": 149,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -3280,7 +2944,7 @@
             {
                 "name": "Caffe Perte",
                 "link": "https://www.google.com/maps/search/Caffe+Perte/@47.954207,21.732442199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
+                "reviews": 149,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -3381,54 +3045,6 @@
         "link": "https://www.google.com/maps/place/Csavaros+Fagyiz%C3%B3/data=!4m7!3m6!1s0x47389f92348fbc11:0xf7e22e6124f9ed96!8m2!3d47.95282!4d21.7135968!16s%2Fg%2F11q8s40gsy!19sChIJEbyPNJKfOEcRlu35JGEu4vc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJSUxUUV6fOEcRYPAj68tHPZs",
-        "name": "Oazis fagyizo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Harom Gracia Fagyizo",
-                "link": "https://www.google.com/maps/search/H%C3%A1rom+Gr%C3%A1cia+Fagyiz%C3%B3/@47.955020999999995,21.7158671?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 213,
-                "rating": 4.3,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Gelateria",
-                "link": "https://www.google.com/maps/search/La+Gelateria/@47.964109300000004,21.7142888?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.9,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Fagyi - eis gelato",
-                "link": "https://www.google.com/maps/search/Fagyi+-+eis+gelato/@47.9548035,21.7162068?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shuang Dong You Ge "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Oazis fagyizo (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPHPh2W850mLO1UT_yWPnG7glCc0G1n9BCSyfsE=w408-h544-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Nyiregyhaza, Oazis fagyizo, 4400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/O%C3%A1zis+fagyiz%C3%B3/data=!4m7!3m6!1s0x47389f5e51544c49:0x9b3d47cbeb23f060!8m2!3d47.9635582!4d21.6996175!16s%2Fg%2F11rxwwqztj!19sChIJSUxUUV6fOEcRYPAj68tHPZs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJnwHmJZqfOEcRXEAeH_wTwGA",
         "name": "Kava Bt.",
         "description": null,
@@ -3445,16 +3061,16 @@
             {
                 "name": "Caffe Perte",
                 "link": "https://www.google.com/maps/search/Caffe+Perte/@47.954207,21.732442199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
+                "reviews": 149,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Little Cafe",
-                "link": "https://www.google.com/maps/search/Little+Cafe/@47.97318380000001,21.719175699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Little+Cafe/@47.9729142,21.718964?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 26,
                 "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "Blue Caffe",
@@ -3500,16 +3116,16 @@
             {
                 "name": "Caffe Perte",
                 "link": "https://www.google.com/maps/search/Caffe+Perte/@47.954207,21.732442199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
+                "reviews": 149,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Little Cafe",
-                "link": "https://www.google.com/maps/search/Little+Cafe/@47.97318380000001,21.719175699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Little+Cafe/@47.9729142,21.718964?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 26,
                 "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "main_category": "Zheng Liu Ka Pei Ba "
             },
             {
                 "name": "City Diner",
@@ -3546,32 +3162,6 @@
         "address": "Nyiregyhaza, Platz, Szabadsag ter 9, 4400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Platz/data=!4m7!3m6!1s0x47389f1f566eaf7d:0xdf05eac864952a8e!8m2!3d47.9570978!4d21.7199039!16s%2Fg%2F11qn9x4qzm!19sChIJfa9uVh-fOEcRjiqVZMjqBd8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ023VwBCfOEcRmoUZ9JrE3fE",
-        "name": "Mozart Ice Cream",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "114279028930936909337",
-            "name": "Mozart Ice Cream (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114279028930936909337"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObok6bI7Nv8l06N-tigIXoR0-rLhLAVuwWtAAx=w408-h306-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Nyiregyhaza, Mozart Ice Cream, Szarvas u. 49, 4400 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mozart+Ice+Cream/data=!4m7!3m6!1s0x47389f10c0d56dd3:0xf1ddc49af419859a!8m2!3d47.947744!4d21.7151441!16s%2Fg%2F11kpp7kp6d!19sChIJ023VwBCfOEcRmoUZ9JrE3fE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ3awjtvCfOEcR_kFOxMHm0zs",
@@ -3627,5 +3217,31 @@
         "address": "Nyiregyhaza, SB Pekaru bolt es cukraszsutemeny, Zrinyi Ilona u. 2, 4400 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/SB+P%C3%A9k%C3%A1ru+bolt+%C3%A9s+cukr%C3%A1szs%C3%BCtem%C3%A9ny/data=!4m7!3m6!1s0x47389ff0b623acdd:0x3bd3e6c1c44e41fe!8m2!3d47.9549603!4d21.7162643!16s%2Fg%2F11fstwzb6s!19sChIJ3awjtvCfOEcR_kFOxMHm0zs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ023VwBCfOEcRmoUZ9JrE3fE",
+        "name": "Mozart Ice Cream",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "114279028930936909337",
+            "name": "Mozart Ice Cream (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114279028930936909337"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObok6bI7Nv8l06N-tigIXoR0-rLhLAVuwWtAAx=w408-h306-k-no",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": null,
+        "workday_timing": "10:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Nyiregyhaza, Mozart Ice Cream, Szarvas u. 49, 4400 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mozart+Ice+Cream/data=!4m7!3m6!1s0x47389f10c0d56dd3:0xf1ddc49af419859a!8m2!3d47.947744!4d21.7151441!16s%2Fg%2F11kpp7kp6d!19sChIJ023VwBCfOEcRmoUZ9JrE3fE?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

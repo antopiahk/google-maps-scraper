@@ -4,7 +4,7 @@
         "name": "TESCO Balassagyarmat Hipermarket",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1884,
+        "reviews": 1888,
         "competitors": [
             {
                 "name": "SPAR szupermarket",
@@ -56,7 +56,10 @@
         ],
         "rating": 3.7,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Balassagyarmat, TESCO Balassagyarmat Hipermarket, Mikszath Kalman u. 56, 2660 Xiong Ya Li ",
         "review_keywords": [],
@@ -72,7 +75,7 @@
             {
                 "name": "PENNY Balassagyarmat",
                 "link": "https://www.google.com/maps/search/PENNY+Balassagyarmat/@48.0746268,19.2830081?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 578,
+                "reviews": 579,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -86,14 +89,14 @@
             {
                 "name": "Balassagyarmat, Lidl aruhaz buszmegallo (Retsag-Budapest fele)",
                 "link": "https://www.google.com/maps/search/Balassagyarmat%2C+Lidl+%C3%A1ruh%C3%A1z+buszmeg%C3%A1ll%C3%B3+%28R%C3%A9ts%C3%A1g-Budapest+fel%C3%A9%29/@48.072918800000004,19.2818461?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 242,
+                "reviews": 243,
                 "rating": 4.4,
                 "main_category": "Ba Shi Gong Si "
             },
             {
                 "name": "Ipoly Aruhaz",
                 "link": "https://www.google.com/maps/search/Ipoly+%C3%81ruh%C3%A1z/@48.078866999999995,19.294422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 215,
+                "reviews": 216,
                 "rating": 3.7,
                 "main_category": "Gou Wu Zhong Xin "
             },
@@ -119,7 +122,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Balassagyarmat, Lidl, Kovari ut 8, 2660 Xiong Ya Li ",
         "review_keywords": [],
@@ -130,19 +137,19 @@
         "name": "Kek Abc Balassagyarmat",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 837,
+        "reviews": 839,
         "competitors": [
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@48.07319,19.282080000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1327,
+                "reviews": 1326,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
             {
                 "name": "Buki Csemege",
                 "link": "https://www.google.com/maps/search/Buki+Csemege/@48.071219899999996,19.2963724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 921,
+                "reviews": 922,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
@@ -161,7 +168,7 @@
                 "main_category": "Za Huo Dian "
             }
         ],
-        "website": "https://hu-hu.facebook.com/pages/category/Company/K%25C3%2589K-ABC-Balassagyarmat-140008706035473/",
+        "website": "https://hu-hu.facebook.com/pages/category/Company/K%C3%89K-ABC-Balassagyarmat-140008706035473/",
         "owner": {
             "id": "105361576195612467955",
             "name": "Kek Abc Balassagyarmat (Ye Zhu )",
@@ -181,69 +188,6 @@
         "link": "https://www.google.com/maps/place/K%C3%A9k+Abc+Balassagyarmat/data=!4m7!3m6!1s0x476aa079ffaebb99:0x22f732b2d1b6b422!8m2!3d48.0803943!4d19.3005601!16s%2Fg%2F11byl9fdpc!19sChIJmbuu_3mgakcRIrS20bIy9yI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJH2hN62ygakcRAjWMCLvY5FM",
-        "name": "PENNY Balassagyarmat",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 578,
-        "competitors": [
-            {
-                "name": "TESCO Balassagyarmat Hipermarket",
-                "link": "https://www.google.com/maps/search/TESCO+Balassagyarmat+Hipermarket/@48.085761999999995,19.298772?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1884,
-                "rating": 3.7,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@48.07319,19.282080000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1327,
-                "rating": 4.4,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "SPAR szupermarket",
-                "link": "https://www.google.com/maps/search/SPAR+szupermarket/@48.080975599999995,19.2970194?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 512,
-                "rating": 4,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "PEPCO",
-                "link": "https://www.google.com/maps/search/PEPCO/@48.083759699999995,19.2999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 219,
-                "rating": 4.2,
-                "main_category": "Fu Zhuang Dian "
-            },
-            {
-                "name": "Ipoly Aruhaz",
-                "link": "https://www.google.com/maps/search/Ipoly+%C3%81ruh%C3%A1z/@48.078866999999995,19.294422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 215,
-                "rating": 3.7,
-                "main_category": "Gou Wu Zhong Xin "
-            }
-        ],
-        "website": "https://www.penny.hu/",
-        "owner": {
-            "id": "106937614241223376695",
-            "name": "PENNY Balassagyarmat (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106937614241223376695"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPiYkV3jVKUeXO0j7ptkJNzSGsDY2V_zhvrp8fR=w426-h240-k-no",
-        "main_category": "Zhe Kou Shang Dian ",
-        "categories": [
-            "Zhe Kou Shang Dian ",
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 4.2,
-        "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 29 339 345",
-        "address": "Balassagyarmat, PENNY Balassagyarmat, Kovari ut 12, 2660 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PENNY+Balassagyarmat/data=!4m7!3m6!1s0x476aa06ceb4d681f:0x53e4d8bb088c3502!8m2!3d48.0746268!4d19.2830081!16s%2Fg%2F12vrr1w5k!19sChIJH2hN62ygakcRAjWMCLvY5FM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJNeiAgXCgakcRO_TBCk9Xdao",
         "name": "SPAR szupermarket",
         "description": null,
@@ -253,21 +197,21 @@
             {
                 "name": "TESCO Balassagyarmat Hipermarket",
                 "link": "https://www.google.com/maps/search/TESCO+Balassagyarmat+Hipermarket/@48.085761999999995,19.298772?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1884,
+                "reviews": 1885,
                 "rating": 3.7,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@48.07319,19.282080000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1327,
+                "reviews": 1326,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
             {
                 "name": "PENNY Balassagyarmat",
                 "link": "https://www.google.com/maps/search/PENNY+Balassagyarmat/@48.0746268,19.2830081?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 578,
+                "reviews": 579,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -300,74 +244,15 @@
         ],
         "rating": 4,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7810",
         "address": "Balassagyarmat, SPAR szupermarket, Mikszath Kalman u. 14, 2660 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/SPAR+szupermarket/data=!4m7!3m6!1s0x476aa0708180e835:0xaa75574f0ac1f43b!8m2!3d48.0809756!4d19.2970194!16s%2Fg%2F1hjgqfq2r!19sChIJNeiAgXCgakcRO_TBCk9Xdao?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJKSdQR7mhakcRU_by4Q_FQHw",
-        "name": "PEPCO",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 219,
-        "competitors": [
-            {
-                "name": "PENNY Balassagyarmat",
-                "link": "https://www.google.com/maps/search/PENNY+Balassagyarmat/@48.0746268,19.2830081?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 578,
-                "rating": 4.2,
-                "main_category": "Zhe Kou Shang Dian "
-            },
-            {
-                "name": "Ipoly Aruhaz",
-                "link": "https://www.google.com/maps/search/Ipoly+%C3%81ruh%C3%A1z/@48.078866999999995,19.294422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 215,
-                "rating": 3.7,
-                "main_category": "Gou Wu Zhong Xin "
-            },
-            {
-                "name": "CCC Shoes",
-                "link": "https://www.google.com/maps/search/CCC+Shoes/@48.084802599999996,19.2975528?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
-                "rating": 4,
-                "main_category": "Xie Pin Dian "
-            },
-            {
-                "name": "Baba Borze Bebi Divat",
-                "link": "https://www.google.com/maps/search/Baba+B%C3%B6rze+B%C3%A9bi+Divat/@48.07939,19.293334899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.9,
-                "main_category": "Fu Zhuang Dian "
-            },
-            {
-                "name": "Kristaly Divatszalon",
-                "link": "https://www.google.com/maps/search/Krist%C3%A1ly+Divatszalon/@48.079039099999996,19.293985499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Fu Zhuang Dian "
-            }
-        ],
-        "website": "https://pepco.hu/",
-        "owner": {
-            "id": "110657281420177278513",
-            "name": "PEPCO (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110657281420177278513"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-I1x4ua3r2yjxd3415_t1B6wiGqIPIMEkyaxA=w408-h725-k-no",
-        "main_category": "Fu Zhuang Dian ",
-        "categories": [
-            "Fu Zhuang Dian ",
-            "Jia Ju Yong Pin Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "08:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 1 701 0424",
-        "address": "Balassagyarmat, PEPCO, Mikszath Kalman u. 57, 2660 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PEPCO/data=!4m7!3m6!1s0x476aa1b947502729:0x7c40c50fe1f2f653!8m2!3d48.0837597!4d19.2999996!16s%2Fg%2F11j5zqzs1f!19sChIJKSdQR7mhakcRU_by4Q_FQHw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ-dzZwXGgakcRZ-Jofynvz1A",
@@ -379,7 +264,7 @@
             {
                 "name": "Trattoria Dolce Vita Pizzeria",
                 "link": "https://www.google.com/maps/search/Trattoria+Dolce+Vita+Pizz%C3%A9ria/@48.0777906,19.297401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 887,
+                "reviews": 890,
                 "rating": 4.5,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -426,6 +311,9 @@
         "rating": 4.6,
         "workday_timing": "07:00-19:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -559,7 +447,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Balassagyarmat, ALDI, Rakoczi fejedelem ut 56, 2660 Xiong Ya Li ",
         "review_keywords": [],
@@ -615,6 +506,8 @@
         "rating": 4.6,
         "workday_timing": "06:00-18:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 30 797 5829",
@@ -639,7 +532,7 @@
             {
                 "name": "Koplanyi Ajandekbolt",
                 "link": "https://www.google.com/maps/search/Kopl%C3%A1nyi+Aj%C3%A1nd%C3%A9kbolt/@48.078230399999995,19.293194500000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
+                "reviews": 5,
                 "rating": 5,
                 "main_category": "Li Pin Dian "
             },
@@ -696,14 +589,14 @@
             {
                 "name": "Buki Csemege",
                 "link": "https://www.google.com/maps/search/Buki+Csemege/@48.071219899999996,19.2963724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 921,
+                "reviews": 922,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
             {
                 "name": "Kek Abc Balassagyarmat",
                 "link": "https://www.google.com/maps/search/K%C3%A9k+Abc+Balassagyarmat/@48.0803943,19.3005601?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 837,
+                "reviews": 838,
                 "rating": 4.4,
                 "main_category": "Za Huo Dian "
             },
@@ -746,7 +639,7 @@
             {
                 "name": "PENNY Balassagyarmat",
                 "link": "https://www.google.com/maps/search/PENNY+Balassagyarmat/@48.0746268,19.2830081?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 578,
+                "reviews": 579,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -898,7 +791,11 @@
         ],
         "rating": 4.9,
         "workday_timing": "08:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 35 312 393",
         "address": "Balassagyarmat, Kincsestar - Konyv webaruhaz es konyvesbolt - Ajandekbolt, Rakoczi fejedelem ut 61, 2660 Xiong Ya Li ",
         "review_keywords": [],
@@ -909,7 +806,7 @@
         "name": "Nemzeti Dohanybolt Balassagyarmat",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 23,
+        "reviews": 24,
         "competitors": [],
         "website": "http://nemzetidohany.hu/dohanyboltkereso/",
         "owner": {
@@ -929,61 +826,6 @@
         "address": "Balassagyarmat, Nemzeti Dohanybolt Balassagyarmat, Rakoczi fejedelem ut 68, 2660 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Balassagyarmat/data=!4m7!3m6!1s0x476aa079ff890e37:0x1219beed49ae56e8!8m2!3d48.0803943!4d19.3005601!16s%2Fg%2F11gf5spndz!19sChIJNw6J_3mgakcR6FauSe2-GRI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJrarOy3GgakcRGk9Ou0PxxLM",
-        "name": "dm-drogerie markt Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 14,
-        "competitors": [
-            {
-                "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@48.07319,19.282080000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1327,
-                "rating": 4.4,
-                "main_category": "Ping Jia Chao Ji Shi Chang "
-            },
-            {
-                "name": "Rossmann Drogeria Parfumeria",
-                "link": "https://www.google.com/maps/search/Rossmann+Drog%C3%A9ria+Parf%C3%BCm%C3%A9ria/@48.079341,19.294558?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 224,
-                "rating": 4.5,
-                "main_category": "Mei Rong Yi Qi Yong Pin Dian "
-            },
-            {
-                "name": "DMRV Duna Menti Regionalis Vizmu Zrt.-Nogradi Uzemvezetoseg",
-                "link": "https://www.google.com/maps/search/DMRV+Duna+Menti+Region%C3%A1lis+V%C3%ADzm%C5%B1+Zrt.-N%C3%B3gr%C3%A1di+%C3%9Czemvezet%C5%91s%C3%A9g/@48.0799375,19.314465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 42,
-                "rating": 4.4,
-                "main_category": "Gong Shui Gong Si "
-            },
-            {
-                "name": "Illatszertar, es parfumeria",
-                "link": "https://www.google.com/maps/search/Illatszert%C3%A1r%2C+%C3%A9s+parf%C3%BCm%C3%A9ria/@48.0782326,19.2925567?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Xiang Shui Dian "
-            }
-        ],
-        "website": "https://www.dm.hu/store/u089/balassagyarmat/zichy-utca-2",
-        "owner": {
-            "id": "109032112115199245502",
-            "name": "dm-drogerie markt Kft. (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109032112115199245502"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtHUW1f2uI8EoxJ9bSbyF_2gJmE0xknSlWvgAz=w427-h240-k-no",
-        "main_category": "Yao Fang ",
-        "categories": [
-            "Yao Fang "
-        ],
-        "rating": 4.9,
-        "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 306 5640",
-        "address": "Balassagyarmat, dm-drogerie markt Kft., Zichy u. 2, 2660 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/dm-drogerie+markt+Kft./data=!4m7!3m6!1s0x476aa071cbceaaad:0xb3c4f143bb4e4f1a!8m2!3d48.07855!4d19.29347!16s%2Fg%2F11f5dggbzx!19sChIJrarOy3GgakcRGk9Ou0PxxLM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJP4Ny13ugakcRY0oOkx0cAlQ",
@@ -1027,7 +869,7 @@
             "name": "Szugyiczki es Tarsa kft. (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KiljIHvSduJJib8wFbku-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=331.33035&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2rDG_xPgQDG6K1RqclaGrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=288.47223&pitch=0&thumbfov=100",
         "main_category": "Xue Gao Dian ",
         "categories": [
             "Xue Gao Dian "
@@ -1086,7 +928,7 @@
                 "main_category": "Shang Dian "
             }
         ],
-        "website": "https://m.facebook.com/Carpigiani-Fagylaltoz%C3%B3-1414010678848252/?ref=bookmarks",
+        "website": "https://m.facebook.com/Carpigiani-Fagylaltoz%25C3%25B3-1414010678848252/%3Fref%3Dbookmarks",
         "owner": {
             "id": "112991655331202573248",
             "name": "Carpigiani fagyizo (korhazi fagyizo) (Ye Zhu )",
@@ -1166,7 +1008,7 @@
         "name": "Kapsreiter kavezo, sorozo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 4,
+        "reviews": 5,
         "competitors": [
             {
                 "name": "Art Cafe",
@@ -1208,7 +1050,7 @@
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.8,
+        "rating": 4.6,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
@@ -1297,7 +1139,7 @@
         "name": "Jagyutt Confectionery - Confectionery Orchid",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1053,
+        "reviews": 1054,
         "competitors": [
             {
                 "name": "Oazis Fagyizo",
@@ -1335,9 +1177,10 @@
             "Ru Luo Xue Gao Dian "
         ],
         "rating": 4.6,
-        "workday_timing": "10:00-18:00",
+        "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Yi "
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+36 35 311 450",
         "address": "Balassagyarmat, Jagyutt Confectionery - Confectionery Orchid, Bajcsy-Zsilinszky u. 12, 2660 Xiong Ya Li ",
@@ -1354,14 +1197,14 @@
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@48.07319,19.282080000000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1327,
+                "reviews": 1326,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
             {
                 "name": "Kek Abc Balassagyarmat",
                 "link": "https://www.google.com/maps/search/K%C3%A9k+Abc+Balassagyarmat/@48.0803943,19.3005601?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 837,
+                "reviews": 838,
                 "rating": 4.4,
                 "main_category": "Za Huo Dian "
             },
@@ -1416,7 +1259,7 @@
             {
                 "name": "Trattoria Dolce Vita Pizzeria",
                 "link": "https://www.google.com/maps/search/Trattoria+Dolce+Vita+Pizz%C3%A9ria/@48.0777906,19.297401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 887,
+                "reviews": 890,
                 "rating": 4.5,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -1579,54 +1422,6 @@
         "link": "https://www.google.com/maps/place/Torta+Pont/data=!4m7!3m6!1s0x476aa071968d237f:0x21dd0a64c633cf78!8m2!3d48.0776669!4d19.2868388!16s%2Fg%2F11b_045m77!19sChIJfyONlnGgakcReM8zxmQK3SE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJo4ey6HCgakcRtm-igsIReRY",
-        "name": "Langos",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 14,
-        "competitors": [
-            {
-                "name": "Burgerland Gyorsetkezde",
-                "link": "https://www.google.com/maps/search/Burgerland+Gyors%C3%A9tkezde/@48.079492599999995,19.295084799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.5,
-                "main_category": "Han Bao Bao "
-            },
-            {
-                "name": "Langosos",
-                "link": "https://www.google.com/maps/search/L%C3%A1ngosos/@48.0847287,19.2981961?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 5,
-                "main_category": "Han Bao Bao "
-            },
-            {
-                "name": "Boleny Vendeglo",
-                "link": "https://www.google.com/maps/search/B%C3%B6l%C3%A9ny+Vend%C3%A9gl%C5%91/@48.0781184,19.2945603?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Langos (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUTXG452sG4kzzZJjmeIFhJZgj4HyfxZ6ABPRU=w408-h252-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "08:00-16:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Balassagyarmat, Langos, Piac, 2660 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/L%C3%A1ngos/data=!4m7!3m6!1s0x476aa070e8b287a3:0x167911c282a26fb6!8m2!3d48.078962!4d19.2970374!16s%2Fg%2F11fx_20mh6!19sChIJo4ey6HCgakcRtm-igsIReRY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJFYNv-HCgakcRbZKeIXJU_S0",
         "name": "Overtime Cafe",
         "description": null,
@@ -1709,7 +1504,7 @@
             "name": "Szerviz Bufe (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d_ECLFArNWij4iTqZzdKzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=80.34653&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d_ECLFArNWij4iTqZzdKzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=66.001915&pitch=0&thumbfov=100",
         "main_category": "Zheng Liu Ka Pei Ba ",
         "categories": [
             "Zheng Liu Ka Pei Ba "
@@ -1732,14 +1527,14 @@
             {
                 "name": "Svejk Restaurant",
                 "link": "https://www.google.com/maps/search/Svejk+Restaurant/@48.079158299999996,19.290683299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1892,
+                "reviews": 1893,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Trattoria Dolce Vita Pizzeria",
                 "link": "https://www.google.com/maps/search/Trattoria+Dolce+Vita+Pizz%C3%A9ria/@48.0777906,19.297401?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 887,
+                "reviews": 890,
                 "rating": 4.5,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -1783,6 +1578,54 @@
         "address": "Balassagyarmat, Kavics Bistro Balassagyarmat, Civitas Fortissima ter, 2660 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kavics+Bistro+Balassagyarmat/data=!4m7!3m6!1s0x476aa1001d60b949:0x348b79b120c84615!8m2!3d48.0764179!4d19.2906678!16s%2Fg%2F11qby4_z1s!19sChIJSblgHQChakcRFUbIILF5izQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJx5m6rnGgakcRqiPCCdm3BzA",
+        "name": "Hegedus Gabor Sutoipari es Kereskedelmi Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Hegedus Pekseg",
+                "link": "https://www.google.com/maps/search/Heged%C5%B1s+P%C3%A9ks%C3%A9g/@48.0782278,19.294912999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.9,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Gazda-Kenyer Kft.",
+                "link": "https://www.google.com/maps/search/Gazda-Keny%C3%A9r+Kft./@48.0803807,19.301849?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Gabonas Pekseg Kft.",
+                "link": "https://www.google.com/maps/search/Gabon%C3%A1s+P%C3%A9ks%C3%A9g+Kft./@48.07785,19.2968428?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hegedus Gabor Sutoipari es Kereskedelmi Kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u3YGntQLwBI8-5KmkFE6sA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=14.269242&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 35 300 647",
+        "address": "Balassagyarmat, Hegedus Gabor Sutoipari es Kereskedelmi Kft., Kossuth Lajos ut 8, 2660 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Heged%C5%B1s+G%C3%A1bor+S%C3%BCt%C5%91ipari+%C3%A9s+Kereskedelmi+Kft./data=!4m7!3m6!1s0x476aa071aeba99c7:0x3007b7d909c223aa!8m2!3d48.0782278!4d19.294913!16s%2Fg%2F1tfr8_3z!19sChIJx5m6rnGgakcRqiPCCdm3BzA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJmwOAoamhakcRs8jgf-ggeOM",
@@ -1996,7 +1839,7 @@
             "name": "Den Cafe (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vrmIhZHLFa8dQW31X-PcXw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.9993&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d-lF_mA2t_Z7MwCa_hEA1Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=267.6361&pitch=0&thumbfov=100",
         "main_category": null,
         "categories": null,
         "rating": null,

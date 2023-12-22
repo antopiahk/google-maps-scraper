@@ -4,19 +4,19 @@
         "name": "Marzipan Museum",
         "description": "Gu Pu De Hong Bei Ka Pei Ting He Shang Dian ,You Zhu Zhan Shi Jing Zhi Xing Ren Gao Xiao Ren Ou De Xiao Xing Bo Wu Guan . ",
         "is_spending_on_ads": false,
-        "reviews": 4535,
+        "reviews": 4536,
         "competitors": [
             {
                 "name": "Szamos Chocolate Museum",
                 "link": "https://www.google.com/maps/search/Szamos+Chocolate+Museum/@47.505589,19.047872899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1096,
+                "reviews": 1098,
                 "rating": 4.2,
                 "main_category": "Bo Wu Guan "
             },
             {
                 "name": "Centrum Fagyizo",
                 "link": "https://www.google.com/maps/search/Centrum+Fagyiz%C3%B3/@47.668075900000005,19.0764071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 650,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             }
@@ -36,7 +36,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "10:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 30 548 0252",
         "address": "Szentendre, Marzipan Museum, Dumtsa Jeno u. 14, 2000 Xiong Ya Li ",
         "review_keywords": [
@@ -84,12 +86,12 @@
         "name": "Adria Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1083,
+        "reviews": 1085,
         "competitors": [
             {
                 "name": "Trattoria Cardinale Szentendre",
                 "link": "https://www.google.com/maps/search/Trattoria+Cardinale+Szentendre/@47.6685233,19.0776513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2754,
+                "reviews": 2759,
                 "rating": 4.6,
                 "main_category": "Yi Da Li Cai "
             },
@@ -103,14 +105,14 @@
             {
                 "name": "Dorothea Bistro & Cafe",
                 "link": "https://www.google.com/maps/search/Dorothea+Bistro+%26+Caf%C3%A9/@47.6675731,19.075691499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 485,
+                "reviews": 486,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Kereskedohaz Etterem",
                 "link": "https://www.google.com/maps/search/Keresked%C5%91h%C3%A1z+%C3%89tterem/@47.6676267,19.076461899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 223,
+                "reviews": 224,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             }
@@ -154,26 +156,26 @@
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Adria+Cafe/data=!4m7!3m6!1s0x4741d6626488854b:0x5aefeb1a7ec13f2!8m2!3d47.6649351!4d19.0762993!16s%2Fg%2F11bw2_hv0s!19sChIJS4WIZGLWQUcR8hPsp7H-rgU?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Adria+Cafe/data=!4m7!3m6!1s0x4741d6626488854b:0x5aefeb1a7ec13f2!8m2!3d47.6650034!4d19.0763011!16s%2Fg%2F11bw2_hv0s!19sChIJS4WIZGLWQUcR8hPsp7H-rgU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ5YlLNH3WQUcRusR8gVYdR3Q",
         "name": "Cafe Christine",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 917,
+        "reviews": 926,
         "competitors": [
             {
                 "name": "Trattoria Cardinale Szentendre",
                 "link": "https://www.google.com/maps/search/Trattoria+Cardinale+Szentendre/@47.6685233,19.0776513?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2754,
+                "reviews": 2759,
                 "rating": 4.6,
                 "main_category": "Yi Da Li Cai "
             },
             {
                 "name": "Dorothea Bistro & Cafe",
                 "link": "https://www.google.com/maps/search/Dorothea+Bistro+%26+Caf%C3%A9/@47.6675731,19.075691499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 485,
+                "reviews": 486,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -187,14 +189,14 @@
             {
                 "name": "Kereskedohaz Etterem",
                 "link": "https://www.google.com/maps/search/Keresked%C5%91h%C3%A1z+%C3%89tterem/@47.6676267,19.076461899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 223,
+                "reviews": 224,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Bistro 11",
                 "link": "https://www.google.com/maps/search/Bistro+11/@47.659374899999996,19.0761561?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
+                "reviews": 150,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             }
@@ -237,15 +239,19 @@
                 "count": 5
             },
             {
+                "keyword": "Yin Liao ",
+                "count": 5
+            },
+            {
                 "keyword": "Xiong Ya Li ",
                 "count": 4
             },
             {
-                "keyword": "Xia Tian ",
-                "count": 3
+                "keyword": "Han Bao ",
+                "count": 4
             },
             {
-                "keyword": "Lu You ",
+                "keyword": "Xia Tian ",
                 "count": 3
             }
         ],
@@ -261,7 +267,7 @@
             {
                 "name": "Szelet Cukraszda",
                 "link": "https://www.google.com/maps/search/Szelet+Cukr%C3%A1szda/@47.6634108,19.074579999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 589,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -310,7 +316,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:30-18:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 30 436 2631",
         "address": "Szentendre, SzilVanilla Cukraszda, Kalvaria ut 16/c, 2000 Xiong Ya Li ",
         "review_keywords": [
@@ -331,7 +340,7 @@
             {
                 "name": "Szelet Cukraszda",
                 "link": "https://www.google.com/maps/search/Szelet+Cukr%C3%A1szda/@47.6634108,19.074579999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 589,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -387,7 +396,7 @@
         "name": "Szelet Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 587,
+        "reviews": 589,
         "competitors": [
             {
                 "name": "SzilVanilla Cukraszda",
@@ -399,7 +408,7 @@
             {
                 "name": "Centrum Fagyizo",
                 "link": "https://www.google.com/maps/search/Centrum+Fagyiz%C3%B3/@47.668075900000005,19.0764071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 650,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -503,7 +512,10 @@
         ],
         "rating": 4.8,
         "workday_timing": "10:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 26 303 200",
         "address": "Szentendre, Sweets Shop of Eden, Dumtsa Jeno u. 9, 2000 Xiong Ya Li ",
         "review_keywords": [
@@ -531,8 +543,8 @@
         "competitors": [
             {
                 "name": "Adria Cafe",
-                "link": "https://www.google.com/maps/search/Adria+Cafe/@47.6649351,19.0762993?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1081,
+                "link": "https://www.google.com/maps/search/Adria+Cafe/@47.665003399999996,19.0763011?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1084,
                 "rating": 4.6,
                 "main_category": "Xi La Cai "
             },
@@ -592,7 +604,7 @@
             {
                 "name": "Centrum Fagyizo",
                 "link": "https://www.google.com/maps/search/Centrum+Fagyiz%C3%B3/@47.668075900000005,19.0764071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 650,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -652,22 +664,22 @@
         "competitors": [
             {
                 "name": "Adria Cafe",
-                "link": "https://www.google.com/maps/search/Adria+Cafe/@47.6649351,19.0762993?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1081,
+                "link": "https://www.google.com/maps/search/Adria+Cafe/@47.665003399999996,19.0763011?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1084,
                 "rating": 4.6,
                 "main_category": "Xi La Cai "
             },
             {
                 "name": "Cafe Christine",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Christine/@47.668053,19.0773474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 908,
+                "reviews": 925,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Kafana Kavezo es Delikat Kft.",
                 "link": "https://www.google.com/maps/search/Kafana+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Delik%C3%A1t+Kft./@47.667815,19.0767106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -789,7 +801,10 @@
         ],
         "rating": 4.8,
         "workday_timing": "07:45-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 254 3729",
         "address": "Szentendre, Parti Medve Konyvesbolt es Kavezo, Varoshaz ter 4, 2000 Xiong Ya Li ",
         "review_keywords": [
@@ -803,6 +818,70 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Parti+Medve+K%C3%B6nyvesbolt+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4741d6632615e641:0xe3d38e732f84a439!8m2!3d47.6676714!4d19.0753564!16s%2Fg%2F11g6nrfzg7!19sChIJQeYVJmPWQUcROaSEL3OO0-M?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ84kGXGPWQUcROGgVqcMk5ws",
+        "name": "Heim Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 211,
+        "competitors": [
+            {
+                "name": "Pismanyi Kezmuves Pekseg",
+                "link": "https://www.google.com/maps/search/Pism%C3%A1nyi+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g/@47.6816226,19.075174099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 223,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Szilagyi pekseg",
+                "link": "https://www.google.com/maps/search/Szil%C3%A1gyi+p%C3%A9ks%C3%A9g/@47.669208,19.0606624?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 173,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Skanzen-Haz Pekseg",
+                "link": "https://www.google.com/maps/search/Skanzen-H%C3%A1z+P%C3%A9ks%C3%A9g/@47.6697596,19.077821099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 67,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kopic Pekseg",
+                "link": "https://www.google.com/maps/search/K%C3%B3pic+P%C3%A9ks%C3%A9g/@47.6668442,19.0727333?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Torpipek boltja",
+                "link": "https://www.google.com/maps/search/T%C3%B6rpip%C3%A9k+boltja/@47.661793700000004,19.075314?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://heimsutode.hu/",
+        "owner": {
+            "id": null,
+            "name": "Heim Pekseg (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMp9S0vYVf7tkU2osEZ9_AQ6Lo6wBxj4ASS-DQI=w532-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 26 302 812",
+        "address": "Szentendre, Heim Pekseg, Bukkos part 33, 2000 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Heim+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4741d6635c0689f3:0xbe724c3a9156838!8m2!3d47.6677725!4d19.0724365!16s%2Fg%2F11cs1ssxm8!19sChIJ84kGXGPWQUcROGgVqcMk5ws?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJtaKxcFrVQUcRcFQ9dHvR3tM",
@@ -821,7 +900,7 @@
             {
                 "name": "Szelet Cukraszda",
                 "link": "https://www.google.com/maps/search/Szelet+Cukr%C3%A1szda/@47.6634108,19.074579999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 589,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -902,7 +981,7 @@
             {
                 "name": "Heim Sutode",
                 "link": "https://www.google.com/maps/search/Heim+S%C3%BCt%C3%B6de/@47.6636191,19.0760518?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 161,
+                "reviews": 162,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -928,6 +1007,8 @@
         "rating": 4.4,
         "workday_timing": "07:00-20:00",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Liu "
         ],
         "phone": "+36 26 315 468",
@@ -936,11 +1017,75 @@
         "link": "https://www.google.com/maps/place/Szil%C3%A1gyi+p%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4741d66df731c025:0xe1942d7d281a11c5!8m2!3d47.669208!4d19.0606624!16s%2Fg%2F1td6lff_!19sChIJJcAx923WQUcRxREaKH0tlOE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJT-_7-4nWQUcRp2RbbfJ1h74",
+        "name": "Heim Sutode",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 163,
+        "competitors": [
+            {
+                "name": "Szilagyi pekseg",
+                "link": "https://www.google.com/maps/search/Szil%C3%A1gyi+p%C3%A9ks%C3%A9g/@47.669208,19.0606624?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 173,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Skanzen-Haz Pekseg",
+                "link": "https://www.google.com/maps/search/Skanzen-H%C3%A1z+P%C3%A9ks%C3%A9g/@47.6697596,19.077821099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 67,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pismany kezmuves pekseg - mintabolt & delikatesz",
+                "link": "https://www.google.com/maps/search/Pism%C3%A1ny+k%C3%A9zm%C5%B1ves+p%C3%A9ks%C3%A9g+-+mintabolt+%26+delik%C3%A1tesz/@47.6832249,19.0618963?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Mentes suti Bt.",
+                "link": "https://www.google.com/maps/search/Mentes+s%C3%BCti+Bt./@47.6630824,19.0763371?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 2.6,
+                "main_category": "Bing Gan "
+            },
+            {
+                "name": "Kopic Pekseg",
+                "link": "https://www.google.com/maps/search/K%C3%B3pic+P%C3%A9ks%C3%A9g/@47.6668442,19.0727333?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://heimsutode.hu/",
+        "owner": {
+            "id": null,
+            "name": "Heim Sutode (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMteYIH0be3QsFhWFb98sQnwEApb3ld35oWuF64=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-19:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 26 301 340",
+        "address": "Szentendre, Heim Sutode, Kossuth Lajos u. 13, 2000 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Heim+S%C3%BCt%C3%B6de/data=!4m7!3m6!1s0x4741d689fbfbef4f:0xbe8775f26d5b64a7!8m2!3d47.6636191!4d19.0760518!16s%2Fg%2F1tm8cs06!19sChIJT-_7-4nWQUcRp2RbbfJ1h74?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJY0l7jWLWQUcRkHeWMtJQgnQ",
         "name": "Prima Pek",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 150,
+        "reviews": 151,
         "competitors": [
             {
                 "name": "Szilagyi pekseg",
@@ -1007,21 +1152,21 @@
             {
                 "name": "Centrum Fagyizo",
                 "link": "https://www.google.com/maps/search/Centrum+Fagyiz%C3%B3/@47.668075900000005,19.0764071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 650,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
             {
                 "name": "Szelet Cukraszda",
                 "link": "https://www.google.com/maps/search/Szelet+Cukr%C3%A1szda/@47.6634108,19.074579999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 589,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Falank Falu Glutenmentes Pekseg",
                 "link": "https://www.google.com/maps/search/Fal%C3%A1nk+Falu+Glut%C3%A9nmentes+P%C3%A9ks%C3%A9g/@47.662385099999995,19.0768374?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
+                "reviews": 38,
                 "rating": 4.5,
                 "main_category": "Wu Fu Zhi Liao Li "
             },
@@ -1047,7 +1192,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "10:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi San ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 246 6045",
         "address": "Szentendre, ZsoFree, Ady Endre ut 37/A, 2000 Xiong Ya Li ",
         "review_keywords": [],
@@ -1058,12 +1206,12 @@
         "name": "Kafana Kavezo es Delikat Kft.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 144,
+        "reviews": 145,
         "competitors": [
             {
                 "name": "Cafe Christine",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Christine/@47.668053,19.0773474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 908,
+                "reviews": 925,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -1140,7 +1288,7 @@
             {
                 "name": "Szelet Cukraszda",
                 "link": "https://www.google.com/maps/search/Szelet+Cukr%C3%A1szda/@47.6634108,19.074579999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 589,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -1159,7 +1307,7 @@
                 "main_category": "Tang Guo Gao Bing Dian "
             }
         ],
-        "website": "https://m.facebook.com/lolacukraszda/?ref=bookmarks",
+        "website": "https://m.facebook.com/lolacukraszda/%3Fref%3Dbookmarks",
         "owner": {
             "id": "106597741882231098711",
             "name": "Lola Cukraszda (Ye Zhu )",
@@ -1326,7 +1474,7 @@
             },
             {
                 "name": "Skanzen haz",
-                "link": "https://www.google.com/maps/search/Skanzen+h%C3%A1z/@47.6663685,19.076284299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Skanzen+h%C3%A1z/@47.666335,19.076269999999997?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 5,
                 "rating": 4,
                 "main_category": "Mian Bao Xi Bing Dian "
@@ -1387,7 +1535,7 @@
             {
                 "name": "Kereskedohaz Etterem",
                 "link": "https://www.google.com/maps/search/Keresked%C5%91h%C3%A1z+%C3%89tterem/@47.6676267,19.076461899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 223,
+                "reviews": 224,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1568,7 +1716,7 @@
             {
                 "name": "Cafe Christine",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Christine/@47.668053,19.0773474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 908,
+                "reviews": 925,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -1799,6 +1947,65 @@
         "link": "https://www.google.com/maps/place/Bravos+Hungary+Kft./data=!4m7!3m6!1s0x4741d703cc6b3f59:0x9e73115c58b5dc0f!8m2!3d47.636355!4d19.0661999!16s%2Fg%2F1hhxt4016!19sChIJWT9rzAPXQUcRD9y1WFwRc54?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJY6XxeRLXQUcRqTO9z7SbCoM",
+        "name": "Coffee Retro & Royal - Kave.Co Euro Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "competitors": [
+            {
+                "name": "X-Presso Coffee Kft.",
+                "link": "https://www.google.com/maps/search/X-Presso+Coffee+Kft./@47.6228957,19.062996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 144,
+                "rating": 4.9,
+                "main_category": "Can Ting Yong Pin Dian "
+            },
+            {
+                "name": "Karmo Cukraszda",
+                "link": "https://www.google.com/maps/search/Karm%C3%B3+Cukr%C3%A1szda/@47.6281829,19.0457341?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 60,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Art cafe",
+                "link": "https://www.google.com/maps/search/Art+caf%C3%A9/@47.612538,19.060951?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.8,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "Caffe Cortado",
+                "link": "https://www.google.com/maps/search/Caffe+Cortado/@47.6139176,19.0616313?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "http://kave.co/",
+        "owner": {
+            "id": "108723785616998387687",
+            "name": "Coffee Retro & Royal - Kave.Co Euro Kft. (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108723785616998387687"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkaCRW8Tt1__Y4oEeRtZhc6iUpLxncS3mX8DpD=w536-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-15:00",
+        "closed_on": [
+            "Xing Qi Wu ",
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 26 341 015",
+        "address": "Budakalasz, Coffee Retro & Royal - Kave.Co Euro Kft., Kek Duna u., 2011 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Retro+%26+Royal+-+Kave.Co+Euro+Kft./data=!4m7!3m6!1s0x4741d71279f1a563:0x830a9bb4cfbd33a9!8m2!3d47.6225119!4d19.0633814!16s%2Fg%2F11c3vyw11z!19sChIJY6XxeRLXQUcRqTO9z7SbCoM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJacxCk6HXQUcROCk84kMHKpM",
         "name": "RegenTag Muhelygaleria es Kavezo",
         "description": null,
@@ -1822,7 +2029,7 @@
             {
                 "name": "Kafana Kavezo es Delikat Kft.",
                 "link": "https://www.google.com/maps/search/Kafana+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Delik%C3%A1t+Kft./@47.667815,19.0767106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1877,7 +2084,7 @@
             {
                 "name": "Cafe Christine",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Christine/@47.668053,19.0773474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 908,
+                "reviews": 925,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -1903,7 +2110,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.facebook.com/operacafe2022",
+        "website": "https://operacafe.shop/",
         "owner": {
             "id": "104279603288232222638",
             "name": "Opera Cafe (Ye Zhu )",
@@ -1926,32 +2133,6 @@
         "link": "https://www.google.com/maps/place/Opera+Caf%C3%A9/data=!4m7!3m6!1s0x4741d7905709cb5f:0xe18dfe8e8f7ff4a3!8m2!3d47.6354007!4d19.0691451!16s%2Fg%2F11t8gptgmx!19sChIJX8sJV5DXQUcRo_R_j47-jeE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJd3y3FHvXQUcR0YHdedMXyAc",
-        "name": "Spirit Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": "https://www.facebook.com/spiritcafeszentendre",
-        "owner": {
-            "id": null,
-            "name": "Spirit Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZLATCP0ZqqEqQFtUXckfMAHXpMe3pJiBo4nck=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "07:45-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Szentendre, Spirit Cafe, Pannonia u. 3, 2000 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Spirit+Cafe/data=!4m7!3m6!1s0x4741d77b14b77c77:0x7c817d379dd81d1!8m2!3d47.6590748!4d19.0761065!16s%2Fg%2F11l72qbs7s!19sChIJd3y3FHvXQUcR0YHdedMXyAc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJg0zTNH3WQUcRo9ON0411kYc",
         "name": "Margaretta Cukraszda",
         "description": null,
@@ -1968,7 +2149,7 @@
             {
                 "name": "Szelet Cukraszda",
                 "link": "https://www.google.com/maps/search/Szelet+Cukr%C3%A1szda/@47.6634108,19.074579999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 589,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -2010,6 +2191,70 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Margaretta+Cukr%C3%A1szda/data=!4m7!3m6!1s0x4741d67d34d34c83:0x8791758dd38dd3a3!8m2!3d47.667984!4d19.0770187!16s%2Fg%2F1tfd1516!19sChIJg0zTNH3WQUcRo9ON0411kYc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJxX1VZNfVQUcRzZiNyA22K1I",
+        "name": "Pismanyi Kezmuves Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 223,
+        "competitors": [
+            {
+                "name": "Zeke Pekseg",
+                "link": "https://www.google.com/maps/search/Zeke+P%C3%A9ks%C3%A9g/@47.66869880000001,19.0617399?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 198,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Szilagyi pekseg",
+                "link": "https://www.google.com/maps/search/Szil%C3%A1gyi+p%C3%A9ks%C3%A9g/@47.669208,19.0606624?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 173,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Prima Pek",
+                "link": "https://www.google.com/maps/search/Pr%C3%ADma+P%C3%A9k/@47.6659642,19.0763897?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 150,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Skanzen-Haz Pekseg",
+                "link": "https://www.google.com/maps/search/Skanzen-H%C3%A1z+P%C3%A9ks%C3%A9g/@47.6697596,19.077821099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 67,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kopic Pekseg",
+                "link": "https://www.google.com/maps/search/K%C3%B3pic+P%C3%A9ks%C3%A9g/@47.6668442,19.0727333?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "109725771657098972788",
+            "name": "Pismanyi Kezmuves Pekseg (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109725771657098972788"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpSCoVe0VCFDWTDw4UrI6-T-dn3VeeHYMRZ_7o=w426-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:30-19:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 776 9767",
+        "address": "Szentendre, Pismanyi Kezmuves Pekseg, Barackos ut 39, 2000 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pism%C3%A1nyi+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4741d5d764557dc5:0x522bb60dc88d98cd!8m2!3d47.6816226!4d19.0751741!16s%2Fg%2F11bxfpgqmr!19sChIJxX1VZNfVQUcRzZiNyA22K1I?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJO_6LsW_WQUcRC40Hjr0PuPQ",
@@ -2090,7 +2335,7 @@
             {
                 "name": "Szelet Cukraszda",
                 "link": "https://www.google.com/maps/search/Szelet+Cukr%C3%A1szda/@47.6634108,19.074579999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 589,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -2166,7 +2411,7 @@
             {
                 "name": "Szelet Cukraszda",
                 "link": "https://www.google.com/maps/search/Szelet+Cukr%C3%A1szda/@47.6634108,19.074579999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 587,
+                "reviews": 589,
                 "rating": 4.7,
                 "main_category": "Tian Pin Dian "
             },
@@ -2294,7 +2539,7 @@
             {
                 "name": "Fantazia Etterem Pizzeria",
                 "link": "https://www.google.com/maps/search/Fant%C3%A1zia+%C3%89tterem+Pizz%C3%A9ria/@47.668158999999996,19.0773884?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 723,
+                "reviews": 724,
                 "rating": 3.8,
                 "main_category": "Can Ting "
             },
@@ -2308,7 +2553,7 @@
             {
                 "name": "Teatrum Cafe",
                 "link": "https://www.google.com/maps/search/Teatrum+Cafe/@47.6723581,19.0790054?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 196,
+                "reviews": 197,
                 "rating": 4.6,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -2406,7 +2651,7 @@
             {
                 "name": "Centrum Fagyizo",
                 "link": "https://www.google.com/maps/search/Centrum+Fagyiz%C3%B3/@47.668075900000005,19.0764071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 648,
+                "reviews": 650,
                 "rating": 4.5,
                 "main_category": "Tang Guo Gao Bing Dian "
             },
@@ -2468,14 +2713,14 @@
             {
                 "name": "Cafe Christine",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Christine/@47.668053,19.0773474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 908,
+                "reviews": 925,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Dorothea Bistro & Cafe",
                 "link": "https://www.google.com/maps/search/Dorothea+Bistro+%26+Caf%C3%A9/@47.6675731,19.075691499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 485,
+                "reviews": 486,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -2592,7 +2837,7 @@
             {
                 "name": "Cafe Christine",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Christine/@47.668053,19.0773474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 908,
+                "reviews": 925,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -2647,7 +2892,7 @@
             {
                 "name": "Kafana Kavezo es Delikat Kft.",
                 "link": "https://www.google.com/maps/search/Kafana+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Delik%C3%A1t+Kft./@47.667815,19.0767106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2705,7 +2950,7 @@
             {
                 "name": "Kafana Kavezo es Delikat Kft.",
                 "link": "https://www.google.com/maps/search/Kafana+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Delik%C3%A1t+Kft./@47.667815,19.0767106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2758,52 +3003,67 @@
         "link": "https://www.google.com/maps/place/Prodavnica+kafe+i+%C4%8Dokolade/data=!4m7!3m6!1s0x4741d75262d6224d:0x103be49b9d3654a1!8m2!3d47.666348!4d19.0762445!16s%2Fg%2F11j4mk7k9f!19sChIJTSLWYlLXQUcRoVQ2nZvkOxA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ2xlWFJ7XQUcRIRH8M1wONqM",
-        "name": "FOOD 2GO street food Szentedre",
+        "place_id": "ChIJp0BC62LWQUcR3e2YyHlHXUU",
+        "name": "Skanzen haz",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 5,
         "competitors": [
             {
-                "name": "Sweet Garden",
-                "link": "https://www.google.com/maps/search/Sweet+Garden/@47.666134799999995,19.0761722?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.3,
-                "main_category": "Tang Guo Gao Bing Dian "
+                "name": "Kereskedohaz Etterem",
+                "link": "https://www.google.com/maps/search/Keresked%C5%91h%C3%A1z+%C3%89tterem/@47.6676267,19.076461899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 224,
+                "rating": 4.6,
+                "main_category": "Can Ting "
             },
             {
-                "name": "Prodavnica kafe i cokolade",
-                "link": "https://www.google.com/maps/search/Prodavnica+kafe+i+%C4%8Dokolade/@47.666348,19.076244499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
+                "name": "Skanzen Etterem",
+                "link": "https://www.google.com/maps/search/Skanzen+%C3%89tterem/@47.6930319,19.0455663?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 143,
+                "rating": 3.6,
+                "main_category": "Can Ting "
             },
             {
-                "name": "Akacoskert Sutibolt",
-                "link": "https://www.google.com/maps/search/Ak%C3%A1coskert+S%C3%BCtibolt/@47.666872,19.0767906?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bing Gan "
+                "name": "Korzo Bufe",
+                "link": "https://www.google.com/maps/search/Korzo+B%C3%BCf%C3%A9/@47.667769500000006,19.0774985?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 90,
+                "rating": 3.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Skanzen-Haz Pekseg",
+                "link": "https://www.google.com/maps/search/Skanzen-H%C3%A1z+P%C3%A9ks%C3%A9g/@47.6697596,19.077821099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 67,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Skanzen pekseg",
+                "link": "https://www.google.com/maps/search/Skanzen+p%C3%A9ks%C3%A9g/@47.6947442,19.0457788?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "FOOD 2GO street food Szentedre (Ye Zhu )",
+            "name": "Skanzen haz (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPsrJqD6B-ox5UpzLpIF3JSSeLDywkhDHsoEpvY=w408-h544-k-no",
-        "main_category": "Xue Gao Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMu9yjrEaKJcZtSSBwwN1x7TDx29sYkj8g5JwZ8=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
         "categories": [
-            "Xue Gao Dian "
+            "Mian Bao Xi Bing Dian ",
+            "Zi Zhu Can Can Ting "
         ],
         "rating": 4,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Szentendre, FOOD 2GO street food Szentedre, Bogdanyi ut 2, 2000 Xiong Ya Li ",
+        "address": "Szentendre, Skanzen haz, Dumtsa Jeno u. 7, 2000 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/FOOD+2GO+street+food+Szentedre/data=!4m7!3m6!1s0x4741d79e145619db:0xa3360e5c33fc1121!8m2!3d47.6680017!4d19.0762646!16s%2Fg%2F11tg296ggq!19sChIJ2xlWFJ7XQUcRIRH8M1wONqM?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Skanzen+h%C3%A1z/data=!4m7!3m6!1s0x4741d662eb4240a7:0x455d4779c898eddd!8m2!3d47.666335!4d19.07627!16s%2Fg%2F11c765byp1!19sChIJp0BC62LWQUcR3e2YyHlHXUU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ1VzvVsrXQUcRxnyKIW-SAhw",
@@ -2962,7 +3222,7 @@
             {
                 "name": "Cafe Christine",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Christine/@47.668053,19.0773474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 908,
+                "reviews": 925,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -2976,7 +3236,7 @@
             {
                 "name": "Bistro 11",
                 "link": "https://www.google.com/maps/search/Bistro+11/@47.659374899999996,19.0761561?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
+                "reviews": 150,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -3068,7 +3328,7 @@
             {
                 "name": "Kafana Kavezo es Delikat Kft.",
                 "link": "https://www.google.com/maps/search/Kafana+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Delik%C3%A1t+Kft./@47.667815,19.0767106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3118,6 +3378,37 @@
         "link": "https://www.google.com/maps/place/%D7%91%D7%99%D7%AA+%D7%97%D7%91%D7%B4%D7%93+%D7%A1%D7%A0%D7%98%D7%90%D7%A0%D7%93%D7%A8%D7%94%E2%80%AD/data=!4m7!3m6!1s0x4741d7ca0074ca7b:0x99cd640f987d0caa!8m2!3d47.6689362!4d19.0745375!16s%2Fg%2F11t6hjlqzl!19sChIJe8p0AMrXQUcRqgx9mA9kzZk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ6XhwvbV5akcRZCth2IYcfro",
+        "name": "Coffee Caravan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "115508382192124759482",
+            "name": "Coffee Caravan (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115508382192124759482"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwze8J7DXRCqOTehY6dkiVFW8qJ8qs1ykoA2on=w533-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-16:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Szentendre, Coffee Caravan, Dozsa Gyorgy ut 87, 2000 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Caravan/data=!4m7!3m6!1s0x476a79b5bd7078e9:0xba7e1c86d8612b64!8m2!3d47.6426144!4d19.0675743!16s%2Fg%2F11sth_v7_j!19sChIJ6XhwvbV5akcRZCth2IYcfro?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJN-jxG_bXQUcRpa74UwLqFFc",
         "name": "J'adore Eclair's",
         "description": null,
@@ -3127,21 +3418,21 @@
             {
                 "name": "Cafe Christine",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Christine/@47.668053,19.0773474?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 908,
+                "reviews": 925,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Dorothea Bistro & Cafe",
                 "link": "https://www.google.com/maps/search/Dorothea+Bistro+%26+Caf%C3%A9/@47.6675731,19.075691499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 485,
+                "reviews": 486,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Bistro 11",
                 "link": "https://www.google.com/maps/search/Bistro+11/@47.659374899999996,19.0761561?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
+                "reviews": 150,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -3173,35 +3464,6 @@
         "link": "https://www.google.com/maps/place/J%27adore+%C3%89clair%27s/data=!4m7!3m6!1s0x4741d7f61bf1e837:0x5714ea0253f8aea5!8m2!3d47.6593312!4d19.0761434!16s%2Fg%2F11s9778s37!19sChIJN-jxG_bXQUcRpa74UwLqFFc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ6XhwvbV5akcRZCth2IYcfro",
-        "name": "Coffee Caravan",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "115508382192124759482",
-            "name": "Coffee Caravan (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115508382192124759482"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwze8J7DXRCqOTehY6dkiVFW8qJ8qs1ykoA2on=w533-h240-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 5,
-        "workday_timing": "07:30-16:00",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Szentendre, Coffee Caravan, Dozsa Gyorgy ut 87, 2000 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+Caravan/data=!4m7!3m6!1s0x476a79b5bd7078e9:0xba7e1c86d8612b64!8m2!3d47.6426144!4d19.0675743!16s%2Fg%2F11sth_v7_j!19sChIJ6XhwvbV5akcRZCth2IYcfro?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJJfF6t4_XQUcRxMzxDOk-NfQ",
         "name": "EMI Bufe",
         "description": null,
@@ -3229,6 +3491,68 @@
         "address": "Szentendre, EMI Bufe, Dozsa Gyorgy ut 26, 2000 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/%C3%89MI+B%C3%BCf%C3%A9/data=!4m7!3m6!1s0x4741d78fb77af125:0xf4353ee90cf1ccc4!8m2!3d47.6459279!4d19.0705801!16s%2Fg%2F11kk81b1fx!19sChIJJfF6t4_XQUcRxMzxDOk-NfQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJj2M-M3zWQUcRiKHP0lq1PBM",
+        "name": "Kedves Kavezo Kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Cafe Lex",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Lex/@47.6686322,19.0761222?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 362,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Parti Medve Konyvesbolt es Kavezo",
+                "link": "https://www.google.com/maps/search/Parti+Medve+K%C3%B6nyvesbolt+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.667671399999996,19.0753564?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 256,
+                "rating": 4.8,
+                "main_category": "Shu Dian "
+            },
+            {
+                "name": "Kafana Kavezo es Delikat Kft.",
+                "link": "https://www.google.com/maps/search/Kafana+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Delik%C3%A1t+Kft./@47.667815,19.0767106?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 145,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "MENT'ART CAFE",
+                "link": "https://www.google.com/maps/search/MENT%27ART+CAF%C3%89/@47.6659453,19.0757191?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Konyv. Kave. Galeria",
+                "link": "https://www.google.com/maps/search/K%C3%B6nyv.+K%C3%A1v%C3%A9.+Gal%C3%A9ria/@47.6678315,19.075192899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kedves Kavezo Kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QvsI5bhVfJgWf6zoUr7vkA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=221.04045&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+36 26 950 489",
+        "address": "Szentendre, Kedves Kavezo Kft., Bogdanyi ut 48, 2000 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kedves+K%C3%A1v%C3%A9z%C3%B3+Kft./data=!4m7!3m6!1s0x4741d67c333e638f:0x133cb55ad2cfa188!8m2!3d47.671975!4d19.0781768!16s%2Fg%2F12qfqf6jd!19sChIJj2M-M3zWQUcRiKHP0lq1PBM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJM1U913zWQUcRo9zt4AJWAHg",
@@ -3339,67 +3663,5 @@
         "address": "Szentendre, Akacoskert Sutibolt, 2100 Szentendre, Peter Pal utca 3, Peter Pal u. 3, 2000 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Ak%C3%A1coskert+S%C3%BCtibolt/data=!4m7!3m6!1s0x4741d662c0fd7ec1:0xd146fbc17785a7a1!8m2!3d47.666872!4d19.0767906!16s%2Fg%2F11f08s185b!19sChIJwX79wGLWQUcRoaeFd8H7RtE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJx0AT_GPWQUcRfCEPzm_QPtI",
-        "name": "Bc Szervezo es Tanacsado Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafe Lex",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Lex/@47.6686322,19.0761222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 362,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kafana Kavezo es Delikat Kft.",
-                "link": "https://www.google.com/maps/search/Kafana+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Delik%C3%A1t+Kft./@47.667815,19.0767106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "byt Hb\"d snTAndrh",
-                "link": "https://www.google.com/maps/search/%D7%91%D7%99%D7%AA+%D7%97%D7%91%D7%B4%D7%93+%D7%A1%D7%A0%D7%98%D7%90%D7%A0%D7%93%D7%A8%D7%94/@47.6689362,19.0745375?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Yi Lang Ka Pei Ting "
-            },
-            {
-                "name": "Kedves Kavezo Kft.",
-                "link": "https://www.google.com/maps/search/Kedves+K%C3%A1v%C3%A9z%C3%B3+Kft./@47.671974999999996,19.0781768?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "BCS Kft",
-                "link": "https://www.google.com/maps/search/BCS+Kft/@47.6655769,19.0659147?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ruan Jian Gong Si "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Bc Szervezo es Tanacsado Kft. (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BAExhyI0hLUOMODUxs5Clw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=306.0426&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 1 318 1480",
-        "address": "Szentendre, Bc Szervezo es Tanacsado Kft., Bc Szervezo Es Tanacsado Kft, Acel u. 1, 2000 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bc+Szervez%C3%B5+%C3%A9s+Tan%C3%A1csad%C3%B3+Kft./data=!4m7!3m6!1s0x4741d663fc1340c7:0xd23ed06fce0f217c!8m2!3d47.6642505!4d19.0699725!16s%2Fg%2F11cn8t6287!19sChIJx0AT_GPWQUcRfCEPzm_QPtI?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

@@ -1,49 +1,5 @@
 [
     {
-        "place_id": "ChIJzaYn2bDWQUcRLT4eBkm4aSA",
-        "name": "Part Cafe Restaurant and Guesthouse",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 973,
-        "competitors": [],
-        "website": "http://www.part-cafe.hu/",
-        "owner": {
-            "id": "111392461172122369937",
-            "name": "Part Cafe Restaurant and Guesthouse (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111392461172122369937"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNUei5ehHAAgdkmwnLASuQG_-2vZTQagQnc02YF=w408-h306-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting ",
-            "Bin Guan "
-        ],
-        "rating": 4.5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 27 349 225",
-        "address": "Dunakeszi, Part Cafe Restaurant and Guesthouse, Duna sor 20, 2120 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 11
-            },
-            {
-                "keyword": "He ",
-                "count": 5
-            },
-            {
-                "keyword": "Sha La ",
-                "count": 3
-            },
-            {
-                "keyword": "Fang Jian ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Part+Cafe+Restaurant+and+Guesthouse/data=!4m10!3m9!1s0x4741d6b0d927a6cd:0x2069b849061e3e2d!5m2!4m1!1i2!8m2!3d47.6564996!4d19.1198458!16s%2Fg%2F1tjwgj7_!19sChIJzaYn2bDWQUcRLT4eBkm4aSA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJyWM0kLbWQUcRPdMjPUNQQ2U",
         "name": "Maboni Coffee",
         "description": null,
@@ -60,7 +16,7 @@
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -103,7 +59,7 @@
         "name": "Napsutotte Sutode",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 557,
+        "reviews": 558,
         "competitors": [
             {
                 "name": "Wiedermann Bakeries Kft.",
@@ -122,7 +78,7 @@
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             }
@@ -161,12 +117,12 @@
         "name": "Starbucks Dunakeszi",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 449,
+        "reviews": 453,
         "competitors": [
             {
                 "name": "Starbucks Corvin",
                 "link": "https://www.google.com/maps/search/Starbucks+Corvin/@47.486348899999996,19.0743093?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1298,
+                "reviews": 1302,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -213,7 +169,10 @@
         ],
         "rating": 4.4,
         "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 795 9112",
         "address": "Starbucks Dunakeszi, Dunakeszi bejarat, uzletsoron, Nadas u. 6 C, 2120 Xiong Ya Li ",
         "review_keywords": [
@@ -234,21 +193,21 @@
             {
                 "name": "Napsutotte Sutode",
                 "link": "https://www.google.com/maps/search/Naps%C3%BCt%C3%B6tte+S%C3%BCt%C3%B6de/@47.6264469,19.137366099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 556,
+                "reviews": 557,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Local",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Local/@47.6311751,19.1302202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
+                "reviews": 121,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -280,7 +239,11 @@
         ],
         "rating": 4.9,
         "workday_timing": "07:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 70 741 7390",
         "address": "Dunakeszi, Poti Kave Specialty Kavebar, Baratsag utja 45, 2120 Xiong Ya Li ",
         "review_keywords": [],
@@ -291,12 +254,12 @@
         "name": "Suti Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 145,
+        "reviews": 147,
         "competitors": [
             {
                 "name": "Napsutotte Sutode",
                 "link": "https://www.google.com/maps/search/Naps%C3%BCt%C3%B6tte+S%C3%BCt%C3%B6de/@47.6264469,19.137366099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 556,
+                "reviews": 557,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -310,7 +273,7 @@
             {
                 "name": "Cafe Local",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Local/@47.6311751,19.1302202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
+                "reviews": 121,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -363,7 +326,7 @@
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -416,7 +379,7 @@
             {
                 "name": "Starbucks Dunakeszi",
                 "link": "https://www.google.com/maps/search/Starbucks+Dunakeszi/@47.6071633,19.1158246?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 449,
+                "reviews": 451,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -430,7 +393,7 @@
             {
                 "name": "Cafe Local",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Local/@47.6311751,19.1302202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
+                "reviews": 121,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -478,7 +441,7 @@
             {
                 "name": "Starbucks Dunakeszi",
                 "link": "https://www.google.com/maps/search/Starbucks+Dunakeszi/@47.6071633,19.1158246?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 449,
+                "reviews": 451,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -584,13 +547,66 @@
         "rating": 5,
         "workday_timing": "09:00-15:00",
         "closed_on": [
-            "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
         "phone": "+36 20 340 0280",
         "address": "Dunakeszi, Netpresso Kft - iroda, ugyfelszolgalat, atveteli pont, Fo ut 166, 2120 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Netpresso+Kft+-+iroda,+%C3%BCgyf%C3%A9lszolg%C3%A1lat,+%C3%A1tv%C3%A9teli+pont/data=!4m7!3m6!1s0x4741d1dc5241e373:0x78fefe7c6f2db8aa!8m2!3d47.651062!4d19.1303415!16s%2Fg%2F11h3qmgbw9!19sChIJc-NBUtzRQUcRqrgtb3z-_ng?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2_vTPBbRQUcRC9RLgrJ6dBw",
+        "name": "Fit Corner Dunakeszi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Wiedermann Bakeries Kft.",
+                "link": "https://www.google.com/maps/search/Wiedermann+Bakeries+Kft./@47.64378,19.129687999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 600,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Fit & Sweet Sugar Free Confectionery",
+                "link": "https://www.google.com/maps/search/Fit+%26+Sweet+Sugar+Free+Confectionery/@47.625205400000006,19.155421900000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 217,
+                "rating": 4.4,
+                "main_category": "Xi Dian "
+            },
+            {
+                "name": "Nutri-Fit Kft.",
+                "link": "https://www.google.com/maps/search/Nutri-Fit+Kft./@47.6374475,19.1298894?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": "https://m.facebook.com/fitcornerdunakeszi/",
+        "owner": {
+            "id": "103977869437743717195",
+            "name": "Fit Corner Dunakeszi (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103977869437743717195"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM10OlknGeD4g8iQZmjEG8mcKfoe6DErV-P9PuD=w408-h306-k-no",
+        "main_category": "Jian Kang Shi Pin Zhuan Mai Dian ",
+        "categories": [
+            "Jian Kang Shi Pin Zhuan Mai Dian ",
+            "Mian Bao Xi Bing Dian ",
+            "Zheng Liu Ka Pei Ba ",
+            "Gao Bing Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+36 30 911 7174",
+        "address": "Dunakeszi, Fit Corner Dunakeszi, Hazi orvosi rendelovel szemben, Cassalgrande ter, 2120 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fit+Corner+Dunakeszi/data=!4m7!3m6!1s0x4741d1163cd3fbdb:0x1c747ab2824bd40b!8m2!3d47.6414196!4d19.1260024!16s%2Fg%2F11r2r497bn!19sChIJ2_vTPBbRQUcRC9RLgrJ6dBw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJY-n2f4PRQUcRIbReb5hC1-k",
@@ -664,7 +680,7 @@
             {
                 "name": "Fit & Sweet Sugar Free Confectionery",
                 "link": "https://www.google.com/maps/search/Fit+%26+Sweet+Sugar+Free+Confectionery/@47.625205400000006,19.155421900000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 215,
+                "reviews": 217,
                 "rating": 4.4,
                 "main_category": "Xi Dian "
             },
@@ -726,14 +742,14 @@
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Local",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Local/@47.6311751,19.1302202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
+                "reviews": 121,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -773,6 +789,70 @@
         "link": "https://www.google.com/maps/place/Keszi+Center+K%C3%A1v%C3%A9z%C3%B3+S%C3%B6r%C3%B6z%C5%91/data=!4m7!3m6!1s0x4741d131d44a6c95:0x8d14b7525eed4cf1!8m2!3d47.638493!4d19.1292477!16s%2Fg%2F1hhxqnks8!19sChIJlWxK1DHRQUcR8UztXlK3FI0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJg2iJlALRQUcR_8VHPtOCxC0",
+        "name": "Lipoti Pekseg Es Kavezo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "competitors": [
+            {
+                "name": "Mondi Pekseg",
+                "link": "https://www.google.com/maps/search/Mondi+P%C3%A9ks%C3%A9g/@47.6202237,19.1623679?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 679,
+                "rating": 4.1,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pek & Delikat",
+                "link": "https://www.google.com/maps/search/P%C3%A9k+%26+Delik%C3%A1t/@47.62483650000001,19.1558809?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 146,
+                "rating": 4.4,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "Lipoti Pekseg es Kavezo",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.6504009,19.2918742?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 69,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Lipoti Pekseg",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g/@47.6415979,19.1300909?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kovacs Pekseg Kft.",
+                "link": "https://www.google.com/maps/search/Kov%C3%A1cs+P%C3%A9ks%C3%A9g+Kft./@47.6167479,19.149140100000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 3.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lipoti Pekseg Es Kavezo (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DFhaULehHHumihEEbf5cgg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=202.52737&pitch=0&thumbfov=100",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 3.5,
+        "workday_timing": "06:00-11:00, 15:00-19:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Dunakeszi, Lipoti Pekseg Es Kavezo, Foti ut, 2120 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%89s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4741d10294896883:0x2dc482d33e47c5ff!8m2!3d47.6247933!4d19.1559444!16s%2Fg%2F11pz7122ny!19sChIJg2iJlALRQUcR_8VHPtOCxC0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJi9Q707PRQUcRQyYwwtFxqw4",
         "name": "Fagyizo",
         "description": null,
@@ -796,7 +876,7 @@
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
@@ -892,14 +972,14 @@
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Local",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Local/@47.6311751,19.1302202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
+                "reviews": 121,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -947,14 +1027,14 @@
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Local",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Local/@47.6311751,19.1302202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
+                "reviews": 121,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -1002,14 +1082,14 @@
             {
                 "name": "Suti Cafe",
                 "link": "https://www.google.com/maps/search/S%C3%BCti+Caf%C3%A9/@47.644373099999996,19.129362800000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 145,
+                "reviews": 146,
                 "rating": 4.7,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Cafe Local",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Local/@47.6311751,19.1302202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
+                "reviews": 121,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },

@@ -4,7 +4,7 @@
         "name": "red espresso",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1336,
+        "reviews": 1337,
         "competitors": [
             {
                 "name": "Forum sorozo",
@@ -57,7 +57,7 @@
             {
                 "name": "Oszom-Iszom Kisvendeglo",
                 "link": "https://www.google.com/maps/search/%C3%96sz%C3%B6m-Iszom+Kisvend%C3%A9gl%C5%91/@46.4166142,20.321319199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
+                "reviews": 129,
                 "rating": 3.6,
                 "main_category": "Can Ting "
             },
@@ -110,14 +110,14 @@
             {
                 "name": "Sarokhaz Cukraszda",
                 "link": "https://www.google.com/maps/search/Sarokh%C3%A1z+Cukr%C3%A1szda/@46.4145396,20.3189064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 806,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Marcipan Cukraszda",
                 "link": "https://www.google.com/maps/search/Marcip%C3%A1n+Cukr%C3%A1szda/@46.4199791,20.317991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 464,
+                "reviews": 465,
                 "rating": 4.4,
                 "main_category": "Tian Pin Dian "
             },
@@ -179,14 +179,14 @@
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@46.4100306,20.3214226?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2149,
+                "reviews": 2152,
                 "rating": 4.4,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "ALDI",
                 "link": "https://www.google.com/maps/search/ALDI/@46.4090347,20.3242092?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1072,
+                "reviews": 1074,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
@@ -229,7 +229,7 @@
         "name": "Sarokhaz Cukraszda",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 804,
+        "reviews": 806,
         "competitors": [
             {
                 "name": "Szoke Cukraszda",
@@ -241,7 +241,7 @@
             {
                 "name": "Marcipan Cukraszda",
                 "link": "https://www.google.com/maps/search/Marcip%C3%A1n+Cukr%C3%A1szda/@46.4199791,20.317991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 464,
+                "reviews": 465,
                 "rating": 4.4,
                 "main_category": "Tian Pin Dian "
             },
@@ -284,12 +284,12 @@
         "name": "KFC Hodmezovasarhely DT",
         "description": "Lian Suo Can Ting ,Yi Zha Ji Tong , Tao Can He Pei Can Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 662,
+        "reviews": 664,
         "competitors": [
             {
                 "name": "Tucsok Etterem",
                 "link": "https://www.google.com/maps/search/T%C3%BCcs%C3%B6k+%C3%89tterem/@46.4133923,20.322612799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 222,
+                "reviews": 224,
                 "rating": 4.9,
                 "main_category": "Can Ting "
             },
@@ -328,7 +328,9 @@
         ],
         "rating": 3.9,
         "workday_timing": "08:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 70 661 8237",
         "address": "Hodmezovasarhely, KFC Hodmezovasarhely DT, Kaszap u. 20, 6800 Xiong Ya Li ",
         "review_keywords": [],
@@ -351,7 +353,7 @@
             {
                 "name": "Sarokhaz Cukraszda",
                 "link": "https://www.google.com/maps/search/Sarokh%C3%A1z+Cukr%C3%A1szda/@46.4145396,20.3189064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 806,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -406,8 +408,8 @@
             {
                 "name": "Szoci Langosozo es Bufe",
                 "link": "https://www.google.com/maps/search/Sz%C3%B6ci+L%C3%A1ngosoz%C3%B3+%C3%A9s+B%C3%BCf%C3%A9/@46.420612399999996,20.341804099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
+                "reviews": 3,
+                "rating": 4.7,
                 "main_category": "Can Ting "
             }
         ],
@@ -450,7 +452,7 @@
             {
                 "name": "Kalvino Coffee and Wine",
                 "link": "https://www.google.com/maps/search/Kalvino+Coffee+and+Wine/@46.4172674,20.328707599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -482,7 +484,10 @@
         ],
         "rating": 4.8,
         "workday_timing": "07:30-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 20 281 9892",
         "address": "Hodmezovasarhely, CornerCoffee, Andrassy ut 27, 6800 Xiong Ya Li ",
         "review_keywords": [
@@ -521,7 +526,7 @@
             {
                 "name": "Sanyi Pekseg",
                 "link": "https://www.google.com/maps/search/Sanyi+P%C3%A9ks%C3%A9g/@46.4143337,20.3129724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 98,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -571,21 +576,21 @@
             {
                 "name": "CornerCoffee",
                 "link": "https://www.google.com/maps/search/CornerCoffee/@46.4149137,20.325064899999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kalvino Coffee and Wine",
                 "link": "https://www.google.com/maps/search/Kalvino+Coffee+and+Wine/@46.4172674,20.328707599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Sanyi Pekseg",
                 "link": "https://www.google.com/maps/search/Sanyi+P%C3%A9ks%C3%A9g/@46.4143337,20.3129724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 98,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -630,12 +635,12 @@
         "name": "Kalvino Coffee and Wine",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 144,
+        "reviews": 145,
         "competitors": [
             {
                 "name": "CornerCoffee",
                 "link": "https://www.google.com/maps/search/CornerCoffee/@46.4149137,20.325064899999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -706,7 +711,7 @@
             {
                 "name": "Real - Kalvin teri ABC",
                 "link": "https://www.google.com/maps/search/Real+-+K%C3%A1lvin+t%C3%A9ri+ABC/@46.4169445,20.3285883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -756,7 +761,7 @@
             {
                 "name": "Sarokhaz Cukraszda",
                 "link": "https://www.google.com/maps/search/Sarokh%C3%A1z+Cukr%C3%A1szda/@46.4145396,20.3189064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 806,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -881,7 +886,7 @@
             {
                 "name": "Fokusz ABC",
                 "link": "https://www.google.com/maps/search/F%C3%B3kusz+ABC/@46.4112623,20.311425699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
+                "reviews": 38,
                 "rating": 4,
                 "main_category": "Za Huo Dian "
             },
@@ -893,7 +898,7 @@
                 "main_category": "Za Huo Dian "
             }
         ],
-        "website": "https://m.facebook.com/Familia-ABC-714121472033306/?locale2=hu_HU",
+        "website": "https://m.facebook.com/Familia-ABC-714121472033306/%3Flocale2%3Dhu_HU",
         "owner": {
             "id": null,
             "name": "Familia ABC (Ye Zhu )",
@@ -911,32 +916,6 @@
         "address": "Hodmezovasarhely, Familia ABC, Voroskereszt u. 1, 6800 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Familia+ABC/data=!4m7!3m6!1s0x47446fdd70d12c9d:0xdc88dfcebaeff546!8m2!3d46.4199573!4d20.325989!16s%2Fg%2F11f6yxmhc5!19sChIJnSzRcN1vREcRRvXvus7fiNw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJYdg1KedvREcRNT7EGAiF1PQ",
-        "name": "Nemzeti Dohanybolt Hodmezovasarhely",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 65,
-        "competitors": [],
-        "website": "http://nemzetidohany.hu/",
-        "owner": {
-            "id": null,
-            "name": "Nemzeti Dohanybolt Hodmezovasarhely (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOVcBcGGsCCPuRDiEePBWbIjNNaw5AcvNvoCGM0=w408-h544-k-no",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "05:30-21:30",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hodmezovasarhely, Nemzeti Dohanybolt Hodmezovasarhely, Damjanich u. 127, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+H%C3%B3dmez%C5%91v%C3%A1s%C3%A1rhely/data=!4m7!3m6!1s0x47446fe72935d861:0xf4d4850818c43e35!8m2!3d46.4274899!4d20.3030462!16s%2Fg%2F11j0hpgpv_!19sChIJYdg1KedvREcRNT7EGAiF1PQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ4w1UBZhvREcRX151s1d1qPY",
@@ -962,7 +941,7 @@
             {
                 "name": "Real - Kalvin teri ABC",
                 "link": "https://www.google.com/maps/search/Real+-+K%C3%A1lvin+t%C3%A9ri+ABC/@46.4169445,20.3285883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -1031,7 +1010,7 @@
             {
                 "name": "Sanyi Pekseg",
                 "link": "https://www.google.com/maps/search/Sanyi+P%C3%A9ks%C3%A9g/@46.4143337,20.3129724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 98,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1129,6 +1108,70 @@
         "link": "https://www.google.com/maps/place/Kamilla+Bio+%C3%A9s+reform+%C3%A9lelmiszerbolt/data=!4m7!3m6!1s0x47446f707be0fb39:0xc34a9de82453bfd0!8m2!3d46.4172526!4d20.3216936!16s%2Fg%2F11fx7nhxjy!19sChIJOfvge3BvREcR0L9TJOidSsM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ-_j7g3dvREcR2ZHhnb9ouNc",
+        "name": "Flamand Falat pekaruszakuzlet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "competitors": [
+            {
+                "name": "FLAMAND Bakery Ltd.",
+                "link": "https://www.google.com/maps/search/FLAMAND+Bakery+Ltd./@46.4205088,20.3409912?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 228,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Pekmester Sutodeje",
+                "link": "https://www.google.com/maps/search/P%C3%A9kmester+S%C3%BCt%C3%B6d%C3%A9je/@46.420460299999995,20.321167499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 193,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Sanyi Pekseg",
+                "link": "https://www.google.com/maps/search/Sanyi+P%C3%A9ks%C3%A9g/@46.4143337,20.3129724?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 98,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Baratfule Hazi Sutemenyek Uzlete",
+                "link": "https://www.google.com/maps/search/Bar%C3%A1tf%C3%BCle+H%C3%A1zi+S%C3%BCtem%C3%A9nyek+%C3%9Czlete/@46.414459199999996,20.3226943?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.9,
+                "main_category": "Bing Gan "
+            },
+            {
+                "name": "Kaltrina Pekseg Kft. F.A.",
+                "link": "https://www.google.com/maps/search/Kaltrina+P%C3%A9ks%C3%A9g+Kft.+F.A./@46.4208223,20.3207018?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/flamandboltok/",
+        "owner": {
+            "id": null,
+            "name": "Flamand Falat pekaruszakuzlet (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPHpk7kmRFlUlR4ZigqH910YNCmU5vQowYjGHRM=w408-h306-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "05:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 338 8050",
+        "address": "Hodmezovasarhely, Flamand Falat pekaruszakuzlet, Dr. Rapcsak Andras ut 6, 6800 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Flamand+Falat+p%C3%A9k%C3%A1ruszak%C3%BCzlet/data=!4m7!3m6!1s0x47446f7783fbf8fb:0xd7b868bf9de191d9!8m2!3d46.4156992!4d20.3181081!16s%2Fg%2F11f26xhr46!19sChIJ-_j7g3dvREcR2ZHhnb9ouNc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJD8CwtrVvREcRA0EF4OQPjZg",
         "name": "Izek Haza bufe",
         "description": null,
@@ -1203,7 +1246,7 @@
             {
                 "name": "CornerCoffee",
                 "link": "https://www.google.com/maps/search/CornerCoffee/@46.4149137,20.325064899999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -1316,6 +1359,57 @@
         "link": "https://www.google.com/maps/place/P%C3%B6tyi+fagyiz%C3%B3/data=!4m7!3m6!1s0x47446f38b8108cb9:0x48b8299ac7986202!8m2!3d46.4101074!4d20.316877!16s%2Fg%2F11j_skx8_y!19sChIJuYwQuDhvREcRAmKYx5opuEg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJEdhgrw1vREcRnC7ovCgtwB8",
+        "name": "Zsuzsi izei",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [
+            {
+                "name": "Sarokhaz Cukraszda",
+                "link": "https://www.google.com/maps/search/Sarokh%C3%A1z+Cukr%C3%A1szda/@46.4145396,20.3189064?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 806,
+                "rating": 4.5,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Szoke cukraszda",
+                "link": "https://www.google.com/maps/search/Sz%C5%91ke+cukr%C3%A1szda/@46.417462,20.3201814?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 238,
+                "rating": 4.6,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Baratfule Hazi Sutemenyek Uzlete",
+                "link": "https://www.google.com/maps/search/Bar%C3%A1tf%C3%BCle+H%C3%A1zi+S%C3%BCtem%C3%A9nyek+%C3%9Czlete/@46.414459199999996,20.3226943?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.9,
+                "main_category": "Bing Gan "
+            }
+        ],
+        "website": "https://www.facebook.com/Zsuzsi-%25C3%258Dzei-109951151683442/",
+        "owner": {
+            "id": "106488019866252136095",
+            "name": "Zsuzsi izei (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106488019866252136095"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxzpPrf8F763rYmqE1Kzos6E9tla5ckuAmX3js=w408-h544-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-15:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Hodmezovasarhely, Zsuzsi izei, Andrassy ut 23, 6800 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zsuzsi+%C3%ADzei/data=!4m7!3m6!1s0x47446f0daf60d811:0x1fc02d28bce82e9c!8m2!3d46.4152917!4d20.3243993!16s%2Fg%2F11t5_06m6q!19sChIJEdhgrw1vREcRnC7ovCgtwB8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJqY-knnBvREcReQsn_h6iEDk",
         "name": "Flamand Pekaruszakuzlet Andrassy",
         "description": null,
@@ -1346,7 +1440,7 @@
             {
                 "name": "Sanyi Pekseg",
                 "link": "https://www.google.com/maps/search/Sanyi+P%C3%A9ks%C3%A9g/@46.4143337,20.3129724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 98,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1380,34 +1474,6 @@
         "link": "https://www.google.com/maps/place/Flamand+P%C3%A9k%C3%A1ruszak%C3%BCzlet+Andr%C3%A1ssy/data=!4m7!3m6!1s0x47446f709ea48fa9:0x3910a21efe270b79!8m2!3d46.41462!4d20.3234357!16s%2Fg%2F11f26xgcw4!19sChIJqY-knnBvREcReQsn_h6iEDk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJF8dYh0JvREcR2bnaKxlqxq8",
-        "name": "Nemzeti Dohanybolt Hodmezovasarhely Sip utca",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [],
-        "website": "http://www.nemzetidohany.hu/",
-        "owner": {
-            "id": "117121363300543049079",
-            "name": "Nemzeti Dohanybolt Hodmezovasarhely Sip utca (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117121363300543049079"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pow-oaus4xu8q8fAHLdlng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.388443&pitch=0&thumbfov=100",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian ",
-            "Wai Dai Ka Pei Zhuan Mai Dian ",
-            "Wu Jiu Jing Yin Liao Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "05:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hodmezovasarhely, Nemzeti Dohanybolt Hodmezovasarhely Sip utca, Sip u. 1, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+H%C3%B3dmez%C5%91v%C3%A1s%C3%A1rhely+S%C3%ADp+utca/data=!4m7!3m6!1s0x47446f428758c717:0xafc66a192bdab9d9!8m2!3d46.4087531!4d20.3429266!16s%2Fg%2F11rsjf_6k4!19sChIJF8dYh0JvREcR2bnaKxlqxq8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJhT82KnhvREcRgWr_ykCjsIs",
         "name": "SarokhazCafe Hodmezovasarhely",
         "description": null,
@@ -1417,7 +1483,7 @@
             {
                 "name": "Fekete Sas Kavehaz",
                 "link": "https://www.google.com/maps/search/Fekete+Sas+K%C3%A1v%C3%A9h%C3%A1z/@46.415020899999995,20.316488400000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1185,
+                "reviews": 1186,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1431,14 +1497,14 @@
             {
                 "name": "CornerCoffee",
                 "link": "https://www.google.com/maps/search/CornerCoffee/@46.4149137,20.325064899999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kalvino Coffee and Wine",
                 "link": "https://www.google.com/maps/search/Kalvino+Coffee+and+Wine/@46.4172674,20.328707599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -1479,7 +1545,7 @@
             {
                 "name": "red espresso",
                 "link": "https://www.google.com/maps/search/red+espresso/@46.4109871,20.3265718?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1336,
+                "reviews": 1337,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -1589,14 +1655,14 @@
             {
                 "name": "Sarokhaz Cukraszda",
                 "link": "https://www.google.com/maps/search/Sarokh%C3%A1z+Cukr%C3%A1szda/@46.4145396,20.3189064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 806,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Marcipan Cukraszda",
                 "link": "https://www.google.com/maps/search/Marcip%C3%A1n+Cukr%C3%A1szda/@46.4199791,20.317991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 464,
+                "reviews": 465,
                 "rating": 4.4,
                 "main_category": "Tian Pin Dian "
             },
@@ -1644,17 +1710,17 @@
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
+                "name": "Sanyi Pekseg",
+                "link": "https://www.google.com/maps/search/Sanyi+P%C3%A9ks%C3%A9g/@46.4143337,20.3129724?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 98,
+                "rating": 4.4,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
                 "name": "Flamand Suti Pekaruszakuzlet",
                 "link": "https://www.google.com/maps/search/Flamand+S%C3%BCti+P%C3%A9k%C3%A1ruszak%C3%BCzlet/@46.416694799999995,20.312007?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 98,
                 "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Sanyi Pekseg",
-                "link": "https://www.google.com/maps/search/Sanyi+P%C3%A9ks%C3%A9g/@46.4143337,20.3129724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
-                "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1692,61 +1758,6 @@
         "link": "https://www.google.com/maps/place/P%C3%A9kmester+S%C3%BCt%C3%B6d%C3%A9je/data=!4m7!3m6!1s0x47446f75cee0632b:0x925dd46b3b0aaf8!8m2!3d46.4204603!4d20.3211675!16s%2Fg%2F11g6rc3tvf!19sChIJK2PgznVvREcR-Kqws0bdJQk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJXTF1OqhvREcRbGmBhl_KPJE",
-        "name": "Fekete COOP",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 175,
-        "competitors": [
-            {
-                "name": "COOP ABC (140.sz. coop abc)",
-                "link": "https://www.google.com/maps/search/COOP+ABC+%28140.sz.+coop+abc%29/@46.415270799999995,20.3177979?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Kincses-Telepi Abc.",
-                "link": "https://www.google.com/maps/search/Kincses-Telepi+Abc./@46.4329173,20.308374399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 111,
-                "rating": 4,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Familia ABC",
-                "link": "https://www.google.com/maps/search/Familia+ABC/@46.4199573,20.325989?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Elelmiszerbolt",
-                "link": "https://www.google.com/maps/search/%C3%89lelmiszerbolt/@46.4291562,20.3020975?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Fekete COOP (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMTScwte9cJyTpJYEPP6LAOvPmn9RkXDJcwWkid=w408-h725-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "05:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hodmezovasarhely, Fekete COOP, Szent Laszlo u. 155, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Fekete+COOP/data=!4m7!3m6!1s0x47446fa83a75315d:0x913cca5f8681696c!8m2!3d46.4353876!4d20.3281503!16s%2Fg%2F11g9nrfjmf!19sChIJXTF1OqhvREcRbGmBhl_KPJE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ8xmCi4FlREcRNnoW-1nFKvA",
         "name": "Zoja Cukraszda",
         "description": null,
@@ -1763,14 +1774,14 @@
             {
                 "name": "Sarokhaz Cukraszda",
                 "link": "https://www.google.com/maps/search/Sarokh%C3%A1z+Cukr%C3%A1szda/@46.4145396,20.3189064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 802,
+                "reviews": 806,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Marcipan Cukraszda",
                 "link": "https://www.google.com/maps/search/Marcip%C3%A1n+Cukr%C3%A1szda/@46.4199791,20.317991?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 464,
+                "reviews": 465,
                 "rating": 4.4,
                 "main_category": "Tian Pin Dian "
             },
@@ -1906,7 +1917,7 @@
             {
                 "name": "Sanyi Pekseg",
                 "link": "https://www.google.com/maps/search/Sanyi+P%C3%A9ks%C3%A9g/@46.4143337,20.3129724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
+                "reviews": 98,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1952,135 +1963,11 @@
         "link": "https://www.google.com/maps/place/Sanci-16+P%C3%A9ks%C3%A9g+Kft/data=!4m7!3m6!1s0x47446f75c17e2d43:0xede168f6142b3a5b!8m2!3d46.4209476!4d20.3200259!16s%2Fg%2F11cn8t62j3!19sChIJQy1-wXVvREcRWzorFPZo4e0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJc6lrZ3pvREcRdk9bjiLE7JE",
-        "name": "Belvarosi ABC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 104,
-        "competitors": [
-            {
-                "name": "Fantazia Abc",
-                "link": "https://www.google.com/maps/search/Fant%C3%A0zia+Abc/@46.414459199999996,20.322397199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 101,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Real - Kalvin teri ABC",
-                "link": "https://www.google.com/maps/search/Real+-+K%C3%A1lvin+t%C3%A9ri+ABC/@46.4169445,20.3285883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Familia ABC",
-                "link": "https://www.google.com/maps/search/Familia+ABC/@46.4199573,20.325989?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Fokusz ABC",
-                "link": "https://www.google.com/maps/search/F%C3%B3kusz+ABC/@46.4112623,20.311425699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Ananasz Abc",
-                "link": "https://www.google.com/maps/search/Anan%C3%A1sz+Abc/@46.414048699999995,20.338145?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.1,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Belvarosi ABC (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMT8-9iz1Db-JZ3luVC5o3Y-ATLdbRP9e-PlPNl=w408-h306-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "05:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 62 247 742",
-        "address": "Hodmezovasarhely, Belvarosi ABC, Oldalkosar u. 18, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Belv%C3%A1rosi+ABC/data=!4m7!3m6!1s0x47446f7a676ba973:0x91ecc4228e5b4f76!8m2!3d46.4132351!4d20.3234055!16s%2Fg%2F11c526xllw!19sChIJc6lrZ3pvREcRdk9bjiLE7JE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJEYbKC3pvREcR2fbthblfEEU",
-        "name": "Fantazia Abc",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 101,
-        "competitors": [
-            {
-                "name": "COOP ABC (140.sz. coop abc)",
-                "link": "https://www.google.com/maps/search/COOP+ABC+%28140.sz.+coop+abc%29/@46.415270799999995,20.3177979?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Belvarosi ABC",
-                "link": "https://www.google.com/maps/search/Belv%C3%A1rosi+ABC/@46.4132351,20.3234055?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 104,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Real - Kalvin teri ABC",
-                "link": "https://www.google.com/maps/search/Real+-+K%C3%A1lvin+t%C3%A9ri+ABC/@46.4169445,20.3285883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Familia ABC",
-                "link": "https://www.google.com/maps/search/Familia+ABC/@46.4199573,20.325989?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Ananasz Abc",
-                "link": "https://www.google.com/maps/search/Anan%C3%A1sz+Abc/@46.414048699999995,20.338145?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.1,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Fantazia Abc (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrtXjtD3eBJEvYJ7MhvP9BhYd1EVfOE-SYV949=w408-h306-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "05:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hodmezovasarhely, Fantazia Abc, Andrassy ut, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Fant%C3%A0zia+Abc/data=!4m7!3m6!1s0x47446f7a0bca8611:0x45105fb985edf6d9!8m2!3d46.4144592!4d20.3223972!16s%2Fg%2F11gbffkq2x!19sChIJEYbKC3pvREcR2fbthblfEEU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJQ-isMahvREcRvncaf7PULxw",
         "name": "Sanyi Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 97,
+        "reviews": 98,
         "competitors": [
             {
                 "name": "Pekmester Sutodeje",
@@ -2147,7 +2034,7 @@
             {
                 "name": "red espresso",
                 "link": "https://www.google.com/maps/search/red+espresso/@46.4109871,20.3265718?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1336,
+                "reviews": 1337,
                 "rating": 4.6,
                 "main_category": "Jiu Ba "
             },
@@ -2186,68 +2073,6 @@
         "link": "https://www.google.com/maps/place/Caffe+Joker+Pub+and+Coffee/data=!4m7!3m6!1s0x47446f79d83cd6f9:0xfd82614ed15b3809!8m2!3d46.4150343!4d20.3190343!16s%2Fg%2F11c58s9p9k!19sChIJ-dY82HlvREcRCThb0U5hgv0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ6clssxRvREcR9qjV_JQfzZI",
-        "name": "Real - Klauzal utcai ABC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 74,
-        "competitors": [
-            {
-                "name": "Belvarosi ABC",
-                "link": "https://www.google.com/maps/search/Belv%C3%A1rosi+ABC/@46.4132351,20.3234055?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 104,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Real - Kalvin teri ABC",
-                "link": "https://www.google.com/maps/search/Real+-+K%C3%A1lvin+t%C3%A9ri+ABC/@46.4169445,20.3285883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Forum ABC",
-                "link": "https://www.google.com/maps/search/F%C3%B3rum+ABC/@46.410482099999996,20.309511?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 80,
-                "rating": 4.3,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Real Jokai Utcai Abc",
-                "link": "https://www.google.com/maps/search/Re%C3%A1l+J%C3%B3kai+Utcai+Abc/@46.427211,20.3304041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Matyas ABC",
-                "link": "https://www.google.com/maps/search/M%C3%A1ty%C3%A1s+ABC/@46.417952,20.3326866?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "110127981305787916971",
-            "name": "Real - Klauzal utcai ABC (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110127981305787916971"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrIrmTG4lUfUZcFiBRVMN1_9mtVzfZdBywjT4O=w408-h544-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": "05:30-18:30",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 117 5611",
-        "address": "Hodmezovasarhely, Real - Klauzal utcai ABC, Klauzal u. 97, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Re%C3%A1l+-+Klauz%C3%A1l+utcai+ABC/data=!4m7!3m6!1s0x47446f14b36cc9e9:0x92cd1f94fcd5a8f6!8m2!3d46.4209328!4d20.3424459!16s%2Fg%2F11c31vhh68!19sChIJ6clssxRvREcR9qjV_JQfzZI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJA9zy2cJvREcRli9RlfXl9Fc",
         "name": "Mundial kavezo",
         "description": null,
@@ -2257,14 +2082,14 @@
             {
                 "name": "CornerCoffee",
                 "link": "https://www.google.com/maps/search/CornerCoffee/@46.4149137,20.325064899999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kalvino Coffee and Wine",
                 "link": "https://www.google.com/maps/search/Kalvino+Coffee+and+Wine/@46.4172674,20.328707599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2296,7 +2121,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "08:00-19:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 62 748 429",
         "address": "Hodmezovasarhely, Mundial kavezo, Rudnay Gyula u. 33, 6800 Xiong Ya Li ",
         "review_keywords": [],
@@ -2326,7 +2154,7 @@
             {
                 "name": "Real - Kalvin teri ABC",
                 "link": "https://www.google.com/maps/search/Real+-+K%C3%A1lvin+t%C3%A9ri+ABC/@46.4169445,20.3285883?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 85,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
             },
@@ -2365,68 +2193,6 @@
         "link": "https://www.google.com/maps/place/Re%C3%A1l+J%C3%B3kai+Utcai+Abc/data=!4m7!3m6!1s0x47446f0bf6ec665d:0x5bc2b39132005dd8!8m2!3d46.427211!4d20.3304041!16s%2Fg%2F11gxw4wyd_!19sChIJXWbs9gtvREcR2F0AMpGzwls?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ-9rBYn9lREcRnEu4h8VdufM",
-        "name": "Kando vegyesbolt",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 32,
-        "competitors": [
-            {
-                "name": "Verok Elelmiszerbolt",
-                "link": "https://www.google.com/maps/search/Ver%C3%B3k+%C3%89lelmiszerbolt/@46.4276744,20.3301365?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Hollo Vegyesbolt",
-                "link": "https://www.google.com/maps/search/Holl%C3%B3+Vegyesbolt/@46.422401099999995,20.311037499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.7,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Nagyi Vegyeskereskedes",
-                "link": "https://www.google.com/maps/search/Nagyi+Vegyeskereskedes/@46.423167299999996,20.3145414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Csiga Elelmiszerbolt",
-                "link": "https://www.google.com/maps/search/Csiga+%C3%89lelmiszerbolt/@46.4229815,20.337094699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Elelmiszerbolt",
-                "link": "https://www.google.com/maps/search/%C3%89lelmiszerbolt/@46.4291562,20.3020975?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Kando vegyesbolt (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1jxlqVzyiY-6e-c99ynoVcjtQ2s36stl4PSzb=w408-h306-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:30-12:00, 14:30-17:30",
-        "closed_on": "Open All Days",
-        "phone": "+36 62 635 950",
-        "address": "Hodmezovasarhely, Kando vegyesbolt, Nagy Andras Janos u. 56, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Kand%C3%B3+vegyesbolt/data=!4m7!3m6!1s0x4744657f62c1dafb:0xf3b95dc587b84b9c!8m2!3d46.4043588!4d20.3062612!16s%2Fg%2F11c0rqrr2p!19sChIJ-9rBYn9lREcRnEu4h8VdufM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ76jPP2lvREcRgQtQVGyjARE",
         "name": "City Kavezo",
         "description": null,
@@ -2436,14 +2202,14 @@
             {
                 "name": "CornerCoffee",
                 "link": "https://www.google.com/maps/search/CornerCoffee/@46.4149137,20.325064899999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kalvino Coffee and Wine",
                 "link": "https://www.google.com/maps/search/Kalvino+Coffee+and+Wine/@46.4172674,20.328707599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2519,8 +2285,8 @@
             {
                 "name": "Szoci Langosozo es Bufe",
                 "link": "https://www.google.com/maps/search/Sz%C3%B6ci+L%C3%A1ngosoz%C3%B3+%C3%A9s+B%C3%BCf%C3%A9/@46.420612399999996,20.341804099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
+                "reviews": 3,
+                "rating": 4.7,
                 "main_category": "Can Ting "
             }
         ],
@@ -2614,7 +2380,7 @@
         "competitors": [
             {
                 "name": "Lidl",
-                "link": "https://www.google.com/maps/search/Lidl/@46.411179999999995,20.3262?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Lidl/@46.410406099999996,20.325571699999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1835,
                 "rating": 4.5,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
@@ -2666,130 +2432,6 @@
         "address": "Hodmezovasarhely, Aro Elelmiszer, Hodto u. 6, 6800 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Aro+%C3%89lelmiszer/data=!4m7!3m6!1s0x47446f64e179d6d9:0x1c4a11fed20c0fe7!8m2!3d46.4108238!4d20.3281916!16s%2Fg%2F11fy4f_hf6!19sChIJ2dZ54WRvREcR5w8M0v4RShw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJn5LE5mhvREcR0IrJrOnwbrU",
-        "name": "Ananasz Abc",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 13,
-        "competitors": [
-            {
-                "name": "Belvarosi ABC",
-                "link": "https://www.google.com/maps/search/Belv%C3%A1rosi+ABC/@46.4132351,20.3234055?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 104,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Fantazia Abc",
-                "link": "https://www.google.com/maps/search/Fant%C3%A0zia+Abc/@46.414459199999996,20.322397199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 101,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Serhazteri ABC",
-                "link": "https://www.google.com/maps/search/Serh%C3%A1zt%C3%A9ri+ABC/@46.4259663,20.3438071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 74,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Berkenye ABC",
-                "link": "https://www.google.com/maps/search/Berkenye+ABC/@46.4176529,20.3416241?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Kesz-Penz Kft.",
-                "link": "https://www.google.com/maps/search/K%C3%A9sz-P%C3%A9nz+Kft./@46.4166807,20.328895199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Ananasz Abc (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3VmEyWNST6-ES2dk73ENhnsQAzBliO_orW9fn=w408-h725-k-no",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": 4.1,
-        "workday_timing": "05:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hodmezovasarhely, Ananasz Abc, Kistopart u. 8, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Anan%C3%A1sz+Abc/data=!4m7!3m6!1s0x47446f68e6c4929f:0xb56ef0e9acc98ad0!8m2!3d46.4140487!4d20.338145!16s%2Fg%2F11c5rp8z0v!19sChIJn5LE5mhvREcR0IrJrOnwbrU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJrbq53Z5vREcRX2DV6hrSuD0",
-        "name": "Nagyi Vegyeskereskedes",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 12,
-        "competitors": [
-            {
-                "name": "Hollo Vegyesbolt",
-                "link": "https://www.google.com/maps/search/Holl%C3%B3+Vegyesbolt/@46.422401099999995,20.311037499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.7,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Kando vegyesbolt",
-                "link": "https://www.google.com/maps/search/Kand%C3%B3+vegyesbolt/@46.4043588,20.306261199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Csiga Elelmiszerbolt",
-                "link": "https://www.google.com/maps/search/Csiga+%C3%89lelmiszerbolt/@46.4229815,20.337094699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Elelmiszerbolt",
-                "link": "https://www.google.com/maps/search/%C3%89lelmiszerbolt/@46.4291562,20.3020975?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "AGYAG 21 CSEMEGE Kft.",
-                "link": "https://www.google.com/maps/search/AGYAG+21+CSEMEGE+Kft./@46.429316,20.3132152?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Nagyi Vegyeskereskedes (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bm3nCPMz0WC-_zrK31wgYg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=352.09726&pitch=0&thumbfov=100",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hodmezovasarhely, Nagyi Vegyeskereskedes, Revai u., 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nagyi+Vegyeskereskedes/data=!4m7!3m6!1s0x47446f9eddb9baad:0x3db8d21aead5605f!8m2!3d46.4231673!4d20.3145414!16s%2Fg%2F11fj10sqy3!19sChIJrbq53Z5vREcRX2DV6hrSuD0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJwW3HDPFvREcRmnXgVOZ30Ws",
@@ -2884,7 +2526,7 @@
             {
                 "name": "Fokusz ABC",
                 "link": "https://www.google.com/maps/search/F%C3%B3kusz+ABC/@46.4112623,20.311425699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
+                "reviews": 38,
                 "rating": 4,
                 "main_category": "Za Huo Dian "
             },
@@ -2916,61 +2558,6 @@
         "link": "https://www.google.com/maps/place/F%C3%B3kusz-Ker+Kft./data=!4m7!3m6!1s0x47446f85407157b9:0xf5092f82de1334b6!8m2!3d46.4172009!4d20.3028193!16s%2Fg%2F1hhx651c1!19sChIJuVdxQIVvREcRtjQT3oIvCfU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJmZfTKDVvREcR-iGXPG7jqN8",
-        "name": "Vitamin Forras",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Vitamin szerviz",
-                "link": "https://www.google.com/maps/search/Vitamin+szerv%C3%ADz/@46.415461699999994,20.318142299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Vitamin Bomba Hodmezovasarhely",
-                "link": "https://www.google.com/maps/search/Vitamin+Bomba+H%C3%B3dmez%C5%91v%C3%A1s%C3%A1rhely/@46.4144708,20.3386119?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Shu Guo Dian "
-            },
-            {
-                "name": "Zoldseg- es gyumolcs uzlet",
-                "link": "https://www.google.com/maps/search/Z%C3%B6lds%C3%A9g-+%C3%A9s+gy%C3%BCm%C3%B6lcs+%C3%BCzlet/@46.4206262,20.3417521?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Shu Guo Dian "
-            },
-            {
-                "name": "Egeszseg Kincse Etrendkiegeszitok Uzlete",
-                "link": "https://www.google.com/maps/search/Eg%C3%A9szs%C3%A9g+Kincse+%C3%89trendkieg%C3%A9sz%C3%ADt%C5%91k+%C3%9Czlete/@46.414916899999994,20.324085099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Wei Ta Ming Yu Ying Yang Bu Chong Pin Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Vitamin Forras (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPP44FApRpB1IPWI7MQB_lRNmFtVwFE8HEhq6Vr=w408-h544-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Hodmezovasarhely, Vitamin Forras, Andrassy ut 28, 6800 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Vitamin+Forr%C3%A1s/data=!4m7!3m6!1s0x47446f3528d39799:0xdfa8e36e3c9721fa!8m2!3d46.4146707!4d20.323028!16s%2Fg%2F11t7hb442m!19sChIJmZfTKDVvREcR-iGXPG7jqN8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJQZTAHwJvREcRZRjAugVld1E",
         "name": "Pohanka Taller Manufaktura",
         "description": null,
@@ -2980,7 +2567,7 @@
             {
                 "name": "Manna Park Vendeglo",
                 "link": "https://www.google.com/maps/search/Manna+Park+Vend%C3%A9gl%C5%91/@46.4029965,20.3585317?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
+                "reviews": 317,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -3104,14 +2691,14 @@
             {
                 "name": "INTERSPAR Hipermarket",
                 "link": "https://www.google.com/maps/search/INTERSPAR+Hipermarket/@46.4100306,20.3214226?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2149,
+                "reviews": 2152,
                 "rating": 4.4,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
             {
                 "name": "CornerCoffee",
                 "link": "https://www.google.com/maps/search/CornerCoffee/@46.4149137,20.325064899999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -3166,14 +2753,14 @@
             {
                 "name": "CornerCoffee",
                 "link": "https://www.google.com/maps/search/CornerCoffee/@46.4149137,20.325064899999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
+                "reviews": 279,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kalvino Coffee and Wine",
                 "link": "https://www.google.com/maps/search/Kalvino+Coffee+and+Wine/@46.4172674,20.328707599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
+                "reviews": 145,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },

@@ -4,26 +4,26 @@
         "name": "TESCO",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2305,
+        "reviews": 2306,
         "competitors": [
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@46.88042,17.45224?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1992,
+                "reviews": 1994,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
             {
                 "name": "ALDI",
                 "link": "https://www.google.com/maps/search/ALDI/@46.8802757,17.4539279?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 957,
+                "reviews": 958,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
             {
                 "name": "PENNY Tapolca",
                 "link": "https://www.google.com/maps/search/PENNY+Tapolca/@46.8797746,17.4501071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 793,
+                "reviews": 794,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -55,7 +55,10 @@
         ],
         "rating": 4,
         "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Tapolca, TESCO, Veszpremi ut 5, 8300 Xiong Ya Li ",
         "review_keywords": [
@@ -83,19 +86,19 @@
         "name": "Lidl",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1992,
+        "reviews": 1994,
         "competitors": [
             {
                 "name": "TESCO",
                 "link": "https://www.google.com/maps/search/TESCO/@46.880547799999995,17.456680900000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2305,
+                "reviews": 2306,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "ALDI",
                 "link": "https://www.google.com/maps/search/ALDI/@46.8802757,17.4539279?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 957,
+                "reviews": 958,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
@@ -135,7 +138,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Tapolca, Lidl, Veszpremi ut 1, 8300 Xiong Ya Li ",
         "review_keywords": [
@@ -151,7 +158,7 @@
         "name": "Dream Team Etterem",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1319,
+        "reviews": 1320,
         "competitors": [
             {
                 "name": "Topart Bisztro",
@@ -177,7 +184,7 @@
             {
                 "name": "Mustang Tapolca",
                 "link": "https://www.google.com/maps/search/Mustang+Tapolca/@46.882650100000006,17.4262031?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 366,
+                "reviews": 367,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -216,11 +223,23 @@
                 "count": 22
             },
             {
+                "keyword": "Han Bao ",
+                "count": 8
+            },
+            {
+                "keyword": "Tang ",
+                "count": 7
+            },
+            {
                 "keyword": "Shuo Hua ",
                 "count": 3
             },
             {
                 "keyword": "Yan ",
+                "count": 3
+            },
+            {
+                "keyword": "Xiong Ya Li ",
                 "count": 3
             }
         ],
@@ -231,19 +250,19 @@
         "name": "ALDI",
         "description": "Fan Shou Ge Zhong Za Huo , Rou Lei He Ru Zhi Pin De Lian Suo Ling Shou Shang . ",
         "is_spending_on_ads": false,
-        "reviews": 957,
+        "reviews": 958,
         "competitors": [
             {
                 "name": "TESCO",
                 "link": "https://www.google.com/maps/search/TESCO/@46.880547799999995,17.456680900000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2305,
+                "reviews": 2306,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@46.88042,17.45224?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1992,
+                "reviews": 1994,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -276,7 +295,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 80 088 264",
         "address": "Tapolca, ALDI, Veszpremi ut 3., 8300 Xiong Ya Li ",
         "review_keywords": [
@@ -296,12 +318,12 @@
         "name": "PENNY Tapolca",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 793,
+        "reviews": 794,
         "competitors": [
             {
                 "name": "TESCO",
                 "link": "https://www.google.com/maps/search/TESCO/@46.880547799999995,17.456680900000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2305,
+                "reviews": 2306,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -315,7 +337,7 @@
             {
                 "name": "PEPCO",
                 "link": "https://www.google.com/maps/search/PEPCO/@46.882193099999995,17.4382098?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 133,
+                "reviews": 134,
                 "rating": 4.3,
                 "main_category": "Fu Zhuang Dian "
             },
@@ -364,21 +386,21 @@
             {
                 "name": "TESCO",
                 "link": "https://www.google.com/maps/search/TESCO/@46.880547799999995,17.456680900000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2305,
+                "reviews": 2306,
                 "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "ALDI",
                 "link": "https://www.google.com/maps/search/ALDI/@46.8802757,17.4539279?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 957,
+                "reviews": 958,
                 "rating": 4.5,
                 "main_category": "Za Huo Dian "
             },
             {
                 "name": "PENNY Tapolca",
                 "link": "https://www.google.com/maps/search/PENNY+Tapolca/@46.8797746,17.4501071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 793,
+                "reviews": 794,
                 "rating": 4.2,
                 "main_category": "Zhe Kou Shang Dian "
             },
@@ -411,7 +433,11 @@
         ],
         "rating": 4.2,
         "workday_timing": "06:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 823 7202",
         "address": "Tapolca, Spar, Juhasz Gyula u. 3437/49. hrsz, 8300 Xiong Ya Li ",
         "review_keywords": [
@@ -439,7 +465,7 @@
             {
                 "name": "Luti bakery",
                 "link": "https://www.google.com/maps/search/Luti+bakery/@46.8821521,17.4367972?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
+                "reviews": 152,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -513,7 +539,7 @@
             {
                 "name": "Dolce Patisserie",
                 "link": "https://www.google.com/maps/search/Dolce+Patisserie/@46.880836699999996,17.4478833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 449,
+                "reviews": 450,
                 "rating": 4.7,
                 "main_category": "Xi Dian "
             },
@@ -554,16 +580,82 @@
         "link": "https://www.google.com/maps/place/Kaleido+Fagylalt+%C3%A9s+K%C3%A1v%C3%A9/data=!4m7!3m6!1s0x476905a5c6d3e925:0xe545d966f042615c!8m2!3d46.8824927!4d17.4356438!16s%2Fg%2F11f7p0g8ts!19sChIJJenTxqUFaUcRXGFC8GbZReU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJfW1l8-UFaUcRbYvD6RBX05o",
+        "name": "Ecofamily",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 155,
+        "competitors": [
+            {
+                "name": "Euronics Tapolca",
+                "link": "https://www.google.com/maps/search/Euronics+Tapolca/@46.8824799,17.4387078?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 264,
+                "rating": 4.3,
+                "main_category": "Dian Qi Xing "
+            },
+            {
+                "name": "Coop",
+                "link": "https://www.google.com/maps/search/Coop/@46.88210720000001,17.4383628?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 130,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "C+C DISZKONTARUHAZ TAPOLCA",
+                "link": "https://www.google.com/maps/search/C%2BC+DISZKONT%C3%81RUH%C3%81Z+TAPOLCA/@46.8897717,17.446070799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.6,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Fater Diszkont",
+                "link": "https://www.google.com/maps/search/Fater+Diszkont/@46.8789941,17.4531547?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Ping Jia Chao Ji Shi Chang "
+            },
+            {
+                "name": "Forum ABC",
+                "link": "https://www.google.com/maps/search/F%C3%B3rum+ABC/@46.8845927,17.4462251?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": "https://ecofamily.hu/",
+        "owner": {
+            "id": "108374844166398640601",
+            "name": "Ecofamily (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108374844166398640601"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBJ6pa8OAj5YIJs5K6nUvymHbhLLEjm6bxz8Ew=w426-h240-k-no",
+        "main_category": "Zhe Kou Shang Dian ",
+        "categories": [
+            "Zhe Kou Shang Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-17:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 220 3568",
+        "address": "Tapolca, Ecofamily, Fo ter 12, 8300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ecofamily/data=!4m7!3m6!1s0x476905e5f3656d7d:0x9ad35710e9c38b6d!8m2!3d46.8826435!4d17.4413066!16s%2Fg%2F11gf98bb06!19sChIJfW1l8-UFaUcRbYvD6RBX05o?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJU3udK-kFaUcRKORH-U9gMQo",
         "name": "Luti bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 151,
+        "reviews": 152,
         "competitors": [
             {
                 "name": "Lidl",
                 "link": "https://www.google.com/maps/search/Lidl/@46.88042,17.45224?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1992,
+                "reviews": 1994,
                 "rating": 4.4,
                 "main_category": "Ping Jia Chao Ji Shi Chang "
             },
@@ -675,7 +767,7 @@
         "name": "Coop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 130,
+        "reviews": 131,
         "competitors": [
             {
                 "name": "Kertvarosi Abc",
@@ -851,6 +943,63 @@
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Tapolca/data=!4m7!3m6!1s0x4769060a085db0f5:0xc4707396cea45474!8m2!3d46.8791887!4d17.4526164!16s%2Fg%2F11g3_9thtn!19sChIJ9bBdCAoGaUcRdFSkzpZzcMQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ5XN3MO8FaUcRd-BokRJOwdc",
+        "name": "Elixir Biobolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 57,
+        "competitors": [
+            {
+                "name": "Coop",
+                "link": "https://www.google.com/maps/search/Coop/@46.88210720000001,17.4383628?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 130,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Herbaria",
+                "link": "https://www.google.com/maps/search/Herb%C3%A1ria/@46.88066,17.456543099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 45,
+                "rating": 4.3,
+                "main_category": "Wei Ta Ming Yu Ying Yang Bu Chong Pin Dian "
+            },
+            {
+                "name": "Biobolt",
+                "link": "https://www.google.com/maps/search/Biobolt/@46.770917,17.2585721?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 4.6,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Moby Fuszerei",
+                "link": "https://www.google.com/maps/search/Moby+F%C5%B1szerei/@46.883690900000005,17.452125499999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Cao Ben Zhi Wu Dian "
+            }
+        ],
+        "website": "http://elixirbiobolt.hu/",
+        "owner": {
+            "id": "105312909975639785969",
+            "name": "Elixir Biobolt (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105312909975639785969"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQq0z2_wVRCScxwMmjPcrGI4ofL6V7x4RI5Y4v=w408-h304-k-no",
+        "main_category": "Shang Dian ",
+        "categories": [
+            "Shang Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 87 687 636",
+        "address": "Tapolca, Elixir Biobolt, Deak Ferenc u. 9, 8300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Elix%C3%ADr+Biobolt/data=!4m7!3m6!1s0x476905ef307773e5:0xd7c14e129168e077!8m2!3d46.882644!4d17.438319!16s%2Fg%2F11bw5082rk!19sChIJ5XN3MO8FaUcRd-BokRJOwdc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJKf7mRe8FaUcREkEvtRrloSw",
         "name": "Zalaco",
         "description": null,
@@ -860,7 +1009,7 @@
             {
                 "name": "Dolce Patisserie",
                 "link": "https://www.google.com/maps/search/Dolce+Patisserie/@46.880836699999996,17.4478833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 449,
+                "reviews": 450,
                 "rating": 4.7,
                 "main_category": "Xi Dian "
             },
@@ -874,7 +1023,7 @@
             {
                 "name": "Luti bakery",
                 "link": "https://www.google.com/maps/search/Luti+bakery/@46.8821521,17.4367972?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
+                "reviews": 152,
                 "rating": 4.2,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -915,6 +1064,65 @@
         "link": "https://www.google.com/maps/place/Zalaco/data=!4m7!3m6!1s0x476905ef45e6fe29:0x2ca1e51ab52f4112!8m2!3d46.8825146!4d17.4393502!16s%2Fg%2F11c2r1gxcx!19sChIJKf7mRe8FaUcREkEvtRrloSw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJvXVMX-UFaUcReD8YI-VaBNg",
+        "name": "Borbarlang",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "competitors": [
+            {
+                "name": "Csobanc Wine Manufactory",
+                "link": "https://www.google.com/maps/search/Csob%C3%A1nc+Wine+Manufactory/@46.8875405,17.5107491?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 42,
+                "rating": 5,
+                "main_category": "Niang Jiu Chang "
+            },
+            {
+                "name": "Jegbarlang",
+                "link": "https://www.google.com/maps/search/J%C3%A9gbarlang/@46.8471306,17.450225500000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.6,
+                "main_category": "Lu You Jing Dian "
+            },
+            {
+                "name": "Trio Pince",
+                "link": "https://www.google.com/maps/search/Trio+Pince/@46.88388,17.4987006?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 5,
+                "main_category": "Niang Jiu Chang "
+            },
+            {
+                "name": "Borpatika",
+                "link": "https://www.google.com/maps/search/Borpatika/@46.789284300000006,17.5068478?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Pu Tao Jiu Ba "
+            }
+        ],
+        "website": "https://effenpergel.hu/",
+        "owner": {
+            "id": "104693949403099140602",
+            "name": "Borbarlang (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104693949403099140602"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfR0m7qaZroCn7rz_nVjcvylSZn5S3-ieKCacV=w408-h271-k-no",
+        "main_category": "Pu Tao Jiu Ba ",
+        "categories": [
+            "Pu Tao Jiu Ba ",
+            "Jiu Pin Zhuan Mai Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "10:00-17:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 947 4303",
+        "address": "Tapolca, Borbarlang, Koztarsasag ter 5, 8300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Borbarlang/data=!4m7!3m6!1s0x476905e55f4c75bd:0xd8045ae523183f78!8m2!3d46.8845971!4d17.4436361!16s%2Fg%2F11b_00wsm9!19sChIJvXVMX-UFaUcReD8YI-VaBNg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJm7ngadIFaUcRINRT804xGno",
         "name": "Jegsziget Fagyizo Carpigiani Fagyizo",
         "description": null,
@@ -931,7 +1139,7 @@
             {
                 "name": "Dolce Patisserie",
                 "link": "https://www.google.com/maps/search/Dolce+Patisserie/@46.880836699999996,17.4478833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 449,
+                "reviews": 450,
                 "rating": 4.7,
                 "main_category": "Xi Dian "
             }
@@ -954,61 +1162,6 @@
         "address": "Tapolca, Jegsziget Fagyizo Carpigiani Fagyizo, Deak Ferenc u. 6, 8300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/J%C3%A9gsziget+Fagyiz%C3%B3+Carpigiani+Fagyiz%C3%B3/data=!4m7!3m6!1s0x476905d269e0b99b:0x7a1a314ef353d420!8m2!3d46.8824047!4d17.4383554!16s%2Fg%2F11rfwt71rw!19sChIJm7ngadIFaUcRINRT804xGno?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJl_sfjeUFaUcRmuqL2j1YDJQ",
-        "name": "Biomass Super",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Herbaria",
-                "link": "https://www.google.com/maps/search/Herb%C3%A1ria/@46.88066,17.456543099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 45,
-                "rating": 4.3,
-                "main_category": "Wei Ta Ming Yu Ying Yang Bu Chong Pin Dian "
-            },
-            {
-                "name": "Biofuna Kft.",
-                "link": "https://www.google.com/maps/search/Biofuna+Kft./@46.8828483,17.4416641?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.2,
-                "main_category": "Fei Liao Gong Ying Shang "
-            },
-            {
-                "name": "Zoldseg - Gyumolcs szakuzlet",
-                "link": "https://www.google.com/maps/search/Z%C3%B6lds%C3%A9g+-+Gy%C3%BCm%C3%B6lcs+szak%C3%BCzlet/@46.8819705,17.4397436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Shu Guo Dian "
-            },
-            {
-                "name": "Energia 03 Kft, Herbaria-Tesco",
-                "link": "https://www.google.com/maps/search/Energia+03+Kft%2C+Herbaria-Tesco/@46.8811077,17.4565757?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Jian Kang Shi Pin Zhuan Mai Dian "
-            }
-        ],
-        "website": "http://www.vulkankomplex.hu/",
-        "owner": {
-            "id": null,
-            "name": "Biomass Super (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xdzgyEBCmK_wrY3RciMFbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=304.04376&pitch=0&thumbfov=100",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+36 62 535 780",
-        "address": "Tapolca, Biomass Super, Kossuth Lajos u., 8300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Biomass+Super/data=!4m7!3m6!1s0x476905e58d1ffb97:0x940c583dda8bea9a!8m2!3d46.8817858!4d17.4465646!16s%2Fg%2F11flzg963h!19sChIJl_sfjeUFaUcRmuqL2j1YDJQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJib_DoeUFaUcRmz08auJMVYI",
@@ -1034,7 +1187,7 @@
             {
                 "name": "Forum Pizzeria",
                 "link": "https://www.google.com/maps/search/F%C3%B3rum+Pizz%C3%A9ria/@46.8845773,17.446212?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 358,
+                "reviews": 359,
                 "rating": 4.3,
                 "main_category": "Kuai Can "
             },
@@ -1075,6 +1228,10 @@
                 "count": 10
             },
             {
+                "keyword": "Yi Da Li Mian ",
+                "count": 3
+            },
+            {
                 "keyword": "Chu Fang ",
                 "count": 3
             }
@@ -1091,7 +1248,7 @@
             {
                 "name": "Dolce Patisserie",
                 "link": "https://www.google.com/maps/search/Dolce+Patisserie/@46.880836699999996,17.4478833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 449,
+                "reviews": 450,
                 "rating": 4.7,
                 "main_category": "Xi Dian "
             },
@@ -1146,7 +1303,7 @@
         "name": "Dolce Patisserie",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 449,
+        "reviews": 450,
         "competitors": [
             {
                 "name": "Borostyan cukraszda",
@@ -1277,7 +1434,7 @@
             {
                 "name": "Dream Team Etterem",
                 "link": "https://www.google.com/maps/search/Dream+Team+%C3%89tterem/@46.8828348,17.4423289?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1319,
+                "reviews": 1320,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1399,7 +1556,7 @@
             {
                 "name": "PEPCO",
                 "link": "https://www.google.com/maps/search/PEPCO/@46.882193099999995,17.4382098?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 133,
+                "reviews": 134,
                 "rating": 4.3,
                 "main_category": "Fu Zhuang Dian "
             },
@@ -1511,7 +1668,7 @@
         "name": "Segafredo Zanetti",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 36,
+        "reviews": 37,
         "competitors": [
             {
                 "name": "Lipoti Pekseg es Kavezo",
@@ -1569,68 +1726,11 @@
         "link": "https://www.google.com/maps/place/Segafredo+Zanetti/data=!4m7!3m6!1s0x476905ef40a8d803:0x9c53376259ce0c7f!8m2!3d46.8828583!4d17.4392029!16s%2Fg%2F11gf97rt0g!19sChIJA9ioQO8FaUcRfwzOWWI3U5w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJv0YInp8FaUcRpCTIYhUu7pw",
-        "name": "C+C DISZKONTARUHAZ TAPOLCA",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 32,
-        "competitors": [
-            {
-                "name": "PENNY Tapolca",
-                "link": "https://www.google.com/maps/search/PENNY+Tapolca/@46.8797746,17.4501071?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 793,
-                "rating": 4.2,
-                "main_category": "Zhe Kou Shang Dian "
-            },
-            {
-                "name": "Kertvarosi Abc",
-                "link": "https://www.google.com/maps/search/Kertv%C3%A1rosi+Abc/@46.883147400000006,17.437019?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 144,
-                "rating": 4.3,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Coop",
-                "link": "https://www.google.com/maps/search/Coop/@46.88210720000001,17.4383628?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 130,
-                "rating": 4.2,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Polus-Coop Zrt.",
-                "link": "https://www.google.com/maps/search/Polus-Coop+Zrt./@46.8848099,17.4280596?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.1,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "C+C DISZKONTARUHAZ TAPOLCA (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmPNs49CumPmVcY4nIQBd7j_UKgFOdRFFeK60d=w465-h240-k-no",
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "07:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Tapolca, C+C DISZKONTARUHAZ TAPOLCA, Halasto u. 5, 8300 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/C%2BC+DISZKONT%C3%81RUH%C3%81Z+TAPOLCA/data=!4m7!3m6!1s0x4769059f9e0846bf:0x9cee2e1562c824a4!8m2!3d46.8897717!4d17.4460708!16s%2Fg%2F11jfcc20g7!19sChIJv0YInp8FaUcRpCTIYhUu7pw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJeanM-o8FaUcRAMyj05TP3BQ",
         "name": "Kavegep bolt es szerviz Tapolca",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 31,
+        "reviews": 32,
         "competitors": [
             {
                 "name": "Kavegep bolt es szerviz Papa",
@@ -1688,6 +1788,63 @@
         "address": "Tapolca, Kavegep bolt es szerviz Tapolca, Arany Janos u. 2, 8300 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9g%C3%A9p+bolt+%C3%A9s+szerviz+Tapolca/data=!4m7!3m6!1s0x4769058ffacca979:0x14dccf94d3a3cc00!8m2!3d46.8825719!4d17.4417235!16s%2Fg%2F11flkclkm_!19sChIJeanM-o8FaUcRAMyj05TP3BQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJv0YInp8FaUcRpCTIYhUu7pw",
+        "name": "C+C DISZKONTARUHAZ TAPOLCA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "competitors": [
+            {
+                "name": "PENNY Tapolca",
+                "link": "https://www.google.com/maps/search/PENNY+Tapolca/@46.8797746,17.4501071?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 794,
+                "rating": 4.2,
+                "main_category": "Zhe Kou Shang Dian "
+            },
+            {
+                "name": "Kertvarosi Abc",
+                "link": "https://www.google.com/maps/search/Kertv%C3%A1rosi+Abc/@46.883147400000006,17.437019?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 144,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Coop",
+                "link": "https://www.google.com/maps/search/Coop/@46.88210720000001,17.4383628?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 130,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Polus-Coop Zrt.",
+                "link": "https://www.google.com/maps/search/Polus-Coop+Zrt./@46.8848099,17.4280596?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "C+C DISZKONTARUHAZ TAPOLCA (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmPNs49CumPmVcY4nIQBd7j_UKgFOdRFFeK60d=w465-h240-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Tapolca, C+C DISZKONTARUHAZ TAPOLCA, Halasto u. 5, 8300 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/C%2BC+DISZKONT%C3%81RUH%C3%81Z+TAPOLCA/data=!4m7!3m6!1s0x4769059f9e0846bf:0x9cee2e1562c824a4!8m2!3d46.8897717!4d17.4460708!16s%2Fg%2F11jfcc20g7!19sChIJv0YInp8FaUcRpCTIYhUu7pw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJV5eMdhcFaUcRioudnP8epn4",

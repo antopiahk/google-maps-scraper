@@ -4,7 +4,7 @@
         "name": "Kastelyhotel Sasvar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1419,
+        "reviews": 1420,
         "competitors": [],
         "website": "https://khs.hu/",
         "owner": {
@@ -12,7 +12,7 @@
             "name": "Kastelyhotel Sasvar (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/108315767341147687584"
         },
-        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/AMy85WKBZKgFVDOYEQ9WwMkmGQHC6X1XSa8FjQPQGLN3099ejGwH61UbCCNxdPz7AJhpiJ4IZZ1EZ76W3AEDw3BLCMSpsdc6diiyORhKOGSOsNNjY_eeAc7_3FkN80Aaej28BgIE1_nXIRqmnWrDts6ud-KG_kLLVMNmbISLEIBqY8Db63OpBazeaLGY=w408-h306-k-no",
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLk1sxm12rwrvNTrVghL5ou1Et-h1IAq0ewq2oqxV9JlDHU_dUTxPW_1bL21qa-mr3z0szUKv5XrwC6e5VHcEM7AC9j23ty_rHA_BP_OnhuoNGJPbMreZfdEszJI3MSrC4T_RdItfsOf3dvfdhuC1GuJQzY1WhwLvADRIxr23VGZioVosqAHyEm=w408-h306-k-no",
         "main_category": "Jiu Dian ",
         "categories": [
             "Jiu Dian "
@@ -26,6 +26,10 @@
             {
                 "keyword": "Yong Chi ",
                 "count": 5
+            },
+            {
+                "keyword": "Ba ",
+                "count": 4
             },
             {
                 "keyword": "San Wen Nuan ",
@@ -90,7 +94,10 @@
         ],
         "rating": 4.5,
         "workday_timing": "12:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 20 358 8686",
         "address": "Parad, Paradi Kisvendeglo, Kossuth Lajos ut 234, 3240 Xiong Ya Li ",
         "review_keywords": [
@@ -187,7 +194,7 @@
             {
                 "name": "Marika Kereskedese (Paradi asvanyviz mintabolt)",
                 "link": "https://www.google.com/maps/search/Marika+Keresked%C3%A9se+%28Par%C3%A1di+%C3%A1sv%C3%A1nyv%C3%ADz+mintabolt%29/@47.924219099999995,20.022553?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
+                "reviews": 60,
                 "rating": 4.7,
                 "main_category": "Za Huo Dian "
             },
@@ -332,7 +339,7 @@
             {
                 "name": "Csorgo kisvendeglo",
                 "link": "https://www.google.com/maps/search/Cs%C3%B6rg%C5%91+kisvend%C3%A9gl%C5%91/@47.909246599999996,19.8761024?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 241,
+                "reviews": 242,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -353,7 +360,7 @@
             {
                 "name": "Vadasz Etterem es Turista Centrum",
                 "link": "https://www.google.com/maps/search/Vad%C3%A1sz+%C3%89tterem+%C3%A9s+Turista+Centrum/@47.926780699999995,19.880603600000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 146,
+                "reviews": 147,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             }
@@ -484,13 +491,6 @@
                 "main_category": "Can Ting "
             },
             {
-                "name": "Hegyi kisvendeglo",
-                "link": "https://www.google.com/maps/search/Hegyi+kisvend%C3%A9gl%C5%91/@47.9163134,19.923283899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 484,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
                 "name": "Paradi bufesor",
                 "link": "https://www.google.com/maps/search/Par%C3%A1di+b%C3%BCf%C3%A9sor/@47.923828699999994,20.054088099999998?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 243,
@@ -594,12 +594,12 @@
         "name": "Marika Kereskedese (Paradi asvanyviz mintabolt)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 59,
+        "reviews": 60,
         "competitors": [
             {
                 "name": "Coop szuper",
                 "link": "https://www.google.com/maps/search/Coop+szuper/@47.9235159,20.028393899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 426,
+                "reviews": 427,
                 "rating": 3.9,
                 "main_category": "Za Huo Dian "
             },
@@ -725,7 +725,7 @@
             {
                 "name": "Coop szuper",
                 "link": "https://www.google.com/maps/search/Coop+szuper/@47.9235159,20.028393899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 426,
+                "reviews": 427,
                 "rating": 3.9,
                 "main_category": "Za Huo Dian "
             },
@@ -746,7 +746,7 @@
             {
                 "name": "Marika Kereskedese (Paradi asvanyviz mintabolt)",
                 "link": "https://www.google.com/maps/search/Marika+Keresked%C3%A9se+%28Par%C3%A1di+%C3%A1sv%C3%A1nyv%C3%ADz+mintabolt%29/@47.924219099999995,20.022553?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
+                "reviews": 60,
                 "rating": 4.7,
                 "main_category": "Za Huo Dian "
             },
@@ -891,7 +891,7 @@
             {
                 "name": "Marika Kereskedese (Paradi asvanyviz mintabolt)",
                 "link": "https://www.google.com/maps/search/Marika+Keresked%C3%A9se+%28Par%C3%A1di+%C3%A1sv%C3%A1nyv%C3%ADz+mintabolt%29/@47.924219099999995,20.022553?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
+                "reviews": 60,
                 "rating": 4.7,
                 "main_category": "Za Huo Dian "
             },
@@ -928,6 +928,61 @@
         "address": "Parad, Doppio Mobil Kavezo, Sandorret tanya, 3240 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Doppio+Mobil+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x47405f44463c1ae3:0xf85725fd69c39e6d!8m2!3d47.9080922!4d20.0563088!16s%2Fg%2F11q21kj2nm!19sChIJ4xo8RkRfQEcRbZ7Daf0lV_g?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJaTXNqDVdQEcRQ8t6l48aUtg",
+        "name": "Kormos Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "competitors": [
+            {
+                "name": "Elelmiszerbolt es Sikolcsonzo Galyateto",
+                "link": "https://www.google.com/maps/search/%C3%89lelmiszerbolt+%C3%A9s+S%C3%ADk%C3%B6lcs%C3%B6nz%C5%91+Galyatet%C5%91/@47.9138224,19.9196533?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 183,
+                "rating": 4.8,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Vegyes elelmiszer bolt",
+                "link": "https://www.google.com/maps/search/Vegyes+%C3%A9lelmiszer+bolt/@47.909639999999996,19.877359?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 117,
+                "rating": 4.7,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Nemzeti Dohanybolt Matraszentimre",
+                "link": "https://www.google.com/maps/search/Nemzeti+Doh%C3%A1nybolt+M%C3%A1traszentimre/@47.9086518,19.8768033?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 3.5,
+                "main_category": "Yan Cao Dian "
+            },
+            {
+                "name": "Matra Uzlethaz",
+                "link": "https://www.google.com/maps/search/M%C3%A1tra+%C3%9Czleth%C3%A1z/@48.0338274,19.966959?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "116539855239789875666",
+            "name": "Kormos Shop (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116539855239789875666"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRjy8VKWiFIP2RwWzFm-F6dB-5zosv9G7WCNtL=w408-h408-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "10:00-17:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 30 905 0215",
+        "address": "Matraszentimre, Kormos Shop, Kodaly Zoltan setany 15, 3234 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kormos+Shop/data=!4m7!3m6!1s0x47405d35a8cd3569:0xd8521a8f977acb43!8m2!3d47.9164102!4d19.9234987!16s%2Fg%2F11c40ptlxx!19sChIJaTXNqDVdQEcRQ8t6l48aUtg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJbe7dgwldQEcRcg8ZK_Ln5zs",
@@ -990,6 +1045,32 @@
         "address": "Paradsasvar, Panorama pad, Unnamed Road, 3242 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Panor%C3%A1ma+pad/data=!4m7!3m6!1s0x47405d0983ddee6d:0x3be7e7f22b190f72!8m2!3d47.9124549!4d19.9622648!16s%2Fg%2F11qmrbjl3l!19sChIJbe7dgwldQEcRcg8ZK_Ln5zs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJNTnlM_tnQEcRe23CuzBF7kw",
+        "name": "Nemzeti dohanybolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Nemzeti dohanybolt (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNzUJeh1I-MX5tGF9eJhTBk0XcgegOcBBEEsAWS=w408-h724-k-no",
+        "main_category": "Yan Cao Dian ",
+        "categories": [
+            "Yan Cao Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Parad, Nemzeti dohanybolt, Kossuth Lajos ut 99, 3240 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nemzeti+doh%C3%A1nybolt/data=!4m7!3m6!1s0x474067fb33e53935:0x4cee4530bbc26d7b!8m2!3d47.9234516!4d20.0317623!16s%2Fg%2F11kqlp2206!19sChIJNTnlM_tnQEcRe23CuzBF7kw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJeXiaWlxnQEcR45KkN_q8fJ8",
@@ -1084,6 +1165,68 @@
         "link": "https://www.google.com/maps/place/M%C3%A1trai+Gy%C3%B3gyn%C3%B6v%C3%A9ny+Kft./data=!4m7!3m6!1s0x474042e155c2b1a9:0x93cefb6f7fc108b0!8m2!3d47.9111105!4d19.8773376!16s%2Fg%2F11b7fw6t7c!19sChIJqbHCVeFCQEcRsAjBf2_7zpM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJH2QSV4tdQEcROGtEJYS_VxA",
+        "name": "Ohuta Koz-ert kft.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Coop szuper",
+                "link": "https://www.google.com/maps/search/Coop+szuper/@47.9235159,20.028393899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 427,
+                "rating": 3.9,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Mini Abc",
+                "link": "https://www.google.com/maps/search/Mini+Abc/@47.9110704,19.9806089?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4.3,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Ohuta vendeghaz",
+                "link": "https://www.google.com/maps/search/%C3%93huta+vend%C3%A9gh%C3%A1z/@47.9055338,20.020715300000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 3.8,
+                "main_category": "Bin Guan "
+            },
+            {
+                "name": "Papirka Lottozo",
+                "link": "https://www.google.com/maps/search/Pap%C3%ADrka+Lott%C3%B3z%C3%B3/@47.923835999999994,20.0419786?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Bian Li Dian "
+            },
+            {
+                "name": "Papirka lottozo",
+                "link": "https://www.google.com/maps/search/Papirka+lott%C3%B3z%C3%B3/@47.922420699999996,20.030504?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Wen Ju Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ohuta Koz-ert kft. (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iB1S3QdTVIEmiOYkEVKr5Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.52644&pitch=0&thumbfov=100",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Parad, Ohuta Koz-ert kft., Klarissza forras ut, 3240 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C3%93huta+K%C3%B6z-%C3%A9rt+kft./data=!4m7!3m6!1s0x47405d8b5712641f:0x1057bf8425446b38!8m2!3d47.9051946!4d20.0205024!16s%2Fg%2F11ph7y3nk8!19sChIJH2QSV4tdQEcROGtEJYS_VxA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ6wzIks1nQEcRhB1tSVpnx1c",
         "name": "Papirka Lottozo",
         "description": null,
@@ -1093,7 +1236,7 @@
             {
                 "name": "Coop szuper",
                 "link": "https://www.google.com/maps/search/Coop+szuper/@47.9235159,20.028393899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 426,
+                "reviews": 427,
                 "rating": 3.9,
                 "main_category": "Za Huo Dian "
             },

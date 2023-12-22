@@ -56,7 +56,11 @@
         ],
         "rating": 4.4,
         "workday_timing": "06:30-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 80 020 534",
         "address": "Varpalota, Lidl, Hetvezer utja 3, 8100 Xiong Ya Li ",
         "review_keywords": [],
@@ -119,7 +123,10 @@
         ],
         "rating": 3.8,
         "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": null,
         "address": "Varpalota, Tesco, Fehervari ut 17, 8100 Xiong Ya Li ",
         "review_keywords": [],
@@ -130,7 +137,7 @@
         "name": "The Two Owl Restaurant and Inn Bed and Breakfast",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 974,
+        "reviews": 975,
         "competitors": [],
         "website": "http://www.ketbagoly.hu/",
         "owner": {
@@ -230,7 +237,7 @@
             {
                 "name": "Kastelydomb Kavezo Etterem",
                 "link": "https://www.google.com/maps/search/Kast%C3%A9lydomb+K%C3%A1v%C3%A9z%C3%B3+%C3%89tterem/@47.199886799999994,18.137654599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
+                "reviews": 483,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -280,12 +287,12 @@
         "name": "Kastelydomb Kavezo Etterem",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 482,
+        "reviews": 483,
         "competitors": [
             {
                 "name": "The Two Owl Restaurant and Inn Bed and Breakfast",
                 "link": "https://www.google.com/maps/search/The+Two+Owl+Restaurant+and+Inn+Bed+and+Breakfast/@47.1951561,18.1354523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 974,
+                "reviews": 975,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -380,6 +387,8 @@
         "rating": 4.5,
         "workday_timing": "07:30-17:30",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
             "Xing Qi Ri "
         ],
         "phone": "+36 20 227 8690",
@@ -416,18 +425,18 @@
                 "main_category": "Fu Zhuang Dian "
             },
             {
+                "name": "Arpad ABC",
+                "link": "https://www.google.com/maps/search/%C3%81rp%C3%A1d+ABC/@47.2039871,18.140170299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.4,
+                "main_category": "Shang Dian "
+            },
+            {
                 "name": "CBA Center",
                 "link": "https://www.google.com/maps/search/CBA+Center/@47.198844799999996,18.129502?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 125,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Arpad ABC",
-                "link": "https://www.google.com/maps/search/%C3%81rp%C3%A1d+ABC/@47.2039871,18.140170299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
-                "rating": 4.4,
-                "main_category": "Shang Dian "
             }
         ],
         "website": "http://www.coop.hu/",
@@ -450,70 +459,6 @@
         "link": "https://www.google.com/maps/place/Super+Coop/data=!4m7!3m6!1s0x47698be8dda8d6f1:0x5f39be889bf69b22!8m2!3d47.202944!4d18.1366467!16s%2Fg%2F11b6tg3ffw!19sChIJ8dao3eiLaUcRIpv2m4i-OV8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJI5rv0oOLaUcR1QslguISlA8",
-        "name": "Varfalo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 274,
-        "competitors": [
-            {
-                "name": "Varpalota - Muzeumkert Etterem",
-                "link": "https://www.google.com/maps/search/V%C3%A1rpalota+-+M%C3%BAzeumkert+%C3%89tterem/@47.200634,18.1406803?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Truck Burger",
-                "link": "https://www.google.com/maps/search/Truck+Burger/@47.184757999999995,18.116530400000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 293,
-                "rating": 4.6,
-                "main_category": "Han Bao Bao "
-            },
-            {
-                "name": "Retro bufe",
-                "link": "https://www.google.com/maps/search/Retro+b%C3%BCf%C3%A9/@47.1998999,18.142262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Var Bistro",
-                "link": "https://www.google.com/maps/search/V%C3%A1r+Bistro/@47.20145000000001,18.138918099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.4,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            },
-            {
-                "name": "Borharapo Csarda",
-                "link": "https://www.google.com/maps/search/Borharap%C3%B3+Cs%C3%A1rda/@47.206300399999996,18.141776399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 72,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://www.facebook.com/V%C3%A1rfal%C3%B3-112080430208383",
-        "owner": {
-            "id": "118152268887285284823",
-            "name": "Varfalo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118152268887285284823"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPiSfLJeSu35xxH9OFTOr6VRQmkxFj-qAQAGiMI=w408-h544-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "11:00-20:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 20 365 8160",
-        "address": "Varpalota, Varfalo, Tancsics Mihaly u. 15, 8100 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/V%C3%A1rfal%C3%B3/data=!4m7!3m6!1s0x47698b83d2ef9a23:0xf9412e282250bd5!8m2!3d47.2020057!4d18.1395831!16s%2Fg%2F11h3tj04yx!19sChIJI5rv0oOLaUcR1QslguISlA8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJBz3UlXiLaUcRwebXAVkEaYc",
         "name": "Karamell Cukraszda",
         "description": null,
@@ -530,7 +475,7 @@
             {
                 "name": "Kastelydomb Kavezo Etterem",
                 "link": "https://www.google.com/maps/search/Kast%C3%A9lydomb+K%C3%A1v%C3%A9z%C3%B3+%C3%89tterem/@47.199886799999994,18.137654599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
+                "reviews": 483,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -570,68 +515,6 @@
         "link": "https://www.google.com/maps/place/Karamell+Cukr%C3%A1szda/data=!4m7!3m6!1s0x47698b7895d43d07:0x8769045901d7e6c1!8m2!3d47.1999338!4d18.1393605!16s%2Fg%2F11ghx36fw7!19sChIJBz3UlXiLaUcRwebXAVkEaYc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ7wnA9euLaUcRqb04WpC7Dyo",
-        "name": "dm-drogerie markt Kft.",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 210,
-        "competitors": [
-            {
-                "name": "Palota Nails Szakuzlet",
-                "link": "https://www.google.com/maps/search/Palota+Nails+Szak%C3%BCzlet/@47.202693,18.1328843?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1825,
-                "rating": 4.9,
-                "main_category": "Hua Zhuang Pin Dian "
-            },
-            {
-                "name": "PENNY Varpalota",
-                "link": "https://www.google.com/maps/search/PENNY+V%C3%A1rpalota/@47.201357699999996,18.146828199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 903,
-                "rating": 4.2,
-                "main_category": "Zhe Kou Shang Dian "
-            },
-            {
-                "name": "DIEGO Varpalota",
-                "link": "https://www.google.com/maps/search/DIEGO+V%C3%A1rpalota/@47.2062082,18.150047999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 98,
-                "rating": 4.2,
-                "main_category": "Di Tan Dian "
-            },
-            {
-                "name": "Erste Bank fiok",
-                "link": "https://www.google.com/maps/search/Erste+Bank+fi%C3%B3k/@47.2011378,18.1415167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.7,
-                "main_category": "Yin Xing "
-            },
-            {
-                "name": "Vitalitas Gyogyaszati Szakbolt",
-                "link": "https://www.google.com/maps/search/Vitalit%C3%A1s+Gy%C3%B3gy%C3%A1szati+Szakbolt/@47.1980703,18.1396241?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Yao Fang "
-            }
-        ],
-        "website": "https://www.dm.hu/store/u0f9/varpalota/szent-istvan-utca-2",
-        "owner": {
-            "id": "106029577778453997757",
-            "name": "dm-drogerie markt Kft. (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106029577778453997757"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNN9FQIl7x6lWsq1deWUsmd1gCrIMXA6pp3Jhf=w408-h544-k-no",
-        "main_category": "Yao Fang ",
-        "categories": [
-            "Yao Fang "
-        ],
-        "rating": 4.4,
-        "workday_timing": "08:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 30 402 3989",
-        "address": "Varpalota, dm-drogerie markt Kft., Szent Istvan ut 2, 8100 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/dm-drogerie+markt+Kft./data=!4m7!3m6!1s0x47698bebf5c009ef:0x2a0fbb905a38bda9!8m2!3d47.2010498!4d18.14062!16s%2Fg%2F11gh0431mn!19sChIJ7wnA9euLaUcRqb04WpC7Dyo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJsz53BrGLaUcRLq3F1SQCo8g",
         "name": "PEPCO",
         "description": null,
@@ -662,7 +545,7 @@
             {
                 "name": "Hong-Kong Aruhaz",
                 "link": "https://www.google.com/maps/search/Hong-Kong+%C3%81ruh%C3%A1z/@47.20112530000001,18.1409866?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 196,
+                "reviews": 197,
                 "rating": 3.9,
                 "main_category": "Fu Zhuang Dian "
             },
@@ -693,63 +576,6 @@
         "address": "Varpalota, PEPCO, Fekete Gyemant u. 2, 8100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/PEPCO/data=!4m7!3m6!1s0x47698bb106773eb3:0xc8a30224d5c5ad2e!8m2!3d47.2013748!4d18.1452739!16s%2Fg%2F11hj1y8yv0!19sChIJsz53BrGLaUcRLq3F1SQCo8g?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJc5HuVumLaUcRORJF6ln9pAM",
-        "name": "Jo Iz bufe etterem, Hazhozszallitas",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 192,
-        "competitors": [
-            {
-                "name": "Kastelydomb Kavezo Etterem",
-                "link": "https://www.google.com/maps/search/Kast%C3%A9lydomb+K%C3%A1v%C3%A9z%C3%B3+%C3%89tterem/@47.199886799999994,18.137654599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Retro bufe",
-                "link": "https://www.google.com/maps/search/Retro+b%C3%BCf%C3%A9/@47.1998999,18.142262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Piaci bufe",
-                "link": "https://www.google.com/maps/search/Piaci+b%C3%BCf%C3%A9/@47.1998359,18.1429397?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Zao Wu Can "
-            },
-            {
-                "name": "Sze-Pa-Szolg 2012 Kft",
-                "link": "https://www.google.com/maps/search/Sze-Pa-Szolg+2012+Kft/@47.1983329,18.1380315?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "https://www.facebook.com/wu.bin.758",
-        "owner": {
-            "id": "113244746687805938512",
-            "name": "Jo Iz bufe etterem, Hazhozszallitas (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113244746687805938512"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXViiBGtHUvWECLhh2THBIc5s46Kdc6PhUizoJ=w426-h240-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4,
-        "workday_timing": "09:00-21:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+36 30 685 0882",
-        "address": "Varpalota, Jo Iz bufe etterem, Hazhozszallitas, Tancsics Mihaly u. 11, 8100 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/J%C3%B3+Iz+b%C3%BCf%C3%A9+%C3%A9tterem,+H%C3%A1zhozsz%C3%A1ll%C3%ADt%C3%A1s/data=!4m7!3m6!1s0x47698be956ee9173:0x3a4fd59ea451239!8m2!3d47.2016208!4d18.1399281!16s%2Fg%2F11bwyh5wp8!19sChIJc5HuVumLaUcRORJF6ln9pAM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJYWLeieyLaUcRO1gVSq-YUw8",
@@ -849,7 +675,7 @@
             {
                 "name": "Kastelydomb Kavezo Etterem",
                 "link": "https://www.google.com/maps/search/Kast%C3%A9lydomb+K%C3%A1v%C3%A9z%C3%B3+%C3%89tterem/@47.199886799999994,18.137654599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
+                "reviews": 483,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -911,7 +737,7 @@
             {
                 "name": "Max Power Muszaki Aruhaz",
                 "link": "https://www.google.com/maps/search/Max+Power+M%C5%B1szaki+%C3%81ruh%C3%A1z/@47.2024054,18.135320099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
+                "reviews": 29,
                 "rating": 4.8,
                 "main_category": "Dian Qi Ling Shou "
             },
@@ -993,7 +819,7 @@
             "name": "National tobacco shop (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PifzeLXEdKm2WB8Z9cOIpQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=264.6854&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PifzeLXEdKm2WB8Z9cOIpQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=263.6384&pitch=0&thumbfov=100",
         "main_category": "Yan Cao Dian ",
         "categories": [
             "Yan Cao Dian "
@@ -1096,6 +922,70 @@
         "link": "https://www.google.com/maps/place/National+tobacco+shop/data=!4m7!3m6!1s0x47698be5f285e71b:0xf15542d312e812e7!8m2!3d47.2014693!4d18.1318583!16s%2Fg%2F11fxb89pl5!19sChIJG-eF8uWLaUcR5xLoEtNCVfE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJrxQnalOLaUcRcVbwEHOqKRs",
+        "name": "ANTAL ekszerboltok",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Tesco",
+                "link": "https://www.google.com/maps/search/Tesco/@47.200089999999996,18.15066?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1568,
+                "rating": 3.8,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "PENNY Varpalota",
+                "link": "https://www.google.com/maps/search/PENNY+V%C3%A1rpalota/@47.201357699999996,18.146828199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 903,
+                "rating": 4.2,
+                "main_category": "Zhe Kou Shang Dian "
+            },
+            {
+                "name": "Ekszer Arzenal Kft.",
+                "link": "https://www.google.com/maps/search/%C3%89kszer+Arzen%C3%A1l+Kft./@47.2009642,18.140501699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 4.9,
+                "main_category": "Zhu Bao Dian "
+            },
+            {
+                "name": "SPAR partner",
+                "link": "https://www.google.com/maps/search/SPAR+partner/@47.1986317,18.140873799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 4.4,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "A&A virag",
+                "link": "https://www.google.com/maps/search/A%26A+vir%C3%A1g/@47.2003722,18.150954?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Zhan Lan Chang Di "
+            }
+        ],
+        "website": "http://antalekszer.hu/",
+        "owner": {
+            "id": "115516055129216236414",
+            "name": "ANTAL ekszerboltok (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115516055129216236414"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwDUx-yFmvCxhjsQoya8R6uV1No2ujkZFXeacd=w408-h306-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-19:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 20 394 0611",
+        "address": "Varpalota, ANTAL ekszerboltok, Fehervari ut 17, 8100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ANTAL+%C3%A9kszerboltok/data=!4m7!3m6!1s0x47698b536a2714af:0x1b29aa7310f05671!8m2!3d47.2000048!4d18.150002!16s%2Fg%2F11ll5046rg!19sChIJrxQnalOLaUcRcVbwEHOqKRs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJT9kJSvaLaUcRsme36cIN3F0",
         "name": "VAR100APROSAG",
         "description": null,
@@ -1115,82 +1005,14 @@
         ],
         "rating": null,
         "workday_timing": "08:00-17:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 70 360 4801",
         "address": "Varpalota, VAR100APROSAG, Varoshaz koz 4, 8100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/V%C3%81R100APR%C3%93S%C3%81G/data=!4m7!3m6!1s0x47698bf64a09d94f:0x5ddc0dc2e9b767b2!8m2!3d47.1997991!4d18.1414939!16s%2Fg%2F11l327jh8r!19sChIJT9kJSvaLaUcRsme36cIN3F0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJdcgIEOyLaUcRaxnAxy4ySzQ",
-        "name": "Varpalota - Muzeumkert Etterem",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 851,
-        "competitors": [
-            {
-                "name": "The Two Owl Restaurant and Inn Bed and Breakfast",
-                "link": "https://www.google.com/maps/search/The+Two+Owl+Restaurant+and+Inn+Bed+and+Breakfast/@47.1951561,18.1354523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 974,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Kastelydomb Kavezo Etterem",
-                "link": "https://www.google.com/maps/search/Kast%C3%A9lydomb+K%C3%A1v%C3%A9z%C3%B3+%C3%89tterem/@47.199886799999994,18.137654599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
-                "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Varfalo",
-                "link": "https://www.google.com/maps/search/V%C3%A1rfal%C3%B3/@47.2020057,18.1395831?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 274,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Petofi Etterem",
-                "link": "https://www.google.com/maps/search/Pet%C5%91fi+%C3%89tterem/@47.1911748,18.1406048?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 150,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Var Bistro",
-                "link": "https://www.google.com/maps/search/V%C3%A1r+Bistro/@47.20145000000001,18.138918099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.4,
-                "main_category": "Xiao Can Guan  (Bistro)"
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "106462341552240393304",
-            "name": "Varpalota - Muzeumkert Etterem (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106462341552240393304"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOCxeZvsjo4RvXiEXDkHhs-WJuSxF9M2um9lBT=w408-h544-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.2,
-        "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 88 575 805",
-        "address": "Varpalota, Varpalota - Muzeumkert Etterem, Szent Istvan ut 1, 8100 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Pi Sa ",
-                "count": 4
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/V%C3%A1rpalota+-+M%C3%BAzeumkert+%C3%89tterem/data=!4m7!3m6!1s0x47698bec1008c875:0x344b322ec7c0196b!8m2!3d47.200634!4d18.1406803!16s%2Fg%2F1tdhkmh2!19sChIJdcgIEOyLaUcRaxnAxy4ySzQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJfY2iq-2LaUcRR2Uyedn1XvQ",
@@ -1396,7 +1218,7 @@
             {
                 "name": "Arpad ABC",
                 "link": "https://www.google.com/maps/search/%C3%81rp%C3%A1d+ABC/@47.2039871,18.140170299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.4,
                 "main_category": "Shang Dian "
             },
@@ -1563,7 +1385,7 @@
             {
                 "name": "The Two Owl Restaurant and Inn Bed and Breakfast",
                 "link": "https://www.google.com/maps/search/The+Two+Owl+Restaurant+and+Inn+Bed+and+Breakfast/@47.1951561,18.1354523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 974,
+                "reviews": 975,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1577,7 +1399,7 @@
             {
                 "name": "Kastelydomb Kavezo Etterem",
                 "link": "https://www.google.com/maps/search/Kast%C3%A9lydomb+K%C3%A1v%C3%A9z%C3%B3+%C3%89tterem/@47.199886799999994,18.137654599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
+                "reviews": 483,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -1623,18 +1445,18 @@
         "reviews": 73,
         "competitors": [
             {
+                "name": "Arpad ABC",
+                "link": "https://www.google.com/maps/search/%C3%81rp%C3%A1d+ABC/@47.2039871,18.140170299999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.4,
+                "main_category": "Shang Dian "
+            },
+            {
                 "name": "CBA Center",
                 "link": "https://www.google.com/maps/search/CBA+Center/@47.198844799999996,18.129502?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 125,
                 "rating": 4.2,
                 "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Arpad ABC",
-                "link": "https://www.google.com/maps/search/%C3%81rp%C3%A1d+ABC/@47.2039871,18.140170299999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
-                "rating": 4.4,
-                "main_category": "Shang Dian "
             },
             {
                 "name": "Krajcar vegyesbolt",
@@ -1687,7 +1509,7 @@
             {
                 "name": "Kastelydomb Kavezo Etterem",
                 "link": "https://www.google.com/maps/search/Kast%C3%A9lydomb+K%C3%A1v%C3%A9z%C3%B3+%C3%89tterem/@47.199886799999994,18.137654599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
+                "reviews": 483,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -1802,6 +1624,63 @@
         "link": "https://www.google.com/maps/place/Bon-Bon+Alexa/data=!4m7!3m6!1s0x47698be5edd80dcd:0xc29a5c05f74c0fff!8m2!3d47.2015233!4d18.1317798!16s%2Fg%2F11hcfk90w4!19sChIJzQ3Y7eWLaUcR_w9M9wVcmsI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJfzEVcJ6LaUcRJTkQ4UHriRo",
+        "name": "Krajcar vegyesbolt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "competitors": [
+            {
+                "name": "CBA Center",
+                "link": "https://www.google.com/maps/search/CBA+Center/@47.198844799999996,18.129502?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.2,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Erdody ABC",
+                "link": "https://www.google.com/maps/search/Erd%C5%91dy+ABC/@47.1988286,18.129373299999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 73,
+                "rating": 4.4,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Tom Market Varpalota",
+                "link": "https://www.google.com/maps/search/Tom+Market+V%C3%A1rpalota/@47.2010386,18.1334095?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.6,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Palota Diszkont Kft. Finomsagok Boltja",
+                "link": "https://www.google.com/maps/search/Palota+Diszkont+Kft.+Finoms%C3%A1gok+Boltja/@47.2018718,18.145275400000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Krajcar vegyesbolt (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP931o5aR3fQG4v3ewXatrz1ll1qyslMJ2EpBNZ=w408-h544-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Varpalota, Krajcar vegyesbolt, Erdody Palffy Tamas u. 12, 8100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Krajc%C3%A1r+vegyesbolt/data=!4m7!3m6!1s0x47698b9e7015317f:0x1a89eb41e1103925!8m2!3d47.2006873!4d18.1334746!16s%2Fg%2F11l9q9mk9r!19sChIJfzEVcJ6LaUcRJTkQ4UHriRo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJySu3tUeMaUcRhOVPGGRaRVQ",
         "name": "Kavekapszula Diszkont",
         "description": null,
@@ -1857,6 +1736,61 @@
         "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9kapszula+Diszkont/data=!4m7!3m6!1s0x47698c47b5b72bc9:0x54455a64184fe584!8m2!3d47.1600426!4d18.1232728!16s%2Fg%2F11hc_1d8sh!19sChIJySu3tUeMaUcRhOVPGGRaRVQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJM7-DdOuLaUcRQh5Wj2VgKvs",
+        "name": "Palota Diszkont Kft. Finomsagok Boltja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "PENNY Varpalota",
+                "link": "https://www.google.com/maps/search/PENNY+V%C3%A1rpalota/@47.201357699999996,18.146828199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 903,
+                "rating": 4.2,
+                "main_category": "Zhe Kou Shang Dian "
+            },
+            {
+                "name": "SPAR szupermarket",
+                "link": "https://www.google.com/maps/search/SPAR+szupermarket/@47.198697499999994,18.1408919?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 589,
+                "rating": 4,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Varpalotai Piac",
+                "link": "https://www.google.com/maps/search/V%C3%A1rpalotai+Piac/@47.199708199999996,18.1425344?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 246,
+                "rating": 4.3,
+                "main_category": "Gou Wu Zhong Xin "
+            },
+            {
+                "name": "Krajcar vegyesbolt",
+                "link": "https://www.google.com/maps/search/Krajc%C3%A1r+vegyesbolt/@47.2006873,18.1334746?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.9,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Palota Diszkont Kft. Finomsagok Boltja (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUJ7Rgi_VZHf-bvfHcQPwwviPBjeF5Mj3kMb4F=w408-h544-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+36 88 470 094",
+        "address": "Varpalota, Palota Diszkont Kft. Finomsagok Boltja, Szent Istvan ut 26, 8100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Palota+Diszkont+Kft.+Finoms%C3%A1gok+Boltja/data=!4m7!3m6!1s0x47698beb7483bf33:0xfb2a60658f561e42!8m2!3d47.2018718!4d18.1452754!16s%2Fg%2F1hhwvpfnb!19sChIJM7-DdOuLaUcRQh5Wj2VgKvs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJo8tT2EiLaUcRh9_DQAA_1HQ",
         "name": "Nemzeti Dohanyolt",
         "description": null,
@@ -1883,66 +1817,66 @@
         "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nyolt/data=!4m7!3m6!1s0x47698b48d853cba3:0x74d43f0040c3df87!8m2!3d47.2014674!4d18.1467247!16s%2Fg%2F11f61dlkwl!19sChIJo8tT2EiLaUcRh9_DQAA_1HQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJJSmFTNGLaUcRPqSMw7ohSo0",
-        "name": "Piaci bufe",
+        "place_id": "ChIJsfJ1AGeLaUcRENSnO4H4imc",
+        "name": "Inotai kisbolt",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2,
+        "reviews": 5,
         "competitors": [
             {
-                "name": "Varpalotai Piac",
-                "link": "https://www.google.com/maps/search/V%C3%A1rpalotai+Piac/@47.199708199999996,18.1425344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
-                "rating": 4.3,
-                "main_category": "Gou Wu Zhong Xin "
+                "name": "Konzumgres Kft. Inotai Tuzep",
+                "link": "https://www.google.com/maps/search/Konzumgres+Kft.+Inotai+T%C3%BCz%C3%A9p/@47.1991887,18.165918800000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 64,
+                "rating": 4.5,
+                "main_category": "Jian Cai Shang Dian "
             },
             {
-                "name": "Jo Iz bufe etterem, Hazhozszallitas",
-                "link": "https://www.google.com/maps/search/J%C3%B3+Iz+b%C3%BCf%C3%A9+%C3%A9tterem%2C+H%C3%A1zhozsz%C3%A1ll%C3%ADt%C3%A1s/@47.2016208,18.1399281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 192,
+                "name": "Inotai Viztarozo",
+                "link": "https://www.google.com/maps/search/Inotai+V%C3%ADzt%C3%A1roz%C3%B3/@47.206003,18.174906999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 46,
+                "rating": 4.6,
+                "main_category": "Xiu Xi Zhan "
+            },
+            {
+                "name": "Inotai Tagiskola",
+                "link": "https://www.google.com/maps/search/Inotai+Tagiskola/@47.2073201,18.2050417?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Xue Xiao "
+            },
+            {
+                "name": "Inda-World Kft.",
+                "link": "https://www.google.com/maps/search/Inda-World+Kft./@47.2021307,18.162698799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
                 "rating": 4,
-                "main_category": "Can Ting "
+                "main_category": ""
             },
             {
-                "name": "Petofi Etterem",
-                "link": "https://www.google.com/maps/search/Pet%C5%91fi+%C3%89tterem/@47.1911748,18.1406048?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 150,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Retro bufe",
-                "link": "https://www.google.com/maps/search/Retro+b%C3%BCf%C3%A9/@47.1998999,18.142262?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 128,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Var Bistro",
-                "link": "https://www.google.com/maps/search/V%C3%A1r+Bistro/@47.20145000000001,18.138918099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4.4,
-                "main_category": "Xiao Can Guan  (Bistro)"
+                "name": "Inotai Papir Kft.",
+                "link": "https://www.google.com/maps/search/Inotai+Pap%C3%ADr+Kft./@47.2028555,18.1759438?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": ""
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Piaci bufe (Ye Zhu )",
+            "name": "Inotai kisbolt (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7LWc8FdvVAcbkAubbGiOMhC_n8g0vQx8_XBEy=w408-h544-k-no",
-        "main_category": "Zao Wu Can Can Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQyuVu2cZdR0PdNfaf3V1kNnVQjcCxfRA3HllH=w408-h545-k-no",
+        "main_category": "Za Huo Dian ",
         "categories": [
-            "Zao Wu Can Can Ting "
+            "Za Huo Dian "
         ],
-        "rating": 4.5,
-        "workday_timing": null,
+        "rating": 4.6,
+        "workday_timing": "06:00-18:00",
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Varpalota, Piaci bufe, Korompay Lajos u. 1, 8100 Xiong Ya Li ",
+        "address": "Varpalota, Inotai kisbolt, Radnoti Miklos u. 46, 8100 Xiong Ya Li ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Piaci+b%C3%BCf%C3%A9/data=!4m7!3m6!1s0x47698bd14c852925:0x8d4a21bac38ca43e!8m2!3d47.1998359!4d18.1429397!16s%2Fg%2F11ll32hxd1!19sChIJJSmFTNGLaUcRPqSMw7ohSo0?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Inotai+kisbolt/data=!4m7!3m6!1s0x47698b670075f2b1:0x678af8813ba7d410!8m2!3d47.200385!4d18.1775068!16s%2Fg%2F11t6_stq8v!19sChIJsfJ1AGeLaUcRENSnO4H4imc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJL_O6HoaLaUcRC06_lrfxzhQ",
@@ -1986,7 +1920,7 @@
             "name": "SPACECAKE Kft. (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/111638555746253930877"
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sIuhxNwrBhfIUobETpefcA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=255.54033&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zlx5qTGUp6_f9RhXjUQeLQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.5256&pitch=0&thumbfov=100",
         "main_category": "Gao Bing Dian ",
         "categories": [
             "Gao Bing Dian "
@@ -1998,6 +1932,68 @@
         "address": "Varpalota, SPACECAKE Kft., Szent Imre u. 13, 8100 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/SPACECAKE+Kft./data=!4m7!3m6!1s0x47698b861ebaf32f:0x14cef1b796bf4e0b!8m2!3d47.1975255!4d18.1392638!16s%2Fg%2F11td959zg2!19sChIJL_O6HoaLaUcRC06_lrfxzhQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJJSmFTNGLaUcRPqSMw7ohSo0",
+        "name": "Piaci bufe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Varpalotai Piac",
+                "link": "https://www.google.com/maps/search/V%C3%A1rpalotai+Piac/@47.199708199999996,18.1425344?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 246,
+                "rating": 4.3,
+                "main_category": "Gou Wu Zhong Xin "
+            },
+            {
+                "name": "Jo Iz bufe etterem, Hazhozszallitas",
+                "link": "https://www.google.com/maps/search/J%C3%B3+Iz+b%C3%BCf%C3%A9+%C3%A9tterem%2C+H%C3%A1zhozsz%C3%A1ll%C3%ADt%C3%A1s/@47.2016208,18.1399281?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 193,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Petofi Etterem",
+                "link": "https://www.google.com/maps/search/Pet%C5%91fi+%C3%89tterem/@47.1911748,18.1406048?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 151,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Retro bufe",
+                "link": "https://www.google.com/maps/search/Retro+b%C3%BCf%C3%A9/@47.1998999,18.142262?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 128,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Var Bistro",
+                "link": "https://www.google.com/maps/search/V%C3%A1r+Bistro/@47.20145000000001,18.138918099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 86,
+                "rating": 4.4,
+                "main_category": "Xiao Can Guan  (Bistro)"
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Piaci bufe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7LWc8FdvVAcbkAubbGiOMhC_n8g0vQx8_XBEy=w408-h544-k-no",
+        "main_category": "Zao Wu Can Can Ting ",
+        "categories": [
+            "Zao Wu Can Can Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Varpalota, Piaci bufe, Korompay Lajos u. 1, 8100 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Piaci+b%C3%BCf%C3%A9/data=!4m7!3m6!1s0x47698bd14c852925:0x8d4a21bac38ca43e!8m2!3d47.1998359!4d18.1429397!16s%2Fg%2F11ll32hxd1!19sChIJJSmFTNGLaUcRPqSMw7ohSo0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJSZNlatKLaUcRdWV6FOk5POg",

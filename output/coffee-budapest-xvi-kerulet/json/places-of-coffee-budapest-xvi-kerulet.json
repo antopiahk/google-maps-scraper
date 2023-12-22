@@ -9,7 +9,7 @@
             {
                 "name": "Szamoca Cukraszda",
                 "link": "https://www.google.com/maps/search/Szam%C3%B3ca+Cukr%C3%A1szda/@47.5130196,19.2033892?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2346,
+                "reviews": 2347,
                 "rating": 4.3,
                 "main_category": "Tian Pin Dian "
             },
@@ -68,14 +68,14 @@
             {
                 "name": "Veranda Restaurant Pasta & Pizza",
                 "link": "https://www.google.com/maps/search/Veranda+Restaurant+Pasta+%26+Pizza/@47.464729,19.0627809?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1798,
+                "reviews": 1799,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Veranda Grill & Wine Etterem",
                 "link": "https://www.google.com/maps/search/Veranda+Grill+%26+Wine+%C3%89tterem/@47.479300099999996,19.0798569?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 830,
+                "reviews": 831,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -116,7 +116,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "06:30-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+36 1 361 8499",
         "address": "Budapest, Veranda Delikat, Ujszasz u. 43, 1165 Xiong Ya Li ",
         "review_keywords": [],
@@ -153,7 +156,7 @@
             {
                 "name": "Setany kavezo, sorozo",
                 "link": "https://www.google.com/maps/search/S%C3%A9t%C3%A1ny+k%C3%A1v%C3%A9z%C3%B3%2C+s%C3%B6r%C3%B6z%C5%91/@47.510154799999995,19.1718181?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 73,
                 "rating": 4.7,
                 "main_category": "Fa Shi Can Ting "
             },
@@ -178,7 +181,10 @@
         ],
         "rating": 4.6,
         "workday_timing": "10:00-18:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 1 791 9141",
         "address": "Budapest, Kertvarosi Kavezo, Reformatorok tere, Sashalom u. 6, 1161 Xiong Ya Li ",
         "review_keywords": [
@@ -224,7 +230,7 @@
             {
                 "name": "Buzakovasz Kezmuves Pekseg",
                 "link": "https://www.google.com/maps/search/B%C3%BAzakov%C3%A1sz+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g/@47.5317657,19.2009221?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
+                "reviews": 40,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -251,6 +257,9 @@
         "rating": 4.7,
         "workday_timing": "06:30-17:30",
         "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Ri "
         ],
         "phone": "+36 70 606 4267",
@@ -282,15 +291,15 @@
             {
                 "name": "Setany kavezo, sorozo",
                 "link": "https://www.google.com/maps/search/S%C3%A9t%C3%A1ny+k%C3%A1v%C3%A9z%C3%B3%2C+s%C3%B6r%C3%B6z%C5%91/@47.510154799999995,19.1718181?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 73,
                 "rating": 4.7,
                 "main_category": "Fa Shi Can Ting "
             },
             {
                 "name": "Reggelizo",
                 "link": "https://www.google.com/maps/search/Reggeliz%C5%91/@47.5359174,19.114604699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 4.1,
+                "reviews": 29,
+                "rating": 4.2,
                 "main_category": "Can Ting "
             }
         ],
@@ -307,7 +316,11 @@
         ],
         "rating": 4.7,
         "workday_timing": "07:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 1 617 3197",
         "address": "Budapest, Csaklit Kavehaz, Nonn Janos u. 3, 1161 Xiong Ya Li ",
         "review_keywords": [],
@@ -323,14 +336,14 @@
             {
                 "name": "Kiskovasz Kezmuves Pekseg - Budapest VI. kerulet",
                 "link": "https://www.google.com/maps/search/Kiskov%C3%A1sz+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g+-+Budapest+VI.+ker%C3%BClet/@47.504421699999995,19.0588106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 279,
+                "reviews": 280,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Petrus Peksege kovaszos, kezmuves pekseg",
                 "link": "https://www.google.com/maps/search/Petrus+P%C3%A9ks%C3%A9ge+kov%C3%A1szos%2C+k%C3%A9zm%C5%ABves+p%C3%A9ks%C3%A9g/@47.5273335,19.1651951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 161,
+                "reviews": 162,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -344,7 +357,7 @@
             {
                 "name": "Buzakovasz Kezmuves Pekseg",
                 "link": "https://www.google.com/maps/search/B%C3%BAzakov%C3%A1sz+K%C3%A9zm%C5%B1ves+P%C3%A9ks%C3%A9g/@47.5317657,19.2009221?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
+                "reviews": 40,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -372,6 +385,8 @@
         "workday_timing": "08:00-18:00",
         "closed_on": [
             "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
             "Xing Qi Liu ",
             "Xing Qi Ri "
         ],
@@ -462,7 +477,7 @@
             {
                 "name": "Coffee Service Kft.",
                 "link": "https://www.google.com/maps/search/Coffee+Service+Kft./@47.5672466,19.0817616?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
+                "reviews": 80,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ji Gong Ying Shang "
             },
@@ -545,7 +560,7 @@
             {
                 "name": "crown Bakery",
                 "link": "https://www.google.com/maps/search/crown+Bakery/@47.5420101,19.1226006?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 261,
+                "reviews": 262,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -665,6 +680,72 @@
         "link": "https://www.google.com/maps/place/Fusion+Beauty+%26+Cake/data=!4m7!3m6!1s0x4741db716cce06a5:0x29ab3766483718e2!8m2!3d47.5214006!4d19.1513238!16s%2Fg%2F11fqtz_c3n!19sChIJpQbObHHbQUcR4hg3SGY3qyk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ-WOahtrEQUcRV1_4bvqPe6Y",
+        "name": "Rex Kezmuves Kaveporkolo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "competitors": [
+            {
+                "name": "Kavetarsasag",
+                "link": "https://www.google.com/maps/search/K%C3%A1v%C3%A9t%C3%A1rsas%C3%A1g/@47.5009914,19.0491165?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 968,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kertvarosi Kavezo",
+                "link": "https://www.google.com/maps/search/Kertv%C3%A1rosi+K%C3%A1v%C3%A9z%C3%B3/@47.517073599999996,19.1668075?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 313,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Calmo",
+                "link": "https://www.google.com/maps/search/Cafe+Calmo/@47.520184199999996,19.1648462?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 99,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Impresso Coffee Lab",
+                "link": "https://www.google.com/maps/search/Impresso+Coffee+Lab/@47.5152418,19.2873423?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.9,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Coffice Kave",
+                "link": "https://www.google.com/maps/search/Coffice+K%C3%A1v%C3%A9/@47.474089899999996,19.144506?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.1,
+                "main_category": "Ka Pei Hong Bei Shang "
+            }
+        ],
+        "website": "http://www.rexkave.hu/",
+        "owner": {
+            "id": "116605214323807031989",
+            "name": "Rex Kezmuves Kaveporkolo (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116605214323807031989"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyEToGZr-FJRy7dH1jWFkkfaRJ2wy_eaEfbjYM=w425-h240-k-no",
+        "main_category": "Ka Pei Hong Bei Shang ",
+        "categories": [
+            "Ka Pei Hong Bei Shang "
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 263 7073",
+        "address": "Budapest, Rex Kezmuves Kaveporkolo, Matyas kiraly u. 88, 1162 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rex+K%C3%A9zm%C5%B1ves+K%C3%A1v%C3%A9p%C3%B6rk%C3%B6l%C5%91/data=!4m7!3m6!1s0x4741c4da869a63f9:0xa67b8ffa6ef85f57!8m2!3d47.5304078!4d19.1777867!16s%2Fg%2F1v8y2tn4!19sChIJ-WOahtrEQUcRV1_4bvqPe6Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJYVDdQmrFQUcROMiVVwzkDBM",
         "name": "VIVA Cafe",
         "description": null,
@@ -674,7 +755,7 @@
             {
                 "name": "La Viva mexicana",
                 "link": "https://www.google.com/maps/search/La+Viva+mexicana/@47.5225553,19.213597699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 458,
+                "reviews": 459,
                 "rating": 4.6,
                 "main_category": "Mo Xi Ge Cai "
             },
@@ -881,82 +962,17 @@
         "link": "https://www.google.com/maps/place/VIVA+caf%C3%A9/data=!4m7!3m6!1s0x4741c51cc15da76b:0x5b4ad1368264fda6!8m2!3d47.4967586!4d19.2400791!16s%2Fg%2F11h42pmfzx!19sChIJa6ddwRzFQUcRpv1kgjbRSls?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJFZVQtc_FQUcRliGrMd7Z_uQ",
-        "name": "BRSC Sport Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 133,
-        "competitors": [
-            {
-                "name": "Esernyos Obudai Kulturalis es Sport Nonprofit Kft.",
-                "link": "https://www.google.com/maps/search/Eserny%C5%91s+%C3%93budai+Kultur%C3%A1lis+%C3%A9s+Sport+Nonprofit+Kft./@47.5416737,19.0453132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 698,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Pecz Kavezo",
-                "link": "https://www.google.com/maps/search/Pecz+K%C3%A1v%C3%A9z%C3%B3/@47.486034,19.0596133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
-                "rating": 4.9,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Sport Bufe",
-                "link": "https://www.google.com/maps/search/Sport+B%C3%BCf%C3%A9/@47.4670451,19.1280578?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Jiu Ba "
-            },
-            {
-                "name": "Ket Brios Kft.",
-                "link": "https://www.google.com/maps/search/K%C3%A9t+Bri%C3%B3s+Kft./@47.478299,19.074426?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": ""
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "101050114369866205870",
-            "name": "BRSC Sport Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101050114369866205870"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPlfOd3Taa6ATKiTr-yPbQCtNjn_o05mRYvLp6Q=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.9,
-        "workday_timing": "14:00-20:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
-        "phone": "+36 30 474 3304",
-        "address": "Budapest, BRSC Sport Cafe, Pilisi u. 9, 1106 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/BRSC+Sport+Caf%C3%A9/data=!4m7!3m6!1s0x4741c5cfb5509515:0xe4fed9de31ab2196!8m2!3d47.5029249!4d19.1602526!16s%2Fg%2F11s43fv069!19sChIJFZVQtc_FQUcRliGrMd7Z_uQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJY_p_Mo7EQUcRLXct7nU_BsQ",
         "name": "Meli Pekseg",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 117,
+        "reviews": 118,
         "competitors": [
             {
                 "name": "Lipoti Pekseg es Kavezo",
                 "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.5059474,19.2036507?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 166,
                 "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Lipoti Pekseg",
-                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g/@47.5061907,19.070657999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
-                "rating": 4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -1014,7 +1030,11 @@
         ],
         "rating": 4.9,
         "workday_timing": "09:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+36 30 686 5460",
         "address": "Budapest, Ohlala kavezo, Imre u. 2, 1165 Xiong Ya Li ",
         "review_keywords": [],
@@ -1059,7 +1079,7 @@
             {
                 "name": "Leroy Cafe Allee",
                 "link": "https://www.google.com/maps/search/Leroy+Caf%C3%A9+Allee/@47.474896,19.048372?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 531,
+                "reviews": 532,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },

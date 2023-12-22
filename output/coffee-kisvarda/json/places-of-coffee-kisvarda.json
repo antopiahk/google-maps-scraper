@@ -71,7 +71,7 @@
             {
                 "name": "Cafe Vya Etterem es Bowling Club",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Vya+%C3%89tterem+%C3%A9s+Bowling+Club/@48.2234894,22.074167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 442,
+                "reviews": 443,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -104,7 +104,7 @@
                 "main_category": "Ka Pei Ji Gong Ying Shang "
             }
         ],
-        "website": "https://m.facebook.com/pages/category/Coffee-Shop/Coffee-Tea-Area-Kisv%C3%A1rda-717243268293739/?locale2=hu_HU",
+        "website": "https://m.facebook.com/pages/category/Coffee-Shop/Coffee-Tea-Area-Kisv%25C3%25A1rda-717243268293739/%3Flocale2%3Dhu_HU",
         "owner": {
             "id": "112645622342839125506",
             "name": "Coffee Tea area (Ye Zhu )",
@@ -117,7 +117,11 @@
         ],
         "rating": 4.9,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": null,
         "address": "Kisvarda, Coffee Tea area, Somogyi Rezso u. 1, 4600 Xiong Ya Li ",
         "review_keywords": [
@@ -127,32 +131,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Coffee+Tea+area/data=!4m7!3m6!1s0x4738ecfb1f777d99:0xc3ee3318dca4a5ab!8m2!3d48.2238721!4d22.0782492!16s%2Fg%2F11b6z2lwzj!19sChIJmX13H_vsOEcRq6Wk3Bgz7sM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJd5OfgSDtOEcRr991qX8uOTc",
-        "name": "Nemzeti Dohanybolt Kisvarda",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 74,
-        "competitors": [],
-        "website": "http://nemzetidohany.hu/",
-        "owner": {
-            "id": null,
-            "name": "Nemzeti Dohanybolt Kisvarda (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPlQGRkDeZ632h2EpiR8t_iglw5mNKSMP1RE3-3=w426-h240-k-no",
-        "main_category": "Yan Cao Dian ",
-        "categories": [
-            "Yan Cao Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Kisvarda, Nemzeti Dohanybolt Kisvarda, Vasut u. 2, 4600 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Nemzeti+Doh%C3%A1nybolt+Kisv%C3%A1rda/data=!4m7!3m6!1s0x4738ed20819f9377:0x37392e7fa975dfaf!8m2!3d48.209219!4d22.0782214!16s%2Fg%2F11c5hy5fg2!19sChIJd5OfgSDtOEcRr991qX8uOTc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJVwMG9_7sOEcRiMzp8GZFX2A",
@@ -445,7 +423,7 @@
             {
                 "name": "Varda Etterem, Etelbar",
                 "link": "https://www.google.com/maps/search/V%C3%A1rda+%C3%89tterem%2C+%C3%89telb%C3%A1r/@48.2252377,22.0780013?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 41,
+                "reviews": 42,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -559,6 +537,62 @@
         "link": "https://www.google.com/maps/place/K%C3%A1v%C3%A9g%C3%A9p+Kisv%C3%A1rda/data=!4m7!3m6!1s0x4738ed03ccc92f8d:0x8f81f28b608e8842!8m2!3d48.223718!4d22.0938209!16s%2Fg%2F11gdt48mgc!19sChIJjS_JzAPtOEcRQoiOYIvygY8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ00jxbfvsOEcRndm-WUNEu7Y",
+        "name": "Poncsak Cukraszda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1061,
+        "competitors": [
+            {
+                "name": "Varda Linzer Bt.",
+                "link": "https://www.google.com/maps/search/V%C3%A1rda+Linzer+Bt./@48.224935099999996,22.078004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 84,
+                "rating": 4.2,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Poncsak",
+                "link": "https://www.google.com/maps/search/Poncs%C3%A1k/@48.209637099999995,22.0876566?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Mini Cukraszda",
+                "link": "https://www.google.com/maps/search/Mini+Cukr%C3%A1szda/@48.2250021,22.078485200000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.3,
+                "main_category": "Tian Pin Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "100333456102031100005",
+            "name": "Poncsak Cukraszda (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/100333456102031100005"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOktSNbU_M3a-PTwQ57kxBq_8oScqx9kwGLPmc2=w408-h544-k-no",
+        "main_category": "Tang Guo Gao Bing Dian ",
+        "categories": [
+            "Tang Guo Gao Bing Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+36 45 410 013",
+        "address": "Kisvarda, Poncsak Cukraszda, Martirok utja 2, 4600 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Bing Qi Lin ",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Poncs%C3%A1k+Cukr%C3%A1szda/data=!4m7!3m6!1s0x4738ecfb6df148d3:0xb6bb444359bed99d!8m2!3d48.2239675!4d22.0793734!16s%2Fg%2F1tfzw7v1!19sChIJ00jxbfvsOEcRndm-WUNEu7Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJzay7uvvsOEcRW5bzeE3CRQc",
         "name": "Green Black Pizza & Gyorsetelek",
         "description": null,
@@ -568,7 +602,7 @@
             {
                 "name": "Madison Pub & Restaurant",
                 "link": "https://www.google.com/maps/search/Madison+Pub+%26+Restaurant/@48.2293839,22.0700508?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1350,
+                "reviews": 1352,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -589,8 +623,8 @@
             {
                 "name": "Re-Call Kft.",
                 "link": "https://www.google.com/maps/search/Re-Call+Kft./@48.2262129,22.0800435?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 73,
-                "rating": 3.9,
+                "reviews": 74,
+                "rating": 4,
                 "main_category": "Mei Shi Guang Chang "
             }
         ],
@@ -739,7 +773,7 @@
             {
                 "name": "Cafe Vya Etterem es Bowling Club",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Vya+%C3%89tterem+%C3%A9s+Bowling+Club/@48.2234894,22.074167?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 442,
+                "reviews": 443,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -970,6 +1004,32 @@
         "link": "https://www.google.com/maps/place/Poncs%C3%A1k+Cukr%C3%A1szda/data=!4m7!3m6!1s0x4738ede9dce93f27:0x44a392f339f6e0ae!8m2!3d48.224811!4d22.0784159!16s%2Fg%2F11rsfcz7kf!19sChIJJz_p3OntOEcRruD2OfOSo0Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJqXeJC5PtOEcR5zU6MJlUwZk",
+        "name": "Spajz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Spajz (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMSCsnTbOEPXSA0OG73x_7CBVy-0MNhjZwjkhI3=w408-h306-k-no",
+        "main_category": "Za Huo Dian ",
+        "categories": [
+            "Za Huo Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Kisvarda, Spajz, Tompos u. 20, 4600 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sp%C3%A1jz/data=!4m7!3m6!1s0x4738ed930b8977a9:0x99c15499303a35e7!8m2!3d48.2226121!4d22.0844869!16s%2Fg%2F11txmpwglr!19sChIJqXeJC5PtOEcR5zU6MJlUwZk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJufDbNEDtOEcRnnlQtUakqy8",
         "name": "BELVAROSI KAVEZO ES GYORSETTEREM",
         "description": null,
@@ -996,60 +1056,5 @@
         "address": "Kisvarda, BELVAROSI KAVEZO ES GYORSETTEREM, Szent Laszlo u. 22, 4600 Xiong Ya Li ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/BELV%C3%81ROSI+K%C3%81V%C3%89Z%C3%93+%C3%89S+GYORS%C3%89TTEREM/data=!4m7!3m6!1s0x4738ed4034dbf0b9:0x2faba446b550799e!8m2!3d48.2247543!4d22.078821!16s%2Fg%2F11v0yfzmcc!19sChIJufDbNEDtOEcRnnlQtUakqy8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJJxgizxXtOEcR3eK7rT-_mBI",
-        "name": "Tempo 5. ABC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Junior ABC",
-                "link": "https://www.google.com/maps/search/Junior+ABC/@48.2200281,22.0807228?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 426,
-                "rating": 4.4,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "Harmasuti ABC - GLS csomagpont",
-                "link": "https://www.google.com/maps/search/H%C3%A1rmas%C3%BAti+ABC+-+GLS+csomagpont/@48.228941999999996,22.0917675?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 90,
-                "rating": 4.4,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Szazszorszep",
-                "link": "https://www.google.com/maps/search/Sz%C3%A1zszorsz%C3%A9p/@48.225816099999996,22.078782699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Market Hus es Csemege",
-                "link": "https://www.google.com/maps/search/Market+H%C3%BAs+%C3%A9s+Csemege/@48.2260657,22.0831226?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "103760288462346359511",
-            "name": "Tempo 5. ABC (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103760288462346359511"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nz1vDZicxqTVVTQkGnafLQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=297.42664&pitch=0&thumbfov=100",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "05:30-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 20 258 2127",
-        "address": "Kisvarda, Tempo 5. ABC, Kolcsey u. 21/A, 4600 Xiong Ya Li ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tempo+5.+ABC/data=!4m7!3m6!1s0x4738ed15cf221827:0x1298bf3fadbbe2dd!8m2!3d48.2190343!4d22.076653!16s%2Fg%2F11hsrswj83!19sChIJJxgizxXtOEcR3eK7rT-_mBI?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

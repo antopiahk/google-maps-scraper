@@ -289,7 +289,7 @@
         "name": "Bamboo Cottage",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 105,
+        "reviews": 106,
         "competitors": [
             {
                 "name": "The ddhaabaa Hub",
@@ -1077,6 +1077,32 @@
         "link": "https://www.google.com/maps/place/Lalbabu+Online+Centre/data=!4m7!3m6!1s0x39ec53752531cb29:0x656ab4f207bb8639!8m2!3d26.4341407!4d85.765816!16s%2Fg%2F11fj7ctsx3!19sChIJKcsxJXVT7DkROYa7B_K0amU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJVazHT5hR7DkROdUGdCPXBDU",
+        "name": "Tea palace",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Tea palace (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMH48ttRPBRWUFjuQN2rCrgcUy_BYF_IRKV7wic=w408-h725-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-18:30",
+        "closed_on": "Open All Days",
+        "phone": "+91 90108 13219",
+        "address": "FP96+P5C Tea palace, Singiyahi Rd, Pupri, Jaitpur, Bihar 843320Yin Du ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tea+palace/data=!4m7!3m6!1s0x39ec51984fc7ac55:0x3504d7237406d539!8m2!3d26.4693164!4d85.7103998!16s%2Fg%2F11kq32d99r!19sChIJVazHT5hR7DkROdUGdCPXBDU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJvYhj1k1R7DkRXKqNAErqqWU",
         "name": "CHAI SAI HO JAI",
         "description": null,
@@ -1101,32 +1127,6 @@
         "address": "CHAI SAI HO JAI, Jhajhihat Road, pupri, Janakpur Road, Bihar 843320Yin Du ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/CHAI+SAI+HO+JAI/data=!4m7!3m6!1s0x39ec514dd66388bd:0x65a9ea4a008daa5c!8m2!3d26.4668142!4d85.7055419!16s%2Fg%2F11tx7y8s4d!19sChIJvYhj1k1R7DkRXKqNAErqqWU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJVazHT5hR7DkROdUGdCPXBDU",
-        "name": "Tea palace",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tea palace (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMH48ttRPBRWUFjuQN2rCrgcUy_BYF_IRKV7wic=w408-h725-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "07:00-18:30",
-        "closed_on": "Open All Days",
-        "phone": "+91 90108 13219",
-        "address": "FP96+P5C Tea palace, Singiyahi Rd, Pupri, Jaitpur, Bihar 843320Yin Du ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tea+palace/data=!4m7!3m6!1s0x39ec51984fc7ac55:0x3504d7237406d539!8m2!3d26.4693164!4d85.7103998!16s%2Fg%2F11kq32d99r!19sChIJVazHT5hR7DkROdUGdCPXBDU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJU8e0sw1X7DkR4pBDiLlcUpI",
@@ -1309,18 +1309,18 @@
         "reviews": 1,
         "competitors": [
             {
+                "name": "Gauri chatti chauk",
+                "link": "https://www.google.com/maps/search/Gauri+chatti+chauk/@26.413143599999998,85.626716?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 3,
+                "main_category": "Cha Yi Guan "
+            },
+            {
                 "name": "Chai shai ho jaye",
                 "link": "https://www.google.com/maps/search/Chai+shai+ho+jaye/@26.4669482,85.7052846?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 7,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Gauri chatti chauk",
-                "link": "https://www.google.com/maps/search/Gauri+chatti+chauk/@26.413143599999998,85.626716?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 2.9,
-                "main_category": "Cha Yi Guan "
             }
         ],
         "website": null,

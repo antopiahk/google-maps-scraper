@@ -9,14 +9,14 @@
             {
                 "name": "Palma Cukraszda",
                 "link": "https://www.google.com/maps/search/P%C3%A1lma+Cukr%C3%A1szda/@46.7645712,17.2355833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 790,
+                "reviews": 791,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
             {
                 "name": "Pajti",
                 "link": "https://www.google.com/maps/search/Pajti/@46.7661534,17.2445412?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 753,
+                "reviews": 755,
                 "rating": 4.8,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -101,7 +101,7 @@
         "name": "Macchiato Caffe & Lounge",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1759,
+        "reviews": 1760,
         "competitors": [
             {
                 "name": "Cafe Relax - Kavezo",
@@ -113,7 +113,7 @@
             {
                 "name": "Sissy Kavezo es Fagylaltozo",
                 "link": "https://www.google.com/maps/search/Sissy+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Fagylaltoz%C3%B3/@46.7888777,17.1905486?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 259,
+                "reviews": 267,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -196,12 +196,12 @@
         "name": "Kocsag sutibolt - Cukraszda es Kavezo, Sutemeny, Fagyi, Sos Sutemeny",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 964,
+        "reviews": 965,
         "competitors": [
             {
                 "name": "Palma Cukraszda",
                 "link": "https://www.google.com/maps/search/P%C3%A1lma+Cukr%C3%A1szda/@46.7645712,17.2355833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 790,
+                "reviews": 791,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -257,7 +257,7 @@
         "review_keywords": [
             {
                 "keyword": "Jia Ge ",
-                "count": 8
+                "count": 9
             },
             {
                 "keyword": "Xuan Ze ",
@@ -271,7 +271,7 @@
         "name": "Korzo Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 631,
+        "reviews": 632,
         "competitors": [
             {
                 "name": "Tulipan Kavehaz",
@@ -316,7 +316,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+36 83 311 785",
         "address": "Keszthely, Korzo Cafe, Kossuth Lajos u. 7, 8360 Xiong Ya Li ",
         "review_keywords": [
@@ -431,7 +433,7 @@
             {
                 "name": "Pajti",
                 "link": "https://www.google.com/maps/search/Pajti/@46.7661534,17.2445412?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 753,
+                "reviews": 755,
                 "rating": 4.8,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -482,6 +484,132 @@
         "link": "https://www.google.com/maps/place/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/data=!4m7!3m6!1s0x4768e2a17792b047:0x25eec0b9e01a5433!8m2!3d46.7636148!4d17.2429354!16s%2Fg%2F1q4knbjsy!19sChIJR7CSd6HiaEcRM1Qa4LnA7iU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJDxda6NDjaEcRTfCGj0WaQ0U",
+        "name": "Madarlatta Pekseg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 139,
+        "competitors": [
+            {
+                "name": "Lipoti Pekseg es Kavezo",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@46.763614800000006,17.2429354?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 318,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Bogotei Pekseg",
+                "link": "https://www.google.com/maps/search/B%C3%B6g%C3%B6tei+P%C3%A9ks%C3%A9g/@46.7664471,17.2425186?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Komaromy Pekseg Szakuzlet Bercsenyi Utca (Bejarat Rozsa Utca Felol)",
+                "link": "https://www.google.com/maps/search/Kom%C3%A1romy+P%C3%A9ks%C3%A9g+Szak%C3%BCzlet+Bercs%C3%A9nyi+Utca+%28Bej%C3%A1rat+R%C3%B3zsa+Utca+Fel%C3%B6l%29/@46.7579808,17.2379458?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Kalacskucko",
+                "link": "https://www.google.com/maps/search/Kal%C3%A1cskuck%C3%B3/@46.7664937,17.2406655?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "https://madarlattapekseg.hu/",
+        "owner": {
+            "id": "112314890326542865028",
+            "name": "Madarlatta Pekseg (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112314890326542865028"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO98jyVrQ33xIL5gzLaG2PQN1b6SdLpJF-cvuM=w408-h612-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 813 9872",
+        "address": "Keszthely, Madarlatta Pekseg, Kossuth Lajos u. 39, 8360 Xiong Ya Li ",
+        "review_keywords": [
+            {
+                "keyword": "Ka Pei ",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mad%C3%A1rl%C3%A1tta+P%C3%A9ks%C3%A9g/data=!4m7!3m6!1s0x4768e3d0e85a170f:0x45439a458f86f04d!8m2!3d46.765318!4d17.242526!16s%2Fg%2F11q4gwpy7s!19sChIJDxda6NDjaEcRTfCGj0WaQ0U?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJqwyKrEodaUcRqUme1p2df1k",
+        "name": "Komaromy Pekseg Szakuzlet Zsidi Ut",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 91,
+        "competitors": [
+            {
+                "name": "Lipoti Pekseg es Kavezo",
+                "link": "https://www.google.com/maps/search/Lip%C3%B3ti+P%C3%A9ks%C3%A9g+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@46.763614800000006,17.2429354?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 318,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Hosszu Pekseg",
+                "link": "https://www.google.com/maps/search/Hossz%C3%BA+P%C3%A9ks%C3%A9g/@46.768966999999996,17.2479409?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 258,
+                "rating": 4.6,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Komaromy Pekseg Szakuzlet Piac Ter",
+                "link": "https://www.google.com/maps/search/Kom%C3%A1romy+P%C3%A9ks%C3%A9g+Szak%C3%BCzlet+Piac+T%C3%A9r/@46.766281500000005,17.2469239?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 255,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Madarlatta Pekseg",
+                "link": "https://www.google.com/maps/search/Mad%C3%A1rl%C3%A1tta+P%C3%A9ks%C3%A9g/@46.765318,17.242525999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 139,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Bogotei Pekseg",
+                "link": "https://www.google.com/maps/search/B%C3%B6g%C3%B6tei+P%C3%A9ks%C3%A9g/@46.7664471,17.2425186?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://www.komaromypekseg.hu/",
+        "owner": {
+            "id": "115037123783110576466",
+            "name": "Komaromy Pekseg Szakuzlet Zsidi Ut (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115037123783110576466"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTCk-lLyi1Wsx5uTy1TC_WiMaT6gNQ203ixVQK=w426-h240-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 846 3073",
+        "address": "Keszthely, Komaromy Pekseg Szakuzlet Zsidi Ut, Zsidi ut 3, 8360 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kom%C3%A1romy+P%C3%A9ks%C3%A9g+Szak%C3%BCzlet+Zsidi+%C3%9At/data=!4m7!3m6!1s0x47691d4aac8a0cab:0x597f9d9dd69e49a9!8m2!3d46.7740285!4d17.2517192!16s%2Fg%2F11fjtnv9_8!19sChIJqwyKrEodaUcRqUme1p2df1k?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJbd_nvv_jaEcRQlxuQRAeGvo",
         "name": "BlerJo Bistro",
         "description": null,
@@ -491,14 +619,14 @@
             {
                 "name": "Jobarat Vendeglo",
                 "link": "https://www.google.com/maps/search/J%C3%B3bar%C3%A1t+Vend%C3%A9gl%C5%91/@46.771638599999996,17.2588442?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3925,
+                "reviews": 3926,
                 "rating": 4.6,
                 "main_category": "Xiong Ya Li Cai "
             },
             {
                 "name": "John's Pub Keszthely - Bar & Kitchen",
                 "link": "https://www.google.com/maps/search/John%27s+Pub+Keszthely+-+Bar+%26+Kitchen/@46.763019199999995,17.2428954?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2112,
+                "reviews": 2114,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -510,16 +638,9 @@
                 "main_category": "Xian Dai Ou Zhou Liao Li "
             },
             {
-                "name": "Green Magic Cafe & Snack",
-                "link": "https://www.google.com/maps/search/Green+Magic+Cafe+%26+Snack/@46.7669771,17.2427687?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 332,
-                "rating": 3.4,
-                "main_category": "Yi Shi Bo Bing "
-            },
-            {
                 "name": "Ti Ti Bistro - Gyorsetterem",
                 "link": "https://www.google.com/maps/search/Ti+Ti+Bistro+-+Gyors%C3%A9tterem/@46.777229,17.241387?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 77,
+                "reviews": 78,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             }
@@ -568,7 +689,7 @@
             {
                 "name": "Madarlatta Pekseg",
                 "link": "https://www.google.com/maps/search/Mad%C3%A1rl%C3%A1tta+P%C3%A9ks%C3%A9g/@46.765318,17.242525999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 138,
+                "reviews": 139,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -625,7 +746,7 @@
             },
             {
                 "name": "DXN Ganodermas kave",
-                "link": "https://www.google.com/maps/search/DXN+Ganodermas+k%C3%A1v%C3%A9/@46.835759499999995,17.2206647?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/DXN+Ganodermas+k%C3%A1v%C3%A9/@46.8357976,17.2206608?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 3,
                 "rating": 5,
                 "main_category": "Ka Pei Ting "
@@ -672,19 +793,19 @@
         "name": "Pajti",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 754,
+        "reviews": 755,
         "competitors": [
             {
                 "name": "Tompos Restaurant",
                 "link": "https://www.google.com/maps/search/Tompos+Restaurant/@46.770341599999995,17.2697871?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3634,
+                "reviews": 3640,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "John's Pub Keszthely - Bar & Kitchen",
                 "link": "https://www.google.com/maps/search/John%27s+Pub+Keszthely+-+Bar+%26+Kitchen/@46.763019199999995,17.2428954?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2112,
+                "reviews": 2114,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -784,7 +905,7 @@
             {
                 "name": "Korzo Cafe",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+Caf%C3%A9/@46.7679078,17.2423362?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 631,
+                "reviews": 632,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -874,8 +995,8 @@
             {
                 "name": "No1 Biliard & Darts Szalon es Pizzeria",
                 "link": "https://www.google.com/maps/search/No1+Bili%C3%A1rd+%26+Darts+Szalon+%C3%A9s+Pizz%C3%A9ria/@46.7682425,17.2383709?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 809,
-                "rating": 4.2,
+                "reviews": 812,
+                "rating": 4.3,
                 "main_category": "Yi Shi Bo Bing "
             },
             {
@@ -899,7 +1020,7 @@
             "Can Ting "
         ],
         "rating": 3.4,
-        "workday_timing": "09:00-22:00",
+        "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": "+36 83 312 173",
         "address": "Keszthely, Green Magic Cafe & Snack, Kossuth Lajos u. 18, 8360 Xiong Ya Li ",
@@ -1003,7 +1124,7 @@
             {
                 "name": "Palma Cukraszda",
                 "link": "https://www.google.com/maps/search/P%C3%A1lma+Cukr%C3%A1szda/@46.7645712,17.2355833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 790,
+                "reviews": 791,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -1118,7 +1239,7 @@
             {
                 "name": "Korzo Cafe",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+Caf%C3%A9/@46.7679078,17.2423362?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 631,
+                "reviews": 632,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1171,6 +1292,74 @@
         "link": "https://www.google.com/maps/place/Sziget+Caf%C3%A9/data=!4m7!3m6!1s0x4768e2ae4a39a0a5:0x2289271938148bb8!8m2!3d46.7575791!4d17.2534449!16s%2Fg%2F11cn92q9fk!19sChIJpaA5Sq7iaEcRuIsUOBkniSI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJM81I1fHjaEcR-I3TKtjNUck",
+        "name": "Borbely & Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 67,
+        "competitors": [
+            {
+                "name": "Qubee Barbershop",
+                "link": "https://www.google.com/maps/search/Qubee+Barbershop/@46.772720799999995,17.2583692?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 4.8,
+                "main_category": "Fa Lang "
+            },
+            {
+                "name": "Hair Salon",
+                "link": "https://www.google.com/maps/search/Hair+Salon/@46.766451499999995,17.241806999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 46,
+                "rating": 4.8,
+                "main_category": "Fa Lang "
+            },
+            {
+                "name": "DreamHair Keszthely",
+                "link": "https://www.google.com/maps/search/DreamHair+Keszthely/@46.7680273,17.2392449?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4.6,
+                "main_category": "Li Fa Shi "
+            },
+            {
+                "name": "Rakoczi Fodraszat",
+                "link": "https://www.google.com/maps/search/R%C3%A1k%C3%B3czi+Fodr%C3%A1szat/@46.7669157,17.241888799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 5,
+                "main_category": "Fa Lang "
+            },
+            {
+                "name": "HOFFMAN'S BARBER",
+                "link": "https://www.google.com/maps/search/HOFFMAN%E2%80%99S+BARBER/@46.7650893,17.2361514?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 24,
+                "rating": 4.8,
+                "main_category": "Nan Shi Li Fa Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "108878682428050150384",
+            "name": "Borbely & Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108878682428050150384"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNuuGRc3OrZlKgx--33_HiuGbvtlocdMI0mEno=w408-h544-k-no",
+        "main_category": "Nan Shi Li Fa Dian ",
+        "categories": [
+            "Nan Shi Li Fa Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+36 30 181 8334",
+        "address": "Keszthely, Borbely & Cafe, Bercsenyi Miklos u. 18, 8360 Xiong Ya Li ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Borb%C3%A9ly+%26+Cafe/data=!4m7!3m6!1s0x4768e3f1d548cd33:0xc951cdd82ad38df8!8m2!3d46.7602693!4d17.2385275!16s%2Fg%2F11fp3p_m7_!19sChIJM81I1fHjaEcR-I3TKtjNUck?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJw18A6t_jaEcRdm-KwkUxjYE",
         "name": "Caffe Arco",
         "description": null,
@@ -1180,7 +1369,7 @@
             {
                 "name": "Korzo Cafe",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+Caf%C3%A9/@46.7679078,17.2423362?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 631,
+                "reviews": 632,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1304,73 +1493,6 @@
         "link": "https://www.google.com/maps/place/Eis+Caffe+Salon/data=!4m7!3m6!1s0x4768e2af9e62a279:0x7344db0a45deb75d!8m2!3d46.7587257!4d17.2515689!16s%2Fg%2F11c1t5r6zy!19sChIJeaJinq_iaEcRXbfeRQrbRHM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ5Z8v2e4daUcR5PG2d0EEYuI",
-        "name": "Corso Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 52,
-        "competitors": [
-            {
-                "name": "Macchiato Caffe & Lounge",
-                "link": "https://www.google.com/maps/search/Macchiato+Caffe+%26+Lounge/@46.7904868,17.1910305?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1759,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Rozsakert Etterem es Fagyizo",
-                "link": "https://www.google.com/maps/search/R%C3%B3zsakert+%C3%89tterem+%C3%A9s+Fagyiz%C3%B3/@46.788222999999995,17.1896436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1423,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Sissy Kavezo es Fagylaltozo",
-                "link": "https://www.google.com/maps/search/Sissy+K%C3%A1v%C3%A9z%C3%B3+%C3%A9s+Fagylaltoz%C3%B3/@46.7888777,17.1905486?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 259,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Eiscafe Cappuccino Kavehaz",
-                "link": "https://www.google.com/maps/search/Eiscafe+Cappuccino+K%C3%A1v%C3%A9h%C3%A1z/@46.7902487,17.191336?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "MCaffe",
-                "link": "https://www.google.com/maps/search/MCaff%C3%A9/@46.7816678,17.1882016?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Corso Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOPXCKye6H9PYZ417mHMwU3biXdxbGMNwQMNCdO=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+36 70 953 3516",
-        "address": "Heviz, Corso Cafe, Rakoczi u. 5, 8380 Xiong Ya Li ",
-        "review_keywords": [
-            {
-                "keyword": "Dan Gao ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Corso+Cafe/data=!4m7!3m6!1s0x47691deed92f9fe5:0xe262044177b6f1e4!8m2!3d46.7901726!4d17.1891806!16s%2Fg%2F11fxvd2rdb!19sChIJ5Z8v2e4daUcR5PG2d0EEYuI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJAQuTzV4daUcR1bCeyEuGBLc",
         "name": "Bohem Tanya",
         "description": null,
@@ -1387,7 +1509,7 @@
             {
                 "name": "Pajti",
                 "link": "https://www.google.com/maps/search/Pajti/@46.7661534,17.2445412?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 753,
+                "reviews": 755,
                 "rating": 4.8,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -1484,14 +1606,14 @@
             {
                 "name": "Kocsag sutibolt - Cukraszda es Kavezo, Sutemeny, Fagyi, Sos Sutemeny",
                 "link": "https://www.google.com/maps/search/K%C3%B3csag+s%C3%BCtibolt+-+Cukr%C3%A1szda+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3%2C+S%C3%BCtem%C3%A9ny%2C+Fagyi%2C+S%C3%B3s+S%C3%BCtem%C3%A9ny/@46.762822199999995,17.238322999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 963,
+                "reviews": 965,
                 "rating": 4.7,
                 "main_category": "Bing Gan "
             },
             {
                 "name": "Palma Cukraszda",
                 "link": "https://www.google.com/maps/search/P%C3%A1lma+Cukr%C3%A1szda/@46.7645712,17.2355833?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 790,
+                "reviews": 791,
                 "rating": 4.5,
                 "main_category": "Tian Pin Dian "
             },
@@ -1546,7 +1668,7 @@
             {
                 "name": "Kocsag sutibolt - Cukraszda es Kavezo, Sutemeny, Fagyi, Sos Sutemeny",
                 "link": "https://www.google.com/maps/search/K%C3%B3csag+s%C3%BCtibolt+-+Cukr%C3%A1szda+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3%2C+S%C3%BCtem%C3%A9ny%2C+Fagyi%2C+S%C3%B3s+S%C3%BCtem%C3%A9ny/@46.762822199999995,17.238322999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 963,
+                "reviews": 965,
                 "rating": 4.7,
                 "main_category": "Bing Gan "
             },
@@ -1601,7 +1723,7 @@
             {
                 "name": "Korzo Cafe",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+Caf%C3%A9/@46.7679078,17.2423362?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 631,
+                "reviews": 632,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1663,7 +1785,7 @@
             {
                 "name": "Korzo Cafe",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+Caf%C3%A9/@46.7679078,17.2423362?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 631,
+                "reviews": 632,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1725,7 +1847,7 @@
             {
                 "name": "Korzo Cafe",
                 "link": "https://www.google.com/maps/search/Korz%C3%B3+Caf%C3%A9/@46.7679078,17.2423362?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 631,
+                "reviews": 632,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1904,7 +2026,7 @@
             {
                 "name": "Pajti",
                 "link": "https://www.google.com/maps/search/Pajti/@46.7661534,17.2445412?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 753,
+                "reviews": 755,
                 "rating": 4.8,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -2047,7 +2169,7 @@
             {
                 "name": "Pajti",
                 "link": "https://www.google.com/maps/search/Pajti/@46.7661534,17.2445412?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 753,
+                "reviews": 755,
                 "rating": 4.8,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -2128,7 +2250,7 @@
             {
                 "name": "Municipal Hospital of Keszthely",
                 "link": "https://www.google.com/maps/search/Municipal+Hospital+of+Keszthely/@46.7690646,17.2518395?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 193,
+                "reviews": 194,
                 "rating": 2.6,
                 "main_category": "Yi Yuan "
             },
@@ -2190,7 +2312,7 @@
             {
                 "name": "Pajti",
                 "link": "https://www.google.com/maps/search/Pajti/@46.7661534,17.2445412?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 753,
+                "reviews": 755,
                 "rating": 4.8,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
