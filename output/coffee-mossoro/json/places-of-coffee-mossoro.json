@@ -9,7 +9,7 @@
             {
                 "name": "Doces & Salgados",
                 "link": "https://www.google.com/maps/search/Doces+%26+Salgados/@-5.1899071999999995,-37.3394115?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1238,
+                "reviews": 1239,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -23,7 +23,7 @@
             {
                 "name": "Gelice Sorvetes",
                 "link": "https://www.google.com/maps/search/Gelice+Sorvetes/@-5.177204199999999,-37.335656799999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
+                "reviews": 152,
                 "rating": 4.6,
                 "main_category": "Sheng Dai Can Ting "
             },
@@ -98,7 +98,7 @@
             {
                 "name": "Good Sweet - Av Rio Branco.",
                 "link": "https://www.google.com/maps/search/Good+Sweet+-+Av+Rio+Branco./@-5.1906254999999994,-37.3460825?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1268,
+                "reviews": 1270,
                 "rating": 4.7,
                 "main_category": "Sheng Dai Can Ting "
             },
@@ -194,7 +194,7 @@
         "name": "Padaria Pao Nosso",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1057,
+        "reviews": 1058,
         "competitors": [
             {
                 "name": "Panificadora 2001",
@@ -255,6 +255,10 @@
                 "count": 70
             },
             {
+                "keyword": "Jia Ge ",
+                "count": 52
+            },
+            {
                 "keyword": "Wu Can ",
                 "count": 17
             },
@@ -263,15 +267,15 @@
                 "count": 12
             },
             {
+                "keyword": "Tang ",
+                "count": 6
+            },
+            {
                 "keyword": "Xiao Chi ",
                 "count": 6
             },
             {
                 "keyword": "Chi Dao Bao ",
-                "count": 5
-            },
-            {
-                "keyword": "Tang ",
                 "count": 5
             },
             {
@@ -383,7 +387,7 @@
             {
                 "name": "Rustcafe",
                 "link": "https://www.google.com/maps/search/Rustcaf%C3%A9/@-5.1917649,-37.3436434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
+                "reviews": 143,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -465,7 +469,7 @@
             {
                 "name": "Rustcafe",
                 "link": "https://www.google.com/maps/search/Rustcaf%C3%A9/@-5.1917649,-37.3436434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
+                "reviews": 143,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -562,7 +566,7 @@
         "name": "Rustcafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 142,
+        "reviews": 143,
         "competitors": [
             {
                 "name": "Delicia Cafe",
@@ -614,8 +618,10 @@
             "Zheng Liu Ka Pei Ba "
         ],
         "rating": 4.4,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
         "phone": "+55 84 98759-7370",
         "address": "Rustcafe - R. Francisco Isodio, 123 - Centro, Mossoro - RN, 59600-140Ba Xi ",
         "review_keywords": [
@@ -635,7 +641,7 @@
         "name": "Maloca Food Cake",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 98,
+        "reviews": 99,
         "competitors": [
             {
                 "name": "Chamego Doce",
@@ -693,7 +699,7 @@
         "name": "Cacau Show",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 66,
+        "reviews": 67,
         "competitors": [
             {
                 "name": "Skinao dos Bombons",
@@ -752,7 +758,7 @@
             {
                 "name": "Rustcafe",
                 "link": "https://www.google.com/maps/search/Rustcaf%C3%A9/@-5.1917649,-37.3436434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
+                "reviews": 143,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -816,7 +822,7 @@
             {
                 "name": "Varanda Cafe Bistro",
                 "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 166,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -1166,9 +1172,9 @@
         "rating": 4.9,
         "workday_timing": "07:30-12:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+55 84 98832-5112",
         "address": "GOMA PURA - Av. Dix-Sept Rosado, 122 - Centro, Mossoro - RN, 59600-060Ba Xi ",
@@ -1259,7 +1265,7 @@
             {
                 "name": "Varanda Cafe Bistro",
                 "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 166,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -1316,7 +1322,7 @@
             {
                 "name": "Doces & Salgados",
                 "link": "https://www.google.com/maps/search/Doces+%26+Salgados/@-5.1899071999999995,-37.3394115?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1238,
+                "reviews": 1239,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -1444,7 +1450,7 @@
         "is_spending_on_ads": false,
         "reviews": 9,
         "competitors": [],
-        "website": "https://app.vaidevina.com.br/%23/aconchego",
+        "website": "https://app.vaidevina.com.br/#/aconchego",
         "owner": {
             "id": "107457457213709744936",
             "name": "Aconchego Cafeteria & Bistro (Ye Zhu )",
@@ -1545,7 +1551,7 @@
             {
                 "name": "Cacau Show",
                 "link": "https://www.google.com/maps/search/Cacau+Show/@-5.1938439999999995,-37.343469999999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
+                "reviews": 67,
                 "rating": 4.5,
                 "main_category": "Qiao Ke Li Gong Chang "
             },
@@ -1785,8 +1791,8 @@
         "rating": 5,
         "workday_timing": "15:00-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 84 99629-5653",
         "address": "Carmorita Cafe - Rua Frei Miguelinho, 1270 - Nova Betania, Mossoro - RN, 59607-250Ba Xi ",
@@ -1965,8 +1971,8 @@
         "rating": null,
         "workday_timing": "13:00-18:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 84 99961-4282",
         "address": "SR Pamonharia - R. Chico Linhares, 45 - Alto de Sao Manoel, Mossoro - RN, 59631-100Ba Xi ",
@@ -2016,7 +2022,7 @@
                 "main_category": "Fa Lu Fu Wu "
             }
         ],
-        "website": "https://www.linkedin.com/in/samir-albuquerque-5002b55b%3Ftrk%3Dnav_responsive_tab_profile",
+        "website": "https://www.linkedin.com/in/samir-albuquerque-5002b55b?trk=nav_responsive_tab_profile",
         "owner": {
             "id": null,
             "name": "Samir Albuquerque, Assessoria e Consultoria Juridica (Ye Zhu )",
@@ -2073,7 +2079,7 @@
             {
                 "name": "Pao & Sabor Padaria",
                 "link": "https://www.google.com/maps/search/P%C3%A3o+%26+Sabor+Padaria/@-5.215402999999999,-37.3369241?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 123,
+                "reviews": 124,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             }
@@ -2144,7 +2150,7 @@
             {
                 "name": "Rustcafe",
                 "link": "https://www.google.com/maps/search/Rustcaf%C3%A9/@-5.1917649,-37.3436434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
+                "reviews": 143,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -2310,7 +2316,7 @@
         "name": "Varanda Cafe Bistro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 165,
+        "reviews": 167,
         "competitors": [
             {
                 "name": "Delicia Cafe",
@@ -2393,6 +2399,10 @@
             {
                 "keyword": "She Ying ",
                 "count": 3
+            },
+            {
+                "keyword": "Qi Si ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Varanda+Caf%C3%A9+Bistr%C3%B4/data=!4m7!3m6!1s0x7ba07d937af7583:0x6c8af5d989e2e7cf!8m2!3d-5.1817845!4d-37.3620384!16s%2Fg%2F11h_1kvkbq!19sChIJg3WvN9kHugcRz-fiidn1imw?authuser=0&hl=zh-TW&rclk=1"
@@ -2402,7 +2412,7 @@
         "name": "Panificadora Cafe Com Pao",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 108,
+        "reviews": 107,
         "competitors": [
             {
                 "name": "Panificadora Bezerra",
@@ -2459,11 +2469,11 @@
         "review_keywords": [
             {
                 "keyword": "Chan Pin ",
-                "count": 8
+                "count": 7
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 6
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Panificadora+Caf%C3%A9+Com+P%C3%A3o/data=!4m7!3m6!1s0x7ba07d99c235def:0x8d75dc19fc7e24df!8m2!3d-5.2361533!4d-37.3268072!16s%2Fg%2F11g87bkdym!19sChIJ710jnNkHugcR3yR-_BncdY0?authuser=0&hl=zh-TW&rclk=1"
@@ -2679,7 +2689,7 @@
             {
                 "name": "Varanda Cafe Bistro",
                 "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 166,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2756,7 +2766,7 @@
             {
                 "name": "Panificadora Cafe Com Pao",
                 "link": "https://www.google.com/maps/search/Panificadora+Caf%C3%A9+Com+P%C3%A3o/@-5.2361533,-37.3268072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 108,
+                "reviews": 107,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2816,7 +2826,7 @@
             {
                 "name": "Panificadora Cafe Com Pao",
                 "link": "https://www.google.com/maps/search/Panificadora+Caf%C3%A9+Com+P%C3%A3o/@-5.2361533,-37.3268072?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 108,
+                "reviews": 107,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2866,12 +2876,12 @@
         "name": "G&M Doces e Salgados",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 37,
+        "reviews": 38,
         "competitors": [
             {
                 "name": "Doces & Salgados",
                 "link": "https://www.google.com/maps/search/Doces+%26+Salgados/@-5.1899071999999995,-37.3394115?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1238,
+                "reviews": 1239,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2925,7 +2935,7 @@
         "review_keywords": [
             {
                 "keyword": "Dan Gao ",
-                "count": 5
+                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/G%26M+Doces+e+Salgados/data=!4m7!3m6!1s0x7ba075b202f1743:0x4ecfd591b8ad4799!8m2!3d-5.2017997!4d-37.3385123!16s%2Fg%2F11tj9cwvrn!19sChIJQxcvIFsHugcRmUetuJHVz04?authuser=0&hl=zh-TW&rclk=1"
@@ -3058,6 +3068,75 @@
         "link": "https://www.google.com/maps/place/Shake+Espa%C3%A7o+Vida+Saud%C3%A1vel+Paula+Herbalife/data=!4m7!3m6!1s0x7ba06e0c4385283:0xde8c04f4cc347e7d!8m2!3d-5.1885256!4d-37.3444238!16s%2Fg%2F11fzy77gsp!19sChIJg1I4xOAGugcRfX40zPQEjN4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJpZkvBHIHugcRPQ190sPe2pA",
+        "name": "Donuts joy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "competitors": [
+            {
+                "name": "Delicias do Trigo",
+                "link": "https://www.google.com/maps/search/Del%C3%ADcias+do+Trigo/@-5.1981703,-37.3182711?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 107,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Rose's Donuts & Cookies",
+                "link": "https://www.google.com/maps/search/Rose%27s+Donuts+%26+Cookies/@-5.1835485,-37.3635866?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 5,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Point do sorvete",
+                "link": "https://www.google.com/maps/search/Point+do+sorvete/@-5.121068999999999,-37.3313786?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Delicias da sol Mossoro",
+                "link": "https://www.google.com/maps/search/Del%C3%ADcias+da+sol+Mossor%C3%B3/@-5.2096789,-37.3379106?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Xi Bing Dian "
+            },
+            {
+                "name": "Flor do Sertao Confeitaria",
+                "link": "https://www.google.com/maps/search/Flor+do+Sert%C3%A3o+Confeitaria/@-5.178519,-37.3913236?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Tang Guo Gao Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "109957309709422542684",
+            "name": "Donuts joy (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109957309709422542684"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOe1v3Maf1clgVVc-3T6xwUxWfPz2_5WI6FyIbN=w408-h306-k-no",
+        "main_category": "Dong Shuai Dian ",
+        "categories": [
+            "Dong Shuai Dian "
+        ],
+        "rating": 4.9,
+        "workday_timing": "12:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+55 84 99817-1936",
+        "address": "Donuts joy - Av. Alberto Maranhao, 1195 - Centro, Mossoro - RN, 59600-295Ba Xi ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Donuts+joy/data=!4m7!3m6!1s0x7ba0772042f99a5:0x90dadec3d27d0d3d!8m2!3d-5.1963348!4d-37.3475136!16s%2Fg%2F11fmrqpdf0!19sChIJpZkvBHIHugcRPQ190sPe2pA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJmW0aee4GugcRamppZDRvQIU",
         "name": "Manoel Cirilo 592",
         "description": null,
@@ -3176,8 +3255,8 @@
         "rating": 4.3,
         "workday_timing": "07:00-21:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Nossa Banca Conveniencia - R. Ferreira Itajuba - Santo Antonio, Mossoro - RN, 59611-495Ba Xi ",
@@ -3416,8 +3495,8 @@
         "rating": 4.5,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 84 98828-3974",
         "address": "Mix Cafe - R. Roderick Grandal, 30 - Centro, Mossoro - RN, 59610-240Ba Xi ",
@@ -3487,6 +3566,70 @@
         "link": "https://www.google.com/maps/place/Sert%C3%A3o+Sorveteria/data=!4m7!3m6!1s0x7ba0799fde78f97:0xceb2bba021c3611d!8m2!3d-5.1976625!4d-37.356001!16s%2Fg%2F11ftmjvt0p!19sChIJl4_n_ZkHugcRHWHDIaC7ss4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJsRn5OpQHugcREh6dB6Qi4AU",
+        "name": "Dona Rose Cafeteria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [
+            {
+                "name": "Delicia Cafe",
+                "link": "https://www.google.com/maps/search/Del%C3%ADcia+Caf%C3%A9/@-5.1932,-37.342777?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 530,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Mossoro Cafe",
+                "link": "https://www.google.com/maps/search/Mossor%C3%B3+Caf%C3%A9/@-5.1923353,-37.338476299999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 257,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Varanda Cafe Bistro",
+                "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 166,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee & Cake",
+                "link": "https://www.google.com/maps/search/Coffee+%26+Cake/@-5.1843552,-37.3401891?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 3.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Cafe Boulevard",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Boulevard/@-5.1939866,-37.3454425?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3.5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "116353116882589135782",
+            "name": "Dona Rose Cafeteria (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116353116882589135782"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOru8dzV1KBEaefQzvt6EBXz5i3PC-c40HZ_ibE=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "14:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 84 98818-6448",
+        "address": "Dona Rose Cafeteria - R. Cordelia Silva, 50 - Santo Antonio, Mossoro - RN, 59619-400Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dona+Rose+Cafeteria/data=!4m7!3m6!1s0x7ba07943af919b1:0x5e022a4079d1e12!8m2!3d-5.1766946!4d-37.3430981!16s%2Fg%2F11spwc4hy3!19sChIJsRn5OpQHugcREh6dB6Qi4AU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJA2PKmqoHugcRU2di6ziXklg",
         "name": "Casa do Cafe do Pr. Leandro",
         "description": null,
@@ -3543,80 +3686,16 @@
         "rating": 4.7,
         "workday_timing": "09:00-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi San ",
             "Xing Qi Si ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Casa do Cafe do Pr. Leandro - R. Raimundo Guilherme, 64 - Vingt Rosado, Mossoro - RN, 59626-630Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Casa+do+Caf%C3%A9+do+Pr.+Leandro/data=!4m7!3m6!1s0x7ba07aa9aca6303:0x58929738eb626753!8m2!3d-5.202619!4d-37.3050776!16s%2Fg%2F11j0j6khmc!19sChIJA2PKmqoHugcRU2di6ziXklg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJsRn5OpQHugcREh6dB6Qi4AU",
-        "name": "Dona Rose Cafeteria",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Delicia Cafe",
-                "link": "https://www.google.com/maps/search/Del%C3%ADcia+Caf%C3%A9/@-5.1932,-37.342777?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 530,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Mossoro Cafe",
-                "link": "https://www.google.com/maps/search/Mossor%C3%B3+Caf%C3%A9/@-5.1923353,-37.338476299999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 257,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Varanda Cafe Bistro",
-                "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
-                "rating": 4.4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee & Cake",
-                "link": "https://www.google.com/maps/search/Coffee+%26+Cake/@-5.1843552,-37.3401891?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 3.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Boulevard",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Boulevard/@-5.1939866,-37.3454425?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3.5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "116353116882589135782",
-            "name": "Dona Rose Cafeteria (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116353116882589135782"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOru8dzV1KBEaefQzvt6EBXz5i3PC-c40HZ_ibE=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "14:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 84 98818-6448",
-        "address": "Dona Rose Cafeteria - R. Cordelia Silva, 50 - Santo Antonio, Mossoro - RN, 59619-400Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Dona+Rose+Cafeteria/data=!4m7!3m6!1s0x7ba07943af919b1:0x5e022a4079d1e12!8m2!3d-5.1766946!4d-37.3430981!16s%2Fg%2F11spwc4hy3!19sChIJsRn5OpQHugcREh6dB6Qi4AU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJUdQzchUHugcRot9k5EG49sM",
@@ -3787,8 +3866,8 @@
         "rating": 3.8,
         "workday_timing": "07:30-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 84 98891-8140",
         "address": "Delizcafe, West Clinical Terreo - Rua Duodecimo Rosado, 337 - Loja 15 - Doze Anos, Mossoro - RN, 59603-020Ba Xi ",
@@ -3861,6 +3940,34 @@
         "link": "https://www.google.com/maps/place/Caf%C3%A9+na+Cal%C3%A7ada/data=!4m7!3m6!1s0x7ba0787930140e5:0xa39c63ccdbf67941!8m2!3d-5.1828275!4d-37.3340212!16s%2Fg%2F11h00c0jyr!19sChIJ5UABk4cHugcRQXn228xjnKM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJGwTBwscHugcRS_3R5Tz0vUI",
+        "name": "Bom cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bom cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6MgiXHgE-5Not5gUKvC94fm0x3gdApnhpFu18=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "15:00-21:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": null,
+        "address": "Bom cafe - Rua Amaro Duarte, 908 - Nova Betania, Mossoro - RN, 59612-060Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bom+caf%C3%A9/data=!4m7!3m6!1s0x7ba07c7c2c1041b:0x42bdf43ce5d1fd4b!8m2!3d-5.1794655!4d-37.3628457!16s%2Fg%2F11vl9jm4xz!19sChIJGwTBwscHugcRS_3R5Tz0vUI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ3-dtihsHugcRaI-A09mgbww",
         "name": "Vanilla Cacau Cafe",
         "description": null,
@@ -3870,7 +3977,7 @@
             {
                 "name": "Varanda Cafe Bistro",
                 "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 166,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3965,7 +4072,7 @@
             {
                 "name": "Varanda Cafe Bistro",
                 "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 166,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4016,34 +4123,6 @@
         "address": "Cheirin Bao - Av. Joao da Escossia - Nova Betania, Mossoro - RN, Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Cheirin+B%C3%A3o/data=!4m7!3m6!1s0x7ba07b397c3b5bb:0x41c4ce030ff5ad1!8m2!3d-5.1727021!4d-37.3770694!16s%2Fg%2F11tfztpkvm!19sChIJu7XDl7MHugcR0Vr_MOBMHAQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJGwTBwscHugcRS_3R5Tz0vUI",
-        "name": "Bom cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Bom cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6MgiXHgE-5Not5gUKvC94fm0x3gdApnhpFu18=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "15:00-21:00",
-        "closed_on": [
-            "Xing Qi Yi "
-        ],
-        "phone": null,
-        "address": "Bom cafe - Rua Amaro Duarte, 908 - Nova Betania, Mossoro - RN, 59612-060Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bom+caf%C3%A9/data=!4m7!3m6!1s0x7ba07c7c2c1041b:0x42bdf43ce5d1fd4b!8m2!3d-5.1794655!4d-37.3628457!16s%2Fg%2F11vl9jm4xz!19sChIJGwTBwscHugcRS_3R5Tz0vUI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJO-lB2VIHugcRaq6epD4oCg4",
@@ -4284,7 +4363,7 @@
             {
                 "name": "Varanda Cafe Bistro",
                 "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 166,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4517,7 +4596,7 @@
             {
                 "name": "Rustcafe",
                 "link": "https://www.google.com/maps/search/Rustcaf%C3%A9/@-5.1917649,-37.3436434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
+                "reviews": 143,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -4564,8 +4643,8 @@
         "rating": 5,
         "workday_timing": "07:00-12:11",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Dgust Cafe - R. Ferreira Itajuba, 47 - Bom Jardim, Mossoro - RN, 59618-753Ba Xi ",
@@ -4573,52 +4652,59 @@
         "link": "https://www.google.com/maps/place/Dgust+Caf%C3%A9/data=!4m7!3m6!1s0x7ba07c803b46357:0xcfa4c583c886114d!8m2!3d-5.1823096!4d-37.3501867!16s%2Fg%2F11rhbv42dc!19sChIJV2O0A8gHugcRTRGGyIPFpM8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ3XAvMg0JugcRNdJJJpmArI4",
-        "name": "Tio SUAR",
+        "place_id": "ChIJqX7vttkFugcRT1zTh7G08Wc",
+        "name": "Delicias da Maze Nova Esperanca",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 2,
         "competitors": [
             {
-                "name": "Rustcafe",
-                "link": "https://www.google.com/maps/search/Rustcaf%C3%A9/@-5.1917649,-37.3436434?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
-                "rating": 4.4,
+                "name": "Delicias Da Le",
+                "link": "https://www.google.com/maps/search/Delicias+Da+L%C3%AA/@-5.221702200000001,-37.330951299999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Delicias da Ge",
+                "link": "https://www.google.com/maps/search/Del%C3%ADcias+da+G%C3%AA/@-5.2148796,-37.3240025?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Tang Guo Gao Bing Dian "
+            },
+            {
+                "name": "Delicias da Dulce",
+                "link": "https://www.google.com/maps/search/Del%C3%ADcias+da+Dulce/@-5.139298999999999,-37.3512048?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
                 "main_category": "Can Ting "
             },
             {
-                "name": "Deguste",
-                "link": "https://www.google.com/maps/search/Deguste/@-5.2157786,-37.3292749?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Tio Luiz",
-                "link": "https://www.google.com/maps/search/Tio+Luiz/@-5.1994659,-37.371294?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Dona Neide Delicias",
+                "link": "https://www.google.com/maps/search/Dona+Neide+Delicias/@-5.1833862,-37.35872990000001?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
-                "main_category": "Kuai Can "
+                "main_category": "Can Ting "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Tio SUAR (Ye Zhu )",
+            "name": "Delicias da Maze Nova Esperanca (Ye Zhu )",
             "link": null
         },
-        "featured_image": null,
-        "main_category": "Cha Yi Guan ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkMfmKUHvytlZoYfe3pVfkZFs5JzG8pVClIo99=w408-h724-k-no",
+        "main_category": "Ka Pei Ting ",
         "categories": [
-            "Cha Yi Guan "
+            "Ka Pei Ting "
         ],
-        "rating": 4,
+        "rating": 4.5,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "Tio SUAR - Bom Jesus, Mossoro - RN, Ba Xi ",
+        "address": "Delicias da Maze Nova Esperanca, Mossoro - RN, Ba Xi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tio+SUAR/data=!4m7!3m6!1s0x7ba090d322f70dd:0x8eac80992649d235!8m2!3d-5.2429246!4d-37.3578326!16s%2Fg%2F11flz0n5jx!19sChIJ3XAvMg0JugcRNdJJJpmArI4?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Delicias+da+Maz%C3%A9+Nova+Esperan%C3%A7a/data=!4m7!3m6!1s0x7ba05d9b6ef7ea9:0x67f1b4b187d35c4f!8m2!3d-5.1803553!4d-37.4138911!16s%2Fg%2F11j4vsj9hj!19sChIJqX7vttkFugcRT1zTh7G08Wc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ07kdMeIGugcRMbW4jeIM7mg",
@@ -4782,7 +4868,7 @@
             {
                 "name": "Varanda Cafe Bistro",
                 "link": "https://www.google.com/maps/search/Varanda+Caf%C3%A9+Bistr%C3%B4/@-5.181784500000001,-37.362038399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
+                "reviews": 166,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4833,6 +4919,71 @@
         "address": "Vivi gourmet - Aeroporto, Mossoro - RN, Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Vivi+gourmet/data=!4m7!3m6!1s0x7ba0747049ba5a5:0xe8b2f8a0b0f32266!8m2!3d-5.1891727!4d-37.3648845!16s%2Fg%2F11k9gwb86m!19sChIJpaWbBEcHugcRZiLzsKD4sug?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJbfUsjR8HugcRKJUY8mjNtfI",
+        "name": "Casa Lima",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Panificadora Lima",
+                "link": "https://www.google.com/maps/search/Panificadora+Lima/@-5.2189112,-37.3323906?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 100,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Casa do Cafe do Pr. Leandro",
+                "link": "https://www.google.com/maps/search/Casa+do+Caf%C3%A9+do+Pr.+Leandro/@-5.202618999999999,-37.3050776?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe & Cia",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+%26+Cia/@-5.1925574999999995,-37.341591199999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Casa de Calixto",
+                "link": "https://www.google.com/maps/search/Casa+de+Calixto/@-5.2073607,-37.3399612?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Cafe Bombom",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Bombom/@-5.1947583999999996,-37.3435472?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Casa Lima (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KvIeg2XMJed5omLwt6KekA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.99763&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 1,
+        "workday_timing": "07:30-12:00, 13:00-17:00, 19:00-20:00",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
+        ],
+        "phone": null,
+        "address": "Casa Lima - R. Venceslau Braz, 164 - Barrocas, Mossoro - RN, 59610-140Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Casa+Lima/data=!4m7!3m6!1s0x7ba071f8d2cf56d:0xf2b5cd68f2189528!8m2!3d-5.1880434!4d-37.338599!16s%2Fg%2F11c2klh3t_!19sChIJbfUsjR8HugcRKJUY8mjNtfI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJRZ5oEd4GugcR_mKfC0j18JQ",
@@ -5056,8 +5207,8 @@
         "rating": 5,
         "workday_timing": "08:30-18:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 84 2142-1059",
         "address": null,
@@ -5155,69 +5306,60 @@
         "link": "https://www.google.com/maps/place/PaulloFreire+Ltda./data=!4m7!3m6!1s0x7ba06eb4fffffff:0x22171d9c9f50e8de!8m2!3d-5.1896201!4d-37.3580345!16s%2Fg%2F1tj805qj!19sChIJ____T-sGugcR3uhQn5wdFyI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJbfUsjR8HugcRKJUY8mjNtfI",
-        "name": "Casa Lima",
+        "place_id": "ChIJCxuxZw4HugcRvi0lbUoC9kI",
+        "name": "Vintage Coffee Pub",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 1,
         "competitors": [
             {
-                "name": "Panificadora Lima",
-                "link": "https://www.google.com/maps/search/Panificadora+Lima/@-5.2189112,-37.3323906?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
+                "name": "Aperte o Play - Bar e Petiscaria",
+                "link": "https://www.google.com/maps/search/Aperte+o+Play+-+Bar+e+Petiscaria/@-5.1773146,-37.3623244?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 172,
                 "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
+                "main_category": "Jiu Ba "
             },
             {
-                "name": "Casa do Cafe do Pr. Leandro",
-                "link": "https://www.google.com/maps/search/Casa+do+Caf%C3%A9+do+Pr.+Leandro/@-5.202618999999999,-37.3050776?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Bodega Casa/Bar",
+                "link": "https://www.google.com/maps/search/Bodega+Casa%2FBar/@-5.176773,-37.3625867?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 15,
+                "rating": 4.8,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "OUTLAW - HAPPY HOUR",
+                "link": "https://www.google.com/maps/search/OUTLAW+-+HAPPY+HOUR/@-5.177274199999999,-37.3633564?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 7,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
+                "rating": 3.9,
+                "main_category": "Jiu Ba "
             },
             {
-                "name": "Cafe & Cia",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+%26+Cia/@-5.1925574999999995,-37.341591199999996?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Espaco Retro",
+                "link": "https://www.google.com/maps/search/Espa%C3%A7o+Retr%C3%B4/@-5.2386843999999995,-37.324958599999995?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Casa de Calixto",
-                "link": "https://www.google.com/maps/search/Casa+de+Calixto/@-5.2073607,-37.3399612?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Cha Yi Guan "
-            },
-            {
-                "name": "Cafe Bombom",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Bombom/@-5.1947583999999996,-37.3435472?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
+                "rating": 5,
+                "main_category": "Jiu Ba Ya Zuo "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Casa Lima (Ye Zhu )",
+            "name": "Vintage Coffee Pub (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KvIeg2XMJed5omLwt6KekA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.99763&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFnM_S8kzhGogIlZGBGxlnNd8r3Hu4vxRfDxPl=w408-h544-k-no",
+        "main_category": "Ji Wei Jiu Jiu Ba ",
         "categories": [
-            "Ka Pei Ting "
+            "Ji Wei Jiu Jiu Ba ",
+            "Jiu Ba "
         ],
-        "rating": 1,
-        "workday_timing": "07:30-12:00, 13:00-17:00, 19:00-20:00",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Casa Lima - R. Venceslau Braz, 164 - Barrocas, Mossoro - RN, 59610-140Ba Xi ",
+        "rating": 5,
+        "workday_timing": "06:00-01:00",
+        "closed_on": "Open All Days",
+        "phone": "+55 84 99666-9521",
+        "address": "Vintage Coffee Pub - Rua: Dona, R. Lidinha Falcao - Nova Betania, Mossoro - RN, 59607-330Ba Xi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Casa+Lima/data=!4m7!3m6!1s0x7ba071f8d2cf56d:0xf2b5cd68f2189528!8m2!3d-5.1880434!4d-37.338599!16s%2Fg%2F11c2klh3t_!19sChIJbfUsjR8HugcRKJUY8mjNtfI?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Vintage+Coffee+Pub/data=!4m7!3m6!1s0x7ba070e67b11b0b:0x42f6024a6d252dbe!8m2!3d-5.1744662!4d-37.3648033!16s%2Fg%2F11gtbs7q7h!19sChIJCxuxZw4HugcRvi0lbUoC9kI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJIULeXqoHugcRRXa3DMyIWGc",
@@ -5784,8 +5926,8 @@
         "rating": null,
         "workday_timing": "15:00-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 84 98788-1782",
         "address": "Dricos Salgateria - Rua Artur Bernardes, 1263 - Barrocas - Bom Jardim, Mossoro - RN, 59621-430Ba Xi ",
@@ -5818,6 +5960,70 @@
         "address": "LeDoce - Por Clecia Santos - R. Natal, 83 - Alto do Sumare, Mossoro - RN, 59633-656Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/L%C3%AADoce+-+Por+Cl%C3%A9cia+Santos/data=!4m7!3m6!1s0x7ba07c818edd503:0x5657b3d9474dd0a1!8m2!3d-5.2281921!4d-37.3327754!16s%2Fg%2F11vhycrd82!19sChIJA9XtGMgHugcRodBNR9mzV1Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJd7l0BNQHugcR5ih2f2vkD_k",
+        "name": "Pao do Guri Mossoro",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Pao & Sabor Padaria",
+                "link": "https://www.google.com/maps/search/P%C3%A3o+%26+Sabor+Padaria/@-5.215402999999999,-37.3369241?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 124,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Bread House",
+                "link": "https://www.google.com/maps/search/Bread+House/@-5.2232975999999995,-37.330883?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 109,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Panificadora Cafe Com Pao",
+                "link": "https://www.google.com/maps/search/Panificadora+Caf%C3%A9+Com+P%C3%A3o/@-5.2361533,-37.3268072?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 107,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Nosso Pao",
+                "link": "https://www.google.com/maps/search/Nosso+P%C3%A3o/@-5.2164024,-37.3391538?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Delicias De Pao",
+                "link": "https://www.google.com/maps/search/Delicias+De+P%C3%A3o/@-5.2005232,-37.336770099999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "106506285799134517899",
+            "name": "Pao do Guri Mossoro (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106506285799134517899"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOIxsUy-7w45L9vRNd-qrBLvj_dwV58vrz44RI_=w408-h408-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": null,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+55 84 99817-6550",
+        "address": "Pao do Guri Mossoro - R. Isaura Isauri dos Santos, 968 - Planalto Treze de Maio, Mossoro - RN, 59631-539Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/P%C3%A3o+do+Guri+Mossor%C3%B3/data=!4m7!3m6!1s0x7ba07d40474b977:0xf90fe46b7f7628e6!8m2!3d-5.2238776!4d-37.3377169!16s%2Fg%2F11sntfbq0v!19sChIJd7l0BNQHugcR5ih2f2vkD_k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJEZ5OlNqpsAcR7DNEoQ9QGtU",
@@ -5882,67 +6088,6 @@
         "link": "https://www.google.com/maps/place/Padaria+tr%C3%AAs+irm%C3%A3os/data=!4m7!3m6!1s0x7b0a9da944e9e11:0xd51a500fa14433ec!8m2!3d-5.2229657!4d-37.2865808!16s%2Fg%2F11lflcpm4l!19sChIJEZ5OlNqpsAcR7DNEoQ9QGtU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJK3GpBzQBugcRRUBNk3MQQBw",
-        "name": "Mossoro",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Mossoro Cafe",
-                "link": "https://www.google.com/maps/search/Mossor%C3%B3+Caf%C3%A9/@-5.1923353,-37.338476299999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 257,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafe Mossoro",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Mossor%C3%B3/@-5.1943065,-37.34202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 31,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Nosso Pao e conveniencia",
-                "link": "https://www.google.com/maps/search/Nosso+P%C3%A3o+e+conveni%C3%AAncia/@-5.1697904,-37.3399624?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Xiao Shi /Ling Shi Ba "
-            },
-            {
-                "name": "Panificadora",
-                "link": "https://www.google.com/maps/search/Panificadora/@-5.235241200000001,-37.3231988?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Mossoro (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOMBEkEUgPxvmcJTlQKw7KGwRA9lGXxiRbXfwYF=w426-h240-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": "07:20-12:20",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Wu "
-        ],
-        "phone": null,
-        "address": "Mossoro - R. Celso Rego - Santo Antonio, Mossoro - RN, 59622-400Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mossor%C3%B3/data=!4m7!3m6!1s0x7ba013407a9712b:0x1c401073934d4045!8m2!3d-5.1511459!4d-37.3444191!16s%2Fg%2F11s4608npc!19sChIJK3GpBzQBugcRRUBNk3MQQBw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJJ5HLweYHugcR09mjC0OdlIk",
         "name": "Cafe com Leitura",
         "description": null,
@@ -5963,8 +6108,8 @@
         "rating": null,
         "workday_timing": "07:30-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 84 99109-6564",
         "address": "Cafe com Leitura - R. Raimundo Leao de Moura - Nova Betania, Mossoro - RN, 59611-320Ba Xi ",

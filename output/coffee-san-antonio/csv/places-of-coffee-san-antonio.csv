@@ -1,1676 +1,341 @@
 place_id,name,description,is_spending_on_ads,reviews,competitors,website,owner_name,owner_profile_link,featured_image,main_category,categories,rating,workday_timing,closed_on,phone,address,review_keywords,link
-ChIJr5bioFRfXIYRS_8NX9QuLnc,La Panaderia Bakery Cafe,"Specialty bakery focusing on long-fermented Latin American breads, plus coffee & other light fare.",False,4273,"Name: Mi Tierra Cafe y Panaderia
-link: https://www.google.com/maps/search/Mi+Tierra+Cafe+y+Panaderia/@29.4249679,-98.4997053?authuser=0&hl=en&entry=ttu
-Reviews: 20077 reviews
-
-Name: Acenar Mexican Restaurant
-link: https://www.google.com/maps/search/Acenar+Mexican+Restaurant/@29.4263466,-98.49183560000002?authuser=0&hl=en&entry=ttu
-Reviews: 2837 reviews
-
-Name: Cafe Ole
-link: https://www.google.com/maps/search/Cafe+Ole/@29.424300799999997,-98.4879741?authuser=0&hl=en&entry=ttu
-Reviews: 2498 reviews
-
-Name: La Villita Cafe
-link: https://www.google.com/maps/search/La+Villita+Cafe/@29.4214682,-98.4891433?authuser=0&hl=en&entry=ttu
-Reviews: 1428 reviews
-
-Name: La Boulangerie
-link: https://www.google.com/maps/search/La+Boulangerie/@29.427916099999997,-98.48776319999999?authuser=0&hl=en&entry=ttu
-Reviews: 1003 reviews",http://www.lapanaderia.com/,La Panaderia Bakery Cafe (Owner),https://www.google.com/maps/contrib/100886116567714762236,https://lh5.googleusercontent.com/p/AF1QipNo3K-xAUo0tKQgVmqyU-xDlBoRCK-13BVbJBEl=w408-h306-k-no,Bakery,"Bakery, Brunch restaurant, Cafe, Mexican restaurant, Restaurant",4.6,7 AM-3 PM,Open All Days,(210) 592-6264,"La Panaderia Bakery Cafe, 301 E Houston St, San Antonio, TX 78205","tequila, conchas, avocado toast, sweet bread, the river walk, cruffin, monkey bread, benedictine, bear claw, the alamo",https://www.google.com/maps/place/La+Panader%C3%ADa+Bakery+Caf%C3%A9/data=!4m7!3m6!1s0x865c5f54a0e296af:0x772e2ed45f0dff4b!8m2!3d29.4265818!4d-98.4895669!16s%2Fg%2F11dzt2wb66!19sChIJr5bioFRfXIYRS_8NX9QuLnc?authuser=0&hl=en&rclk=1
-ChIJJY1P2Uv1XIYRMS0W2taeHaE,La Panaderia Bakery Cafe,"Specialty bakery focusing on long-fermented Latin American breads, plus coffee & other light fare.",False,3269,"Name: la Madeleine
-link: https://www.google.com/maps/search/la+Madeleine/@29.470973599999997,-98.4629755?authuser=0&hl=en&entry=ttu
-Reviews: 1308 reviews
-
-Name: La Boulangerie
-link: https://www.google.com/maps/search/La+Boulangerie/@29.427916099999997,-98.48776319999999?authuser=0&hl=en&entry=ttu
-Reviews: 1003 reviews
-
-Name: Corner Bakery
-link: https://www.google.com/maps/search/Corner+Bakery/@29.4922,-98.4811703?authuser=0&hl=en&entry=ttu
-Reviews: 892 reviews
-
-Name: Panera Bread
-link: https://www.google.com/maps/search/Panera+Bread/@29.4972293,-98.4696893?authuser=0&hl=en&entry=ttu
-Reviews: 819 reviews
-
-Name: The Bread Box
-link: https://www.google.com/maps/search/The+Bread+Box/@29.578855500000003,-98.49999439999999?authuser=0&hl=en&entry=ttu
-Reviews: 200 reviews",http://lapanaderia.com/,La Panaderia Bakery Cafe (Owner),https://www.google.com/maps/contrib/108983350590190545111,https://lh5.googleusercontent.com/p/AF1QipPPxqPmQc7q4qz9Sqkxbs0l0kPwWHLy_zQOBXWR=w475-h240-k-no,Bakery,"Bakery, Breakfast restaurant, Cafe, Mexican restaurant, Pastry shop, Restaurant",4.5,7 AM-8 PM,Open All Days,(210) 375-6746,"La Panaderia Bakery Cafe, 8305 Broadway, San Antonio, TX 78209","pan dulce, mexican, conchas, tequila, sweet bread, avocado toast, bear claw, milanesa, pan de muerto, telera",https://www.google.com/maps/place/La+Panader%C3%ADa+Bakery+Caf%C3%A9/data=!4m7!3m6!1s0x865cf54bd94f8d25:0xa11d9ed6da162d31!8m2!3d29.5133521!4d-98.4665174!16s%2Fg%2F11bbrnfrpm!19sChIJJY1P2Uv1XIYRMS0W2taeHaE?authuser=0&hl=en&rclk=1
-ChIJCTTaEbtYXIYRVe7EbSKqwDY,Halcyon Southtown,"Hip hangout featuring a range of coffee drinks, elevated cafe fare & creative cocktails.",False,2062,"Name: The Guenther House
-link: https://www.google.com/maps/search/The+Guenther+House/@29.411420999999997,-98.4958328?authuser=0&hl=en&entry=ttu
-Reviews: 4113 reviews
+ChIJCTTaEbtYXIYRVe7EbSKqwDY,Halcyon Southtown,,False,2067,"Name: The Guenther House
+link: https://www.google.com/maps/search/The+Guenther+House/@29.411420999999997,-98.4958328?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 4116 reviews
 
 Name: CommonWealth Coffeehouse & Bakery Hemisfair
-link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=en&entry=ttu
-Reviews: 807 reviews
+link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 808 reviews
 
 Name: San Antonio Gold
-link: https://www.google.com/maps/search/San+Antonio+Gold/@29.405330899999996,-98.5027644?authuser=0&hl=en&entry=ttu
-Reviews: 285 reviews
+link: https://www.google.com/maps/search/San+Antonio+Gold/@29.405330899999996,-98.5027644?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 286 reviews
 
 Name: The Jewel at 1102
-link: https://www.google.com/maps/search/The+Jewel+at+1102/@29.4127025,-98.49145899999999?authuser=0&hl=en&entry=ttu
-Reviews: 159 reviews",http://halcyoncoffeebar.com/location/san-antonio,Halcyon Southtown (Owner),https://www.google.com/maps/contrib/104757726390343897946,https://lh5.googleusercontent.com/p/AF1QipO1wYTk171iFWf_Wt7746_KsIfE20qN43oJsfD9=w426-h240-k-no,Cafe,"Cafe, Bar, Coffee shop, Lounge, Restaurant",4.2,8 AM-12 AM,Open All Days,(210) 277-7045,"Halcyon Southtown, 1414 S Alamo St, San Antonio, TX 78210","brunch, s'mores, mimosas, bartender, chicken and waffles, laptop, live music, long island iced tea, hip, the riverwalk",https://www.google.com/maps/place/Halcyon+Southtown/data=!4m7!3m6!1s0x865c58bb11da3409:0x36c0aa226dc4ee55!8m2!3d29.4099575!4d-98.4954049!16s%2Fg%2F1hjh1zxkk!19sChIJCTTaEbtYXIYRVe7EbSKqwDY?authuser=0&hl=en&rclk=1
-ChIJV92kQFjzXIYRf0KcPA7IDMA,Starbucks,"Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",False,1913,"Name: Dunkin'
-link: https://www.google.com/maps/search/Dunkin%27/@29.510687899999997,-98.3893234?authuser=0&hl=en&entry=ttu
-Reviews: 1014 reviews
+link: https://www.google.com/maps/search/The+Jewel+at+1102/@29.4127025,-98.49145899999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 161 reviews",http://halcyoncoffeebar.com/location/san-antonio,Halcyon Southtown (Ye Zhu ),https://www.google.com/maps/contrib/104757726390343897946,https://lh5.googleusercontent.com/p/AF1QipO1wYTk171iFWf_Wt7746_KsIfE20qN43oJsfD9=w426-h240-k-no,Ka Pei Ting ,"Ka Pei Ting , Jiu Ba , Ka Pei Dian , Jiu Ba Ya Zuo , Can Ting ",4.2,08:00-00:00,Xing Qi Yi ,+1 210-277-7045,"Halcyon Southtown, 1414 S Alamo St, San Antonio, TX 78210Mei Guo ","Zao Wu Can , Diao Jiu Shi , Yan Chang Hui , Chang Dao Bing Cha ",https://www.google.com/maps/place/Halcyon+Southtown/data=!4m7!3m6!1s0x865c58bb11da3409:0x36c0aa226dc4ee55!8m2!3d29.4099575!4d-98.4954049!16s%2Fg%2F1hjh1zxkk!19sChIJCTTaEbtYXIYRVe7EbSKqwDY?authuser=0&hl=zh-TW&rclk=1
+ChIJpXGVtvb1XIYRK9O5ZlMCi4I,Local Coffee,,False,992,"Name: PRESS Coffee @ The Boardwalk
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
-Name: Red Runner Coffee - Walzem
-link: https://www.google.com/maps/search/Red+Runner+Coffee+-+Walzem/@29.508315999999997,-98.3696289?authuser=0&hl=en&entry=ttu
-Reviews: 269 reviews
+Name: Estate Coffee Company
+link: https://www.google.com/maps/search/Estate+Coffee+Company/@29.424845899999998,-98.4770163?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 457 reviews
 
-Name: Dutch Bros Coffee
-link: https://www.google.com/maps/search/Dutch+Bros+Coffee/@29.5099505,-98.3845686?authuser=0&hl=en&entry=ttu
-Reviews: 255 reviews
+Name: Philo Coffee
+link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 417 reviews
 
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.481311400000003,-98.3626378?authuser=0&hl=en&entry=ttu
-Reviews: 96 reviews
-
-Name: On The Grind
-link: https://www.google.com/maps/search/On+The+Grind/@29.5106449,-98.3827209?authuser=0&hl=en&entry=ttu
-Reviews: 72 reviews",https://www.starbucks.com/store-locator/store/16945/,Starbucks (Owner),https://www.google.com/maps/contrib/113177109152370433145,https://lh5.googleusercontent.com/p/AF1QipOg5kGAh31P9s7NtZ7BvFhH_qIJxkKYWKZIex9w=w468-h240-k-no,Coffee shop,"Coffee shop, Breakfast restaurant, Cafe, Coffee store, Espresso bar, Internet cafe",4,5 AM-10 PM,Open All Days,(210) 653-0686,"Starbucks, 4901 Walzem Rd, San Antonio, TX 78218","drive thru, drinks, patio, window, frappuccino, employee, bathroom, traffic, quick service, renovation",https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x865cf35840a4dd57:0xc00cc80e3c9c427f!8m2!3d29.510625!4d-98.394772!16s%2Fg%2F1tdpmhr0!19sChIJV92kQFjzXIYRf0KcPA7IDMA?authuser=0&hl=en&rclk=1
-ChIJY4yiZDdhXIYRwiTSt9HOzS4,Black Rifle Coffee Company,,False,1564,"Name: Black Rifle Coffee
-link: https://www.google.com/maps/search/Black+Rifle+Coffee/@29.7939198,-98.7316417?authuser=0&hl=en&entry=ttu
-Reviews: 836 reviews
-
-Name: Mildfire Coffee Roasters
-link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=en&entry=ttu
-Reviews: 262 reviews
-
-Name: Archies Coffee Lounge
-link: https://www.google.com/maps/search/Archies+Coffee+Lounge/@29.532081899999998,-98.59078489999999?authuser=0&hl=en&entry=ttu
-Reviews: 241 reviews
-
-Name: Black Rock Coffee Bar
-link: https://www.google.com/maps/search/Black+Rock+Coffee+Bar/@29.546515,-98.5095284?authuser=0&hl=en&entry=ttu
-Reviews: 170 reviews",https://www.blackriflecoffee.com/pages/bitters-retail,Black Rifle Coffee Company (Owner),https://www.google.com/maps/contrib/112000525875558860577,https://lh5.googleusercontent.com/p/AF1QipMXwacFKVJREpBKw_fHYGVxkIbRvxtF_NNm0vjx=w408-h306-k-no,Coffee shop,"Coffee shop, Coffee store",4.6,5 AM-8 PM,Open All Days,(210) 963-9660,"Black Rifle Coffee Company, 180 W Bitters Rd, San Antonio, TX 78216","veteran, drive thru, military, first responders, shirts, merch, bitters, dog park, patriotic, nitro cold brew",https://www.google.com/maps/place/Black+Rifle+Coffee+Company/data=!4m7!3m6!1s0x865c613764a28c63:0x2ecdced1b7d224c2!8m2!3d29.5659354!4d-98.4843537!16s%2Fg%2F11kgkhj9fd!19sChIJY4yiZDdhXIYRwiTSt9HOzS4?authuser=0&hl=en&rclk=1
-ChIJo9RrCVpfXIYRZC0xBW49gRM,Starbucks,"Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",False,1440,"Name: Local Coffee
-link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=en&entry=ttu
-Reviews: 995 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.481311400000003,-98.3626378?authuser=0&hl=en&entry=ttu
-Reviews: 96 reviews
+Name: Mila Coffee
+link: https://www.google.com/maps/search/Mila+Coffee/@29.446484299999998,-98.4752338?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 292 reviews
 
 Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews
-
-Name: QuickDraw Coffee
-link: https://www.google.com/maps/search/QuickDraw+Coffee/@29.434001000000002,-98.48055889999999?authuser=0&hl=en&entry=ttu
-Reviews: 53 reviews",https://www.starbucks.com/store-locator/store/10289/,Starbucks (Owner),https://www.google.com/maps/contrib/100840100990560505249,https://lh5.googleusercontent.com/p/AF1QipPXplC7B8JJPVnPyFAR90w_M9Nqn_HnKyONgqdX=w426-h240-k-no,Coffee shop,"Coffee shop, Breakfast restaurant, Cafe, Coffee store, Espresso bar, Internet cafe",4.2,5 AM-9 PM,Open All Days,(210) 223-9958,"Starbucks, 411 E Quincy St, San Antonio, TX 78215","drive thru, parking, homeless, frappuccino, quick service, frappe, restrooms, cashier, highway, pumpkin",https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x865c5f5a096bd4a3:0x13813d6e05312d64!8m2!3d29.437121!4d-98.490631!16s%2Fg%2F113gjv8w5!19sChIJo9RrCVpfXIYRZC0xBW49gRM?authuser=0&hl=en&rclk=1
-ChIJExdrnqtYXIYR0jBOpsYsCms,La Villita Cafe,Local art lines the walls of this comfy cafe with local craft beer on tap & counter seats.,False,1431,"Name: La Panaderia Bakery Cafe
-link: https://www.google.com/maps/search/La+Panader%C3%ADa+Bakery+Caf%C3%A9/@29.426581799999994,-98.4895669?authuser=0&hl=en&entry=ttu
-Reviews: 4271 reviews
-
-Name: La Boulangerie
-link: https://www.google.com/maps/search/La+Boulangerie/@29.427916099999997,-98.48776319999999?authuser=0&hl=en&entry=ttu
-Reviews: 1003 reviews
-
-Name: CommonWealth Coffeehouse & Bakery Hemisfair
-link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=en&entry=ttu
-Reviews: 807 reviews
-
-Name: Cafe Alameda
-link: https://www.google.com/maps/search/Cafe+Alameda/@29.426284000000003,-98.49715239999999?authuser=0&hl=en&entry=ttu
-Reviews: 345 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews",http://lavillitacafe.com/,La Villita Cafe (Owner),https://www.google.com/maps/contrib/104829883564205577467,https://lh5.googleusercontent.com/p/AF1QipMHr19zJOlT2osh_W2Ulv7kuYcrqw-caRLXelUL=w408-h306-k-no,Cafe,"Cafe, Breakfast restaurant, Coffee shop, Lunch restaurant, Sandwich shop",4.2,8 AM-5 PM,Open All Days,(210) 223-4700,"La Villita Cafe, 418 Villita St, San Antonio, TX 78205","brisket, pancakes, the riverwalk, breakfast tacos, chorizo, tortillas, french toast, cowboy, huevos rancheros, egg taco",https://www.google.com/maps/place/La+Villita+Cafe/data=!4m7!3m6!1s0x865c58ab9e6b1713:0x6b0a2cc6a64e30d2!8m2!3d29.4214682!4d-98.4891433!16s%2Fg%2F11bxjlvdx8!19sChIJExdrnqtYXIYR0jBOpsYsCms?authuser=0&hl=en&rclk=1
-ChIJ-7-AAor1XIYR-FOrzWQiX_w,Summer Moon Coffee,,False,1171,"Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
-
-Name: Olmos Perk
-link: https://www.google.com/maps/search/Olmos+Perk/@29.4791667,-98.4922222?authuser=0&hl=en&entry=ttu
-Reviews: 353 reviews
-
-Name: Gravves Coffee
-link: https://www.google.com/maps/search/Gravves+Coffee/@29.4494519,-98.49171559999999?authuser=0&hl=en&entry=ttu
-Reviews: 123 reviews
-
-Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews
-
-Name: Shine Coffee
-link: https://www.google.com/maps/search/Shine+Coffee/@29.4434016,-98.4864867?authuser=0&hl=en&entry=ttu
-Reviews: 57 reviews",https://locations.summermooncoffee.com/locations/n-st-mary-street-san-antonio/,Summer Moon Coffee (Owner),https://www.google.com/maps/contrib/113751450084547966480,https://lh5.googleusercontent.com/p/AF1QipOjOWb_u2yQBH_IL1BiYPpONIVo8eAynFnmIN5Y=w408-h306-k-no,Coffee shop,Coffee shop,4.6,6 AM-8 PM,Open All Days,(210) 320-1773,"Summer Moon Coffee, 3233 N St Mary's St #102, San Antonio, TX 78212","moon milk, sweet, drive thru, the moon, tacos, autumn, creamer, pop tarts, espresso milkshake, addiction",https://www.google.com/maps/place/Summer+Moon+Coffee/data=!4m7!3m6!1s0x865cf58a0280bffb:0xfc5f2264cdab53f8!8m2!3d29.4544686!4d-98.4835244!16s%2Fg%2F11c1xdbqzz!19sChIJ-7-AAor1XIYR-FOrzWQiX_w?authuser=0&hl=en&rclk=1
-ChIJkec0xa5YXIYR0N498yBTeTM,Station Cafe,Down-to-earth eatery & taproom with outdoor seating serving sandwiches & pizza by the slice.,False,1146,"Name: Whataburger
-link: https://www.google.com/maps/search/Whataburger/@29.4238452,-98.488878?authuser=0&hl=en&entry=ttu
-Reviews: 5197 reviews
-
-Name: Candy's Old Fashion Burgers
-link: https://www.google.com/maps/search/Candy%27s+Old+Fashion+Burgers/@29.423407,-98.495005?authuser=0&hl=en&entry=ttu
-Reviews: 492 reviews
-
-Name: Potbelly
-link: https://www.google.com/maps/search/Potbelly/@29.423660199999997,-98.48677889999999?authuser=0&hl=en&entry=ttu
-Reviews: 408 reviews
-
-Name: Subway - King Williams District
-link: https://www.google.com/maps/search/Subway+-+King+Williams+District/@29.408756699999998,-98.48742039999999?authuser=0&hl=en&entry=ttu
-Reviews: 373 reviews
-
-Name: Vero Cafe
-link: https://www.google.com/maps/search/Vero+Cafe/@29.425200099999994,-98.5006428?authuser=0&hl=en&entry=ttu
-Reviews: 8 reviews",http://www.thestationsa.com/,Station Cafe (Owner),https://www.google.com/maps/contrib/109686182329518441639,https://lh5.googleusercontent.com/p/AF1QipMGE0HyNbXh-nf0ZPvFkasKiM-K43E-bYwSTk91=w408-h306-k-no,American restaurant,"American restaurant, Cafe, Fast food restaurant, Sandwich shop",4.7,11 AM-4 PM,"Sunday, Saturday",(210) 444-2200,"Station Cafe, 108 King William St, San Antonio, TX 78205","turkey, spicy, chupacabra, soup, habanero, roast beef sandwich, pesto, sandwich shop, muffaletta, meatball sandwich",https://www.google.com/maps/place/Station+Cafe/data=!4m7!3m6!1s0x865c58aec534e791:0x33795320f33dded0!8m2!3d29.4174063!4d-98.4905294!16s%2Fg%2F11b86v61yd!19sChIJkec0xa5YXIYR0N498yBTeTM?authuser=0&hl=en&rclk=1
-ChIJHQC48FRfXIYRmkUpsRYf3jU,La Boulangerie,"Family-owned French bakery serving from-scratch sweets, fresh-baked breads & more.",False,1004,"Name: La Panaderia Bakery Cafe
-link: https://www.google.com/maps/search/La+Panader%C3%ADa+Bakery+Caf%C3%A9/@29.426581799999994,-98.4895669?authuser=0&hl=en&entry=ttu
-Reviews: 4271 reviews
-
-Name: Bakery Lorraine at the Pearl
-link: https://www.google.com/maps/search/Bakery+Lorraine+at+the+Pearl/@29.442297800000002,-98.4800231?authuser=0&hl=en&entry=ttu
-Reviews: 1829 reviews
-
-Name: La Villita Cafe
-link: https://www.google.com/maps/search/La+Villita+Cafe/@29.4214682,-98.4891433?authuser=0&hl=en&entry=ttu
-Reviews: 1428 reviews
-
-Name: la Madeleine
-link: https://www.google.com/maps/search/la+Madeleine/@29.470973599999997,-98.4629755?authuser=0&hl=en&entry=ttu
-Reviews: 1308 reviews
-
-Name: Saveurs 209
-link: https://www.google.com/maps/search/Saveurs+209/@29.427956899999998,-98.487763?authuser=0&hl=en&entry=ttu
-Reviews: 69 reviews",http://www.laboulangeriesa.com/,La Boulangerie (Owner),https://www.google.com/maps/contrib/110732460871661237612,https://lh5.googleusercontent.com/p/AF1QipPQL7QHmN-7DctnU6oSIbYsraJrFzuwbnze5Ulc=w426-h240-k-no,Bakery,"Bakery, Breakfast restaurant, Cafe, French restaurant, Sandwich shop",4.6,7:30 AM-3 PM,"Monday, Tuesday",(210) 639-3165,"La Boulangerie, 207 Broadway, San Antonio, TX 78205","french, crepes, orange juice, avocado toast, bread pudding, almond chocolate croissant, brie, chocolate croissants, the alamo, breakfast croissants",https://www.google.com/maps/place/La+Boulangerie/data=!4m7!3m6!1s0x865c5f54f0b8001d:0x35de1f16b129459a!8m2!3d29.4279161!4d-98.4877632!16s%2Fg%2F11b7h58lhl!19sChIJHQC48FRfXIYRmkUpsRYf3jU?authuser=0&hl=en&rclk=1
-ChIJCVVnpJj1XIYRkGmxdf1EhzM,CommonWealth Coffeehouse & Bakery,"Homemade pastries, French cafe fare & espresso drinks are the draw at this stylish, laid-back venue.",False,954,"Name: Halcyon Southtown
-link: https://www.google.com/maps/search/Halcyon+Southtown/@29.4099575,-98.4954049?authuser=0&hl=en&entry=ttu
-Reviews: 2062 reviews
+link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 81 reviews",http://www.localcoffee.com/,Local Coffee (Ye Zhu ),https://www.google.com/maps/contrib/100690743962778390247,https://lh5.googleusercontent.com/p/AF1QipPjJhHQVqYJ0-0WVua9Hea2scwQPfaDpmNSGl01=w426-h240-k-no,Ka Pei Ting ,"Ka Pei Ting , Ka Pei Dian ",4.5,06:30-20:00,Open All Days,+1 210-530-1004,"Local Coffee, 302 Pearl Pkwy, San Antonio, TX 78215Mei Guo ","Na Tie , atmosphere, Bei , Xiang Cao , Zhen Zhu , Ku , Yan , Wen Qing ",https://www.google.com/maps/place/Local+Coffee/data=!4m7!3m6!1s0x865cf5f6b69571a5:0x828b025366b9d32b!8m2!3d29.442171!4d-98.4796448!16s%2Fg%2F1ptwnh3sp!19sChIJpXGVtvb1XIYRK9O5ZlMCi4I?authuser=0&hl=zh-TW&rclk=1
+ChIJCVVnpJj1XIYRkGmxdf1EhzM,CommonWealth Coffeehouse & Bakery,,False,953,"Name: Halcyon Southtown
+link: https://www.google.com/maps/search/Halcyon+Southtown/@29.4099575,-98.4954049?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 2067 reviews
 
 Name: Corner Bakery
-link: https://www.google.com/maps/search/Corner+Bakery/@29.4922,-98.4811703?authuser=0&hl=en&entry=ttu
-Reviews: 892 reviews
-
-Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Maple Street Biscuit Company
-link: https://www.google.com/maps/search/Maple+Street+Biscuit+Company/@29.495204599999997,-98.4792011?authuser=0&hl=en&entry=ttu
-Reviews: 383 reviews",http://commonwealthcoffeehouse.com/,CommonWealth Coffeehouse & Bakery (Owner),https://www.google.com/maps/contrib/117568936696516321435,https://lh5.googleusercontent.com/p/AF1QipPjXKfTQdt6Cu-KKCjvf1x6SvRd2TCUKyxFfErP=w408-h306-k-no,Coffee shop,"Coffee shop, Bakery, Breakfast restaurant, Cafe",4.6,7 AM-6 PM,Open All Days,(210) 560-2955,"CommonWealth Coffeehouse & Bakery, 118 Davis Ct, San Antonio, TX 78209","patio, brunch, tacos, avocado toast, garden, turkey, quiche, chicken coop, breakfast croissant, ham and cheese",https://www.google.com/maps/place/CommonWealth+Coffeehouse+%26+Bakery/data=!4m7!3m6!1s0x865cf598a4675509:0x338744fd75b16990!8m2!3d29.4664382!4d-98.4628442!16s%2Fg%2F11bbx18ldx!19sChIJCVVnpJj1XIYRkGmxdf1EhzM?authuser=0&hl=en&rclk=1
-ChIJLcmClKpYXIYRYb94YLjCsIc,Starbucks,"Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",False,933,"Name: La Villita Cafe
-link: https://www.google.com/maps/search/La+Villita+Cafe/@29.4214682,-98.4891433?authuser=0&hl=en&entry=ttu
-Reviews: 1428 reviews
-
-Name: Revolucion Coffee + Juice
-link: https://www.google.com/maps/search/Revoluci%C3%B3n+Coffee+%2B+Juice/@29.4263694,-98.48930390000001?authuser=0&hl=en&entry=ttu
-Reviews: 405 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews
-
-Name: Mkt Place
-link: https://www.google.com/maps/search/Mkt+Place/@29.425189399999997,-98.48838699999999?authuser=0&hl=en&entry=ttu
-Reviews: 21 reviews",https://www.starbucks.com/store-locator/store/20216/,Starbucks (Owner),https://www.google.com/maps/contrib/116140703161569646335,https://lh5.googleusercontent.com/p/AF1QipPg5Wq8vWCXuDcHDJwZvt-PUpXDusa1LrAdP3lN=w408-h544-k-no,Coffee shop,"Coffee shop, Breakfast restaurant, Cafe, Coffee store, Espresso bar, Internet cafe",4.1,6 AM-9 PM,Open All Days,(210) 224-0434,"Starbucks, 200 E Houston St, San Antonio, TX 78205","homeless people, baristas, morning, tables, restroom, cashier, snacks, parking, app, vanilla bean",https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x865c58aa9482c92d:0x87b0c2b86078bf61!8m2!3d29.4263416!4d-98.4911946!16s%2Fg%2F1hc0t7lw8!19sChIJLcmClKpYXIYRYb94YLjCsIc?authuser=0&hl=en&rclk=1
-ChIJP9raG_6JXIYRIR-t3Fi9zXI,Merit Coffee,"Buzzy coffeehouse offering a changing selection of brews in an intimate, industrial-chic setting.",False,910,"Name: Corner Bakery
-link: https://www.google.com/maps/search/Corner+Bakery/@29.609768000000003,-98.491069?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Corner+Bakery/@29.4922,-98.4811703?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 893 reviews
 
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.612221,-98.49293689999999?authuser=0&hl=en&entry=ttu
-Reviews: 601 reviews
+Name: PRESS Coffee @ The Boardwalk
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
-Name: Mildfire Coffee Roasters
-link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=en&entry=ttu
-Reviews: 262 reviews
-
-Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.640142599999997,-98.4536147?authuser=0&hl=en&entry=ttu
-Reviews: 185 reviews
-
-Name: Merit Coffee HQ
-link: https://www.google.com/maps/search/Merit+Coffee+HQ/@29.515248600000003,-98.5311213?authuser=0&hl=en&entry=ttu
-Reviews: 4 reviews",https://meritcoffee.com/,Merit Coffee (Owner),https://www.google.com/maps/contrib/105857282536378132386,https://lh5.googleusercontent.com/p/AF1QipMwFskIfbkLEypN-Muk4bQoQKtKeT9m5iJJYRrE=w408-h508-k-no,Coffee shop,Coffee shop,4.5,6 AM-8 PM,Open All Days,(210) 530-8740,"Merit Coffee, 700 E Sonterra Blvd #1113, San Antonio, TX 78258","atmosphere, pastries, vanilla, cup, beans, meeting, cortado, oat milk, pop tarts, macaroons",https://www.google.com/maps/place/Merit+Coffee/data=!4m7!3m6!1s0x865c89fe1bdada3f:0x72cdbd58dcad1f21!8m2!3d29.6142812!4d-98.4839394!16s%2Fg%2F1tdr3r3g!19sChIJP9raG_6JXIYRIR-t3Fi9zXI?authuser=0&hl=en&rclk=1
-ChIJLcmClKpYXIYRqG79wqTFiwA,Starbucks,"Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",False,909,"Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews
-
-Name: Alamo Plaza Coffee Shop & Bar
-link: https://www.google.com/maps/search/Alamo+Plaza+Coffee+Shop+%26+Bar/@29.425087299999994,-98.4850912?authuser=0&hl=en&entry=ttu
-Reviews: 24 reviews
-
-Name: Mkt Place
-link: https://www.google.com/maps/search/Mkt+Place/@29.425189399999997,-98.48838699999999?authuser=0&hl=en&entry=ttu
-Reviews: 21 reviews
-
-Name: Berries Wagon
-link: https://www.google.com/maps/search/Berries+Wagon/@29.424016400000003,-98.48465829999999?authuser=0&hl=en&entry=ttu
-Reviews: 12 reviews",https://www.starbucks.com/store-locator/store/1013828/,Starbucks (Owner),https://www.google.com/maps/contrib/113146431821710413614,https://lh5.googleusercontent.com/p/AF1QipO3zT_PymN_gylVI2NY8tVF6AZPP4EOYi9VQ8Sv=w426-h240-k-no,Coffee shop,"Coffee shop, Breakfast restaurant, Cafe, Coffee store, Espresso bar, Internet cafe",4,8 AM-8 PM,Open All Days,(210) 212-4472,"Starbucks, 849 E Commerce St, San Antonio, TX 78205","barista, mall, water, name, manager, cashier, mocha, frappuccino, money, milk",https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x865c58aa9482c92d:0x8bc5a4c2fd6ea8!8m2!3d29.424353!4d-98.48659!16s%2Fg%2F1tf_nqnd!19sChIJLcmClKpYXIYRqG79wqTFiwA?authuser=0&hl=en&rclk=1
-ChIJ90qo1sNpXIYRtwLPW8dcWVE,Summer Moon Coffee,,False,877,"Name: Dunkin'
-link: https://www.google.com/maps/search/Dunkin%27/@29.496483599999998,-98.7125879?authuser=0&hl=en&entry=ttu
-Reviews: 792 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.485371299999997,-98.72501749999999?authuser=0&hl=en&entry=ttu
-Reviews: 595 reviews
-
-Name: Coffee Me Crazy
-link: https://www.google.com/maps/search/Coffee+Me+Crazy/@29.512514199999995,-98.6630223?authuser=0&hl=en&entry=ttu
-Reviews: 293 reviews
-
-Name: Red Runner Coffee - Culebra
-link: https://www.google.com/maps/search/Red+Runner+Coffee+-+Culebra/@29.4928116,-98.7003917?authuser=0&hl=en&entry=ttu
-Reviews: 107 reviews
-
-Name: Sunshine Brew
-link: https://www.google.com/maps/search/Sunshine+Brew/@29.488380099999997,-98.7249906?authuser=0&hl=en&entry=ttu
-Reviews: 34 reviews",https://locations.summermooncoffee.com/locations/culebra-road-san-antonio/,Summer Moon Coffee (Owner),https://www.google.com/maps/contrib/108549731990163900569,https://lh5.googleusercontent.com/p/AF1QipPr5QP_fa3adI6xRCr_MlHvjNloPQlJdXsShe4a=w408-h537-k-no,Coffee shop,Coffee shop,4.7,6 AM-8 PM,Open All Days,(210) 338-5544,"Summer Moon Coffee, 11831 Culebra Rd #106, San Antonio, TX 78253","drive thru, muffin, moon milk, winter, the moon, tacos, kolaches, signature, pop tarts, moonmilk",https://www.google.com/maps/place/Summer+Moon+Coffee/data=!4m7!3m6!1s0x865c69c3d6a84af7:0x51595cc75bcf02b7!8m2!3d29.5030135!4d-98.7265992!16s%2Fg%2F11g22ybqxx!19sChIJ90qo1sNpXIYRtwLPW8dcWVE?authuser=0&hl=en&rclk=1
-ChIJvUDj-vxdXIYRicJ7iaSQNbM,Merit Coffee,"Buzzy coffeehouse offering a changing selection of brews in an intimate, industrial-chic setting.",False,868,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.5104633,-98.57872750000001?authuser=0&hl=en&entry=ttu
+Name: Maple Street Biscuit Company
+link: https://www.google.com/maps/search/Maple+Street+Biscuit+Company/@29.495204599999997,-98.4792011?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 385 reviews",http://commonwealthcoffeehouse.com/,CommonWealth Coffeehouse & Bakery (Ye Zhu ),https://www.google.com/maps/contrib/117568936696516321435,https://lh5.googleusercontent.com/p/AF1QipPjXKfTQdt6Cu-KKCjvf1x6SvRd2TCUKyxFfErP=w408-h306-k-no,Ka Pei Dian ,"Ka Pei Dian , Mian Bao Xi Bing Dian , Zao Can Can Ting , Ka Pei Ting ",4.6,07:00-18:00,Open All Days,+1 210-560-2955,"CommonWealth Coffeehouse & Bakery, 118 Davis Ct, San Antonio, TX 78209Mei Guo ","Zao Wu Can , taco, Hua Yuan , Huo Ji Rou , Xian Pai ",https://www.google.com/maps/place/CommonWealth+Coffeehouse+%26+Bakery/data=!4m7!3m6!1s0x865cf598a4675509:0x338744fd75b16990!8m2!3d29.4664382!4d-98.4628442!16s%2Fg%2F11bbx18ldx!19sChIJCVVnpJj1XIYRkGmxdf1EhzM?authuser=0&hl=zh-TW&rclk=1
+ChIJvUDj-vxdXIYRicJ7iaSQNbM,Merit Coffee,,False,871,"Name: Starbucks
+link: https://www.google.com/maps/search/Starbucks/@29.5104633,-98.57872750000001?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 1062 reviews
 
 Name: Rosella Coffee at Methodist Hospital
-link: https://www.google.com/maps/search/Rosella+Coffee+at+Methodist+Hospital/@29.508053799999995,-98.5722733?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Rosella+Coffee+at+Methodist+Hospital/@29.508053799999995,-98.5722733?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 21 reviews
 
 Name: Merit Coffee HQ
-link: https://www.google.com/maps/search/Merit+Coffee+HQ/@29.515248600000003,-98.5311213?authuser=0&hl=en&entry=ttu
-Reviews: 4 reviews",https://meritcoffee.com/,Merit Coffee (Owner),https://www.google.com/maps/contrib/102786423618559823684,https://lh5.googleusercontent.com/p/AF1QipNs57PmjUtsW2QDI95Hz55GbfME2WWfXMjBVviu=w408-h544-k-no,Coffee shop,"Coffee shop, Cafe",4.6,6 AM-8 PM,Open All Days,(210) 474-0543,"Merit Coffee, 7338 Louis Pasteur Dr #204, San Antonio, TX 78229","atmosphere, baristas, pastries, vanilla, students, bitter, roast, wood, quiche, hipster",https://www.google.com/maps/place/Merit+Coffee/data=!4m7!3m6!1s0x865c5dfcfae340bd:0xb33590a4897bc289!8m2!3d29.5034258!4d-98.5742615!16s%2Fg%2F11clt8vb_l!19sChIJvUDj-vxdXIYRicJ7iaSQNbM?authuser=0&hl=en&rclk=1
-ChIJv_lvJyRcXIYRpTJMhJ_X8yc,Barrio Barista,"Rustic-chic cafe offering creative coffee drinks & breakfast/lunch fare, including tacos & burgers.",False,821,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
+link: https://www.google.com/maps/search/Merit+Coffee+HQ/@29.515248600000003,-98.5311213?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 4 reviews",https://meritcoffee.com/,Merit Coffee (Ye Zhu ),https://www.google.com/maps/contrib/102786423618559823684,https://lh5.googleusercontent.com/p/AF1QipNs57PmjUtsW2QDI95Hz55GbfME2WWfXMjBVviu=w408-h544-k-no,Ka Pei Dian ,"Ka Pei Dian , Ka Pei Ting ",4.6,06:00-20:00,Open All Days,+1 210-474-0543,"Merit Coffee, 7338 Louis Pasteur Dr #204, San Antonio, TX 78229Mei Guo ","atmosphere, Ka Pei Shi , Gao , Xiang Cao , Xue Sheng , Ku , Kao , Mu , Xian Pai , Wen Qing ",https://www.google.com/maps/place/Merit+Coffee/data=!4m7!3m6!1s0x865c5dfcfae340bd:0xb33590a4897bc289!8m2!3d29.5034258!4d-98.5742615!16s%2Fg%2F11clt8vb_l!19sChIJvUDj-vxdXIYRicJ7iaSQNbM?authuser=0&hl=zh-TW&rclk=1
+ChIJMw1rdqlYXIYR5Hf6fbewIho,CommonWealth Coffeehouse & Bakery Hemisfair,,False,808,"Name: La Panaderia Bakery Cafe
+link: https://www.google.com/maps/search/La+Panader%C3%ADa+Bakery+Caf%C3%A9/@29.426581799999994,-98.4895669?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 4281 reviews
 
-Name: Brevity Coffee Co.
-link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.5237046,-98.59948109999999?authuser=0&hl=en&entry=ttu
-Reviews: 458 reviews
+Name: Halcyon Southtown
+link: https://www.google.com/maps/search/Halcyon+Southtown/@29.4099575,-98.4954049?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 2067 reviews
 
-Name: Berry To Bean Coffee House
-link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=en&entry=ttu
-Reviews: 288 reviews
+Name: La Villita Cafe
+link: https://www.google.com/maps/search/La+Villita+Cafe/@29.4214682,-98.4891433?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 1432 reviews
 
-Name: Bright Coffee
-link: https://www.google.com/maps/search/Bright+Coffee/@29.461886,-98.50804769999999?authuser=0&hl=en&entry=ttu
-Reviews: 160 reviews
+Name: La Boulangerie
+link: https://www.google.com/maps/search/La+Boulangerie/@29.427916099999997,-98.48776319999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 1007 reviews
 
-Name: Southbound Coffee
-link: https://www.google.com/maps/search/Southbound+Coffee/@29.407777299999996,-98.4981402?authuser=0&hl=en&entry=ttu
-Reviews: 107 reviews",http://www.barriobarista.coffee/,Barrio Barista (Owner),https://www.google.com/maps/contrib/109403400475131669424,https://lh5.googleusercontent.com/p/AF1QipMu9089H-UWnMEJunfjHVOORZ-VsFWl-XftVvw=w408-h408-k-no,Coffee shop,Coffee shop,4.7,7 AM-1 PM,"Sunday, Monday, Tuesday, Saturday",(210) 519-5403,"Barrio Barista, 3735 Culebra Rd, San Antonio, TX 78228","barbacoa, grilled cheese, horchata latte, tacos, tomato soup, jazz, mexican mocha, tomato basil soup, brisket, horchata coffee",https://www.google.com/maps/place/Barrio+Barista/data=!4m7!3m6!1s0x865c5c24276ff9bf:0x27f3d79f844c32a5!8m2!3d29.450523!4d-98.5776908!16s%2Fg%2F1pxqc7_z5!19sChIJv_lvJyRcXIYRpTJMhJ_X8yc?authuser=0&hl=en&rclk=1
-ChIJvyLFxyBdXIYRYUVpgAdQwNs,Dutch Bros Coffee,"Fun-loving drive-thru serving up customized coffees, Rebel energy drinks, cold brew, tea & more.",False,820,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.441627000000004,-98.6662119?authuser=0&hl=en&entry=ttu
-Reviews: 1143 reviews
-
-Name: Dunkin'
-link: https://www.google.com/maps/search/Dunkin%27/@29.4413253,-98.66656809999999?authuser=0&hl=en&entry=ttu
-Reviews: 1006 reviews
-
-Name: The Cajun Coffee Shack
-link: https://www.google.com/maps/search/The+Cajun+Coffee+Shack/@29.432229,-98.72222049999999?authuser=0&hl=en&entry=ttu
-Reviews: 680 reviews
-
-Name: Tealicious Cafe
-link: https://www.google.com/maps/search/Tealicious+Cafe/@29.434260000000002,-98.7053521?authuser=0&hl=en&entry=ttu
-Reviews: 131 reviews
-
-Name: Red Runner Coffee - Culebra
-link: https://www.google.com/maps/search/Red+Runner+Coffee+-+Culebra/@29.4928116,-98.7003917?authuser=0&hl=en&entry=ttu
-Reviews: 107 reviews",https://locations.dutchbros.com/dutch-bros-coffee-90ca4f98219b%3Fy_source%3D1_MjU5MDI0ODgtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D,Dutch Bros Coffee (Owner),https://www.google.com/maps/contrib/117463239215835325350,https://lh5.googleusercontent.com/p/AF1QipPmVvqHuzys2b7l6SDczQ6kky8hkUhkrOtANPdI=w408-h301-k-no,Coffee shop,"Coffee shop, Cafe, Juice shop, Tea house",4.5,5 AM-11 PM,Open All Days,(541) 955-4700,"Dutch Bros Coffee, 8614 Potranco Rd, San Antonio, TX 78251","drive thru, window, golden eagle, conversation, strawberry, sugar, lanes, muffin top, energy drinks, line",https://www.google.com/maps/place/Dutch+Bros+Coffee/data=!4m7!3m6!1s0x865c5d20c7c522bf:0xdbc0500780694561!8m2!3d29.4454349!4d-98.6576787!16s%2Fg%2F11n_w_js3v!19sChIJvyLFxyBdXIYRYUVpgAdQwNs?authuser=0&hl=en&rclk=1
-ChIJpcjoFERfXIYRon1mlnP20vw,Starbucks,"Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",False,804,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
+Name: Mkt Place
+link: https://www.google.com/maps/search/Mkt+Place/@29.425189399999997,-98.48838699999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 21 reviews",http://commonwealthcoffeehouse.com/index.php/hemisfair/,CommonWealth Coffeehouse & Bakery Hemisfair (Ye Zhu ),https://www.google.com/maps/contrib/115395520843979022171,https://lh5.googleusercontent.com/p/AF1QipOqFBIP-k1hpmuavBUQG4NE7BiqXpISD11eIKO_=w408-h306-k-no,Ka Pei Dian ,"Ka Pei Dian , Mian Bao Xi Bing Dian , Zao Wu Can Can Ting , Ka Pei Ting ",4.5,07:00-18:00,Open All Days,+1 210-686-4844,"CommonWealth Coffeehouse & Bakery Hemisfair, 611 Hemisfair Blvd, San Antonio, TX 78205Mei Guo ","Zao Wu Can , Ou Mu Dan , Qiao Ke Li Ke Song , Bai Jiang , Gu Ba San Ming Zhi ",https://www.google.com/maps/place/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/data=!4m7!3m6!1s0x865c58a9766b0d33:0x1a22b0b77dfa77e4!8m2!3d29.4187441!4d-98.4871068!16s%2Fg%2F11f397tq10!19sChIJMw1rdqlYXIYR5Hf6fbewIho?authuser=0&hl=zh-TW&rclk=1
+ChIJL6ZUl2lfXIYRAxMlfQnADPs,PRESS Coffee @ The Boardwalk,,False,785,"Name: Merit Coffee
+link: https://www.google.com/maps/search/Merit+Coffee/@29.480806599999998,-98.4653348?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 761 reviews
 
 Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.481311400000003,-98.3626378?authuser=0&hl=en&entry=ttu
-Reviews: 96 reviews",https://www.starbucks.com/store-locator/store/10646/,Starbucks (Owner),https://www.google.com/maps/contrib/107875302429144663405,https://lh5.googleusercontent.com/p/AF1QipNvnmzNsqNwkNBV66A9N6Vlk5iDg7c9Q013zEIy=w408-h306-k-no,Coffee shop,"Coffee shop, Breakfast restaurant, Cafe, Coffee store, Espresso bar, Internet cafe",4.2,5:30 AM-8 PM,Open All Days,(210) 226-3787,"Starbucks, 801 San Pedro Ave, San Antonio, TX 78212","drive thru, homeless, parking, restroom, vanilla, frappuccino, management, college, cold, employee",https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x865c5f4414e8c8a5:0xfcd2f67396667da2!8m2!3d29.4408293!4d-98.499352!16s%2Fg%2F1tdlvpvt!19sChIJpcjoFERfXIYRon1mlnP20vw?authuser=0&hl=en&rclk=1
-ChIJL6ZUl2lfXIYRAxMlfQnADPs,PRESS Coffee @ The Boardwalk,"Specialty coffees & teas, plus gourmet pastries, offered amid warm, relaxed surroundings.",False,784,"Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.480806599999998,-98.4653348?authuser=0&hl=en&entry=ttu
-Reviews: 760 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.455286599999997,-98.47029859999999?authuser=0&hl=en&entry=ttu
-Reviews: 415 reviews
+link: https://www.google.com/maps/search/Starbucks/@29.455286599999997,-98.47029859999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 416 reviews
 
 Name: Olmos Perk
-link: https://www.google.com/maps/search/Olmos+Perk/@29.4791667,-98.4922222?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Olmos+Perk/@29.4791667,-98.4922222?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 353 reviews
 
 Name: Mila Coffee
-link: https://www.google.com/maps/search/Mila+Coffee/@29.446484299999998,-98.4752338?authuser=0&hl=en&entry=ttu
-Reviews: 290 reviews
+link: https://www.google.com/maps/search/Mila+Coffee/@29.446484299999998,-98.4752338?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 292 reviews
 
 Name: Berry To Bean Coffee House
-link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=en&entry=ttu
-Reviews: 288 reviews",http://presscoffeesanantonio.com/,PRESS Coffee @ The Boardwalk (Owner),https://www.google.com/maps/contrib/111524050573021783841,https://lh5.googleusercontent.com/p/AF1QipN-xv_cK6L81d-OZmG7d0SyWlKRW0B1vuAHtA2Q=w408-h306-k-no,Coffee shop,Coffee shop,4.6,7:30 AM-5 PM,Open All Days,(210) 550-4441,"PRESS Coffee @ The Boardwalk, 4035 Broadway, San Antonio, TX 78209","atmosphere, greenhouse, building, plants, french press, almond milk, patio, hipster, pecan, sunlight",https://www.google.com/maps/place/PRESS+Coffee+@+The+Boardwalk/data=!4m7!3m6!1s0x865c5f699754a62f:0xfb0cc0097d251303!8m2!3d29.4639327!4d-98.4660261!16s%2Fg%2F11b6d5l61l!19sChIJL6ZUl2lfXIYRAxMlfQnADPs?authuser=0&hl=en&rclk=1
-ChIJSZ3G3VBhXIYRzHbPHQwIs7k,Merit Coffee,"Buzzy coffeehouse offering a changing selection of brews in an intimate, industrial-chic setting.",False,768,"Name: Mildfire Coffee Roasters
-link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=en&entry=ttu
-Reviews: 262 reviews
-
-Name: Me Latte
-link: https://www.google.com/maps/search/Me+Latte/@29.5877754,-98.63367799999999?authuser=0&hl=en&entry=ttu
-Reviews: 74 reviews
-
-Name: Merit Coffee HQ
-link: https://www.google.com/maps/search/Merit+Coffee+HQ/@29.515248600000003,-98.5311213?authuser=0&hl=en&entry=ttu
-Reviews: 4 reviews",https://meritcoffee.com/,Merit Coffee (Owner),https://www.google.com/maps/contrib/108893988995680868085,https://lh5.googleusercontent.com/p/AF1QipMcswOjpJ3TsJdkYBZLZL1STrEETSsssr3gh2LD=w408-h272-k-no,Coffee shop,Coffee shop,4.6,6 AM-8 PM,Open All Days,(210) 362-1550,"Merit Coffee, 4115 Pond Hill Ln #101, San Antonio, TX 78231","latte, atmosphere, baristas, pastries, vanilla, parking, roast, syrups, chain, beans",https://www.google.com/maps/place/Merit+Coffee/data=!4m7!3m6!1s0x865c6150ddc69d49:0xb9b3080c1dcf76cc!8m2!3d29.5979596!4d-98.5633018!16s%2Fg%2F11dxhy171t!19sChIJSZ3G3VBhXIYRzHbPHQwIs7k?authuser=0&hl=en&rclk=1
-ChIJA39fpnP1XIYR5OhFg7NkFNc,Merit Coffee,"Buzzy coffeehouse offering a changing selection of brews in an intimate, industrial-chic setting.",False,760,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
+link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 289 reviews",http://presscoffeesanantonio.com/,PRESS Coffee @ The Boardwalk (Ye Zhu ),https://www.google.com/maps/contrib/111524050573021783841,https://lh5.googleusercontent.com/p/AF1QipN-xv_cK6L81d-OZmG7d0SyWlKRW0B1vuAHtA2Q=w408-h306-k-no,Ka Pei Dian ,Ka Pei Dian ,4.6,07:30-17:00,Open All Days,+1 210-550-4441,"PRESS Coffee @ The Boardwalk, 4035 Broadway, San Antonio, TX 78209Mei Guo ","atmosphere, Wen Shi , Lou , Zhi Wu , Wen Qing , Xian Pai ",https://www.google.com/maps/place/PRESS+Coffee+@+The+Boardwalk/data=!4m7!3m6!1s0x865c5f699754a62f:0xfb0cc0097d251303!8m2!3d29.4639327!4d-98.4660261!16s%2Fg%2F11b6d5l61l!19sChIJL6ZUl2lfXIYRAxMlfQnADPs?authuser=0&hl=zh-TW&rclk=1
+ChIJA39fpnP1XIYR5OhFg7NkFNc,Merit Coffee,,False,761,"Name: PRESS Coffee @ The Boardwalk
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
 Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.476882999999994,-98.46306?authuser=0&hl=en&entry=ttu
-Reviews: 480 reviews
+link: https://www.google.com/maps/search/Starbucks/@29.476882999999994,-98.46306?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 481 reviews
 
 Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 81 reviews
 
 Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews
+link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 79 reviews
 
 Name: Merit Coffee HQ
-link: https://www.google.com/maps/search/Merit+Coffee+HQ/@29.515248600000003,-98.5311213?authuser=0&hl=en&entry=ttu
-Reviews: 4 reviews",https://www.meritcoffee.com/,Merit Coffee (Owner),https://www.google.com/maps/contrib/104987476971402685743,https://lh5.googleusercontent.com/p/AF1QipMKfqYaMvnDk07R2kMrIVVvFctPtEfNjp9fXt3K=w408-h306-k-no,Coffee shop,Coffee shop,4.5,6:30 AM-8 PM,Open All Days,(210) 267-5494,"Merit Coffee, 5903 Broadway, San Antonio, TX 78209","atmosphere, latte, pastries, parking, roast, pop tarts, bike shop, coffee and service, scone, laptop",https://www.google.com/maps/place/Merit+Coffee/data=!4m7!3m6!1s0x865cf573a65f7f03:0xd71464b38345e8e4!8m2!3d29.4808066!4d-98.4653348!16s%2Fg%2F11xqzgl77!19sChIJA39fpnP1XIYR5OhFg7NkFNc?authuser=0&hl=en&rclk=1
-ChIJAzw1MLtYXIYRP7735RoGiSk,South Alamode Panini & Gelato Company,"Stylish, airy haunt featuring housemade gelato in unique flavors & specialty Italian sandwiches.",False,721,"Name: Paciugo Gelato Cafe
-link: https://www.google.com/maps/search/Paciugo+Gelato+Cafe/@29.4962058,-98.4787247?authuser=0&hl=en&entry=ttu
-Reviews: 698 reviews
-
-Name: Boozy's Creamery & Craft
-link: https://www.google.com/maps/search/Boozy%27s+Creamery+%26+Craft/@29.417160699999997,-98.49019849999999?authuser=0&hl=en&entry=ttu
-Reviews: 499 reviews
-
-Name: Mr Ice Cream
-link: https://www.google.com/maps/search/Mr+Ice+Cream/@29.4240018,-98.48828309999999?authuser=0&hl=en&entry=ttu
-Reviews: 498 reviews
-
-Name: Francesco's Gelato
-link: https://www.google.com/maps/search/Francesco%27s+Gelato/@29.424891199999998,-98.4873968?authuser=0&hl=en&entry=ttu
-Reviews: 285 reviews
-
-Name: Paleteria San Antonio
-link: https://www.google.com/maps/search/Paleteria+San+Antonio/@29.4189299,-98.4879682?authuser=0&hl=en&entry=ttu
-Reviews: 268 reviews",http://southalamodepaniniandgelato.com/,South Alamode Panini & Gelato Company (Owner),https://www.google.com/maps/contrib/101399867301831252761,https://lh5.googleusercontent.com/p/AF1QipMahcgnO0PX0vsiHk6OwBom8ZQ_r4b1UtIRW3S3=w408-h306-k-no,Ice cream shop,"Ice cream shop, Coffee shop, Dessert restaurant, Italian restaurant, Sandwich shop",4.8,11:30 AM-9 PM,"Monday, Tuesday",(210) 788-8000,"South Alamode Panini & Gelato Company, B, 1420 S Alamo St #102, San Antonio, TX 78204","sorbet, pistachio, goat cheese, ricotta, italian, blackberry, espresso, dark chocolate, affogato, basil",https://www.google.com/maps/place/South+Alamode+Panini+%26+Gelato+Company/data=!4m7!3m6!1s0x865c58bb30353c03:0x2989061ae5f7be3f!8m2!3d29.4099239!4d-98.4957416!16s%2Fg%2F11b7y9fj06!19sChIJAzw1MLtYXIYRP7735RoGiSk?authuser=0&hl=en&rclk=1
-ChIJF6zs9kH1XIYRNz4eDcLan5Y,Paciugo Gelato Cafe,"Counter-serve chain for gelato made on-site daily, plus coffee & frappes.",False,699,"Name: Amy's Ice Creams
-link: https://www.google.com/maps/search/Amy%27s+Ice+Creams/@29.4961048,-98.4802558?authuser=0&hl=en&entry=ttu
-Reviews: 765 reviews
-
-Name: South Alamode Panini & Gelato Company
-link: https://www.google.com/maps/search/South+Alamode+Panini+%26+Gelato+Company/@29.409923899999995,-98.4957416?authuser=0&hl=en&entry=ttu
-Reviews: 721 reviews
-
-Name: Honchos - The House of Churros
-link: https://www.google.com/maps/search/Honchos+-+The+House+of+Churros/@29.4870177,-98.4667941?authuser=0&hl=en&entry=ttu
-Reviews: 713 reviews
-
-Name: Freshest Ice Creams
-link: https://www.google.com/maps/search/Freshest+Ice+Creams/@29.5129832,-98.5514808?authuser=0&hl=en&entry=ttu
-Reviews: 437 reviews
-
-Name: Francesco's Gelato
-link: https://www.google.com/maps/search/Francesco%27s+Gelato/@29.424891199999998,-98.4873968?authuser=0&hl=en&entry=ttu
-Reviews: 285 reviews",http://paciugo.square.site/,Paciugo Gelato Cafe (Owner),https://www.google.com/maps/contrib/108185683388937362144,https://lh5.googleusercontent.com/p/AF1QipPBi_Zknr8CUrbG9QPl9BqzS1VddbXH09zSpzuU=w408-h408-k-no,Ice cream shop,"Ice cream shop, Cafe, Coffee shop, Dessert shop, Donut shop, Espresso bar, Frozen dessert supplier",4.8,11 AM-10 PM,Open All Days,(210) 832-8820,"Paciugo Gelato Cafe, 340 E Basse Rd, San Antonio, TX 78209","spaghetti eis, affogato, dairy, donut, bubble waffle, sorbet, amaretto, macaron, sea salt, servers",https://www.google.com/maps/place/Paciugo+Gelato+Cafe/data=!4m7!3m6!1s0x865cf541f6ecac17:0x969fdac20d1e3e37!8m2!3d29.4962058!4d-98.4787247!16s%2Fg%2F1tff80kn!19sChIJF6zs9kH1XIYRNz4eDcLan5Y?authuser=0&hl=en&rclk=1
+link: https://www.google.com/maps/search/Merit+Coffee+HQ/@29.515248600000003,-98.5311213?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 4 reviews",https://www.meritcoffee.com/,Merit Coffee (Ye Zhu ),https://www.google.com/maps/contrib/104987476971402685743,https://lh5.googleusercontent.com/p/AF1QipMKfqYaMvnDk07R2kMrIVVvFctPtEfNjp9fXt3K=w408-h306-k-no,Ka Pei Dian ,Ka Pei Dian ,4.5,06:30-20:00,Open All Days,+1 210-267-5494,"Merit Coffee, 5903 Broadway, San Antonio, TX 78209Mei Guo ","atmosphere, Na Tie , Gao , Ting Che , Kao , Si Kang , Bi Dian ",https://www.google.com/maps/place/Merit+Coffee/data=!4m7!3m6!1s0x865cf573a65f7f03:0xd71464b38345e8e4!8m2!3d29.4808066!4d-98.4653348!16s%2Fg%2F11xqzgl77!19sChIJA39fpnP1XIYR5OhFg7NkFNc?authuser=0&hl=zh-TW&rclk=1
 ChIJT49iyKhYXIYRpqk6NiO7azI,Brown Coffee Co - Southtown,,False,691,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
 Name: Estate Coffee Company
-link: https://www.google.com/maps/search/Estate+Coffee+Company/@29.424845899999998,-98.4770163?authuser=0&hl=en&entry=ttu
-Reviews: 455 reviews
+link: https://www.google.com/maps/search/Estate+Coffee+Company/@29.424845899999998,-98.4770163?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 457 reviews
 
 Name: Southbound Coffee
-link: https://www.google.com/maps/search/Southbound+Coffee/@29.407777299999996,-98.4981402?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Southbound+Coffee/@29.407777299999996,-98.4981402?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 107 reviews
 
 Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews
+link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 79 reviews
 
 Name: Perks Coffee & More
-link: https://www.google.com/maps/search/Perks+Coffee+%26+More/@29.421926799999998,-98.4843688?authuser=0&hl=en&entry=ttu
-Reviews: 14 reviews",http://secondseasoncoffee.com/,Brown Coffee Co - Southtown (Owner),https://www.google.com/maps/contrib/112174374762559614705,https://lh5.googleusercontent.com/p/AF1QipON0UWOhXEUTv1ICCNfrf4OxBTEbOppVaKMhgj2=w408-h306-k-no,Coffee shop,Coffee shop,4.7,7 AM-7 PM,Open All Days,,"Brown Coffee Co - Southtown, 812 S Alamo St, San Antonio, TX 78210","atmosphere, barista, espresso, roast, parking, cup, beans, sugar, cortado, quiche",https://www.google.com/maps/place/Brown+Coffee+Co+-+Southtown/data=!4m7!3m6!1s0x865c58a8c8628f4f:0x326bbb23363aa9a6!8m2!3d29.4152655!4d-98.4890993!16s%2Fg%2F11gf4rhpcg!19sChIJT49iyKhYXIYRpqk6NiO7azI?authuser=0&hl=en&rclk=1
-ChIJ67zVGkb1XIYRWt0aYrK7lzk,Revolucion Coffee + Juice,,False,689,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Rise Up Acai Bowls, LLC.
-link: https://www.google.com/maps/search/Rise+Up+Acai+Bowls%2C+LLC./@29.453721299999998,-98.49166699999999?authuser=0&hl=en&entry=ttu
-Reviews: 386 reviews
-
-Name: Nekter Juice Bar
-link: https://www.google.com/maps/search/Nekter+Juice+Bar/@29.480939900000003,-98.46475249999999?authuser=0&hl=en&entry=ttu
-Reviews: 65 reviews",http://www.revolucionsa.com/,Revolucion Coffee + Juice (Owner),https://www.google.com/maps/contrib/115531207476296535887,https://lh5.googleusercontent.com/p/AF1QipN3QHLUZXOhTCN2MXANU_USOAx4x0eiwrf8eIHM=w408-h544-k-no,Juice shop,"Juice shop, Coffee shop, Health food restaurant, Vegetarian restaurant",4.4,7 AM-7 PM,Open All Days,(210) 701-0725,"Revolucion Coffee + Juice, 7959 Broadway #500, San Antonio, TX 78209","acai bowls, tacos, latte, vegan, healthy, matcha, wifi, drip coffee, tamales, breakfast burrito",https://www.google.com/maps/place/Revoluci%C3%B3n+Coffee+%2B+Juice/data=!4m7!3m6!1s0x865cf5461ad5bceb:0x3997bbb2621add5a!8m2!3d29.5061074!4d-98.4672145!16s%2Fg%2F11_t553xs!19sChIJ67zVGkb1XIYRWt0aYrK7lzk?authuser=0&hl=en&rclk=1
-ChIJ98yakDxgXIYRQk2YwcaWu1I,What's Brewing Coffee Roasters,"Longtime, family-owned gourmet coffee provider offers specialty roasted-to-order beans & blends.",False,570,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
+link: https://www.google.com/maps/search/Perks+Coffee+%26+More/@29.421926799999998,-98.4843688?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 14 reviews",http://secondseasoncoffee.com/,Brown Coffee Co - Southtown (Ye Zhu ),https://www.google.com/maps/contrib/112174374762559614705,https://lh5.googleusercontent.com/p/AF1QipON0UWOhXEUTv1ICCNfrf4OxBTEbOppVaKMhgj2=w408-h306-k-no,Ka Pei Dian ,Ka Pei Dian ,4.7,07:00-19:00,Open All Days,,"Brown Coffee Co - Southtown, 812 S Alamo St, San Antonio, TX 78210Mei Guo ","atmosphere, Ka Pei Shi , espresso, Kao , Ting Che , Bei , Dou , Tang , Xian Pai ",https://www.google.com/maps/place/Brown+Coffee+Co+-+Southtown/data=!4m7!3m6!1s0x865c58a8c8628f4f:0x326bbb23363aa9a6!8m2!3d29.4152655!4d-98.4890993!16s%2Fg%2F11gf4rhpcg!19sChIJT49iyKhYXIYRpqk6NiO7azI?authuser=0&hl=zh-TW&rclk=1
+ChIJ98yakDxgXIYRQk2YwcaWu1I,What's Brewing Coffee Roasters,,False,569,"Name: PRESS Coffee @ The Boardwalk
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
 Name: Early Bird Coffee
-link: https://www.google.com/maps/search/Early+Bird+Coffee/@29.549984799999997,-98.5809147?authuser=0&hl=en&entry=ttu
-Reviews: 330 reviews
+link: https://www.google.com/maps/search/Early+Bird+Coffee/@29.549984799999997,-98.5809147?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 334 reviews
 
 Name: What's Brewing Coffee Drive Thru
-link: https://www.google.com/maps/search/What%27s+Brewing+Coffee+Drive+Thru/@29.551246299999995,-98.5117075?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/What%27s+Brewing+Coffee+Drive+Thru/@29.551246299999995,-98.5117075?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 98 reviews
 
 Name: rsm coffee
-link: https://www.google.com/maps/search/rsm+coffee/@29.598715400000003,-98.4220256?authuser=0&hl=en&entry=ttu
-Reviews: 0 reviews",http://www.sacoffeeroasters.com/,What's Brewing Coffee Roasters (Owner),https://www.google.com/maps/contrib/101447978410461157961,https://lh5.googleusercontent.com/p/AF1QipPXJ4PcCdDKE50U6Aif62wlOu-hn0utf4pdoJ9R=w408-h408-k-no,Coffee shop,"Coffee shop, Coffee machine supplier, Coffee roasters, Tea store",4.8,8 AM-6 PM,Open All Days,(210) 308-8882,"What's Brewing Coffee Roasters, 138 W Rhapsody Dr, San Antonio, TX 78216","pinball, beans, roasted, machines, board games, smell, arcade, honey, quarters, warehouse",https://www.google.com/maps/place/What%27s+Brewing+Coffee+Roasters/data=!4m7!3m6!1s0x865c603c909accf7:0x52bb96c6c1984d42!8m2!3d29.5450882!4d-98.4969805!16s%2Fg%2F1vm_y9cc!19sChIJ98yakDxgXIYRQk2YwcaWu1I?authuser=0&hl=en&rclk=1
+link: https://www.google.com/maps/search/rsm+coffee/@29.598715400000003,-98.4220256?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 0 reviews",http://www.sacoffeeroasters.com/,What's Brewing Coffee Roasters (Ye Zhu ),https://www.google.com/maps/contrib/101447978410461157961,https://lh5.googleusercontent.com/p/AF1QipPXJ4PcCdDKE50U6Aif62wlOu-hn0utf4pdoJ9R=w408-h408-k-no,Ka Pei Dian ,"Ka Pei Dian , Ka Pei Ji Gong Ying Shang , Ka Pei Hong Bei Shang , Cha Xie Dian ",4.8,08:00-18:00,Open All Days,+1 210-308-8882,"What's Brewing Coffee Roasters, 138 W Rhapsody Dr, San Antonio, TX 78216Mei Guo ","Dan Zhu Tai , Dou , Kao , Ji , Zhuo You , Chou , Feng Mi , Cang Ku ",https://www.google.com/maps/place/What%27s+Brewing+Coffee+Roasters/data=!4m7!3m6!1s0x865c603c909accf7:0x52bb96c6c1984d42!8m2!3d29.5450882!4d-98.4969805!16s%2Fg%2F1vm_y9cc!19sChIJ98yakDxgXIYRQk2YwcaWu1I?authuser=0&hl=zh-TW&rclk=1
 ChIJqSzpPjL1XIYRzi7wNSY9Cns,Theory Coffee Company,,False,516,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
 Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.480806599999998,-98.4653348?authuser=0&hl=en&entry=ttu
-Reviews: 760 reviews
+link: https://www.google.com/maps/search/Merit+Coffee/@29.480806599999998,-98.4653348?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 761 reviews
 
 Name: Estate Coffee Company
-link: https://www.google.com/maps/search/Estate+Coffee+Company/@29.424845899999998,-98.4770163?authuser=0&hl=en&entry=ttu
-Reviews: 455 reviews
+link: https://www.google.com/maps/search/Estate+Coffee+Company/@29.424845899999998,-98.4770163?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 457 reviews
 
 Name: Olla express cafe
-link: https://www.google.com/maps/search/Olla+express+cafe/@29.4394089,-98.4864738?authuser=0&hl=en&entry=ttu
-Reviews: 196 reviews
+link: https://www.google.com/maps/search/Olla+express+cafe/@29.4394089,-98.4864738?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 197 reviews
 
 Name: Flavor Corner
-link: https://www.google.com/maps/search/Flavor+Corner/@29.515367899999998,-98.452924?authuser=0&hl=en&entry=ttu
-Reviews: 1 reviews",http://www.theorycoffeeco.com/,Theory Coffee Company (Owner),https://www.google.com/maps/contrib/102352869665763178616,https://lh5.googleusercontent.com/p/AF1QipOo392eK2OTmVYI_vihWgmOQ-qoHW7sy7lZKSRY=w408-h306-k-no,Coffee shop,"Coffee shop, Restaurant",4.9,6 AM-2 PM,Open All Days,(512) 507-3025,"Theory Coffee Company, 2347 Nacogdoches Rd, San Antonio, TX 78209","espresso, pastries, cup, food truck, vanilla, small business, tasting, cinnamon latte, honey latte, quick service",https://www.google.com/maps/place/Theory+Coffee+Company/data=!4m7!3m6!1s0x865cf5323ee92ca9:0x7b0a3d2635f02ece!8m2!3d29.5153263!4d-98.4529344!16s%2Fg%2F11b7c2p4xw!19sChIJqSzpPjL1XIYRzi7wNSY9Cns?authuser=0&hl=en&rclk=1
-ChIJaw0r4oFnXIYRRFjU9sCyN64,Brevity Coffee Co.,,False,458,"Name: Early Bird Coffee
-link: https://www.google.com/maps/search/Early+Bird+Coffee/@29.549984799999997,-98.5809147?authuser=0&hl=en&entry=ttu
-Reviews: 330 reviews
-
-Name: Archies Coffee Lounge
-link: https://www.google.com/maps/search/Archies+Coffee+Lounge/@29.532081899999998,-98.59078489999999?authuser=0&hl=en&entry=ttu
-Reviews: 241 reviews
-
-Name: Bright Coffee
-link: https://www.google.com/maps/search/Bright+Coffee/@29.461886,-98.50804769999999?authuser=0&hl=en&entry=ttu
-Reviews: 160 reviews
-
-Name: Breton Organic Coffee
-link: https://www.google.com/maps/search/Breton+Organic+Coffee/@29.5462971,-98.615595?authuser=0&hl=en&entry=ttu
-Reviews: 65 reviews",http://www.brevitycoffee.com/,Brevity Coffee Co. (Owner),https://www.google.com/maps/contrib/108652766829678319493,https://lh5.googleusercontent.com/p/AF1QipOk3Y0z5O9Sg6ZnKrSSlcx-fEe2B_-yN-6MzvQ5=w408-h544-k-no,Coffee shop,Coffee shop,4.8,5 AM-9 PM,Open All Days,(210) 549-7799,"Brevity Coffee Co., 8802 Huebner Rd, San Antonio, TX 78240","drive thru, flavors, punch card, smoothie, mudslide, red bull, morning, irish cream, chai latte, shake",https://www.google.com/maps/place/Brevity+Coffee+Co./data=!4m7!3m6!1s0x865c6781e22b0d6b:0xae37b2c0f6d45844!8m2!3d29.5237046!4d-98.5994811!16s%2Fg%2F11fmqkby3w!19sChIJaw0r4oFnXIYRRFjU9sCyN64?authuser=0&hl=en&rclk=1
-ChIJjTaBbAf2XIYR8HeDknSRGkY,Estate Coffee Company,"Bright, modern cafe with a few seats, pouring craft coffee & espresso behind a dark wood bar.",False,455,"Name: Local Coffee
-link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=en&entry=ttu
-Reviews: 995 reviews
+link: https://www.google.com/maps/search/Flavor+Corner/@29.515367899999998,-98.452924?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 1 reviews",http://www.theorycoffeeco.com/,Theory Coffee Company (Ye Zhu ),https://www.google.com/maps/contrib/102352869665763178616,https://lh5.googleusercontent.com/p/AF1QipOo392eK2OTmVYI_vihWgmOQ-qoHW7sy7lZKSRY=w408-h306-k-no,Ka Pei Dian ,"Ka Pei Dian , Can Ting ",4.9,06:00-14:00,Open All Days,+1 512-507-3025,"Theory Coffee Company, 2347 Nacogdoches Rd, San Antonio, TX 78209Mei Guo ","espresso, Gao , Bei , Xiang Cao , Pin Jiu , Su Shi Dian ",https://www.google.com/maps/place/Theory+Coffee+Company/data=!4m7!3m6!1s0x865cf5323ee92ca9:0x7b0a3d2635f02ece!8m2!3d29.5153263!4d-98.4529344!16s%2Fg%2F11b7c2p4xw!19sChIJqSzpPjL1XIYRzi7wNSY9Cns?authuser=0&hl=zh-TW&rclk=1
+ChIJjTaBbAf2XIYR8HeDknSRGkY,Estate Coffee Company,,False,457,"Name: Local Coffee
+link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 992 reviews
 
 Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
 Name: Brown Coffee Co - Southtown
-link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 691 reviews
 
 Name: Theory Coffee Company
-link: https://www.google.com/maps/search/Theory+Coffee+Company/@29.5153263,-98.45293439999999?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Theory+Coffee+Company/@29.5153263,-98.45293439999999?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 516 reviews
 
 Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews",http://www.estatecoffeecompany.com/,Estate Coffee Company (Owner),https://www.google.com/maps/contrib/117633595833094521936,https://lh5.googleusercontent.com/p/AF1QipN1kmRaGG0PfJBsd08DjLlFIzbgWZYBgzWudOW4=w408-h306-k-no,Coffee shop,Coffee shop,4.7,7 AM-6 PM,Open All Days,(210) 267-8725,"Estate Coffee Company, 1320 E Houston St a101, San Antonio, TX 78205","latte, atmosphere, pastries, honey, lavender, light, cortado, tacos, brewing, roasted coffee",https://www.google.com/maps/place/Estate+Coffee+Company/data=!4m7!3m6!1s0x865cf6076c81368d:0x461a9174928377f0!8m2!3d29.4248459!4d-98.4770163!16s%2Fg%2F11clt9qw6w!19sChIJjTaBbAf2XIYR8HeDknSRGkY?authuser=0&hl=en&rclk=1
-ChIJyeaHE11mXIYRUczPrLKqIGo,Indy Coffee Club,"Hip coffeehouse featuring artisanal coffee drinks & light bites, plus body oil, soaps & apparel.",False,450,"Name: Brevity Coffee Co.
-link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.5237046,-98.59948109999999?authuser=0&hl=en&entry=ttu
-Reviews: 458 reviews
-
-Name: Mildfire Coffee Roasters
-link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=en&entry=ttu
-Reviews: 262 reviews
-
-Name: Archies Coffee Lounge
-link: https://www.google.com/maps/search/Archies+Coffee+Lounge/@29.532081899999998,-98.59078489999999?authuser=0&hl=en&entry=ttu
-Reviews: 241 reviews
-
-Name: Me Latte
-link: https://www.google.com/maps/search/Me+Latte/@29.5877754,-98.63367799999999?authuser=0&hl=en&entry=ttu
-Reviews: 74 reviews",https://indycoffeeclub.square.site/,Indy Coffee Club (Owner),https://www.google.com/maps/contrib/107191352250281371148,https://lh5.googleusercontent.com/p/AF1QipNr_BDCPJHHzOOIzaDnaaMJiSoICQDD0-Z3L4B_=w408-h306-k-no,Coffee shop,"Coffee shop, Restaurant",4.5,8 AM-3 PM,Open All Days,(210) 233-9203,"Indy Coffee Club, 7114 UTSA Boulevard Suite #103, San Antonio, TX 78249","cup, espresso, avocado toast, atmosphere, brunch, vanilla, art, hipster, students, cereal milk latte",https://www.google.com/maps/place/Indy+Coffee+Club/data=!4m7!3m6!1s0x865c665d1387e6c9:0x6a20aab2accfcc51!8m2!3d29.5768804!4d-98.6260396!16s%2Fg%2F11bwylp_30!19sChIJyeaHE11mXIYRUczPrLKqIGo?authuser=0&hl=en&rclk=1
-ChIJ6wibnHJfXIYRfCdZUqV4upw,Philo Coffee,"Low-key neighborhood joint with outdoor seating offering coffee, light bites, pastries, beer & wine.",False,418,"Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.454468600000002,-98.48352440000001?authuser=0&hl=en&entry=ttu
-Reviews: 1170 reviews
+link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 79 reviews",http://www.estatecoffeecompany.com/,Estate Coffee Company (Ye Zhu ),https://www.google.com/maps/contrib/117633595833094521936,https://lh5.googleusercontent.com/p/AF1QipN1kmRaGG0PfJBsd08DjLlFIzbgWZYBgzWudOW4=w408-h306-k-no,Ka Pei Dian ,Ka Pei Dian ,4.7,07:00-18:00,Xing Qi Yi ,+1 210-267-8725,"Estate Coffee Company, 1320 E Houston St a101, San Antonio, TX 78205Mei Guo ","Na Tie , atmosphere, espresso, Gao , Feng Mi , Xun Yi Cao , Guang , taco, Niang Zao ",https://www.google.com/maps/place/Estate+Coffee+Company/data=!4m7!3m6!1s0x865cf6076c81368d:0x461a9174928377f0!8m2!3d29.4248459!4d-98.4770163!16s%2Fg%2F11clt9qw6w!19sChIJjTaBbAf2XIYR8HeDknSRGkY?authuser=0&hl=zh-TW&rclk=1
+ChIJ6wibnHJfXIYRfCdZUqV4upw,Philo Coffee,,False,417,"Name: Summer Moon Coffee
+link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.454468600000002,-98.48352440000001?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 1172 reviews
 
 Name: Local Coffee
-link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=en&entry=ttu
-Reviews: 995 reviews
+link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 992 reviews
 
 Name: Olmos Perk
-link: https://www.google.com/maps/search/Olmos+Perk/@29.4791667,-98.4922222?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Olmos+Perk/@29.4791667,-98.4922222?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 353 reviews
 
 Name: Folklores Coffee House
-link: https://www.google.com/maps/search/Folklores+Coffee+House/@29.443039900000002,-98.46129340000002?authuser=0&hl=en&entry=ttu
-Reviews: 345 reviews
+link: https://www.google.com/maps/search/Folklores+Coffee+House/@29.443039900000002,-98.46129340000002?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 346 reviews
 
 Name: Jubilee Coffee
-link: https://www.google.com/maps/search/Jubilee+Coffee/@29.4705893,-98.49156459999999?authuser=0&hl=en&entry=ttu
-Reviews: 44 reviews",http://www.philocoffeesa.com/,Philo Coffee (Owner),https://www.google.com/maps/contrib/110214777911962812051,https://lh5.googleusercontent.com/p/AF1QipPoyczYeMMIlPJ587AtcMVYdqYDXuplfDkVsjno=w408-h306-k-no,Coffee shop,"Coffee shop, Bar",4.6,7 AM-6 PM,Open All Days,(210) 314-8450,"Philo Coffee, 606 W French Pl, San Antonio, TX 78212","atmosphere, latte, barista, breakfast, patio, bagel, croissant, lox, danish, ham",https://www.google.com/maps/place/Philo+Coffee/data=!4m7!3m6!1s0x865c5f729c9b08eb:0x9cba78a55259277c!8m2!3d29.449902!4d-98.499704!16s%2Fg%2F11g072xqqs!19sChIJ6wibnHJfXIYRfCdZUqV4upw?authuser=0&hl=en&rclk=1
-ChIJIzalQ1RZXIYRWt6CDnymWTQ,Dutch Bros Coffee,"Fun-loving drive-thru serving up customized coffees, Rebel energy drinks, cold brew, tea & more.",False,410,"Name: Dunkin'
-link: https://www.google.com/maps/search/Dunkin%27/@29.408353599999998,-98.6288276?authuser=0&hl=en&entry=ttu
-Reviews: 1588 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.3559445,-98.5430185?authuser=0&hl=en&entry=ttu
-Reviews: 628 reviews
-
-Name: San Antonio Gold
-link: https://www.google.com/maps/search/San+Antonio+Gold/@29.405330899999996,-98.5027644?authuser=0&hl=en&entry=ttu
-Reviews: 285 reviews
-
-Name: Corner Coffee and More
-link: https://www.google.com/maps/search/Corner+Coffee+and+More/@29.351865999999998,-98.5036956?authuser=0&hl=en&entry=ttu
-Reviews: 109 reviews",https://locations.dutchbros.com/dutch-bros-coffee-8353dc4234e9%3Fy_source%3D1_Mjg5Mzk5OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D,Dutch Bros Coffee (Owner),https://www.google.com/maps/contrib/114949858778882730076,https://lh5.googleusercontent.com/p/AF1QipNEi9So-jzlYdwK-p_9lgJ5430Qa9tSwKMbC0q5=w408-h308-k-no,Coffee shop,"Coffee shop, Cafe, Juice shop, Tea house",4.2,5 AM-10 PM,Open All Days,(541) 955-4700,"Dutch Bros Coffee, 2227 SW Military Dr, San Antonio, TX 78224","drive thru, window, prices, golden eagle, sugar, 30 minutes, chocolate, people, energy drinks, morning",https://www.google.com/maps/place/Dutch+Bros+Coffee/data=!4m7!3m6!1s0x865c595443a53623:0x3459a67c0e82de5a!8m2!3d29.35697!4d-98.5298588!16s%2Fg%2F11sm_3kh05!19sChIJIzalQ1RZXIYRWt6CDnymWTQ?authuser=0&hl=en&rclk=1
-ChIJHdDRKRRlXIYRJTR5Hs9ey_g,Merit Coffee,"Buzzy coffeehouse offering a changing selection of brews in an intimate, industrial-chic setting.",False,406,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.6633992,-98.63156140000001?authuser=0&hl=en&entry=ttu
-Reviews: 502 reviews
-
-Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.673756700000002,-98.6358952?authuser=0&hl=en&entry=ttu
-Reviews: 247 reviews
-
-Name: Me Latte
-link: https://www.google.com/maps/search/Me+Latte/@29.5877754,-98.63367799999999?authuser=0&hl=en&entry=ttu
-Reviews: 74 reviews
-
-Name: Mercato Cafe
-link: https://www.google.com/maps/search/Mercato+Cafe/@29.610056699999998,-98.60673600000001?authuser=0&hl=en&entry=ttu
-Reviews: 15 reviews",https://meritcoffee.com/,Merit Coffee (Owner),https://www.google.com/maps/contrib/103417391625109216960,https://lh5.googleusercontent.com/p/AF1QipNQ6fvIKPlV0cwXhcytN38z-xJJPzCa-2TrRVXN=w408-h312-k-no,Cafe,"Cafe, Coffee shop",4.5,6 AM-8 PM,Open All Days,(210) 530-4349,"Merit Coffee, 24175 I-10 #110, San Antonio, TX 78257","atmosphere, latte, baristas, beans, morning, roast, cup, environment, pastries, matcha",https://www.google.com/maps/place/Merit+Coffee/data=!4m7!3m6!1s0x865c651429d1d01d:0xf8cb5ecf1e793425!8m2!3d29.6660382!4d-98.6326363!16s%2Fg%2F11c1wpx02w!19sChIJHdDRKRRlXIYRJTR5Hs9ey_g?authuser=0&hl=en&rclk=1
-ChIJzc92vHhfXIYRJgxWE5SJSc0,Revolucion Coffee + Juice,,False,405,"Name: La Villita Cafe
-link: https://www.google.com/maps/search/La+Villita+Cafe/@29.4214682,-98.4891433?authuser=0&hl=en&entry=ttu
-Reviews: 1428 reviews
-
-Name: Juice Joint
-link: https://www.google.com/maps/search/Juice+Joint/@29.4446771,-98.4943687?authuser=0&hl=en&entry=ttu
-Reviews: 115 reviews
-
-Name: SouthTownJuice
-link: https://www.google.com/maps/search/SouthTownJuice/@29.408863599999997,-98.501176?authuser=0&hl=en&entry=ttu
-Reviews: 109 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews",http://www.revolucionsa.com/,Revolucion Coffee + Juice (Owner),https://www.google.com/maps/contrib/103197267003493951608,https://lh5.googleusercontent.com/p/AF1QipOwwd8FiPfcj-Sd-e7hQHlJF3XgoNheQXUeMSbQ=w408-h544-k-no,Coffee shop,"Coffee shop, Cafe, Juice shop, Vegan restaurant, Vegetarian restaurant",4.4,7 AM-2 PM,Open All Days,(210) 607-1818,"Revolucion Coffee + Juice, 300 E Houston St Suite 105, San Antonio, TX 78205","acai bowl, juices, breakfast tacos, vegan, breakfast burrito, pb&j, mayan mocha, healthy food, chorizo tacos, spicy",https://www.google.com/maps/place/Revoluci%C3%B3n+Coffee+%2B+Juice/data=!4m7!3m6!1s0x865c5f78bc76cfcd:0xcd49899413560c26!8m2!3d29.4263694!4d-98.4893039!16s%2Fg%2F11ghl5sy_q!19sChIJzc92vHhfXIYRJgxWE5SJSc0?authuser=0&hl=en&rclk=1
-ChIJUUX-cjhgXIYRQmJmoZnPX_k,Medina River Coffee Roasters,,False,367,"Name: Black Rifle Coffee Company
-link: https://www.google.com/maps/search/Black+Rifle+Coffee+Company/@29.565935399999997,-98.4843537?authuser=0&hl=en&entry=ttu
-Reviews: 1565 reviews
+link: https://www.google.com/maps/search/Jubilee+Coffee/@29.4705893,-98.49156459999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 44 reviews",http://www.philocoffeesa.com/,Philo Coffee (Ye Zhu ),https://www.google.com/maps/contrib/110214777911962812051,https://lh5.googleusercontent.com/p/AF1QipPoyczYeMMIlPJ587AtcMVYdqYDXuplfDkVsjno=w408-h306-k-no,Ka Pei Dian ,"Ka Pei Dian , Jiu Ba ",4.6,07:00-18:00,Open All Days,+1 210-314-8450,"Philo Coffee, 606 W French Pl, San Antonio, TX 78212Mei Guo ","atmosphere, Na Tie , Ka Pei Shi , Zao Can , Bei Guo , Ke Song , Dan Mai Mian Bao , Huo Tui ",https://www.google.com/maps/place/Philo+Coffee/data=!4m7!3m6!1s0x865c5f729c9b08eb:0x9cba78a55259277c!8m2!3d29.449902!4d-98.499704!16s%2Fg%2F11g072xqqs!19sChIJ6wibnHJfXIYRfCdZUqV4upw?authuser=0&hl=zh-TW&rclk=1
+ChIJUUX-cjhgXIYRQmJmoZnPX_k,Medina River Coffee Roasters,,False,368,"Name: Black Rifle Coffee Company
+link: https://www.google.com/maps/search/Black+Rifle+Coffee+Company/@29.565935399999997,-98.4843537?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 1563 reviews
 
 Name: What's Brewing Coffee Roasters
-link: https://www.google.com/maps/search/What%27s+Brewing+Coffee+Roasters/@29.545088200000002,-98.4969805?authuser=0&hl=en&entry=ttu
-Reviews: 569 reviews
+link: https://www.google.com/maps/search/What%27s+Brewing+Coffee+Roasters/@29.545088200000002,-98.4969805?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 570 reviews
 
 Name: Coffee Me Crazy
-link: https://www.google.com/maps/search/Coffee+Me+Crazy/@29.512514199999995,-98.6630223?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Coffee+Me+Crazy/@29.512514199999995,-98.6630223?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 293 reviews
 
 Name: Mildfire Coffee Roasters
-link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=en&entry=ttu
-Reviews: 262 reviews",http://www.medinarivercoffee.com/,Medina River Coffee Roasters (Owner),https://www.google.com/maps/contrib/104764577701159018428,https://lh5.googleusercontent.com/p/AF1QipOFDyFbHI2dBQLdKEl6MZbwZQ9l8oAAd3DsaccX=w408-h435-k-no,Coffee shop,"Coffee shop, Cafe",4.7,7 AM-4 PM,Open All Days,(210) 802-6155,"Medina River Coffee Roasters, 11825 West Ave Suite 101, San Antonio, TX 78216","flight, baristas, pastries, beans, almond, honey, kolaches, smores, lavender, coyote",https://www.google.com/maps/place/Medina+River+Coffee+Roasters/data=!4m7!3m6!1s0x865c603872fe4551:0xf95fcf99a1666242!8m2!3d29.5493563!4d-98.5061104!16s%2Fg%2F11fhvkcj26!19sChIJUUX-cjhgXIYRQmJmoZnPX_k?authuser=0&hl=en&rclk=1
-ChIJmybBeEiKXIYRI9hSCHAYqik,Mudslingers Drive-Thru Coffee,,False,366,"Name: Mildfire Coffee Roasters
-link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=en&entry=ttu
-Reviews: 262 reviews
-
-Name: Curator Coffee
-link: https://www.google.com/maps/search/Curator+Coffee/@29.5785798,-98.4408077?authuser=0&hl=en&entry=ttu
-Reviews: 234 reviews
-
-Name: Coffee Crush
-link: https://www.google.com/maps/search/Coffee+Crush/@29.6051242,-98.4177069?authuser=0&hl=en&entry=ttu
-Reviews: 205 reviews
-
-Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.640142599999997,-98.4536147?authuser=0&hl=en&entry=ttu
-Reviews: 185 reviews
-
-Name: Dunkin'
-link: https://www.google.com/maps/search/Dunkin%27/@29.578462299999998,-98.44267599999999?authuser=0&hl=en&entry=ttu
-Reviews: 82 reviews",http://www.mudslingerstx.com/,Mudslingers Drive-Thru Coffee (Owner),https://www.google.com/maps/contrib/102165452606677491012,https://lh5.googleusercontent.com/p/AF1QipPlDcCu-hsDqFR8Nh0SM61fsIRYATvdlKjsRbOA=w408-h408-k-no,Coffee shop,Coffee shop,4.7,6 AM-6 PM,Open All Days,(210) 267-5700,"Mudslingers Drive-Thru Coffee, 2404 Thousand Oaks Dr, San Antonio, TX 78232","donuts, morning, punch card, cinnamon, espresso, latte, smile, window, macchiato, syrups",https://www.google.com/maps/place/Mudslingers+Drive-Thru+Coffee/data=!4m7!3m6!1s0x865c8a4878c1269b:0x29aa18700852d823!8m2!3d29.5853463!4d-98.4509308!16s%2Fg%2F11c2lhdvm0!19sChIJmybBeEiKXIYRI9hSCHAYqik?authuser=0&hl=en&rclk=1
-ChIJa2tI_n1ZXIYR9wcQ_h5p3zU,Folklores Coffee House,,False,345,"Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
-
-Name: Poetic Republic Coffee & Wine Co.
-link: https://www.google.com/maps/search/Poetic+Republic+Coffee+%26+Wine+Co./@29.3984663,-98.48209849999999?authuser=0&hl=en&entry=ttu
-Reviews: 282 reviews
-
-Name: Kulture kafe
-link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=en&entry=ttu
-Reviews: 159 reviews
-
-Name: Folklores Coffee - Government Hill
-link: https://www.google.com/maps/search/Folklores+Coffee+-+Government+Hill/@29.4430781,-98.4611602?authuser=0&hl=en&entry=ttu
-Reviews: 78 reviews",https://folklorescoffeehouse.square.site/,Folklores Coffee House (Owner),https://www.google.com/maps/contrib/116686763588846189309,https://lh5.googleusercontent.com/p/AF1QipM5C6RLfq2_OM2wugCBbIOBHK3HJt_i1O7rgcWZ=w408-h406-k-no,Coffee shop,Coffee shop,4.7,6:30 AM-5 PM,Open All Days,(210) 455-0360,"Folklores Coffee House, 1526 E Grayson St, San Antonio, TX 78208","atmosphere, latte, CBD, flavor, community, art, pastry, banana, bagel, wall",https://www.google.com/maps/place/Folklores+Coffee+House/data=!4m7!3m6!1s0x865c597dfe486b6b:0x35df691efe1007f7!8m2!3d29.4430399!4d-98.4612934!16s%2Fg%2F11ff333zg6!19sChIJa2tI_n1ZXIYR9wcQ_h5p3zU?authuser=0&hl=en&rclk=1
-ChIJh7ITc9dnXIYR-nVLb4z8Fdw,Early Bird Coffee,,False,330,"Name: Brevity Coffee Co.
-link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.5237046,-98.59948109999999?authuser=0&hl=en&entry=ttu
-Reviews: 458 reviews
-
-Name: Mildfire Coffee Roasters
-link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=en&entry=ttu
-Reviews: 262 reviews
-
-Name: Archies Coffee Lounge
-link: https://www.google.com/maps/search/Archies+Coffee+Lounge/@29.532081899999998,-98.59078489999999?authuser=0&hl=en&entry=ttu
-Reviews: 241 reviews
-
-Name: Ethos Coffee Cafe (inside CityChurch Video Cafe)
-link: https://www.google.com/maps/search/Ethos+Coffee+Cafe+%28inside+CityChurch+Video+Cafe%29/@29.5304751,-98.6444057?authuser=0&hl=en&entry=ttu
-Reviews: 107 reviews",https://coffeewithearlybird.com/,Early Bird Coffee (Owner),https://www.google.com/maps/contrib/114600120559000371076,https://lh5.googleusercontent.com/p/AF1QipM4Yn5uX6TXBcwUMYT5sv0XlOv6BVju-H5ELuA=w408-h306-k-no,Coffee shop,Coffee shop,4.9,7 AM-2 PM,Open All Days,(210) 857-7769,"Early Bird Coffee, 11745 I-10 #527, San Antonio, TX 78230","atmosphere, horchata latte, matcha, lavender, syrup, oat milk, small business, rosemary, airstream, danish",https://www.google.com/maps/place/Early+Bird+Coffee/data=!4m7!3m6!1s0x865c67d77313b287:0xdc15fc8c6f4b75fa!8m2!3d29.5499848!4d-98.5809147!16s%2Fg%2F11qndynqc8!19sChIJh7ITc9dnXIYR-nVLb4z8Fdw?authuser=0&hl=en&rclk=1
-ChIJlY0oIxxpXIYRbiN8p9-uDZM,Coffee Me Crazy,,False,293,"Name: Black Rifle Coffee Company
-link: https://www.google.com/maps/search/Black+Rifle+Coffee+Company/@29.565935399999997,-98.4843537?authuser=0&hl=en&entry=ttu
-Reviews: 1565 reviews
-
-Name: The Cajun Coffee Shack
-link: https://www.google.com/maps/search/The+Cajun+Coffee+Shack/@29.432229,-98.72222049999999?authuser=0&hl=en&entry=ttu
-Reviews: 680 reviews
-
-Name: The Cracked Mug Coffee House
-link: https://www.google.com/maps/search/The+Cracked+Mug+Coffee+House/@29.579894399999997,-98.6929251?authuser=0&hl=en&entry=ttu
-Reviews: 458 reviews
-
-Name: Medina River Coffee Roasters
-link: https://www.google.com/maps/search/Medina+River+Coffee+Roasters/@29.5493563,-98.5061104?authuser=0&hl=en&entry=ttu
-Reviews: 367 reviews
-
-Name: Me Latte
-link: https://www.google.com/maps/search/Me+Latte/@29.5877754,-98.63367799999999?authuser=0&hl=en&entry=ttu
-Reviews: 74 reviews",http://coffeemecrazy.org/%3Futm_source%3Dgmb%26utm_medium%3Dreferral,Coffee Me Crazy (Owner),https://www.google.com/maps/contrib/102822647009887517534,https://lh5.googleusercontent.com/p/AF1QipNmELk4NvLIouMJg4zIliPM3xs1h-wXNaG3ZmOv=w408-h306-k-no,Coffee shop,"Coffee shop, Bakery, Coffee roasters",4.6,6 AM-3 PM,Open All Days,(726) 999-2637,"Coffee Me Crazy, 7715 Tezel Rd, San Antonio, TX 78250","pastries, kolaches, art, vegan, cinnamon roll, oat milk, small business, jewelry, bourbon, brisket",https://www.google.com/maps/place/Coffee+Me+Crazy/data=!4m7!3m6!1s0x865c691c23288d95:0x930daedfa77c236e!8m2!3d29.5125142!4d-98.6630223!16s%2Fg%2F11jfk7v001!19sChIJlY0oIxxpXIYRbiN8p9-uDZM?authuser=0&hl=en&rclk=1
-ChIJXYzglWFfXIYRwKdBHpybC08,Shotgun House Coffee Roasters,,False,290,"Name: Black Rifle Coffee Company
-link: https://www.google.com/maps/search/Black+Rifle+Coffee+Company/@29.565935399999997,-98.4843537?authuser=0&hl=en&entry=ttu
-Reviews: 1565 reviews
-
-Name: Barrio Barista
-link: https://www.google.com/maps/search/Barrio+Barista/@29.450522999999993,-98.5776908?authuser=0&hl=en&entry=ttu
-Reviews: 821 reviews
-
-Name: Folklores Coffee House
-link: https://www.google.com/maps/search/Folklores+Coffee+House/@29.443039900000002,-98.46129340000002?authuser=0&hl=en&entry=ttu
-Reviews: 345 reviews
-
-Name: kapej
-link: https://www.google.com/maps/search/kapej/@29.4355003,-98.4909881?authuser=0&hl=en&entry=ttu
-Reviews: 190 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews",http://www.shotgunhouseroasters.com/,Shotgun House Coffee Roasters (Owner),https://www.google.com/maps/contrib/110004668685021263750,https://lh5.googleusercontent.com/p/AF1QipOJFLMwGXWW62FcMWT5VondcDLEI3Ki54g2sIQR=w408-h306-k-no,Coffee roasters,"Coffee roasters, Beer garden, Wine bar",4.7,8 AM-5 PM,Open All Days,(254) 913-9031,"Shotgun House Coffee Roasters, 1333 Buena Vista St, San Antonio, TX 78207","atmosphere, latte, space, horchata, barista, building, warehouse, tacos, parking, wine",https://www.google.com/maps/place/Shotgun+House+Coffee+Roasters/data=!4m7!3m6!1s0x865c5f6195e08c5d:0x4f0b9b9c1e41a7c0!8m2!3d29.4259137!4d-98.5133327!16s%2Fg%2F11g9vx4wyk!19sChIJXYzglWFfXIYRwKdBHpybC08?authuser=0&hl=en&rclk=1
-ChIJV9h21PdiXIYR46B3i-5c-qc,Poetic Republic Coffee & Wine Co.,"Established cafe offering sandwiches, salads & breakfast, plus unique sweet teas & espresso drinks.",False,283,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
-
-Name: Folklores Coffee House
-link: https://www.google.com/maps/search/Folklores+Coffee+House/@29.443039900000002,-98.46129340000002?authuser=0&hl=en&entry=ttu
-Reviews: 345 reviews
-
-Name: kapej
-link: https://www.google.com/maps/search/kapej/@29.4355003,-98.4909881?authuser=0&hl=en&entry=ttu
-Reviews: 190 reviews
-
-Name: The Koffee Kup Company
-link: https://www.google.com/maps/search/The+Koffee+Kup+Company/@29.464580699999996,-98.54407929999999?authuser=0&hl=en&entry=ttu
-Reviews: 156 reviews",http://www.poeticrepubliccoffee.com/,Poetic Republic Coffee & Wine Co. (Owner),https://www.google.com/maps/contrib/108105811053644719011,https://lh5.googleusercontent.com/p/AF1QipNsfm2_ytonI9DJoJo61bQUVW-JGU4VihtBfNjC=w408-h272-k-no,Coffee shop,"Coffee shop, Cafe",4.7,7 AM-6 PM,Open All Days,,"Poetic Republic Coffee & Wine Co., 2330 S Presa St, San Antonio, TX 78210","atmosphere, latte, read, baristas, cortado, parking, brown sugar, espresso, chocolate, wifi",https://www.google.com/maps/place/Poetic+Republic+Coffee+%26+Wine+Co./data=!4m7!3m6!1s0x865c62f7d476d857:0xa7fa5cee8b77a0e3!8m2!3d29.3984663!4d-98.4820985!16s%2Fg%2F11hbnc0tm8!19sChIJV9h21PdiXIYR46B3i-5c-qc?authuser=0&hl=en&rclk=1
-ChIJq584NGr3XIYR_hIJHRQXciI,Tandem San Antonio,,False,282,"Name: Halcyon Southtown
-link: https://www.google.com/maps/search/Halcyon+Southtown/@29.4099575,-98.4954049?authuser=0&hl=en&entry=ttu
-Reviews: 2062 reviews
-
-Name: Poetic Republic Coffee & Wine Co.
-link: https://www.google.com/maps/search/Poetic+Republic+Coffee+%26+Wine+Co./@29.3984663,-98.48209849999999?authuser=0&hl=en&entry=ttu
-Reviews: 282 reviews
-
-Name: Tumbleweed Coffee
-link: https://www.google.com/maps/search/Tumbleweed+Coffee/@29.4146538,-98.4882863?authuser=0&hl=en&entry=ttu
-Reviews: 34 reviews
-
-Name: Tandem
-link: https://www.google.com/maps/search/Tandem/@29.393668899999998,-98.5326178?authuser=0&hl=en&entry=ttu
-Reviews: 0 reviews",http://www.tandemsatx.net/,Tandem San Antonio (Owner),https://www.google.com/maps/contrib/114450126739091375041,https://lh5.googleusercontent.com/p/AF1QipMcMd5Co1TpG_VmVjA-xVturFOn9FzHwPMKipSy=w408-h544-k-no,Coffee shop,"Coffee shop, Bar, Beer garden",4.8,8 AM-11 PM,Open All Days,(210) 455-5400,"Tandem San Antonio, 310 Riverside Dr, San Antonio, TX 78210","beer, night, comedy, thursday, river, trivia, empanadas, open mic, art, sangria",https://www.google.com/maps/place/Tandem+San+Antonio/data=!4m7!3m6!1s0x865cf76a34389fab:0x227217141d0912fe!8m2!3d29.3771083!4d-98.480768!16s%2Fg%2F11mv5hqtqj!19sChIJq584NGr3XIYR_hIJHRQXciI?authuser=0&hl=en&rclk=1
-ChIJsVOTYsfzXIYRkGOkrRxwvw8,Red Runner Coffee - Walzem,,False,270,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.510625,-98.39477199999999?authuser=0&hl=en&entry=ttu
-Reviews: 1913 reviews
-
-Name: Revolucion Coffee + Juice
-link: https://www.google.com/maps/search/Revoluci%C3%B3n+Coffee+%2B+Juice/@29.506107399999994,-98.4672145?authuser=0&hl=en&entry=ttu
-Reviews: 689 reviews
-
-Name: Dutch Bros Coffee
-link: https://www.google.com/maps/search/Dutch+Bros+Coffee/@29.5099505,-98.3845686?authuser=0&hl=en&entry=ttu
-Reviews: 255 reviews
-
-Name: On The Grind
-link: https://www.google.com/maps/search/On+The+Grind/@29.5106449,-98.3827209?authuser=0&hl=en&entry=ttu
-Reviews: 72 reviews
-
-Name: Red Runner Coffee - Rittiman
-link: https://www.google.com/maps/search/Red+Runner+Coffee+-+Rittiman/@29.4789192,-98.36308849999999?authuser=0&hl=en&entry=ttu
-Reviews: 58 reviews",http://redrunnercoffee.com/,Red Runner Coffee - Walzem (Owner),https://www.google.com/maps/contrib/103475363932425452309,https://lh5.googleusercontent.com/p/AF1QipPsi4IgW1CQP20lVaT_kzidLI_lwkjKX7zMIZYi=w408-h544-k-no,Coffee shop,Coffee shop,4.6,6 AM-8 PM,Open All Days,(210) 868-5610,"Red Runner Coffee - Walzem, 6105 Walzem Rd, San Antonio, TX 78218","prices, barista, smoothies, flavor, drinks, hot chocolate, caramel, macchiato, window, strawberry",https://www.google.com/maps/place/Red+Runner+Coffee+-+Walzem/data=!4m7!3m6!1s0x865cf3c7629353b1:0xfbf701cada46390!8m2!3d29.508316!4d-98.3696289!16s%2Fg%2F11qpx909pz!19sChIJsVOTYsfzXIYRkGOkrRxwvw8?authuser=0&hl=en&rclk=1
-ChIJXXxUV3NhXIYRpIgWdHxbhyU,Mildfire Coffee Roasters,"Narrow, colorful coffee spot, with brews made from beans roasted on-site, plus smoothies & tea.",False,262,"Name: Black Rifle Coffee Company
-link: https://www.google.com/maps/search/Black+Rifle+Coffee+Company/@29.565935399999997,-98.4843537?authuser=0&hl=en&entry=ttu
-Reviews: 1565 reviews
+link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 262 reviews",http://www.medinarivercoffee.com/,Medina River Coffee Roasters (Ye Zhu ),https://www.google.com/maps/contrib/104764577701159018428,https://lh5.googleusercontent.com/p/AF1QipOFDyFbHI2dBQLdKEl6MZbwZQ9l8oAAd3DsaccX=w408-h435-k-no,Ka Pei Dian ,"Ka Pei Dian , Ka Pei Ting ",4.7,07:00-16:00,Open All Days,+1 210-802-6155,"Medina River Coffee Roasters, 11825 West Ave Suite 101, San Antonio, TX 78216Mei Guo ","Fei , Ka Pei Shi , Gao , Feng Mi , Nan Gua , Xun Yi Cao ",https://www.google.com/maps/place/Medina+River+Coffee+Roasters/data=!4m7!3m6!1s0x865c603872fe4551:0xf95fcf99a1666242!8m2!3d29.5493563!4d-98.5061104!16s%2Fg%2F11fhvkcj26!19sChIJUUX-cjhgXIYRQmJmoZnPX_k?authuser=0&hl=zh-TW&rclk=1
+ChIJaZgnxC31XIYR93T1MaVJpcU,Berry To Bean Coffee House,,False,289,"Name: PRESS Coffee @ The Boardwalk
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
 Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.5979596,-98.56330179999999?authuser=0&hl=en&entry=ttu
-Reviews: 768 reviews
+link: https://www.google.com/maps/search/Merit+Coffee/@29.480806599999998,-98.4653348?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 761 reviews
 
-Name: Brevity Coffee Co.
-link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.5237046,-98.59948109999999?authuser=0&hl=en&entry=ttu
-Reviews: 458 reviews
-
-Name: Early Bird Coffee
-link: https://www.google.com/maps/search/Early+Bird+Coffee/@29.549984799999997,-98.5809147?authuser=0&hl=en&entry=ttu
-Reviews: 330 reviews",http://www.mildfirecoffeeroasters.com/,Mildfire Coffee Roasters (Owner),https://www.google.com/maps/contrib/105703561943721987944,https://lh5.googleusercontent.com/p/AF1QipPZEJOu6pmIn2A2JnZYg8G43HbDayVcOrGZFvn4=w408-h543-k-no,Espresso bar,"Espresso bar, Cafe, Coffee shop",4.6,7 AM-3 PM,Open All Days,(210) 492-9544,"Mildfire Coffee Roasters, 15502 Huebner Rd #101, San Antonio, TX 78248","latte, roasted, baristas, beans, atmosphere, mocha, tacos, butter, flavor, muffins",https://www.google.com/maps/place/Mildfire+Coffee+Roasters/data=!4m7!3m6!1s0x865c617357547c5d:0x25875b7c741688a4!8m2!3d29.5844485!4d-98.5343058!16s%2Fg%2F1tt8cpmf!19sChIJXXxUV3NhXIYRpIgWdHxbhyU?authuser=0&hl=en&rclk=1
-ChIJA6AAxETzXIYRbwOF3M3HFv4,Dutch Bros Coffee,"Fun-loving drive-thru serving up customized coffees, Rebel energy drinks, cold brew, tea & more.",False,255,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.510625,-98.39477199999999?authuser=0&hl=en&entry=ttu
-Reviews: 1913 reviews
-
-Name: Dunkin'
-link: https://www.google.com/maps/search/Dunkin%27/@29.510687899999997,-98.3893234?authuser=0&hl=en&entry=ttu
-Reviews: 1014 reviews
-
-Name: Red Runner Coffee - Walzem
-link: https://www.google.com/maps/search/Red+Runner+Coffee+-+Walzem/@29.508315999999997,-98.3696289?authuser=0&hl=en&entry=ttu
-Reviews: 269 reviews
-
-Name: On The Grind
-link: https://www.google.com/maps/search/On+The+Grind/@29.5106449,-98.3827209?authuser=0&hl=en&entry=ttu
-Reviews: 72 reviews
-
-Name: Red Runner Coffee - Rittiman
-link: https://www.google.com/maps/search/Red+Runner+Coffee+-+Rittiman/@29.4789192,-98.36308849999999?authuser=0&hl=en&entry=ttu
-Reviews: 58 reviews",https://locations.dutchbros.com/dutch-bros-coffee-0e6f4bbfb29e%3Fy_source%3D1_Mjc1ODE3ODEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D,Dutch Bros Coffee (Owner),https://www.google.com/maps/contrib/107327751930547524479,https://lh5.googleusercontent.com/p/AF1QipN-QhB6VbSea7XsCZtn085VI_TDC_-EwxR1cugJ=w513-h240-k-no,Coffee shop,"Coffee shop, Cafe, Juice shop, Tea house",4.5,5 AM-10 PM,Open All Days,(541) 955-4700,"Dutch Bros Coffee, 5398 Walzem Rd, San Antonio, TX 78218","drive thru, prices, window, morning, golden eagle, employees, flavor, stickers, drinks, picture",https://www.google.com/maps/place/Dutch+Bros+Coffee/data=!4m7!3m6!1s0x865cf344c400a003:0xfe16c7cddc85036f!8m2!3d29.5099505!4d-98.3845686!16s%2Fg%2F11p5x5c_f0!19sChIJA6AAxETzXIYRbwOF3M3HFv4?authuser=0&hl=en&rclk=1
-ChIJTbdCBmJnXIYRmMrrGUFJEcA,Archies Coffee Lounge,,False,243,"Name: Black Rifle Coffee Company
-link: https://www.google.com/maps/search/Black+Rifle+Coffee+Company/@29.565935399999997,-98.4843537?authuser=0&hl=en&entry=ttu
-Reviews: 1565 reviews
-
-Name: Brevity Coffee Co.
-link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.5237046,-98.59948109999999?authuser=0&hl=en&entry=ttu
-Reviews: 458 reviews
-
-Name: Tea Time
-link: https://www.google.com/maps/search/Tea+Time/@29.546970400000003,-98.57783219999999?authuser=0&hl=en&entry=ttu
-Reviews: 341 reviews
-
-Name: Early Bird Coffee
-link: https://www.google.com/maps/search/Early+Bird+Coffee/@29.549984799999997,-98.5809147?authuser=0&hl=en&entry=ttu
-Reviews: 330 reviews",https://www.archiescoffee.com/,Archies Coffee Lounge (Owner),https://www.google.com/maps/contrib/103313116859861250581,https://lh5.googleusercontent.com/p/AF1QipMOWX29Zph_Ejvb_JEIBU6wY7s_U4KBRcyALtsf=w408-h544-k-no,Coffee shop,Coffee shop,4.7,6 AM-6 PM,Open All Days,(210) 314-7723,"Archies Coffee Lounge, 9630 Huebner Rd Suite 101, San Antonio, TX 78240","CBD, atmosphere, products, barista, latte, espresso, prices, environment, cbd coffee",https://www.google.com/maps/place/Archies+Coffee+Lounge/data=!4m7!3m6!1s0x865c67620642b74d:0xc011494119ebca98!8m2!3d29.5320819!4d-98.5907849!16s%2Fg%2F11j1hz7d7v!19sChIJTbdCBmJnXIYRmMrrGUFJEcA?authuser=0&hl=en&rclk=1
-ChIJBwAAwPb1XIYRH1vV4ha4xss,Larder,"Vintage, industrial-chic coffeehouse & specialty grocery offering sandwiches & gourmet pantry items.",False,240,"Name: Supper
-link: https://www.google.com/maps/search/Supper/@29.4428845,-98.481293?authuser=0&hl=en&entry=ttu
-Reviews: 1503 reviews
-
-Name: Savor The Culinary Institute of America
-link: https://www.google.com/maps/search/Savor+The+Culinary+Institute+of+America/@29.4435959,-98.48054479999999?authuser=0&hl=en&entry=ttu
-Reviews: 192 reviews
-
-Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews
-
-Name: Southerleigh Fine Food and Brewery
-link: https://www.google.com/maps/search/Southerleigh+Fine+Food+and+Brewery/@29.4425412,-98.47962240000001?authuser=0&hl=en&entry=ttu
-Reviews: 19 reviews",http://www.larderatemma.com/,Larder (Owner),https://www.google.com/maps/contrib/116962926867600329641,https://lh5.googleusercontent.com/p/AF1QipMZiYFWsI3dq3AycZrS7Jx-fg2hRnRqeV7FZ4Gd=w408-h544-k-no,Gourmet grocery store,"Gourmet grocery store, Cafe, Coffee shop, Grocery store, Takeout Restaurant, Sandwich shop",4.5,7 AM-8 PM,Open All Days,(210) 448-8355,"Larder, Hotel Emma, 136 E Grayson St, San Antonio, TX 78215","sandwiches, hotel, salad, latte, beer, baked goods, lunch, cookie, pearl, atmosphere",https://www.google.com/maps/place/Larder/data=!4m7!3m6!1s0x865cf5f6c0000007:0xcbc6b816e2d55b1f!8m2!3d29.442503!4d-98.4811319!16s%2Fg%2F11cjj1g7g4!19sChIJBwAAwPb1XIYRH1vV4ha4xss?authuser=0&hl=en&rclk=1
-ChIJldAVpsiLXIYRKqvReW8Sc4A,Curator Coffee,,False,234,"Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.614281199999997,-98.4839394?authuser=0&hl=en&entry=ttu
-Reviews: 910 reviews
-
-Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Theory Coffee Company
-link: https://www.google.com/maps/search/Theory+Coffee+Company/@29.5153263,-98.45293439999999?authuser=0&hl=en&entry=ttu
-Reviews: 516 reviews
-
-Name: Mudslingers Drive-Thru Coffee
-link: https://www.google.com/maps/search/Mudslingers+Drive-Thru+Coffee/@29.585346299999998,-98.4509308?authuser=0&hl=en&entry=ttu
-Reviews: 366 reviews
-
-Name: Coffee Crush
-link: https://www.google.com/maps/search/Coffee+Crush/@29.6051242,-98.4177069?authuser=0&hl=en&entry=ttu
-Reviews: 205 reviews",http://curatorcoffee.com/,Curator Coffee (Owner),https://www.google.com/maps/contrib/107837318825547813743,https://lh5.googleusercontent.com/p/AF1QipPbtQu4ZUzUils_VKs4sYGqYh4RWZy45LbX3zjf=w408-h544-k-no,Coffee shop,Coffee shop,4.9,7 AM-5 PM,Open All Days,(210) 538-5155,"Curator Coffee, 2923 Thousand Oaks Dr Unit 4, San Antonio, TX 78247","art, pottery, mugs, sale, lavender latte, ceramic, matcha, rose latte, cute, cherry blossom",https://www.google.com/maps/place/Curator+Coffee/data=!4m7!3m6!1s0x865c8bc8a615d095:0x8073126f79d1ab2a!8m2!3d29.5785798!4d-98.4408077!16s%2Fg%2F11mq7r6jz4!19sChIJldAVpsiLXIYRKqvReW8Sc4A?authuser=0&hl=en&rclk=1
-ChIJdS7lcDyLXIYRZ0DxCuKKjag,Coffee Crush,,False,205,"Name: Mudslingers Drive-Thru Coffee
-link: https://www.google.com/maps/search/Mudslingers+Drive-Thru+Coffee/@29.585346299999998,-98.4509308?authuser=0&hl=en&entry=ttu
-Reviews: 366 reviews
-
-Name: Curator Coffee
-link: https://www.google.com/maps/search/Curator+Coffee/@29.5785798,-98.4408077?authuser=0&hl=en&entry=ttu
-Reviews: 234 reviews
-
-Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.640142599999997,-98.4536147?authuser=0&hl=en&entry=ttu
-Reviews: 185 reviews
-
-Name: Brevity Coffee Co.
-link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.601089799999997,-98.4433024?authuser=0&hl=en&entry=ttu
-Reviews: 113 reviews
-
-Name: The Human Bean
-link: https://www.google.com/maps/search/The+Human+Bean/@29.680976299999998,-98.44003169999999?authuser=0&hl=en&entry=ttu
-Reviews: 58 reviews",https://m.facebook.com/coffeecrushsatx/,Coffee Crush (Owner),https://www.google.com/maps/contrib/106876544197083932111,https://lh5.googleusercontent.com/p/AF1QipO-ZgvMTOzlmg0T26X4ubV0hzJE0KdmIdIB-wPn=w408-h408-k-no,Restaurant,"Restaurant, Breakfast restaurant, Coffee shop, Pastry shop",4.6,7:30 AM-4:30 PM,Open All Days,(210) 465-9719,"Coffee Crush, 18010 Bulverde Rd #109, San Antonio, TX 78259","latte, pastries, croissant, muffin, lavender, matcha, mocha, shakerato, coquito, cold brew",https://www.google.com/maps/place/Coffee+Crush/data=!4m7!3m6!1s0x865c8b3c70e52e75:0xa88d8ae20af14067!8m2!3d29.6051242!4d-98.4177069!16s%2Fg%2F11rctymbgb!19sChIJdS7lcDyLXIYRZ0DxCuKKjag?authuser=0&hl=en&rclk=1
-ChIJaYOye7phXIYROs0OEJsFoj4,Coffee + Culture Bakery,,False,199,"Name: The Bread Box
-link: https://www.google.com/maps/search/The+Bread+Box/@29.578855500000003,-98.49999439999999?authuser=0&hl=en&entry=ttu
-Reviews: 200 reviews
-
-Name: Pan Dulce Bakery and Cafe
-link: https://www.google.com/maps/search/Pan+Dulce+Bakery+and+Cafe/@29.534859100000002,-98.52173979999999?authuser=0&hl=en&entry=ttu
-Reviews: 188 reviews
-
-Name: Kulture kafe
-link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=en&entry=ttu
-Reviews: 159 reviews
-
-Name: Dutch Bros Coffee
-link: https://www.google.com/maps/search/Dutch+Bros+Coffee/@29.5591303,-98.51819599999999?authuser=0&hl=en&entry=ttu
-Reviews: 127 reviews
-
-Name: WFM Coffee Bar
-link: https://www.google.com/maps/search/WFM+Coffee+Bar/@29.614037099999997,-98.5112614?authuser=0&hl=en&entry=ttu
-Reviews: 13 reviews",https://www.coffeeculturecompany.com/,Coffee + Culture Bakery (Owner),https://www.google.com/maps/contrib/115260483297460058527,https://lh5.googleusercontent.com/p/AF1QipNuBO1c-o0At710VMVBF75bzuGJxtG3pWK7JjG7=w408-h408-k-no,Coffee shop,"Coffee shop, Cafe",4.6,7 AM-6 PM,Open All Days,(210) 721-7750,"Coffee + Culture Bakery, 13489 Blanco Rd, San Antonio, TX 78216","pastries, atmosphere, croissant, guava, brunch, nutella, chilaquiles, patio, cinnamon roll, aesthetic",https://www.google.com/maps/place/Coffee+%2B+Culture+Bakery/data=!4m7!3m6!1s0x865c61ba7bb28369:0x3ea2059b100ecd3a!8m2!3d29.5716141!4d-98.5172209!16s%2Fg%2F11jsjlt9sh!19sChIJaYOye7phXIYROs0OEJsFoj4?authuser=0&hl=en&rclk=1
-ChIJORilfq6KXIYRYNnvpSUNSGs,Green Beans Coffee,"Coffee chain offering baked goods & sandwiches, with some proceeds donated to military families .",False,198,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.527402000000002,-98.4723775?authuser=0&hl=en&entry=ttu
-Reviews: 633 reviews
-
-Name: Dunkin'
-link: https://www.google.com/maps/search/Dunkin%27/@29.525774799999997,-98.4746052?authuser=0&hl=en&entry=ttu
-Reviews: 310 reviews
-
-Name: Boss Bagel
-link: https://www.google.com/maps/search/Boss+Bagel/@29.527432,-98.4702935?authuser=0&hl=en&entry=ttu
-Reviews: 67 reviews
-
-Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.5261639,-98.47138919999999?authuser=0&hl=en&entry=ttu
-Reviews: 62 reviews
-
-Name: SIP Brew Bar & Eatery
-link: https://www.google.com/maps/search/SIP+Brew+Bar+%26+Eatery/@29.5265703,-98.4720239?authuser=0&hl=en&entry=ttu
-Reviews: 12 reviews",http://www.greenbeanscoffee.com/,Green Beans Coffee (Owner),https://www.google.com/maps/contrib/116601468568953002331,https://lh5.googleusercontent.com/p/AF1QipM89kZguV4hWvUlpdMzx67j4f-ba_SNx-ous4Am=w408-h306-k-no,Coffee shop,"Coffee shop, Cafe",3.8,4:30 AM-8:30 PM,Open All Days,(210) 832-8533,"Green Beans Coffee, San Antonio International Airport, Terminal B, San Antonio, TX 78216","airport, prices, morning, sandwich, military, muffin, latte, cheese, cappuccino, smoothie",https://www.google.com/maps/place/Green+Beans+Coffee/data=!4m7!3m6!1s0x865c8aae7ea51839:0x6b480d25a5efd960!8m2!3d29.5280617!4d-98.4726314!16s%2Fg%2F1v3khyd3!19sChIJORilfq6KXIYRYNnvpSUNSGs?authuser=0&hl=en&rclk=1
-ChIJGZfBmx5nXIYRbWJ6SKFjPV8,Olla express cafe,,False,196,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.480806599999998,-98.4653348?authuser=0&hl=en&entry=ttu
-Reviews: 760 reviews
-
-Name: Theory Coffee Company
-link: https://www.google.com/maps/search/Theory+Coffee+Company/@29.5153263,-98.45293439999999?authuser=0&hl=en&entry=ttu
-Reviews: 516 reviews
-
-Name: Olmos Perk
-link: https://www.google.com/maps/search/Olmos+Perk/@29.4791667,-98.4922222?authuser=0&hl=en&entry=ttu
-Reviews: 353 reviews
-
-Name: Mila Coffee
-link: https://www.google.com/maps/search/Mila+Coffee/@29.446484299999998,-98.4752338?authuser=0&hl=en&entry=ttu
-Reviews: 290 reviews",http://www.ollaexpresscafe.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D1348422149844139620,Olla express cafe (Owner),https://www.google.com/maps/contrib/118188512183743757183,https://lh5.googleusercontent.com/p/AF1QipORP9qjZyxoMC6q8hJOVK1OURuAEXyUDXAceKEe=w408-h710-k-no,Coffee shop,Coffee shop,4.8,7:30 AM-3:30 PM,Open All Days,(210) 763-7303,"Olla express cafe, 821 E Quincy St, San Antonio, TX 78215","cafe de olla, atmosphere, mexican, latte, patio, espresso, horchata, piloncillo, walking, pastries",https://www.google.com/maps/place/Olla+express+cafe/data=!4m7!3m6!1s0x865c671e9bc19719:0x5f3d63a1487a626d!8m2!3d29.4394089!4d-98.4864738!16s%2Fg%2F11h6m85yc2!19sChIJGZfBmx5nXIYRbWJ6SKFjPV8?authuser=0&hl=en&rclk=1
-ChIJb7YA_IpfXIYRAgqrzaSvQeI,kapej,,False,190,"Name: Kulture kafe
-link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=en&entry=ttu
-Reviews: 159 reviews
-
-Name: Chico's Coffee Shack
-link: https://www.google.com/maps/search/Chico%27s+Coffee+Shack/@29.423332899999995,-98.4950411?authuser=0&hl=en&entry=ttu
-Reviews: 106 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews
-
-Name: Akhanay Coffee Roasters
-link: https://www.google.com/maps/search/Akhanay+Coffee+Roasters/@29.4398449,-98.4842213?authuser=0&hl=en&entry=ttu
-Reviews: 41 reviews
-
-Name: Perks Coffee & More
-link: https://www.google.com/maps/search/Perks+Coffee+%26+More/@29.421926799999998,-98.4843688?authuser=0&hl=en&entry=ttu
-Reviews: 14 reviews",https://mykapej.square.site/,kapej (Owner),https://www.google.com/maps/contrib/116500734343058739367,https://lh5.googleusercontent.com/p/AF1QipPEkR9WIZKDRFPkvoTgxm4VhAkGJjuH3xogjDo3=w408-h408-k-no,Coffee shop,Coffee shop,4.9,8 AM-3 PM,"Sunday, Saturday",(210) 838-8681,"kapej, 415 Camden St, San Antonio, TX 78215","park, artwork, breakfast sandwich, tacos, egg sandwich, artists, ingredients, jewelry, tres leche, lavender latte",https://www.google.com/maps/place/kapej/data=!4m7!3m6!1s0x865c5f8afc00b66f:0xe241afa4cdab0a02!8m2!3d29.4355003!4d-98.4909881!16s%2Fg%2F11hd_8cf2t!19sChIJb7YA_IpfXIYRAgqrzaSvQeI?authuser=0&hl=en&rclk=1
-ChIJ72hByCxhXIYRJWj3a6QpeME,Black Rock Coffee Bar,"Contemporary coffee chain serving classic, specialty & iced espresso beverages, plus smoothies.",False,170,"Name: Black Rifle Coffee Company
-link: https://www.google.com/maps/search/Black+Rifle+Coffee+Company/@29.565935399999997,-98.4843537?authuser=0&hl=en&entry=ttu
-Reviews: 1565 reviews
-
-Name: Medina River Coffee Roasters
-link: https://www.google.com/maps/search/Medina+River+Coffee+Roasters/@29.5493563,-98.5061104?authuser=0&hl=en&entry=ttu
-Reviews: 367 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.5241257,-98.5053933?authuser=0&hl=en&entry=ttu
-Reviews: 337 reviews
-
-Name: Classic Rock Coffee San Antonio
-link: https://www.google.com/maps/search/Classic+Rock+Coffee+San+Antonio/@29.584719199999995,-98.53299160000002?authuser=0&hl=en&entry=ttu
-Reviews: 58 reviews",https://br.coffee/pages/11701-blanco-road-san-antonio-tx-78216,Black Rock Coffee Bar (Owner),https://www.google.com/maps/contrib/108341356667278064026,https://lh5.googleusercontent.com/p/AF1QipNI0cpbRrQG-jZuy_gj5_KfpMwsF6ok_q1zQKoF=w408-h306-k-no,Coffee shop,Coffee shop,4.3,5 AM-7 PM,Open All Days,(214) 463-2721,"Black Rock Coffee Bar, 11701 Blanco Rd, San Antonio, TX 78216","prices, music, latte, atmosphere, energy drinks, sweet, smoothies, environment, drive thru, kolaches",https://www.google.com/maps/place/Black+Rock+Coffee+Bar/data=!4m7!3m6!1s0x865c612cc84168ef:0xc17829a46bf76825!8m2!3d29.546515!4d-98.5095284!16s%2Fg%2F11s61x3ysk!19sChIJ72hByCxhXIYRJWj3a6QpeME?authuser=0&hl=en&rclk=1
-ChIJXWWrt1j3XIYRbImjAxrvITs,Vice Versa Coffee & Music,,False,166,"Name: Brown Coffee Co - Southtown
-link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=en&entry=ttu
+Name: Brown Coffee Co - Southtown
+link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 691 reviews
 
-Name: Kulture kafe
-link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=en&entry=ttu
-Reviews: 159 reviews
-
-Name: Gravves Coffee
-link: https://www.google.com/maps/search/Gravves+Coffee/@29.4494519,-98.49171559999999?authuser=0&hl=en&entry=ttu
-Reviews: 123 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews",https://instagram.com/viceversa.sanantonio%3Figshid%3DYmMyMTA2M2Y%3D,Vice Versa Coffee & Music (Owner),https://www.google.com/maps/contrib/116692639755083537947,https://lh5.googleusercontent.com/p/AF1QipMpa5yyGOYTfi7uF4zTwGeGicHC4ITNv5YXvG4O=w408-h544-k-no,Coffee shop,"Coffee shop, Record store",4.6,8 AM-11 PM,Open All Days,(210) 977-0566,"Vice Versa Coffee & Music, 123 Heiman St, San Antonio, TX 78205","atmosphere, matcha, vinyl, chess, jazz, lavender, oat milk, prices, parking, basement",https://www.google.com/maps/place/Vice+Versa+Coffee+%26+Music/data=!4m7!3m6!1s0x865cf758b7ab655d:0x3b21ef1a03a3896c!8m2!3d29.4211814!4d-98.4786136!16s%2Fg%2F11t2lwqrk_!19sChIJXWWrt1j3XIYRbImjAxrvITs?authuser=0&hl=en&rclk=1
-ChIJY5LsLyZfXIYRjdxvjSbFT7g,Bright Coffee,,False,160,"Name: Barrio Barista
-link: https://www.google.com/maps/search/Barrio+Barista/@29.450522999999993,-98.5776908?authuser=0&hl=en&entry=ttu
-Reviews: 821 reviews
-
-Name: Brevity Coffee Co.
-link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.5237046,-98.59948109999999?authuser=0&hl=en&entry=ttu
-Reviews: 458 reviews
-
-Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
-
-Name: Berry To Bean Coffee House
-link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=en&entry=ttu
-Reviews: 288 reviews",https://www.brightcoffeesa.com/,Bright Coffee (Owner),https://www.google.com/maps/contrib/103484850840752245312,https://lh5.googleusercontent.com/p/AF1QipOQkEh7jxoCSNL_aMF-5ec1fZlW-A7wfXvDiHS8=w426-h240-k-no,Coffee shop,Coffee shop,4.8,7:30 AM-2 PM,Open All Days,(210) 504-9615,"Bright Coffee, 1705 Blanco Rd, San Antonio, TX 78212","art, atmosphere, latte, music, banana, baristas, bean, natural light, aesthetic, plants",https://www.google.com/maps/place/Bright+Coffee/data=!4m7!3m6!1s0x865c5f262fec9263:0xb84fc5268d6fdc8d!8m2!3d29.461886!4d-98.5080477!16s%2Fg%2F11ry2nj8j4!19sChIJY5LsLyZfXIYRjdxvjSbFT7g?authuser=0&hl=en&rclk=1
-ChIJeQe1Df9ZXIYR6kVPiUOTIR8,Kulture kafe,,False,159,"Name: CommonWealth Coffeehouse & Bakery Hemisfair
-link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=en&entry=ttu
-Reviews: 807 reviews
-
-Name: Folklores Coffee House
-link: https://www.google.com/maps/search/Folklores+Coffee+House/@29.443039900000002,-98.46129340000002?authuser=0&hl=en&entry=ttu
-Reviews: 345 reviews
-
-Name: Poetic Republic Coffee & Wine Co.
-link: https://www.google.com/maps/search/Poetic+Republic+Coffee+%26+Wine+Co./@29.3984663,-98.48209849999999?authuser=0&hl=en&entry=ttu
-Reviews: 282 reviews
-
-Name: kapej
-link: https://www.google.com/maps/search/kapej/@29.4355003,-98.4909881?authuser=0&hl=en&entry=ttu
-Reviews: 190 reviews",https://www.kulturekafesatx.com/,Kulture kafe (Owner),https://www.google.com/maps/contrib/110479949031518323174,https://lh5.googleusercontent.com/p/AF1QipPbz_WDumDYm_n6_FgGpEhoLSO_jlIxr6Aw0FRg=w408-h306-k-no,Coffee shop,Coffee shop,4.8,6:30 AM-2 PM,Sunday,(210) 739-9363,"Kulture kafe, 1112 S St Mary's St, San Antonio, TX 78210","chilaquiles, waffles, food truck, mazapan, jalapeno cheddar bagel, horchata latte, matcha, jalapeno, bagel sandwich, the menu",https://www.google.com/maps/place/Kulture+kafe/data=!4m7!3m6!1s0x865c59ff0db50779:0x1f219343894f45ea!8m2!3d29.4124811!4d-98.4882706!16s%2Fg%2F11q93m_h8q!19sChIJeQe1Df9ZXIYR6kVPiUOTIR8?authuser=0&hl=en&rclk=1
-ChIJl0m4hfZeXIYRAtqc9y0Ow-U,The Koffee Kup Company,,False,156,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
-
-Name: Poetic Republic Coffee & Wine Co.
-link: https://www.google.com/maps/search/Poetic+Republic+Coffee+%26+Wine+Co./@29.3984663,-98.48209849999999?authuser=0&hl=en&entry=ttu
-Reviews: 282 reviews
-
-Name: kapej
-link: https://www.google.com/maps/search/kapej/@29.4355003,-98.4909881?authuser=0&hl=en&entry=ttu
-Reviews: 190 reviews
-
-Name: Kulture kafe
-link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=en&entry=ttu
-Reviews: 159 reviews",https://thekoffeekupco.square.site/,The Koffee Kup Company (Owner),https://www.google.com/maps/contrib/117795647474192312721,https://lh5.googleusercontent.com/p/AF1QipNnwYGrU3Npznx1dGkzG24qUmFNYy7Ce37FcTS3=w408-h306-k-no,Coffee shop,Coffee shop,4.9,9 AM-1 PM,"Monday, Tuesday, Wednesday, Thursday, Friday",(210) 635-0400,"The Koffee Kup Company, 1025 Donaldson Ave, San Antonio, TX 78228","kolaches, mocha, owner, latte, mexican, pastries, vegan, gem, chocolate, atmosphere",https://www.google.com/maps/place/The+Koffee+Kup+Company/data=!4m7!3m6!1s0x865c5ef685b84997:0xe5c30e2df79cda02!8m2!3d29.4645807!4d-98.5440793!16s%2Fg%2F1tczkxf2!19sChIJl0m4hfZeXIYRAtqc9y0Ow-U?authuser=0&hl=en&rclk=1
-ChIJJVlTToX1XIYRXh4dRrdJlxs,Starbucks,"Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",False,128,"Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.454468600000002,-98.48352440000001?authuser=0&hl=en&entry=ttu
-Reviews: 1170 reviews
-
-Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Berry To Bean Coffee House
-link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=en&entry=ttu
-Reviews: 288 reviews
-
-Name: Gravves Coffee
-link: https://www.google.com/maps/search/Gravves+Coffee/@29.4494519,-98.49171559999999?authuser=0&hl=en&entry=ttu
-Reviews: 123 reviews
+Name: Starbucks
+link: https://www.google.com/maps/search/Starbucks/@29.455286599999997,-98.47029859999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 416 reviews
 
 Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews",https://www.starbucks.com/store-locator/store/1027672,Starbucks (Owner),https://www.google.com/maps/contrib/109902699827678613282,https://lh5.googleusercontent.com/p/AF1QipOCMTD5aPI1PiEL18Dr1fHSOb6C7heXNj3LpePN=w408-h272-k-no,Coffee shop,"Coffee shop, Cafe, Coffee store, Espresso bar",3.5,8 AM-6 PM,Open All Days,(210) 729-5271,"Starbucks, 3910 N St Mary's St, San Antonio, TX 78212","zoo, frappe, drink",https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x865cf5854e535925:0x1b9749b7461d1e5e!8m2!3d29.461339!4d-98.473679!16s%2Fg%2F1hc578x8l!19sChIJJVlTToX1XIYRXh4dRrdJlxs?authuser=0&hl=en&rclk=1
-ChIJ-xlY6WVhXIYRxe4gG5A062g,Dutch Bros Coffee,"Fun-loving drive-thru serving up customized coffees, Rebel energy drinks, cold brew, tea & more.",False,127,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.556935,-98.516974?authuser=0&hl=en&entry=ttu
-Reviews: 606 reviews
+link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 81 reviews",http://berrytobean.com/,Berry To Bean Coffee House (Ye Zhu ),https://www.google.com/maps/contrib/106286939462838901166,https://lh5.googleusercontent.com/p/AF1QipO-8Q0CculbxrsYgMd7Ne5swr0ZqtriJ12w_TRz=w408-h306-k-no,Ka Pei Ting ,Ka Pei Ting ,4.5,07:00-20:00,Open All Days,+1 210-549-2222,"Berry To Bean Coffee House, 3900 Broadway, San Antonio, TX 78209Mei Guo ","Bing Sha , Ka Pei Shi , atmosphere, Gao , vegan, Guo Zhi , Xiang Cao , Xun Yi Cao , Song Bing ",https://www.google.com/maps/place/Berry+To+Bean+Coffee+House/data=!4m7!3m6!1s0x865cf52dc4279869:0xc5a549a531f574f7!8m2!3d29.4620228!4d-98.465572!16s%2Fg%2F11ghnxms9b!19sChIJaZgnxC31XIYR93T1MaVJpcU?authuser=0&hl=zh-TW&rclk=1
+ChIJY5LsLyZfXIYRjdxvjSbFT7g,Bright Coffee,,False,164,"Name: Barrio Barista
+link: https://www.google.com/maps/search/Barrio+Barista/@29.450522999999993,-98.5776908?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 822 reviews
 
-Name: Dunkin'
-link: https://www.google.com/maps/search/Dunkin%27/@29.548904399999998,-98.5102857?authuser=0&hl=en&entry=ttu
-Reviews: 258 reviews
+Name: Brevity Coffee Co.
+link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.5237046,-98.59948109999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 459 reviews
 
-Name: Coffee + Culture Bakery
-link: https://www.google.com/maps/search/Coffee+%2B+Culture+Bakery/@29.571614099999998,-98.5172209?authuser=0&hl=en&entry=ttu
-Reviews: 198 reviews
+Name: Philo Coffee
+link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 417 reviews
 
-Name: Black Rock Coffee Bar
-link: https://www.google.com/maps/search/Black+Rock+Coffee+Bar/@29.546515,-98.5095284?authuser=0&hl=en&entry=ttu
-Reviews: 170 reviews
-
-Name: What's Brewing Coffee Drive Thru
-link: https://www.google.com/maps/search/What%27s+Brewing+Coffee+Drive+Thru/@29.551246299999995,-98.5117075?authuser=0&hl=en&entry=ttu
-Reviews: 98 reviews",https://locations.dutchbros.com/dutch-bros-coffee-4cc06f21b936%3Fy_source%3D1_NDY0OTYzODEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D,Dutch Bros Coffee (Owner),https://www.google.com/maps/contrib/110228710901874327846,https://lh5.googleusercontent.com/p/AF1QipP3wdAe62fb-2Bd92GaMkc1qYvY5p9SASJGBRk3=w408-h417-k-no,Coffee shop,"Coffee shop, Cafe, Juice shop, Tea house",4.5,5 AM-10 PM,Open All Days,(541) 955-4700,"Dutch Bros Coffee, 13019 Blanco Rd, San Antonio, TX 78216","sugar, drinks, golden eagle, window, drive thru, training, morning, cup",https://www.google.com/maps/place/Dutch+Bros+Coffee/data=!4m7!3m6!1s0x865c6165e95819fb:0x68eb34901b20eec5!8m2!3d29.5591303!4d-98.518196!16s%2Fg%2F11s45xt_sq!19sChIJ-xlY6WVhXIYRxe4gG5A062g?authuser=0&hl=en&rclk=1
-ChIJjyIcUzFnXIYRXylHcirQF9w,Brevity Coffee Co.,,False,127,"Name: Indy Coffee Club
-link: https://www.google.com/maps/search/Indy+Coffee+Club/@29.5768804,-98.6260396?authuser=0&hl=en&entry=ttu
-Reviews: 450 reviews
-
-Name: Early Bird Coffee
-link: https://www.google.com/maps/search/Early+Bird+Coffee/@29.549984799999997,-98.5809147?authuser=0&hl=en&entry=ttu
-Reviews: 330 reviews
-
-Name: Tealicious Cafe
-link: https://www.google.com/maps/search/Tealicious+Cafe/@29.563533699999997,-98.5882853?authuser=0&hl=en&entry=ttu
-Reviews: 324 reviews
-
-Name: Bright Coffee
-link: https://www.google.com/maps/search/Bright+Coffee/@29.461886,-98.50804769999999?authuser=0&hl=en&entry=ttu
-Reviews: 160 reviews
-
-Name: Breton Organic Coffee
-link: https://www.google.com/maps/search/Breton+Organic+Coffee/@29.5462971,-98.615595?authuser=0&hl=en&entry=ttu
-Reviews: 65 reviews",http://brevitycoffee.com/,Brevity Coffee Co. (Owner),https://www.google.com/maps/contrib/116771211646608392726,https://lh5.googleusercontent.com/p/AF1QipN8vtk_rHDjnr4xt21EaDPTbeAON_x8ZtsXjifw=w408-h541-k-no,Coffee shop,Coffee shop,4.9,5 AM-9 PM,Open All Days,(210) 549-7799,"Brevity Coffee Co., 5985 De Zavala Rd, San Antonio, TX 78249","price, gold, sugar, flavor, latte, punch card, macchiato, mocha",https://www.google.com/maps/place/Brevity+Coffee+Co./data=!4m7!3m6!1s0x865c6731531c228f:0xdc17d02a7247295f!8m2!3d29.5635516!4d-98.6003671!16s%2Fg%2F11qqmsqm32!19sChIJjyIcUzFnXIYRXylHcirQF9w?authuser=0&hl=en&rclk=1
-ChIJ8_fjVFJfXIYRwfxq-p8ovG8,CommonWealth Coffeehouse & Bakery Weston,"Homemade pastries, French cafe fare & espresso drinks are the draw at this stylish, laid-back venue.",False,125,"Name: La Panaderia Bakery Cafe
-link: https://www.google.com/maps/search/La+Panader%C3%ADa+Bakery+Caf%C3%A9/@29.426581799999994,-98.4895669?authuser=0&hl=en&entry=ttu
-Reviews: 4271 reviews
-
-Name: Halcyon Southtown
-link: https://www.google.com/maps/search/Halcyon+Southtown/@29.4099575,-98.4954049?authuser=0&hl=en&entry=ttu
-Reviews: 2062 reviews
-
-Name: La Villita Cafe
-link: https://www.google.com/maps/search/La+Villita+Cafe/@29.4214682,-98.4891433?authuser=0&hl=en&entry=ttu
-Reviews: 1428 reviews
-
-Name: La Boulangerie
-link: https://www.google.com/maps/search/La+Boulangerie/@29.427916099999997,-98.48776319999999?authuser=0&hl=en&entry=ttu
-Reviews: 1003 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews",http://commonwealthcoffeehouse.com/,CommonWealth Coffeehouse & Bakery Weston (Owner),https://www.google.com/maps/contrib/107800146985525436083,https://lh5.googleusercontent.com/p/AF1QipPfy0exq8fIxdDrMO6zzmgXxYNj-Xzelt2cmMr1=w408-h544-k-no,Coffee shop,"Coffee shop, Bakery, Brunch restaurant, Cafe",4.6,7 AM-3 PM,"Sunday, Saturday",,"CommonWealth Coffeehouse & Bakery Weston, 112 E Pecan St, San Antonio, TX 78205","croissant, breakfast, atmosphere, tacos, latte, sandwich, salad, flaky, cappuccino",https://www.google.com/maps/place/CommonWealth+Coffeehouse+%26+Bakery+Weston/data=!4m7!3m6!1s0x865c5f5254e3f7f3:0x6fbc289ffa6afcc1!8m2!3d29.4285565!4d-98.4926646!16s%2Fg%2F11hbqf19tv!19sChIJ8_fjVFJfXIYRwfxq-p8ovG8?authuser=0&hl=en&rclk=1
-ChIJ_5CgvJ5fXIYRbauinQs_BYo,Gravves Coffee,,False,123,"Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.454468600000002,-98.48352440000001?authuser=0&hl=en&entry=ttu
-Reviews: 1170 reviews
+Name: Berry To Bean Coffee House
+link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 289 reviews",https://www.brightcoffeesa.com/,Bright Coffee (Ye Zhu ),https://www.google.com/maps/contrib/103484850840752245312,https://lh5.googleusercontent.com/p/AF1QipOQkEh7jxoCSNL_aMF-5ec1fZlW-A7wfXvDiHS8=w426-h240-k-no,Ka Pei Dian ,Ka Pei Dian ,4.8,07:30-14:00,Xing Qi Yi ,+1 210-504-9615,"Bright Coffee, 1705 Blanco Rd, San Antonio, TX 78212Mei Guo ","Yi Shu , atmosphere, Na Tie , Yin Le , Xiang Jiao , Ka Pei Shi , Dou , Yang Guang , Mei Gan , Zhi Wu ",https://www.google.com/maps/place/Bright+Coffee/data=!4m7!3m6!1s0x865c5f262fec9263:0xb84fc5268d6fdc8d!8m2!3d29.461886!4d-98.5080477!16s%2Fg%2F11ry2nj8j4!19sChIJY5LsLyZfXIYRjdxvjSbFT7g?authuser=0&hl=zh-TW&rclk=1
+ChIJ_5CgvJ5fXIYRbauinQs_BYo,Gravves Coffee,,False,127,"Name: Summer Moon Coffee
+link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.454468600000002,-98.48352440000001?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 1172 reviews
 
 Name: Vice Versa Coffee & Music
-link: https://www.google.com/maps/search/Vice+Versa+Coffee+%26+Music/@29.421181400000002,-98.47861359999999?authuser=0&hl=en&entry=ttu
-Reviews: 165 reviews
+link: https://www.google.com/maps/search/Vice+Versa+Coffee+%26+Music/@29.421181400000002,-98.47861359999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 166 reviews
 
 Name: Bright Coffee
-link: https://www.google.com/maps/search/Bright+Coffee/@29.461886,-98.50804769999999?authuser=0&hl=en&entry=ttu
-Reviews: 160 reviews
+link: https://www.google.com/maps/search/Bright+Coffee/@29.461886,-98.50804769999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 164 reviews
 
 Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 81 reviews
 
 Name: Shine Coffee
-link: https://www.google.com/maps/search/Shine+Coffee/@29.4434016,-98.4864867?authuser=0&hl=en&entry=ttu
-Reviews: 57 reviews",https://gravves-coffee.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral,Gravves Coffee (Owner),https://www.google.com/maps/contrib/113163553049646707057,https://lh5.googleusercontent.com/p/AF1QipPe6jZ05hrcg7z3ZLE1N29f5zwV2hK5f0W0S_SN=w408-h544-k-no,Coffee shop,Coffee shop,4.8,7 AM-2 PM,Open All Days,,"Gravves Coffee, 2106 McCullough Ave, San Antonio, TX 78212","latte, forest, elixir, ube, truck, flavor, aesthetic, pandan, lavender, vanilla",https://www.google.com/maps/place/Gravves+Coffee/data=!4m7!3m6!1s0x865c5f9ebca090ff:0x8a053f0b9da2ab6d!8m2!3d29.4494519!4d-98.4917156!16s%2Fg%2F11p01y5jwx!19sChIJ_5CgvJ5fXIYRbauinQs_BYo?authuser=0&hl=en&rclk=1
+link: https://www.google.com/maps/search/Shine+Coffee/@29.4434016,-98.4864867?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 57 reviews",https://gravves-coffee.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral,Gravves Coffee (Ye Zhu ),https://www.google.com/maps/contrib/113163553049646707057,https://lh5.googleusercontent.com/p/AF1QipPe6jZ05hrcg7z3ZLE1N29f5zwV2hK5f0W0S_SN=w408-h544-k-no,Ka Pei Dian ,Ka Pei Dian ,4.8,07:00-14:00,Open All Days,,"Gravves Coffee, 2106 McCullough Ave, San Antonio, TX 78212Mei Guo ","Na Tie , Sen Lin , Zi Shu , Huo Che , Kou Wei , Mei Gan , Ban Lan , Xun Yi Cao , Xiang Cao ",https://www.google.com/maps/place/Gravves+Coffee/data=!4m7!3m6!1s0x865c5f9ebca090ff:0x8a053f0b9da2ab6d!8m2!3d29.4494519!4d-98.4917156!16s%2Fg%2F11p01y5jwx!19sChIJ_5CgvJ5fXIYRbauinQs_BYo?authuser=0&hl=zh-TW&rclk=1
 ChIJl6yt3gL1XIYR61HIt5BhO0E,Stranded Coffee,,False,119,"Name: CommonWealth Coffeehouse & Bakery Hemisfair
-link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=en&entry=ttu
-Reviews: 807 reviews
+link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 808 reviews
 
 Name: Brown Coffee Co - Southtown
-link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 691 reviews
 
 Name: Kulture kafe
-link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 159 reviews
 
 Name: Southbound Coffee
-link: https://www.google.com/maps/search/Southbound+Coffee/@29.407777299999996,-98.4981402?authuser=0&hl=en&entry=ttu
-Reviews: 107 reviews",https://www.strandedcoffee.com/,Stranded Coffee (Owner),https://www.google.com/maps/contrib/101881721035397044373,https://lh5.googleusercontent.com/p/AF1QipNW8sKdrqRMTp3kPaPzjoG2qGHD2h0aS8YRAxYc=w408-h544-k-no,Coffee shop,Coffee shop,4.9,7 AM-2 PM,Monday,,"Stranded Coffee, 1203 S Alamo St, San Antonio, TX 78210","tacos, truck, espresso, syrup, oat milk, vegan, baristas, vanilla, pop tarts, horchata",https://www.google.com/maps/place/Stranded+Coffee/data=!4m7!3m6!1s0x865cf502deadac97:0x413b6190b7c851eb!8m2!3d29.4116637!4d-98.4934893!16s%2Fg%2F11r8wwtdy6!19sChIJl6yt3gL1XIYR61HIt5BhO0E?authuser=0&hl=en&rclk=1
-ChIJaZjar3dZXIYRGGtXDeFPoMo,Southbound Coffee,,False,107,"Name: Barrio Barista
-link: https://www.google.com/maps/search/Barrio+Barista/@29.450522999999993,-98.5776908?authuser=0&hl=en&entry=ttu
-Reviews: 821 reviews
-
-Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Brown Coffee Co - Southtown
-link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=en&entry=ttu
-Reviews: 691 reviews
-
-Name: San Antonio Gold
-link: https://www.google.com/maps/search/San+Antonio+Gold/@29.405330899999996,-98.5027644?authuser=0&hl=en&entry=ttu
-Reviews: 285 reviews
-
-Name: Stranded Coffee
-link: https://www.google.com/maps/search/Stranded+Coffee/@29.4116637,-98.4934893?authuser=0&hl=en&entry=ttu
-Reviews: 118 reviews",http://instagram.com/southboundcoffee210,Southbound Coffee (Owner),https://www.google.com/maps/contrib/108172514808101890306,https://lh5.googleusercontent.com/p/AF1QipN_Devmz7je9huAAw_zzpZsyvnMjlhyJ7UgtmXG=w408-h544-k-no,Cafe,Cafe,4.7,7 AM-2 PM,Monday,(210) 544-8516,"Southbound Coffee, 246 E Cevallos St, San Antonio, TX 78204","horchata, truck, latte, barista, mexican, trailer, donuts, seasonal, owner, flavors",https://www.google.com/maps/place/Southbound+Coffee/data=!4m7!3m6!1s0x865c5977afda9869:0xcaa04fe10d576b18!8m2!3d29.4077773!4d-98.4981402!16s%2Fg%2F11h7c7djyr!19sChIJaZjar3dZXIYRGGtXDeFPoMo?authuser=0&hl=en&rclk=1
+link: https://www.google.com/maps/search/Southbound+Coffee/@29.407777299999996,-98.4981402?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 107 reviews",https://www.strandedcoffee.com/,Stranded Coffee (Ye Zhu ),https://www.google.com/maps/contrib/101881721035397044373,https://lh5.googleusercontent.com/p/AF1QipNW8sKdrqRMTp3kPaPzjoG2qGHD2h0aS8YRAxYc=w408-h544-k-no,Ka Pei Dian ,Ka Pei Dian ,4.9,07:00-14:00,Xing Qi Yi ,,"Stranded Coffee, 1203 S Alamo St, San Antonio, TX 78210Mei Guo ","taco, Huo Che , espresso, Tang Jiang , Yan Mai Nai , vegan, Ka Pei Shi , Xiang Cao ",https://www.google.com/maps/place/Stranded+Coffee/data=!4m7!3m6!1s0x865cf502deadac97:0x413b6190b7c851eb!8m2!3d29.4116637!4d-98.4934893!16s%2Fg%2F11r8wwtdy6!19sChIJl6yt3gL1XIYR61HIt5BhO0E?authuser=0&hl=zh-TW&rclk=1
 ChIJ19P_sJlhXIYRW3uYsq6_KvQ,What's Brewing Coffee Drive Thru,,False,98,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.556935,-98.516974?authuser=0&hl=en&entry=ttu
-Reviews: 606 reviews
+link: https://www.google.com/maps/search/Starbucks/@29.556935,-98.516974?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 607 reviews
 
 Name: What's Brewing Coffee Roasters
-link: https://www.google.com/maps/search/What%27s+Brewing+Coffee+Roasters/@29.545088200000002,-98.4969805?authuser=0&hl=en&entry=ttu
-Reviews: 569 reviews
+link: https://www.google.com/maps/search/What%27s+Brewing+Coffee+Roasters/@29.545088200000002,-98.4969805?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 570 reviews
 
 Name: Early Bird Coffee
-link: https://www.google.com/maps/search/Early+Bird+Coffee/@29.549984799999997,-98.5809147?authuser=0&hl=en&entry=ttu
-Reviews: 330 reviews
+link: https://www.google.com/maps/search/Early+Bird+Coffee/@29.549984799999997,-98.5809147?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 334 reviews
 
 Name: Gravves Coffee
-link: https://www.google.com/maps/search/Gravves+Coffee/@29.4494519,-98.49171559999999?authuser=0&hl=en&entry=ttu
-Reviews: 123 reviews",http://www.sacoffeeroasters.com/,What's Brewing Coffee Drive Thru (Owner),https://www.google.com/maps/contrib/106669956175691296230,https://lh5.googleusercontent.com/p/AF1QipOOgZmGfug25Z9Yx7apwbPJwqYsphhM0sQ4RVlJ=w408-h375-k-no,Coffee shop,Coffee shop,4.6,7 AM-2 PM,Open All Days,(210) 251-3992,"What's Brewing Coffee Drive Thru, 12054 Blanco Rd, San Antonio, TX 78216","avocado toast, latte, breakfast sandwich, mango, smoothie, mocha, cup",https://www.google.com/maps/place/What%27s+Brewing+Coffee+Drive+Thru/data=!4m7!3m6!1s0x865c6199b0ffd3d7:0xf42abfaeb2987b5b!8m2!3d29.5512463!4d-98.5117075!16s%2Fg%2F11j5jx3wdy!19sChIJ19P_sJlhXIYRW3uYsq6_KvQ?authuser=0&hl=en&rclk=1
-ChIJ-URFrG71XIYRv0BclwMM84U,Mozna Chocolate & Coffee Co.,,False,92,"Name: Mila Coffee
-link: https://www.google.com/maps/search/Mila+Coffee/@29.446484299999998,-98.4752338?authuser=0&hl=en&entry=ttu
-Reviews: 290 reviews
-
-Name: Schakolad Chocolate Factory
-link: https://www.google.com/maps/search/Schakolad+Chocolate+Factory/@29.4267772,-98.4875653?authuser=0&hl=en&entry=ttu
-Reviews: 88 reviews
-
-Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews",http://moznachocolate.com/coffeeshop,Mozna Chocolate & Coffee Co. (Owner),https://www.google.com/maps/contrib/104297073563562787025,https://lh5.googleusercontent.com/p/AF1QipOHM_RmbdTdlEQQ50NL378EaCak3aR_QlTz2Uqq=w426-h240-k-no,Coffee shop,Coffee shop,4.9,8 AM-4:30 PM,Monday,(210) 204-0332,"Mozna Chocolate & Coffee Co., 614 Broadway, San Antonio, TX 78215","chocolate bar, mocha, pastries, atmosphere, croissant, beans, gem, churro, protein, mexican",https://www.google.com/maps/place/Mozna+Chocolate+%26+Coffee+Co./data=!4m7!3m6!1s0x865cf56eac4544f9:0x85f30c03975c40bf!8m2!3d29.4313448!4d-98.4837964!16s%2Fg%2F11q4g_crmp!19sChIJ-URFrG71XIYRv0BclwMM84U?authuser=0&hl=en&rclk=1
-ChIJCYhMeztnXIYRmhgTIsz4azA,Tuxedo Cat's Coffee,,False,91,"Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.5034258,-98.57426149999999?authuser=0&hl=en&entry=ttu
-Reviews: 868 reviews
-
-Name: Barrio Barista
-link: https://www.google.com/maps/search/Barrio+Barista/@29.450522999999993,-98.5776908?authuser=0&hl=en&entry=ttu
-Reviews: 821 reviews
-
-Name: Ethos Coffee Cafe (inside CityChurch Video Cafe)
-link: https://www.google.com/maps/search/Ethos+Coffee+Cafe+%28inside+CityChurch+Video+Cafe%29/@29.5304751,-98.6444057?authuser=0&hl=en&entry=ttu
-Reviews: 107 reviews
-
-Name: Alley Cat Coffee
-link: https://www.google.com/maps/search/Alley+Cat+Coffee/@29.40441,-98.49541579999999?authuser=0&hl=en&entry=ttu
-Reviews: 6 reviews",https://tuxedocatscoffeellc.us/,Tuxedo Cat's Coffee (Owner),https://www.google.com/maps/contrib/115152534128596552655,https://lh5.googleusercontent.com/p/AF1QipPGFt8xxng0-yEvv0G-yWaweUabQS-8sY2wLsSu=w408-h306-k-no,Cafe,"Cafe, Coffee shop",4.7,9:30 AM-5 PM,"Sunday, Monday",,"Tuxedo Cat's Coffee, 6075 Heath Rd, San Antonio, TX 78250","atmosphere, latte, barista, plant nursery, vegan, drinks, trees, strawberry, owner, cup",https://www.google.com/maps/place/Tuxedo+Cat%E2%80%99s+Coffee/data=!4m7!3m6!1s0x865c673b7b4c8809:0x306bf8cc2213189a!8m2!3d29.4887384!4d-98.6409167!16s%2Fg%2F11ft5gfl_q!19sChIJCYhMeztnXIYRmhgTIsz4azA?authuser=0&hl=en&rclk=1
-ChIJj3Faphj1XIYRYGDx2FDGWJ8,7 Brew Coffee,,False,80,,https://7brew.com/,7 Brew Coffee (Owner),https://www.google.com/maps/contrib/106672826521707189558,https://lh5.googleusercontent.com/p/AF1QipPecfHbeTkRV1kxA5nrPcAsnbeoa-BNviYwQIf5=w408-h305-k-no,Coffee shop,"Coffee shop, Coffee stand",4.8,5:30 AM-10 PM,Open All Days,(210) 512-8628,"7 Brew Coffee, 6202 I-35, San Antonio, TX 78218","barista, drinks",https://www.google.com/maps/place/7+Brew+Coffee/data=!4m7!3m6!1s0x865cf518a65a718f:0x9f58c650d8f16060!8m2!3d29.4847978!4d-98.402247!16s%2Fg%2F11v5v88ymn!19sChIJj3Faphj1XIYRYGDx2FDGWJ8?authuser=0&hl=en&rclk=1
-ChIJzWtbcUFfXIYRSOCARUo2PYM,Brevity Coffee Co.,,False,72,"Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.5034258,-98.57426149999999?authuser=0&hl=en&entry=ttu
-Reviews: 868 reviews
-
-Name: Barrio Barista
-link: https://www.google.com/maps/search/Barrio+Barista/@29.450522999999993,-98.5776908?authuser=0&hl=en&entry=ttu
-Reviews: 821 reviews
-
-Name: Bright Coffee
-link: https://www.google.com/maps/search/Bright+Coffee/@29.461886,-98.50804769999999?authuser=0&hl=en&entry=ttu
-Reviews: 160 reviews
-
-Name: The Koffee Kup Company
-link: https://www.google.com/maps/search/The+Koffee+Kup+Company/@29.464580699999996,-98.54407929999999?authuser=0&hl=en&entry=ttu
-Reviews: 156 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.49252,-98.55131999999999?authuser=0&hl=en&entry=ttu
-Reviews: 137 reviews",https://brevitycoffee.com/,Brevity Coffee Co. (Owner),https://www.google.com/maps/contrib/104851252073148638545,https://lh5.googleusercontent.com/p/AF1QipPGsVWeWzaXUGEXF5j41unh88O13HwbK3fy5S6A=w408-h544-k-no,Coffee shop,Coffee shop,4.8,5 AM-8 PM,Open All Days,(210) 549-7799,"Brevity Coffee Co., 4400 Fredericksburg Rd, San Antonio, TX 78201","prices, muffins",https://www.google.com/maps/place/Brevity+Coffee+Co./data=!4m7!3m6!1s0x865c5f41715b6bcd:0x833d364a4580e048!8m2!3d29.4875374!4d-98.5484646!16s%2Fg%2F11jsf52g8f!19sChIJzWtbcUFfXIYRSOCARUo2PYM?authuser=0&hl=en&rclk=1
-ChIJAZgydRFhXIYRPHT-UjArnNE,Clear Light Coffee Co.,,False,68,"Name: Black Rifle Coffee Company
-link: https://www.google.com/maps/search/Black+Rifle+Coffee+Company/@29.565935399999997,-98.4843537?authuser=0&hl=en&entry=ttu
-Reviews: 1565 reviews
-
-Name: What's Brewing Coffee Roasters
-link: https://www.google.com/maps/search/What%27s+Brewing+Coffee+Roasters/@29.545088200000002,-98.4969805?authuser=0&hl=en&entry=ttu
-Reviews: 569 reviews
-
-Name: Brevity Coffee Co.
-link: https://www.google.com/maps/search/Brevity+Coffee+Co./@29.5237046,-98.59948109999999?authuser=0&hl=en&entry=ttu
-Reviews: 458 reviews
-
-Name: Medina River Coffee Roasters
-link: https://www.google.com/maps/search/Medina+River+Coffee+Roasters/@29.5493563,-98.5061104?authuser=0&hl=en&entry=ttu
-Reviews: 367 reviews",http://www.clearlightcoffeecompany.com/,Clear Light Coffee Co. (Owner),https://www.google.com/maps/contrib/106703091741491889869,https://lh5.googleusercontent.com/p/AF1QipPRuGR72rQR7Hp4UJUZlzkZXA4p6kL_-ay23V00=w408-h509-k-no,Coffee shop,"Coffee shop, Cafe, Pastry shop, Tea store",4.7,,Open All Days,,"Clear Light Coffee Co., 12656 West Ave Bldg 3, San Antonio, TX 78216","atmosphere, area, latte, barista, patio, pastries, espresso, walk, trees, morning",https://www.google.com/maps/place/Clear+Light+Coffee+Co./data=!4m7!3m6!1s0x865c611175329801:0xd19c2b3052fe743c!8m2!3d29.5560783!4d-98.4982991!16s%2Fg%2F11nntr1jr7!19sChIJAZgydRFhXIYRPHT-UjArnNE?authuser=0&hl=en&rclk=1
-ChIJS0W6L9FhXIYRjWgVeZY21uo,PJ's Coffee,"New Orleans-born chain for house-roasted coffee, organic teas, blended drinks & pastries.",False,67,"Name: Kolache Stop
-link: https://www.google.com/maps/search/Kolache+Stop/@29.552083,-98.573351?authuser=0&hl=en&entry=ttu
-Reviews: 453 reviews
-
-Name: Indy Coffee Club
-link: https://www.google.com/maps/search/Indy+Coffee+Club/@29.5768804,-98.6260396?authuser=0&hl=en&entry=ttu
-Reviews: 450 reviews
-
-Name: Tea Time
-link: https://www.google.com/maps/search/Tea+Time/@29.546970400000003,-98.57783219999999?authuser=0&hl=en&entry=ttu
-Reviews: 341 reviews
-
-Name: PJ Fresh Marketplace
-link: https://www.google.com/maps/search/PJ+Fresh+Marketplace/@29.439961200000003,-98.3806412?authuser=0&hl=en&entry=ttu
-Reviews: 0 reviews",https://locations.pjscoffee.com/tx/sanantonio/coffee-shop-tx0030.html,PJ's Coffee (Owner),https://www.google.com/maps/contrib/110464878283989963256,https://lh5.googleusercontent.com/p/AF1QipN_yZ37M-ZBHBpDyQrfUuvJ14lxYBfHhvlgAWhJ=w408-h306-k-no,Coffee shop,"Coffee shop, Bakery, Breakfast restaurant, Cafe, Catering food and drink supplier, Coffee store, Pastry shop",4.6,6 AM-6 PM,Open All Days,(210) 455-4299,"PJ's Coffee, 9811 I-10, San Antonio, TX 78230","beignets, latte, printer, sandwich, cheese, mocha, morning, matcha, spinach, honey",https://www.google.com/maps/place/PJ%27s+Coffee/data=!4m7!3m6!1s0x865c61d12fba454b:0xead636967915688d!8m2!3d29.5324422!4d-98.5618122!16s%2Fg%2F11rn91vtf5!19sChIJS0W6L9FhXIYRjWgVeZY21uo?authuser=0&hl=en&rclk=1
-ChIJAQDAGv71XIYRvMehpwOi4Ac,Pulp Coffee Roasters,,False,66,"Name: Local Coffee
-link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=en&entry=ttu
-Reviews: 995 reviews
+link: https://www.google.com/maps/search/Gravves+Coffee/@29.4494519,-98.49171559999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 127 reviews",http://www.sacoffeeroasters.com/,What's Brewing Coffee Drive Thru (Ye Zhu ),https://www.google.com/maps/contrib/106669956175691296230,https://lh5.googleusercontent.com/p/AF1QipOOgZmGfug25Z9Yx7apwbPJwqYsphhM0sQ4RVlJ=w408-h375-k-no,Ka Pei Dian ,Ka Pei Dian ,4.6,07:00-14:00,Open All Days,+1 210-251-3992,"What's Brewing Coffee Drive Thru, 12054 Blanco Rd, San Antonio, TX 78216Mei Guo ","Na Tie , Mang Guo , Bing Sha , Mo Qia , Bei ",https://www.google.com/maps/place/What%27s+Brewing+Coffee+Drive+Thru/data=!4m7!3m6!1s0x865c6199b0ffd3d7:0xf42abfaeb2987b5b!8m2!3d29.5512463!4d-98.5117075!16s%2Fg%2F11j5jx3wdy!19sChIJ19P_sJlhXIYRW3uYsq6_KvQ?authuser=0&hl=zh-TW&rclk=1
+ChIJV8HqWPL1XIYRYFmn-AoiCNs,Mila Coffee,,False,292,"Name: Local Coffee
+link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 992 reviews
 
 Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
+link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 785 reviews
 
-Name: Estate Coffee Company
-link: https://www.google.com/maps/search/Estate+Coffee+Company/@29.424845899999998,-98.4770163?authuser=0&hl=en&entry=ttu
-Reviews: 455 reviews
-
-Name: Poetic Republic Coffee & Wine Co.
-link: https://www.google.com/maps/search/Poetic+Republic+Coffee+%26+Wine+Co./@29.3984663,-98.48209849999999?authuser=0&hl=en&entry=ttu
-Reviews: 282 reviews
-
-Name: QuickDraw Coffee
-link: https://www.google.com/maps/search/QuickDraw+Coffee/@29.434001000000002,-98.48055889999999?authuser=0&hl=en&entry=ttu
-Reviews: 53 reviews",https://pulp.coffee/,Pulp Coffee Roasters (Owner),https://www.google.com/maps/contrib/117858855810180370347,https://lh5.googleusercontent.com/p/AF1QipNzCHjttcKojPS37vaNyqKt4fGGiv4zyXWjraeX=w408-h418-k-no,Coffee roasters,"Coffee roasters, Coffee shop, Coffee wholesaler",4.8,9 AM-3 PM,"Sunday, Saturday",(210) 777-3643,"Pulp Coffee Roasters, 503 Chestnut St, San Antonio, TX 78202","bag, beans, cold brew, latte, espresso, passion, cup, craft, brand, tasting",https://www.google.com/maps/place/Pulp+Coffee+Roasters/data=!4m7!3m6!1s0x865cf5fe1ac00001:0x7e0a203a7a1c7bc!8m2!3d29.4266499!4d-98.4795396!16s%2Fg%2F11f5dc88fh!19sChIJAQDAGv71XIYRvMehpwOi4Ac?authuser=0&hl=en&rclk=1
-ChIJ145CvLGKXIYRVQmOXHRYB0I,Merit Coffee,,False,62,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.527402000000002,-98.4723775?authuser=0&hl=en&entry=ttu
-Reviews: 633 reviews
-
-Name: Theory Coffee Company
-link: https://www.google.com/maps/search/Theory+Coffee+Company/@29.5153263,-98.45293439999999?authuser=0&hl=en&entry=ttu
-Reviews: 516 reviews
-
-Name: Green Beans Coffee
-link: https://www.google.com/maps/search/Green+Beans+Coffee/@29.5280617,-98.4726314?authuser=0&hl=en&entry=ttu
-Reviews: 198 reviews
-
-Name: San Antonio Express-News & Cafe
-link: https://www.google.com/maps/search/San+Antonio+Express-News+%26+Cafe/@29.528745299999994,-98.4723026?authuser=0&hl=en&entry=ttu
-Reviews: 17 reviews
-
-Name: SIP Brew Bar & Eatery
-link: https://www.google.com/maps/search/SIP+Brew+Bar+%26+Eatery/@29.5265703,-98.4720239?authuser=0&hl=en&entry=ttu
-Reviews: 12 reviews",https://meritcoffee.com/,Merit Coffee (Owner),,https://lh5.googleusercontent.com/p/AF1QipMqPE08066UQoITJUEtLkKtha51LkT7mnlZ7LoM=w408-h306-k-no,Coffee shop,Coffee shop,3.5,4 AM-8 PM,Open All Days,(210) 902-6554,"Merit Coffee, 9800 Airport Blvd, San Antonio, TX 78216","airport, prices, latte, croissant, morning, atmosphere, mocha, pastries, espresso, money",https://www.google.com/maps/place/Merit+Coffee/data=!4m7!3m6!1s0x865c8ab1bc428ed7:0x420758745c8e0955!8m2!3d29.5261639!4d-98.4713892!16s%2Fg%2F11q8k236zl!19sChIJ145CvLGKXIYRVQmOXHRYB0I?authuser=0&hl=en&rclk=1
-ChIJNUqF00lhXIYR7y2cCfs5PE0,Classic Rock Coffee San Antonio,,False,58,"Name: Mildfire Coffee Roasters
-link: https://www.google.com/maps/search/Mildfire+Coffee+Roasters/@29.5844485,-98.5343058?authuser=0&hl=en&entry=ttu
-Reviews: 262 reviews
-
-Name: Black Rock Coffee Bar
-link: https://www.google.com/maps/search/Black+Rock+Coffee+Bar/@29.546515,-98.5095284?authuser=0&hl=en&entry=ttu
-Reviews: 170 reviews",https://classicrockcoffeesa.com/,Classic Rock Coffee San Antonio (Owner),https://www.google.com/maps/contrib/104094256158075263005,https://lh5.googleusercontent.com/p/AF1QipPMrCSusfEftbzj173XH2vrDo_GsBPwGWK1vkY=w408-h306-k-no,Coffee shop,"Coffee shop, Cafe, Caterer",4.7,7 AM-7 PM,Open All Days,(210) 630-9113,"Classic Rock Coffee San Antonio, 15614 Huebner Rd #118, San Antonio, TX 78248","atmosphere, music, flatbread, barista, wedding, tacos, cinnamon, environment, guitars, vanilla",https://www.google.com/maps/place/Classic+Rock+Coffee+San+Antonio/data=!4m7!3m6!1s0x865c6149d3854a35:0x4d3c39fb099c2def!8m2!3d29.5847192!4d-98.5329916!16s%2Fg%2F11sd_3xp6n!19sChIJNUqF00lhXIYR7y2cCfs5PE0?authuser=0&hl=en&rclk=1
-ChIJMTC5IkZfXIYRyuZ2cvrZyuM,Rose Hip Market,,False,57,"Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.454468600000002,-98.48352440000001?authuser=0&hl=en&entry=ttu
-Reviews: 1170 reviews
-
-Name: Olmos Perk
-link: https://www.google.com/maps/search/Olmos+Perk/@29.4791667,-98.4922222?authuser=0&hl=en&entry=ttu
-Reviews: 353 reviews
-
-Name: Rosa Pastel- Wonderland of The Americas
-link: https://www.google.com/maps/search/Rosa+Pastel-+Wonderland+of+The+Americas/@29.492792,-98.5519582?authuser=0&hl=en&entry=ttu
-Reviews: 5 reviews
-
-Name: Forum cafe ""Oish""
-link: https://www.google.com/maps/search/Forum+cafe+%E2%80%9COish%E2%80%9D/@29.5134211,-98.5546633?authuser=0&hl=en&entry=ttu
-Reviews: 5 reviews",https://rose-hip-market.square.site/,Rose Hip Market (Owner),https://www.google.com/maps/contrib/116192896315183407049,https://lh5.googleusercontent.com/p/AF1QipMB5WnbzSubvEx13GaIiqy6qLh8LhoHjPtXup1F=w507-h240-k-no,Coffee shop,Coffee shop,4.8,7 AM-5 PM,Open All Days,(726) 234-0851,"Rose Hip Market, 116 W Olmos Dr, San Antonio, TX 78212","latte, gift, atmosphere, to choose, barista, pastries",https://www.google.com/maps/place/Rose+Hip+Market/data=!4m7!3m6!1s0x865c5f4622b93031:0xe3cad9fa7276e6ca!8m2!3d29.470811!4d-98.4928142!16s%2Fg%2F11s6j98bzk!19sChIJMTC5IkZfXIYRyuZ2cvrZyuM?authuser=0&hl=en&rclk=1
-ChIJm9DOyb99XIYR8-h1WEfZDAA,QuickDraw Coffee,,False,53,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Mila Coffee
-link: https://www.google.com/maps/search/Mila+Coffee/@29.446484299999998,-98.4752338?authuser=0&hl=en&entry=ttu
-Reviews: 290 reviews
-
-Name: kapej
-link: https://www.google.com/maps/search/kapej/@29.4355003,-98.4909881?authuser=0&hl=en&entry=ttu
-Reviews: 190 reviews
-
-Name: Stranded Coffee
-link: https://www.google.com/maps/search/Stranded+Coffee/@29.4116637,-98.4934893?authuser=0&hl=en&entry=ttu
-Reviews: 118 reviews
+Name: Berry To Bean Coffee House
+link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 289 reviews
 
 Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews",http://instagram.com/quickdrawcoffee,QuickDraw Coffee (Owner),https://www.google.com/maps/contrib/116156002676817325449,https://lh5.googleusercontent.com/p/AF1QipM9uc7mZ_DizjaAPPLWAuidgjz1uhuIweRrOxIh=w426-h240-k-no,Coffee shop,Coffee shop,5,7 AM-2 PM,Sunday,(210) 392-0016,"QuickDraw Coffee, 930 Broadway, San Antonio, TX 78215",latte,https://www.google.com/maps/place/QuickDraw+Coffee/data=!4m7!3m6!1s0x865c7dbfc9ced09b:0xcd9475875e8f3!8m2!3d29.434001!4d-98.4805589!16s%2Fg%2F11fhrwyxdx!19sChIJm9DOyb99XIYR8-h1WEfZDAA?authuser=0&hl=en&rclk=1
-ChIJ-UdGxdFZXIYRbq4-PVUBCDs,Eight Ball Coffee,,False,45,"Name: Halcyon Southtown
-link: https://www.google.com/maps/search/Halcyon+Southtown/@29.4099575,-98.4954049?authuser=0&hl=en&entry=ttu
-Reviews: 2062 reviews
+link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 81 reviews
+
+Name: QuickDraw Coffee
+link: https://www.google.com/maps/search/QuickDraw+Coffee/@29.434001000000002,-98.48055889999999?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 53 reviews",,Mila Coffee (Ye Zhu ),,https://lh5.googleusercontent.com/p/AF1QipPelN-F_gcYI43wF7y8DTrpmWdxLh2D0lXu_KH8=w408-h306-k-no,Ka Pei Dian ,Ka Pei Dian ,4.8,06:30-14:00,Xing Qi Yi ,+1 210-929-3678,"Mila Coffee, 2202 Broadway, San Antonio, TX 78215Mei Guo ","Na Tie , Xiang Cao , Mo Xi Ge , espresso, Zao Shang , Huo Che , Kou Wei , Tian Tian Quan , Mo Qia ",https://www.google.com/maps/place/Mila+Coffee/data=!4m7!3m6!1s0x865cf5f258eac157:0xdb08220af8a75960!8m2!3d29.4464843!4d-98.4752338!16s%2Fg%2F11cm1fw81r!19sChIJV8HqWPL1XIYRYFmn-AoiCNs?authuser=0&hl=zh-TW&rclk=1
+ChIJuQoBDAJZXIYR0BjJyjqcx3M,San Antonio Gold,,False,286,"Name: Halcyon Southtown
+link: https://www.google.com/maps/search/Halcyon+Southtown/@29.4099575,-98.4954049?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 2067 reviews
 
 Name: Brown Coffee Co - Southtown
-link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=en&entry=ttu
+link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=zh-TW&entry=ttu
 Reviews: 691 reviews
 
-Name: San Antonio Gold
-link: https://www.google.com/maps/search/San+Antonio+Gold/@29.405330899999996,-98.5027644?authuser=0&hl=en&entry=ttu
-Reviews: 285 reviews
-
-Name: Kulture kafe
-link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=en&entry=ttu
-Reviews: 159 reviews
-
-Name: Shine Coffee
-link: https://www.google.com/maps/search/Shine+Coffee/@29.4434016,-98.4864867?authuser=0&hl=en&entry=ttu
-Reviews: 57 reviews",http://instagram.com/eightballcoffee,Eight Ball Coffee (Owner),https://www.google.com/maps/contrib/113273205918606063920,https://lh5.googleusercontent.com/p/AF1QipNv0UPn-_zeZQsyMv6LrjYJ58eo2oJt76CEEkOJ=w408-h500-k-no,Coffee shop,Coffee shop,5,7 AM-2 PM,Open All Days,,"Eight Ball Coffee, 1302 S St Mary's St, San Antonio, TX 78210","latte, truck, lavender, hemp, dulce de leche, oat, matcha, morning, baristas",https://www.google.com/maps/place/Eight+Ball+Coffee/data=!4m7!3m6!1s0x865c59d1c54647f9:0x3b0801553d3eae6e!8m2!3d29.4094043!4d-98.4871819!16s%2Fg%2F11qbrft2gk!19sChIJ-UdGxdFZXIYRbq4-PVUBCDs?authuser=0&hl=en&rclk=1
-ChIJJT7APof1XIYRDkozJZgN_Pk,Einstein Bros. Bagels,"Counter-service chain offering egg sandwiches, soups, salads, baked goods & a variety of bagels.",False,44,"Name: Corner Bakery
-link: https://www.google.com/maps/search/Corner+Bakery/@29.4922,-98.4811703?authuser=0&hl=en&entry=ttu
-Reviews: 892 reviews
-
-Name: Boss Bagel
-link: https://www.google.com/maps/search/Boss+Bagel/@29.489420199999998,-98.45885039999999?authuser=0&hl=en&entry=ttu
-Reviews: 720 reviews
-
-Name: Chicago Bagel & Deli
-link: https://www.google.com/maps/search/Chicago+Bagel+%26+Deli/@29.540978199999998,-98.55159809999999?authuser=0&hl=en&entry=ttu
-Reviews: 439 reviews",https://locations.einsteinbros.com/us/tx/san-antonio/1-trinity-pl%3Fy_source%3D1_OTA0OTUwNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D,Einstein Bros. Bagels (Owner),https://www.google.com/maps/contrib/107858709594384440399,https://lh5.googleusercontent.com/p/AF1QipN6VM0wQjOQ12xJP1ig_MnMXjOyZoZnJ9Br7_bR=w408-h306-k-no,Bagel shop,"Bagel shop, Bakery, Breakfast restaurant, Cafe, Coffee shop",3.9,7:30 AM-6 PM,"Sunday, Saturday",(210) 999-8374,"Einstein Bros. Bagels, 1 Trinity Pl, San Antonio, TX 78212",campus,https://www.google.com/maps/place/Einstein+Bros.+Bagels/data=!4m7!3m6!1s0x865cf5873ec03e25:0xf9fc0d9825334a0e!8m2!3d29.462637!4d-98.4818289!16s%2Fg%2F1th63t5r!19sChIJJT7APof1XIYRDkozJZgN_Pk?authuser=0&hl=en&rclk=1
-ChIJY2VXGDtfXIYRmt85I1HZth8,La Vida Coffee,,False,39,,http://lavidacoffeesa.com/,La Vida Coffee (Owner),https://www.google.com/maps/contrib/101537239069628648369,https://lh5.googleusercontent.com/p/AF1QipPToVrh-uH2RwQyXPEM-2DEyvNCSffsZ7uJA0Oa=w408-h306-k-no,Coffee shop,Coffee shop,4.9,8 AM-3 PM,Monday,,"La Vida Coffee, 106 Jefferson, San Antonio, TX 78205","atmosphere, espresso, heat, air conditioning, gem",https://www.google.com/maps/place/La+Vida+Coffee/data=!4m7!3m6!1s0x865c5f3b18576563:0x1fb6d9512339df9a!8m2!3d29.4268543!4d-98.488413!16s%2Fg%2F11sv2d82c2!19sChIJY2VXGDtfXIYRmt85I1HZth8?authuser=0&hl=en&rclk=1
-ChIJFVkshAP1XIYR0zizJaph4zA,Commonwealth Coffeehouse & Bakery Jones,,False,37,,https://www.commonwealthcoffeehouse.com/,Commonwealth Coffeehouse & Bakery Jones (Owner),https://www.google.com/maps/contrib/115318586223646822207,https://lh5.googleusercontent.com/p/AF1QipPVr1K89H3FFPddmH0v2Via-KZ23y10syDEbAWs=w408-h306-k-no,Coffee shop,Coffee shop,4.6,7 AM-6 PM,Open All Days,,"Commonwealth Coffeehouse & Bakery Jones, 203 E Jones Ave Ste 101, San Antonio, TX 78215","atmosphere, breakfast, interior, patio, croissants, pastries",https://www.google.com/maps/place/Commonwealth+Coffeehouse+%26+Bakery+Jones/data=!4m7!3m6!1s0x865cf503842c5915:0x30e361aa25b338d3!8m2!3d29.4360058!4d-98.4803543!16s%2Fg%2F11kr799b8k!19sChIJFVkshAP1XIYR0zizJaph4zA?authuser=0&hl=en&rclk=1
-ChIJ2UDrHSCNXIYRdyH5DJdC9Rg,Coffee Bound,,False,28,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Berry To Bean Coffee House
-link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=en&entry=ttu
-Reviews: 288 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.460523999999996,-98.44781329999999?authuser=0&hl=en&entry=ttu
-Reviews: 60 reviews
-
-Name: Shine Coffee
-link: https://www.google.com/maps/search/Shine+Coffee/@29.4434016,-98.4864867?authuser=0&hl=en&entry=ttu
-Reviews: 57 reviews
-
-Name: Alamo Plaza Coffee Shop & Bar
-link: https://www.google.com/maps/search/Alamo+Plaza+Coffee+Shop+%26+Bar/@29.425087299999994,-98.4850912?authuser=0&hl=en&entry=ttu
-Reviews: 24 reviews",http://www.coffeeboundtx.com/,Coffee Bound (Owner),https://www.google.com/maps/contrib/109455828329402278703,https://lh5.googleusercontent.com/p/AF1QipPMcxzNCtt3_Kp4q5fLsVTRXBdiUImz1CdkRpW9=w425-h240-k-no,Coffee shop,Coffee shop,5,7:15-11 AM,"Sunday, Saturday",,"Coffee Bound, 890 Patch Rd, San Antonio, TX 78234",,https://www.google.com/maps/place/Coffee+Bound/data=!4m7!3m6!1s0x865c8d201deb40d9:0x18f542970cf92177!8m2!3d29.4600006!4d-98.4437684!16s%2Fg%2F11gr6j28_n!19sChIJ2UDrHSCNXIYRdyH5DJdC9Rg?authuser=0&hl=en&rclk=1
-ChIJi67NUrpZXIYROjQfIDtXLo0,Alamo Plaza Coffee Shop & Bar,,False,24,"Name: Local Coffee
-link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=en&entry=ttu
-Reviews: 995 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.424353,-98.48658999999999?authuser=0&hl=en&entry=ttu
-Reviews: 909 reviews
-
-Name: Mkt Place
-link: https://www.google.com/maps/search/Mkt+Place/@29.425189399999997,-98.48838699999999?authuser=0&hl=en&entry=ttu
-Reviews: 21 reviews
-
-Name: Perks Coffee & More
-link: https://www.google.com/maps/search/Perks+Coffee+%26+More/@29.421926799999998,-98.4843688?authuser=0&hl=en&entry=ttu
-Reviews: 14 reviews",https://www.alamoplazacoffeebar.com/,Alamo Plaza Coffee Shop & Bar (Owner),https://www.google.com/maps/contrib/107559719612704120617,https://lh5.googleusercontent.com/p/AF1QipORBXhKXu5IF75cckN_1dsrc9TBISG8cUT0_Kwk=w408-h725-k-no,Coffee shop,Coffee shop,3.9,6:30 AM-1 PM,Open All Days,(210) 890-2224,"Alamo Plaza Coffee Shop & Bar, 320 Bonham #2, San Antonio, TX 78205",,https://www.google.com/maps/place/Alamo+Plaza+Coffee+Shop+%26+Bar/data=!4m7!3m6!1s0x865c59ba52cdae8b:0x8d2e573b201f343a!8m2!3d29.4250873!4d-98.4850912!16s%2Fg%2F11rvdfbtb1!19sChIJi67NUrpZXIYROjQfIDtXLo0?authuser=0&hl=en&rclk=1
-ChIJSa-tjFb1XIYR4X7ZCkdV25w,Kiki's Coffee & Spirits,,False,24,,http://www.kikisonjones.com/,Kiki's Coffee & Spirits (Owner),https://www.google.com/maps/contrib/104865818187749504043,https://lh5.googleusercontent.com/p/AF1QipOd_ld5u0YYVwuQaZLE4S7DjB8IkRP7ZXOvNMuS=w408-h544-k-no,Coffee shop,"Coffee shop, Bar",4.7,7 AM-7 PM,Open All Days,,"Kiki's Coffee & Spirits, 1100 Broadway, San Antonio, TX 78215","atmosphere, dog",https://www.google.com/maps/place/Kiki%27s+Coffee+%26+Spirits/data=!4m7!3m6!1s0x865cf5568cadaf49:0x9cdb55470ad97ee1!8m2!3d29.4352622!4d-98.4792405!16s%2Fg%2F11v3vz20f6!19sChIJSa-tjFb1XIYR4X7ZCkdV25w?authuser=0&hl=en&rclk=1
-ChIJIwOPTP31XIYRnHa5qd3gtFw,New Meadow Coffee,,False,22,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.480806599999998,-98.4653348?authuser=0&hl=en&entry=ttu
-Reviews: 760 reviews
-
-Name: Mila Coffee
-link: https://www.google.com/maps/search/Mila+Coffee/@29.446484299999998,-98.4752338?authuser=0&hl=en&entry=ttu
-Reviews: 290 reviews
-
-Name: Berry To Bean Coffee House
-link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=en&entry=ttu
-Reviews: 288 reviews
-
-Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews",https://www.newmeadowcoffee.com/,New Meadow Coffee (Owner),https://www.google.com/maps/contrib/109417650656145277694,https://lh5.googleusercontent.com/p/AF1QipOwio4-Slbdz9nv1uAQpPSJwzQlgWr3khJQ9fCf=w408-h544-k-no,Espresso bar,Espresso bar,5,7 AM-2 PM,Open All Days,,"New Meadow Coffee, 2424 Broadway Suite #102, San Antonio, TX 78215","barista, climbing, gym, cold brew, pastries, bread",https://www.google.com/maps/place/New+Meadow+Coffee/data=!4m7!3m6!1s0x865cf5fd4c8f0323:0x5cb4e0dda9b9769c!8m2!3d29.448991!4d-98.474172!16s%2Fg%2F11t46r_mm8!19sChIJIwOPTP31XIYRnHa5qd3gtFw?authuser=0&hl=en&rclk=1
-ChIJN0UshUH1XIYRKCo5hVtswG8,Mila Coffee,,False,22,,https://www.facebook.com/milacoffeesat/,Mila Coffee (Owner),,https://lh5.googleusercontent.com/p/AF1QipO8NGE5mcyeApKjlKDMjI-2eKktaxclMgoJN-pd=w408-h306-k-no,Coffee shop,Coffee shop,4.7,7 AM-3 PM,Open All Days,,"Mila Coffee, 203 8th St Bldg. 2, San Antonio, TX 78215","latte, vanilla",https://www.google.com/maps/place/Mila+Coffee/data=!4m7!3m6!1s0x865cf541852c4537:0x6fc06c5b85392a28!8m2!3d29.4326534!4d-98.4840668!16s%2Fg%2F11std_bmq8!19sChIJN0UshUH1XIYRKCo5hVtswG8?authuser=0&hl=en&rclk=1
-ChIJ5RFt_4JdXIYRUGJCFGwyDCM,Rosella Coffee at Methodist Hospital,,False,21,"Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.5104633,-98.57872750000001?authuser=0&hl=en&entry=ttu
-Reviews: 1062 reviews
-
-Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.5034258,-98.57426149999999?authuser=0&hl=en&entry=ttu
-Reviews: 868 reviews
-
-Name: Bakery Lorraine at the Medical Center
-link: https://www.google.com/maps/search/Bakery+Lorraine+at+the+Medical+Center/@29.5032825,-98.57434959999999?authuser=0&hl=en&entry=ttu
-Reviews: 620 reviews
-
-Name: Archies Coffee Lounge
-link: https://www.google.com/maps/search/Archies+Coffee+Lounge/@29.532081899999998,-98.59078489999999?authuser=0&hl=en&entry=ttu
-Reviews: 241 reviews
-
-Name: Rosella Coffee Methodist Stone Oak
-link: https://www.google.com/maps/search/Rosella+Coffee+Methodist+Stone+Oak/@29.6162229,-98.4743864?authuser=0&hl=en&entry=ttu
-Reviews: 1 reviews",https://www.rosellacoffee.com/,Rosella Coffee at Methodist Hospital (Owner),https://www.google.com/maps/contrib/101891690548343707360,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=owsS0YhVDWncuI5D0rgfiw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=31.994846&pitch=0&thumbfov=100,Coffee shop,Coffee shop,3.7,6 AM-11 PM,Open All Days,,"Rosella Coffee at Methodist Hospital, 7700 Floyd Curl Dr, San Antonio, TX 78229",,https://www.google.com/maps/place/Rosella+Coffee+at+Methodist+Hospital/data=!4m7!3m6!1s0x865c5d82ff6d11e5:0x230c326c14426250!8m2!3d29.5080538!4d-98.5722733!16s%2Fg%2F11hykj8lm4!19sChIJ5RFt_4JdXIYRUGJCFGwyDCM?authuser=0&hl=en&rclk=1
-ChIJAzUDr2v1XIYRetxCnUT1RjA,Creme Coffee & Social,,False,19,,https://www.cremesatx.com/,Creme Coffee & Social (Owner),https://www.google.com/maps/contrib/104011128480526735087,https://lh5.googleusercontent.com/p/AF1QipOEqe9JOh-wmOx4dhVN9GM_rN2mZ2OgKHA8V_yL=w408-h272-k-no,Coffee shop,Coffee shop,4.5,7 AM-2 PM,Open All Days,(210) 446-8399,"Creme Coffee & Social, 875 E Ashby Pl Suite 1115, San Antonio, TX 78212","atmosphere, latte, sandwiches, construction, pastries, area",https://www.google.com/maps/place/Cr%C3%A8me+Coffee+%26+Social/data=!4m7!3m6!1s0x865cf56baf033503:0x3046f5449d42dc7a!8m2!3d29.4468195!4d-98.4812901!16s%2Fg%2F11vc9n0mvt!19sChIJAzUDr2v1XIYRetxCnUT1RjA?authuser=0&hl=en&rclk=1
-ChIJJfhV02ZgXIYRfU1tdC7j2HE,San Antonio Barista Academy,,False,18,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.455286599999997,-98.47029859999999?authuser=0&hl=en&entry=ttu
-Reviews: 415 reviews
-
-Name: Mila Coffee
-link: https://www.google.com/maps/search/Mila+Coffee/@29.446484299999998,-98.4752338?authuser=0&hl=en&entry=ttu
-Reviews: 290 reviews
-
-Name: Berry To Bean Coffee House
-link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=en&entry=ttu
-Reviews: 288 reviews
-
-Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews",https://www.sanantoniobaristaacademy.com/,San Antonio Barista Academy (Owner),https://www.google.com/maps/contrib/115245948202682563102,https://lh5.googleusercontent.com/p/AF1QipP_cSKXuSibyKpGBvjSRR1nLKbXke1aM1q-TmIG=w408-h725-k-no,Training school,"Training school, Espresso bar",4.4,9 AM-5 PM,Sunday,(210) 370-2449,"San Antonio Barista Academy, 3107 Broadway bldg 2, San Antonio, TX 78209",coffee,https://www.google.com/maps/place/San+Antonio+Barista+Academy/data=!4m7!3m6!1s0x865c6066d355f825:0x71d8e32e746d4d7d!8m2!3d29.4555564!4d-98.4713183!16s%2Fg%2F11bwyvl1cg!19sChIJJfhV02ZgXIYRfU1tdC7j2HE?authuser=0&hl=en&rclk=1
-ChIJ66VDXRz3XIYRg1YFTshzUJw,Oak & Saint,,False,17,,http://oakandsaint.com/,Oak & Saint (Owner),https://www.google.com/maps/contrib/102773280362310702050,https://lh5.googleusercontent.com/p/AF1QipNvBbzr2K6WrCPusSTy-t4gqMq06ivjHdsVCCZ7=w408-h509-k-no,Coffee shop,Coffee shop,4.7,8 AM-4 PM,"Monday, Tuesday, Wednesday",,"Oak & Saint, 215 Coca-Cola Pl Unit 220, San Antonio, TX 78220",,https://www.google.com/maps/place/Oak+%26+Saint/data=!4m7!3m6!1s0x865cf71c5d43a5eb:0x9c5073c84e055683!8m2!3d29.4231763!4d-98.4404276!16s%2Fg%2F11svmtfy0k!19sChIJ66VDXRz3XIYRg1YFTshzUJw?authuser=0&hl=en&rclk=1
-ChIJHY36xmD1XIYRj4QPrwUu46A,WFM Coffee Bar,,False,11,"Name: Corner Bakery
-link: https://www.google.com/maps/search/Corner+Bakery/@29.4922,-98.4811703?authuser=0&hl=en&entry=ttu
-Reviews: 892 reviews
-
-Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Merit Coffee
-link: https://www.google.com/maps/search/Merit+Coffee/@29.480806599999998,-98.4653348?authuser=0&hl=en&entry=ttu
-Reviews: 760 reviews
-
-Name: Starbucks
-link: https://www.google.com/maps/search/Starbucks/@29.4970807,-98.480055?authuser=0&hl=en&entry=ttu
-Reviews: 700 reviews
-
-Name: Revolucion Coffee + Juice
-link: https://www.google.com/maps/search/Revoluci%C3%B3n+Coffee+%2B+Juice/@29.506107399999994,-98.4672145?authuser=0&hl=en&entry=ttu
-Reviews: 689 reviews",http://www.wholefoodsmarket.com/stores/quarry%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlistings,WFM Coffee Bar (Owner),https://www.google.com/maps/contrib/101886438184425963998,https://lh5.googleusercontent.com/p/AF1QipOV4HISUt8Gq6F_JTkwbLKh23RqAoKrx4aU5TjL=w408-h302-k-no,Coffee shop,"Coffee shop, Cafe, Coffee store, Juice shop",3.3,8 AM-8 PM,Open All Days,(210) 826-4676,"WFM Coffee Bar, 255 E Basse Rd Ste 130, San Antonio, TX 78209",,https://www.google.com/maps/place/WFM+Coffee+Bar/data=!4m7!3m6!1s0x865cf560c6fa8d1d:0xa0e32e05af0f848f!8m2!3d29.4957009!4d-98.4806335!16s%2Fg%2F11g875_xx2!19sChIJHY36xmD1XIYRj4QPrwUu46A?authuser=0&hl=en&rclk=1
-ChIJI_wzyMX5jYARKmgXedtusPo,Jacobs Bear Coffee Roastery,,False,10,,https://www.jacobsbearcoffeeroastery.com/,Jacobs Bear Coffee Roastery (Owner),https://www.google.com/maps/contrib/104387820430629093442,https://lh5.googleusercontent.com/p/AF1QipNDko1Hbu3Xkt-OJPABWcFZ4fiXi8vP9hIp8_97=w408-h436-k-no,Coffee roasters,"Coffee roasters, Coffee shop",5,7-11 AM,"Sunday, Saturday",,"Jacobs Bear Coffee Roastery, 323 S Main Ave, San Antonio, TX 78204",latte,https://www.google.com/maps/place/Jacobs+Bear+Coffee+Roastery/data=!4m7!3m6!1s0x808df9c5c833fc23:0xfab06edb7917682a!8m2!3d29.4216937!4d-98.4947391!16s%2Fg%2F11t02yy182!19sChIJI_wzyMX5jYARKmgXedtusPo?authuser=0&hl=en&rclk=1
-ChIJqxIuJP_1XIYRTuucNzK47LQ,Pearl Street Coffee,,False,2,"Name: Local Coffee
-link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=en&entry=ttu
-Reviews: 995 reviews
-
-Name: Estate Coffee Company
-link: https://www.google.com/maps/search/Estate+Coffee+Company/@29.424845899999998,-98.4770163?authuser=0&hl=en&entry=ttu
-Reviews: 455 reviews
-
-Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
-
-Name: Pulp Coffee Roasters
-link: https://www.google.com/maps/search/Pulp+Coffee+Roasters/@29.426649899999994,-98.47953960000001?authuser=0&hl=en&entry=ttu
-Reviews: 66 reviews
-
-Name: Perks Coffee & More
-link: https://www.google.com/maps/search/Perks+Coffee+%26+More/@29.421926799999998,-98.4843688?authuser=0&hl=en&entry=ttu
-Reviews: 14 reviews",https://www.pearlstreet.church/coffee,Pearl Street Coffee (Owner),,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XwVYDx1x_CcbSfU1DQWBpw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=65.19547&pitch=0&thumbfov=100,Cafe,Cafe,5,7 AM-2 PM,"Sunday, Saturday",,"Pearl Street Coffee, 683 Ave E, San Antonio, TX 78215",,https://www.google.com/maps/place/Pearl+Street+Coffee/data=!4m7!3m6!1s0x865cf5ff242e12ab:0xb4ecb832379ceb4e!8m2!3d29.4307116!4d-98.4818985!16s%2Fg%2F11t63p_p1_!19sChIJqxIuJP_1XIYRTuucNzK47LQ?authuser=0&hl=en&rclk=1
-ChIJp6dh5mT1XIYR30eTcPLeTlE,Gurubrew Coffee Co.,,False,,"Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Revolucion Coffee + Juice
-link: https://www.google.com/maps/search/Revoluci%C3%B3n+Coffee+%2B+Juice/@29.506107399999994,-98.4672145?authuser=0&hl=en&entry=ttu
-Reviews: 689 reviews
-
-Name: Rise Up Acai Bowls, LLC.
-link: https://www.google.com/maps/search/Rise+Up+Acai+Bowls%2C+LLC./@29.453721299999998,-98.49166699999999?authuser=0&hl=en&entry=ttu
-Reviews: 386 reviews
-
-Name: QuickDraw Coffee
-link: https://www.google.com/maps/search/QuickDraw+Coffee/@29.434001000000002,-98.48055889999999?authuser=0&hl=en&entry=ttu
-Reviews: 53 reviews
-
-Name: WFM Coffee Bar
-link: https://www.google.com/maps/search/WFM+Coffee+Bar/@29.4957009,-98.4806335?authuser=0&hl=en&entry=ttu
-Reviews: 11 reviews",http://gurucoldbrew.com/,Gurubrew Coffee Co. (Owner),https://www.google.com/maps/contrib/100941527605412417519,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lUI_DYvL2eNssqvnaKZnNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=74.83312&pitch=0&thumbfov=100,Coffee shop,Coffee shop,,Open 24 hours,Open All Days,(210) 745-7332,"Gurubrew Coffee Co., 7718 Broadway #201, San Antonio, TX 78209",,https://www.google.com/maps/place/Gurubrew+Coffee+Co./data=!4m7!3m6!1s0x865cf564e661a7a7:0x514edef2709347df!8m2!3d29.5007582!4d-98.4663571!16s%2Fg%2F11pw55_c3n!19sChIJp6dh5mT1XIYR30eTcPLeTlE?authuser=0&hl=en&rclk=1
-ChIJzUfpsgtgXIYR9bE8V9XIvoo,SP Cafe,"Contemporary bakery for French pastries, espresso drinks & smoothies, plus Vietnamese sandwiches.",False,487,"Name: Pho House
-link: https://www.google.com/maps/search/Pho+House/@29.518158000000003,-98.50633189999999?authuser=0&hl=en&entry=ttu
-Reviews: 716 reviews
-
-Name: Pho Thien An
-link: https://www.google.com/maps/search/Ph%E1%BB%9F+Thi%C3%AAn+%C3%82n/@29.516573,-98.49512899999999?authuser=0&hl=en&entry=ttu
-Reviews: 639 reviews
-
-Name: Pho Plus Vietnamese Restaurant
-link: https://www.google.com/maps/search/Pho+Plus+Vietnamese+Restaurant/@29.495006000000004,-98.42999549999999?authuser=0&hl=en&entry=ttu
-Reviews: 528 reviews
-
-Name: Lustea
-link: https://www.google.com/maps/search/Lustea/@29.519245,-98.5030307?authuser=0&hl=en&entry=ttu
-Reviews: 255 reviews",,SP Cafe (Owner),https://www.google.com/maps/contrib/101690817521567108040,https://lh5.googleusercontent.com/p/AF1QipNksu2BWj4zQN5md3L2ZrwqbVKa7XTTBDF8Yj0=w408-h306-k-no,Vietnamese restaurant,"Vietnamese restaurant, Bubble tea store, Cafe, Coffee shop, Juice shop, Pho restaurant, Sandwich shop",4.3,9 AM-9 PM,Open All Days,(210) 541-9689,"SP Cafe, 602 Northwest Loop 410 #126, San Antonio, TX 78216","sandwich, smoothie, milk tea, macaroons, croissant, cream puffs, baked goods, wonton soup, cupcakes, strawberry",https://www.google.com/maps/place/SP+Caf%C3%A9/data=!4m7!3m6!1s0x865c600bb2e947cd:0x8abec8d5573cb1f5!8m2!3d29.5192446!4d-98.5032502!16s%2Fg%2F11c6ltq025!19sChIJzUfpsgtgXIYR9bE8V9XIvoo?authuser=0&hl=en&rclk=1
-ChIJEVdfRYRfXIYRQJOWE6wHj68,Olmos Perk,"Comfy hangout with worldly coffees, teas, locally sourced snacks, beer, wine, sofas, WiFi & a patio.",False,353,"Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.454468600000002,-98.48352440000001?authuser=0&hl=en&entry=ttu
-Reviews: 1170 reviews
-
-Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
-
-Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews
-
-Name: Perks Coffee & More
-link: https://www.google.com/maps/search/Perks+Coffee+%26+More/@29.421926799999998,-98.4843688?authuser=0&hl=en&entry=ttu
-Reviews: 14 reviews",,Olmos Perk (Owner),https://www.google.com/maps/contrib/106275005326229810232,https://lh5.googleusercontent.com/p/AF1QipMFzyl8s2FOh8zCjaLfLmFQmBF2nd7jER0jl9lo=w408-h306-k-no,Coffee shop,Coffee shop,4.5,8 AM-3 PM,"Monday, Tuesday",(210) 492-1104,"Olmos Perk, 5223 McCullough Ave, Olmos Park, TX 78212","atmosphere, pastries, muffins, breakfast sandwiches, environment, couches, cookies, cinnamon roll, nitro cold brew, laptop",https://www.google.com/maps/place/Olmos+Perk/data=!4m7!3m6!1s0x865c5f84455f5711:0xaf8f07ac13969340!8m2!3d29.4791667!4d-98.4922222!16s%2Fg%2F1v2kxvzt!19sChIJEVdfRYRfXIYRQJOWE6wHj68?authuser=0&hl=en&rclk=1
-ChIJV8HqWPL1XIYRYFmn-AoiCNs,Mila Coffee,,False,290,"Name: Local Coffee
-link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=en&entry=ttu
-Reviews: 995 reviews
-
-Name: PRESS Coffee @ The Boardwalk
-link: https://www.google.com/maps/search/PRESS+Coffee+%40+The+Boardwalk/@29.463932699999997,-98.4660261?authuser=0&hl=en&entry=ttu
-Reviews: 784 reviews
-
-Name: Berry To Bean Coffee House
-link: https://www.google.com/maps/search/Berry+To+Bean+Coffee+House/@29.4620228,-98.465572?authuser=0&hl=en&entry=ttu
-Reviews: 288 reviews
-
-Name: Amaretti Coffee
-link: https://www.google.com/maps/search/Amaretti+Coffee/@29.4428982,-98.4765726?authuser=0&hl=en&entry=ttu
-Reviews: 81 reviews
-
-Name: QuickDraw Coffee
-link: https://www.google.com/maps/search/QuickDraw+Coffee/@29.434001000000002,-98.48055889999999?authuser=0&hl=en&entry=ttu
-Reviews: 53 reviews",,Mila Coffee (Owner),,https://lh5.googleusercontent.com/p/AF1QipPelN-F_gcYI43wF7y8DTrpmWdxLh2D0lXu_KH8=w408-h306-k-no,Coffee shop,Coffee shop,4.8,6:30 AM-2 PM,Monday,(210) 929-3678,"Mila Coffee, 2202 Broadway, San Antonio, TX 78215","latte, vanilla, mexican, espresso, horchata, morning, truck, flavor, donuts, mocha",https://www.google.com/maps/place/Mila+Coffee/data=!4m7!3m6!1s0x865cf5f258eac157:0xdb08220af8a75960!8m2!3d29.4464843!4d-98.4752338!16s%2Fg%2F11cm1fw81r!19sChIJV8HqWPL1XIYRYFmn-AoiCNs?authuser=0&hl=en&rclk=1
-ChIJKdox6oFZXIYR_qNMeDSTQI8,Chico's Coffee Shack,,False,106,"Name: CommonWealth Coffeehouse & Bakery Hemisfair
-link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=en&entry=ttu
-Reviews: 807 reviews
-
-Name: San Antonio Gold
-link: https://www.google.com/maps/search/San+Antonio+Gold/@29.405330899999996,-98.5027644?authuser=0&hl=en&entry=ttu
-Reviews: 285 reviews
-
-Name: kapej
-link: https://www.google.com/maps/search/kapej/@29.4355003,-98.4909881?authuser=0&hl=en&entry=ttu
-Reviews: 190 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews",,Chico's Coffee Shack (Owner),https://www.google.com/maps/contrib/113602664373180198801,https://lh5.googleusercontent.com/p/AF1QipMMR6wOC9ElT5vWjDNP72IOqDm30Cf-iaZfIUeZ=w408-h541-k-no,Coffee shop,"Coffee shop, Beer store, Breakfast restaurant, Coffee roasters, Soft drinks shop, Wine bar",4.5,7 AM-6 PM,Open All Days,(210) 267-1063,"Chico's Coffee Shack, 119 S Flores St, San Antonio, TX 78205","latte, breakfast tacos, morning, egg, chorizo, bacon, barista, espresso, court, flavor",https://www.google.com/maps/place/Chico%27s+Coffee+Shack/data=!4m7!3m6!1s0x865c5981ea31da29:0x8f409334784ca3fe!8m2!3d29.4233329!4d-98.4950411!16s%2Fg%2F11nm_ymc69!19sChIJKdox6oFZXIYR_qNMeDSTQI8?authuser=0&hl=en&rclk=1
-ChIJjVyYB9j1XIYRWxBCQq2LTTA,Folklores Coffee - Government Hill,,False,78,"Name: Local Coffee
-link: https://www.google.com/maps/search/Local+Coffee/@29.442171,-98.4796448?authuser=0&hl=en&entry=ttu
-Reviews: 995 reviews
-
-Name: Philo Coffee
-link: https://www.google.com/maps/search/Philo+Coffee/@29.449902,-98.499704?authuser=0&hl=en&entry=ttu
-Reviews: 418 reviews
-
-Name: Folklores Coffee House
-link: https://www.google.com/maps/search/Folklores+Coffee+House/@29.443039900000002,-98.46129340000002?authuser=0&hl=en&entry=ttu
-Reviews: 345 reviews
-
-Name: Kulture kafe
-link: https://www.google.com/maps/search/Kulture+kafe/@29.412481099999994,-98.48827059999999?authuser=0&hl=en&entry=ttu
-Reviews: 159 reviews",,Folklores Coffee - Government Hill (Owner),,https://lh5.googleusercontent.com/p/AF1QipNPrxWlIu7Qrs1NSVZP8KB528kXhp5u272W7CAt=w532-h240-k-no,Coffee shop,Coffee shop,4.9,6:30 AM-5 PM,Open All Days,,"Folklores Coffee - Government Hill, 1947 N New Braunfels Ave, San Antonio, TX 78208","latte, marshmallows, barista",https://www.google.com/maps/place/Folklores+Coffee+-+Government+Hill/data=!4m7!3m6!1s0x865cf5d807985c8d:0x304d8bad4242105b!8m2!3d29.4430781!4d-98.4611602!16s%2Fg%2F11kwjcfv8v!19sChIJjVyYB9j1XIYRWxBCQq2LTTA?authuser=0&hl=en&rclk=1
-ChIJ6xNwwTP1XIYRfVzHeY5DnB8,Scorpion Cafe y Cantina,,False,72,"Name: Revolucion Coffee + Juice
-link: https://www.google.com/maps/search/Revoluci%C3%B3n+Coffee+%2B+Juice/@29.4263694,-98.48930390000001?authuser=0&hl=en&entry=ttu
-Reviews: 405 reviews
-
-Name: Copa Wine Bar & Tasting Room
-link: https://www.google.com/maps/search/Copa+Wine+Bar+%26+Tasting+Room/@29.6246284,-98.49551059999999?authuser=0&hl=en&entry=ttu
-Reviews: 304 reviews
-
-Name: kapej
-link: https://www.google.com/maps/search/kapej/@29.4355003,-98.4909881?authuser=0&hl=en&entry=ttu
-Reviews: 190 reviews
-
-Name: SoFrio's Eat + Drink!
-link: https://www.google.com/maps/search/SoFrio%27s+Eat+%2B+Drink%21/@29.421848200000003,-98.503885?authuser=0&hl=en&entry=ttu
-Reviews: 26 reviews",,Scorpion Cafe y Cantina (Owner),https://www.google.com/maps/contrib/118056253556766087622,https://lh5.googleusercontent.com/p/AF1QipPtlcF9EnUlhZby2Sv2I6NSCv5kKKRSkHFaZyrd=w408-h272-k-no,Coffee shop,"Coffee shop, Beer store, Cafe, Wine bar",4.5,3-10 PM,"Monday, Tuesday",(210) 455-0066,"Scorpion Cafe y Cantina, 125 Lamar St Suite 106, San Antonio, TX 78202","natural wines, dinner, atmosphere, beer, ceviche, lomo saltado, peruvian, bottle",https://www.google.com/maps/place/Scorpion+Cafe+y+Cantina/data=!4m7!3m6!1s0x865cf533c17013eb:0x1f9c438e79c75c7d!8m2!3d29.4319694!4d-98.4779987!16s%2Fg%2F11lgvt4z7f!19sChIJ6xNwwTP1XIYRfVzHeY5DnB8?authuser=0&hl=en&rclk=1
-ChIJMcoV9XNpXIYRusk2QuDDliw,Savage Coffee Co.,,False,66,"Name: Barrio Barista
-link: https://www.google.com/maps/search/Barrio+Barista/@29.450522999999993,-98.5776908?authuser=0&hl=en&entry=ttu
-Reviews: 821 reviews
-
-Name: Coffee Me Crazy
-link: https://www.google.com/maps/search/Coffee+Me+Crazy/@29.512514199999995,-98.6630223?authuser=0&hl=en&entry=ttu
-Reviews: 293 reviews
-
-Name: Gravves Coffee
-link: https://www.google.com/maps/search/Gravves+Coffee/@29.4494519,-98.49171559999999?authuser=0&hl=en&entry=ttu
-Reviews: 123 reviews
-
-Name: Stranded Coffee
-link: https://www.google.com/maps/search/Stranded+Coffee/@29.4116637,-98.4934893?authuser=0&hl=en&entry=ttu
-Reviews: 118 reviews
+Name: Chico's Coffee Shack
+link: https://www.google.com/maps/search/Chico%27s+Coffee+Shack/@29.423332899999995,-98.4950411?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 108 reviews
 
 Name: Southbound Coffee
-link: https://www.google.com/maps/search/Southbound+Coffee/@29.407777299999996,-98.4981402?authuser=0&hl=en&entry=ttu
-Reviews: 107 reviews",,Savage Coffee Co. (Owner),https://www.google.com/maps/contrib/108011537800293144688,https://lh5.googleusercontent.com/p/AF1QipOPHOYobV8VpxL5-Z2sGZRvg8s8O3e_Lq_csSS6=w408-h544-k-no,Coffee shop,Coffee shop,4.7,7:30 AM-1:30 PM,"Sunday, Saturday",,"Savage Coffee Co., 3331 General Hudnell Dr Acc Rd, San Antonio, TX 78226","latte, flavor, avocado toast, truck, oats, chocolate, morning",https://www.google.com/maps/place/Savage+Coffee+Co./data=!4m7!3m6!1s0x865c6973f515ca31:0x2c96c3e04236c9ba!8m2!3d29.3815401!4d-98.5653201!16s%2Fg%2F11r2mt7s9b!19sChIJMcoV9XNpXIYRusk2QuDDliw?authuser=0&hl=en&rclk=1
-ChIJ0x8FqqFfXIYREDXqR3Y6LP0,Shine Coffee,,False,57,"Name: Summer Moon Coffee
-link: https://www.google.com/maps/search/Summer+Moon+Coffee/@29.454468600000002,-98.48352440000001?authuser=0&hl=en&entry=ttu
-Reviews: 1170 reviews
-
-Name: Bright Coffee
-link: https://www.google.com/maps/search/Bright+Coffee/@29.461886,-98.50804769999999?authuser=0&hl=en&entry=ttu
-Reviews: 160 reviews
-
-Name: Gravves Coffee
-link: https://www.google.com/maps/search/Gravves+Coffee/@29.4494519,-98.49171559999999?authuser=0&hl=en&entry=ttu
-Reviews: 123 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews
-
-Name: Akhanay Coffee Roasters
-link: https://www.google.com/maps/search/Akhanay+Coffee+Roasters/@29.4398449,-98.4842213?authuser=0&hl=en&entry=ttu
-Reviews: 41 reviews",,Shine Coffee (Owner),https://www.google.com/maps/contrib/117259962394298843723,https://lh5.googleusercontent.com/p/AF1QipOfIHJPYcsSeTnQg3FCEjQq73-GpljcTHs03-AD=w408-h306-k-no,Coffee shop,Coffee shop,5,7 AM-2 PM,Open All Days,,"Shine Coffee, Mary's, 1927 N St Mary's St, San Antonio, TX 78212","latte, truck, cinnamon roll, espresso",https://www.google.com/maps/place/Shine+Coffee/data=!4m7!3m6!1s0x865c5fa1aa051fd3:0xfd2c3a7647ea3510!8m2!3d29.4434016!4d-98.4864867!16s%2Fg%2F11nns91ttc!19sChIJ0x8FqqFfXIYREDXqR3Y6LP0?authuser=0&hl=en&rclk=1
-ChIJySB1SqtYXIYRwWODFlmXZjE,Mkt Place,"Lobby cafe at the Hyatt Regency serving coffee, smoothies, sandwiches, pastries, beer & wine.",False,21,"Name: La Villita Cafe
-link: https://www.google.com/maps/search/La+Villita+Cafe/@29.4214682,-98.4891433?authuser=0&hl=en&entry=ttu
-Reviews: 1428 reviews
-
-Name: CommonWealth Coffeehouse & Bakery Hemisfair
-link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=en&entry=ttu
-Reviews: 807 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews
-
-Name: Alamo Plaza Coffee Shop & Bar
-link: https://www.google.com/maps/search/Alamo+Plaza+Coffee+Shop+%26+Bar/@29.425087299999994,-98.4850912?authuser=0&hl=en&entry=ttu
-Reviews: 24 reviews
-
-Name: Perks Coffee & More
-link: https://www.google.com/maps/search/Perks+Coffee+%26+More/@29.421926799999998,-98.4843688?authuser=0&hl=en&entry=ttu
-Reviews: 14 reviews",,Mkt Place (Owner),,https://lh5.googleusercontent.com/p/AF1QipMKlqnXoqnO47Xl2m9P8nfbhSDozj6JYBJhjKjn=w408-h544-k-no,Cafe,Cafe,4.3,6 AM-12 AM,Open All Days,(210) 222-1234,"Mkt Place, 610 River Walk, San Antonio, TX 78205",,https://www.google.com/maps/place/Mkt+Place/data=!4m7!3m6!1s0x865c58ab4a7520c9:0x31669759168363c1!8m2!3d29.4251894!4d-98.488387!16s%2Fg%2F11c0rq4sbs!19sChIJySB1SqtYXIYRwWODFlmXZjE?authuser=0&hl=en&rclk=1
-ChIJL2dvK8v3XIYRSMEJdAr2ctA,Tower Cafe,,False,21,"Name: CommonWealth Coffeehouse & Bakery Hemisfair
-link: https://www.google.com/maps/search/CommonWealth+Coffeehouse+%26+Bakery+Hemisfair/@29.418744099999994,-98.48710679999999?authuser=0&hl=en&entry=ttu
-Reviews: 807 reviews
-
-Name: Brown Coffee Co - Southtown
-link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=en&entry=ttu
-Reviews: 691 reviews
-
-Name: Revolucion Coffee + Juice
-link: https://www.google.com/maps/search/Revoluci%C3%B3n+Coffee+%2B+Juice/@29.4263694,-98.48930390000001?authuser=0&hl=en&entry=ttu
-Reviews: 405 reviews
-
-Name: Perks Coffee & More
-link: https://www.google.com/maps/search/Perks+Coffee+%26+More/@29.421926799999998,-98.4843688?authuser=0&hl=en&entry=ttu
-Reviews: 14 reviews",,Tower Cafe (Owner),,https://lh5.googleusercontent.com/p/AF1QipM6IfWXbiK20P-dTXaSxJJKRBdfZXl9BvP2GTc=w408-h544-k-no,Coffee shop,Coffee shop,1.5,,Open All Days,,"Tower Cafe, 739 E Cesar E. Chavez Blvd, San Antonio, TX 78205","hot dogs, ice, sandwich",https://www.google.com/maps/place/Tower+Cafe/data=!4m7!3m6!1s0x865cf7cb2b6f672f:0xd072f60a7409c148!8m2!3d29.4188439!4d-98.4835844!16s%2Fg%2F11j1bdv1nb!19sChIJL2dvK8v3XIYRSMEJdAr2ctA?authuser=0&hl=en&rclk=1
-ChIJRY-ttb5ZXIYRNrDJxPRUFjY,Perks Coffee & More,,False,14,"Name: Brown Coffee Co - Southtown
-link: https://www.google.com/maps/search/Brown+Coffee+Co+-+Southtown/@29.415265500000004,-98.48909929999999?authuser=0&hl=en&entry=ttu
-Reviews: 691 reviews
-
-Name: Olmos Perk
-link: https://www.google.com/maps/search/Olmos+Perk/@29.4791667,-98.4922222?authuser=0&hl=en&entry=ttu
-Reviews: 353 reviews
-
-Name: kapej
-link: https://www.google.com/maps/search/kapej/@29.4355003,-98.4909881?authuser=0&hl=en&entry=ttu
-Reviews: 190 reviews
-
-Name: Niche Coffee Company
-link: https://www.google.com/maps/search/Niche+Coffee+Company/@29.4230024,-98.49325239999999?authuser=0&hl=en&entry=ttu
-Reviews: 77 reviews
-
-Name: Mkt Place
-link: https://www.google.com/maps/search/Mkt+Place/@29.425189399999997,-98.48838699999999?authuser=0&hl=en&entry=ttu
-Reviews: 21 reviews",,Perks Coffee & More (Owner),,https://lh5.googleusercontent.com/p/AF1QipMezJ_Q5NgsCTqv2TGUu0EYyuSHtbkHo2X4u364=w408-h306-k-no,Coffee shop,Coffee shop,2.4,6 AM-11 PM,Open All Days,,"Perks Coffee & More, 600 E Market St, San Antonio, TX 78205",cup,https://www.google.com/maps/place/Perks+Coffee+%26+More/data=!4m7!3m6!1s0x865c59beb5ad8f45:0x361654f4c4c9b036!8m2!3d29.4219268!4d-98.4843688!16s%2Fg%2F11ptlby25m!19sChIJRY-ttb5ZXIYRNrDJxPRUFjY?authuser=0&hl=en&rclk=1
-ChIJiXfOF7aJXIYR-vjf8Y9zoiA,San Antonio Coffee Company,,False,5,,,San Antonio Coffee Company (Owner),https://www.google.com/maps/contrib/114914405107493924790,https://lh5.googleusercontent.com/p/AF1QipMkCEzpVwlZNIjPeUdcJTlKEuelAaHY6pZVI8St=w408-h408-k-no,Coffee store,"Coffee store, Service establishment",5,Open 24 hours,Open All Days,(832) 413-1037,,,https://www.google.com/maps/place/San+Antonio+Coffee+Company/data=!4m7!3m6!1s0x865c89b617ce7789:0x20a2738ff1dff8fa!8m2!3d29.4585735!4d-98.5143764!16s%2Fg%2F11lxbzsfvb!19sChIJiXfOF7aJXIYR-vjf8Y9zoiA?authuser=0&hl=en&rclk=1
+link: https://www.google.com/maps/search/Southbound+Coffee/@29.407777299999996,-98.4981402?authuser=0&hl=zh-TW&entry=ttu
+Reviews: 107 reviews",,San Antonio Gold (Ye Zhu ),https://www.google.com/maps/contrib/105645171298615079814,https://lh5.googleusercontent.com/p/AF1QipNR5o_1MC8YUsUcjzng4uDH_GxxirCnvEaZhJof=w408-h597-k-no,Ka Pei Dian ,Ka Pei Dian ,4.8,06:30-17:00,"Xing Qi Yi , Xing Qi Er , Xing Qi San , Xing Qi Si ",,"San Antonio Gold, 1913 S Flores St # A, San Antonio, TX 78204Mei Guo ","Na Tie , atmosphere, Gao , Hui Hua , Song Bing , Dou , Xiang Zhen , Kou Wei , Tang Jiang ",https://www.google.com/maps/place/San+Antonio+Gold/data=!4m7!3m6!1s0x865c59020c010ab9:0x73c79c3acac918d0!8m2!3d29.4053309!4d-98.5027644!16s%2Fg%2F11fjsb63b9!19sChIJuQoBDAJZXIYR0BjJyjqcx3M?authuser=0&hl=zh-TW&rclk=1

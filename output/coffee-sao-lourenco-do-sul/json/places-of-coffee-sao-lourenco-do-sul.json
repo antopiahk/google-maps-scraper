@@ -4,12 +4,12 @@
         "name": "Restaurante Tropicalis Bar e Boliche",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2014,
+        "reviews": 2016,
         "competitors": [
             {
                 "name": "Casa Nostra Restaurante e Churrascaria",
                 "link": "https://www.google.com/maps/search/Casa+Nostra+Restaurante+e+Churrascaria/@-31.374457399999997,-51.953849399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1048,
+                "reviews": 1051,
                 "rating": 4.6,
                 "main_category": "Zi Zhu Can "
             },
@@ -107,7 +107,7 @@
         "name": "Supermercado Guanabara - Sao Lourenco do Sul",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1295,
+        "reviews": 1296,
         "competitors": [
             {
                 "name": "SUPERMARKET LTD JEPSEN",
@@ -158,8 +158,10 @@
             "Za Huo Dian "
         ],
         "rating": 4.3,
-        "workday_timing": "08:00-21:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "08:00-21:30",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+55 53 3251-6322",
         "address": "Supermercado Guanabara - Sao Lourenco do Sul - R. Alm. Barroso, 1369 - Sao Lourenco do Sul, RS, 96170-000Ba Xi ",
         "review_keywords": [
@@ -204,7 +206,7 @@
             {
                 "name": "Supermercado Guanabara - Sao Lourenco do Sul",
                 "link": "https://www.google.com/maps/search/Supermercado+Guanabara+-+S%C3%A3o+Louren%C3%A7o+do+Sul/@-31.3628367,-51.9756005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1295,
+                "reviews": 1296,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -384,14 +386,14 @@
             {
                 "name": "Supermercado Guanabara - Sao Lourenco do Sul",
                 "link": "https://www.google.com/maps/search/Supermercado+Guanabara+-+S%C3%A3o+Louren%C3%A7o+do+Sul/@-31.3628367,-51.9756005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1295,
+                "reviews": 1296,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Macro Atacado Krolow Ltda.",
                 "link": "https://www.google.com/maps/search/Macro+Atacado+Krolow+Ltda./@-31.363156099999998,-51.973331599999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 501,
+                "reviews": 503,
                 "rating": 4.5,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -440,8 +442,16 @@
                 "count": 8
             },
             {
+                "keyword": "Rou ",
+                "count": 5
+            },
+            {
                 "keyword": "Ke Ren ",
                 "count": 4
+            },
+            {
+                "keyword": "Mian Bao Dian ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Supermercado+Jepsen/data=!4m7!3m6!1s0x9510f6886787a6bd:0x3a202f5b175e3364!8m2!3d-31.3613492!4d-51.9787353!16s%2Fg%2F1v9v01_g!19sChIJvaaHZ4j2EJURZDNeF1svIDo?authuser=0&hl=zh-TW&rclk=1"
@@ -451,7 +461,7 @@
         "name": "Macro Atacado Krolow Ltda.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 502,
+        "reviews": 503,
         "competitors": [
             {
                 "name": "Macro Wholesale Krolow",
@@ -542,12 +552,12 @@
         "name": "Nona Bray",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 430,
+        "reviews": 429,
         "competitors": [
             {
                 "name": "Casa Nostra Restaurante e Churrascaria",
                 "link": "https://www.google.com/maps/search/Casa+Nostra+Restaurante+e+Churrascaria/@-31.374457399999997,-51.953849399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1048,
+                "reviews": 1051,
                 "rating": 4.6,
                 "main_category": "Zi Zhu Can "
             },
@@ -561,7 +571,7 @@
             {
                 "name": "Bergmann Lancheria e Restaurante",
                 "link": "https://www.google.com/maps/search/Bergmann+Lancheria+e+Restaurante/@-31.365319599999996,-51.9784685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
+                "reviews": 248,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -607,7 +617,7 @@
             },
             {
                 "keyword": "Wu Can ",
-                "count": 9
+                "count": 8
             },
             {
                 "keyword": "Mei Shi ",
@@ -622,11 +632,11 @@
                 "count": 5
             },
             {
-                "keyword": "Ka Pei ",
-                "count": 5
+                "keyword": "Zhuang Xiu ",
+                "count": 4
             },
             {
-                "keyword": "Zhuang Xiu ",
+                "keyword": "Kong Jian ",
                 "count": 4
             },
             {
@@ -641,7 +651,7 @@
         "name": "eskimo Sorvetes",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 241,
+        "reviews": 242,
         "competitors": [
             {
                 "name": "Cremolatto Sorvetes",
@@ -677,7 +687,7 @@
             "Xue Gao Dian "
         ],
         "rating": 4.5,
-        "workday_timing": "10:00-20:00",
+        "workday_timing": "10:00-22:00",
         "closed_on": "Open All Days",
         "phone": "+55 53 3190-0040",
         "address": "eskimo Sorvetes - R. Dr. Pio Ferreira, 726 - Centro, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
@@ -702,12 +712,12 @@
         "name": "Cremolatto Sorvetes",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 218,
+        "reviews": 219,
         "competitors": [
             {
                 "name": "eskimo Sorvetes",
                 "link": "https://www.google.com/maps/search/eskim%C3%B3+Sorvetes/@-31.363378800000003,-51.982617499999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 241,
+                "reviews": 242,
                 "rating": 4.5,
                 "main_category": "Bing Qi Lin "
             },
@@ -767,19 +777,19 @@
         "name": "Casa Blackbird",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 211,
+        "reviews": 212,
         "competitors": [
             {
                 "name": "Restaurante Tropicalis Bar e Boliche",
                 "link": "https://www.google.com/maps/search/Restaurante+Tropic%C3%A1lis+Bar+e+Boliche/@-31.377420400000002,-51.9609107?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2013,
+                "reviews": 2014,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Bergmann Lancheria e Restaurante",
                 "link": "https://www.google.com/maps/search/Bergmann+Lancheria+e+Restaurante/@-31.365319599999996,-51.9784685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
+                "reviews": 248,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -857,12 +867,12 @@
         "name": "Tati Lanches",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 168,
+        "reviews": 170,
         "competitors": [
             {
                 "name": "Bergmann Lancheria e Restaurante",
                 "link": "https://www.google.com/maps/search/Bergmann+Lancheria+e+Restaurante/@-31.365319599999996,-51.9784685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
+                "reviews": 248,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -937,7 +947,7 @@
             {
                 "name": "Free Lanches",
                 "link": "https://www.google.com/maps/search/Free+Lanches/@-31.377777799999997,-51.9619444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 480,
+                "reviews": 481,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -986,7 +996,7 @@
         "name": "Americanas Express",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 93,
+        "reviews": 94,
         "competitors": [
             {
                 "name": "Magazine Luiza",
@@ -1037,9 +1047,7 @@
         ],
         "rating": 4.5,
         "workday_timing": "08:30-18:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+55 53 99112-1502",
         "address": "Americanas Express - R. Cel. Alfredo Born, 270 - Centro, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
         "review_keywords": [
@@ -1187,14 +1195,14 @@
             {
                 "name": "Restaurante Tropicalis Bar e Boliche",
                 "link": "https://www.google.com/maps/search/Restaurante+Tropic%C3%A1lis+Bar+e+Boliche/@-31.377420400000002,-51.9609107?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2013,
+                "reviews": 2014,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Casa Nostra Restaurante e Churrascaria",
                 "link": "https://www.google.com/maps/search/Casa+Nostra+Restaurante+e+Churrascaria/@-31.374457399999997,-51.953849399999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1048,
+                "reviews": 1051,
                 "rating": 4.6,
                 "main_category": "Zi Zhu Can "
             },
@@ -1208,7 +1216,7 @@
             {
                 "name": "Free Lanches",
                 "link": "https://www.google.com/maps/search/Free+Lanches/@-31.377777799999997,-51.9619444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 480,
+                "reviews": 481,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -1273,7 +1281,7 @@
             },
             {
                 "name": "Saboaria Artesanal Delikatesse",
-                "link": "https://www.google.com/maps/search/Saboaria+Artesanal+Delikatesse/@-31.371203500000004,-51.966918?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Saboaria+Artesanal+Delikatesse/@-31.3712055,-51.9668924?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 14,
                 "rating": 5,
                 "main_category": "Shou Gong Yi Pin "
@@ -1840,7 +1848,7 @@
             },
             {
                 "name": "Saboaria Artesanal Delikatesse",
-                "link": "https://www.google.com/maps/search/Saboaria+Artesanal+Delikatesse/@-31.371203500000004,-51.966918?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Saboaria+Artesanal+Delikatesse/@-31.3712055,-51.9668924?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 14,
                 "rating": 5,
                 "main_category": "Shou Gong Yi Pin "
@@ -2078,6 +2086,61 @@
         "link": "https://www.google.com/maps/place/Galo+Z%C3%A9+-+S%C3%A3o+Louren%C3%A7o+do+Sul/data=!4m7!3m6!1s0x9510f73c8f2c76af:0x27059b43401c6f4a!8m2!3d-31.3752508!4d-51.9655988!16s%2Fg%2F11stfrwvl8!19sChIJr3Ysjzz3EJURSm8cQEObBSc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJvTbXKNv3EJURdorYe3xyHlM",
+        "name": "Magia do Acai",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Cantinho do Acai",
+                "link": "https://www.google.com/maps/search/Cantinho+do+A%C3%A7a%C3%AD/@-31.3661702,-51.978699?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.8,
+                "main_category": "Ba Xi Mei Tian Dian Dian "
+            },
+            {
+                "name": "La Casa do Acai",
+                "link": "https://www.google.com/maps/search/La+Casa+do+A%C3%A7a%C3%AD/@-31.366796700000002,-51.9720789?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 27,
+                "rating": 4.9,
+                "main_category": "Ba Xi Mei Tian Dian Dian "
+            },
+            {
+                "name": "Acai da Bike",
+                "link": "https://www.google.com/maps/search/A%C3%A7a%C3%AD+da+Bike/@-31.3610904,-51.963106599999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.3,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Bamboo Acai",
+                "link": "https://www.google.com/maps/search/Bamboo+A%C3%A7a%C3%AD/@-31.3780307,-51.9643953?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": "https://www.instagram.com/magia.doacai/",
+        "owner": {
+            "id": "100376502141934380124",
+            "name": "Magia do Acai (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/100376502141934380124"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEo7npH7UKnk6hyk45dvPZAbD63yBhtA7KDr_r=w408-h544-k-no",
+        "main_category": "Ba Xi Mei Tian Dian Dian ",
+        "categories": [
+            "Ba Xi Mei Tian Dian Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+55 53 99121-4014",
+        "address": "Magia do Acai - R. Profa. Isolina Passos - Navegantes, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Magia+do+A%C3%A7a%C3%AD/data=!4m7!3m6!1s0x9510f7db28d736bd:0x531e727c7bd88a76!8m2!3d-31.3691292!4d-51.9661045!16s%2Fg%2F11thkwq1pj!19sChIJvTbXKNv3EJURdorYe3xyHlM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJydC151f3EJURX9ODWVX593s",
         "name": "Bamboo Acai",
         "description": null,
@@ -2164,7 +2227,7 @@
             {
                 "name": "Free Lanches",
                 "link": "https://www.google.com/maps/search/Free+Lanches/@-31.377777799999997,-51.9619444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 480,
+                "reviews": 481,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -2218,6 +2281,70 @@
         "address": "De Tunes lanches - R. Anchieta, 1827 - Barrinha, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/De+Tunes+lanches/data=!4m7!3m6!1s0x9510f7275d3f8fdd:0x7618f28254330c13!8m2!3d-31.362149!4d-51.9684431!16s%2Fg%2F11np3422_q!19sChIJ3Y8_XSf3EJUREwwzVILyGHY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJfx43fZD3EJURDEsIRZSjQFI",
+        "name": "Restaurante Bem Madre - Casa de Praia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Casa Nostra Restaurante e Churrascaria",
+                "link": "https://www.google.com/maps/search/Casa+Nostra+Restaurante+e+Churrascaria/@-31.374457399999997,-51.953849399999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1051,
+                "rating": 4.6,
+                "main_category": "Zi Zhu Can "
+            },
+            {
+                "name": "Casa Velha Diner",
+                "link": "https://www.google.com/maps/search/Casa+Velha+Diner/@-31.3773527,-51.960649599999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 534,
+                "rating": 3.9,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Casa da vo - Cafe",
+                "link": "https://www.google.com/maps/search/Casa+da+v%C3%B3+-+Caf%C3%A9/@-31.367022000000002,-51.984250599999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 100,
+                "rating": 4.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Caminho da Praia",
+                "link": "https://www.google.com/maps/search/Caminho+da+Praia/@-31.372896299999997,-51.9691682?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            }
+        ],
+        "website": "https://www.instagram.com/bem.madre",
+        "owner": {
+            "id": "105449753302096741982",
+            "name": "Restaurante Bem Madre - Casa de Praia (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105449753302096741982"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMBwUzBhl4cx8LZd1NfgWB-YQZvjy-uOaSUUXYl=w408-h544-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Mian Bao Xi Bing Dian ",
+            "Ji Wei Jiu Jiu Ba ",
+            "Ka Pei Dian ",
+            "Ying Shi Gao Ji Jiu Ba ",
+            "Jian Kang Shi Pin Can Ting ",
+            "Jian Kang Shi Pin Zhuan Mai Dian ",
+            "Xian Chang Yin Le Biao Yan Chang Di ",
+            "Wai Song Su Di Can Ting ",
+            "San Wen Zhi Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+55 53 99134-5670",
+        "address": "Restaurante Bem Madre - Casa de Praia - R. Irmao Julio, 67 - Barrinha, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurante+Bem+Madre+-+Casa+de+Praia/data=!4m7!3m6!1s0x9510f7907d371e7f:0x5240a39445084b0c!8m2!3d-31.3753747!4d-51.956866!16s%2Fg%2F11k4v2njjx!19sChIJfx43fZD3EJURDEsIRZSjQFI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ7SpDa_T3EJURdGM1F8FjN14",
@@ -2364,9 +2491,9 @@
             "Ji Nian Pin Shang Dian "
         ],
         "rating": null,
-        "workday_timing": "09:00-12:00, 13:30-18:00",
+        "workday_timing": "09:00-19:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Yi "
         ],
         "phone": "+55 53 99119-1129",
         "address": "Rebojo | De Boa na Lagoa(r) - Centro - R. Sen. Pinheiro Machado, 600 - Sala 1 - Centro, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
@@ -2436,7 +2563,7 @@
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [],
-        "website": "https://instagram.com/acaidapraiasls%3Figshid%3DOGQ5ZDc2ODk2ZA%3D%3D",
+        "website": "https://instagram.com/acaidapraiasls?igshid=OGQ5ZDc2ODk2ZA==",
         "owner": {
             "id": "106911170557768325256",
             "name": "Acai da Praia Delivery! (Ye Zhu )",
@@ -2552,7 +2679,7 @@
             {
                 "name": "Free Lanches",
                 "link": "https://www.google.com/maps/search/Free+Lanches/@-31.377777799999997,-51.9619444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 480,
+                "reviews": 481,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -2641,7 +2768,7 @@
         "name": "Free Lanches",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 480,
+        "reviews": 481,
         "competitors": [
             {
                 "name": "Comilao Lanches",
@@ -2711,6 +2838,10 @@
             },
             {
                 "keyword": "Xia ",
+                "count": 6
+            },
+            {
+                "keyword": "Wu Can ",
                 "count": 6
             },
             {
@@ -2788,7 +2919,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "07:30-20:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+55 53 3251-1607",
         "address": "Mercado Casa Verde - Av. Santos Abreu, 617 - Sao Lourenco do Sul, RS, 96170-000Ba Xi ",
         "review_keywords": [
@@ -2828,7 +2961,7 @@
         "name": "Bergmann Lancheria e Restaurante",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 246,
+        "reviews": 248,
         "competitors": [
             {
                 "name": "Restaurante Primavera",
@@ -2840,7 +2973,7 @@
             {
                 "name": "Tati Lanches",
                 "link": "https://www.google.com/maps/search/Tati+Lanches/@-31.364307900000004,-51.975978?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 169,
                 "rating": 4.7,
                 "main_category": "Kuai Can "
             },
@@ -2927,7 +3060,7 @@
         "name": "Padaria Timm",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 172,
+        "reviews": 174,
         "competitors": [
             {
                 "name": "Panificadora Tres Irmas",
@@ -3125,11 +3258,11 @@
         "review_keywords": [
             {
                 "keyword": "Huan Jing ",
-                "count": 8
+                "count": 9
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 5
+                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/Casa+da+v%C3%B3+-+Caf%C3%A9/data=!4m7!3m6!1s0x9510f74d033c9db5:0x61042e06263fffc4!8m2!3d-31.367022!4d-51.9842506!16s%2Fg%2F11qgb_q_v_!19sChIJtZ08A033EJURxP8_JgYuBGE?authuser=0&hl=zh-TW&rclk=1"
@@ -3144,7 +3277,7 @@
             {
                 "name": "Padaria Timm",
                 "link": "https://www.google.com/maps/search/Padaria+Timm/@-31.363754699999998,-51.9853027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 174,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3274,14 +3407,14 @@
             {
                 "name": "Restaurante Churrascaria Pinz",
                 "link": "https://www.google.com/maps/search/Restaurante+Churrascaria+Pinz/@-31.3634669,-51.9796355?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 907,
+                "reviews": 908,
                 "rating": 4.7,
                 "main_category": "Shao Kao "
             },
             {
                 "name": "Bergmann Lancheria e Restaurante",
                 "link": "https://www.google.com/maps/search/Bergmann+Lancheria+e+Restaurante/@-31.365319599999996,-51.9784685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
+                "reviews": 248,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -3466,7 +3599,7 @@
             {
                 "name": "Beef Shop",
                 "link": "https://www.google.com/maps/search/Beef+Shop/@-31.363913699999994,-51.9741618?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 131,
+                "reviews": 132,
                 "rating": 4.6,
                 "main_category": "Shou Shi Dian "
             },
@@ -3799,7 +3932,7 @@
             {
                 "name": "Padaria Timm",
                 "link": "https://www.google.com/maps/search/Padaria+Timm/@-31.363754699999998,-51.9853027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 174,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3923,7 +4056,7 @@
             {
                 "name": "Padaria Timm",
                 "link": "https://www.google.com/maps/search/Padaria+Timm/@-31.363754699999998,-51.9853027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 174,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4177,7 +4310,7 @@
             {
                 "name": "eskimo Sorvetes",
                 "link": "https://www.google.com/maps/search/eskim%C3%B3+Sorvetes/@-31.363378800000003,-51.982617499999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 241,
+                "reviews": 242,
                 "rating": 4.5,
                 "main_category": "Bing Qi Lin "
             },
@@ -4207,6 +4340,118 @@
         "address": "Star Sorvetes Sao Lourenco - Av. Sony Soares Correa, 1477 - Centro, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Star+Sorvetes+S%C3%A3o+Louren%C3%A7o/data=!4m7!3m6!1s0x9510f71f7ecfbb81:0xd8284e3573e51c1b!8m2!3d-31.3619873!4d-51.9801225!16s%2Fg%2F11kgphz5s4!19sChIJgbvPfh_3EJURGxzlczVOKNg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6ygnAHb3EJURxOfYsdeQVDo",
+        "name": "La Carreta Sao Lourenco do Sul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "competitors": [
+            {
+                "name": "Casa Nostra Restaurante e Churrascaria",
+                "link": "https://www.google.com/maps/search/Casa+Nostra+Restaurante+e+Churrascaria/@-31.374457399999997,-51.953849399999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1051,
+                "rating": 4.6,
+                "main_category": "Zi Zhu Can "
+            },
+            {
+                "name": "Restaurante Bom Apetite",
+                "link": "https://www.google.com/maps/search/Restaurante+Bom+Apetite/@-31.364291299999998,-51.9813854?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 170,
+                "rating": 3.7,
+                "main_category": "Zi Zhu Can "
+            },
+            {
+                "name": "Farol Bar e Restaurante",
+                "link": "https://www.google.com/maps/search/Farol+Bar+e+Restaurante/@-31.377673599999998,-51.961596199999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 71,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Frangolito",
+                "link": "https://www.google.com/maps/search/Frangolito/@-31.376111899999998,-51.9572304?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Ji Rou "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "116786817440847443159",
+            "name": "La Carreta Sao Lourenco do Sul (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116786817440847443159"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPar6lah-seblpmvkkTXFiMuhXefvWN2HuvX6z_=w408-h544-k-no",
+        "main_category": "Kuai Can Dian ",
+        "categories": [
+            "Kuai Can Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+55 53 98124-4441",
+        "address": "La Carreta Sao Lourenco do Sul - R. Prof. Dionisio de Aragao, 40 - Balneario, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
+        "review_keywords": [
+            {
+                "keyword": "Yin Le ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Carreta+S%C3%A3o+Louren%C3%A7o+do+Sul/data=!4m7!3m6!1s0x9510f776002728eb:0x3a5490d7b1d8e7c4!8m2!3d-31.3765234!4d-51.9582125!16s%2Fg%2F11frp42lwb!19sChIJ6ygnAHb3EJURxOfYsdeQVDo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJo8rpN3j2EJURTXEZc78Naz8",
+        "name": "Cia dos Games",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "competitors": [
+            {
+                "name": "Central Informatica",
+                "link": "https://www.google.com/maps/search/Central+Inform%C3%A1tica/@-31.3645367,-51.979695799999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 124,
+                "rating": 5,
+                "main_category": "Dian Nao Zhuan Men Dian "
+            },
+            {
+                "name": "SMART. Solucoes em Tecnologia",
+                "link": "https://www.google.com/maps/search/SMART.+Solu%C3%A7%C3%B5es+em+Tecnologia/@-31.364756599999996,-51.9773815?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 5,
+                "main_category": "Dian Nao Zhuan Men Dian "
+            },
+            {
+                "name": "LEO'S Informatica",
+                "link": "https://www.google.com/maps/search/LEO%27S+Inform%C3%A1tica/@-31.3603254,-51.9866562?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 29,
+                "rating": 4.2,
+                "main_category": "Dian Nao Zhuan Men Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "104179140697572222232",
+            "name": "Cia dos Games (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104179140697572222232"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPU1HAvpFaUKi-V9i1XtFXHJ3FPpW31H7vlpJh0=w408-h306-k-no",
+        "main_category": "Dian Nao Zhuan Men Dian ",
+        "categories": [
+            "Dian Nao Zhuan Men Dian ",
+            "Dian Nao Wei Xiu Fu Wu ",
+            "Wang Ba "
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:00-12:00, 13:30-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 53 3251-1723",
+        "address": "Cia dos Games - R. Julio de Castilhos, 2058 - Sao Lourenco do Sul, RS, 96170-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cia+dos+Games/data=!4m7!3m6!1s0x9510f67837e9caa3:0x3f6b0dbf7319714d!8m2!3d-31.3681462!4d-51.9816538!16s%2Fg%2F1tfb34lf!19sChIJo8rpN3j2EJURTXEZc78Naz8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJJ2cg9ZP2EJUR5FRq0ii04_s",
@@ -4273,58 +4518,6 @@
         "link": "https://www.google.com/maps/place/mini+mercado+poko+pila/data=!4m7!3m6!1s0x9510f693f5206727:0xfbe3b428d26a54e4!8m2!3d-31.3681762!4d-51.9634687!16s%2Fg%2F11dxdg8lrd!19sChIJJ2cg9ZP2EJUR5FRq0ii04_s?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJo8rpN3j2EJURTXEZc78Naz8",
-        "name": "Cia dos Games",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 27,
-        "competitors": [
-            {
-                "name": "Central Informatica",
-                "link": "https://www.google.com/maps/search/Central+Inform%C3%A1tica/@-31.3645367,-51.979695799999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
-                "rating": 5,
-                "main_category": "Dian Nao Zhuan Men Dian "
-            },
-            {
-                "name": "SMART. Solucoes em Tecnologia",
-                "link": "https://www.google.com/maps/search/SMART.+Solu%C3%A7%C3%B5es+em+Tecnologia/@-31.364756599999996,-51.9773815?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 5,
-                "main_category": "Dian Nao Zhuan Men Dian "
-            },
-            {
-                "name": "LEO'S Informatica",
-                "link": "https://www.google.com/maps/search/LEO%27S+Inform%C3%A1tica/@-31.3603254,-51.9866562?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
-                "rating": 4.2,
-                "main_category": "Dian Nao Zhuan Men Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "104179140697572222232",
-            "name": "Cia dos Games (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104179140697572222232"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPU1HAvpFaUKi-V9i1XtFXHJ3FPpW31H7vlpJh0=w408-h306-k-no",
-        "main_category": "Dian Nao Zhuan Men Dian ",
-        "categories": [
-            "Dian Nao Zhuan Men Dian ",
-            "Dian Nao Wei Xiu Fu Wu ",
-            "Wang Ba "
-        ],
-        "rating": 4.2,
-        "workday_timing": "09:00-12:00, 13:30-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 53 3251-1723",
-        "address": "Cia dos Games - R. Julio de Castilhos, 2058 - Sao Lourenco do Sul, RS, 96170-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cia+dos+Games/data=!4m7!3m6!1s0x9510f67837e9caa3:0x3f6b0dbf7319714d!8m2!3d-31.3681462!4d-51.9816538!16s%2Fg%2F1tfb34lf!19sChIJo8rpN3j2EJURTXEZc78Naz8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJyadN_8T1EJURot6IPu6Qu1c",
         "name": "Cafe Porepp",
         "description": null,
@@ -4334,7 +4527,7 @@
             {
                 "name": "Casa da vo - Cafe",
                 "link": "https://www.google.com/maps/search/Casa+da+v%C3%B3+-+Caf%C3%A9/@-31.367022000000002,-51.984250599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
+                "reviews": 100,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -4385,14 +4578,14 @@
             {
                 "name": "Padaria Timm",
                 "link": "https://www.google.com/maps/search/Padaria+Timm/@-31.363754699999998,-51.9853027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 174,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Casa da vo - Cafe",
                 "link": "https://www.google.com/maps/search/Casa+da+v%C3%B3+-+Caf%C3%A9/@-31.367022000000002,-51.984250599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
+                "reviews": 100,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -4442,7 +4635,7 @@
             {
                 "name": "Casa da vo - Cafe",
                 "link": "https://www.google.com/maps/search/Casa+da+v%C3%B3+-+Caf%C3%A9/@-31.367022000000002,-51.984250599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
+                "reviews": 100,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -4595,7 +4788,7 @@
             {
                 "name": "Nona Bray",
                 "link": "https://www.google.com/maps/search/Nona+Bray/@-31.3635207,-51.973114900000006?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 430,
+                "reviews": 429,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can "
             },
@@ -4783,7 +4976,7 @@
             {
                 "name": "Padaria Timm",
                 "link": "https://www.google.com/maps/search/Padaria+Timm/@-31.363754699999998,-51.9853027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 174,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -5140,7 +5333,7 @@
             {
                 "name": "Casa da vo - Cafe",
                 "link": "https://www.google.com/maps/search/Casa+da+v%C3%B3+-+Caf%C3%A9/@-31.367022000000002,-51.984250599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 99,
+                "reviews": 100,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -5251,7 +5444,7 @@
             {
                 "name": "Bergmann Lancheria e Restaurante",
                 "link": "https://www.google.com/maps/search/Bergmann+Lancheria+e+Restaurante/@-31.365319599999996,-51.9784685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 246,
+                "reviews": 248,
                 "rating": 4.7,
                 "main_category": "Can Ting "
             },
@@ -5533,7 +5726,7 @@
             {
                 "name": "Supermercado Guanabara - Sao Lourenco do Sul",
                 "link": "https://www.google.com/maps/search/Supermercado+Guanabara+-+S%C3%A3o+Louren%C3%A7o+do+Sul/@-31.3628367,-51.9756005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1295,
+                "reviews": 1296,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -5595,14 +5788,14 @@
             {
                 "name": "Free Lanches",
                 "link": "https://www.google.com/maps/search/Free+Lanches/@-31.377777799999997,-51.9619444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 480,
+                "reviews": 481,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Tati Lanches",
                 "link": "https://www.google.com/maps/search/Tati+Lanches/@-31.364307900000004,-51.975978?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 169,
                 "rating": 4.7,
                 "main_category": "Kuai Can "
             },
@@ -5639,6 +5832,116 @@
         "address": "Lanches da tia Eva - R. Julio de Castilhos - Sao Lourenco do Sul, RS, 96170-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Lanches+da+tia+Eva/data=!4m7!3m6!1s0x9510f75a20c9a99b:0x8b1001bb6805b3fc!8m2!3d-31.3676844!4d-51.9811344!16s%2Fg%2F11fm16ryvs!19sChIJm6nJIFr3EJUR_LMFaLsBEIs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJFUcYxen2EJURMMKLo2NZeyU",
+        "name": "Sorveteria Napoly",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Sorvete na Chapa",
+                "link": "https://www.google.com/maps/search/Sorvete+na+Chapa/@-31.376070000000002,-51.964320799999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 4.7,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Acai na bike",
+                "link": "https://www.google.com/maps/search/A%C3%A7a%C3%AD+na+bike/@-31.367145899999997,-51.9661008?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Tang Guo Dian "
+            },
+            {
+                "name": "Sorvetes & Cia",
+                "link": "https://www.google.com/maps/search/Sorvetes+%26+Cia/@-31.3662335,-51.9787995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sorveteria Napoly (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ishvOtfDS_QMT8x8VipxfA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=10.880671&pitch=0&thumbfov=100",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Sorveteria Napoly - Av. Getulio Vargas, 277 - Balneario, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sorveteria+Napoly/data=!4m7!3m6!1s0x9510f6e9c5184715:0x257b5963a38bc230!8m2!3d-31.3767394!4d-51.9586474!16s%2Fg%2F11c2j8gfr8!19sChIJFUcYxen2EJURMMKLo2NZeyU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7Ygk4Oz3EJURQ4QiZAXnpLU",
+        "name": "Casa Bender - Estacao 03 - SLS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Renosto Restaurante & Churrascaria",
+                "link": "https://www.google.com/maps/search/Renosto+Restaurante+%26+Churrascaria/@-31.3147738,-52.0228688?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1191,
+                "rating": 4.4,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "Casa Nostra Restaurante e Churrascaria",
+                "link": "https://www.google.com/maps/search/Casa+Nostra+Restaurante+e+Churrascaria/@-31.374457399999997,-51.953849399999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1051,
+                "rating": 4.6,
+                "main_category": "Zi Zhu Can "
+            },
+            {
+                "name": "Casa Velha Diner",
+                "link": "https://www.google.com/maps/search/Casa+Velha+Diner/@-31.3773527,-51.960649599999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 534,
+                "rating": 3.9,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Restaurante e Lancheria Mare Alta",
+                "link": "https://www.google.com/maps/search/Restaurante+e+Lancheria+Mar%C3%A9+Alta/@-31.3771085,-51.9598818?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 94,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Frango in Box",
+                "link": "https://www.google.com/maps/search/Frango+in+Box/@-31.372706899999994,-51.9690017?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Casa Bender - Estacao 03 - SLS (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNaX0yglorbzrGf5w2VzrqKSgxpWOPOl0GVvqOC=w426-h240-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Casa Bender - Estacao 03 - SLS - R. Irm, R. Irmao Julio, 20 - Balneario, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Casa+Bender+-+Esta%C3%A7%C3%A3o+03+-+SLS/data=!4m7!3m6!1s0x9510f7ece02488ed:0xb5a4e70564228443!8m2!3d-31.3759758!4d-51.9571387!16s%2Fg%2F11j4lf2mv3!19sChIJ7Ygk4Oz3EJURQ4QiZAXnpLU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJXTePY2v3EJUR-P_L5XPw4jk",
@@ -5678,7 +5981,7 @@
             {
                 "name": "eskimo Sorvetes",
                 "link": "https://www.google.com/maps/search/eskim%C3%B3+Sorvetes/@-31.363378800000003,-51.982617499999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 241,
+                "reviews": 242,
                 "rating": 4.5,
                 "main_category": "Bing Qi Lin "
             },
@@ -5759,7 +6062,7 @@
             {
                 "name": "Padaria Timm",
                 "link": "https://www.google.com/maps/search/Padaria+Timm/@-31.363754699999998,-51.9853027?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 172,
+                "reviews": 174,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -6137,5 +6440,163 @@
         "address": "Arlequina Lanches - R. Sem Denominacao, 22 - Barrinha, Sao Lourenco do Sul - RS, 96148-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Arlequina+Lanches/data=!4m7!3m6!1s0x9510f79832e95c0d:0xdcb59fd87d9ac43!8m2!3d-31.3545834!4d-51.9628595!16s%2Fg%2F11m3_jn887!19sChIJDVzpMpj3EJURQ6zZh_1Zyw0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8d9Lvif3EJUR1IThilgUsuI",
+        "name": "Tabacaria E Lancheria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Restaurante Tropicalis Bar e Boliche",
+                "link": "https://www.google.com/maps/search/Restaurante+Tropic%C3%A1lis+Bar+e+Boliche/@-31.377420400000002,-51.9609107?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2014,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Casa Velha Diner",
+                "link": "https://www.google.com/maps/search/Casa+Velha+Diner/@-31.3773527,-51.960649599999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 534,
+                "rating": 3.9,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Free Lanches",
+                "link": "https://www.google.com/maps/search/Free+Lanches/@-31.377777799999997,-51.9619444?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 481,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Restaurante e Lancheria Mare Alta",
+                "link": "https://www.google.com/maps/search/Restaurante+e+Lancheria+Mar%C3%A9+Alta/@-31.3771085,-51.9598818?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 94,
+                "rating": 4.2,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Tabacaria E Lancheria (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ErFANIbnzYcbyDI9bjoWng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=228.88118&pitch=0&thumbfov=100",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Tabacaria E Lancheria - R. Anchieta, 86-2 - Sao Lourenco do Sul, RS, 96170-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tabacaria+E+Lancheria/data=!4m7!3m6!1s0x9510f727be4bdff1:0xe2b214588ae184d4!8m2!3d-31.3773438!4d-51.9606013!16s%2Fg%2F11k0t_pkwk!19sChIJ8d9Lvif3EJUR1IThilgUsuI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJnUSTZCL3EJURiOInL-swGyw",
+        "name": "Loope gelados",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Bamboo Acai",
+                "link": "https://www.google.com/maps/search/Bamboo+A%C3%A7a%C3%AD/@-31.3780307,-51.9643953?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Galeria da Lagoa Crepes e Sorvetes",
+                "link": "https://www.google.com/maps/search/Galeria+da+Lagoa+Crepes+e+Sorvetes/@-31.377781,-51.9621025?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Sorvetes & Cia",
+                "link": "https://www.google.com/maps/search/Sorvetes+%26+Cia/@-31.3662335,-51.9787995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Loope gelados (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=espb7TQZIV_6xm8B85JX2A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=252.89668&pitch=0&thumbfov=100",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Loope gelados - R. Prof. Dionisio de Aragao, 40 - Balneario, Sao Lourenco do Sul - RS, 96170-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Loope+gelados/data=!4m7!3m6!1s0x9510f7226493449d:0x2c1b30eb2f27e288!8m2!3d-31.3765876!4d-51.9582077!16s%2Fg%2F11k9dk29b7!19sChIJnUSTZCL3EJURiOInL-swGyw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJL3oXEBX3EJURn775_lhDBP0",
+        "name": "Sorveteria Carreta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "eskimo Sorvetes",
+                "link": "https://www.google.com/maps/search/eskim%C3%B3+Sorvetes/@-31.363378800000003,-51.982617499999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 242,
+                "rating": 4.5,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Cremolatto Sorvetes",
+                "link": "https://www.google.com/maps/search/Cremolatto+Sorvetes/@-31.3648808,-51.977342699999994?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 218,
+                "rating": 4.8,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Star Sorvetes Sao Lourenco",
+                "link": "https://www.google.com/maps/search/Star+Sorvetes+S%C3%A3o+Louren%C3%A7o/@-31.361987300000003,-51.9801225?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 34,
+                "rating": 4.8,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Sorveteria do Pirata",
+                "link": "https://www.google.com/maps/search/Sorveteria+do+Pirata/@-31.375946600000002,-51.965134?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 5,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sorveteria Carreta (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGucisE8qhZT-pZ2pyTwMX8bZJMo_xL9R6jbtW=w408-h544-k-no",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Sorveteria Carreta - R. Alm. Barroso, 2063 - Sao Lourenco do Sul, RS, 96170-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sorveteria+Carreta/data=!4m7!3m6!1s0x9510f71510177a2f:0xfd044358fef9be9f!8m2!3d-31.3651367!4d-51.9812124!16s%2Fg%2F11mwrjczl7!19sChIJL3oXEBX3EJURn775_lhDBP0?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

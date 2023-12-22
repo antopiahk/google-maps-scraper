@@ -16,7 +16,7 @@
             {
                 "name": "Vilas Gourmet",
                 "link": "https://www.google.com/maps/search/Vilas+Gourmet/@-21.858551300000002,-47.479849699999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 380,
+                "reviews": 379,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -58,6 +58,10 @@
                 "count": 23
             },
             {
+                "keyword": "Ke Ren ",
+                "count": 11
+            },
+            {
                 "keyword": "Tui Guang ",
                 "count": 10
             },
@@ -82,14 +86,14 @@
             {
                 "name": "Vila Rica Supermarkets Shop 1",
                 "link": "https://www.google.com/maps/search/Vila+Rica+Supermarkets+Shop+1/@-21.8582878,-47.4798507?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1716,
+                "reviews": 1718,
                 "rating": 4.6,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Mercado Pag Menos",
                 "link": "https://www.google.com/maps/search/Mercado+Pag+Menos/@-21.8313872,-47.4719203?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 455,
+                "reviews": 456,
                 "rating": 4.5,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -129,7 +133,9 @@
         ],
         "rating": 4,
         "workday_timing": "07:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+55 800 779 6761",
         "address": "Extra Mercado - R. Nelson Pereira Lopes, 452, Porto Ferreira - SP, 13660-000Ba Xi ",
         "review_keywords": [
@@ -182,14 +188,14 @@
             {
                 "name": "Vila Rica Supermarkets Shop 1",
                 "link": "https://www.google.com/maps/search/Vila+Rica+Supermarkets+Shop+1/@-21.8582878,-47.4798507?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1716,
+                "reviews": 1718,
                 "rating": 4.6,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Supermercado Fonseca",
                 "link": "https://www.google.com/maps/search/Supermercado+Fonseca/@-21.8566544,-47.476128200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 688,
+                "reviews": 690,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -268,7 +274,7 @@
         "name": "Supermercado Fonseca",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 689,
+        "reviews": 690,
         "competitors": [
             {
                 "name": "Padona Box Supermarket",
@@ -287,7 +293,7 @@
             {
                 "name": "Mercado Zanetti",
                 "link": "https://www.google.com/maps/search/Mercado+Zanetti/@-21.855768899999998,-47.4859436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
+                "reviews": 45,
                 "rating": 4.4,
                 "main_category": "Shi Chang "
             },
@@ -318,7 +324,7 @@
         "review_keywords": [
             {
                 "keyword": "Jia Ge ",
-                "count": 53
+                "count": 54
             },
             {
                 "keyword": "Ting Che ",
@@ -352,7 +358,7 @@
         "name": "Robert Reis Supermercado",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 548,
+        "reviews": 549,
         "competitors": [
             {
                 "name": "Padona Box Supermarket",
@@ -398,11 +404,11 @@
                 "count": 51
             },
             {
-                "keyword": "Tui Guang ",
-                "count": 10
+                "keyword": "Gong Ying ",
+                "count": 11
             },
             {
-                "keyword": "Gong Ying ",
+                "keyword": "Tui Guang ",
                 "count": 10
             },
             {
@@ -429,7 +435,7 @@
         "name": "Pernambucanas",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 544,
+        "reviews": 545,
         "competitors": [
             {
                 "name": "Loja Sao Pedro",
@@ -484,7 +490,7 @@
             "Nu Shi Fu Zhuang Dian "
         ],
         "rating": 4.1,
-        "workday_timing": "09:00-22:00",
+        "workday_timing": "09:00-18:00",
         "closed_on": [
             "Xing Qi Ri "
         ],
@@ -527,7 +533,7 @@
         "name": "Lojas Bonadia - Porto Ferreira",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 511,
+        "reviews": 514,
         "competitors": [
             {
                 "name": "Lindaludi Moveis e decoracoes",
@@ -579,7 +585,8 @@
         "rating": 4.9,
         "workday_timing": "09:00-20:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+55 19 99830-0505",
         "address": "Lojas Bonadia - Porto Ferreira - Av. Rudolf Streit, 1010 - Vila sibila, Porto Ferreira - SP, 13660-000Ba Xi ",
@@ -598,14 +605,14 @@
             },
             {
                 "keyword": "Jiao Yu ",
-                "count": 7
+                "count": 8
             },
             {
                 "keyword": "Zhu Yi ",
                 "count": 7
             },
             {
-                "keyword": "Yi Fu ",
+                "keyword": "Gan Xie ",
                 "count": 4
             }
         ],
@@ -616,7 +623,7 @@
         "name": "DIA Supermercado",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 470,
+        "reviews": 471,
         "competitors": [
             {
                 "name": "Padona Box Supermarket",
@@ -628,7 +635,7 @@
             {
                 "name": "Supermercado Fonseca",
                 "link": "https://www.google.com/maps/search/Supermercado+Fonseca/@-21.8566544,-47.476128200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 688,
+                "reviews": 690,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -692,7 +699,7 @@
         "name": "Vila Rica Supermarkets Shop 2",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 431,
+        "reviews": 432,
         "competitors": [
             {
                 "name": "Padona Box Supermarket",
@@ -704,7 +711,7 @@
             {
                 "name": "Vilas Gourmet",
                 "link": "https://www.google.com/maps/search/Vilas+Gourmet/@-21.858551300000002,-47.479849699999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 380,
+                "reviews": 379,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -761,7 +768,7 @@
             {
                 "name": "Vila Rica Supermarkets Shop 1",
                 "link": "https://www.google.com/maps/search/Vila+Rica+Supermarkets+Shop+1/@-21.8582878,-47.4798507?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1716,
+                "reviews": 1718,
                 "rating": 4.6,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -776,7 +783,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -841,6 +848,10 @@
             {
                 "keyword": "Zu Zhi ",
                 "count": 3
+            },
+            {
+                "keyword": "Wu Can ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Vilas+Gourmet/data=!4m7!3m6!1s0x94b8024d44f8fa3d:0x16e396f2c207f710!8m2!3d-21.8585513!4d-47.4798497!16s%2Fg%2F1ptwgjg6y!19sChIJPfr4RE0CuJQREPcHwvKW4xY?authuser=0&hl=zh-TW&rclk=1"
@@ -855,7 +866,7 @@
             {
                 "name": "Lojas Bonadia - Porto Ferreira",
                 "link": "https://www.google.com/maps/search/Lojas+Bonadia+-+Porto+Ferreira/@-21.8529344,-47.467714799999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 511,
+                "reviews": 512,
                 "rating": 4.9,
                 "main_category": "Jia Dian "
             },
@@ -881,7 +892,7 @@
                 "main_category": "Shang Dian "
             }
         ],
-        "website": "https://vendedor.magazineluiza.com.br/filiais/44%3Futm_source%3Dgoogle%26utm_medium%3Dmaps%26utm_campaign%3Dgmb",
+        "website": "https://vendedor.magazineluiza.com.br/filiais/44?utm_source=google&utm_medium=maps&utm_campaign=gmb",
         "owner": {
             "id": "111064627109902122542",
             "name": "Magazine Luiza (Ye Zhu )",
@@ -988,7 +999,7 @@
             {
                 "name": "Supermercado Fonseca",
                 "link": "https://www.google.com/maps/search/Supermercado+Fonseca/@-21.8566544,-47.476128200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 688,
+                "reviews": 690,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -1062,14 +1073,14 @@
             {
                 "name": "Sorveteria Vila Nova",
                 "link": "https://www.google.com/maps/search/Sorveteria+Vila+Nova/@-21.863637,-47.4863886?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
+                "reviews": 169,
                 "rating": 4.7,
                 "main_category": "Bing Qi Lin "
             },
             {
                 "name": "Sorveteria Adriano",
                 "link": "https://www.google.com/maps/search/Sorveteria+Adriano/@-21.854094999999997,-47.478405099999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
+                "reviews": 110,
                 "rating": 4.9,
                 "main_category": "Bing Qi Lin "
             }
@@ -1179,7 +1190,9 @@
         "rating": 4.4,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+55 19 3581-3677",
         "address": "Moveis Hans - Rua Antonio Fabiano Rodrigues, 147 - Vila Santa Maria, Porto Ferreira - SP, 13660-348Ba Xi ",
@@ -1205,22 +1218,22 @@
             {
                 "name": "Vila Rica Supermarkets Shop 1",
                 "link": "https://www.google.com/maps/search/Vila+Rica+Supermarkets+Shop+1/@-21.8582878,-47.4798507?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1716,
+                "reviews": 1718,
                 "rating": 4.6,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Mercado Pag Menos",
                 "link": "https://www.google.com/maps/search/Mercado+Pag+Menos/@-21.8313872,-47.4719203?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 455,
+                "reviews": 456,
                 "rating": 4.5,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Super Mercado J. Ramos",
                 "link": "https://www.google.com/maps/search/Super+Mercado+J.+Ramos/@-21.8604846,-47.4538976?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4,
+                "reviews": 57,
+                "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -1309,7 +1322,11 @@
         "rating": 4.6,
         "workday_timing": "08:00-17:30",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 19 99723-5392",
         "address": "Commercial Joelma Decoracoes - Av. Joao Martins da Silveira Sobrinho, 2315, Porto Ferreira - SP, 13660-350Ba Xi ",
@@ -1326,6 +1343,75 @@
         "link": "https://www.google.com/maps/place/Commercial+Joelma+Decora%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94b803cd2e66315f:0x8d87292d8b128bb1!8m2!3d-21.8711761!4d-47.4883916!16s%2Fg%2F1tdwwsqc!19sChIJXzFmLs0DuJQRsYsSiy0ph40?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ8bU_g0gCuJQRAEiep5_3jb8",
+        "name": "Lojas Cem F151",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 85,
+        "competitors": [
+            {
+                "name": "Magazine Luiza",
+                "link": "https://www.google.com/maps/search/Magazine+Luiza/@-21.8545209,-47.4788278?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 304,
+                "rating": 4.1,
+                "main_category": "Bai Huo Gong Si "
+            },
+            {
+                "name": "Casas Bahia",
+                "link": "https://www.google.com/maps/search/Casas+Bahia/@-21.853435299999997,-47.4800791?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 171,
+                "rating": 4.2,
+                "main_category": "Bai Huo Gong Si "
+            },
+            {
+                "name": "Americanas Express",
+                "link": "https://www.google.com/maps/search/Americanas+Express/@-21.855819699999998,-47.4799674?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 35,
+                "rating": 4,
+                "main_category": "Bai Huo Gong Si "
+            },
+            {
+                "name": "Comercial Sao Jorge Comercio Importacao e Exportacao",
+                "link": "https://www.google.com/maps/search/Comercial+S%C3%A3o+Jorge+Com%C3%A9rcio+Importa%C3%A7%C3%A3o+e+Exporta%C3%A7%C3%A3o/@-21.8547488,-47.4787447?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 3.6,
+                "main_category": "Dian Qi Xing "
+            }
+        ],
+        "website": "http://www.lojascem.com.br/",
+        "owner": {
+            "id": "114772489186411217779",
+            "name": "Lojas Cem F151 (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114772489186411217779"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOjoL-7iNGokg-SbJZWCmcSiGTtwZIwKAEQQXSU=w408-h544-k-no",
+        "main_category": "Dian Qi Xing ",
+        "categories": [
+            "Dian Qi Xing ",
+            "Shou Ji Zhuan Men Dian ",
+            "Dian Qi Ling Shou ",
+            "Jia Dian "
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 19 3589-2100",
+        "address": "Lojas Cem F151 - Praca Cornelio Procopio, 21 - Centro, Porto Ferreira - SP, 13660-015Ba Xi ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 6
+            },
+            {
+                "keyword": "Zhi Fu ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Lojas+Cem+F151/data=!4m7!3m6!1s0x94b80248833fb5f1:0xbf8df79fa79e4800!8m2!3d-21.8534182!4d-47.4787611!16s%2Fg%2F11bw7dbqfy!19sChIJ8bU_g0gCuJQRAEiep5_3jb8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJHR7KTuQDuJQRFmqxNe1i1IY",
         "name": "Porto Ferreira Ceramica e Decoracao",
         "description": null,
@@ -1335,14 +1421,14 @@
             {
                 "name": "Scalla Ceramica Artistica - Loja Porto Ferreira",
                 "link": "https://www.google.com/maps/search/Scalla+Cer%C3%A2mica+Art%C3%ADstica+-+Loja+Porto+Ferreira/@-21.8753486,-47.4868449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1900,
                 "rating": 4.3,
                 "main_category": "Tao Qi Zhuan Mai Dian "
             },
             {
                 "name": "Porto Brasil Store",
                 "link": "https://www.google.com/maps/search/Porto+Brasil+Store/@-21.8749964,-47.487089000000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1804,
+                "reviews": 1807,
                 "rating": 4.5,
                 "main_category": "Tao Qi Zhuan Mai Dian "
             },
@@ -1405,7 +1491,7 @@
         "name": "Cheirin Bao Porto Ferreira",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 78,
+        "reviews": 79,
         "competitors": [
             {
                 "name": "Aromas Cafe",
@@ -1661,8 +1747,8 @@
         "rating": 4.9,
         "workday_timing": "07:00-17:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 19 99629-8847",
         "address": "Art Figueroa design em ferro Porto Ferreira - R. Jose Naif, 132 - Jardim Porto Novo, Porto Ferreira - SP, 13660-000Ba Xi ",
@@ -1765,61 +1851,6 @@
         "link": "https://www.google.com/maps/place/Art%27s+Ferro/data=!4m7!3m6!1s0x94b8025c55ecb48d:0xcd3edfcd6d3b46e!8m2!3d-21.8635231!4d-47.4909673!16s%2Fg%2F1pv5tln4c!19sChIJjbTsVVwCuJQRbrTT1vzt0ww?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJceqwB0sCuJQRz_M79js7LQ0",
-        "name": "Mercado Zanetti",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 45,
-        "competitors": [
-            {
-                "name": "Supermercado Fonseca",
-                "link": "https://www.google.com/maps/search/Supermercado+Fonseca/@-21.8566544,-47.476128200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 688,
-                "rating": 4.4,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "DIA Supermercado",
-                "link": "https://www.google.com/maps/search/DIA+Supermercado/@-21.852169399999998,-47.481106399999994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 470,
-                "rating": 3.8,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Skina Supermercado",
-                "link": "https://www.google.com/maps/search/Skina+Supermercado/@-21.8572732,-47.4890763?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
-                "rating": 4.7,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "MERCADO 29",
-                "link": "https://www.google.com/maps/search/MERCADO+29/@-21.865082899999997,-47.4823619?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.7,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": "http://www.mercadozanetti.blogspot.com.br/",
-        "owner": {
-            "id": "110082665495470202189",
-            "name": "Mercado Zanetti (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110082665495470202189"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvVlgIZgIcWWTPW7CkR8M2XGLwRFcQ-YFlV1Qe=w408-h306-k-no",
-        "main_category": "Shi Chang ",
-        "categories": [
-            "Shi Chang "
-        ],
-        "rating": 4.4,
-        "workday_timing": "07:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 19 3581-1756",
-        "address": "Mercado Zanetti - Rua 29 de Julho, 1378 - Centro, Porto Ferreira - SP, 13660-025Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mercado+Zanetti/data=!4m7!3m6!1s0x94b8024b07b0ea71:0xd2d3b3bf63bf3cf!8m2!3d-21.8557689!4d-47.4859436!16s%2Fg%2F11hb2bwqxq!19sChIJceqwB0sCuJQRz_M79js7LQ0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJjT0iyiwCuJQRX0NtakQi8NY",
         "name": "Mix Interiores",
         "description": null,
@@ -1871,7 +1902,8 @@
         "rating": 4.6,
         "workday_timing": "08:30-17:20",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+55 19 3589-1856",
         "address": "Mix Interiores - Av Professsor Henrique da M Fonseca Junior, 2325 - Jardim Santa Maria, Porto Ferreira - SP, 13660-346Ba Xi ",
@@ -1921,7 +1953,7 @@
                 "main_category": "Fu Zhuang Dian "
             }
         ],
-        "website": "https://www.americanas.com.br/lojas-proximas/33014556000196/5289/pick-up?utm_medium=meunegocio&utm_source=google&utm_campaign=marca:acom;midia:meunegocio;formato:00;subformato:00;idcampanha:pacotelocal&epar=mn_00_00_go_pacotelocal",
+        "website": "https://www.americanas.com.br/lojas-proximas/33014556000196/5289/pick-up%3Futm_medium%3Dmeunegocio%26utm_source%3Dgoogle%26utm_campaign%3Dmarca:acom%3Bmidia:meunegocio%3Bformato:00%3Bsubformato:00%3Bidcampanha:pacotelocal%26epar%3Dmn_00_00_go_pacotelocal",
         "owner": {
             "id": "105848845885792813676",
             "name": "Americanas Express (Ye Zhu )",
@@ -1934,9 +1966,7 @@
         ],
         "rating": 4,
         "workday_timing": "09:00-22:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "closed_on": "Open All Days",
         "phone": "+55 19 99209-6457",
         "address": "Americanas Express - R. Dona Balbina, 431 - Centro, Porto Ferreira - SP, 13660-039Ba Xi ",
         "review_keywords": [
@@ -1957,14 +1987,14 @@
             {
                 "name": "Scalla Ceramica Artistica - Loja Porto Ferreira",
                 "link": "https://www.google.com/maps/search/Scalla+Cer%C3%A2mica+Art%C3%ADstica+-+Loja+Porto+Ferreira/@-21.8753486,-47.4868449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1900,
                 "rating": 4.3,
                 "main_category": "Tao Qi Zhuan Mai Dian "
             },
             {
                 "name": "Porto Brasil Store",
                 "link": "https://www.google.com/maps/search/Porto+Brasil+Store/@-21.8749964,-47.487089000000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1804,
+                "reviews": 1807,
                 "rating": 4.5,
                 "main_category": "Tao Qi Zhuan Mai Dian "
             },
@@ -2081,14 +2111,14 @@
             {
                 "name": "Scalla Ceramica Artistica - Loja Porto Ferreira",
                 "link": "https://www.google.com/maps/search/Scalla+Cer%C3%A2mica+Art%C3%ADstica+-+Loja+Porto+Ferreira/@-21.8753486,-47.4868449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1900,
                 "rating": 4.3,
                 "main_category": "Tao Qi Zhuan Mai Dian "
             },
             {
                 "name": "Porto Brasil Store",
                 "link": "https://www.google.com/maps/search/Porto+Brasil+Store/@-21.8749964,-47.487089000000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1804,
+                "reviews": 1807,
                 "rating": 4.5,
                 "main_category": "Tao Qi Zhuan Mai Dian "
             },
@@ -2128,8 +2158,8 @@
         "rating": 4.5,
         "workday_timing": "07:00-17:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 19 99279-2886",
         "address": "Ceramica de Louca Artistisca Regina Ltda-ME - Av. Dr. Hermidio Salzano, 360, Porto Ferreira - SP, 13660-000Ba Xi ",
@@ -2229,7 +2259,7 @@
                 "main_category": "Xi Dian "
             }
         ],
-        "website": "https://instagram.com/bel_com_mel_confeitaria%3Figshid%3DYmMyMTA2M2Y%3D",
+        "website": "https://instagram.com/bel_com_mel_confeitaria?igshid=YmMyMTA2M2Y=",
         "owner": {
             "id": "107387607213774415006",
             "name": "Bel Com Mel Confeitaria (Ye Zhu )",
@@ -2313,6 +2343,70 @@
         "address": "Shangai Decoracoes - R. Leandro Lopes do Prado, 30, Porto Ferreira - SP, 13660-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Shangai+Decora%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94b8022d654b684f:0x9ccdd96cda670845!8m2!3d-21.8689748!4d-47.4865293!16s%2Fg%2F11cs1rf81q!19sChIJT2hLZS0CuJQRRQhn2mzZzZw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJhyKARs0DuJQRFsX9PIUAlGQ",
+        "name": "Loja Wj design Em Ferro (cadeiras Buffet)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Art's Ferro",
+                "link": "https://www.google.com/maps/search/Art%27s+Ferro/@-21.8635231,-47.4909673?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 58,
+                "rating": 4.5,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Moveis Porto Ferreira",
+                "link": "https://www.google.com/maps/search/M%C3%B3veis+Porto+Ferreira/@-21.872529699999998,-47.4770081?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.7,
+                "main_category": "Jia Ju Zhi Zao Shang "
+            },
+            {
+                "name": "Novo Estilo Decoracoes",
+                "link": "https://www.google.com/maps/search/Novo+Estilo+Decora%C3%A7%C3%B5es/@-21.8744759,-47.487292599999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4.6,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Tok & Arte Design em Ferro e Decoracao",
+                "link": "https://www.google.com/maps/search/Tok+%26+Arte+Design+em+Ferro+e+Decora%C3%A7%C3%A3o/@-21.8722459,-47.4878329?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.7,
+                "main_category": "Teng Zhi Jia Ju Dian "
+            },
+            {
+                "name": "Loja Da Fabrica Dvb Arte Ferro",
+                "link": "https://www.google.com/maps/search/Loja+Da+F%C3%A1brica+Dvb+Arte+Ferro/@-21.869347299999998,-47.4883509?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.8,
+                "main_category": "Shang Dian "
+            }
+        ],
+        "website": "http://www.designemferro.com.br/",
+        "owner": {
+            "id": "116094234408348890582",
+            "name": "Loja Wj design Em Ferro (cadeiras Buffet) (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116094234408348890582"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhuuco4kSoARx9-IZjoY1378lptIEpFwRckUQL=w426-h240-k-no",
+        "main_category": "Jia Ju Yong Pin Dian ",
+        "categories": [
+            "Jia Ju Yong Pin Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 19 3581-2004",
+        "address": "Loja Wj design Em Ferro (cadeiras Buffet) - R. Prof. Jose Silva Jr., 460 - Vila Maria, Porto Ferreira - SP, 13660-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Loja+Wj+design+Em+Ferro+%28cadeiras+Buffet%29/data=!4m7!3m6!1s0x94b803cd46802287:0x649400853cfdc516!8m2!3d-21.8683776!4d-47.4890685!16s%2Fg%2F11g6r2q2dy!19sChIJhyKARs0DuJQRFsX9PIUAlGQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJO0RS2eYDuJQRKvrgtL8fR4Q",
@@ -2463,32 +2557,6 @@
         "link": "https://www.google.com/maps/place/Chocolates+Brasil+Cacau/data=!4m7!3m6!1s0x94b8037224e15421:0xf5c8b7df967d9f81!8m2!3d-21.857848!4d-47.481487!16s%2Fg%2F11fgk61s21!19sChIJIVThJHIDuJQRgZ99lt-3yPU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJi8DmFD8DuJQRzTPZf1R2yWM",
-        "name": "Leo Supermercado",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [],
-        "website": "https://www.facebook.com/leosupermercadopf",
-        "owner": {
-            "id": "102702822479545593311",
-            "name": "Leo Supermercado (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102702822479545593311"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfkWpxXL2elexsVKZ_SgzNTVkLAlIueCBgteY6=w408-h295-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 5,
-        "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 19 3581-1658",
-        "address": "Leo Supermercado - Rua Jorge Joao, Av. Cristo Redentor, 120, Porto Ferreira - SP, 13667-010Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Leo+Supermercado/data=!4m7!3m6!1s0x94b8033f14e6c08b:0x63c976547fd933cd!8m2!3d-21.84153!4d-47.4791829!16s%2Fg%2F11svt82t1_!19sChIJi8DmFD8DuJQRzTPZf1R2yWM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJM4IG2aIDuJQR0XgD0Klxaec",
         "name": "Casa de Bolos Porto Ferreira",
         "description": null,
@@ -2551,6 +2619,32 @@
         "address": "Casa de Bolos Porto Ferreira - R. Dona Balbina, 545 - centro, Porto Ferreira - SP, 13660-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Casa+de+Bolos+Porto+Ferreira/data=!4m7!3m6!1s0x94b803a2d9068233:0xe76971a9d00378d1!8m2!3d-21.8567379!4d-47.48007!16s%2Fg%2F11hdj4twvg!19sChIJM4IG2aIDuJQR0XgD0Klxaec?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJi8DmFD8DuJQRzTPZf1R2yWM",
+        "name": "Leo Supermercado",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "competitors": [],
+        "website": "https://www.facebook.com/leosupermercadopf",
+        "owner": {
+            "id": "102702822479545593311",
+            "name": "Leo Supermercado (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102702822479545593311"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfkWpxXL2elexsVKZ_SgzNTVkLAlIueCBgteY6=w408-h295-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang "
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+55 19 3581-1658",
+        "address": "Leo Supermercado - Rua Jorge Joao, Av. Cristo Redentor, 120, Porto Ferreira - SP, 13667-010Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Leo+Supermercado/data=!4m7!3m6!1s0x94b8033f14e6c08b:0x63c976547fd933cd!8m2!3d-21.84153!4d-47.4791829!16s%2Fg%2F11svt82t1_!19sChIJi8DmFD8DuJQRzTPZf1R2yWM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJg_BBWC8CuJQRdEhe5AUw7sg",
@@ -2665,6 +2759,70 @@
         "address": "Mercado Mega Qualidade - R. Henrique R Ribaldo, 305B - Residencial Porto Belo 1, Porto Ferreira - SP, 13667-230Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Mercado+Mega+Qualidade/data=!4m7!3m6!1s0x94b80300523414dd:0x46b1bb39eaa33673!8m2!3d-21.8266823!4d-47.4691642!16s%2Fg%2F11sjy3zt75!19sChIJ3RQ0UgADuJQRczaj6jm7sUY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJQxigrNIDuJQRixQ5Zezp7B4",
+        "name": "Loja Da Fabrica Dvb Arte Ferro",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Art's Ferro",
+                "link": "https://www.google.com/maps/search/Art%27s+Ferro/@-21.8635231,-47.4909673?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 58,
+                "rating": 4.5,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Tok & Arte Design em Ferro e Decoracao",
+                "link": "https://www.google.com/maps/search/Tok+%26+Arte+Design+em+Ferro+e+Decora%C3%A7%C3%A3o/@-21.8722459,-47.4878329?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.7,
+                "main_category": "Teng Zhi Jia Ju Dian "
+            },
+            {
+                "name": "El Shaday Decor",
+                "link": "https://www.google.com/maps/search/El+Shaday+Decor/@-21.8758926,-47.486406599999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.1,
+                "main_category": "Jia Ju Yong Pin Dian "
+            },
+            {
+                "name": "Loja Wj design Em Ferro (cadeiras Buffet)",
+                "link": "https://www.google.com/maps/search/Loja+Wj+design+Em+Ferro+%28cadeiras+Buffet%29/@-21.8683776,-47.489068499999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.8,
+                "main_category": "Jia Ju Yong Pin Dian "
+            },
+            {
+                "name": "Santana Art's em Ferro",
+                "link": "https://www.google.com/maps/search/Santana+Art%27s+em+Ferro/@-21.842105099999998,-47.471079700000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Jia Ju Zhi Zao Shang "
+            }
+        ],
+        "website": "http://artedvb.com.br/",
+        "owner": {
+            "id": null,
+            "name": "Loja Da Fabrica Dvb Arte Ferro (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6rgLHjEEZKYb5OTLMAZGGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=114.18821&pitch=0&thumbfov=100",
+        "main_category": "Shang Dian ",
+        "categories": [
+            "Shang Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "08:00-17:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 19 3589-1384",
+        "address": "Loja Da Fabrica Dvb Arte Ferro - Av. Antonio Rodrigues, Porto Ferreira - SP, 13660-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Loja+Da+F%C3%A1brica+Dvb+Arte+Ferro/data=!4m7!3m6!1s0x94b803d2aca01843:0x1eece9ec6539148b!8m2!3d-21.8693473!4d-47.4883509!16s%2Fg%2F11f_d81qhm!19sChIJQxigrNIDuJQRixQ5Zezp7B4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJQe-QCGwDuJQRMPErhh1Imbs",
@@ -2829,6 +2987,136 @@
         "link": "https://www.google.com/maps/place/P%C3%A9+De+Caf%C3%A9/data=!4m7!3m6!1s0x94b803f258afbb25:0xb9bce6cb983140b3!8m2!3d-21.8650708!4d-47.4903845!16s%2Fg%2F11sdwpwgk0!19sChIJJbuvWPIDuJQRs0AxmMvmvLk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ3Sk-MXQDuJQR0ZVXBX0o4Lc",
+        "name": "Arte Velha Moveis Rusticos",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Moveis Hans",
+                "link": "https://www.google.com/maps/search/M%C3%B3veis+Hans/@-21.8699569,-47.4885101?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 122,
+                "rating": 4.4,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Art's Ferro",
+                "link": "https://www.google.com/maps/search/Art%27s+Ferro/@-21.8635231,-47.4909673?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 58,
+                "rating": 4.5,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Moveis Porto Ferreira",
+                "link": "https://www.google.com/maps/search/M%C3%B3veis+Porto+Ferreira/@-21.872529699999998,-47.4770081?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.7,
+                "main_category": "Jia Ju Zhi Zao Shang "
+            },
+            {
+                "name": "Novo Estilo Decoracoes",
+                "link": "https://www.google.com/maps/search/Novo+Estilo+Decora%C3%A7%C3%B5es/@-21.8744759,-47.487292599999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4.6,
+                "main_category": "Jia Dian "
+            },
+            {
+                "name": "Tok & Arte Design em Ferro e Decoracao",
+                "link": "https://www.google.com/maps/search/Tok+%26+Arte+Design+em+Ferro+e+Decora%C3%A7%C3%A3o/@-21.8722459,-47.4878329?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.7,
+                "main_category": "Teng Zhi Jia Ju Dian "
+            }
+        ],
+        "website": "http://www.artevelha.com.br/",
+        "owner": {
+            "id": "113634705012270853509",
+            "name": "Arte Velha Moveis Rusticos (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113634705012270853509"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFy2TexsUwf30byJYSp2CfHaa8slsm0WuQyVw=w497-h240-k-no",
+        "main_category": "Fang Gu Jia Ju Dian ",
+        "categories": [
+            "Fang Gu Jia Ju Dian ",
+            "Jia Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 35 99733-4682",
+        "address": "Arte Velha Moveis Rusticos - R. Damiao Arnone, 100 - Santa Marta, Porto Ferreira - SP, 13660-476Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arte+Velha+M%C3%B3veis+R%C3%BAsticos/data=!4m7!3m6!1s0x94b80374313e29dd:0xb7e0287d055795d1!8m2!3d-21.8773661!4d-47.4853056!16s%2Fg%2F11qbr94svd!19sChIJ3Sk-MXQDuJQR0ZVXBX0o4Lc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQDU87IDuJQRHCIu5fgtku0",
+        "name": "Casa Dami",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "CASA7",
+                "link": "https://www.google.com/maps/search/CASA7/@-21.8718577,-47.487739499999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 4.6,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "D'ma Decoracoes",
+                "link": "https://www.google.com/maps/search/D%27ma+Decora%C3%A7%C3%B5es/@-21.868700399999998,-47.4876241?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 2.3,
+                "main_category": "Shang Dian "
+            },
+            {
+                "name": "Casa D'Mosaico",
+                "link": "https://www.google.com/maps/search/Casa+D%C2%B4Mosaico/@-21.8648731,-47.490181199999995?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Jing Pin Dian "
+            },
+            {
+                "name": "Casa Bella Decor",
+                "link": "https://www.google.com/maps/search/Casa+Bella+Decor/@-21.8551875,-47.4850941?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Chu Fang Yong Pin Dian "
+            },
+            {
+                "name": "D'Cabana",
+                "link": "https://www.google.com/maps/search/D%C2%B4Cabana/@-21.865070799999998,-47.4903845?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Jia Ju Yong Pin Dian "
+            }
+        ],
+        "website": "http://casadami.com.br/",
+        "owner": {
+            "id": "103268961953107330527",
+            "name": "Casa Dami (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103268961953107330527"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1S_y58hlgytoNE9xHeuZrzK-V1mP12_KpsNox=w408-h725-k-no",
+        "main_category": "Chu Fang Yong Pin Dian ",
+        "categories": [
+            "Chu Fang Yong Pin Dian ",
+            "Tao Qi Zhuan Mai Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+55 19 99315-8087",
+        "address": "Casa Dami - R. Constantino Joao, 93, Porto Ferreira - SP, 13660-084Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Casa+Dami/data=!4m7!3m6!1s0x94b803b2f3d40001:0xed922df8e52e221c!8m2!3d-21.8518926!4d-47.4902862!16s%2Fg%2F11q4jmj_x5!19sChIJAQDU87IDuJQRHCIu5fgtku0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJCZbB4D4DuJQRdRpWOWuC12o",
         "name": "Decorattori - Design, Ferrum & Ornamentum",
         "description": null,
@@ -2891,71 +3179,6 @@
         "address": "Decorattori - Design, Ferrum & Ornamentum - R. Manoel da Silva Oliveira, 333, Porto Ferreira - SP, 13660-088Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Decorattori+-+Design,+Ferrum+%26+Ornamentum/data=!4m7!3m6!1s0x94b8033ee0c19609:0x6ad7826b39561a75!8m2!3d-21.8540422!4d-47.4921865!16s%2Fg%2F11pcp8l3fy!19sChIJCZbB4D4DuJQRdRpWOWuC12o?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ3Sk-MXQDuJQR0ZVXBX0o4Lc",
-        "name": "Arte Velha Moveis Rusticos",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Moveis Hans",
-                "link": "https://www.google.com/maps/search/M%C3%B3veis+Hans/@-21.8699569,-47.4885101?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 122,
-                "rating": 4.4,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Art's Ferro",
-                "link": "https://www.google.com/maps/search/Art%27s+Ferro/@-21.8635231,-47.4909673?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.5,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Moveis Porto Ferreira",
-                "link": "https://www.google.com/maps/search/M%C3%B3veis+Porto+Ferreira/@-21.872529699999998,-47.4770081?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.7,
-                "main_category": "Jia Ju Zhi Zao Shang "
-            },
-            {
-                "name": "Novo Estilo Decoracoes",
-                "link": "https://www.google.com/maps/search/Novo+Estilo+Decora%C3%A7%C3%B5es/@-21.8744759,-47.487292599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 52,
-                "rating": 4.6,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Tok & Arte Design em Ferro e Decoracao",
-                "link": "https://www.google.com/maps/search/Tok+%26+Arte+Design+em+Ferro+e+Decora%C3%A7%C3%A3o/@-21.8722459,-47.4878329?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.7,
-                "main_category": "Teng Zhi Jia Ju Dian "
-            }
-        ],
-        "website": "http://www.artevelha.com.br/",
-        "owner": {
-            "id": "113634705012270853509",
-            "name": "Arte Velha Moveis Rusticos (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113634705012270853509"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFy2TexsUwf30byJYSp2CfHaa8slsm0WuQyVw=w497-h240-k-no",
-        "main_category": "Fang Gu Jia Ju Dian ",
-        "categories": [
-            "Fang Gu Jia Ju Dian ",
-            "Jia Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 35 99733-4682",
-        "address": "Arte Velha Moveis Rusticos - R. Damiao Arnone, 100 - Santa Marta, Porto Ferreira - SP, 13660-476Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Arte+Velha+M%C3%B3veis+R%C3%BAsticos/data=!4m7!3m6!1s0x94b80374313e29dd:0xb7e0287d055795d1!8m2!3d-21.8773661!4d-47.4853056!16s%2Fg%2F11qbr94svd!19sChIJ3Sk-MXQDuJQR0ZVXBX0o4Lc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJOUv4odsDuJQRaa7M3PyR3TA",
@@ -3065,6 +3288,69 @@
         "link": "https://www.google.com/maps/place/Artes%C3%A3o+Alimentos/data=!4m7!3m6!1s0x94b80352cfdf06e1:0x5ccbee4320b68c14!8m2!3d-21.8676512!4d-47.4733915!16s%2Fg%2F11rght1qpx!19sChIJ4Qbfz1IDuJQRFIy2IEPuy1w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJu_UcNI4DuJQRagpuy8zEVkg",
+        "name": "Ce Ki Sabe Conveniencia e Distribuidora de Bebidas Ltda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Porto Bebidas",
+                "link": "https://www.google.com/maps/search/Porto+Bebidas/@-21.8568133,-47.4783909?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.8,
+                "main_category": "Jiu Pin Dian "
+            },
+            {
+                "name": "Armazem da Cerveja",
+                "link": "https://www.google.com/maps/search/Armaz%C3%A9m+da+Cerveja/@-21.861518399999998,-47.490043?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Jiu Pin Dian "
+            },
+            {
+                "name": "Becco beer",
+                "link": "https://www.google.com/maps/search/Becco+beer/@-21.8338744,-47.4747662?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Yin Liao Gong Ying Shang "
+            },
+            {
+                "name": "Comercial L e F",
+                "link": "https://www.google.com/maps/search/Comercial+L+e+F/@-21.8586375,-47.4825002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Yin Liao Gong Ying Shang "
+            },
+            {
+                "name": "Loja de Convivencia MR",
+                "link": "https://www.google.com/maps/search/Loja+de+Conviv%C3%AAncia+MR/@-21.865921399999998,-47.4825666?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bian Li Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/cekisabeporto",
+        "owner": {
+            "id": null,
+            "name": "Ce Ki Sabe Conveniencia e Distribuidora de Bebidas Ltda (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6MYaxcx4d2WtZH5ZI-JfHCyQa6Ikohe3tvJqM=w408-h359-k-no",
+        "main_category": "Bian Li Dian ",
+        "categories": [
+            "Bian Li Dian ",
+            "Jiu Pin Dian "
+        ],
+        "rating": null,
+        "workday_timing": "09:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+55 19 99749-3020",
+        "address": "Ce Ki Sabe Conveniencia e Distribuidora de Bebidas Ltda - Av. Dr. Ademar de Barros, 280, Porto Ferreira - SP, 13660-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ce+Ki+Sabe+Conveni%C3%AAncia+e+Distribuidora+de+Bebidas+Ltda/data=!4m7!3m6!1s0x94b8038e341cf5bb:0x4856c4cccb6e0a6a!8m2!3d-21.868079!4d-47.4795399!16s%2Fg%2F11h4z9n0n8!19sChIJu_UcNI4DuJQRagpuy8zEVkg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ1XX7eT8DuJQRngBm1MNBs_4",
         "name": "Shell Select",
         "description": null,
@@ -3074,7 +3360,7 @@
             {
                 "name": "Shopping da Utilidade - Porto Ferreira",
                 "link": "https://www.google.com/maps/search/Shopping+da+Utilidade+-+Porto+Ferreira/@-21.868701899999998,-47.488796199999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2156,
+                "reviews": 2157,
                 "rating": 4.4,
                 "main_category": "Za Huo Dian "
             },
@@ -3244,69 +3530,6 @@
         "link": "https://www.google.com/maps/place/Loja+de+Conviv%C3%AAncia+MR/data=!4m7!3m6!1s0x94b803d18f6649bb:0x117f02d39c1c10f2!8m2!3d-21.8659214!4d-47.4825666!16s%2Fg%2F11lfh94xkc!19sChIJu0lmj9EDuJQR8hAcnNMCfxE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJu_UcNI4DuJQRagpuy8zEVkg",
-        "name": "Ce Ki Sabe Conveniencia e Distribuidora de Bebidas Ltda",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Porto Bebidas",
-                "link": "https://www.google.com/maps/search/Porto+Bebidas/@-21.8568133,-47.4783909?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
-                "rating": 4.8,
-                "main_category": "Jiu Pin Dian "
-            },
-            {
-                "name": "Armazem da Cerveja",
-                "link": "https://www.google.com/maps/search/Armaz%C3%A9m+da+Cerveja/@-21.861518399999998,-47.490043?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Jiu Pin Dian "
-            },
-            {
-                "name": "Becco beer",
-                "link": "https://www.google.com/maps/search/Becco+beer/@-21.8338744,-47.4747662?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Yin Liao Gong Ying Shang "
-            },
-            {
-                "name": "Comercial L e F",
-                "link": "https://www.google.com/maps/search/Comercial+L+e+F/@-21.8586375,-47.4825002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Yin Liao Gong Ying Shang "
-            },
-            {
-                "name": "Loja de Convivencia MR",
-                "link": "https://www.google.com/maps/search/Loja+de+Conviv%C3%AAncia+MR/@-21.865921399999998,-47.4825666?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": "https://www.facebook.com/cekisabeporto",
-        "owner": {
-            "id": null,
-            "name": "Ce Ki Sabe Conveniencia e Distribuidora de Bebidas Ltda (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6MYaxcx4d2WtZH5ZI-JfHCyQa6Ikohe3tvJqM=w408-h359-k-no",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian ",
-            "Jiu Pin Dian "
-        ],
-        "rating": null,
-        "workday_timing": "09:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 19 99749-3020",
-        "address": "Ce Ki Sabe Conveniencia e Distribuidora de Bebidas Ltda - Av. Dr. Ademar de Barros, 280, Porto Ferreira - SP, 13660-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ce+Ki+Sabe+Conveni%C3%AAncia+e+Distribuidora+de+Bebidas+Ltda/data=!4m7!3m6!1s0x94b8038e341cf5bb:0x4856c4cccb6e0a6a!8m2!3d-21.868079!4d-47.4795399!16s%2Fg%2F11h4z9n0n8!19sChIJu_UcNI4DuJQRagpuy8zEVkg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJQRsv1XUDuJQRr4ZaARA0qXA",
         "name": "Conveniencia M&R",
         "description": null,
@@ -3316,8 +3539,8 @@
             {
                 "name": "Super Mercados Morais",
                 "link": "https://www.google.com/maps/search/Super+Mercados+Morais/@-21.839651999999997,-47.4796529?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 3.9,
+                "reviews": 9,
+                "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -3360,70 +3583,6 @@
         "address": "Conveniencia M&R - Av. Vicente Zini, 206, Porto Ferreira - SP, 13660-196Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Conveniencia+M%26R/data=!4m7!3m6!1s0x94b80375d52f1b41:0x70a93410015a86af!8m2!3d-21.8659864!4d-47.4825208!16s%2Fg%2F11rjjk5rl5!19sChIJQRsv1XUDuJQRr4ZaARA0qXA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJz08zDx4DuJQRYAH8QFdOJBs",
-        "name": "Decorattori - Design, Ferrum & Ornamentum",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Tok & Arte Design em Ferro e Decoracao",
-                "link": "https://www.google.com/maps/search/Tok+%26+Arte+Design+em+Ferro+e+Decora%C3%A7%C3%A3o/@-21.8722459,-47.4878329?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.7,
-                "main_category": "Teng Zhi Jia Ju Dian "
-            },
-            {
-                "name": "RR Cupulas e Decoracoes",
-                "link": "https://www.google.com/maps/search/RR+C%C3%BApulas+e+Decora%C3%A7%C3%B5es/@-21.869119899999998,-47.487622599999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Shang Dian "
-            },
-            {
-                "name": "R&R Decor",
-                "link": "https://www.google.com/maps/search/R%26R+Decor/@-21.8619855,-47.4913835?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 1,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Garden Decor",
-                "link": "https://www.google.com/maps/search/Garden+Decor/@-21.8683762,-47.4893846?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Jia Dian "
-            },
-            {
-                "name": "Marina Art & Decoracao",
-                "link": "https://www.google.com/maps/search/Marina+Art+%26+Decora%C3%A7%C3%A3o/@-21.876517,-47.486474699999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Jia Ju Yong Pin Dian "
-            }
-        ],
-        "website": "https://decorattori.com.br/",
-        "owner": {
-            "id": "111765089000604108050",
-            "name": "Decorattori - Design, Ferrum & Ornamentum (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111765089000604108050"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtuDQAgEEVO1gsSZgUg5pzQqrea-got1DBVnKF=w408-h414-k-no",
-        "main_category": "Hu Wai Jia Ju Dian ",
-        "categories": [
-            "Hu Wai Jia Ju Dian "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-17:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 19 99976-6900",
-        "address": "Decorattori - Design, Ferrum & Ornamentum - Av. Dr. Ademar de Barros, 882, Porto Ferreira - SP, 13660-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Decorattori+-+Design,+Ferrum+%26+Ornamentum/data=!4m7!3m6!1s0x94b8031e0f334fcf:0x1b244e5740fc0160!8m2!3d-21.8681134!4d-47.4807365!16s%2Fg%2F11td9sk81x!19sChIJz08zDx4DuJQRYAH8QFdOJBs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJX20LPc0DuJQREShqKnIN1vs",
@@ -3487,12 +3646,12 @@
         "name": "Shopping da Utilidade - Porto Ferreira",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2156,
+        "reviews": 2157,
         "competitors": [
             {
                 "name": "Porto Brasil Store",
                 "link": "https://www.google.com/maps/search/Porto+Brasil+Store/@-21.8749964,-47.487089000000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1804,
+                "reviews": 1807,
                 "rating": 4.5,
                 "main_category": "Tao Qi Zhuan Mai Dian "
             },
@@ -3581,7 +3740,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -3654,7 +3813,7 @@
         "name": "Bakery Pao de Mel",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 756,
+        "reviews": 757,
         "competitors": [
             {
                 "name": "Space Sweetness Bakery and Confectionery",
@@ -3667,7 +3826,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -3765,8 +3924,8 @@
             {
                 "name": "Super Mercado J. Ramos",
                 "link": "https://www.google.com/maps/search/Super+Mercado+J.+Ramos/@-21.8604846,-47.4538976?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4,
+                "reviews": 57,
+                "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -3826,7 +3985,7 @@
         "name": "Mercado Pag Menos",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 456,
+        "reviews": 457,
         "competitors": [
             {
                 "name": "Extra Mercado",
@@ -3838,7 +3997,7 @@
             {
                 "name": "Supermercado Fonseca",
                 "link": "https://www.google.com/maps/search/Supermercado+Fonseca/@-21.8566544,-47.476128200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 688,
+                "reviews": 690,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -3913,7 +4072,7 @@
             {
                 "name": "Vilas Gourmet",
                 "link": "https://www.google.com/maps/search/Vilas+Gourmet/@-21.858551300000002,-47.479849699999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 380,
+                "reviews": 379,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -3983,7 +4142,7 @@
         "name": "Porto Frios Emporium",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 217,
+        "reviews": 218,
         "competitors": [
             {
                 "name": "Sabores Do Mundo Importados",
@@ -4104,7 +4263,7 @@
         "name": "Supermercado Sorriso",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 141,
+        "reviews": 142,
         "competitors": [
             {
                 "name": "DIA Supermercado",
@@ -4177,7 +4336,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -4240,8 +4399,8 @@
             {
                 "name": "Super Mercado J. Ramos",
                 "link": "https://www.google.com/maps/search/Super+Mercado+J.+Ramos/@-21.8604846,-47.4538976?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4,
+                "reviews": 57,
+                "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -4295,7 +4454,7 @@
             {
                 "name": "Mercado Zanetti",
                 "link": "https://www.google.com/maps/search/Mercado+Zanetti/@-21.855768899999998,-47.4859436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
+                "reviews": 45,
                 "rating": 4.4,
                 "main_category": "Shi Chang "
             },
@@ -4442,7 +4601,7 @@
         "name": "Super Mercado J. Ramos",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 56,
+        "reviews": 57,
         "competitors": [
             {
                 "name": "Supermercado Ramos Filhos",
@@ -4491,7 +4650,7 @@
         "categories": [
             "Chao Ji Shi Chang "
         ],
-        "rating": 4,
+        "rating": 4.1,
         "workday_timing": "07:00-20:00",
         "closed_on": "Open All Days",
         "phone": null,
@@ -4499,7 +4658,7 @@
         "review_keywords": [
             {
                 "keyword": "Jia Ge ",
-                "count": 11
+                "count": 12
             }
         ],
         "link": "https://www.google.com/maps/place/Super+Mercado+J.+Ramos/data=!4m7!3m6!1s0x94b803b0158d51f1:0xd009e1da8f2a87a3!8m2!3d-21.8604846!4d-47.4538976!16s%2Fg%2F11h91q80dq!19sChIJ8VGNFbADuJQRo4cqj9rhCdA?authuser=0&hl=zh-TW&rclk=1"
@@ -4574,7 +4733,7 @@
             {
                 "name": "Mercado Pag Menos",
                 "link": "https://www.google.com/maps/search/Mercado+Pag+Menos/@-21.8313872,-47.4719203?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 455,
+                "reviews": 456,
                 "rating": 4.5,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -4595,8 +4754,8 @@
             {
                 "name": "Super Mercados Morais",
                 "link": "https://www.google.com/maps/search/Super+Mercados+Morais/@-21.839651999999997,-47.4796529?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 3.9,
+                "reviews": 9,
+                "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             }
         ],
@@ -4650,7 +4809,7 @@
             {
                 "name": "Mercado Zanetti",
                 "link": "https://www.google.com/maps/search/Mercado+Zanetti/@-21.855768899999998,-47.4859436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
+                "reviews": 45,
                 "rating": 4.4,
                 "main_category": "Shi Chang "
             },
@@ -4697,7 +4856,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -4717,8 +4876,8 @@
             {
                 "name": "Super Mercados Morais",
                 "link": "https://www.google.com/maps/search/Super+Mercados+Morais/@-21.839651999999997,-47.4796529?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 3.9,
+                "reviews": 9,
+                "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -4773,7 +4932,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -4831,21 +4990,21 @@
             {
                 "name": "Supermercado Fonseca",
                 "link": "https://www.google.com/maps/search/Supermercado+Fonseca/@-21.8566544,-47.476128200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 688,
+                "reviews": 690,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Mercado Pag Menos",
                 "link": "https://www.google.com/maps/search/Mercado+Pag+Menos/@-21.8313872,-47.4719203?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 455,
+                "reviews": 456,
                 "rating": 4.5,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Mercado Zanetti",
                 "link": "https://www.google.com/maps/search/Mercado+Zanetti/@-21.855768899999998,-47.4859436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
+                "reviews": 45,
                 "rating": 4.4,
                 "main_category": "Shi Chang "
             },
@@ -4902,7 +5061,7 @@
             {
                 "name": "Supermercado Fonseca",
                 "link": "https://www.google.com/maps/search/Supermercado+Fonseca/@-21.8566544,-47.476128200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 688,
+                "reviews": 690,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -4950,7 +5109,7 @@
             {
                 "name": "Supermercado Fonseca",
                 "link": "https://www.google.com/maps/search/Supermercado+Fonseca/@-21.8566544,-47.476128200000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 688,
+                "reviews": 690,
                 "rating": 4.4,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -5005,7 +5164,7 @@
             {
                 "name": "Robert Reis Supermercado",
                 "link": "https://www.google.com/maps/search/Robert+Reis+Supermercado/@-21.869155799999998,-47.484497?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 548,
+                "reviews": 549,
                 "rating": 4.3,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -5019,7 +5178,7 @@
             {
                 "name": "Mercado Pag Menos",
                 "link": "https://www.google.com/maps/search/Mercado+Pag+Menos/@-21.8313872,-47.4719203?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 455,
+                "reviews": 456,
                 "rating": 4.5,
                 "main_category": "Chao Ji Shi Chang "
             }
@@ -5094,8 +5253,8 @@
         "rating": 4.3,
         "workday_timing": "07:00-17:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 19 3585-4304",
         "address": "HB Artes - R. Joaquim Miguel Pereira, 1477 - Jardim Santa Maria, Porto Ferreira - SP, 13660-000Ba Xi ",
@@ -5126,8 +5285,8 @@
             {
                 "name": "Super Mercado J. Ramos",
                 "link": "https://www.google.com/maps/search/Super+Mercado+J.+Ramos/@-21.8604846,-47.4538976?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4,
+                "reviews": 57,
+                "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -5186,7 +5345,7 @@
             {
                 "name": "Vilas Gourmet",
                 "link": "https://www.google.com/maps/search/Vilas+Gourmet/@-21.858551300000002,-47.479849699999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 380,
+                "reviews": 379,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -5200,7 +5359,7 @@
             {
                 "name": "Mercado Zanetti",
                 "link": "https://www.google.com/maps/search/Mercado+Zanetti/@-21.855768899999998,-47.4859436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
+                "reviews": 45,
                 "rating": 4.4,
                 "main_category": "Shi Chang "
             },
@@ -5218,7 +5377,7 @@
             "name": "Sergio Borodinas Supermercado (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=16yybbOj3es6GSbZmvMKng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=200.98152&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LjCnVdcrgFBGCs50e5Wyvg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=217.05054&pitch=0&thumbfov=100",
         "main_category": "Chao Ji Shi Chang ",
         "categories": [
             "Chao Ji Shi Chang "
@@ -5248,7 +5407,7 @@
             {
                 "name": "Mercado Zanetti",
                 "link": "https://www.google.com/maps/search/Mercado+Zanetti/@-21.855768899999998,-47.4859436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
+                "reviews": 45,
                 "rating": 4.4,
                 "main_category": "Shi Chang "
             },
@@ -5262,8 +5421,8 @@
             {
                 "name": "Super Mercados Morais",
                 "link": "https://www.google.com/maps/search/Super+Mercados+Morais/@-21.839651999999997,-47.4796529?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 3.9,
+                "reviews": 9,
+                "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             }
         ],
@@ -5381,14 +5540,14 @@
             {
                 "name": "Vila Rica Supermarkets Shop 1",
                 "link": "https://www.google.com/maps/search/Vila+Rica+Supermarkets+Shop+1/@-21.8582878,-47.4798507?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1716,
+                "reviews": 1718,
                 "rating": 4.6,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
                 "name": "Mercado Pag Menos",
                 "link": "https://www.google.com/maps/search/Mercado+Pag+Menos/@-21.8313872,-47.4719203?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 455,
+                "reviews": 456,
                 "rating": 4.5,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -5443,8 +5602,8 @@
             {
                 "name": "Super Mercado J. Ramos",
                 "link": "https://www.google.com/maps/search/Super+Mercado+J.+Ramos/@-21.8604846,-47.4538976?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4,
+                "reviews": 57,
+                "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -5604,7 +5763,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -5672,7 +5831,7 @@
             {
                 "name": "Mercado Zanetti",
                 "link": "https://www.google.com/maps/search/Mercado+Zanetti/@-21.855768899999998,-47.4859436?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
+                "reviews": 45,
                 "rating": 4.4,
                 "main_category": "Shi Chang "
             }
@@ -5778,7 +5937,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -5825,8 +5984,8 @@
             {
                 "name": "Super Mercado J. Ramos",
                 "link": "https://www.google.com/maps/search/Super+Mercado+J.+Ramos/@-21.8604846,-47.4538976?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4,
+                "reviews": 57,
+                "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -6021,7 +6180,7 @@
                 "name": "Villa Sao Carlos Padaria",
                 "link": "https://www.google.com/maps/search/Villa+S%C3%A3o+Carlos+Padaria/@-21.854796399999998,-47.4792043?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 263,
-                "rating": 4.6,
+                "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
@@ -6082,8 +6241,8 @@
             {
                 "name": "Super Mercados Morais",
                 "link": "https://www.google.com/maps/search/Super+Mercados+Morais/@-21.839651999999997,-47.4796529?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 3.9,
+                "reviews": 9,
+                "rating": 4,
                 "main_category": "Chao Ji Shi Chang "
             }
         ],
@@ -6481,8 +6640,8 @@
             {
                 "name": "Super Mercado J. Ramos",
                 "link": "https://www.google.com/maps/search/Super+Mercado+J.+Ramos/@-21.8604846,-47.4538976?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4,
+                "reviews": 57,
+                "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
             {
@@ -6534,32 +6693,6 @@
         "link": "https://www.google.com/maps/place/Supermercado+Barros/data=!4m7!3m6!1s0x94b803b8bb5b25cf:0x593bacd8cd4da218!8m2!3d-21.849591!4d-47.5024223!16s%2Fg%2F11j5d7lh40!19sChIJzyVbu7gDuJQRGKJNzdisO1k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJky7IiTECuJQRL2jkbxrA-0k",
-        "name": "moveis capricho",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "moveis capricho (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PxqKPE6dKDYz8qaJw9YIPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=7.9087944&pitch=0&thumbfov=100",
-        "main_category": "Jia Dian ",
-        "categories": [
-            "Jia Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "moveis capricho - Av. Vicente Zini, 288, Porto Ferreira - SP, 13660-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/m%C3%B3veis+capricho/data=!4m7!3m6!1s0x94b8023189c82e93:0x49fbc01a6fe4682f!8m2!3d-21.8657829!4d-47.4832875!16s%2Fg%2F11vhqfc4mn!19sChIJky7IiTECuJQRL2jkbxrA-0k?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJfYQL0JkDuJQREWgkgMVsDGM",
         "name": "LPS - Moveis Novos e Usados",
         "description": null,
@@ -6569,7 +6702,7 @@
             {
                 "name": "Lojas Bonadia - Porto Ferreira",
                 "link": "https://www.google.com/maps/search/Lojas+Bonadia+-+Porto+Ferreira/@-21.8529344,-47.467714799999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 511,
+                "reviews": 512,
                 "rating": 4.9,
                 "main_category": "Jia Dian "
             },
@@ -6624,29 +6757,55 @@
         "link": "https://www.google.com/maps/place/LPS+-+Moveis+Novos+e+Usados/data=!4m7!3m6!1s0x94b80399d00b847d:0x630c6cc580246811!8m2!3d-21.8480724!4d-47.5040949!16s%2Fg%2F11s0wcfyb4!19sChIJfYQL0JkDuJQREWgkgMVsDGM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJHRzMpx4DuJQRc_ZK0H0Mfh4",
-        "name": "Mercado Ferreira",
+        "place_id": "ChIJky7IiTECuJQRL2jkbxrA-0k",
+        "name": "moveis capricho",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [],
         "website": null,
         "owner": {
-            "id": "109444345073533125727",
-            "name": "Mercado Ferreira (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/109444345073533125727"
+            "id": null,
+            "name": "moveis capricho (Ye Zhu )",
+            "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMorP2OjNiY926ZY3mnKRCHBBHhq3WmYYD9oJsT=w408-h272-k-no",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PxqKPE6dKDYz8qaJw9YIPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=7.9087944&pitch=0&thumbfov=100",
+        "main_category": "Jia Dian ",
+        "categories": [
+            "Jia Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "moveis capricho - Av. Vicente Zini, 288, Porto Ferreira - SP, 13660-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/m%C3%B3veis+capricho/data=!4m7!3m6!1s0x94b8023189c82e93:0x49fbc01a6fe4682f!8m2!3d-21.8657829!4d-47.4832875!16s%2Fg%2F11vhqfc4mn!19sChIJky7IiTECuJQRL2jkbxrA-0k?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJu6tz_J4DuJQRABtVdWuBqSg",
+        "name": "Emporio Quatro Amores",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "114758892687183509225",
+            "name": "Emporio Quatro Amores (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114758892687183509225"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP6TXY52Lwihgl_udqNNHn7pE-XGD-onxJSKoxU=w408-h544-k-no",
         "main_category": "Shi Chang ",
         "categories": [
             "Shi Chang "
         ],
         "rating": null,
-        "workday_timing": "07:00-19:00",
+        "workday_timing": "08:00-17:00",
         "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Mercado Ferreira - R. Antonio Mendonca Salvador - Jardim centenario 1, Porto Ferreira - SP, 13660-000Ba Xi ",
+        "phone": "+55 19 98808-7576",
+        "address": "Emporio Quatro Amores - R. Bento Jose de Carvalho, 1428 - Vila Nova, Porto Ferreira - SP, 13660-055Ba Xi ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mercado+Ferreira/data=!4m7!3m6!1s0x94b8031ea7cc1c1d:0x1e7e0c7dd04af673!8m2!3d-21.8387553!4d-47.4681442!16s%2Fg%2F11l2w2bb2p!19sChIJHRzMpx4DuJQRc_ZK0H0Mfh4?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Emp%C3%B3rio+Quatro+Amores/data=!4m7!3m6!1s0x94b8039efc73abbb:0x28a9816b75551b00!8m2!3d-21.8646271!4d-47.4857489!16s%2Fg%2F11vltm8bmm!19sChIJu6tz_J4DuJQRABtVdWuBqSg?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

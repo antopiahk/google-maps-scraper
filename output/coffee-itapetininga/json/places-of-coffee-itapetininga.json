@@ -9,7 +9,7 @@
             {
                 "name": "Cofesa Max",
                 "link": "https://www.google.com/maps/search/Cofesa+Max/@-23.579741499999997,-48.029623799999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1326,
+                "reviews": 1329,
                 "rating": 4.8,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -89,19 +89,19 @@
         "name": "Barao Panificadora",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1896,
+        "reviews": 1898,
         "competitors": [
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Panificadora Paulista",
                 "link": "https://www.google.com/maps/search/Panificadora+Paulista/@-23.5792778,-48.024764999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 734,
+                "reviews": 733,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -122,7 +122,7 @@
             {
                 "name": "Panificadora Avenida",
                 "link": "https://www.google.com/maps/search/Panificadora+Avenida/@-23.5822225,-48.0383914?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
+                "reviews": 51,
                 "rating": 4.6,
                 "main_category": "Zhong Shi Bao Dian Dian "
             }
@@ -185,7 +185,7 @@
         "name": "Sabor e Arte - Sorveteria e Lanchonete",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1313,
+        "reviews": 1314,
         "competitors": [
             {
                 "name": "Antartida Sorvetes",
@@ -294,14 +294,14 @@
             {
                 "name": "Doces Edson",
                 "link": "https://www.google.com/maps/search/Doces+Edson/@-23.5737412,-48.028320099999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 342,
+                "reviews": 344,
                 "rating": 4.6,
                 "main_category": "Tang Guo Dian "
             },
             {
                 "name": "Damiao Doces",
                 "link": "https://www.google.com/maps/search/Dami%C3%A3o+Doces/@-23.573659,-48.030026899999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 218,
+                "reviews": 220,
                 "rating": 5,
                 "main_category": "Tang Guo Dian "
             },
@@ -439,7 +439,9 @@
         ],
         "rating": 4.5,
         "workday_timing": "11:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+55 15 98135-3386",
         "address": "Delicias da Gabi Doceria - R. Cel. Fernando Prestes, 215 - Centro, Itapetininga - SP, 18200-230Ba Xi ",
         "review_keywords": [
@@ -526,8 +528,8 @@
         "rating": 4.8,
         "workday_timing": "07:00-19:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 15 3273-4697",
         "address": "Pecci Cafe - R. Carlos Cardoso, 481 - Jardim Mesquita, Itapetininga - SP, 18213-540Ba Xi ",
@@ -552,7 +554,7 @@
         "name": "Cheirin Bao Itapetininga",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 170,
+        "reviews": 171,
         "competitors": [
             {
                 "name": "Zanqueta Cafe/Gastrobar",
@@ -591,8 +593,11 @@
             "Wu Can Can Ting "
         ],
         "rating": 4.9,
-        "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "09:00-20:00",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
+        ],
         "phone": "+55 15 99675-3092",
         "address": "Cheirin Bao Itapetininga - R. Dr. Virgilio de Rezende, 86 - Centro, Itapetininga - SP, 18200-180Ba Xi ",
         "review_keywords": [
@@ -641,7 +646,7 @@
             {
                 "name": "Floricultura Copeflor",
                 "link": "https://www.google.com/maps/search/Floricultura+Copeflor/@-23.588478199999997,-48.0454453?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 123,
+                "reviews": 124,
                 "rating": 4.6,
                 "main_category": "Hua Dian "
             },
@@ -674,7 +679,7 @@
                 "main_category": "Tang Guo Dian "
             }
         ],
-        "website": "https://www.facebook.com/K.RCestascomemorativas.Itape/?modal=admin_todo_tour",
+        "website": "https://www.facebook.com/K.RCestascomemorativas.Itape/%3Fmodal%3Dadmin_todo_tour",
         "owner": {
             "id": "113611256456768447290",
             "name": "K.R Cestas Comemorativas (Ye Zhu )",
@@ -824,7 +829,7 @@
             {
                 "name": "Chocolate Aspen",
                 "link": "https://www.google.com/maps/search/Chocolate+Aspen/@-23.6022987,-48.0467033?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 703,
+                "reviews": 705,
                 "rating": 4.7,
                 "main_category": "Zhu Gu Li Dian "
             },
@@ -881,7 +886,7 @@
         "name": "Cacau Show",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 99,
+        "reviews": 100,
         "competitors": [
             {
                 "name": "Kopenhagen",
@@ -980,7 +985,7 @@
             {
                 "name": "Nocette Sorvetes",
                 "link": "https://www.google.com/maps/search/Nocette+Sorvetes/@-23.5897689,-48.0728818?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
+                "reviews": 36,
                 "rating": 4.9,
                 "main_category": "Bing Qi Lin "
             }
@@ -1073,9 +1078,9 @@
         "rating": 4.8,
         "workday_timing": "13:00-19:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+55 15 99646-6419",
         "address": "Cazulo - Casa Colaborativa - R. Gen. Glicerio, 70 - Centro, Itapetininga - SP, 18200-130Ba Xi ",
@@ -1196,7 +1201,8 @@
         "rating": 5,
         "workday_timing": "09:00-18:30",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+55 15 98111-9333",
         "address": "Quintal Cafe - R. Saldanha Marinho, 656 - Centro, Itapetininga - SP, 18200-001Ba Xi ",
@@ -1213,7 +1219,7 @@
         "name": "Cacau Show",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 21,
+        "reviews": 22,
         "competitors": [
             {
                 "name": "Kopenhagen",
@@ -1452,7 +1458,7 @@
             {
                 "name": "Chocolate Aspen",
                 "link": "https://www.google.com/maps/search/Chocolate+Aspen/@-23.6022987,-48.0467033?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 703,
+                "reviews": 705,
                 "rating": 4.7,
                 "main_category": "Zhu Gu Li Dian "
             },
@@ -1473,7 +1479,7 @@
             {
                 "name": "Cacau Show",
                 "link": "https://www.google.com/maps/search/Cacau+Show/@-23.578578699999998,-48.0374225?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
+                "reviews": 22,
                 "rating": 4.5,
                 "main_category": "Qiao Ke Li Gong Chang "
             },
@@ -1539,8 +1545,8 @@
             {
                 "name": "rbsimportgames",
                 "link": "https://www.google.com/maps/search/rbsimportgames/@-23.5650704,-48.026962999999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 2.6,
+                "reviews": 25,
+                "rating": 2.5,
                 "main_category": "You Xi Dian "
             },
             {
@@ -1606,7 +1612,7 @@
                 "main_category": "Xiao Shi /Ling Shi Ba "
             }
         ],
-        "website": "https://antonio-cafe-espresso-bar.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "website": "https://antonio-cafe-espresso-bar.negocio.site/?utm_source=gmb&utm_medium=referral",
         "owner": {
             "id": null,
             "name": "Antonio Cafe (Ye Zhu )",
@@ -1696,75 +1702,6 @@
         "link": "https://www.google.com/maps/place/BR+Mania+Conveni%C3%AAncia/data=!4m7!3m6!1s0x94c5cdb4f9f2b2ff:0x1edc861bd55008b5!8m2!3d-23.5931797!4d-48.0565975!16s%2Fg%2F11j7dncywp!19sChIJ_7Ly-bTNxZQRtQhQ1RuG3B4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJIQplEI3MxZQRUeZjzTDsfcg",
-        "name": "Conveniencia AmPm - Ipiranga",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Posto Ipiranga",
-                "link": "https://www.google.com/maps/search/Posto+Ipiranga/@-23.5856216,-48.0487523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 229,
-                "rating": 4.3,
-                "main_category": "You Zhan "
-            },
-            {
-                "name": "BR Mania Conveniencia",
-                "link": "https://www.google.com/maps/search/BR+Mania+Conveni%C3%AAncia/@-23.583792499999998,-48.0395422?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 98,
-                "rating": 4.4,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Toda Hora Conveniencia",
-                "link": "https://www.google.com/maps/search/Toda+Hora+Conveniencia/@-23.5916013,-48.0346681?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "BR Mania Conveniencia",
-                "link": "https://www.google.com/maps/search/BR+Mania+Conveni%C3%AAncia/@-23.5931797,-48.056597499999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Emporio e conveniencia Santo Antonio",
-                "link": "https://www.google.com/maps/search/Emp%C3%B3rio+e+conveni%C3%AAncia+Santo+Ant%C3%B4nio/@-23.580524999999998,-48.021324?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bian Li Dian "
-            }
-        ],
-        "website": "https://revistakmdevantagens.ipiranga/ofertas-ampm/",
-        "owner": {
-            "id": "105692555146507255172",
-            "name": "Conveniencia AmPm - Ipiranga (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105692555146507255172"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPDdUNAmwpqekkbCVBNFwc7VfY0T0q-F-CapLZ-=w427-h240-k-no",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian ",
-            "Zi Dong Gui Yuan Ji Di Dian ",
-            "Ka Pei Ting ",
-            "You Zhan ",
-            "Guo Zhi Dian ",
-            "Geng Huan Ji You Fu Wu ",
-            "San Wen Zhi Dian ",
-            "Wi-Fi Re Dian "
-        ],
-        "rating": null,
-        "workday_timing": "07:00-23:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 15 99605-1112",
-        "address": "Conveniencia AmPm - Ipiranga - Rua Prudente de Moraes, 951 - Centro, Itapetininga - SP, 18200-040Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Conveni%C3%AAncia+AmPm+-+Ipiranga/data=!4m7!3m6!1s0x94c5cc8d10650a21:0xc87dec30cd63e651!8m2!3d-23.585673!4d-48.0487835!16s%2Fg%2F11ddwtj82l!19sChIJIQplEI3MxZQRUeZjzTDsfcg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ8z3wk37NxZQRh7VPbOsQQM0",
         "name": "Gacgi Cafe",
         "description": null,
@@ -1800,7 +1737,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://gacgi-cafe.negocio.site/?utm_source=gmb&utm_medium=referral",
+        "website": "https://gacgi-cafe.negocio.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
         "owner": {
             "id": "101734854347746558437",
             "name": "Gacgi Cafe (Ye Zhu )",
@@ -1820,118 +1757,30 @@
         "link": "https://www.google.com/maps/place/Gacgi+Cafe/data=!4m7!3m6!1s0x94c5cd7e93f03df3:0xcd4010eb6c4fb587!8m2!3d-23.5870635!4d-48.0469898!16s%2Fg%2F11t64b1w3_!19sChIJ8z3wk37NxZQRh7VPbOsQQM0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJU1MJX-3NxZQR7REkyz642n8",
-        "name": "Padaria Sao Joao 1",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3326,
-        "competitors": [
-            {
-                "name": "Barao Panificadora",
-                "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Bakery Sao Pedro",
-                "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
-                "rating": 4.6,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Padaria Sao Francisco",
-                "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Francisco/@-23.5918605,-48.0597759?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Padaria Sao Joao 2",
-                "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Jo%C3%A3o+2/@-23.5780247,-48.03359950000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 48,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "100200346531320080407",
-            "name": "Padaria Sao Joao 1 (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/100200346531320080407"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxkX2JuUbRZJvcfb9UC2qdyjBlv6rn0LVNqxrL=w426-h240-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": "Open All Days",
-        "phone": "+55 15 3272-5140",
-        "address": "Padaria Sao Joao 1 - R. Aristides Lobo, 252 - Centro, Itapetininga - SP, 18200-170Ba Xi ",
-        "review_keywords": [
-            {
-                "keyword": "Pai ",
-                "count": 83
-            },
-            {
-                "keyword": "Ji Rou ",
-                "count": 75
-            },
-            {
-                "keyword": "Ting Che ",
-                "count": 25
-            },
-            {
-                "keyword": "Cai Dan ",
-                "count": 23
-            },
-            {
-                "keyword": "Guo Jiang ",
-                "count": 23
-            },
-            {
-                "keyword": "Qing Shi ",
-                "count": 21
-            },
-            {
-                "keyword": "Qing Tang ",
-                "count": 12
-            },
-            {
-                "keyword": "Zhuo ",
-                "count": 11
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Padaria+S%C3%A3o+Jo%C3%A3o+1/data=!4m7!3m6!1s0x94c5cded5f095353:0x7fdab83ecb2411ed!8m2!3d-23.5889787!4d-48.0468855!16s%2Fg%2F11gnphkgry!19sChIJU1MJX-3NxZQR7REkyz642n8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJKVPbbGPMxZQRpJoYDZ8PVa4",
         "name": "Bakery Sao Pedro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1317,
+        "reviews": 1319,
         "competitors": [
             {
                 "name": "Padaria Sao Joao 1",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Jo%C3%A3o+1/@-23.5889787,-48.046885499999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3324,
+                "reviews": 3328,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Barao Panificadora",
                 "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1896,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Padaria Sao Francisco",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Francisco/@-23.5918605,-48.0597759?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 484,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2003,19 +1852,19 @@
         "name": "Padaria Zezito Bolos",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1018,
+        "reviews": 1020,
         "competitors": [
             {
                 "name": "Barao Panificadora",
                 "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1896,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2100,7 +1949,7 @@
             {
                 "name": "Barao Panificadora",
                 "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1896,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2181,19 +2030,19 @@
         "name": "Panificadora Paulista",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 734,
+        "reviews": 733,
         "competitors": [
             {
                 "name": "Barao Panificadora",
                 "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1896,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2238,7 +2087,7 @@
         "review_keywords": [
             {
                 "keyword": "Chan Pin ",
-                "count": 27
+                "count": 28
             },
             {
                 "keyword": "Jia Ge ",
@@ -2264,113 +2113,30 @@
         "link": "https://www.google.com/maps/place/Panificadora+Paulista/data=!4m7!3m6!1s0x94c5cc6bc6f2dd2f:0xef1466b5a797b2e6!8m2!3d-23.5792778!4d-48.024765!16s%2Fg%2F11c1wxztk0!19sChIJL93yxmvMxZQR5rKXp7VmFO8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJg91nfXvMxZQRDliT4t6HBa0",
-        "name": "Padaria Konquista",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 618,
-        "competitors": [
-            {
-                "name": "Padaria Sao Joao 1",
-                "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Jo%C3%A3o+1/@-23.5889787,-48.046885499999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3324,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Bakery Sao Pedro",
-                "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
-                "rating": 4.6,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Panificadora Rio Branco de Itapetininga",
-                "link": "https://www.google.com/maps/search/Panificadora+Rio+Branco+de+Itapetininga/@-23.591658499999998,-48.0624806?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 354,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Emporio Nunes Souza (Panificadora)",
-                "link": "https://www.google.com/maps/search/Emp%C3%B3rio+Nunes+Souza+%28Panificadora%29/@-23.5831649,-48.053919?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 51,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Padaria Alencar",
-                "link": "https://www.google.com/maps/search/Padaria+Alencar/@-23.5721459,-48.031287?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.8,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "106230351799501022873",
-            "name": "Padaria Konquista (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106230351799501022873"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMlNWWmWgZQshaHGFxQW-1s66xKL-5c8VWqX6GA=w408-h240-k-no-pi-20.976053-ya99.407616-ro-1.7225008-fo100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 15 3272-9621",
-        "address": "Padaria Konquista - R. Salvador de Oliveira Leme, 735 - Jardim Italia, Itapetininga - SP, 18201-650Ba Xi ",
-        "review_keywords": [
-            {
-                "keyword": "Chan Pin ",
-                "count": 41
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 36
-            },
-            {
-                "keyword": "Ka Pei ",
-                "count": 8
-            },
-            {
-                "keyword": "Bing Gan ",
-                "count": 5
-            },
-            {
-                "keyword": "Suan ",
-                "count": 4
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Padaria+Konquista/data=!4m7!3m6!1s0x94c5cc7b7d67dd83:0xad0587dee293580e!8m2!3d-23.5912054!4d-48.0344984!16s%2Fg%2F1tfz16kx!19sChIJg91nfXvMxZQRDliT4t6HBa0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJo05j5ZXMxZQRQKO0nTjG3F4",
         "name": "Padaria Sao Francisco",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 482,
+        "reviews": 484,
         "competitors": [
             {
                 "name": "Padaria Sao Joao 1",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Jo%C3%A3o+1/@-23.5889787,-48.046885499999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3324,
+                "reviews": 3328,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Barao Panificadora",
                 "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1896,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2415,15 +2181,15 @@
                 "count": 16
             },
             {
+                "keyword": "Ka Pei ",
+                "count": 8
+            },
+            {
                 "keyword": "Pi Sa ",
                 "count": 7
             },
             {
                 "keyword": "Jia Ting ",
-                "count": 7
-            },
-            {
-                "keyword": "Ka Pei ",
                 "count": 7
             },
             {
@@ -2447,14 +2213,14 @@
             {
                 "name": "Barao Panificadora",
                 "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1896,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2526,28 +2292,28 @@
             {
                 "name": "Barao Panificadora",
                 "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1896,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Padaria Sao Francisco",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Francisco/@-23.5918605,-48.0597759?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 484,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Auto Posto Rio Branco Itapetininga Ltda",
                 "link": "https://www.google.com/maps/search/Auto+Posto+Rio+Branco+Itapetininga+Ltda/@-23.590992099999998,-48.0676821?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 392,
+                "reviews": 393,
                 "rating": 4.4,
                 "main_category": "You Zhan "
             },
@@ -2702,89 +2468,6 @@
         "link": "https://www.google.com/maps/place/Zurik+Cafeteria/data=!4m7!3m6!1s0x94c5cc8959487b4f:0x95422f9c35450936!8m2!3d-23.5874359!4d-48.0443632!16s%2Fg%2F1hd_4nntv!19sChIJT3tIWYnMxZQRNglFNZwvQpU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJZ83NfWTMxZQR9ANfZhhwtbM",
-        "name": "Emporio Alberto",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 185,
-        "competitors": [
-            {
-                "name": "M&S Armazem",
-                "link": "https://www.google.com/maps/search/M%26S+Armaz%C3%A9m/@-23.5872291,-48.0400247?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1064,
-                "rating": 4.6,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Alberto Mercearia",
-                "link": "https://www.google.com/maps/search/Alberto+Mercearia/@-23.5983299,-48.059946599999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.2,
-                "main_category": "Shi Chang "
-            },
-            {
-                "name": "Emporio Pai e filho",
-                "link": "https://www.google.com/maps/search/Emp%C3%B3rio+Pai+e+filho/@-23.598385300000004,-48.051446?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.7,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Mercearia Moderna",
-                "link": "https://www.google.com/maps/search/Mercearia+Moderna/@-23.5803877,-48.051535799999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.5,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Emporio Unita",
-                "link": "https://www.google.com/maps/search/Emp%C3%B3rio+Unit%C3%A1/@-23.5901632,-48.0430287?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Shi Chang "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "104417272255911469737",
-            "name": "Emporio Alberto (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104417272255911469737"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtv43KSlULwyZjukxGx3MWnXSVw7eR8P1caco-=w426-h240-k-no",
-        "main_category": "Gao Ji Shi Cai Dian ",
-        "categories": [
-            "Gao Ji Shi Cai Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 15 3273-4440",
-        "address": "Emporio Alberto - Av. Prof. Francisco Valio, 1436 - Centro, Itapetininga - SP, 18200-035Ba Xi ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 11
-            },
-            {
-                "keyword": "Shi Chang ",
-                "count": 6
-            },
-            {
-                "keyword": "Pi Sa ",
-                "count": 4
-            },
-            {
-                "keyword": "Mian Bao ",
-                "count": 4
-            },
-            {
-                "keyword": "Kao ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Emp%C3%B3rio+Alberto/data=!4m7!3m6!1s0x94c5cc647dcdcd67:0xb3b57018665f03f4!8m2!3d-23.5866861!4d-48.0353605!16s%2Fg%2F11gfd28d2g!19sChIJZ83NfWTMxZQR9ANfZhhwtbM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJAfZ_waTOxZQRY3jBibz219k",
         "name": "Panetteria e Emporio Pane Nostro",
         "description": null,
@@ -2794,21 +2477,21 @@
             {
                 "name": "Barao Panificadora",
                 "link": "https://www.google.com/maps/search/Bar%C3%A3o+Panificadora/@-23.5860117,-48.0470585?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1895,
+                "reviews": 1896,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Padaria Sao Francisco",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Francisco/@-23.5918605,-48.0597759?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 484,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2888,7 +2571,7 @@
             {
                 "name": "Damiao Doces",
                 "link": "https://www.google.com/maps/search/Dami%C3%A3o+Doces/@-23.573659,-48.030026899999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 218,
+                "reviews": 220,
                 "rating": 5,
                 "main_category": "Tang Guo Dian "
             },
@@ -2930,8 +2613,8 @@
         "rating": 4.8,
         "workday_timing": "11:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+55 15 3527-6563",
         "address": "Atelie Marina Moucachen - R. Jorge Ozi, 35 - Centro, Itapetininga - SP, 18200-085Ba Xi ",
@@ -2965,7 +2648,7 @@
             {
                 "name": "Padaria Sao Francisco",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Francisco/@-23.5918605,-48.0597759?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 484,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3105,147 +2788,23 @@
         "link": "https://www.google.com/maps/place/Zanqueta+Caf%C3%A9%2FGastrobar/data=!4m7!3m6!1s0x94c5cdd4e75f52cb:0x858c1809d9ab84c8!8m2!3d-23.5861356!4d-48.0395445!16s%2Fg%2F11rj_pkwwm!19sChIJy1Jf59TNxZQRyISr2QkYjIU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJf-ZcbcDMxZQR74SUOQoHVLg",
-        "name": "padaria vitoria",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 60,
-        "competitors": [
-            {
-                "name": "Bakery Sao Pedro",
-                "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
-                "rating": 4.6,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Padaria Zezito Bolos",
-                "link": "https://www.google.com/maps/search/Padaria+Z%C3%A9zito+Bolos/@-23.5958845,-48.0628135?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1019,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Panificadora Rio Branco de Itapetininga",
-                "link": "https://www.google.com/maps/search/Panificadora+Rio+Branco+de+Itapetininga/@-23.591658499999998,-48.0624806?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 354,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Padaria E Confeitaria Camarao",
-                "link": "https://www.google.com/maps/search/Padaria+E+Confeitaria+Camar%C3%A3o/@-23.6048781,-48.0549392?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 37,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Artes Paes & Doces",
-                "link": "https://www.google.com/maps/search/Artes+P%C3%A3es+%26+Doces/@-23.5692794,-48.038298499999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "106617299345615249994",
-            "name": "padaria vitoria (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106617299345615249994"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMSBFaGU6w4dZ-dTvXrk_pCNVWz0QCRY23bqAql=w408-h306-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "padaria vitoria - R. Narciso Matioli - Vila Garrido, Itapetininga - SP, 18209-070Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/padaria+vitoria/data=!4m7!3m6!1s0x94c5ccc06d5ce67f:0xb854070a399484ef!8m2!3d-23.5876857!4d-48.0617685!16s%2Fg%2F11bzq49_lq!19sChIJf-ZcbcDMxZQR74SUOQoHVLg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ5W6jIpHNxZQRyaMsgOy0LVs",
-        "name": "Emporio Nunes Souza (Panificadora)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 51,
-        "competitors": [
-            {
-                "name": "Padaria Zezito Bolos",
-                "link": "https://www.google.com/maps/search/Padaria+Z%C3%A9zito+Bolos/@-23.5958845,-48.0628135?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1019,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Padaria Soares",
-                "link": "https://www.google.com/maps/search/Padaria+Soares/@-23.5985598,-48.0510508?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 408,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Panificadora Rio Branco de Itapetininga",
-                "link": "https://www.google.com/maps/search/Panificadora+Rio+Branco+de+Itapetininga/@-23.591658499999998,-48.0624806?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 354,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Bakery Our Lady Aparecida",
-                "link": "https://www.google.com/maps/search/Bakery+Our+Lady+Aparecida/@-23.5803714,-48.034267799999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Cantinho dos Paes",
-                "link": "https://www.google.com/maps/search/Cantinho+dos+P%C3%A3es/@-23.5823277,-48.038874899999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "105671513319892154745",
-            "name": "Emporio Nunes Souza (Panificadora) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/105671513319892154745"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDTFwr2QK-_IcCHlfULk4z7ngwNtVFcOzyOE0=w426-h240-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "06:30-20:30",
-        "closed_on": "Open All Days",
-        "phone": "+55 15 99670-7009",
-        "address": "Emporio Nunes Souza (Panificadora) - R. Jose de Freitas, 111 - Vila Piedade, Itapetininga - SP, 18210-450Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Emp%C3%B3rio+Nunes+Souza+%28Panificadora%29/data=!4m7!3m6!1s0x94c5cd9122a36ee5:0x5b2db4ec802ca3c9!8m2!3d-23.5831649!4d-48.053919!16s%2Fg%2F11h0hq08n2!19sChIJ5W6jIpHNxZQRyaMsgOy0LVs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ7QLBT7bNxZQRLJPQpdbta8g",
         "name": "Padaria Sao Joao 2",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 49,
+        "reviews": 50,
         "competitors": [
             {
                 "name": "Padaria Sao Joao 1",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Jo%C3%A3o+1/@-23.5889787,-48.046885499999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3324,
+                "reviews": 3328,
                 "rating": 4.5,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3275,7 +2834,7 @@
         "categories": [
             "Mian Bao Xi Bing Dian "
         ],
-        "rating": 4.4,
+        "rating": 4.3,
         "workday_timing": "24 Xiao Shi Ying Ye ",
         "closed_on": "Open All Days",
         "phone": "+55 15 3273-2228",
@@ -3360,69 +2919,6 @@
         "link": "https://www.google.com/maps/place/Emp%C3%B3rio+Pre%C3%A7o+Baixo/data=!4m7!3m6!1s0x94c5cdb92bd1a899:0x97a7255fb3893b87!8m2!3d-23.5904991!4d-48.0501191!16s%2Fg%2F11qbh619vr!19sChIJmajRK7nNxZQRhzuJs18lp5c?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJRRqd-p3MxZQREKRmLwAr1Lg",
-        "name": "Padaria E Confeitaria Camarao",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 37,
-        "competitors": [
-            {
-                "name": "Bakery Sao Pedro",
-                "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
-                "rating": 4.6,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "DESK SHRIMP - CNG",
-                "link": "https://www.google.com/maps/search/DESK+SHRIMP+-+CNG/@-23.6054279,-48.0550785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 510,
-                "rating": 4.2,
-                "main_category": "You Zhan "
-            },
-            {
-                "name": "Padaria Soares",
-                "link": "https://www.google.com/maps/search/Padaria+Soares/@-23.5985598,-48.0510508?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 408,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "padaria vitoria",
-                "link": "https://www.google.com/maps/search/padaria+vitoria/@-23.5876857,-48.0617685?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 60,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Padaria e Mercearia Padilha",
-                "link": "https://www.google.com/maps/search/Padaria+e+Mercearia+Padilha/@-23.5705869,-48.043234?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.8,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Padaria E Confeitaria Camarao (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNhbHRdpbKG9XKnao_PVKcCCxPri-hIxFFQ_aE=w426-h240-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian ",
-            "Gao Bing Dian "
-        ],
-        "rating": 4.3,
-        "workday_timing": "06:30-22:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Padaria E Confeitaria Camarao - R. Luis Andriolo, 29 - Vila Camarao, Itapetininga - SP, 18205-700Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Padaria+E+Confeitaria+Camar%C3%A3o/data=!4m7!3m6!1s0x94c5cc9dfa9d1a45:0xb8d42b002f66a410!8m2!3d-23.6048781!4d-48.0549392!16s%2Fg%2F11ckqrljhs!19sChIJRRqd-p3MxZQREKRmLwAr1Lg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ6d7DR47MxZQR7kMYOp9fDYw",
         "name": "Cafe Saturno",
         "description": null,
@@ -3494,7 +2990,7 @@
             {
                 "name": "Padaria Sao Francisco",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Francisco/@-23.5918605,-48.0597759?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 484,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -3609,61 +3105,6 @@
         "link": "https://www.google.com/maps/place/Emp%C3%B3rio+D%E2%80%99Guste/data=!4m7!3m6!1s0x94c5cdaff1398d47:0xabeac60127f8c89c!8m2!3d-23.5892325!4d-48.038282!16s%2Fg%2F11qh6fslt3!19sChIJR4058a_NxZQRnMj4JwHG6qs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJmbdg31DMxZQR_xZW88Y4BFQ",
-        "name": "Padaria e Mercearia ROMANA Especializada em Paes para Hot Dog",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 15,
-        "competitors": [
-            {
-                "name": "A Colhedora",
-                "link": "https://www.google.com/maps/search/A+Colhedora/@-23.5930654,-48.05198?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Bora Pao",
-                "link": "https://www.google.com/maps/search/Bora+P%C3%A3o/@-23.573421,-48.0365535?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4.5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Dom de Pao Caseiro",
-                "link": "https://www.google.com/maps/search/Dom+de+P%C3%A3o+Caseiro/@-23.603302199999998,-48.0634955?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Romana Pet Shop",
-                "link": "https://www.google.com/maps/search/Romana+Pet+Shop/@-23.586671199999998,-48.0790655?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Si Liao Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Padaria e Mercearia ROMANA Especializada em Paes para Hot Dog (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sLiuWpDrSCGDk31GkeZGHg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=74.44827&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "06:00-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 15 3273-1788",
-        "address": "Padaria e Mercearia ROMANA Especializada em Paes para Hot Dog - Vila Paulo Ayres, R. Itapeva, 680 - Vila Arruda, Itapetininga - SP, 18212-180Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Padaria+e+Mercearia+ROMANA+Especializada+em+P%C3%A3es+para+Hot+Dog/data=!4m7!3m6!1s0x94c5cc50df60b799:0x540438c6f35616ff!8m2!3d-23.5672284!4d-48.0346637!16s%2Fg%2F11c60mg1cd!19sChIJmbdg31DMxZQR_xZW88Y4BFQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJryaYhOLNxZQRp0Wro24hkvs",
         "name": "Casa do Cafe",
         "description": null,
@@ -3721,32 +3162,6 @@
         "link": "https://www.google.com/maps/place/Casa+do+Caf%C3%A9/data=!4m7!3m6!1s0x94c5cde2849826af:0xfb92216ea3ab45a7!8m2!3d-23.5716183!4d-48.0243956!16s%2Fg%2F11sgzq_69y!19sChIJryaYhOLNxZQRp0Wro24hkvs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJX1P8hP3LxZQRIdn8P41oZuA",
-        "name": "ONE - O Nosso Emporio Supermercado",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 13,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "115743035279377514665",
-            "name": "ONE - O Nosso Emporio Supermercado (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115743035279377514665"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7Cqcf2AYJ79hTZe4mfq2umegbRoma02TKGEkV=w408-h544-k-no",
-        "main_category": "Chao Ji Shi Chang ",
-        "categories": [
-            "Chao Ji Shi Chang "
-        ],
-        "rating": 4.8,
-        "workday_timing": "06:30-22:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 15 99837-1722",
-        "address": "ONE - O Nosso Emporio Supermercado - R. Rubens Brasi, 890 - Vila Nastri, Itapetininga - SP, 18206-410Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/ONE+-+O+Nosso+Emp%C3%B3rio+Supermercado/data=!4m7!3m6!1s0x94c5cbfd84fc535f:0xe066688d3ffcd921!8m2!3d-23.617927!4d-48.0632425!16s%2Fg%2F11kj333wvd!19sChIJX1P8hP3LxZQRIdn8P41oZuA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJGaIOMmzLxZQR9rk4PRODdVU",
         "name": "Gioconda Cafe e Quitutes",
         "description": null,
@@ -3767,8 +3182,8 @@
         "rating": 4.8,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 15 99629-1944",
         "address": "Gioconda Cafe e Quitutes - R. Antonio Punhagui de Freitas, 760 - Vila Nastri, Itapetininga - SP, 18206-300Ba Xi ",
@@ -3847,7 +3262,7 @@
             {
                 "name": "Quintal Iwasa'i",
                 "link": "https://www.google.com/maps/search/Quintal+Iwasa%27i/@-23.591348399999998,-48.042722499999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 125,
+                "reviews": 126,
                 "rating": 4.9,
                 "main_category": "Xiao Can Guan  (Bistro)"
             },
@@ -4128,7 +3543,7 @@
             {
                 "name": "Padaria Sao Francisco",
                 "link": "https://www.google.com/maps/search/Padaria+S%C3%A3o+Francisco/@-23.5918605,-48.0597759?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 482,
+                "reviews": 484,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4175,8 +3590,8 @@
         "rating": 4.4,
         "workday_timing": "09:00-14:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+55 15 98146-2466",
         "address": "A Colhedora - R. Vila Palmira - Centro, Itapetininga - SP, 18200-017Ba Xi ",
@@ -4248,7 +3663,7 @@
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4327,61 +3742,6 @@
         "link": "https://www.google.com/maps/place/seu+caf%C3%A9/data=!4m7!3m6!1s0x94c5cd6d195131eb:0xd8ef808262f87172!8m2!3d-23.5776787!4d-48.0376673!16s%2Fg%2F11kq8mp0nc!19sChIJ6zFRGW3NxZQRcnH4YoKA79g?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJsZgX1UXNxZQRqhx3V--9HNM",
-        "name": "Bolinho de Frango Itape",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Bolinho De Frango",
-                "link": "https://www.google.com/maps/search/Bolinho+De+Frango/@-23.583482399999998,-48.0529449?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
-                "rating": 4.3,
-                "main_category": "Ji Rou "
-            },
-            {
-                "name": "Casa do Bolinho de Frango",
-                "link": "https://www.google.com/maps/search/Casa+do+Bolinho+de+Frango/@-23.588207099999998,-48.046244099999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.9,
-                "main_category": "Xiao Shi /Ling Shi Ba "
-            },
-            {
-                "name": "Barraca Avenida - Bolinho de Frango",
-                "link": "https://www.google.com/maps/search/Barraca+Avenida+-+Bolinho+de+Frango/@-23.587741599999998,-48.0474421?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Zi Xun Zhan "
-            },
-            {
-                "name": "Bolinho de Frango Matriz Itape",
-                "link": "https://www.google.com/maps/search/Bolinho+de+Frango+Matriz+Itap%C3%AA/@-23.590892,-48.0534762?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "He Jia Jie Yi Liao Li "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Bolinho de Frango Itape (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKxo5icc1-JYyln4_ASPuZNddoDOi8xPIHxtu0=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "07:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+55 15 99805-9696",
-        "address": "Bolinho de Frango Itape - R. Barbosa Franco, 68 - Centro, Itapetininga - SP, 18200-170Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bolinho+de+Frango+Itap%C3%AA/data=!4m7!3m6!1s0x94c5cd45d51798b1:0xd31cbdef57771caa!8m2!3d-23.5883826!4d-48.0472409!16s%2Fg%2F11rd8d72g9!19sChIJsZgX1UXNxZQRqhx3V--9HNM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJz0J2w93NxZQRFDm7dLmDwQc",
         "name": "Da Casa Empadaria e Rotisseria",
         "description": null,
@@ -4446,6 +3806,61 @@
         "link": "https://www.google.com/maps/place/Da+Casa+Empadaria+e+Rotisseria/data=!4m7!3m6!1s0x94c5cdddc37642cf:0x7c183b974bb3914!8m2!3d-23.5903655!4d-48.0443739!16s%2Fg%2F11h5ncqllq!19sChIJz0J2w93NxZQRFDm7dLmDwQc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJsZgX1UXNxZQRqhx3V--9HNM",
+        "name": "Bolinho de Frango Itape",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Bolinho De Frango",
+                "link": "https://www.google.com/maps/search/Bolinho+De+Frango/@-23.583482399999998,-48.0529449?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 4.3,
+                "main_category": "Ji Rou "
+            },
+            {
+                "name": "Casa do Bolinho de Frango",
+                "link": "https://www.google.com/maps/search/Casa+do+Bolinho+de+Frango/@-23.588207099999998,-48.046244099999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.9,
+                "main_category": "Xiao Shi /Ling Shi Ba "
+            },
+            {
+                "name": "Barraca Avenida - Bolinho de Frango",
+                "link": "https://www.google.com/maps/search/Barraca+Avenida+-+Bolinho+de+Frango/@-23.587741599999998,-48.0474421?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4.5,
+                "main_category": "Zi Xun Zhan "
+            },
+            {
+                "name": "Bolinho de Frango Matriz Itape",
+                "link": "https://www.google.com/maps/search/Bolinho+de+Frango+Matriz+Itap%C3%AA/@-23.590892,-48.0534762?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "He Jia Jie Yi Liao Li "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bolinho de Frango Itape (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKxo5icc1-JYyln4_ASPuZNddoDOi8xPIHxtu0=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+55 15 99805-9696",
+        "address": "Bolinho de Frango Itape - R. Barbosa Franco, 68 - Centro, Itapetininga - SP, 18200-170Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bolinho+de+Frango+Itap%C3%AA/data=!4m7!3m6!1s0x94c5cd45d51798b1:0xd31cbdef57771caa!8m2!3d-23.5883826!4d-48.0472409!16s%2Fg%2F11rd8d72g9!19sChIJsZgX1UXNxZQRqhx3V--9HNM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJc3rDQDrNxZQRbQsrhydvlEY",
         "name": "Padaria Damaris",
         "description": null,
@@ -4455,7 +3870,7 @@
             {
                 "name": "Doces Edson",
                 "link": "https://www.google.com/maps/search/Doces+Edson/@-23.5737412,-48.028320099999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 342,
+                "reviews": 344,
                 "rating": 4.6,
                 "main_category": "Tang Guo Dian "
             },
@@ -4476,7 +3891,7 @@
             {
                 "name": "Cantinho dos Paes",
                 "link": "https://www.google.com/maps/search/Cantinho+dos+P%C3%A3es/@-23.5823277,-48.038874899999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
+                "reviews": 12,
                 "rating": 4.4,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4572,7 +3987,7 @@
             {
                 "name": "Bakery Sao Pedro",
                 "link": "https://www.google.com/maps/search/Bakery+S%C3%A3o+Pedro/@-23.5897222,-48.0422222?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1317,
+                "reviews": 1318,
                 "rating": 4.6,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4626,68 +4041,6 @@
         "address": "Padaria Pao Dourado - R. Felipe Abraao Jubram, 888 - Belo Horizonte, Itapetininga - SP, 18211-245Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Padaria+P%C3%A3o+Dourado/data=!4m7!3m6!1s0x94c5cd29f5817ba1:0x6f95a44c3d6795d2!8m2!3d-23.5671858!4d-48.0427245!16s%2Fg%2F11p5tfh4v4!19sChIJoXuB9SnNxZQR0pVnPUyklW8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJPy9Mj1fNxZQREPJKF62dkhQ",
-        "name": "Artes Paes & Doces",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Art Cakes",
-                "link": "https://www.google.com/maps/search/Art+Cakes/@-23.5766696,-48.026638299999995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 111,
-                "rating": 4.8,
-                "main_category": "Tang Guo Dian "
-            },
-            {
-                "name": "Emporio Nunes Souza (Panificadora)",
-                "link": "https://www.google.com/maps/search/Emp%C3%B3rio+Nunes+Souza+%28Panificadora%29/@-23.5831649,-48.053919?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 51,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Cantinho dos Paes",
-                "link": "https://www.google.com/maps/search/Cantinho+dos+P%C3%A3es/@-23.5823277,-48.038874899999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.4,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Doces e Artes da Lili",
-                "link": "https://www.google.com/maps/search/Doces+e+Artes+da+Lili/@-23.611971099999998,-48.079871700000005?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.7,
-                "main_category": "Dian Xin "
-            },
-            {
-                "name": "Padaria e Mercearia Padilha",
-                "link": "https://www.google.com/maps/search/Padaria+e+Mercearia+Padilha/@-23.5705869,-48.043234?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.8,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Artes Paes & Doces (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qUYDlTtSenT_yPWVgyNG8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=45.795483&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+55 15 99785-1441",
-        "address": "Artes Paes & Doces - R. Antonio Tavares da Rosa, 519 - Vila Carvalho, Itapetininga - SP, 18211-328Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Artes+P%C3%A3es+%26+Doces/data=!4m7!3m6!1s0x94c5cd578f4c2f3f:0x14929dad174af210!8m2!3d-23.5692794!4d-48.0382985!16s%2Fg%2F11l157db03!19sChIJPy9Mj1fNxZQREPJKF62dkhQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJi59AZQjNxZQREeKaVZbdwsA",
@@ -4793,34 +4146,6 @@
         "link": "https://www.google.com/maps/place/Pedroso%27s+cafeteria/data=!4m7!3m6!1s0x94c5cb561010c37f:0xfb5a9448c57a0ed4!8m2!3d-23.6070245!4d-48.0127052!16s%2Fg%2F11t1fh441g!19sChIJf8MQEFbLxZQR1A56xUiUWvs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJfyBWWwjNxZQRlhLrIyFYLuk",
-        "name": "Piccolina Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "110232716795970750685",
-            "name": "Piccolina Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/110232716795970750685"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxdcesy89-jBMtshpLkN3GhzEQxQ4FkaPeDtwM=w408-h544-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": null,
-        "workday_timing": "07:30-18:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+55 15 99183-7369",
-        "address": "Piccolina Cafe - R. Jose Pedro Strasburg Junior - Itapetininga, SP, 18201-608Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Piccolina+Caf%C3%A9/data=!4m7!3m6!1s0x94c5cd085b56207f:0xe92e582123eb1296!8m2!3d-23.5886496!4d-48.0371868!16s%2Fg%2F11vl9c1lwc!19sChIJfyBWWwjNxZQRlhLrIyFYLuk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJwbrOY-jNxZQROMZbBahzMNk",
         "name": "Meat Melo Cafe e Assados",
         "description": null,
@@ -4845,6 +4170,35 @@
         "address": "Meat Melo Cafe e Assados - R. Francisco Correa da Silva, 1051 - Vila Rubens, Itapetininga - SP, 18207-390Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Meat+Melo+Caf%C3%A9+e+Assados/data=!4m7!3m6!1s0x94c5cde863cebac1:0xd93073a8055bc638!8m2!3d-23.597871!4d-48.0640052!16s%2Fg%2F11ks4jglld!19sChIJwbrOY-jNxZQROMZbBahzMNk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJfyBWWwjNxZQRlhLrIyFYLuk",
+        "name": "Piccolina Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "110232716795970750685",
+            "name": "Piccolina Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110232716795970750685"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxdcesy89-jBMtshpLkN3GhzEQxQ4FkaPeDtwM=w408-h544-k-no",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": null,
+        "workday_timing": "07:30-18:30",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
+        ],
+        "phone": "+55 15 99183-7369",
+        "address": "Piccolina Cafe - R. Jose Pedro Strasburg Junior - Itapetininga, SP, 18201-608Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Piccolina+Caf%C3%A9/data=!4m7!3m6!1s0x94c5cd085b56207f:0xe92e582123eb1296!8m2!3d-23.5886496!4d-48.0371868!16s%2Fg%2F11vl9c1lwc!19sChIJfyBWWwjNxZQRlhLrIyFYLuk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJh5CT25bMxZQRz17jVyKbzjc",
@@ -4971,59 +4325,6 @@
         "link": "https://www.google.com/maps/place/Padaria+Artesanal+Mara+Rosa/data=!4m7!3m6!1s0x94c5cd3eb08a9ae7:0xbf526ac53261a33c!8m2!3d-23.5903724!4d-48.0641464!16s%2Fg%2F11pzwcvyzd!19sChIJ55qKsD7NxZQRPKNhMsVqUr8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJQUDyAy_NxZQRymnylJHcUfw",
-        "name": "Cafe Familia Ribeiro",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "106329913256940437068",
-            "name": "Cafe Familia Ribeiro (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106329913256940437068"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1eH91vW14kD8GfatO-EXMD9I5ZUjakD60pbuM=w630-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Service establishment"
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+55 15 98112-5348",
-        "address": null,
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Familia+Ribeiro/data=!4m7!3m6!1s0x94c5cd2f03f24041:0xfc51dc9194f269ca!8m2!3d-23.591578!4d-48.029943!16s%2Fg%2F11m426856r!19sChIJQUDyAy_NxZQRymnylJHcUfw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ-fir5mrMxZQROA_nFr8Rffs",
-        "name": "PANIFICADORA BRASIL",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "PANIFICADORA BRASIL (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aNTRyaHFDJdVD7dKqIkOgA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=104.36568&pitch=0&thumbfov=100",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PANIFICADORA BRASIL - R. Estevao Alciate, 73 - Jardim Brasil, Itapetininga - SP, 18214-470Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PANIFICADORA+BRASIL/data=!4m7!3m6!1s0x94c5cc6ae6abf8f9:0xfb7d11bf16e70f38!8m2!3d-23.5773125!4d-48.0223735!16s%2Fg%2F11vhqfbmwn!19sChIJ-fir5mrMxZQROA_nFr8Rffs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJlw_ygFfNxZQRnzJzNjjHb1c",
         "name": "Joel Wagner Meira",
         "description": null,
@@ -5143,7 +4444,7 @@
             {
                 "name": "Posto Aurora Shell",
                 "link": "https://www.google.com/maps/search/Posto+Aurora+Shell/@-23.577937199999997,-48.034269699999996?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 197,
+                "reviews": 198,
                 "rating": 4.5,
                 "main_category": "You Zhan "
             },

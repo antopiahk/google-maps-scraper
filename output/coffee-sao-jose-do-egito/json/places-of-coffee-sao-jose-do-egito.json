@@ -412,7 +412,7 @@
             "Bai Huo Gong Si "
         ],
         "rating": 4.2,
-        "workday_timing": "09:00-18:00",
+        "workday_timing": "08:00-18:00",
         "closed_on": "Open All Days",
         "phone": "+55 21 97317-0592",
         "address": "Americanas Express - Rua Governador Walfredo Siqueira, sn - Centro, Sao Jose do Egito - PE, 56700-000Ba Xi ",
@@ -689,8 +689,8 @@
             {
                 "name": "Restaurante Universal",
                 "link": "https://www.google.com/maps/search/Restaurante+Universal/@-7.473971799999999,-37.2758214?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
-                "rating": 4.7,
+                "reviews": 82,
+                "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
@@ -719,7 +719,15 @@
         "address": "Restaurante Sabor de Beijo - R. D Jose Pereira Alves, 96 - Sao Jose do Egito, PE, 56700-000Ba Xi ",
         "review_keywords": [
             {
+                "keyword": "Wu Can ",
+                "count": 5
+            },
+            {
                 "keyword": "Shu Shi ,Shi Wu ",
+                "count": 4
+            },
+            {
+                "keyword": "Sha La ",
                 "count": 4
             },
             {
@@ -1610,8 +1618,8 @@
             {
                 "name": "Restaurante Universal",
                 "link": "https://www.google.com/maps/search/Restaurante+Universal/@-7.473971799999999,-37.2758214?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
-                "rating": 4.7,
+                "reviews": 82,
+                "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
@@ -1773,59 +1781,11 @@
         "link": "https://www.google.com/maps/place/Waldecir+do+Din+Din/data=!4m7!3m6!1s0x7a8a9b6c9f89791:0x91973873a19efac6!8m2!3d-7.4652657!4d-37.2827083!16s%2Fg%2F11g_x84d2l!19sChIJkZf4ybapqAcRxvqeoXM4l5E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJpb798t-nqAcR8FOX0Rw-qXw",
-        "name": "DVD GAMES.NET",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5,
-        "competitors": [
-            {
-                "name": "Totalweb",
-                "link": "https://www.google.com/maps/search/Totalweb/@-7.4745488,-37.2760696?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 28,
-                "rating": 4,
-                "main_category": "Hu Lian Wang Fu Wu Gong Ying Shang "
-            },
-            {
-                "name": "INTELNET TELECOM",
-                "link": "https://www.google.com/maps/search/INTELNET+TELECOM/@-7.479303499999999,-37.275155?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.3,
-                "main_category": "Hu Lian Wang Fu Wu Gong Ying Shang "
-            },
-            {
-                "name": "Dellaz",
-                "link": "https://www.google.com/maps/search/Dellaz/@-7.4714431999999995,-37.27114840000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Wang Luo Xing Xiao Fu Wu "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "DVD GAMES.NET (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7ingBXCJxDrq810RD2oU3w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.89868&pitch=0&thumbfov=100",
-        "main_category": "Wang Ba ",
-        "categories": [
-            "Wang Ba "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "DVD GAMES.NET - Rua Governador Walfredo Siqueira, 24 - Sao Jose do Egito, PE, 56700-000Ba Xi ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/DVD+GAMES.NET/data=!4m7!3m6!1s0x7a8a7dff2fdbea5:0x7ca93e1cd19753f0!8m2!3d-7.4787364!4d-37.2745991!16s%2Fg%2F11c51s300d!19sChIJpb798t-nqAcR8FOX0Rw-qXw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJU0UhqqanqAcROqOzKd38M_k",
         "name": "Pastelaria Machado",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 5,
+        "reviews": 6,
         "competitors": [
             {
                 "name": "Leo Lanches",
@@ -1881,6 +1841,54 @@
         "address": "Pastelaria Machado - Av. Vereador manuel Braz de siqueira, 118 - Antonio Marinho, Sao Jose do Egito - PE, 56700-000Ba Xi ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Pastelaria+Machado/data=!4m7!3m6!1s0x7a8a7a6aa214553:0xf933fcdd29b3a33a!8m2!3d-7.4840984!4d-37.2758774!16s%2Fg%2F11t6xpmmsy!19sChIJU0UhqqanqAcROqOzKd38M_k?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJpb798t-nqAcR8FOX0Rw-qXw",
+        "name": "DVD GAMES.NET",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Totalweb",
+                "link": "https://www.google.com/maps/search/Totalweb/@-7.4745488,-37.2760696?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 4,
+                "main_category": "Hu Lian Wang Fu Wu Gong Ying Shang "
+            },
+            {
+                "name": "INTELNET TELECOM",
+                "link": "https://www.google.com/maps/search/INTELNET+TELECOM/@-7.479303499999999,-37.275155?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.3,
+                "main_category": "Hu Lian Wang Fu Wu Gong Ying Shang "
+            },
+            {
+                "name": "Dellaz",
+                "link": "https://www.google.com/maps/search/Dellaz/@-7.4714431999999995,-37.27114840000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Wang Luo Xing Xiao Fu Wu "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "DVD GAMES.NET (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7ingBXCJxDrq810RD2oU3w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.89868&pitch=0&thumbfov=100",
+        "main_category": "Wang Ba ",
+        "categories": [
+            "Wang Ba "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "DVD GAMES.NET - Rua Governador Walfredo Siqueira, 24 - Sao Jose do Egito, PE, 56700-000Ba Xi ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DVD+GAMES.NET/data=!4m7!3m6!1s0x7a8a7dff2fdbea5:0x7ca93e1cd19753f0!8m2!3d-7.4787364!4d-37.2745991!16s%2Fg%2F11c51s300d!19sChIJpb798t-nqAcR8FOX0Rw-qXw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJIQuTARunqAcR4h7tlV2S4vA",
@@ -2213,8 +2221,8 @@
             {
                 "name": "Restaurante Universal",
                 "link": "https://www.google.com/maps/search/Restaurante+Universal/@-7.473971799999999,-37.2758214?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
-                "rating": 4.7,
+                "reviews": 82,
+                "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
