@@ -8,7 +8,7 @@ second_quarter = round(len(city_queries_list)//(4/2))
 third_quarter = round(len(city_queries_list)//(4/3))
 fourth_quarter = len(city_queries_list)
 
-city_queries = city_queries_list[20:84]
+city_queries = city_queries_list[20:57] # windows_second is 57:84
 
 city_queries = [item for sublist in city_queries for item in sublist]
 
