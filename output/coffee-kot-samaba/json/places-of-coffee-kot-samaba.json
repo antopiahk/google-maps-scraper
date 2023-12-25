@@ -1,26 +1,464 @@
 [
     {
-        "place_id": "ChIJQ2LFtxv9OTkRjkLkKD4ktF4",
-        "name": "Kot Samaba",
+        "place_id": "ChIJ31T-ZcYABDQRtavCaCmfsd4",
+        "name": "Knockbox Coffee Company",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
+        "reviews": 713,
+        "competitors": [
+            {
+                "name": "Xing Ba Ke ",
+                "link": "https://www.google.com/maps/search/%E6%98%9F%E5%B7%B4%E5%85%8B/@22.3184032,114.16869439999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 671,
+                "rating": 3.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Pause It",
+                "link": "https://www.google.com/maps/search/Pause+It/@22.3188733,114.1716623?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 478,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Zi Pei ",
+                "link": "https://www.google.com/maps/search/%E5%AD%96%E5%95%A1/@22.315190899999997,114.16998230000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 307,
+                "rating": 3.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Home Place Cafe",
+                "link": "https://www.google.com/maps/search/Home+Place+Cafe/@22.315161699999997,114.1699639?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "http://www.knockboxcoffee.hk/",
+        "owner": {
+            "id": "114366107224706490113",
+            "name": "Knockbox Coffee Company (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114366107224706490113"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4Ns1zKqoz9iB-tAJO6M-0m4uWsgfuiShMCMQw=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "11:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "2781 0363",
+        "address": "Knockbox Coffee Company, 23Hao  Hak Po St, Mong Kok",
+        "review_keywords": [
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 26
+            },
+            {
+                "keyword": "Bei ",
+                "count": 19
+            },
+            {
+                "keyword": "latte",
+                "count": 18
+            },
+            {
+                "keyword": "Wo Fu ",
+                "count": 13
+            },
+            {
+                "keyword": "flat white",
+                "count": 10
+            },
+            {
+                "keyword": "Kou Wei ",
+                "count": 10
+            },
+            {
+                "keyword": "Shu Shi ",
+                "count": 9
+            },
+            {
+                "keyword": "Kao ",
+                "count": 7
+            },
+            {
+                "keyword": "Ce Suo ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Knockbox+Coffee+Company/data=!4m7!3m6!1s0x340400c665fe54df:0xdeb19f2968c2abb5!8m2!3d22.3176204!4d114.1725583!16s%2Fg%2F1tfpxg90!19sChIJ31T-ZcYABDQRtavCaCmfsd4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJZw84pGABBDQRKMaq1Nxe9gM",
+        "name": "Knockbox Coffee Company",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 126,
+        "competitors": [
+            {
+                "name": "The Cupping Room (Zhong Huan )",
+                "link": "https://www.google.com/maps/search/The+Cupping+Room+%28%E4%B8%AD%E7%92%B0%29/@22.283113999999998,114.15456309999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 719,
+                "rating": 3.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coco Espresso",
+                "link": "https://www.google.com/maps/search/Coco+Espresso/@22.282784499999998,114.1550599?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 260,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "COSHA",
+                "link": "https://www.google.com/maps/search/COSHA/@22.2808575,114.1528427?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 64,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Black Sugar Coffee & Lifestyle - Central",
+                "link": "https://www.google.com/maps/search/Black+Sugar+Coffee+%26+Lifestyle+-+Central/@22.2819549,114.1561536?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 30,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://www.knockboxcoffee.hk/",
+        "owner": {
+            "id": "111485101117191868978",
+            "name": "Knockbox Coffee Company (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111485101117191868978"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMuGT57lxbY0W_cCBEojR58XPBKYm6sjCDqJXas=w426-h240-k-no",
+        "main_category": "Yi Lang Ka Pei Ting ",
+        "categories": [
+            "Yi Lang Ka Pei Ting "
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:30-18:00",
+        "closed_on": "Open All Days",
+        "phone": "2781 1255",
+        "address": "Zhong Huan Shi Dan Li Jie 50Hao Knockbox Coffee CompanyHao B",
+        "review_keywords": [
+            {
+                "keyword": "breakfast",
+                "count": 5
+            },
+            {
+                "keyword": "Jia Qian ",
+                "count": 5
+            },
+            {
+                "keyword": "espresso",
+                "count": 4
+            },
+            {
+                "keyword": "flat white",
+                "count": 4
+            },
+            {
+                "keyword": "Nai ",
+                "count": 4
+            },
+            {
+                "keyword": "Mei Shi Ka Pei ",
+                "count": 3
+            },
+            {
+                "keyword": "Xi Bian Mian ",
+                "count": 3
+            },
+            {
+                "keyword": "Song Bing ",
+                "count": 3
+            },
+            {
+                "keyword": "Dou ",
+                "count": 3
+            },
+            {
+                "keyword": "Yi Da Li Mian ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Knockbox+Coffee+Company/data=!4m7!3m6!1s0x34040160a4380f67:0x3f65edcd4aac628!8m2!3d22.282781!4d114.1550594!16s%2Fg%2F11jgtst4by!19sChIJZw84pGABBDQRKMaq1Nxe9gM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6amL4HMBBDQRYuIaddkVZxY",
+        "name": "Knockbox Coffee Company",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 53,
+        "competitors": [
+            {
+                "name": "Crew (Wan Zi )",
+                "link": "https://www.google.com/maps/search/Crew+%28%E7%81%A3%E4%BB%94%29/@22.2754402,114.1713133?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 105,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coco Espresso Wan Chai",
+                "link": "https://www.google.com/maps/search/Coco+Espresso+Wan+Chai/@22.277258200000002,114.1687493?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 90,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffeelin Espresso (Wan Chai)",
+                "link": "https://www.google.com/maps/search/Coffeelin+Espresso+%28Wan+Chai%29/@22.278468,114.172259?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "BOOK cafe",
+                "link": "https://www.google.com/maps/search/BOOK+caf%C3%A9/@22.276830099999998,114.17361439999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 47,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "http://www.knockboxcoffee.hk/",
+        "owner": {
+            "id": "101851072269661215528",
+            "name": "Knockbox Coffee Company (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101851072269661215528"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSJ6x4LtuSjH_izMl2czrEG4TcLT0CGzBVBNla=w408-h612-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": "11:30-18:00",
+        "closed_on": [
+            "Xing Qi San "
+        ],
+        "phone": "2781 1299",
+        "address": "Knockbox Coffee Company, 3 Burrows St, Wan Chai",
+        "review_keywords": [
+            {
+                "keyword": "Dou ",
+                "count": 5
+            },
+            {
+                "keyword": "She Ji ",
+                "count": 3
+            },
+            {
+                "keyword": "Luo Li ",
+                "count": 3
+            },
+            {
+                "keyword": "light",
+                "count": 3
+            },
+            {
+                "keyword": "Ji Rou ",
+                "count": 3
+            },
+            {
+                "keyword": "Xuan Ze ",
+                "count": 3
+            },
+            {
+                "keyword": "Bei ",
+                "count": 3
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 3
+            },
+            {
+                "keyword": "Zao Shang ",
+                "count": 3
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Knockbox+Coffee+Company/data=!4m7!3m6!1s0x34040173e08ba9e9:0x166715d9751ae262!8m2!3d22.277193!4d114.176326!16s%2Fg%2F11nnzxmf4h!19sChIJ6amL4HMBBDQRYuIaddkVZxY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJocbToOwABDQRucjOkDR4TyE",
+        "name": "Colour Brown Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 451,
+        "competitors": [
+            {
+                "name": "Studio Caffeine (Jordan)",
+                "link": "https://www.google.com/maps/search/Studio+Caffeine+%28Jordan%29/@22.303930899999997,114.169822?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 775,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kubrick",
+                "link": "https://www.google.com/maps/search/Kubrick/@22.310768900000003,114.1689492?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 524,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kactus Koffee",
+                "link": "https://www.google.com/maps/search/Kactus+Koffee/@22.30735,114.1654305?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 64,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Good Day Coffee Co.",
+                "link": "https://www.google.com/maps/search/Good+Day+Coffee+Co./@22.3071908,114.1660849?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Xiang Gang Bing Shi (Zuo Dun )",
+                "link": "https://www.google.com/maps/search/%E9%A6%99%E6%B8%AF%E5%86%B0%E5%AE%A4%28%E4%BD%90%E6%95%A6%29/@22.3077965,114.1662843?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": null,
-            "link": null
+            "id": "117546382337532560577",
+            "name": "Colour Brown Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117546382337532560577"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPh100o_GC-JO9f-mE009U-VkfBFO-js3-Xu7CT=w408-h306-k-no",
-        "main_category": null,
-        "categories": null,
-        "rating": null,
-        "workday_timing": null,
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNItw3OpPkoqlWxrrDW60bYVy0dW-pY_vZemdXR=w408-h354-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:30-19:00",
         "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Kot Samaba, Rahim Yar Khan, Punjab, Pakistan",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Kot+Samaba/data=!4m7!3m6!1s0x3939fd1bb7c56243:0x5eb4243e28e4428e!8m2!3d28.551509!4d70.4678822!16s%2Fg%2F12q4sz4f5!19sChIJQ2LFtxv9OTkRjkLkKD4ktF4?authuser=0&hl=nl&rclk=1"
+        "phone": "2791 7128",
+        "address": "G/F, Colour Brown Coffee10 Kwun Chung St, Jordan",
+        "review_keywords": [
+            {
+                "keyword": "Bei ",
+                "count": 11
+            },
+            {
+                "keyword": "Nai ",
+                "count": 11
+            },
+            {
+                "keyword": "Shu Shi ",
+                "count": 11
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 10
+            },
+            {
+                "keyword": "flat white",
+                "count": 8
+            },
+            {
+                "keyword": "Kao ",
+                "count": 7
+            },
+            {
+                "keyword": "Jiang Wei ",
+                "count": 5
+            },
+            {
+                "keyword": "Yi Da Li Mian ",
+                "count": 5
+            },
+            {
+                "keyword": "Shui ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Colour+Brown+Coffee/data=!4m7!3m6!1s0x340400eca0d3c6a1:0x214f783490cec8b9!8m2!3d22.3033789!4d114.1688508!16s%2Fg%2F11b86x0f6k!19sChIJocbToOwABDQRucjOkDR4TyE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJHcrFwC4BBDQRDCsJlH_tM9Y",
+        "name": "KOFFEE MAMEYA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "competitors": [
+            {
+                "name": "Camellia (K11 MUSEA)",
+                "link": "https://www.google.com/maps/search/Camellia+%28K11+MUSEA%29/@22.293409399999998,114.17447759999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 135,
+                "rating": 3.6,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "The Coffee Academics (K11 MUSEA)",
+                "link": "https://www.google.com/maps/search/The+Coffee+Academ%C3%AFcs+%28K11+MUSEA%29/@22.2940996,114.1741299?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 99,
+                "rating": 3.8,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "% Arabica (K11 MUSEA)",
+                "link": "https://www.google.com/maps/search/%25+Arabica+%28K11+MUSEA%29/@22.2939395,114.17510139999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 83,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Omotesando Koffee (K11 MUSEA)",
+                "link": "https://www.google.com/maps/search/Omotesando+Koffee+%28K11+MUSEA%29/@22.2943714,114.1746878?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 43,
+                "rating": 3.9,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "KOFFEE MAMEYA & OMOTESANDO KOFFEE",
+                "link": "https://www.google.com/maps/search/KOFFEE+MAMEYA+%26+OMOTESANDO+KOFFEE/@22.294034999999997,114.174117?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": ""
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "101061688081788646688",
+            "name": "KOFFEE MAMEYA (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101061688081788646688"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEzx96D-CleS-pxn9iNYt6FNQZMcAeEixlyyNA=w408-h272-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "11:00-19:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "2854 2232",
+        "address": "KOFFEE MAMEYA, B217, K11 Musea, Victoria Dockside, Tsim Sha Tsui",
+        "review_keywords": [
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 4
+            },
+            {
+                "keyword": "Dou ",
+                "count": 3
+            },
+            {
+                "keyword": "Xuan Ze ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/KOFFEE+MAMEYA/data=!4m7!3m6!1s0x3404012ec0c5ca1d:0xd633ed7f94092b0c!8m2!3d22.2943478!4d114.1745832!16s%2Fg%2F11k9fm9s_b!19sChIJHcrFwC4BBDQRDCsJlH_tM9Y?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

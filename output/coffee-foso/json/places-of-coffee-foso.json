@@ -1,162 +1,190 @@
 [
     {
-        "place_id": "ChIJo_OoPGMABDQRNODDioI7MDk",
-        "name": "Fuel Espresso IFC",
+        "place_id": "ChIJq6re0A28cEgRXKGeOO5TGVU",
+        "name": "Fosso Lounge",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 361,
+        "reviews": 1110,
         "competitors": [
             {
-                "name": "% Arabica (IFC)",
-                "link": "https://www.google.com/maps/search/%25+Arabica+%28IFC%29/@22.2862513,114.157693?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 462,
-                "rating": 4.2,
+                "name": "The Good Earth",
+                "link": "https://www.google.com/maps/search/The+Good+Earth/@51.207336399999996,-2.6487195?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 407,
+                "rating": 4.8,
+                "main_category": "Su Shi Liao Li "
+            },
+            {
+                "name": "Long Story Bistro",
+                "link": "https://www.google.com/maps/search/Long+Story+Bistro/@51.208107,-2.6494755999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 373,
+                "rating": 4.6,
+                "main_category": "Xiao Can Guan  (Bistro)"
+            },
+            {
+                "name": "Twentyone",
+                "link": "https://www.google.com/maps/search/Twentyone/@51.209686999999995,-2.6449591999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 351,
+                "rating": 4.4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "The Fountain Inn",
+                "link": "https://www.google.com/maps/search/The+Fountain+Inn/@51.211501299999995,-2.6415856?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 333,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "https://thelounges.co.uk/fosso/",
+        "owner": {
+            "id": "115664428615922877732",
+            "name": "Fosso Lounge (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115664428615922877732"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOywquFqsfWOhz6eMIWbRtKxsa-5oDiZdAzW37W=w408-h272-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Jiu Ba ",
+            "Zao Can Can Ting ",
+            "Ying Guo Can Ting ",
+            "Ka Pei Ting ",
+            "Jia Ting Can Ting ",
+            "Wu Fu Zhi Shi Pin Can Ting ",
+            "Chun Su Can Ting ",
+            "Su Shi Can Ting "
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-23:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+44 1749 676127",
+        "address": "Fosso Lounge, 41 High St, Wells BA5 2AEYing Guo ",
+        "review_keywords": [
+            {
+                "keyword": "atmosphere",
+                "count": 80
+            },
+            {
+                "keyword": "Gou ",
+                "count": 43
+            },
+            {
+                "keyword": "vegan",
+                "count": 34
+            },
+            {
+                "keyword": "tapas",
+                "count": 23
+            },
+            {
+                "keyword": "Diao Jiu ",
+                "count": 21
+            },
+            {
+                "keyword": "Wu Fu Zhi ",
+                "count": 15
+            },
+            {
+                "keyword": "Zhuang Xiu ",
+                "count": 13
+            },
+            {
+                "keyword": "Zao Wu Can ",
+                "count": 11
+            },
+            {
+                "keyword": "Guo Min ",
+                "count": 10
+            },
+            {
+                "keyword": "Lian Tiao ",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Fosso+Lounge/data=!4m7!3m6!1s0x4870bc0dd0deaaab:0x551953ee389ea15c!8m2!3d51.2084326!4d-2.6472943!16s%2Fg%2F11hbw1z1fz!19sChIJq6re0A28cEgRXKGeOO5TGVU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJr4VvqF0ABDQR1jOeza8km1U",
+        "name": "Omotesando Koffee (Wan Tong Bao Xian Da Sha )",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 101,
+        "competitors": [
+            {
+                "name": "Apt. Coffee Wanchai",
+                "link": "https://www.google.com/maps/search/Apt.+Coffee+Wanchai/@22.276164899999998,114.1684939?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 246,
+                "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Xing Ba Ke ",
-                "link": "https://www.google.com/maps/search/%E6%98%9F%E5%B7%B4%E5%85%8B/@22.2860192,114.15833330000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 356,
+                "name": "Latter Cafe",
+                "link": "https://www.google.com/maps/search/Latter+Cafe/@22.2788267,114.1740186?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
                 "rating": 3.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffeelin Espresso (Wan Chai)",
+                "link": "https://www.google.com/maps/search/Coffeelin+Espresso+%28Wan+Chai%29/@22.278468,114.172259?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Fuel Espresso Landmark Men",
-                "link": "https://www.google.com/maps/search/Fuel+Espresso+Landmark+Men/@22.280609,114.1577238?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 335,
-                "rating": 4.2,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Blue Bottle Coffee",
-                "link": "https://www.google.com/maps/search/Blue+Bottle+Coffee/@22.2851589,114.1588412?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 133,
+                "name": "BOOK cafe",
+                "link": "https://www.google.com/maps/search/BOOK+caf%C3%A9/@22.276830099999998,114.17361439999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 47,
                 "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "http://fuelespresso.com/",
+        "website": "http://www.ooo-koffee.com/",
         "owner": {
-            "id": "116984026408203465292",
-            "name": "Fuel Espresso IFC (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116984026408203465292"
+            "id": "104489900508625574049",
+            "name": "Omotesando Koffee (Wan Tong Bao Xian Da Sha ) (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104489900508625574049"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjJBUygEd1khfBw-QiADk6C_1NZ0C77k44bYay=w426-h240-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 4.1,
-        "workday_timing": "07:30-19:30",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Shop 3023 3/F, Fuel Espresso IFC, ifc mall, Central",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 23
-            },
-            {
-                "keyword": "Na Tie ",
-                "count": 19
-            },
-            {
-                "keyword": "flat white",
-                "count": 10
-            },
-            {
-                "keyword": "Hu Luo Bo Dan Gao ",
-                "count": 9
-            },
-            {
-                "keyword": "Zhuo ",
-                "count": 8
-            },
-            {
-                "keyword": "Gou Wu Zhong Xin ",
-                "count": 7
-            },
-            {
-                "keyword": "Qiao Ke Li Dan Gao ",
-                "count": 5
-            },
-            {
-                "keyword": "Hui Yi ",
-                "count": 5
-            },
-            {
-                "keyword": "Gan Jue ",
-                "count": 5
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Fuel+Espresso+IFC/data=!4m7!3m6!1s0x340400633ca8f3a3:0x39303b828ac3e034!8m2!3d22.2849412!4d114.1573214!16s%2Fg%2F1wn318bl!19sChIJo_OoPGMABDQRNODDioI7MDk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJrbpjBAoBBDQRm6uXFJmQV98",
-        "name": "Bacha Coffee IFC",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 93,
-        "competitors": [],
-        "website": "https://www.bachacoffee.com/",
-        "owner": {
-            "id": "117047175774265629736",
-            "name": "Bacha Coffee IFC (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117047175774265629736"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-VdBjLs_mosI8AOrGPa2HE75zNSDOGRqHn5pa=w408-h283-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOFkRGTOMjv-8CnpRM9qmyVg87xoeWVgBsU7UXo=w408-h306-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": 3.3,
-        "workday_timing": "08:00-22:00",
+        "rating": 4,
+        "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": "2301 1910",
-        "address": "Bacha Coffee IFC, IFC, Shop 1063, 1/F, 8 Finance St, Central",
+        "phone": "2690 0023",
+        "address": "Wan Zi Luo Ke Dao 33Hao Omotesando Koffee (Wan Tong Bao Xian Da Sha )",
         "review_keywords": [
             {
-                "keyword": "Niu Jiao Bao ",
-                "count": 16
-            },
-            {
-                "keyword": "cream",
-                "count": 16
-            },
-            {
-                "keyword": "Tang ",
-                "count": 12
-            },
-            {
-                "keyword": "Bei ",
-                "count": 11
-            },
-            {
-                "keyword": "Zhi ",
+                "keyword": "atmosphere",
                 "count": 7
             },
             {
-                "keyword": "Qian ",
-                "count": 7
+                "keyword": "Jia Qian ",
+                "count": 5
             },
             {
-                "keyword": "Xuan Ze ",
-                "count": 7
+                "keyword": "Zhuang Xiu ",
+                "count": 4
             },
             {
-                "keyword": "Bao Zhuang ",
-                "count": 6
+                "keyword": "Wu Can ",
+                "count": 4
             },
             {
-                "keyword": "Kou Wei ",
-                "count": 6
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 4
             },
             {
-                "keyword": "Pan ",
+                "keyword": "Ji Jian ",
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Bacha+Coffee+IFC/data=!4m7!3m6!1s0x3404010a0463baad:0xdf5790991497ab9b!8m2!3d22.2860413!4d114.1578927!16s%2Fg%2F11v56lfhy7!19sChIJrbpjBAoBBDQRm6uXFJmQV98?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Omotesando+Koffee+%28%E8%90%AC%E9%80%9A%E4%BF%9D%E9%9A%AA%E5%A4%A7%E5%BB%88%29/data=!4m7!3m6!1s0x3404005da86f85af:0x559b24afcd9e33d6!8m2!3d22.2783703!4d114.1700025!16s%2Fg%2F11gccfzsch!19sChIJr4VvqF0ABDQR1jOeza8km1U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJeRBGfbQVei4RTKSt7pX8Lys",
@@ -168,7 +196,7 @@
             {
                 "name": "Solo Kopi",
                 "link": "https://www.google.com/maps/search/Solo+Kopi/@-7.5454781,110.77471969999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2071,
+                "reviews": 2069,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -238,24 +266,31 @@
         "link": "https://www.google.com/maps/place/DFoso+Coffee/data=!4m7!3m6!1s0x2e7a15b47d461079:0x2b2ffc95eeada44c!8m2!3d-7.5488404!4d110.7768313!16s%2Fg%2F11pd48v49v!19sChIJeRBGfbQVei4RTKSt7pX8Lys?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJQ3tx4bd7ATQRruuu7SlewQE",
-        "name": "FOLKOFFEE",
+        "place_id": "ChIJiVdfUtxxATQRW3u2Vjidj6c",
+        "name": "Feng Da Ka Pei ",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 4,
+        "reviews": 16,
         "competitors": [
             {
-                "name": "Wonderwall Coffee",
-                "link": "https://www.google.com/maps/search/Wonderwall+Coffee/@22.197149400000004,113.54553299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "name": "CuppaCoffee Taipa",
+                "link": "https://www.google.com/maps/search/CuppaCoffee+Taipa/@22.1565723,113.55958570000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 141,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Fill Cafe",
-                "link": "https://www.google.com/maps/search/Fill+Cafe/@22.1854859,113.53141459999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 38,
-                "rating": 2.3,
+                "name": "Bidas Bran Dessert Coffee",
+                "link": "https://www.google.com/maps/search/Bidas+Bran+Dessert+Coffee/@22.1539218,113.5569276?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 94,
+                "rating": 3.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "ROOFTOP MACAU",
+                "link": "https://www.google.com/maps/search/ROOFTOP+MACAU/@22.1529462,113.55727460000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 40,
+                "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -264,33 +299,26 @@
                 "reviews": 23,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "CUPPACOFFEE (Macau Peninsula)",
-                "link": "https://www.google.com/maps/search/CUPPACOFFEE+%28Macau+Peninsula%29/@22.1894222,113.54127079999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 3.6,
-                "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.facebook.com/folkoffeefolkoffee/",
+        "website": "https://fongdacoffee.hk/",
         "owner": {
-            "id": null,
-            "name": "FOLKOFFEE (Ye Zhu )",
-            "link": null
+            "id": "102369831495254287631",
+            "name": "Feng Da Ka Pei  (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102369831495254287631"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPE0ivzpQtzxVMQZ0R37O0XushdjW7SKuiy-Nx0=w408-h544-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMs5GCswXdxRuyfI2U82xerUdVxLI-c4Z9gT_q5=w408-h544-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
         ],
         "rating": 4.8,
-        "workday_timing": "13:00-21:00",
+        "workday_timing": "12:00-18:00",
         "closed_on": "Open All Days",
-        "phone": "+853 6661 7710",
-        "address": "FOLKOFFEE, Liu Hao , Ma Che Xiang Ao Men ",
+        "phone": "+853 6388 5018",
+        "address": "Ao Men Bing Fang Xie Xiang 22Hao Feng Da Ka Pei ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/FOLKOFFEE/data=!4m7!3m6!1s0x34017bb7e1717b43:0x1c15e29edaeebae!8m2!3d22.1938051!4d113.5363477!16s%2Fg%2F11jjq_29wr!19sChIJQ3tx4bd7ATQRruuu7SlewQE?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/%E8%9C%82%E5%A4%A7%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x340171dc525f5789:0xa78f9d3856b67b5b!8m2!3d22.1530889!4d113.5577365!16s%2Fg%2F11j1c_qqgg!19sChIJiVdfUtxxATQRW3u2Vjidj6c?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJl8pbANdLzDERCVCJAiReCcA",
@@ -354,12 +382,12 @@
         "name": "Faifo Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2307,
+        "reviews": 2303,
         "competitors": [
             {
                 "name": "Phin Coffee & Restaurant",
                 "link": "https://www.google.com/maps/search/Phin+Coffee+%26+Restaurant/@15.877656600000002,108.3278785?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1595,
+                "reviews": 1597,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
@@ -373,7 +401,7 @@
             {
                 "name": "The Espresso Station",
                 "link": "https://www.google.com/maps/search/The+Espresso+Station/@15.880145500000001,108.3282775?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 804,
+                "reviews": 803,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -403,7 +431,7 @@
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.1,
+        "rating": 4,
         "workday_timing": "07:00-21:30",
         "closed_on": "Open All Days",
         "phone": "+84 913 495 378",
@@ -415,7 +443,7 @@
             },
             {
                 "keyword": "Xiang ",
-                "count": 110
+                "count": 111
             },
             {
                 "keyword": "Ceng Lou ",
@@ -423,7 +451,7 @@
             },
             {
                 "keyword": "Leng Qi ",
-                "count": 38
+                "count": 39
             },
             {
                 "keyword": "Guan Jing Ping Tai ",
@@ -464,7 +492,7 @@
             {
                 "name": "Yu Shan Chu Fang  Royal Kitchen",
                 "link": "https://www.google.com/maps/search/%E5%BE%A1%E8%86%B3%E5%BB%9A%E6%88%BF+Royal+Kitchen/@22.398079,114.19274449999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 3.7,
                 "main_category": "Can Ting "
             },
@@ -501,6 +529,93 @@
             }
         ],
         "link": "https://www.google.com/maps/place/%E9%9C%B2%E7%B5%B2%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x340406345012da8f:0xf422db5a766b91d!8m2!3d22.3977013!4d114.1954597!16s%2Fg%2F11fy_fhxp3!19sChIJj9oSUDQGBDQRHblmp7UtQg8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJidC5PP3_AzQRcIwy2DGGISs",
+        "name": "First Boy Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "competitors": [
+            {
+                "name": "Blend & Grind Kennedy Town",
+                "link": "https://www.google.com/maps/search/Blend+%26+Grind+Kennedy+Town/@22.2832708,114.1284577?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 337,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Winstons Coffee - Kennedy Town",
+                "link": "https://www.google.com/maps/search/Winstons+Coffee+-+Kennedy+Town/@22.2814613,114.1271506?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 263,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Cofftea Shop",
+                "link": "https://www.google.com/maps/search/The+Cofftea+Shop/@22.2829774,114.12691199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 142,
+                "rating": 4.5,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            },
+            {
+                "name": "For Single",
+                "link": "https://www.google.com/maps/search/For+Single/@22.2827847,114.1277781?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 107,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Blueplace Cafe",
+                "link": "https://www.google.com/maps/search/Blueplace+Cafe/@22.282826,114.12877?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 80,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "108176987182602972292",
+            "name": "First Boy Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108176987182602972292"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtCuSZhW_3YQwnsPdbV0nmt6sqdQhz91crXuFF=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-17:30",
+        "closed_on": "Open All Days",
+        "phone": "3611 3851",
+        "address": "First Boy Coffee, G/F, 33 Praya, Kennedy Town",
+        "review_keywords": [
+            {
+                "keyword": "Ji Che ",
+                "count": 8
+            },
+            {
+                "keyword": "pancake",
+                "count": 5
+            },
+            {
+                "keyword": "espresso",
+                "count": 5
+            },
+            {
+                "keyword": "latte",
+                "count": 5
+            },
+            {
+                "keyword": "Dou ",
+                "count": 4
+            },
+            {
+                "keyword": "Guang ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/First+Boy+Coffee/data=!4m7!3m6!1s0x3403fffd3cb9d089:0x2b218631d8328c70!8m2!3d22.2847352!4d114.1308779!16s%2Fg%2F11fss0sx_k!19sChIJidC5PP3_AzQRcIwy2DGGISs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ9UlzHjUGBDQRDIE-xzPj1mk",
@@ -563,6 +678,108 @@
         "link": "https://www.google.com/maps/place/%E6%AD%8C%E7%BE%8E%E5%92%96%E5%95%A1%E5%BA%97/data=!4m7!3m6!1s0x340406351e7349f5:0x69d6e333c73e810c!8m2!3d22.3972101!4d114.1933412!16s%2Fg%2F11b7m9gxn6!19sChIJ9UlzHjUGBDQRDIE-xzPj1mk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ4YDj01DV3Q8Rq4VmPTgbtbs",
+        "name": "The Finest",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "competitors": [
+            {
+                "name": "Marviqs",
+                "link": "https://www.google.com/maps/search/Marviqs/@5.7169637,-1.2870070999999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 31,
+                "rating": 3.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Green Light City",
+                "link": "https://www.google.com/maps/search/Green+Light+City/@5.7104167,-1.2862658999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Vintage pub",
+                "link": "https://www.google.com/maps/search/Vintage+pub/@5.6876828999999995,-1.2714132999999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "115591281530219210638",
+            "name": "The Finest (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115591281530219210638"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXBNmGZR-qz4f66I2_u4OyY3vF34Uccln2oBq2=w426-h240-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": "+233 53 445 6373",
+        "address": "The Finest, 76 Mankessim - Kumasi Rd, Foso, Jia Na ",
+        "review_keywords": [
+            {
+                "keyword": "Le Tuan ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/The+Finest/data=!4m7!3m6!1s0xfddd550d3e380e1:0xbbb51b383d6685ab!8m2!3d5.7134001!4d-1.2871769!16s%2Fg%2F11smsdwt53!19sChIJ4YDj01DV3Q8Rq4VmPTgbtbs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJx6DkE0G1jR4RrpMlJLysN34",
+        "name": "The LEDE Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "caffe dolce",
+                "link": "https://www.google.com/maps/search/caff%C3%A8+dolce/@-29.307903500000002,27.4650528?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Lekhooa cafe",
+                "link": "https://www.google.com/maps/search/Lekhooa+cafe/@-29.3675832,27.514606699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Mangoane General cafe",
+                "link": "https://www.google.com/maps/search/Mangoane+General+cafe/@-29.279971899999996,27.5602403?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Chao Ji Shi Chang "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "106876501617520109313",
+            "name": "The LEDE Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106876501617520109313"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDSM3eAzO4B-O5FTQUEpeHCHi0CA_QW_SED7g=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+266 6200 4676",
+        "address": "The LEDE Cafe, A1, Foso, Lai Suo Tuo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+LEDE+Caf%C3%A9/data=!4m7!3m6!1s0x1e8db54113e4a0c7:0x7e37acbc242593ae!8m2!3d-29.2677158!4d27.5801854!16s%2Fg%2F11q2sl9jxs!19sChIJx6DkE0G1jR4RrpMlJLysN34?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ-7yB3ArV3Q8Ru_McpXgw-3c",
         "name": "kofi Adu Comedy",
         "description": null,
@@ -623,5 +840,113 @@
         "address": "kofi Adu Comedy, Twifo Praso station, Foso, Jia Na ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/kofi+Adu+Comedy/data=!4m7!3m6!1s0xfddd50adc81bcfb:0x77fb3078a51cf3bb!8m2!3d5.6946797!4d-1.278099!16s%2Fg%2F11q7fdp5dy!19sChIJ-7yB3ArV3Q8Ru_McpXgw-3c?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJbTWmwlnKjR4RKCmCdHyxkBk",
+        "name": "Riverside Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "The LEDE Cafe",
+                "link": "https://www.google.com/maps/search/The+LEDE+Caf%C3%A9/@-29.267715799999998,27.5801854?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Bafokeng Cafe",
+                "link": "https://www.google.com/maps/search/Bafokeng+Cafe/@-29.2928613,27.550417399999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Gou Wu Zhong Xin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Riverside Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=prgB53ze82ny1C7oxNTZnw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.39415&pitch=0&thumbfov=100",
+        "main_category": "Gou Wu Zhong Xin ",
+        "categories": [
+            "Gou Wu Zhong Xin "
+        ],
+        "rating": 3,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "PG88+93F Riverside Cafe, Foso, Lai Suo Tuo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Riverside+Caf%C3%A9/data=!4m7!3m6!1s0x1e8dca59c2a6356d:0x1990b17c74822928!8m2!3d-29.2840618!4d27.515161!16s%2Fg%2F11c67q1x2r!19sChIJbTWmwlnKjR4RKCmCdHyxkBk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJEQ0TcO21jR4RdgXPkme_jrE",
+        "name": "Rock'n Roll Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Rock View Beer Garden",
+                "link": "https://www.google.com/maps/search/Rock+View+Beer+Garden/@-29.2848211,27.5134939?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.3,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "The LEDE Cafe",
+                "link": "https://www.google.com/maps/search/The+LEDE+Caf%C3%A9/@-29.267715799999998,27.5801854?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Rock'n Roll Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6jJ0LN0QrV304XgtaEFQGQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.86778&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "PH57+999 Rock'n Roll Cafe, Unnamed Road, Foso, Lai Suo Tuo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rock%27n+Roll+Cafe/data=!4m7!3m6!1s0x1e8db5ed70130d11:0xb18ebf6792cf0576!8m2!3d-29.2915894!4d27.5634714!16s%2Fg%2F11gmyljgr9!19sChIJEQ0TcO21jR4RdgXPkme_jrE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ40GNBAu1jR4R6KHfE8bYVUQ",
+        "name": "Motlejoa General Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Motlejoa General Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnkNkPe8vKMBusVD_TTjaNAYe_2WLlVWFPTIDM=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+266 5872 1156",
+        "address": "PHGP+C6J Motlejoa General Cafe, Foso, Lai Suo Tuo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Motlejoa+General+Cafe/data=!4m7!3m6!1s0x1e8db50b048d41e3:0x4455d8c613dfa1e8!8m2!3d-29.2739063!4d27.5855045!16s%2Fg%2F11h4kwyh07!19sChIJ40GNBAu1jR4R6KHfE8bYVUQ?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

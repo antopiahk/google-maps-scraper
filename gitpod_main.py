@@ -13,7 +13,7 @@ third_quarter = round(len(city_queries_list)//(4/3))
 fourth_quarter = len(city_queries_list)
 
 # gitpod originally was [167:] but credits ran out. this is picking up from around the finish.
-city_queries = city_queries_list[175:]
+city_queries = city_queries_list[230:] #175 before
 
 city_queries = [item for sublist in city_queries for item in sublist]
 

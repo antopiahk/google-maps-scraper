@@ -4,13 +4,13 @@
         "name": "Coffee Island",
         "description": null,
         "is_spending_on_ads": true,
-        "reviews": 166,
+        "reviews": 167,
         "competitors": [
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -35,7 +35,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://www.coffeeisland.gr/%3Futm_campaign%3Dwebsite%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+        "website": "https://www.coffeeisland.gr/?utm_campaign=website&utm_medium=organic&utm_source=google",
         "owner": {
             "id": "100391533770353122611",
             "name": "Coffee Island (Ye Zhu )",
@@ -46,7 +46,7 @@
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": 4.2,
+        "rating": 4.3,
         "workday_timing": "06:00-22:00",
         "closed_on": "Open All Days",
         "phone": "+30 281 033 5595",
@@ -59,26 +59,26 @@
         "name": "Mare Coffee Bar & Food",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3867,
+        "reviews": 3868,
         "competitors": [
             {
                 "name": "Cafe Marina",
                 "link": "https://www.google.com/maps/search/Cafe+Marina/@35.3427545,25.1369035?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2098,
+                "reviews": 2097,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -148,45 +148,136 @@
         "link": "https://www.google.com/maps/place/Mare+Coffee+Bar+%26+Food/data=!4m7!3m6!1s0x149a59861b589057:0xe8249f421710bfbc!8m2!3d35.3422562!4d25.1303266!16s%2Fg%2F1tcttvpn!19sChIJV5BYG4ZZmhQRvL8QF0KfJOg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJu7CiOC9amhQRGEXpORz-y5I",
-        "name": "Utopia",
+        "place_id": "ChIJz9K0zqqkoRQR3ttPVQdQSwc",
+        "name": "Central Park",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2402,
+        "reviews": 3485,
         "competitors": [
             {
                 "name": "Hacienda.",
                 "link": "https://www.google.com/maps/search/Hacienda./@35.3308542,25.133703?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2373,
+                "reviews": 2377,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Parasties",
+                "link": "https://www.google.com/maps/search/Parasties/@35.341325999999995,25.1301873?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1276,
+                "rating": 4.5,
+                "main_category": "Di Zhong Hai Cai "
+            },
+            {
+                "name": "Crop",
+                "link": "https://www.google.com/maps/search/Crop/@35.3395472,25.1358064?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1201,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Arch coffee and food",
+                "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 662,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Corner cafe eat'aliano",
+                "link": "https://www.google.com/maps/search/Corner+cafe+eat%27aliano/@35.3396219,25.1334338?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 181,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "http://www.central-park.gr/",
+        "owner": {
+            "id": null,
+            "name": "Central Park (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxNsAcIam7bEgVjUJpMhbhm_qKD_EoCc8zuBoD=w408-h272-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Jiu Ba ",
+            "Ka Pei Ting ",
+            "Bo Bing Can Ting ",
+            "Pu Tao Jiu Ba "
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-01:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 281 034 6500",
+        "address": "Central Park, Arkoleon 19, Iraklio 712 02Xi La ",
+        "review_keywords": [
+            {
+                "keyword": "Diao Jiu ",
+                "count": 27
+            },
+            {
+                "keyword": "Xiao Chi ",
+                "count": 18
+            },
+            {
+                "keyword": "Ka Pei Ting ",
+                "count": 18
+            },
+            {
+                "keyword": "sangria",
+                "count": 9
+            },
+            {
+                "keyword": "Yu Yan ",
+                "count": 8
+            },
+            {
+                "keyword": "DJ",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Central+Park/data=!4m7!3m6!1s0x14a1a4aaceb4d2cf:0x74b5007554fdbde!8m2!3d35.339898!4d25.133571!16s%2Fg%2F1trqdhkj!19sChIJz9K0zqqkoRQR3ttPVQdQSwc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJu7CiOC9amhQRGEXpORz-y5I",
+        "name": "Utopia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2408,
+        "competitors": [
+            {
+                "name": "Hacienda.",
+                "link": "https://www.google.com/maps/search/Hacienda./@35.3308542,25.133703?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2377,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pagopoieion",
                 "link": "https://www.google.com/maps/search/Pagopoie%C3%AEon/@35.3403507,25.1345724?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1196,
+                "reviews": 1197,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "THINK TANK",
                 "link": "https://www.google.com/maps/search/THINK+TANK/@35.3393679,25.1350448?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 494,
+                "reviews": 492,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Hub cafe+lounge",
                 "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 467,
-                "rating": 4.4,
+                "reviews": 466,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             }
         ],
@@ -252,33 +343,33 @@
         "name": "Hacienda.",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2373,
+        "reviews": 2377,
         "competitors": [
             {
                 "name": "Utopia",
                 "link": "https://www.google.com/maps/search/Utopia/@35.340266799999995,25.1310368?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2399,
+                "reviews": 2405,
                 "rating": 4.6,
                 "main_category": "Qiao Ke Li Ka Pei Guan "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Eridanos cafe-bar-bistro",
                 "link": "https://www.google.com/maps/search/%CE%97%CF%81%CE%B9%CE%B4%CE%B1%CE%BD%CF%8C%CF%82+cafe-bar-bistro/@35.3391522,25.134230000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 620,
+                "reviews": 621,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -358,7 +449,7 @@
         "name": "Phyllosophies",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2358,
+        "reviews": 2361,
         "competitors": [
             {
                 "name": "Eiffel",
@@ -417,7 +508,7 @@
         "review_keywords": [
             {
                 "keyword": "Pen Quan ",
-                "count": 62
+                "count": 63
             },
             {
                 "keyword": "Feng Mi ",
@@ -436,8 +527,8 @@
                 "count": 7
             },
             {
-                "keyword": "Qia Shi Da ",
-                "count": 7
+                "keyword": "Zhe Xue ",
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Phyllosophies/data=!4m7!3m6!1s0x149a5a2ed4791039:0xd087954d0d0bc16e!8m2!3d35.3389727!4d25.1330673!16s%2Fg%2F11b7lnr014!19sChIJORB51C5amhQRbsELDU2Vh9A?authuser=0&hl=zh-TW&rclk=1"
@@ -466,8 +557,8 @@
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -497,7 +588,7 @@
         "review_keywords": [
             {
                 "keyword": "Jia Ge ",
-                "count": 31
+                "count": 32
             },
             {
                 "keyword": "Gang Wan ",
@@ -539,26 +630,26 @@
         "name": "Eiffel",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1598,
+        "reviews": 1601,
         "competitors": [
             {
                 "name": "Phyllosophies",
                 "link": "https://www.google.com/maps/search/Phyllosophies/@35.3389727,25.1330673?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2358,
+                "reviews": 2360,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Marina",
                 "link": "https://www.google.com/maps/search/Cafe+Marina/@35.3427545,25.1369035?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2098,
+                "reviews": 2097,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -572,7 +663,7 @@
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             }
@@ -627,12 +718,12 @@
         "name": "Hari's Creperie Heraklion",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1444,
+        "reviews": 1446,
         "competitors": [
             {
                 "name": "Kombinat Crepe",
                 "link": "https://www.google.com/maps/search/Kombinat+Crepe/@35.340296099999996,25.132706199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 208,
+                "reviews": 209,
                 "rating": 4.7,
                 "main_category": "Fa Shi Bo Bing "
             },
@@ -694,8 +785,8 @@
                 "count": 22
             },
             {
-                "keyword": "Pan ",
-                "count": 8
+                "keyword": "Shi Cai ",
+                "count": 9
             },
             {
                 "keyword": "San Ming Zhi ",
@@ -729,33 +820,33 @@
         "name": "Crop",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1201,
+        "reviews": 1202,
         "competitors": [
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "THINK TANK",
                 "link": "https://www.google.com/maps/search/THINK+TANK/@35.3393679,25.1350448?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 494,
+                "reviews": 492,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -823,9 +914,89 @@
             {
                 "keyword": "Hu ",
                 "count": 6
+            },
+            {
+                "keyword": "Gong Yuan ",
+                "count": 6
             }
         ],
         "link": "https://www.google.com/maps/place/Crop/data=!4m7!3m6!1s0x149a5a2c1c53dccd:0x8a0201f959198ef9!8m2!3d35.3395472!4d25.1358064!16s%2Fg%2F1s04b9yrm!19sChIJzdxTHCxamhQR-Y4ZWfkBAoo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJq7Be849ZmhQR0MfDxW51Tso",
+        "name": "Favela",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1173,
+        "competitors": [
+            {
+                "name": "News Cafe",
+                "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1132,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Dizzy Coffee - Bar & Food",
+                "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 745,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Sinaitiko Cafe",
+                "link": "https://www.google.com/maps/search/Sinaitiko+Cafe/@35.338158199999995,25.1306644?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 223,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "AROMA CAFE",
+                "link": "https://www.google.com/maps/search/AROMA+CAFE/@35.3384864,25.120538099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 122,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Filoi Cafe",
+                "link": "https://www.google.com/maps/search/Filoi+Caf%C3%A9/@35.3286107,25.1341884?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 14,
+                "rating": 4.9,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.instagram.com/favela_alternative/",
+        "owner": {
+            "id": "117651563765783044708",
+            "name": "Favela (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117651563765783044708"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNbJYPSo5nchkUTw3g6-JnJWZ8T2hiGWatGxPQh=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Gou Er Ka Pei Guan "
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:30-01:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 281 032 0556",
+        "address": "Favela, Lefthereou 25, Iraklio 713 05Xi La ",
+        "review_keywords": [
+            {
+                "keyword": "Yin Le ",
+                "count": 3
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 3
+            },
+            {
+                "keyword": "Pi Jiu ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Favela/data=!4m7!3m6!1s0x149a598ff35eb0ab:0xca4e756ec5c3c7d0!8m2!3d35.3254142!4d25.1292678!16s%2Fg%2F11bzq2yl3p!19sChIJq7Be849ZmhQR0MfDxW51Tso?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ818GpS5amhQRGosmHF2fYWE",
@@ -837,21 +1008,21 @@
             {
                 "name": "Utopia",
                 "link": "https://www.google.com/maps/search/Utopia/@35.340266799999995,25.1310368?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2399,
+                "reviews": 2405,
                 "rating": 4.6,
                 "main_category": "Qiao Ke Li Ka Pei Guan "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 965,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -931,7 +1102,7 @@
         "name": "News Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1130,
+        "reviews": 1132,
         "competitors": [],
         "website": "https://newscafe.gr/",
         "owner": {
@@ -998,45 +1169,45 @@
         "name": "Indigo",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 965,
+        "reviews": 970,
         "competitors": [
             {
                 "name": "Utopia",
                 "link": "https://www.google.com/maps/search/Utopia/@35.340266799999995,25.1310368?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2399,
+                "reviews": 2405,
                 "rating": 4.6,
                 "main_category": "Qiao Ke Li Ka Pei Guan "
             },
             {
                 "name": "Hacienda.",
                 "link": "https://www.google.com/maps/search/Hacienda./@35.3308542,25.133703?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2373,
+                "reviews": 2377,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Dizzy Coffee - Bar & Food",
                 "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
+                "reviews": 745,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Eridanos cafe-bar-bistro",
                 "link": "https://www.google.com/maps/search/%CE%97%CF%81%CE%B9%CE%B4%CE%B1%CE%BD%CF%8C%CF%82+cafe-bar-bistro/@35.3391522,25.134230000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 620,
+                "reviews": 621,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Hub cafe+lounge",
                 "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 467,
-                "rating": 4.4,
+                "reviews": 466,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://m.facebook.com/indigocoffee/?locale2=el_GR",
+        "website": "https://m.facebook.com/indigocoffee/%3Flocale2%3Del_GR",
         "owner": {
             "id": "112601778148902998562",
             "name": "Indigo (Ye Zhu )",
@@ -1086,111 +1257,82 @@
         "link": "https://www.google.com/maps/place/Indigo/data=!4m7!3m6!1s0x149a5a2eecabfbf1:0xae37bfc1d1e70953!8m2!3d35.3403445!4d25.1340064!16s%2Fg%2F11b7hp3x5g!19sChIJ8fur7C5amhQRUwnn0cG_N64?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJEx_nYC5amhQRJYdfEGZOOMs",
-        "name": "Starbucks",
-        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
+        "place_id": "ChIJ7a9eviFamhQR7RKMiMvFujw",
+        "name": "Flocafe Espresso Room",
+        "description": null,
         "is_spending_on_ads": false,
-        "reviews": 934,
+        "reviews": 922,
         "competitors": [
             {
-                "name": "Indigo",
-                "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "name": "Eiffel",
+                "link": "https://www.google.com/maps/search/Eiffel/@35.3307062,25.134856400000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1598,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Coffee Island",
-                "link": "https://www.google.com/maps/search/Coffee+Island/@35.3346832,25.1347895?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 166,
-                "rating": 4.2,
+                "name": "Hub cafe+lounge",
+                "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 466,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "ML Espresso bar",
+                "link": "https://www.google.com/maps/search/ML+Espresso+bar/@35.337475399999995,25.1358133?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 450,
+                "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Latte coffe & street food",
-                "link": "https://www.google.com/maps/search/Latte+coffe+%26+street+food/@35.338730399999996,25.1405022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 160,
-                "rating": 4.4,
+                "name": "To Kaphe Biblio",
+                "link": "https://www.google.com/maps/search/%CE%A4%CE%BF+%CE%9A%CE%B1%CF%86%CE%AD+%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF/@35.3195818,25.1326789?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 397,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Coffee Bear",
-                "link": "https://www.google.com/maps/search/Coffee+Bear/@35.3377036,25.1253522?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
+                "name": "AROMA CAFE",
+                "link": "https://www.google.com/maps/search/AROMA+CAFE/@35.3384864,25.120538099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 122,
                 "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "CoffeeWalk",
-                "link": "https://www.google.com/maps/search/CoffeeWalk/@35.341876899999995,25.1343279?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "http://www.starbucks.com.gr/",
+        "website": "http://www.flocafe.gr/",
         "owner": {
-            "id": "102388074819803954047",
-            "name": "Starbucks (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102388074819803954047"
+            "id": "110150900825436772626",
+            "name": "Flocafe Espresso Room (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/110150900825436772626"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPlccZbswPivwwtQ5qfbyJWmXUmqThDA2y7gZLu=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN7KOjiyuLLG13fxhkYAQP9e-VLJ1s_G6Fvsqbc=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
         "categories": [
-            "Ka Pei Dian ",
             "Ka Pei Ting "
         ],
-        "rating": 4,
-        "workday_timing": "08:30-21:00",
+        "rating": 4.3,
+        "workday_timing": "09:00-01:00",
         "closed_on": "Open All Days",
-        "phone": "+30 281 022 5652",
-        "address": "Starbucks, 25th Avgoustou 42, Iraklio 712 02Xi La ",
+        "phone": "+30 281 037 1372",
+        "address": "Flocafe Espresso Room, Menoos 2 &, Leof. Sofokli Venizelou, Iraklio 713 03Xi La ",
         "review_keywords": [
             {
-                "keyword": "Ce Suo ",
-                "count": 21
-            },
-            {
                 "keyword": "Jia Ge ",
-                "count": 11
-            },
-            {
-                "keyword": "Ka Pei Shi ",
-                "count": 9
-            },
-            {
-                "keyword": "Xing Bing Le ",
                 "count": 6
             },
             {
-                "keyword": "Pin Zhi ",
-                "count": 5
-            },
-            {
-                "keyword": "Qia Bu Qi Nuo ",
-                "count": 5
-            },
-            {
-                "keyword": "Gao ",
-                "count": 5
-            },
-            {
-                "keyword": "Lu You ",
-                "count": 4
-            },
-            {
-                "keyword": "Ke Song ",
+                "keyword": "atmosphere",
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x149a5a2e60e71f13:0xcb384e66105f8725!8m2!3d35.341581!4d25.1342769!16s%2Fg%2F11b6dp7hrh!19sChIJEx_nYC5amhQRJYdfEGZOOMs?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Flocafe+Espresso+Room/data=!4m7!3m6!1s0x149a5a21be5eafed:0x3cbac5cb888c12ed!8m2!3d35.3405374!4d25.1199509!16s%2Fg%2F11c5s8cxsm!19sChIJ7a9eviFamhQR7RKMiMvFujw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJNZ5--NBbmhQRUPDbx5UUXlg",
         "name": "Frankly cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 851,
+        "reviews": 854,
         "competitors": [
             {
                 "name": "Mare Coffee Bar & Food",
@@ -1216,14 +1358,14 @@
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             }
@@ -1268,6 +1410,10 @@
                 "count": 6
             },
             {
+                "keyword": "Han Bao ",
+                "count": 5
+            },
+            {
                 "keyword": "Da Jiao Tang ",
                 "count": 5
             },
@@ -1281,86 +1427,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Frankly+cafe/data=!4m7!3m6!1s0x149a5bd0f87e9e35:0x585e1495c7dbf050!8m2!3d35.3378909!4d25.1312116!16s%2Fg%2F11g_y_33zh!19sChIJNZ5--NBbmhQRUPDbx5UUXlg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJjdFGdiFamhQRyEb-wNbf1JY",
-        "name": "Starbucks",
-        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
-        "is_spending_on_ads": false,
-        "reviews": 837,
-        "competitors": [
-            {
-                "name": "Mosaiko",
-                "link": "https://www.google.com/maps/search/Mosaiko/@35.338015999999996,25.1340604?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 625,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Bear",
-                "link": "https://www.google.com/maps/search/Coffee+Bear/@35.3377036,25.1253522?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Drops Of Coffee",
-                "link": "https://www.google.com/maps/search/Drops+Of+Coffee/@35.3256604,25.1386447?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 102,
-                "rating": 4.2,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Espresso Shop",
-                "link": "https://www.google.com/maps/search/Espresso+Shop/@35.3205975,25.1149237?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 95,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee Lab Heraklion",
-                "link": "https://www.google.com/maps/search/Coffee+Lab+Heraklion/@35.332670199999995,25.114060799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "http://www.starbucks.com.gr/",
-        "owner": {
-            "id": "118216343520227223538",
-            "name": "Starbucks (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118216343520227223538"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOxktqlkrUX4INL62qqYBY0uLRGJm1rk5CSxl7W=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.1,
-        "workday_timing": "08:30-21:30",
-        "closed_on": "Open All Days",
-        "phone": "+30 281 031 4620",
-        "address": "Starbucks, Sophokle Benizelou, Iraklio 713 03Xi La ",
-        "review_keywords": [
-            {
-                "keyword": "Hai ",
-                "count": 8
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 5
-            },
-            {
-                "keyword": "Pin Zhi ",
-                "count": 4
-            },
-            {
-                "keyword": "Zhuo ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x149a5a217646d18d:0x96d4dfd6c0fe46c8!8m2!3d35.3404873!4d25.1197503!16s%2Fg%2F11b6df7bry!19sChIJjdFGdiFamhQRyEb-wNbf1JY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJM1J3hwJZmhQRluKsHbxm6jc",
@@ -1386,7 +1452,7 @@
             {
                 "name": "Choco Coffee",
                 "link": "https://www.google.com/maps/search/Choco+Coffee/@35.335854399999995,25.134160899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
+                "reviews": 125,
                 "rating": 3.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -1412,7 +1478,9 @@
         "rating": 4.7,
         "workday_timing": "07:00-02:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Liu "
         ],
         "phone": "+30 281 032 5000",
         "address": "Coco cafe 89, Leof. 62 Martiron 109, Iraklio 713 04Xi La ",
@@ -1437,40 +1505,40 @@
         "name": "Dizzy Coffee - Bar & Food",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 743,
+        "reviews": 746,
         "competitors": [
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 965,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Eridanos cafe-bar-bistro",
                 "link": "https://www.google.com/maps/search/%CE%97%CF%81%CE%B9%CE%B4%CE%B1%CE%BD%CF%8C%CF%82+cafe-bar-bistro/@35.3391522,25.134230000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 620,
+                "reviews": 621,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Hub cafe+lounge",
                 "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 467,
-                "rating": 4.4,
+                "reviews": 466,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Feggari Cafe Bar",
                 "link": "https://www.google.com/maps/search/Feggari+Cafe+Bar/@35.3354725,25.1185153?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 61,
+                "reviews": 60,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             }
@@ -1512,26 +1580,26 @@
         "name": "Olla Coffee House & Easy Meal",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 702,
+        "reviews": 703,
         "competitors": [
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Dizzy Coffee - Bar & Food",
                 "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
+                "reviews": 745,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -1586,7 +1654,7 @@
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -1665,14 +1733,14 @@
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "PLASTELINA",
                 "link": "https://www.google.com/maps/search/PLASTELINA/@35.3395631,25.1351626?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 985,
+                "reviews": 986,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -1686,7 +1754,7 @@
             {
                 "name": "The Whistler Espresso Bar & More",
                 "link": "https://www.google.com/maps/search/The+Whistler+Espresso+Bar+%26+More/@35.3398009,25.134553300000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 394,
+                "reviews": 395,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1744,21 +1812,21 @@
             {
                 "name": "Utopia",
                 "link": "https://www.google.com/maps/search/Utopia/@35.340266799999995,25.1310368?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2399,
+                "reviews": 2405,
                 "rating": 4.6,
                 "main_category": "Qiao Ke Li Ka Pei Guan "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -1834,33 +1902,33 @@
         "name": "Eridanos cafe-bar-bistro",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 620,
+        "reviews": 621,
         "competitors": [
             {
                 "name": "Utopia",
                 "link": "https://www.google.com/maps/search/Utopia/@35.340266799999995,25.1310368?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2399,
+                "reviews": 2405,
                 "rating": 4.6,
                 "main_category": "Qiao Ke Li Ka Pei Guan "
             },
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Guernica",
                 "link": "https://www.google.com/maps/search/Guernica/@35.3397638,25.1308376?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 472,
+                "reviews": 474,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             }
@@ -1896,16 +1964,93 @@
         "link": "https://www.google.com/maps/place/%CE%97%CF%81%CE%B9%CE%B4%CE%B1%CE%BD%CF%8C%CF%82+cafe-bar-bistro/data=!4m7!3m6!1s0x149a5a2e7cbcaab5:0x3e9197b3f49c81ce!8m2!3d35.3391522!4d25.13423!16s%2Fg%2F1tv40mpy!19sChIJtaq8fC5amhQRzoGc9LOXkT4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJjyiuUtJbmhQRf5TYqCGSt3Y",
+        "name": "Steam Single Origin Coffees",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 580,
+        "competitors": [
+            {
+                "name": "Crop",
+                "link": "https://www.google.com/maps/search/Crop/@35.3395472,25.1358064?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1201,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Indigo",
+                "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 967,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Frankly cafe",
+                "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 853,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Arch coffee and food",
+                "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 662,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Latte coffe & street food",
+                "link": "https://www.google.com/maps/search/Latte+coffe+%26+street+food/@35.338730399999996,25.1405022?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 160,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/Steam-Single-Origin-Coffees-168945243477825/",
+        "owner": {
+            "id": "112079701247205677488",
+            "name": "Steam Single Origin Coffees (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112079701247205677488"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPCcd6uJG6O-CiGsbvYqAR5Z30FGyEmtfm51dXO=w408-h271-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+30 281 301 7012",
+        "address": "Steam Single Origin Coffees, Leof. Ikarou 64, Iraklio 713 07Xi La ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 5
+            },
+            {
+                "keyword": "Xiang Zhen ",
+                "count": 4
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Steam+Single+Origin+Coffees/data=!4m7!3m6!1s0x149a5bd252ae288f:0x76b79221a8d8947f!8m2!3d35.3387635!4d25.1450408!16s%2Fg%2F11gblbhw0q!19sChIJjyiuUtJbmhQRf5TYqCGSt3Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJozRHIyxamhQRaL6RhtXTGqg",
         "name": "626 All Day Lounge & City Garden",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 557,
+        "reviews": 556,
         "competitors": [
             {
                 "name": "Veranda",
                 "link": "https://www.google.com/maps/search/Veranda/@35.338865999999996,25.1330569?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1388,
+                "reviews": 1391,
                 "rating": 4.3,
                 "main_category": "Ji Wei Jiu Jiu Ba "
             },
@@ -1919,14 +2064,14 @@
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Domes All Day Cafe Bar & Restaurant",
                 "link": "https://www.google.com/maps/search/Domes+All+Day+Cafe+Bar+%26+Restaurant/@35.3401731,25.1336418?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 436,
+                "reviews": 437,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -1984,7 +2129,7 @@
         "name": "Granary Espresso Bar & Eatery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 496,
+        "reviews": 499,
         "competitors": [
             {
                 "name": "Mare Coffee Bar & Food",
@@ -2003,21 +2148,21 @@
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Eridanos cafe-bar-bistro",
                 "link": "https://www.google.com/maps/search/%CE%97%CF%81%CE%B9%CE%B4%CE%B1%CE%BD%CF%8C%CF%82+cafe-bar-bistro/@35.3391522,25.134230000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 620,
+                "reviews": 621,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Fabrica Espresso Bar & Food",
                 "link": "https://www.google.com/maps/search/Fabrica+Espresso+Bar+%26+Food/@35.342513,25.1334473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 275,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -2055,6 +2200,10 @@
                 "count": 5
             },
             {
+                "keyword": "Sha La ",
+                "count": 5
+            },
+            {
                 "keyword": "Pi Jiu ",
                 "count": 4
             },
@@ -2083,15 +2232,15 @@
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Hub cafe+lounge",
                 "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 467,
-                "rating": 4.4,
+                "reviews": 466,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -2104,7 +2253,7 @@
             {
                 "name": "LAKU kafe",
                 "link": "https://www.google.com/maps/search/LAKU+kafe/@35.3096651,25.150102099999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
+                "reviews": 77,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -2141,12 +2290,12 @@
         "name": "THINK TANK",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 493,
+        "reviews": 492,
         "competitors": [
             {
                 "name": "Utopia",
                 "link": "https://www.google.com/maps/search/Utopia/@35.340266799999995,25.1310368?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2399,
+                "reviews": 2405,
                 "rating": 4.6,
                 "main_category": "Qiao Ke Li Ka Pei Guan "
             },
@@ -2160,22 +2309,22 @@
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Hub cafe+lounge",
                 "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 467,
-                "rating": 4.4,
+                "reviews": 466,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             }
         ],
@@ -2232,30 +2381,92 @@
         "link": "https://www.google.com/maps/place/THINK+TANK/data=!4m7!3m6!1s0x14a1a4aaceb4d2cf:0xf04c2732dd55fced!8m2!3d35.3393679!4d25.1350448!16s%2Fg%2F11b6ql_xl9!19sChIJz9K0zqqkoRQR7fxV3TInTPA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ8-yDP51ZmhQRh35lBzperN8",
+        "name": "Coffee Tree",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 470,
+        "competitors": [
+            {
+                "name": "Mosaiko",
+                "link": "https://www.google.com/maps/search/Mosaiko/@35.338015999999996,25.1340604?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 625,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kai Fei",
+                "link": "https://www.google.com/maps/search/K%C3%A0%CE%B9+F%C3%A8%CE%B9/@35.310789799999995,25.144031899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 127,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kerithra Iraklio",
+                "link": "https://www.google.com/maps/search/Kerithra+Iraklio/@35.3173104,25.1404876?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 84,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee tree",
+                "link": "https://www.google.com/maps/search/Coffee+tree/@35.3385698,25.144353199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Coffee Cups heraklion",
+                "link": "https://www.google.com/maps/search/Coffee+Cups+heraklion/@35.3122995,25.1429969?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 48,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "http://www.coffeetree.gr/",
+        "owner": {
+            "id": null,
+            "name": "Coffee Tree (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLJiMmv6xWTDAhYXeePK7qfvPPWzX4PY1HnRhs=w533-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 281 023 0260",
+        "address": "Coffee Tree, Leof. Papanastasiou 74, Iraklio 713 06Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Tree/data=!4m7!3m6!1s0x149a599d3f83ecf3:0xdfac5e3a07657e87!8m2!3d35.3196712!4d25.1385897!16s%2Fg%2F11bxfylpys!19sChIJ8-yDP51ZmhQRh35lBzperN8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJC8Ma1i5amhQR348HYk77vUE",
         "name": "Hub cafe+lounge",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 467,
+        "reviews": 466,
         "competitors": [
             {
                 "name": "Utopia",
                 "link": "https://www.google.com/maps/search/Utopia/@35.340266799999995,25.1310368?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2399,
+                "reviews": 2405,
                 "rating": 4.6,
                 "main_category": "Qiao Ke Li Ka Pei Guan "
             },
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 965,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2269,7 +2480,7 @@
             {
                 "name": "THINK TANK",
                 "link": "https://www.google.com/maps/search/THINK+TANK/@35.3393679,25.1350448?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 494,
+                "reviews": 492,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             }
@@ -2285,7 +2496,7 @@
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.4,
+        "rating": 4.5,
         "workday_timing": "08:00-00:30",
         "closed_on": "Open All Days",
         "phone": "+30 281 028 6550",
@@ -2314,6 +2525,10 @@
             {
                 "keyword": "Guo Zhi ",
                 "count": 3
+            },
+            {
+                "keyword": "Ping ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Hub+cafe%2Blounge/data=!4m7!3m6!1s0x149a5a2ed61ac30b:0x41bdfb4e62078fdf!8m2!3d35.3393474!4d25.1327377!16s%2Fg%2F11c53h3zqs!19sChIJC8Ma1i5amhQR348HYk77vUE?authuser=0&hl=zh-TW&rclk=1"
@@ -2328,21 +2543,21 @@
             {
                 "name": "Flocafe Espresso Room",
                 "link": "https://www.google.com/maps/search/Flocafe+Espresso+Room/@35.340537399999995,25.1199509?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 916,
+                "reviews": 919,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Mikel Coffee",
                 "link": "https://www.google.com/maps/search/Mikel+Coffee/@35.328699199999996,25.1377059?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 436,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -2407,7 +2622,7 @@
         "name": "Mikel Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 435,
+        "reviews": 436,
         "competitors": [
             {
                 "name": "ML Espresso bar",
@@ -2419,7 +2634,7 @@
             {
                 "name": "CUBEES",
                 "link": "https://www.google.com/maps/search/CUBEES/@35.325125,25.1204018?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 299,
+                "reviews": 301,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -2469,19 +2684,19 @@
         "name": "To Kaphe Biblio",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 396,
+        "reviews": 397,
         "competitors": [
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Dizzy Coffee - Bar & Food",
                 "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
+                "reviews": 745,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2495,7 +2710,7 @@
             {
                 "name": "Diporto",
                 "link": "https://www.google.com/maps/search/Diporto/@35.3243371,25.129507500000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 328,
+                "reviews": 329,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -2537,12 +2752,12 @@
         "name": "The Whistler Espresso Bar & More",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 394,
+        "reviews": 395,
         "competitors": [
             {
                 "name": "Dizzy Coffee - Bar & Food",
                 "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
+                "reviews": 745,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2556,21 +2771,21 @@
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Fabrica Espresso Bar & Food",
                 "link": "https://www.google.com/maps/search/Fabrica+Espresso+Bar+%26+Food/@35.342513,25.1334473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 275,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Take Five",
                 "link": "https://www.google.com/maps/search/Take+Five/@35.3385914,25.1356273?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 178,
+                "reviews": 177,
                 "rating": 4.8,
                 "main_category": "Jiu Ba "
             }
@@ -2625,12 +2840,12 @@
         "name": "CUBEES",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 300,
+        "reviews": 301,
         "competitors": [
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -2684,6 +2899,13 @@
         "is_spending_on_ads": false,
         "reviews": 291,
         "competitors": [
+            {
+                "name": "Gregory's",
+                "link": "https://www.google.com/maps/search/Gregory%27s/@35.3350884,25.1579719?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 545,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
             {
                 "name": "Coffee Island",
                 "link": "https://www.google.com/maps/search/Coffee+Island/@35.338388,25.157815?authuser=0&hl=zh-TW&entry=ttu",
@@ -2742,6 +2964,67 @@
         "link": "https://www.google.com/maps/place/Coffee+Berry/data=!4m7!3m6!1s0x149a5bdd58d3d1ed:0x678ef61e6f350c28!8m2!3d35.3372786!4d25.1641993!16s%2Fg%2F11hcvp3z1g!19sChIJ7dHTWN1bmhQRKAw1bx72jmc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ2WSoYtpbmhQR0Ak92Awk2h8",
+        "name": "Fabrica Espresso Bar & Food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 276,
+        "competitors": [],
+        "website": "https://fabrica-espresso-bar-food.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "112756664518243674221",
+            "name": "Fabrica Espresso Bar & Food (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112756664518243674221"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7LR3MtPTWuE3d3OUsKyLob1zTDFu730fYCqE=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Ji Wei Jiu Jiu Ba ",
+            "Zheng Liu Ka Pei Ba ",
+            "Shui Yan Hu Ba ",
+            "Xi Ban Ya Xiao Shi Jiu Ba "
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:30-23:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+30 281 028 0818",
+        "address": "Fabrica Espresso Bar & Food, Metsotake, Monis Agkarathou, Iraklio 712 02Xi La ",
+        "review_keywords": [
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 9
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 5
+            },
+            {
+                "keyword": "Fu Wu ",
+                "count": 4
+            },
+            {
+                "keyword": "Yin Le ",
+                "count": 4
+            },
+            {
+                "keyword": "Lu You ",
+                "count": 3
+            },
+            {
+                "keyword": "Xuan Ze ",
+                "count": 3
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Fabrica+Espresso+Bar+%26+Food/data=!4m7!3m6!1s0x149a5bda62a864d9:0x1fda240cd83d09d0!8m2!3d35.342513!4d25.1334473!16s%2Fg%2F11jq2m43c3!19sChIJ2WSoYtpbmhQR0Ak92Awk2h8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJYT10ICZamhQR0g5SIm9Uxzo",
         "name": "Coffee Island",
         "description": null,
@@ -2751,33 +3034,33 @@
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Coffee Land",
                 "link": "https://www.google.com/maps/search/Coffee+Land/@35.3358904,25.121048599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 65,
+                "reviews": 66,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Coffee Mill",
                 "link": "https://www.google.com/maps/search/Coffee+Mill/@35.338029999999996,25.1285369?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 19,
+                "reviews": 20,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://www.coffeeisland.gr/?utm_campaign=website&utm_medium=organic&utm_source=google",
+        "website": "https://www.coffeeisland.gr/%3Futm_campaign%3Dwebsite%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
         "owner": {
             "id": "104255061192622305630",
             "name": "Coffee Island (Ye Zhu )",
@@ -2806,12 +3089,12 @@
         "name": "Coco cafe 89",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 226,
+        "reviews": 227,
         "competitors": [
             {
                 "name": "Coffee Berry",
                 "link": "https://www.google.com/maps/search/Coffee+Berry/@35.3212111,25.1430506?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 319,
+                "reviews": 320,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2825,7 +3108,7 @@
             {
                 "name": "Choco Coffee",
                 "link": "https://www.google.com/maps/search/Choco+Coffee/@35.335854399999995,25.134160899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
+                "reviews": 125,
                 "rating": 3.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -2880,7 +3163,7 @@
             {
                 "name": "Favela",
                 "link": "https://www.google.com/maps/search/Favela/@35.3254142,25.129267799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1172,
+                "reviews": 1173,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -2935,7 +3218,7 @@
         "name": "Speira",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 220,
+        "reviews": 221,
         "competitors": [
             {
                 "name": "Samaria Delizioso",
@@ -3011,7 +3294,7 @@
             {
                 "name": "Coco cafe 89",
                 "link": "https://www.google.com/maps/search/Coco+cafe+89/@35.3345574,25.1164408?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 765,
+                "reviews": 766,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -3025,7 +3308,7 @@
             {
                 "name": "Choco Coffee",
                 "link": "https://www.google.com/maps/search/Choco+Coffee/@35.335854399999995,25.134160899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
+                "reviews": 125,
                 "rating": 3.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -3066,15 +3349,15 @@
             {
                 "name": "FIX",
                 "link": "https://www.google.com/maps/search/FIX/@35.339649300000005,25.1357967?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1172,
+                "reviews": 1173,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3087,14 +3370,14 @@
             {
                 "name": "The Whistler Espresso Bar & More",
                 "link": "https://www.google.com/maps/search/The+Whistler+Espresso+Bar+%26+More/@35.3398009,25.134553300000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 394,
+                "reviews": 395,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Stylvie Bar",
                 "link": "https://www.google.com/maps/search/Stylvie+Bar/@35.339272,25.132292099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 153,
+                "reviews": 154,
                 "rating": 3.6,
                 "main_category": "Jiu Ba "
             }
@@ -3134,7 +3417,7 @@
             {
                 "name": "Cretan Bakery Daily Cafe",
                 "link": "https://www.google.com/maps/search/Cretan+Bakery+Daily+Cafe/@35.312424899999996,25.1350791?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 934,
+                "reviews": 936,
                 "rating": 4.3,
                 "main_category": "Xi Dian "
             },
@@ -3186,7 +3469,7 @@
         "name": "John Coffee Market",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 158,
+        "reviews": 159,
         "competitors": [
             {
                 "name": "Snack Point",
@@ -3198,7 +3481,7 @@
             {
                 "name": "Kai Fei",
                 "link": "https://www.google.com/maps/search/K%C3%A0%CE%B9+F%C3%A8%CE%B9/@35.310789799999995,25.144031899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
+                "reviews": 127,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -3251,6 +3534,13 @@
         "reviews": 150,
         "competitors": [
             {
+                "name": "Gregory's",
+                "link": "https://www.google.com/maps/search/Gregory%27s/@35.3350884,25.1579719?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 545,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            },
+            {
                 "name": "Coffee Berry",
                 "link": "https://www.google.com/maps/search/Coffee+Berry/@35.3372786,25.1641993?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 291,
@@ -3260,7 +3550,7 @@
             {
                 "name": "KOSTIS Espresso Bar",
                 "link": "https://www.google.com/maps/search/KOSTIS+Espresso+Bar/@35.339143199999995,25.155822999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
+                "reviews": 284,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -3308,12 +3598,12 @@
         "name": "Rosetta Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 137,
+        "reviews": 136,
         "competitors": [
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -3359,35 +3649,35 @@
             {
                 "name": "Ntore Gastronomy",
                 "link": "https://www.google.com/maps/search/Ntor%C3%A9+Gastronomy/@35.33755,25.135755399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1214,
+                "reviews": 1218,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Eridanos cafe-bar-bistro",
                 "link": "https://www.google.com/maps/search/%CE%97%CF%81%CE%B9%CE%B4%CE%B1%CE%BD%CF%8C%CF%82+cafe-bar-bistro/@35.3391522,25.134230000000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 620,
+                "reviews": 621,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             }
@@ -3437,7 +3727,7 @@
             {
                 "name": "The Hood Street Cafe",
                 "link": "https://www.google.com/maps/search/The+Hood+Street+Cafe/@35.325518599999995,25.133432799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
+                "reviews": 64,
                 "rating": 4,
                 "main_category": "Wai Dai Ka Pei Zhuan Mai Dian "
             },
@@ -3526,79 +3816,16 @@
         "link": "https://www.google.com/maps/place/First+Coffee+Stop/data=!4m7!3m6!1s0x149a5998a46a969b:0x4e8493374a5fc108!8m2!3d35.3131827!4d25.1346156!16s%2Fg%2F11ggbnmwsq!19sChIJm5ZqpJhZmhQRCMFfSjeThE4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ1xF51C5amhQRQc30t0JH2l4",
-        "name": "Kosmich Bubble Tea & Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 120,
-        "competitors": [
-            {
-                "name": "Choco Coffee",
-                "link": "https://www.google.com/maps/search/Choco+Coffee/@35.337612799999995,25.1215738?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 217,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Choco Coffee",
-                "link": "https://www.google.com/maps/search/Choco+Coffee/@35.335854399999995,25.134160899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
-                "rating": 3.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "MOKA MOKA",
-                "link": "https://www.google.com/maps/search/MOKA+MOKA/@35.338813699999996,25.132417?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 109,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "COSMOPOLIT cafe",
-                "link": "https://www.google.com/maps/search/COSMOPOLIT+cafe/@35.3367623,25.134000399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 91,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tsichlaki coffee",
-                "link": "https://www.google.com/maps/search/Tsichlaki+coffee/@35.304054799999996,25.1522148?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://www.facebook.com/Kosmich-Bubble-Tea-Coffee-649869551762474/",
-        "owner": {
-            "id": "106462404934118114846",
-            "name": "Kosmich Bubble Tea & Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106462404934118114846"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOjfT6tn_AOu2UujeLjMIMOjoYUwfc6dkoEOEqM=w408-h305-k-no",
-        "main_category": "Zhen Zhu Nai Cha Dian ",
-        "categories": [
-            "Zhen Zhu Nai Cha Dian ",
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 4.5,
-        "workday_timing": "00:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 281 022 5970",
-        "address": "Kosmich Bubble Tea & Coffee, Pl. El. Venizelou 15, Iraklio 712 02Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Kosmich+Bubble+Tea+%26+Coffee/data=!4m7!3m6!1s0x149a5a2ed47911d7:0x5eda4742b7f4cd41!8m2!3d35.3393118!4d25.1328795!16s%2Fg%2F11bzt4hztx!19sChIJ1xF51C5amhQRQc30t0JH2l4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ57D4CylamhQRZqeNGk9pPDo",
         "name": "1866 Street Coffee Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 116,
+        "reviews": 118,
         "competitors": [
             {
                 "name": "Apellou coffee station",
                 "link": "https://www.google.com/maps/search/Apellou+coffee+station/@35.322010299999995,25.1142646?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
+                "reviews": 30,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -3646,27 +3873,27 @@
         "name": "Coffee Bear",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 115,
+        "reviews": 116,
         "competitors": [
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@35.3393574,25.134159399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 596,
+                "reviews": 597,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Hub cafe+lounge",
                 "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 467,
-                "rating": 4.4,
+                "reviews": 466,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3695,7 +3922,7 @@
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.5,
+        "rating": 4.4,
         "workday_timing": "05:30-21:00",
         "closed_on": [
             "Xing Qi Ri "
@@ -3747,69 +3974,6 @@
         "link": "https://www.google.com/maps/place/Small+Coffee+%26+Market/data=!4m7!3m6!1s0x149a598fc5443129:0x68033dde162f6771!8m2!3d35.3254825!4d25.1274533!16s%2Fg%2F11ggw7zctm!19sChIJKTFExY9ZmhQRcWcvFt49A2g?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJWyxnrKdZmhQRqRqU3c1FaE8",
-        "name": "Jerry's Coffee Erakleio , Kretes",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 106,
-        "competitors": [
-            {
-                "name": "Dizzy Coffee - Bar & Food",
-                "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Bear",
-                "link": "https://www.google.com/maps/search/Coffee+Bear/@35.3377036,25.1253522?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 115,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cherry's Coffee",
-                "link": "https://www.google.com/maps/search/Cherry%27s+Coffee/@35.3379951,25.146601699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Jerry's The Sweet Foodtruck | Erakleio",
-                "link": "https://www.google.com/maps/search/Jerry%27s+%CE%A4he+Sweet+Foodtruck+%7C+%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF/@35.3391632,25.1361082?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 4.1,
-                "main_category": "Tian Tian Quan "
-            },
-            {
-                "name": "Gia Kaphe",
-                "link": "https://www.google.com/maps/search/%CE%93%CE%B9%CE%B1+%CE%9A%CE%B1%CF%86%CE%AD/@35.330730599999995,25.1358885?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://jerrys-coffee.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
-        "owner": {
-            "id": "106822615252104743285",
-            "name": "Jerry's Coffee Erakleio , Kretes (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106822615252104743285"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTMaMH9hH86oUqCZs-sSSpCHVUryun6Y9xkby2=w408-h240-k-no-pi-21.335697-ya0.26792935-ro0.73637515-fo100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Kuai Di Gong Si "
-        ],
-        "rating": 4.9,
-        "workday_timing": "08:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 281 031 0110",
-        "address": "Jerry's Coffee Erakleio , Kretes, Kondilaki 1, Iraklio 713 05Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Jerry%E2%80%99s+Coffee+%CE%97%CF%81%CE%B1%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF+,+%CE%9A%CF%81%CE%B7%CF%84%CE%B7%CF%82/data=!4m7!3m6!1s0x149a59a7ac672c5b:0x4f6845cddd941aa9!8m2!3d35.3330953!4d25.1281364!16s%2Fg%2F11sl2l1qnp!19sChIJWyxnrKdZmhQRqRqU3c1FaE8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJlTyjTIJZmhQRpny5tJUxorQ",
         "name": "Drops Of Coffee",
         "description": null,
@@ -3819,7 +3983,7 @@
             {
                 "name": "Coffee Berry",
                 "link": "https://www.google.com/maps/search/Coffee+Berry/@35.3212111,25.1430506?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 319,
+                "reviews": 320,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -3865,73 +4029,73 @@
         "link": "https://www.google.com/maps/place/Drops+Of+Coffee/data=!4m7!3m6!1s0x149a59824ca33c95:0xb4a23195b4b97ca6!8m2!3d35.3256604!4d25.1386447!16s%2Fg%2F11g9vhqv8d!19sChIJlTyjTIJZmhQRpny5tJUxorQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJLQKKd3JbmhQRsVw_nIOHC_U",
-        "name": "Athena Food Coffee",
+        "place_id": "ChIJ51qQbClamhQR5J1Y4j0ejM4",
+        "name": "Coffeeway Crete",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 98,
+        "reviews": 99,
         "competitors": [
             {
-                "name": "Old Cafe",
-                "link": "https://www.google.com/maps/search/Old+Cafe/@35.3385679,25.1317523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 620,
-                "rating": 4.6,
-                "main_category": "Xiao Cai "
+                "name": "Coffee Island",
+                "link": "https://www.google.com/maps/search/Coffee+Island/@35.3346832,25.1347895?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 166,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Latte coffe & street food",
-                "link": "https://www.google.com/maps/search/Latte+coffe+%26+street+food/@35.338730399999996,25.1405022?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 160,
-                "rating": 4.4,
+                "name": "Espresso Shop",
+                "link": "https://www.google.com/maps/search/Espresso+Shop/@35.3205975,25.1149237?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 95,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "CoffeeWalk",
+                "link": "https://www.google.com/maps/search/CoffeeWalk/@35.341876899999995,25.1343279?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 3.9,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Aplo Cafe",
-                "link": "https://www.google.com/maps/search/Aplo+Cafe/@35.3212836,25.102731799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cooking",
-                "link": "https://www.google.com/maps/search/Cooking/@35.3387793,25.144201799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 3,
+                "name": "Athanassakis coffee",
+                "link": "https://www.google.com/maps/search/Athanassakis+coffee/@35.3367663,25.1335232?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 25,
+                "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://www.facebook.com/athina.food.coffee",
+        "website": "http://www.coffeeway.com/",
         "owner": {
-            "id": "114597751803614294654",
-            "name": "Athena Food Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114597751803614294654"
+            "id": "112738181274531741603",
+            "name": "Coffeeway Crete (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112738181274531741603"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSq3Y__eoIOWQJ_r7vYWu8vKJAUNRBJk-BcHef=w408-h306-k-no",
-        "main_category": "Can Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTC8g7EoJmY3AaU6P0pbRgiOx8nTPep4CCLdVQ=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Can Ting "
+            "Ka Pei Dian "
         ],
-        "rating": 4.4,
-        "workday_timing": "12:00-22:00",
+        "rating": 4.6,
+        "workday_timing": "07:30-15:30",
         "closed_on": [
             "Xing Qi Ri "
         ],
-        "phone": "+30 281 024 6537",
-        "address": "Athena Food Coffee, Leof. Ikarou 9, Iraklio 713 06Xi La ",
+        "phone": "+30 281 022 3163",
+        "address": "Coffeeway Crete, Giannitson 17, Iraklio 712 01Xi La ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/%CE%91%CE%B8%CE%B7%CE%BD%CE%B1+Food+Coffee/data=!4m7!3m6!1s0x149a5b72778a022d:0xf50b87839c3f5cb1!8m2!3d35.3388737!4d25.1414515!16s%2Fg%2F11gjnhtc9n!19sChIJLQKKd3JbmhQRsVw_nIOHC_U?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Coffeeway+Crete/data=!4m7!3m6!1s0x149a5a296c905ae7:0xce8c1e3de2589de4!8m2!3d35.337024!4d25.1342171!16s%2Fg%2F11cmqs517d!19sChIJ51qQbClamhQR5J1Y4j0ejM4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJGda630RZmhQRn9PuGzzL1zs",
         "name": "Nutree Fine Coffee & Local Deli Bites",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 97,
+        "reviews": 98,
         "competitors": [
             {
                 "name": "Coffee Berry",
                 "link": "https://www.google.com/maps/search/Coffee+Berry/@35.3212111,25.1430506?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 319,
+                "reviews": 320,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -3999,6 +4163,63 @@
         "link": "https://www.google.com/maps/place/Nutree+Fine+Coffee+%26+Local+Deli+Bites/data=!4m7!3m6!1s0x149a5944dfbad619:0x3bd7cb3c1beed39f!8m2!3d35.3080384!4d25.1512935!16s%2Fg%2F11srz10gmz!19sChIJGda630RZmhQRn9PuGzzL1zs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJLQKKd3JbmhQRsVw_nIOHC_U",
+        "name": "Athena Food Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 98,
+        "competitors": [
+            {
+                "name": "Old Cafe",
+                "link": "https://www.google.com/maps/search/Old+Cafe/@35.3385679,25.1317523?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 620,
+                "rating": 4.6,
+                "main_category": "Xiao Cai "
+            },
+            {
+                "name": "Latte coffe & street food",
+                "link": "https://www.google.com/maps/search/Latte+coffe+%26+street+food/@35.338730399999996,25.1405022?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 160,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Aplo Cafe",
+                "link": "https://www.google.com/maps/search/Aplo+Cafe/@35.3212836,25.102731799999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cooking",
+                "link": "https://www.google.com/maps/search/Cooking/@35.3387793,25.144201799999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 3,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/athina.food.coffee",
+        "owner": {
+            "id": "114597751803614294654",
+            "name": "Athena Food Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114597751803614294654"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSq3Y__eoIOWQJ_r7vYWu8vKJAUNRBJk-BcHef=w408-h306-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.4,
+        "workday_timing": "12:00-22:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+30 281 024 6537",
+        "address": "Athena Food Coffee, Leof. Ikarou 9, Iraklio 713 06Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%CE%91%CE%B8%CE%B7%CE%BD%CE%B1+Food+Coffee/data=!4m7!3m6!1s0x149a5b72778a022d:0xf50b87839c3f5cb1!8m2!3d35.3388737!4d25.1414515!16s%2Fg%2F11gjnhtc9n!19sChIJLQKKd3JbmhQRsVw_nIOHC_U?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJPetjhopZmhQR-oGwFBuPW_A",
         "name": "Espresso Shop",
         "description": null,
@@ -4008,7 +4229,7 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@35.3404873,25.1197503?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 838,
+                "reviews": 840,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -4022,7 +4243,7 @@
             {
                 "name": "Coffee Land",
                 "link": "https://www.google.com/maps/search/Coffee+Land/@35.3358904,25.121048599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 65,
+                "reviews": 66,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4080,7 +4301,7 @@
             {
                 "name": "Mr bruciato",
                 "link": "https://www.google.com/maps/search/Mr+bruciato/@35.3320988,25.1461409?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
+                "reviews": 8,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4092,7 +4313,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://m.facebook.com/Blue-Mountain-cafe-take-away-806545479726222/?notif_t=page_fan&notif_id=1616401358579776&ref=m_notif",
+        "website": "https://m.facebook.com/Blue-Mountain-cafe-take-away-806545479726222/%3Fnotif_t%3Dpage_fan%26notif_id%3D1616401358579776%26ref%3Dm_notif",
         "owner": {
             "id": "106968695962568080499",
             "name": "Blue Mountain Coffee Atmosphere (Ye Zhu )",
@@ -4186,12 +4407,12 @@
         "name": "Queen's coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 76,
+        "reviews": 77,
         "competitors": [
             {
                 "name": "Mikel Coffee",
                 "link": "https://www.google.com/maps/search/Mikel+Coffee/@35.328699199999996,25.1377059?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 434,
+                "reviews": 436,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
             },
@@ -4205,7 +4426,7 @@
             {
                 "name": "Queen Cafe",
                 "link": "https://www.google.com/maps/search/Queen+Cafe/@35.340198,25.1355819?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 239,
+                "reviews": 240,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -4260,14 +4481,14 @@
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Rosetta Cafe",
                 "link": "https://www.google.com/maps/search/Rosetta+Cafe/@35.3335181,25.1356999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 137,
+                "reviews": 136,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             }
@@ -4367,14 +4588,14 @@
             {
                 "name": "Phyllosophies",
                 "link": "https://www.google.com/maps/search/Phyllosophies/@35.3389727,25.1330673?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2358,
+                "reviews": 2360,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Granary Espresso Bar & Eatery",
                 "link": "https://www.google.com/maps/search/Granary+Espresso+Bar+%26+Eatery/@35.339653999999996,25.1332396?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 496,
+                "reviews": 498,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4425,7 +4646,7 @@
             {
                 "name": "Grigoris take away coffee shop",
                 "link": "https://www.google.com/maps/search/Grigoris+take+away+coffee+shop/@35.3327701,25.114240499999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 417,
+                "reviews": 418,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -4469,14 +4690,14 @@
             {
                 "name": "Utopia",
                 "link": "https://www.google.com/maps/search/Utopia/@35.340266799999995,25.1310368?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2399,
+                "reviews": 2405,
                 "rating": 4.6,
                 "main_category": "Qiao Ke Li Ka Pei Guan "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4600,7 +4821,7 @@
             {
                 "name": "Tender.gr Espresso Bar",
                 "link": "https://www.google.com/maps/search/Tender.gr+Espresso+Bar/@35.3330706,25.1351268?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
+                "reviews": 22,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
             }
@@ -4650,7 +4871,7 @@
             {
                 "name": "Queen's coffee",
                 "link": "https://www.google.com/maps/search/Queen%27s+coffee/@35.3366853,25.1475977?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
+                "reviews": 77,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4669,7 +4890,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "https://piesto-cafe.business.site/?utm_source=gmb&utm_medium=referral",
+        "website": "https://piesto-cafe.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
         "owner": {
             "id": "111735291194057722639",
             "name": "Cherry's Coffee (Ye Zhu )",
@@ -4698,7 +4919,7 @@
             {
                 "name": "Fabrica Espresso Bar & Food",
                 "link": "https://www.google.com/maps/search/Fabrica+Espresso+Bar+%26+Food/@35.342513,25.1334473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 275,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -4743,19 +4964,19 @@
         "name": "Crop Oasi",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 30,
+        "reviews": 29,
         "competitors": [
             {
                 "name": "Favela",
                 "link": "https://www.google.com/maps/search/Favela/@35.3254142,25.129267799999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1172,
+                "reviews": 1173,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -4798,7 +5019,7 @@
             {
                 "name": "Choco Coffee",
                 "link": "https://www.google.com/maps/search/Choco+Coffee/@35.3199828,25.102555?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
+                "reviews": 137,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -4887,14 +5108,14 @@
             {
                 "name": "Kai Fei",
                 "link": "https://www.google.com/maps/search/K%C3%A0%CE%B9+F%C3%A8%CE%B9/@35.310789799999995,25.144031899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
+                "reviews": 127,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Apple cafe",
                 "link": "https://www.google.com/maps/search/Apple+cafe/@35.3319325,25.1441768?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
+                "reviews": 82,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4949,7 +5170,7 @@
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -4977,7 +5198,7 @@
             {
                 "name": "Mr bruciato",
                 "link": "https://www.google.com/maps/search/Mr+bruciato/@35.3320988,25.1461409?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
+                "reviews": 8,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
             }
@@ -5053,8 +5274,8 @@
         "rating": 5,
         "workday_timing": "09:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+30 281 400 6369",
         "address": "Coffee Group, Meteoron 12, Iraklio 713 07Xi La ",
@@ -5071,7 +5292,7 @@
             {
                 "name": "Container Cafe",
                 "link": "https://www.google.com/maps/search/Container+Cafe/@35.3326106,25.1400075?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 216,
+                "reviews": 217,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -5111,42 +5332,13 @@
         "rating": 3.7,
         "workday_timing": "08:30-16:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+30 281 022 8700",
         "address": "Coffee Cloud, Leof. Eth. Antistaseos 47, Iraklio 713 06Xi La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Coffee+Cloud/data=!4m7!3m6!1s0x149a59c6322891f1:0x936bcb63222b8669!8m2!3d35.3314442!4d25.1395195!16s%2Fg%2F11jjm1hcrz!19sChIJ8ZEoMsZZmhQRaYYrImPLa5M?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJc8uUlN1bmhQRx3XBQrNJ8rQ",
-        "name": "MANOLO Bakery Bar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": "https://www.manolobakerybar.gr/",
-        "owner": {
-            "id": "115444008059483819687",
-            "name": "MANOLO Bakery Bar (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115444008059483819687"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNW0ZJgQqHAKUmB9BHeeNSgTTz9F0hfRAf0hOR4=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "05:00-14:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "MANOLO Bakery Bar, Doukos Mpofor 7, Iraklio 712 02Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/MANOLO+Bakery+Bar/data=!4m7!3m6!1s0x149a5bdd9494cb73:0xb4f249b342c175c7!8m2!3d35.3406623!4d25.1383796!16s%2Fg%2F11kq8ck_l6!19sChIJc8uUlN1bmhQRx3XBQrNJ8rQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJj9CFd6dbmhQRbHDBrT6OjOE",
@@ -5206,6 +5398,32 @@
         "link": "https://www.google.com/maps/place/Espressoshop+Dimokratias/data=!4m7!3m6!1s0x149a5ba77785d08f:0xe18c8e3eadc1706c!8m2!3d35.3359931!4d25.1389996!16s%2Fg%2F11hzymrkzk!19sChIJj9CFd6dbmhQRbHDBrT6OjOE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJVapzXCtbmhQRkEu2a8EjhOk",
+        "name": "IMK Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": "https://www.historical-museum.gr/eng/visitors/view/imk-kafe%3Ffbclid%3DIwAR0t9-xxYtdfVXDDkS3ZGWfsWYbBf6IFVKZrXv8PCB_chL_vBS0H3AFDnF0",
+        "owner": {
+            "id": null,
+            "name": "IMK Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJXrprVaIesQfma23Nw8PHX7M0Nb_MUBZXNYDh=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "IMK Cafe, Michelidaki, Iraklio 712 02Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/IMK+Caf%C3%A9/data=!4m7!3m6!1s0x149a5b2b5c73aa55:0xe98423c16bb64b90!8m2!3d35.3417831!4d25.1310548!16s%2Fg%2F11vd8gbz_f!19sChIJVapzXCtbmhQRkEu2a8EjhOk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJm59gWmkDDYMRhcYp-lKH8aM",
         "name": "Coffee island heraklio",
         "description": null,
@@ -5233,70 +5451,6 @@
         "link": "https://www.google.com/maps/place/Coffee+island+heraklio/data=!4m7!3m6!1s0x830d03695a609f9b:0xa3f18752fa29c685!8m2!3d35.3220164!4d25.1350708!16s%2Fg%2F11v0q2cs2w!19sChIJm59gWmkDDYMRhcYp-lKH8aM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ9wRtmHNbmhQRiW4rkWVZ2Sc",
-        "name": "Coffee Tree",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "KOSTIS Espresso Bar",
-                "link": "https://www.google.com/maps/search/KOSTIS+Espresso+Bar/@35.339143199999995,25.155822999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Choco Coffee",
-                "link": "https://www.google.com/maps/search/Choco+Coffee/@35.3388443,25.155963699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 168,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee Island",
-                "link": "https://www.google.com/maps/search/Coffee+Island/@35.338388,25.157815?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 150,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Coffee tree",
-                "link": "https://www.google.com/maps/search/Coffee+tree/@35.3385698,25.144353199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Dream Coffee and Snacks",
-                "link": "https://www.google.com/maps/search/Dream+Coffee+and+Snacks/@35.3425358,25.1552899?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://m.facebook.com/pages/category/Cafe/Coffee-tree-229089853861451/",
-        "owner": {
-            "id": null,
-            "name": "Coffee Tree (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CQQQlbqMaN-yhlCzP047pQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=344.14917&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-20:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+30 281 022 7013",
-        "address": "Coffee Tree, 1922, Nea Alikarnassos 716 01Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+Tree/data=!4m7!3m6!1s0x149a5b73986d04f7:0x27d95965912b6e89!8m2!3d35.3342033!4d25.1590418!16s%2Fg%2F11swjx_252!19sChIJ9wRtmHNbmhQRiW4rkWVZ2Sc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJgb_Mcd9ZmhQRv7az4-iQimE",
         "name": "CafesRichardCrete",
         "description": null,
@@ -5306,28 +5460,28 @@
             {
                 "name": "Cafe Marina",
                 "link": "https://www.google.com/maps/search/Cafe+Marina/@35.3427545,25.1369035?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2098,
+                "reviews": 2097,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Diporto",
                 "link": "https://www.google.com/maps/search/Diporto/@35.3243371,25.129507500000003?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 328,
+                "reviews": 329,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "CUBEES",
                 "link": "https://www.google.com/maps/search/CUBEES/@35.325125,25.1204018?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 299,
+                "reviews": 301,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -5353,8 +5507,8 @@
         "rating": null,
         "workday_timing": "08:30-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+30 693 498 2598",
         "address": "CafesRichardCrete, Limnis Kourna 20, Iraklio 713 04Xi La ",
@@ -5371,7 +5525,7 @@
             {
                 "name": "Steam Single Origin Coffees",
                 "link": "https://www.google.com/maps/search/Steam+Single+Origin+Coffees/@35.3387635,25.1450408?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 578,
+                "reviews": 579,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -5424,16 +5578,91 @@
         "link": "https://www.google.com/maps/place/Origin+Espresso+Company/data=!4m7!3m6!1s0x149a592306b724ef:0xc08b8f9462604808!8m2!3d35.3142051!4d25.0987857!16s%2Fg%2F11h68y22my!19sChIJ7yS3BiNZmhQRCEhgYpSPi8A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ23LnHCxamhQRphlyMQWIWw4",
+        "name": "FIX",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1173,
+        "competitors": [
+            {
+                "name": "Dizzy Coffee - Bar & Food",
+                "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 745,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Starbucks",
+                "link": "https://www.google.com/maps/search/Starbucks/@35.3393574,25.134159399999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 597,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Hub cafe+lounge",
+                "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 466,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Take Five",
+                "link": "https://www.google.com/maps/search/Take+Five/@35.3385914,25.1356273?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 177,
+                "rating": 4.8,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Latte coffe & street food",
+                "link": "https://www.google.com/maps/search/Latte+coffe+%26+street+food/@35.338730399999996,25.1405022?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 160,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "100891039725867747805",
+            "name": "FIX (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/100891039725867747805"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFnElGgTZt1RaaBytu8NiDZLoJqQKIXQ-BpXP2=w502-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-02:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 281 028 9023",
+        "address": "FIX, Aretousas 2, Iraklio 712 02Xi La ",
+        "review_keywords": [
+            {
+                "keyword": "Yin Le ",
+                "count": 9
+            },
+            {
+                "keyword": "Pi Jiu ",
+                "count": 7
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/FIX/data=!4m7!3m6!1s0x149a5a2c1ce772db:0xe5b8805317219a6!8m2!3d35.3396493!4d25.1357967!16s%2Fg%2F11bxf9qk_s!19sChIJ23LnHCxamhQRphlyMQWIWw4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJAQAw0i5amhQRy6pwLPoi_MM",
         "name": "Kirkor",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 959,
+        "reviews": 960,
         "competitors": [
             {
                 "name": "Phyllosophies",
                 "link": "https://www.google.com/maps/search/Phyllosophies/@35.3389727,25.1330673?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2358,
+                "reviews": 2360,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -5447,14 +5676,14 @@
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -5519,16 +5748,78 @@
         "link": "https://www.google.com/maps/place/Kirk%C3%B3r/data=!4m7!3m6!1s0x149a5a2ed2300001:0xc3fc22fa2c70aacb!8m2!3d35.3390326!4d25.1329899!16s%2Fg%2F11bv5ty4c4!19sChIJAQAw0i5amhQRy6pwLPoi_MM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJNa_L6CJZmhQRVn8BVH6ohXw",
+        "name": "Arch coffee and food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 663,
+        "competitors": [
+            {
+                "name": "Crop",
+                "link": "https://www.google.com/maps/search/Crop/@35.3395472,25.1358064?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1201,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Indigo",
+                "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 967,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Mosaiko",
+                "link": "https://www.google.com/maps/search/Mosaiko/@35.338015999999996,25.1340604?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 625,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Hub cafe+lounge",
+                "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 466,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee Bear",
+                "link": "https://www.google.com/maps/search/Coffee+Bear/@35.3377036,25.1253522?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 116,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "118226136781644020664",
+            "name": "Arch coffee and food (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/118226136781644020664"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMbCzbsGdMJzYLttDwxRsInziGoJWlB7YetM2U=w408-h408-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-01:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Arch coffee and food, Therisou and Kondulaki, Iraklio 713 04Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arch+coffee+and+food/data=!4m7!3m6!1s0x149a5922e8cbaf35:0x7c85a87e54017f56!8m2!3d35.3293992!4d25.1192429!16s%2Fg%2F11h57mms2m!19sChIJNa_L6CJZmhQRVn8BVH6ohXw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJq_TD0ShamhQR0LzovxhootU",
         "name": "Old Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 620,
+        "reviews": 621,
         "competitors": [
             {
                 "name": "The cafe of Kagiampi",
                 "link": "https://www.google.com/maps/search/The+cafe+of+Kagiampi/@35.336162200000004,25.1313817?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 838,
+                "reviews": 839,
                 "rating": 4.7,
                 "main_category": "Xiao Cai "
             },
@@ -5603,7 +5894,7 @@
         "name": "Domes All Day Cafe Bar & Restaurant",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 436,
+        "reviews": 437,
         "competitors": [],
         "website": null,
         "owner": {
@@ -5666,11 +5957,102 @@
         "link": "https://www.google.com/maps/place/Domes+All+Day+Cafe+Bar+%26+Restaurant/data=!4m7!3m6!1s0x149a5b9ecce6d3d7:0x4835426de3bfc597!8m2!3d35.3401731!4d25.1336418!16s%2Fg%2F11j3rrtfbp!19sChIJ19PmzJ5bmhQRl8W_421CNUg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJpxUqIyxamhQRYuiKNtCCjPg",
+        "name": "Kapheneio",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 352,
+        "competitors": [
+            {
+                "name": "The cafe of Kagiampi",
+                "link": "https://www.google.com/maps/search/The+cafe+of+Kagiampi/@35.336162200000004,25.1313817?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 839,
+                "rating": 4.7,
+                "main_category": "Xiao Cai "
+            },
+            {
+                "name": "Kafenion To Smari",
+                "link": "https://www.google.com/maps/search/Kafenion+To+Smari/@35.3342915,25.1336516?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 354,
+                "rating": 4.5,
+                "main_category": "Xi La Cai "
+            },
+            {
+                "name": "Kapheneion \"Phouskas\"",
+                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5%CE%BD%CE%B5%E1%BF%96%CE%BF%CE%BD+%22%CE%A6%CE%BF%CF%8D%CF%83%CE%BA%CE%B1%CF%82%22/@35.3379244,25.1277904?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 315,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "kafeneio O PONTIOS",
+                "link": "https://www.google.com/maps/search/kafeneio+O+PONTIOS/@35.341803299999995,25.131364899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 263,
+                "rating": 4.7,
+                "main_category": "Xiao Cai "
+            },
+            {
+                "name": "Kafeneio O Ntokos",
+                "link": "https://www.google.com/maps/search/Kafeneio+O+Ntokos/@35.3367779,25.1330416?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 65,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "106617164058891434626",
+            "name": "Kapheneio (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106617164058891434626"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOUcIjqNOem2C2uodILipSBgWVYuVjIPe_EW0=w408-h265-k-no",
+        "main_category": "Jiu Ba ",
+        "categories": [
+            "Jiu Ba "
+        ],
+        "rating": 4.5,
+        "workday_timing": "11:00-02:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 281 034 4248",
+        "address": "Kapheneio, Idomeneos 21, Iraklio 712 02Xi La ",
+        "review_keywords": [
+            {
+                "keyword": "Shou Gong Pi Jiu ",
+                "count": 12
+            },
+            {
+                "keyword": "Xuan Ze ",
+                "count": 6
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 6
+            },
+            {
+                "keyword": "Sha La ",
+                "count": 5
+            },
+            {
+                "keyword": "Shu ",
+                "count": 4
+            },
+            {
+                "keyword": "Zhuo ",
+                "count": 4
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kaphene%C3%ADo/data=!4m7!3m6!1s0x149a5a2c232a15a7:0xf88c82d0368ae862!8m2!3d35.3396503!4d25.1363055!16s%2Fg%2F11dzsx92ww!19sChIJpxUqIyxamhQRYuiKNtCCjPg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ-4AuendZmhQR_zgrZ_2Jh0c",
         "name": "Coffee Berry",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 319,
+        "reviews": 320,
         "competitors": [
             {
                 "name": "Coco cafe 89",
@@ -5750,7 +6132,7 @@
             {
                 "name": "Koumakis",
                 "link": "https://www.google.com/maps/search/Koumakis/@35.335087699999995,25.138929700000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 757,
+                "reviews": 759,
                 "rating": 4.4,
                 "main_category": "Xi Dian "
             },
@@ -5764,7 +6146,7 @@
             {
                 "name": "Queen Cafe",
                 "link": "https://www.google.com/maps/search/Queen+Cafe/@35.340198,25.1355819?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 236,
+                "reviews": 240,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -5778,7 +6160,7 @@
             {
                 "name": "Queen's coffee",
                 "link": "https://www.google.com/maps/search/Queen%27s+coffee/@35.3366853,25.1475977?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 76,
+                "reviews": 77,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -5841,21 +6223,21 @@
             {
                 "name": "Hacienda.",
                 "link": "https://www.google.com/maps/search/Hacienda./@35.3308542,25.133703?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2373,
+                "reviews": 2377,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Cafe Marina",
                 "link": "https://www.google.com/maps/search/Cafe+Marina/@35.3427545,25.1369035?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2098,
+                "reviews": 2097,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -5925,7 +6307,7 @@
             {
                 "name": "KOSTIS Espresso Bar",
                 "link": "https://www.google.com/maps/search/KOSTIS+Espresso+Bar/@35.339143199999995,25.155822999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
+                "reviews": 284,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -5939,14 +6321,14 @@
             {
                 "name": "Choco Coffee",
                 "link": "https://www.google.com/maps/search/Choco+Coffee/@35.335854399999995,25.134160899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
+                "reviews": 125,
                 "rating": 3.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "MACO COFFEE HOUSE",
                 "link": "https://www.google.com/maps/search/MACO+COFFEE+HOUSE/@35.33786990000001,25.1605861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 66,
+                "reviews": 67,
                 "rating": 5,
                 "main_category": "Ka Pei Ting "
             },
@@ -5987,21 +6369,21 @@
             {
                 "name": "Frankly cafe",
                 "link": "https://www.google.com/maps/search/Frankly+cafe/@35.3378909,25.1312116?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 851,
+                "reviews": 853,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Steam Single Origin Coffees",
                 "link": "https://www.google.com/maps/search/Steam+Single+Origin+Coffees/@35.3387635,25.1450408?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 578,
+                "reviews": 579,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Fabrica Espresso Bar & Food",
                 "link": "https://www.google.com/maps/search/Fabrica+Espresso+Bar+%26+Food/@35.342513,25.1334473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 266,
+                "reviews": 275,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -6060,8 +6442,8 @@
             {
                 "name": "Hub cafe+lounge",
                 "link": "https://www.google.com/maps/search/Hub+cafe%2Blounge/@35.3393474,25.1327377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 467,
-                "rating": 4.4,
+                "reviews": 466,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -6115,7 +6497,7 @@
             {
                 "name": "Coco cafe 89",
                 "link": "https://www.google.com/maps/search/Coco+cafe+89/@35.3345574,25.1164408?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 765,
+                "reviews": 766,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -6177,14 +6559,14 @@
             {
                 "name": "News Cafe",
                 "link": "https://www.google.com/maps/search/News+Cafe/@35.3397654,25.133061?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1131,
-                "rating": 4.4,
+                "reviews": 1132,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Arch coffee and food",
                 "link": "https://www.google.com/maps/search/Arch+coffee+and+food/@35.3293992,25.1192429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 660,
+                "reviews": 662,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -6234,7 +6616,7 @@
             {
                 "name": "Coco cafe 89",
                 "link": "https://www.google.com/maps/search/Coco+cafe+89/@35.3345574,25.1164408?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 765,
+                "reviews": 766,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -6255,7 +6637,7 @@
             {
                 "name": "COSMOPOLIT cafe",
                 "link": "https://www.google.com/maps/search/COSMOPOLIT+cafe/@35.3367623,25.134000399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 91,
+                "reviews": 92,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             }
@@ -6289,7 +6671,7 @@
             {
                 "name": "KOSTIS Espresso Bar",
                 "link": "https://www.google.com/maps/search/KOSTIS+Espresso+Bar/@35.339143199999995,25.155822999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
+                "reviews": 284,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -6348,12 +6730,12 @@
         "name": "Prime Coffee And More",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 84,
+        "reviews": 85,
         "competitors": [
             {
                 "name": "Dizzy Coffee - Bar & Food",
                 "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
+                "reviews": 745,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6367,7 +6749,7 @@
             {
                 "name": "Tender.gr Espresso Bar",
                 "link": "https://www.google.com/maps/search/Tender.gr+Espresso+Bar/@35.3330706,25.1351268?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
+                "reviews": 22,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
             },
@@ -6403,7 +6785,7 @@
         "name": "Apple cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 81,
+        "reviews": 82,
         "competitors": [
             {
                 "name": "Kaphe <<Kale Kardia>> Manoles Robithes",
@@ -6415,7 +6797,7 @@
             {
                 "name": "Kathemerino kaphe",
                 "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CF%8C+%CE%BA%CE%B1%CF%86%CE%AD/@35.332650099999995,25.1462857?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
+                "reviews": 40,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6429,7 +6811,7 @@
             {
                 "name": "Apellou coffee station",
                 "link": "https://www.google.com/maps/search/Apellou+coffee+station/@35.322010299999995,25.1142646?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
+                "reviews": 30,
                 "rating": 4.9,
                 "main_category": "Ka Pei Ting "
             },
@@ -6480,7 +6862,7 @@
             {
                 "name": "Choco Coffee",
                 "link": "https://www.google.com/maps/search/Choco+Coffee/@35.335854399999995,25.134160899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
+                "reviews": 125,
                 "rating": 3.6,
                 "main_category": "Ka Pei Dian "
             },
@@ -6528,6 +6910,54 @@
         "link": "https://www.google.com/maps/place/Coco+cafe+89/data=!4m7!3m6!1s0x149a5bf3f67494dd:0xff7c48042adb7d6f!8m2!3d35.339325!4d25.1333456!16s%2Fg%2F11s38s17nt!19sChIJ3ZR09vNbmhQRb33bKgRIfP8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJm22GR3VZmhQR0OX0bywk0MI",
+        "name": "Coffee Cups heraklion",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "competitors": [
+            {
+                "name": "Coffee Tree",
+                "link": "https://www.google.com/maps/search/Coffee+Tree/@35.3196712,25.138589699999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 470,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kai Fei",
+                "link": "https://www.google.com/maps/search/K%C3%A0%CE%B9+F%C3%A8%CE%B9/@35.310789799999995,25.144031899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 127,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee Cup",
+                "link": "https://www.google.com/maps/search/Coffee+Cup/@35.328925,25.3064508?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "108873111432272488562",
+            "name": "Coffee Cups heraklion (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108873111432272488562"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMvbTJyHOUzhPjxUXfvAaVWMKYbsP4ZT91b5-8=w408-h725-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+30 281 023 6181",
+        "address": "Coffee Cups heraklion, Leof. Papanastasiou 165, Iraklio 714 09Xi La ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Cups+heraklion/data=!4m7!3m6!1s0x149a597547866d9b:0xc2d0242c6ff4e5d0!8m2!3d35.3122995!4d25.1429969!16s%2Fg%2F11c74kmdw5!19sChIJm22GR3VZmhQR0OX0bywk0MI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ3w82aXlZmhQRMVfXCAsKlKY",
         "name": "Blend Coffee",
         "description": null,
@@ -6537,7 +6967,7 @@
             {
                 "name": "Dizzy Coffee - Bar & Food",
                 "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
+                "reviews": 745,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6551,7 +6981,7 @@
             {
                 "name": "Coffee Land",
                 "link": "https://www.google.com/maps/search/Coffee+Land/@35.3358904,25.121048599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 65,
+                "reviews": 66,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6639,7 +7069,10 @@
         ],
         "rating": 4.9,
         "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+30 281 032 5432",
         "address": "CHRISTOFIS GEORGE D., Erithreas 67, Iraklio 714 09Xi La ",
         "review_keywords": [],
@@ -6665,7 +7098,9 @@
         ],
         "rating": 5,
         "workday_timing": "07:00-00:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+30 281 022 3308",
         "address": "the batch, Stilianou ke Nikoalou Giamalaki 50, Iraklio 712 02Xi La ",
         "review_keywords": [],
@@ -6681,7 +7116,7 @@
             {
                 "name": "Cretan Bakery Daily Cafe",
                 "link": "https://www.google.com/maps/search/Cretan+Bakery+Daily+Cafe/@35.312424899999996,25.1350791?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 934,
+                "reviews": 936,
                 "rating": 4.3,
                 "main_category": "Xi Dian "
             },
@@ -6724,8 +7159,15 @@
         "name": "Apellou coffee station",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 29,
+        "reviews": 30,
         "competitors": [
+            {
+                "name": "1866 Street Coffee Bar",
+                "link": "https://www.google.com/maps/search/1866+Street+Coffee+Bar/@35.3365491,25.133781199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 118,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
             {
                 "name": "The CupFather",
                 "link": "https://www.google.com/maps/search/The+CupFather/@35.32385440000001,25.115745099999998?authuser=0&hl=zh-TW&entry=ttu",
@@ -6734,16 +7176,9 @@
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "1866 Street Coffee Bar",
-                "link": "https://www.google.com/maps/search/1866+Street+Coffee+Bar/@35.3365491,25.133781199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 116,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
                 "name": "Apple cafe",
                 "link": "https://www.google.com/maps/search/Apple+cafe/@35.3319325,25.1441768?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 81,
+                "reviews": 82,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -6816,7 +7251,7 @@
         "name": "Tender.gr Espresso Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 21,
+        "reviews": 22,
         "competitors": [
             {
                 "name": "Bon cafe Heraklion",
@@ -6905,14 +7340,14 @@
             {
                 "name": "Indigo",
                 "link": "https://www.google.com/maps/search/Indigo/@35.3403445,25.1340064?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 966,
+                "reviews": 967,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Dizzy Coffee - Bar & Food",
                 "link": "https://www.google.com/maps/search/Dizzy+Coffee+-+Bar+%26+Food/@35.3270008,25.1287014?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 744,
+                "reviews": 745,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -6974,7 +7409,7 @@
             {
                 "name": "KOSTIS Espresso Bar",
                 "link": "https://www.google.com/maps/search/KOSTIS+Espresso+Bar/@35.339143199999995,25.155822999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 281,
+                "reviews": 284,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -7029,7 +7464,7 @@
             {
                 "name": "Kai Fei",
                 "link": "https://www.google.com/maps/search/K%C3%A0%CE%B9+F%C3%A8%CE%B9/@35.310789799999995,25.144031899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 126,
+                "reviews": 127,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -7082,54 +7517,6 @@
         "address": "Coffee beans, Papapetrou Gavala 61, Iraklio 714 09Xi La ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Coffee+beans/data=!4m7!3m6!1s0x149a59f4269da95f:0x74a95357f5f4ce51!8m2!3d35.3125207!4d25.1374645!16s%2Fg%2F11fmh6t_x4!19sChIJX6mdJvRZmhQRUc709VdTqXQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJZfhiui1ZmhQR7sfHm-iBxmw",
-        "name": "MP COFFEE",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "ML Espresso bar",
-                "link": "https://www.google.com/maps/search/ML+Espresso+bar/@35.337475399999995,25.1358133?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 450,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "My Coffee",
-                "link": "https://www.google.com/maps/search/My+Coffee/@35.336555499999996,25.1347593?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kaphe poa",
-                "link": "https://www.google.com/maps/search/%CE%9A%CE%B1%CF%86%CE%B5+%CF%80%CE%BF%CE%B1/@35.3246803,25.1340291?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.6,
-                "main_category": "Xiao Cai "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "MP COFFEE (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1M_0mMhMt9DUmHYf5NGYhjJTeVhXg16tzwoD0=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 5,
-        "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+30 281 600 7534",
-        "address": "MP COFFEE, Mones 2, Iraklio 714 09Xi La ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/MP+COFFEE/data=!4m7!3m6!1s0x149a592dba62f865:0x6cc681e89bc7c7ee!8m2!3d35.3075059!4d25.1490711!16s%2Fg%2F11rd8fqg6q!19sChIJZfhiui1ZmhQR7sfHm-iBxmw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ_6dXsj9ZmhQR2owT160sCBA",
