@@ -4,12 +4,12 @@
         "name": "McDonald's Turu",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 5200,
+        "reviews": 5202,
         "competitors": [
             {
-                "name": "Hesburger",
-                "link": "https://www.google.com/maps/search/Hesburger/@58.38080219999999,26.7251835?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 747,
+                "name": "Hesburger Raekoja plats",
+                "link": "https://www.google.com/maps/search/Hesburger+Raekoja+plats/@58.38080219999999,26.7251835?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 749,
                 "rating": 3.9,
                 "main_category": "Kuai Can "
             },
@@ -23,14 +23,14 @@
             {
                 "name": "Humal",
                 "link": "https://www.google.com/maps/search/Humal/@58.376789499999994,26.727442999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 245,
+                "reviews": 247,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "KFC Tasku",
                 "link": "https://www.google.com/maps/search/KFC+Tasku/@58.3777702,26.7302541?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 192,
+                "reviews": 193,
                 "rating": 3.2,
                 "main_category": "Can Ting "
             },
@@ -108,7 +108,7 @@
         "name": "La Dolce Vita",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 2714,
+        "reviews": 2716,
         "competitors": [
             {
                 "name": "Vapiano Tartu",
@@ -120,21 +120,21 @@
             {
                 "name": "Chez Andre",
                 "link": "https://www.google.com/maps/search/Chez+Andre/@58.380883999999995,26.7214445?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 652,
+                "reviews": 654,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Da Vinci Pasta & Pizza",
                 "link": "https://www.google.com/maps/search/Da+Vinci+Pasta+%26+Pizza/@58.3778461,26.730162699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 576,
+                "reviews": 578,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Humal",
                 "link": "https://www.google.com/maps/search/Humal/@58.376789499999994,26.727442999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 245,
+                "reviews": 247,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             }
@@ -188,10 +188,6 @@
                 "count": 8
             },
             {
-                "keyword": "carbonara",
-                "count": 7
-            },
-            {
                 "keyword": "Qian Ceng Mian ",
                 "count": 6
             },
@@ -212,7 +208,7 @@
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -226,7 +222,7 @@
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -303,12 +299,12 @@
         "name": "Crepp",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1000,
+        "reviews": 999,
         "competitors": [
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -328,8 +324,8 @@
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -355,7 +351,11 @@
         ],
         "rating": 4.6,
         "workday_timing": "11:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+372 742 2133",
         "address": "Crepp, Ruutli 16, 51007 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [
@@ -365,11 +365,11 @@
             },
             {
                 "keyword": "Sha La ",
-                "count": 45
+                "count": 46
             },
             {
                 "keyword": "Song Bing ",
-                "count": 38
+                "count": 39
             },
             {
                 "keyword": "atmosphere",
@@ -395,23 +395,103 @@
         "link": "https://www.google.com/maps/place/Crepp/data=!4m7!3m6!1s0x46eb36e6c3b48a3d:0xbfc9c789dc2fbe6!8m2!3d58.381903!4d26.721284!16s%2Fg%2F1w6r6zfs!19sChIJPYq0w-Y260YR5vvCnXic_As?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJwR4Xa94260YRdtZvST7iaIw",
+        "name": "Gustav Gastro Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 855,
+        "competitors": [
+            {
+                "name": "Humal",
+                "link": "https://www.google.com/maps/search/Humal/@58.376789499999994,26.727442999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 247,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "V Cafe",
+                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 185,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Green Room Cafe",
+                "link": "https://www.google.com/maps/search/Green+Room+Cafe/@58.380421399999996,26.727433200000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 131,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Tartu Kohvik",
+                "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 72,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://gustavgastro.ee/",
+        "owner": {
+            "id": null,
+            "name": "Gustav Gastro Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCAaxRPdGdKmxpFYVpI11bhQIjIQiPMpIQXRyf=w408-h306-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+372 5323 1747",
+        "address": "Gustav Gastro Cafe, Riia 1, 51004 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Dan Gao ",
+                "count": 35
+            },
+            {
+                "keyword": "Ka Pei ",
+                "count": 23
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 10
+            },
+            {
+                "keyword": "Han Bao ",
+                "count": 8
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 4
+            },
+            {
+                "keyword": "Wu Can ",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Gustav+Gastro+Cafe/data=!4m7!3m6!1s0x46eb36de6b171ec1:0x8c68e23e496fd676!8m2!3d58.3778643!4d26.7266237!16s%2Fg%2F11cjkpkt08!19sChIJwR4Xa94260YRdtZvST7iaIw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ-UJGNOc260YRTOSTTa9DfF0",
         "name": "Truffe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 793,
+        "reviews": 794,
         "competitors": [
             {
                 "name": "Taverna Pizzeria",
                 "link": "https://www.google.com/maps/search/Taverna+Pizzeria/@58.3807977,26.7246551?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1021,
+                "reviews": 1022,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -425,14 +505,14 @@
             {
                 "name": "JOYCE",
                 "link": "https://www.google.com/maps/search/JOYCE/@58.3768943,26.7288914?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 679,
+                "reviews": 680,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             }
@@ -483,16 +563,16 @@
                 "count": 6
             },
             {
+                "keyword": "Wu Can ",
+                "count": 6
+            },
+            {
                 "keyword": "Pi Jiu ",
                 "count": 5
             },
             {
                 "keyword": "Zhu Guo Tou ",
                 "count": 4
-            },
-            {
-                "keyword": "Dun Fan ",
-                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Truffe/data=!4m7!3m6!1s0x46eb36e7344642f9:0x5d7c43af4d93e44c!8m2!3d58.3805556!4d26.7238889!16s%2Fg%2F1tdh2kg3!19sChIJ-UJGNOc260YRTOSTTa9DfF0?authuser=0&hl=zh-TW&rclk=1"
@@ -502,19 +582,19 @@
         "name": "Krempel",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 724,
+        "reviews": 725,
         "competitors": [
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -528,7 +608,7 @@
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -607,12 +687,12 @@
         "name": "JOYCE",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 679,
+        "reviews": 681,
         "competitors": [
             {
                 "name": "Gunpowder Cellar of Tartu",
                 "link": "https://www.google.com/maps/search/Gunpowder+Cellar+of+Tartu/@58.37921,26.719074?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3092,
+                "reviews": 3101,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -624,17 +704,17 @@
                 "main_category": "Can Ting "
             },
             {
-                "name": "Humal",
-                "link": "https://www.google.com/maps/search/Humal/@58.376789499999994,26.727442999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 245,
-                "rating": 4.5,
+                "name": "Restoran Holm",
+                "link": "https://www.google.com/maps/search/Restoran+H%C3%B5lm/@58.379531799999995,26.721723599999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 248,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
-                "name": "Restoran Holm",
-                "link": "https://www.google.com/maps/search/Restoran+H%C3%B5lm/@58.379531799999995,26.721723599999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 245,
-                "rating": 4.8,
+                "name": "Humal",
+                "link": "https://www.google.com/maps/search/Humal/@58.376789499999994,26.727442999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 247,
+                "rating": 4.5,
                 "main_category": "Can Ting "
             }
         ],
@@ -710,7 +790,7 @@
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -738,7 +818,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -749,7 +829,7 @@
             "name": "Reval Cafe Riia mnt (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/108110525916340712159"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPH47rFCk8o57Iz5DOzw4Jec1byjSzMH61o5Jhx=w408-h306-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOCRCQ1MZkPmcedFYknPrdj1f-w9xiAzV3mk7uA=w408-h306-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian ",
@@ -757,7 +837,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.5,
-        "workday_timing": "07:30-20:00",
+        "workday_timing": "10:00-19:00",
         "closed_on": "Open All Days",
         "phone": "+372 745 1560",
         "address": "Reval Cafe Riia mnt, Riia 4, 51004 Tartu, Ai Sha Ni Ya ",
@@ -779,6 +859,10 @@
                 "count": 3
             },
             {
+                "keyword": "Sha La ",
+                "count": 3
+            },
+            {
                 "keyword": "Qia Bu Qi Nuo ",
                 "count": 3
             }
@@ -790,19 +874,19 @@
         "name": "Cafe Shakespeare",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 643,
+        "reviews": 644,
         "competitors": [
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -816,7 +900,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -832,7 +916,7 @@
         "categories": [
             "Ka Pei Ting "
         ],
-        "rating": 4.6,
+        "rating": 4.5,
         "workday_timing": "11:00-22:00",
         "closed_on": "Open All Days",
         "phone": "+372 744 0140",
@@ -859,111 +943,48 @@
                 "count": 3
             },
             {
-                "keyword": "Sha La ",
+                "keyword": "Tian Dian ",
                 "count": 3
             },
             {
-                "keyword": "Tian Dian ",
+                "keyword": "Sha La ",
                 "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Shakespeare/data=!4m7!3m6!1s0x46eb36dfd4690777:0x376ad8ae89a78bf!8m2!3d58.3765806!4d26.7239771!16s%2Fg%2F1w15y3p0!19sChIJdwdp1N8260YRv3ia6IqtdgM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJDc4UmHI360YRlhaqrGIwvko",
-        "name": "Lounakeskuse Taluturg",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 584,
-        "competitors": [
-            {
-                "name": "Lounakeskus",
-                "link": "https://www.google.com/maps/search/L%C3%B5unakeskus/@58.3587956,26.677128399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14244,
-                "rating": 4.7,
-                "main_category": "Gou Wu Zhong Xin "
-            },
-            {
-                "name": "Tartu Lounakeskuse Rimi hyper",
-                "link": "https://www.google.com/maps/search/Tartu+L%C3%B5unakeskuse+Rimi+hyper/@58.3582267,26.6749954?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3114,
-                "rating": 4.5,
-                "main_category": "Da Xing Chao Ji Shi Chang "
-            },
-            {
-                "name": "Tartu Lounakeskuse Maksimarket",
-                "link": "https://www.google.com/maps/search/Tartu+L%C3%B5unakeskuse+Maksimarket/@58.3575909,26.6781148?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2513,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Looduspere Lounakeskus",
-                "link": "https://www.google.com/maps/search/Looduspere+L%C3%B5unakeskus/@58.358040200000005,26.6774989?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 3.3,
-                "main_category": "Tian Ran Shi Pin Dian "
-            },
-            {
-                "name": "Tartu Lounakeskuse sokolaadipood",
-                "link": "https://www.google.com/maps/search/Tartu+L%C3%B5unakeskuse+%C5%A1okolaadipood/@58.358328,26.6782149?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 2,
-                "main_category": "Zhu Gu Li Dian "
-            }
-        ],
-        "website": "https://taluturg.ee/",
-        "owner": {
-            "id": "111300512807511115817",
-            "name": "Lounakeskuse Taluturg (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/111300512807511115817"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPooOJ_SE2x07cPffc9WtUhguFmzjQ7k79Y5Fux=w408-h272-k-no",
-        "main_category": "Nong Chan Pin Shi Chang ",
-        "categories": [
-            "Nong Chan Pin Shi Chang ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.6,
-        "workday_timing": "10:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+372 553 4002",
-        "address": "Lounakeskuse Taluturg, Ringtee 75, 50501 Tartu, Ai Sha Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/L%C3%B5unakeskuse+Taluturg/data=!4m7!3m6!1s0x46eb37729814ce0d:0x4abe3062acaa1696!8m2!3d58.3581407!4d26.6786475!16s%2Fg%2F1v3kg5pv!19sChIJDc4UmHI360YRlhaqrGIwvko?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJKzfIM-c260YRBJdMNAxYwvk",
         "name": "Pierre Chocolaterie",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 569,
+        "reviews": 570,
         "competitors": [
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Shakespeare",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Shakespeare/@58.3765806,26.7239771?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 643,
-                "rating": 4.6,
+                "reviews": 644,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -1025,12 +1046,12 @@
         "name": "Kohvik Spargel",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 567,
+        "reviews": 568,
         "competitors": [
             {
                 "name": "Truffe",
                 "link": "https://www.google.com/maps/search/Truffe/@58.3805556,26.7238889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 792,
+                "reviews": 794,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -1044,14 +1065,14 @@
             {
                 "name": "Restoran Holm",
                 "link": "https://www.google.com/maps/search/Restoran+H%C3%B5lm/@58.379531799999995,26.721723599999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 245,
+                "reviews": 248,
                 "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -1076,9 +1097,15 @@
             "Ka Pei Ting "
         ],
         "rating": 4.6,
-        "workday_timing": "12:00-15:00, 16:00-22:00",
+        "workday_timing": null,
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 735 3911",
         "address": "Kohvik Spargel, Kalevi 13, 51010 Tartu, Ai Sha Ni Ya ",
@@ -1131,12 +1158,12 @@
         "name": "Tartu Pihlaka kohvik",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 476,
+        "reviews": 477,
         "competitors": [
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1149,8 +1176,8 @@
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1187,12 +1214,8 @@
         "address": "Tartu Pihlaka kohvik, Poe 10, 51004 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [
             {
-                "keyword": "Gao ",
-                "count": 7
-            },
-            {
-                "keyword": "Tian Dian ",
-                "count": 7
+                "keyword": "Dan Gao ",
+                "count": 23
             },
             {
                 "keyword": "Jia Ge ",
@@ -1215,7 +1238,7 @@
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1229,14 +1252,14 @@
             {
                 "name": "Cafe Shakespeare",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Shakespeare/@58.3765806,26.7239771?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 643,
-                "rating": 4.6,
+                "reviews": 644,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1305,33 +1328,33 @@
         "name": "Beckeri Pub",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 396,
+        "reviews": 397,
         "competitors": [
             {
                 "name": "NAIIV Tartu",
                 "link": "https://www.google.com/maps/search/NAIIV+Tartu/@58.382568,26.725086299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 648,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "The Irish Embassy Pub Tartu",
                 "link": "https://www.google.com/maps/search/The+Irish+Embassy+Pub+Tartu/@58.380499900000004,26.7229028?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 453,
+                "reviews": 456,
                 "rating": 4.3,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Chaplin pubi",
                 "link": "https://www.google.com/maps/search/Chaplin+pubi/@58.37833419999999,26.7248423?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 364,
+                "reviews": 367,
                 "rating": 4.5,
                 "main_category": "Jiu Ba "
             },
             {
                 "name": "Trepp",
                 "link": "https://www.google.com/maps/search/Trepp/@58.3819297,26.721323500000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 280,
+                "reviews": 281,
                 "rating": 4.4,
                 "main_category": "Jiu Ba "
             },
@@ -1358,8 +1381,8 @@
         "rating": 4.6,
         "workday_timing": "10:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 526 6928",
         "address": "Beckeri Pub, Lembitu 1E, 50406 Tartu, Ai Sha Ni Ya ",
@@ -1380,7 +1403,7 @@
         "name": "Karlova Kohv",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 392,
+        "reviews": 393,
         "competitors": [
             {
                 "name": "Reval Cafe Riia mnt",
@@ -1398,8 +1421,8 @@
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -1413,7 +1436,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -1443,6 +1466,10 @@
                 "count": 12
             },
             {
+                "keyword": "Kao ",
+                "count": 10
+            },
+            {
                 "keyword": "Hu ",
                 "count": 8
             },
@@ -1451,11 +1478,11 @@
                 "count": 6
             },
             {
-                "keyword": "Qia Bu Qi Nuo ",
-                "count": 4
+                "keyword": "Dou ",
+                "count": 5
             },
             {
-                "keyword": "Dou ",
+                "keyword": "Qia Bu Qi Nuo ",
                 "count": 4
             },
             {
@@ -1475,21 +1502,21 @@
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Cafe Shakespeare",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Shakespeare/@58.3765806,26.7239771?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 643,
-                "rating": 4.6,
+                "reviews": 644,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1560,7 +1587,7 @@
         "name": "Saialill bakery",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 342,
+        "reviews": 343,
         "competitors": [
             {
                 "name": "Sefiiritordid",
@@ -1613,8 +1640,8 @@
         "rating": 4.8,
         "workday_timing": "09:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+372 5553 4222",
         "address": "Saialill bakery, Variku 8, 50110 Tartu, Ai Sha Ni Ya ",
@@ -1638,7 +1665,7 @@
             {
                 "name": "Tartu Pihlaka kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Pihlaka+kohvik/@58.3799887,26.725151399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 476,
+                "reviews": 477,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -1678,8 +1705,10 @@
         "rating": 4.4,
         "workday_timing": "07:30-15:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 742 4784",
         "address": "The Tulip Cafe, Tulbi 2, 50407 Tartu, Ai Sha Ni Ya ",
@@ -1701,7 +1730,7 @@
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1814,10 +1843,15 @@
             "Gao Bing Dian "
         ],
         "rating": 4.8,
-        "workday_timing": "07:00-19:00",
+        "workday_timing": null,
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 5680 5585",
         "address": "Koogipood Mandel, Veski 5a, 51005 Tartu, Ai Sha Ni Ya ",
@@ -1834,7 +1868,7 @@
         "name": "Anna Edasi",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 253,
+        "reviews": 254,
         "competitors": [
             {
                 "name": "Sade kohviteek",
@@ -1872,7 +1906,9 @@
         "rating": 4.8,
         "workday_timing": "11:00-18:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+372 514 6920",
         "address": "Anna Edasi, Tahe 20, 50103 Tartu, Ai Sha Ni Ya ",
@@ -1901,6 +1937,71 @@
         "link": "https://www.google.com/maps/place/Anna+Edasi/data=!4m7!3m6!1s0x46eb37272b9bf889:0x31c0e00ab784ee75!8m2!3d58.3702889!4d26.7277344!16s%2Fg%2F1trvk39l!19sChIJifibKyc360YRde6EtwrgwDE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJjbGCAM0260YR9NAVQIPR7D8",
+        "name": "Terminal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 237,
+        "competitors": [
+            {
+                "name": "Kivilinna Konsum",
+                "link": "https://www.google.com/maps/search/Kivilinna+Konsum/@58.37953530000001,26.764717899999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 981,
+                "rating": 4.1,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Olerex Tartu Jaama ATM/pood",
+                "link": "https://www.google.com/maps/search/Olerex+Tartu+Jaama+ATM%2Fpood/@58.381141199999995,26.7543854?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 282,
+                "rating": 4.3,
+                "main_category": "You Zhan "
+            },
+            {
+                "name": "Terminal Emajoe teenindusjaam",
+                "link": "https://www.google.com/maps/search/Terminal+Emaj%C3%B5e+teenindusjaam/@58.36856,26.7453549?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 67,
+                "rating": 4.4,
+                "main_category": "You Zhan "
+            },
+            {
+                "name": "Omniva Tartu Kivilinna Coop Konsumi pakiautomaat",
+                "link": "https://www.google.com/maps/search/Omniva+Tartu+Kivilinna+Coop+Konsumi+pakiautomaat/@58.37951,26.764322999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Wu Liu Fu Wu "
+            },
+            {
+                "name": "Kivilinna",
+                "link": "https://www.google.com/maps/search/Kivilinna/@58.380005399999995,26.7638765?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Gong Che Zhan "
+            }
+        ],
+        "website": "https://terminaloil.ee/",
+        "owner": {
+            "id": "111335239361078565973",
+            "name": "Terminal (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111335239361078565973"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVr0UD6JR4k3GkGn2tqSIqnDQWlKj1YxI5p5cj=w426-h240-k-no",
+        "main_category": "You Zhan ",
+        "categories": [
+            "You Zhan ",
+            "Ka Pei Ji Gong Ying Shang ",
+            "Ka Pei Dian ",
+            "Kuai Can Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": "+372 748 4600",
+        "address": "Terminal, Jaama 173a, 50605 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Terminal/data=!4m7!3m6!1s0x46eb36cd0082b18d:0x3fecd1834015d0f4!8m2!3d58.3796728!4d26.7660873!16s%2Fg%2F1tlbmvf2!19sChIJjbGCAM0260YR9NAVQIPR7D8?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJO4mg1-Y260YRg2oVGKai2nE",
         "name": "Kohvipaus Tartu",
         "description": null,
@@ -1910,7 +2011,7 @@
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -1924,7 +2025,7 @@
             {
                 "name": "Karlova Kohv",
                 "link": "https://www.google.com/maps/search/Karlova+Kohv/@58.3666918,26.7295536?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 392,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -1957,9 +2058,13 @@
         ],
         "rating": 4.7,
         "workday_timing": "07:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+372 5684 0328",
-        "address": "Kohvipaus Tartu, Ruutli 8, 51007 Tartu, Ai Sha Ni Ya ",
+        "address": "Kohvipaus Tartu, Estonia Ruutli 8, 51005 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [
             {
                 "keyword": "Sha La ",
@@ -1986,70 +2091,7 @@
                 "count": 4
             }
         ],
-        "link": "https://www.google.com/maps/place/Kohvipaus+Tartu/data=!4m7!3m6!1s0x46eb36e6d7a0893b:0x71daa2a618156a83!8m2!3d58.3811176!4d26.7219459!16s%2Fg%2F11c3sxtrw0!19sChIJO4mg1-Y260YRg2oVGKai2nE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJbzpilJ8360YRZiq4wA0Z5Fo",
-        "name": "Plantarium by Jardin",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 224,
-        "competitors": [
-            {
-                "name": "Gardest",
-                "link": "https://www.google.com/maps/search/Gardest/@58.396390499999995,26.684023200000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1390,
-                "rating": 4.6,
-                "main_category": "Yuan Yi Dian "
-            },
-            {
-                "name": "Juhani Puukool - Tartu Istikuari",
-                "link": "https://www.google.com/maps/search/Juhani+Puukool+-+Tartu+Istiku%C3%A4ri/@58.36874169999999,26.7975487?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 426,
-                "rating": 4.7,
-                "main_category": "Yuan Yi Dian "
-            },
-            {
-                "name": "Juhani Puukool - Marja Istikuari",
-                "link": "https://www.google.com/maps/search/Juhani+Puukool+-+M%C3%A4rja+Istiku%C3%A4ri/@58.362821100000005,26.658076599999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 95,
-                "rating": 4.8,
-                "main_category": "Yuan Yi Dian "
-            },
-            {
-                "name": "Tartu Maarahva Pood",
-                "link": "https://www.google.com/maps/search/Tartu+Maarahva+Pood/@58.37944069999999,26.7339281?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 5,
-                "main_category": "Yuan Yi Dian "
-            },
-            {
-                "name": "Taimekuller OU",
-                "link": "https://www.google.com/maps/search/Taimekuller+O%C3%9C/@58.28957989999999,26.685858999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Yuan Yi Dian "
-            }
-        ],
-        "website": "http://www.plantarium.ee/",
-        "owner": {
-            "id": "113319730187824314436",
-            "name": "Plantarium by Jardin (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113319730187824314436"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPzNhGSJvKRG7pDYrjobZZnWMOLMfZ1zHLUQWdd=w408-h544-k-no",
-        "main_category": "Yuan Yi Dian ",
-        "categories": [
-            "Yuan Yi Dian ",
-            "Ka Pei Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "09:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": "+372 5681 9177",
-        "address": "Plantarium by Jardin, Filosoofi 3, 50108 Tartu, Ai Sha Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Plantarium+by+Jardin/data=!4m7!3m6!1s0x46eb379f94623a6f:0x5ae4190dc0b82a66!8m2!3d58.370514!4d26.7187562!16s%2Fg%2F1v96kgxv!19sChIJbzpilJ8360YRZiq4wA0Z5Fo?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Kohvipaus+Tartu/data=!4m7!3m6!1s0x46eb36e6d7a0893b:0x71daa2a618156a83!8m2!3d58.3811761!4d26.7218246!16s%2Fg%2F11c3sxtrw0!19sChIJO4mg1-Y260YRg2oVGKai2nE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJNR_21SY360YRUucaUfCR56s",
@@ -2068,7 +2110,7 @@
             {
                 "name": "Anna Edasi",
                 "link": "https://www.google.com/maps/search/Anna+Edasi/@58.3702889,26.7277344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
+                "reviews": 254,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2127,19 +2169,19 @@
         "name": "Perfecto Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 194,
+        "reviews": 195,
         "competitors": [
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Truffe",
                 "link": "https://www.google.com/maps/search/Truffe/@58.3805556,26.7238889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 792,
+                "reviews": 794,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -2160,7 +2202,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -2201,7 +2243,7 @@
             {
                 "name": "Gustav Gastro Cafe",
                 "link": "https://www.google.com/maps/search/Gustav+Gastro+Cafe/@58.377864300000006,26.726623699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 854,
+                "reviews": 855,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -2215,21 +2257,21 @@
             {
                 "name": "Karlova Kohv",
                 "link": "https://www.google.com/maps/search/Karlova+Kohv/@58.3666918,26.7295536?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 392,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -2280,7 +2322,7 @@
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2327,8 +2369,8 @@
         "rating": 4.4,
         "workday_timing": "09:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 733 0500",
         "address": "Metrola Toidubaar, Tahe 135, 50107 Tartu, Ai Sha Ni Ya ",
@@ -2345,21 +2387,21 @@
             {
                 "name": "Kolm Tilli",
                 "link": "https://www.google.com/maps/search/Kolm+Tilli/@58.370385899999995,26.716548099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1574,
+                "reviews": 1577,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Da Vinci Pasta & Pizza",
                 "link": "https://www.google.com/maps/search/Da+Vinci+Pasta+%26+Pizza/@58.3778461,26.730162699999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 576,
+                "reviews": 578,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "PizzaMinisteerium",
                 "link": "https://www.google.com/maps/search/PizzaMinisteerium/@58.389058,26.732709?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 194,
+                "reviews": 195,
                 "rating": 4.6,
                 "main_category": "Yi Shi Bo Bing "
             },
@@ -2387,8 +2429,8 @@
         "rating": 4.8,
         "workday_timing": "12:00-18:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+372 740 4141",
         "address": "MyItaly Toidustuudio, Lutsu 3, 51006 Tartu, Ai Sha Ni Ya ",
@@ -2413,7 +2455,7 @@
         "name": "BubblyBoba Bubble Tea",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 142,
+        "reviews": 143,
         "competitors": [
             {
                 "name": "V Cafe",
@@ -2473,12 +2515,12 @@
         "name": "Cruffin Saiatehas",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 120,
+        "reviews": 121,
         "competitors": [
             {
                 "name": "Saialill bakery",
                 "link": "https://www.google.com/maps/search/Saialill+bakery/@58.3535731,26.710808399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 342,
+                "reviews": 343,
                 "rating": 4.8,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2524,7 +2566,10 @@
         ],
         "rating": 4.7,
         "workday_timing": "10:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+372 5617 1021",
         "address": "Cruffin Saiatehas, Kastani 42, 50410 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [
@@ -2576,7 +2621,7 @@
             {
                 "name": "The Tulip Cafe",
                 "link": "https://www.google.com/maps/search/The+Tulip+Cafe/@58.37361370000001,26.6906875?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 328,
+                "reviews": 329,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -2590,7 +2635,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -2615,10 +2660,15 @@
             "Ka Pei Dian "
         ],
         "rating": 4.6,
-        "workday_timing": "08:00-15:00",
+        "workday_timing": null,
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 5911 7888",
         "address": "Teaduspargi kohvik, Riia 181a, 51014 Tartu, Ai Sha Ni Ya ",
@@ -2630,19 +2680,19 @@
         "name": "Toome Kohvik",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 109,
+        "reviews": 110,
         "competitors": [
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Anna Edasi",
                 "link": "https://www.google.com/maps/search/Anna+Edasi/@58.3702889,26.7277344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
+                "reviews": 254,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -2682,7 +2732,9 @@
         "rating": 4.8,
         "workday_timing": "08:00-18:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+372 716 8015",
         "address": "Toome Kohvik, Karl Ernst von Baeri, 51005 Tartu, Ai Sha Ni Ya ",
@@ -2704,7 +2756,7 @@
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2725,7 +2777,7 @@
             {
                 "name": "Tartu Pihlaka kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Pihlaka+kohvik/@58.3799887,26.725151399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 476,
+                "reviews": 477,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -2750,11 +2802,77 @@
         ],
         "rating": 4.2,
         "workday_timing": "07:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+372 611 9044",
         "address": "Reval Cafe Paju, Paju 2, 50603 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Reval+Caf%C3%A9+Paju/data=!4m7!3m6!1s0x46eb37a331f5c0c1:0x3475e72ae92833a!8m2!3d58.3789291!4d26.7388936!16s%2Fg%2F11hswz3px7!19sChIJwcD1MaM360YROoOSrnJeRwM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJgX-4UB8360YRj8FztkPYy_M",
+        "name": "Hektor Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 100,
+        "competitors": [
+            {
+                "name": "Cafe-restaurant Werner",
+                "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2133,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Gustav Gastro Cafe",
+                "link": "https://www.google.com/maps/search/Gustav+Gastro+Cafe/@58.377864300000006,26.726623699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 855,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Reval Cafe Riia mnt",
+                "link": "https://www.google.com/maps/search/Reval+Caf%C3%A9+Riia+mnt/@58.3768207,26.727452099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 669,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "V Cafe",
+                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 185,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Tamme kohvik",
+                "link": "https://www.google.com/maps/search/Tamme+kohvik/@58.3652194,26.7139098?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://hektorhostels.com/et/kohvik-tartus/",
+        "owner": {
+            "id": "116625525601869907712",
+            "name": "Hektor Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116625525601869907712"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNb14t1aM_N_yk9840MsXTAAI0Pv22UF3q9FMxO=w408-h262-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+372 740 5560",
+        "address": "Hektor Cafe, Riia 26, 50405 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hektor+Cafe/data=!4m7!3m6!1s0x46eb371f50b87f81:0xf3cbd843b673c18f!8m2!3d58.3703191!4d26.7143361!16s%2Fg%2F11cp5jdhl8!19sChIJgX-4UB8360YRj8FztkPYy_M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJw2Yl1kY360YR6J-Yzb9IXCY",
@@ -2766,7 +2884,7 @@
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -2780,7 +2898,7 @@
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -2814,8 +2932,8 @@
         "rating": 4.4,
         "workday_timing": "09:00-15:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 552 9224",
         "address": "Kohvik Paul, Jaama 173a, 50705 Tartu, Ai Sha Ni Ya ",
@@ -2832,14 +2950,14 @@
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Ulikooli Kohvik / DRINKGELD",
                 "link": "https://www.google.com/maps/search/%C3%9Clikooli+Kohvik+%2F+DRINKGELD/@58.38162459999999,26.719976199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 304,
+                "reviews": 305,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -2853,7 +2971,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -2942,6 +3060,69 @@
         "link": "https://www.google.com/maps/place/BubblyBoba+Bubble+Tea+x+KVARTAL/data=!4m7!3m6!1s0x46eb37c82649906d:0x369c3aa5a71113b9!8m2!3d58.3770875!4d26.7294177!16s%2Fg%2F11s778zpgz!19sChIJbZBJJsg360YRuRMRp6U6nDY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJhVqwnt4260YRx6s7jJ0pIw4",
+        "name": "Tartu Kohvik",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 72,
+        "competitors": [
+            {
+                "name": "Reval Cafe Riia mnt",
+                "link": "https://www.google.com/maps/search/Reval+Caf%C3%A9+Riia+mnt/@58.3768207,26.727452099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 669,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kohvik Spargel",
+                "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 568,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Karlova Kohv",
+                "link": "https://www.google.com/maps/search/Karlova+Kohv/@58.3666918,26.7295536?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 392,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "V Cafe",
+                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 185,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Green Room Cafe",
+                "link": "https://www.google.com/maps/search/Green+Room+Cafe/@58.380421399999996,26.727433200000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 131,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://www.tartukohvik.ee/",
+        "owner": {
+            "id": "113800343026088797049",
+            "name": "Tartu Kohvik (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113800343026088797049"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8zcPofQEiqvImpDzg0hX3BiRf7ovlrTiuOhf7=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Can Ting "
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+372 730 4579",
+        "address": "Tartu Kohvik, Soola 3, 51013 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tartu+Kohvik/data=!4m7!3m6!1s0x46eb36de9eb05a85:0xe23299d8c3babc7!8m2!3d58.3775594!4d26.7332361!16s%2Fg%2F1v3klrtp!19sChIJhVqwnt4260YRx6s7jJ0pIw4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJVV_E-eE360YR6h9g7G2Iq-E",
         "name": "YumCha Bubble Tea",
         "description": null,
@@ -3010,150 +3191,6 @@
         "link": "https://www.google.com/maps/place/YumCha+Bubble+Tea/data=!4m7!3m6!1s0x46eb37e1f9c45f55:0xe1ab886dec601fea!8m2!3d58.3776367!4d26.7280024!16s%2Fg%2F11jygq1hz6!19sChIJVV_E-eE360YR6h9g7G2Iq-E?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJhVqwnt4260YRx6s7jJ0pIw4",
-        "name": "Tartu Kohvik",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 71,
-        "competitors": [
-            {
-                "name": "Reval Cafe Riia mnt",
-                "link": "https://www.google.com/maps/search/Reval+Caf%C3%A9+Riia+mnt/@58.3768207,26.727452099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Kohvik Spargel",
-                "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Karlova Kohv",
-                "link": "https://www.google.com/maps/search/Karlova+Kohv/@58.3666918,26.7295536?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "V Cafe",
-                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 185,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Green Room Cafe",
-                "link": "https://www.google.com/maps/search/Green+Room+Cafe/@58.380421399999996,26.727433200000004?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 131,
-                "rating": 4.1,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": "http://www.tartukohvik.ee/",
-        "owner": {
-            "id": "113800343026088797049",
-            "name": "Tartu Kohvik (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113800343026088797049"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8zcPofQEiqvImpDzg0hX3BiRf7ovlrTiuOhf7=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Can Ting "
-        ],
-        "rating": 4.2,
-        "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+372 730 4579",
-        "address": "Tartu Kohvik, Soola 3, 51013 Tartu, Ai Sha Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tartu+Kohvik/data=!4m7!3m6!1s0x46eb36de9eb05a85:0xe23299d8c3babc7!8m2!3d58.3775594!4d26.7332361!16s%2Fg%2F1v3klrtp!19sChIJhVqwnt4260YRx6s7jJ0pIw4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJLTenFws360YReNRpG0Mshak",
-        "name": "Saiapalee Tuumian",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 71,
-        "competitors": [
-            {
-                "name": "Saialill bakery",
-                "link": "https://www.google.com/maps/search/Saialill+bakery/@58.3535731,26.710808399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 342,
-                "rating": 4.8,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Sefiiritordid",
-                "link": "https://www.google.com/maps/search/Sefiiritordid/@58.37955079999999,26.754448999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 131,
-                "rating": 4.8,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Cruffin Saiatehas",
-                "link": "https://www.google.com/maps/search/Cruffin+Saiatehas/@58.370771999999995,26.7159625?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 120,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "The bakery Saiasahwer",
-                "link": "https://www.google.com/maps/search/The+bakery+Saiasahwer/@58.385277800000004,26.7158333?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 82,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Muhu Pagarid",
-                "link": "https://www.google.com/maps/search/Muhu+Pagarid/@58.35819159999999,26.6784294?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
-                "rating": 4.8,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "http://thymeout.ee/",
-        "owner": {
-            "id": "101690278347481608463",
-            "name": "Saiapalee Tuumian (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101690278347481608463"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNG72Ug9G_afd7bgBgc_OhfpFDGC4SYQUumLTj7=w408-h544-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "08:00-16:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+372 5633 1705",
-        "address": "Saiapalee Tuumian, Lai 29, 51005 Tartu, Ai Sha Ni Ya ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 6
-            },
-            {
-                "keyword": "Rou Gui Juan ",
-                "count": 5
-            },
-            {
-                "keyword": "Can Bao ",
-                "count": 4
-            },
-            {
-                "keyword": "Ka Pei ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Saiapalee+T%C3%BC%C3%BCmian/data=!4m7!3m6!1s0x46eb370b17a7372d:0xa9852c431b69d478!8m2!3d58.3834212!4d26.7200502!16s%2Fg%2F11pq1n9fm1!19sChIJLTenFws360YReNRpG0Mshak?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJC6KVfCk360YRVGiZF7CV5IU",
         "name": "Sepa cafe",
         "description": null,
@@ -3163,21 +3200,21 @@
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -3211,8 +3248,12 @@
         "rating": 4.6,
         "workday_timing": "10:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 747 0450",
         "address": "Sepa cafe, Sobra 58, 51013 Tartu, Ai Sha Ni Ya ",
@@ -3228,15 +3269,15 @@
         "competitors": [
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvipoint OU",
                 "link": "https://www.google.com/maps/search/Kohvipoint+O%C3%9C/@58.34842009999999,26.7392577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
+                "reviews": 18,
                 "rating": 5,
                 "main_category": "Jia Dian Ke Hu Fu Wu "
             },
@@ -3282,26 +3323,26 @@
         "name": "Puhvet",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 47,
+        "reviews": 48,
         "competitors": [
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Tartu Pihlaka kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Pihlaka+kohvik/@58.3799887,26.725151399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 476,
+                "reviews": 477,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -3370,7 +3411,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -3384,7 +3425,7 @@
             {
                 "name": "Puhvet",
                 "link": "https://www.google.com/maps/search/Puhvet/@58.3707801,26.71564?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 47,
+                "reviews": 48,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             }
@@ -3403,7 +3444,9 @@
         "rating": 4.6,
         "workday_timing": "07:30-18:00",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
         "phone": "+372 5347 0022",
         "address": "Wedur Kohvik ja Ruum, Vaksali 6, 50409 Tartu, Ai Sha Ni Ya ",
@@ -3425,7 +3468,7 @@
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -3439,7 +3482,7 @@
             {
                 "name": "Tartu Pihlaka kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Pihlaka+kohvik/@58.3799887,26.725151399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 476,
+                "reviews": 477,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
@@ -3452,8 +3495,8 @@
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -3553,12 +3596,12 @@
         "name": "Caffeine EE",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 33,
+        "reviews": 34,
         "competitors": [
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -3604,7 +3647,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "06:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+372 5680 6660",
         "address": "Caffeine EE, Turu 2, 51013 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [],
@@ -3641,7 +3686,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -3796,7 +3841,7 @@
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -3824,7 +3869,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -3860,7 +3905,7 @@
             {
                 "name": "Ulikooli Kohvik / DRINKGELD",
                 "link": "https://www.google.com/maps/search/%C3%9Clikooli+Kohvik+%2F+DRINKGELD/@58.38162459999999,26.719976199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 304,
+                "reviews": 305,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -3888,7 +3933,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -3907,8 +3952,8 @@
         "rating": 4.5,
         "workday_timing": "11:00-16:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 5302 8944",
         "address": "Delta kohvik, Narva mnt 18, 51009 Tartu, Ai Sha Ni Ya ",
@@ -3925,7 +3970,7 @@
         "name": "Koomen",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 18,
+        "reviews": 19,
         "competitors": [
             {
                 "name": "MiniMelts jaatis ja minipannkook",
@@ -3961,12 +4006,9 @@
             "Ka Pei Ting ",
             "Dao Hui Fu Wu "
         ],
-        "rating": 4.3,
-        "workday_timing": "11:00-21:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er "
-        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
         "phone": "+372 5695 0099",
         "address": "Koomen, Kuutri 2, 51007 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [],
@@ -4021,12 +4063,10 @@
         "rating": 4.5,
         "workday_timing": "10:00-16:00",
         "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
             "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Wu ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+372 5814 8674",
         "address": "KRI Cafe, Moisavahe 34c, 50708 Tartu, Ai Sha Ni Ya ",
@@ -4042,15 +4082,15 @@
         "competitors": [
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "BubblyBoba Bubble Tea",
                 "link": "https://www.google.com/maps/search/BubblyBoba+Bubble+Tea/@58.3822944,26.7305486?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
+                "reviews": 143,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -4174,7 +4214,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -4213,6 +4253,73 @@
         "link": "https://www.google.com/maps/place/Blender+Juice+%26+Coffee+Bar/data=!4m7!3m6!1s0x46eb37f861a677d7:0x75e27b2988bc3197!8m2!3d58.3771379!4d26.7293072!16s%2Fg%2F11fmrk4hbl!19sChIJ13emYfg360YRlzG8iCl74nU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ8f_-d48360YRUsJxdlVN6uo",
+        "name": "Caffeine EE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Reval Cafe Riia mnt",
+                "link": "https://www.google.com/maps/search/Reval+Caf%C3%A9+Riia+mnt/@58.3768207,26.727452099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 669,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "V Cafe",
+                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 185,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee IN",
+                "link": "https://www.google.com/maps/search/Coffee+IN/@58.37816660000001,26.7308789?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 12,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Tea & Coffee Centre",
+                "link": "https://www.google.com/maps/search/Tea+%26+Coffee+Centre/@58.3778444,26.727905399999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 3.6,
+                "main_category": "Cha Xie Dian "
+            },
+            {
+                "name": "iBarista",
+                "link": "https://www.google.com/maps/search/iBarista/@58.3708965,26.7136084?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://caffeine.ee/",
+        "owner": {
+            "id": "109471980748060149108",
+            "name": "Caffeine EE (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109471980748060149108"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvE36ZLu6YSOVpuEYF6LW5OaTP35Bmie9albk8=w408-h408-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+372 5866 4126",
+        "address": "Caffeine EE, Riia 2, 51004 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caffeine+EE/data=!4m7!3m6!1s0x46eb378f77fefff1:0xeaea4d557671c252!8m2!3d58.3771151!4d26.7293467!16s%2Fg%2F11s99mzm0t!19sChIJ8f_-d48360YRUsJxdlVN6uo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJv3LA_Qw360YRcCAsA_Jn89M",
         "name": "Neste Oil",
         "description": null,
@@ -4236,7 +4343,7 @@
             {
                 "name": "Lounakeskuse Jazz Pesula",
                 "link": "https://www.google.com/maps/search/L%C3%B5unakeskuse+Jazz+Pesula/@58.36256279999999,26.6745716?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 133,
+                "reviews": 132,
                 "rating": 4.6,
                 "main_category": "Xi Che Fu Wu "
             },
@@ -4280,68 +4387,6 @@
         "link": "https://www.google.com/maps/place/Neste+Oil/data=!4m7!3m6!1s0x46eb370cfdc072bf:0xd3f367f2032c2070!8m2!3d58.3618715!4d26.6754042!16s%2Fg%2F1hc1bspnt!19sChIJv3LA_Qw360YRcCAsA_Jn89M?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJy3FBtBs360YRCHAkjx5dh5w",
-        "name": "R-Kiosk Tartu Maarjamoisa Kohvik",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 9,
-        "competitors": [
-            {
-                "name": "Koverkiosk",
-                "link": "https://www.google.com/maps/search/K%C3%B5verkiosk/@58.382762899999996,26.7464008?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 757,
-                "rating": 4.2,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Maarjamoisa haigla",
-                "link": "https://www.google.com/maps/search/Maarjam%C3%B5isa+haigla/@58.36936730000001,26.698240199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.9,
-                "main_category": "Gong Che Zhan "
-            },
-            {
-                "name": "R-Kiosk Tartu Maarjamoisa polikliinik",
-                "link": "https://www.google.com/maps/search/R-Kiosk+Tartu+Maarjam%C3%B5isa+polikliinik/@58.367648499999994,26.704499199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Maarjamoisa",
-                "link": "https://www.google.com/maps/search/Maarjam%C3%B5isa/@58.36960829999999,26.7017191?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Gong Che Zhan "
-            },
-            {
-                "name": "Maarjamoisa apteek",
-                "link": "https://www.google.com/maps/search/Maarjam%C3%B5isa+apteek/@58.36988530000001,26.7010661?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Yao Fang "
-            }
-        ],
-        "website": "http://www.rkiosk.ee/",
-        "owner": {
-            "id": "103071874197865360890",
-            "name": "R-Kiosk Tartu Maarjamoisa Kohvik (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103071874197865360890"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMc5YrV4xx90Eo_hsBW8tuqCxpOtwNZ2sa3B8Q=w408-h259-k-no",
-        "main_category": "Bian Li Dian ",
-        "categories": [
-            "Bian Li Dian "
-        ],
-        "rating": 4.1,
-        "workday_timing": "07:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+372 633 6000",
-        "address": "R-Kiosk Tartu Maarjamoisa Kohvik, Ludvig Puusepa 8, 50406 Tartu, Ai Sha Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/R-Kiosk+Tartu+Maarjam%C3%B5isa+Kohvik/data=!4m7!3m6!1s0x46eb371bb44171cb:0x9c875d1e8f247008!8m2!3d58.3689853!4d26.70086!16s%2Fg%2F11cr_sbc76!19sChIJy3FBtBs360YRCHAkjx5dh5w?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ9fNWMNk260YRvezMxd-8V_Q",
         "name": "Aura Kohvik",
         "description": null,
@@ -4365,7 +4410,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -4406,7 +4451,7 @@
             {
                 "name": "The Tulip Cafe",
                 "link": "https://www.google.com/maps/search/The+Tulip+Cafe/@58.37361370000001,26.6906875?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 328,
+                "reviews": 329,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4420,14 +4465,14 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Puhvet",
                 "link": "https://www.google.com/maps/search/Puhvet/@58.3707801,26.71564?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 47,
+                "reviews": 48,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4470,7 +4515,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
@@ -4517,8 +4562,8 @@
         "rating": 3.6,
         "workday_timing": "09:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 5555 3933",
         "address": "Kaupmehe kook, Kaupmehe 5, 50104 Tartu, Ai Sha Ni Ya ",
@@ -4603,8 +4648,10 @@
         "rating": 4.3,
         "workday_timing": "09:00-17:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 742 2966",
         "address": "Kohvikeskus | Tartu esindus, Riia 35, 50410 Tartu, Ai Sha Ni Ya ",
@@ -4687,14 +4734,14 @@
             {
                 "name": "Cafe Shakespeare",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Shakespeare/@58.3765806,26.7239771?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 643,
-                "rating": 4.6,
+                "reviews": 644,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvik Spargel",
                 "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 567,
+                "reviews": 568,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -4708,14 +4755,14 @@
             {
                 "name": "Anna Edasi",
                 "link": "https://www.google.com/maps/search/Anna+Edasi/@58.3702889,26.7277344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
+                "reviews": 254,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             }
@@ -4811,7 +4858,7 @@
             {
                 "name": "Circle K Tartu Aardla",
                 "link": "https://www.google.com/maps/search/Circle+K+Tartu+Aardla/@58.355636999999994,26.721183999999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 479,
+                "reviews": 480,
                 "rating": 4.5,
                 "main_category": "You Zhan "
             },
@@ -4867,62 +4914,6 @@
         "address": "Neste Aardla, Voru 172, 50112 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Neste+Aardla/data=!4m7!3m6!1s0x46eb3707750f9765:0xda3517394f0a40a0!8m2!3d58.3558214!4d26.7222401!16s%2Fg%2F11xcz99tk!19sChIJZZcPdQc360YRoEAKTzkXNdo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJrYWOctk360YR2OU7IfvZ-zM",
-        "name": "mele cakes and cookies",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "Ulikooli Kohvik / DRINKGELD",
-                "link": "https://www.google.com/maps/search/%C3%9Clikooli+Kohvik+%2F+DRINKGELD/@58.38162459999999,26.719976199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 304,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Tassikoogid",
-                "link": "https://www.google.com/maps/search/Tassikoogid/@58.37002,26.727394?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 208,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Kohvik Vaksali",
-                "link": "https://www.google.com/maps/search/Kohvik+Vaksali/@58.372847099999994,26.7096023?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Kossu kohvik",
-                "link": "https://www.google.com/maps/search/Kossu+kohvik/@58.388162799999996,26.7218533?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://www.facebook.com/kohvikkaks",
-        "owner": {
-            "id": "107947436435063717392",
-            "name": "mele cakes and cookies (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107947436435063717392"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOl25hO3ztecEzebU5KYbapTPaQA107LATxC4KX=w408-h611-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "10:00-18:00",
-        "closed_on": "Open All Days",
-        "phone": "+372 5345 8311",
-        "address": "mele cakes and cookies, Ulikooli 2a, 51003 Tartu, Ai Sha Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/mel%C3%A9+cakes+and+cookies/data=!4m7!3m6!1s0x46eb37d9728e85ad:0x33fbd9fb213be5d8!8m2!3d58.3776384!4d26.7241563!16s%2Fg%2F11k537m9kl!19sChIJrYWOctk360YR2OU7IfvZ-zM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJZZcPdQc360YRXGQuBDzj4i8",
@@ -4994,14 +4985,14 @@
             {
                 "name": "Karlova Kohv",
                 "link": "https://www.google.com/maps/search/Karlova+Kohv/@58.3666918,26.7295536?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 392,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -5042,14 +5033,14 @@
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Crepp",
                 "link": "https://www.google.com/maps/search/Crepp/@58.381903,26.721284?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1000,
+                "reviews": 999,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -5111,8 +5102,8 @@
             {
                 "name": "COFFEE TERMINAL Raatuse",
                 "link": "https://www.google.com/maps/search/COFFEE+TERMINAL+Raatuse/@58.3818894,26.7309619?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4.3,
+                "reviews": 31,
+                "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -5143,6 +5134,77 @@
         "link": "https://www.google.com/maps/place/MERITAR%26CO/data=!4m7!3m6!1s0x46eb371068f0aaf3:0xe6dfbea84288f70b!8m2!3d58.3668261!4d26.6932036!16s%2Fg%2F11flzgg60l!19sChIJ86rwaBA360YRC_eIQqi-3-Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJcQh3wiU360YRKJOx04le-h4",
+        "name": "Teemajakas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Reval Cafe Riia mnt",
+                "link": "https://www.google.com/maps/search/Reval+Caf%C3%A9+Riia+mnt/@58.3768207,26.727452099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 669,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Sade kohviteek",
+                "link": "https://www.google.com/maps/search/S%C3%A4de+kohviteek/@58.3808333,26.7219443?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 457,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kohvipaus Tartu",
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "V Cafe",
+                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 185,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Tartu Kohvik",
+                "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 72,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://www.facebook.com/teemajakas/",
+        "owner": {
+            "id": "106285517237028600917",
+            "name": "Teemajakas (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106285517237028600917"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMS16SrbqJCs1ZAL3L1hJaxwrr0L_9_uZuAc9OG=w408-h255-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Jiao Tang ",
+            "Biao Yan Chang Di "
+        ],
+        "rating": 5,
+        "workday_timing": "17:30-20:30",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu "
+        ],
+        "phone": "+372 734 8703",
+        "address": "Teemajakas, Veski 40, 50409 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Teemajakas/data=!4m7!3m6!1s0x46eb3725c2770871:0x1efa5e89d3b19328!8m2!3d58.3772468!4d26.7125853!16s%2Fg%2F12hz990_c!19sChIJcQh3wiU360YRKJOx04le-h4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJK69NfzU360YRW8XTP6caFM8",
         "name": "Du Nord Ringtee kohvik",
         "description": null,
@@ -5163,8 +5225,8 @@
         "rating": 2,
         "workday_timing": "10:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Du Nord Ringtee kohvik, Ringtee 25, 50105 Tartu, Ai Sha Ni Ya ",
@@ -5220,77 +5282,6 @@
         "link": "https://www.google.com/maps/place/MiniMelts+j%C3%A4%C3%A4tis+ja+minipannkook/data=!4m7!3m6!1s0x46eb378f603164ed:0xccd33d0145cf8e82!8m2!3d58.3576635!4d26.6782034!16s%2Fg%2F11jsnrjdp6!19sChIJ7WQxYI8360YRgo7PRQE908w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJcQh3wiU360YRKJOx04le-h4",
-        "name": "Teemajakas",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Reval Cafe Riia mnt",
-                "link": "https://www.google.com/maps/search/Reval+Caf%C3%A9+Riia+mnt/@58.3768207,26.727452099999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Sade kohviteek",
-                "link": "https://www.google.com/maps/search/S%C3%A4de+kohviteek/@58.3808333,26.7219443?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 457,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "V Cafe",
-                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 185,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tartu Kohvik",
-                "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "http://www.facebook.com/teemajakas/",
-        "owner": {
-            "id": "106285517237028600917",
-            "name": "Teemajakas (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106285517237028600917"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMS16SrbqJCs1ZAL3L1hJaxwrr0L_9_uZuAc9OG=w408-h255-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Jiao Tang ",
-            "Biao Yan Chang Di "
-        ],
-        "rating": 5,
-        "workday_timing": "17:30-20:30",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Wu ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+372 734 8703",
-        "address": "Teemajakas, Veski 40, 50409 Tartu, Ai Sha Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Teemajakas/data=!4m7!3m6!1s0x46eb3725c2770871:0x1efa5e89d3b19328!8m2!3d58.3772468!4d26.7125853!16s%2Fg%2F12hz990_c!19sChIJcQh3wiU360YRKJOx04le-h4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJB8ko7pg360YReQI2Zum-GgQ",
         "name": "Coffee In & Yo! Kvartal",
         "description": null,
@@ -5317,59 +5308,59 @@
         "link": "https://www.google.com/maps/place/Coffee+In+%26+Yo!+Kvartal/data=!4m7!3m6!1s0x46eb3798ee28c907:0x41abee966360279!8m2!3d58.3770875!4d26.7294177!16s%2Fg%2F11l6yj34_8!19sChIJB8ko7pg360YReQI2Zum-GgQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ3ZGSonI360YRLzXmZCMYxys",
-        "name": "Vahvlikohvik OU",
+        "place_id": "ChIJcSa3Buw260YRfsia39rgU-c",
+        "name": "Sabiina OU",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [
             {
-                "name": "V Cafe",
-                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 185,
-                "rating": 4.5,
+                "name": "Anna Edasi",
+                "link": "https://www.google.com/maps/search/Anna+Edasi/@58.3702889,26.7277344?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 254,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Tartu Kohvik",
-                "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.2,
+                "name": "Caterini kohvik",
+                "link": "https://www.google.com/maps/search/Caterini+kohvik/@58.366195,26.7409515?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 4.9,
+                "main_category": "Dao Hui Fu Wu "
+            },
+            {
+                "name": "Tamme kohvik",
+                "link": "https://www.google.com/maps/search/Tamme+kohvik/@58.3652194,26.7139098?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Kohvik Vaksali",
-                "link": "https://www.google.com/maps/search/Kohvik+Vaksali/@58.372847099999994,26.7096023?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 53,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Kohvik Ave OU",
-                "link": "https://www.google.com/maps/search/Kohvik+Ave+O%C3%9C/@58.35023820000001,26.727613899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 33,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
+                "name": "Kohvik",
+                "link": "https://www.google.com/maps/search/Kohvik/@58.372227900000006,26.725804?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Zi Zhu Can Ting "
             }
         ],
-        "website": "http://www.mrswaffle.ee/",
+        "website": "http://sabiinakohvik.ee/kontakt/",
         "owner": {
             "id": null,
-            "name": "Vahvlikohvik OU (Ye Zhu )",
+            "name": "Sabiina OU (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPD60SSKt3ZouPP8MGvlWGdhII4UonR3b0xw21x=w408-h306-k-no",
+        "featured_image": null,
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
         ],
         "rating": null,
-        "workday_timing": "11:00-18:00",
+        "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": "+372 5750 2231",
-        "address": "Vahvlikohvik OU, Ringtee 75, 51014 Tartu, Ai Sha Ni Ya ",
+        "phone": "+372 5394 4317",
+        "address": "Sabiina OU, Peetri 26, 50303 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Vahvlikohvik+O%C3%9C/data=!4m7!3m6!1s0x46eb3772a29291dd:0x2bc7182364e6352f!8m2!3d58.3580402!4d26.6774989!16s%2Fg%2F11cmt5fbts!19sChIJ3ZGSonI360YRLzXmZCMYxys?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Sabiina+O%C3%9C/data=!4m7!3m6!1s0x46eb36ec06b72671:0xe753e0dadf9ac87e!8m2!3d58.3918874!4d26.7279437!16s%2Fg%2F11cnwnrfkd!19sChIJcSa3Buw260YRfsia39rgU-c?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJVxvrRx8360YRHDenndL3cGY",
@@ -5434,89 +5425,112 @@
         "link": "https://www.google.com/maps/place/iBarista/data=!4m7!3m6!1s0x46eb371f47eb1b57:0x6670f7d29da7371c!8m2!3d58.3708965!4d26.7136084!16s%2Fg%2F11hyt1d3yn!19sChIJVxvrRx8360YRHDenndL3cGY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJcSa3Buw260YRfsia39rgU-c",
-        "name": "Sabiina OU",
+        "place_id": "ChIJQ85owOA260YR1lV22HxQ6a4",
+        "name": "Coffee IN",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [
             {
-                "name": "Anna Edasi",
-                "link": "https://www.google.com/maps/search/Anna+Edasi/@58.3702889,26.7277344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
-                "rating": 4.8,
+                "name": "Caffeine EE",
+                "link": "https://www.google.com/maps/search/Caffeine+EE/@58.3786778,26.7242778?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 309,
+                "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Caterini kohvik",
-                "link": "https://www.google.com/maps/search/Caterini+kohvik/@58.366195,26.7409515?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.9,
-                "main_category": "Dao Hui Fu Wu "
+                "name": "Kohvipaus Tartu",
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Tamme kohvik",
-                "link": "https://www.google.com/maps/search/Tamme+kohvik/@58.3652194,26.7139098?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Kaupmehe kook",
+                "link": "https://www.google.com/maps/search/Kaupmehe+k%C3%B6%C3%B6k/@58.34590169999999,26.7444027?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 7,
-                "rating": 4.1,
+                "rating": 3.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Coffee IN Lounakeskus",
+                "link": "https://www.google.com/maps/search/Coffee+IN+L%C3%B5unakeskus/@58.3580538,26.6779549?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://coffeein.eu/frantsiis/",
+        "owner": {
+            "id": null,
+            "name": "Coffee IN (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AHz8fbvad8S_89dln8-PBA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.12213&pitch=0&thumbfov=100",
+        "main_category": null,
+        "categories": null,
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+372 525 4582",
+        "address": "Coffee IN, Ulikooli, 51003 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+IN/data=!4m7!3m6!1s0x46eb36e0c068ce43:0xaee9507cd87655d6!8m2!3d58.3790582!4d26.7225443!16s%2Fg%2F11h84zynky!19sChIJQ85owOA260YR1lV22HxQ6a4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3ZGSonI360YRLzXmZCMYxys",
+        "name": "Vahvlikohvik OU",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "V Cafe",
+                "link": "https://www.google.com/maps/search/V+Caf%C3%A9/@58.37713789999999,26.729307199999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 185,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Tartu Kohvik",
+                "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 72,
+                "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Kohvik",
-                "link": "https://www.google.com/maps/search/Kohvik/@58.372227900000006,26.725804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Zi Zhu Can Ting "
+                "name": "Kohvik Vaksali",
+                "link": "https://www.google.com/maps/search/Kohvik+Vaksali/@58.372847099999994,26.7096023?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 53,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Kohvik Ave OU",
+                "link": "https://www.google.com/maps/search/Kohvik+Ave+O%C3%9C/@58.35023820000001,26.727613899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "http://sabiinakohvik.ee/kontakt/",
+        "website": "http://www.mrswaffle.ee/",
         "owner": {
             "id": null,
-            "name": "Sabiina OU (Ye Zhu )",
+            "name": "Vahvlikohvik OU (Ye Zhu )",
             "link": null
         },
-        "featured_image": null,
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPD60SSKt3ZouPP8MGvlWGdhII4UonR3b0xw21x=w408-h306-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
         ],
         "rating": null,
-        "workday_timing": null,
+        "workday_timing": "11:00-18:00",
         "closed_on": "Open All Days",
-        "phone": "+372 5394 4317",
-        "address": "Sabiina OU, Peetri 26, 50303 Tartu, Ai Sha Ni Ya ",
+        "phone": "+372 5750 2231",
+        "address": "Vahvlikohvik OU, Ringtee 75, 51014 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Sabiina+O%C3%9C/data=!4m7!3m6!1s0x46eb36ec06b72671:0xe753e0dadf9ac87e!8m2!3d58.3918874!4d26.7279437!16s%2Fg%2F11cnwnrfkd!19sChIJcSa3Buw260YRfsia39rgU-c?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJObFJgdo360YRcNFNIIBm-Qg",
-        "name": "Eesti Maaulikooli peahoone kohvik",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": "https://www.facebook.com/emukohvik",
-        "owner": {
-            "id": "106089723584432347977",
-            "name": "Eesti Maaulikooli peahoone kohvik (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106089723584432347977"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYCfhH8rG4rxqHLG2hnivYSNXmj86yWDSeJ37s=w408-h549-k-no",
-        "main_category": "Zi Zhu Can Can Ting ",
-        "categories": [
-            "Zi Zhu Can Can Ting ",
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "11:00-14:00",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+372 5554 2283",
-        "address": "Eesti Maaulikooli peahoone kohvik, Friedrich Reinhold Kreutzwaldi 1a, 51006 Tartu, Ai Sha Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Eesti+Maa%C3%BClikooli+peahoone+kohvik/data=!4m7!3m6!1s0x46eb37da8149b139:0x8f96680204dd170!8m2!3d58.3884883!4d26.6969618!16s%2Fg%2F11ss50hl0g!19sChIJObFJgdo360YRcNFNIIBm-Qg?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Vahvlikohvik+O%C3%9C/data=!4m7!3m6!1s0x46eb3772a29291dd:0x2bc7182364e6352f!8m2!3d58.3580402!4d26.6774989!16s%2Fg%2F11cmt5fbts!19sChIJ3ZGSonI360YRLzXmZCMYxys?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJI_v-4eUx60YRYUsOlqnctgc",
@@ -5525,13 +5539,6 @@
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [
-            {
-                "name": "Koomen",
-                "link": "https://www.google.com/maps/search/K%C3%B6%C3%B6men/@58.38101419999999,26.720783299999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
             {
                 "name": "Pallase kohvik",
                 "link": "https://www.google.com/maps/search/Pallase+kohvik/@58.369288499999996,26.729988499999997?authuser=0&hl=zh-TW&entry=ttu",
@@ -5574,6 +5581,33 @@
         "link": "https://www.google.com/maps/place/Waf+Pehme+J%C3%A4%C3%A4tis/data=!4m7!3m6!1s0x46eb31e5e1fefb23:0x7b6dca9960e4b61!8m2!3d58.365922!4d26.7943447!16s%2Fg%2F11mw8m02n4!19sChIJI_v-4eUx60YRYUsOlqnctgc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJObFJgdo360YRcNFNIIBm-Qg",
+        "name": "Eesti Maaulikooli peahoone kohvik",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": "https://www.facebook.com/emukohvik",
+        "owner": {
+            "id": "106089723584432347977",
+            "name": "Eesti Maaulikooli peahoone kohvik (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106089723584432347977"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYCfhH8rG4rxqHLG2hnivYSNXmj86yWDSeJ37s=w408-h549-k-no",
+        "main_category": "Zi Zhu Can Can Ting ",
+        "categories": [
+            "Zi Zhu Can Can Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+372 5554 2283",
+        "address": "Eesti Maaulikooli peahoone kohvik, Friedrich Reinhold Kreutzwaldi 1a, 51006 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Eesti+Maa%C3%BClikooli+peahoone+kohvik/data=!4m7!3m6!1s0x46eb37da8149b139:0x8f96680204dd170!8m2!3d58.3884883!4d26.6969618!16s%2Fg%2F11ss50hl0g!19sChIJObFJgdo360YRcNFNIIBm-Qg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ2-DWZ-E260YR8wxs2xdqaHE",
         "name": "Rotund",
         "description": null,
@@ -5590,7 +5624,7 @@
             {
                 "name": "The Tulip Cafe",
                 "link": "https://www.google.com/maps/search/The+Tulip+Cafe/@58.37361370000001,26.6906875?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 328,
+                "reviews": 329,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -5661,21 +5695,21 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Puhvet",
                 "link": "https://www.google.com/maps/search/Puhvet/@58.3707801,26.71564?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 47,
+                "reviews": 48,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Urve kohvik",
                 "link": "https://www.google.com/maps/search/Urve+kohvik/@58.386510300000005,26.7361161?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
+                "reviews": 21,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             }
@@ -5694,8 +5728,8 @@
         "rating": 4.5,
         "workday_timing": "10:00-15:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 5332 2062",
         "address": "Kohvik Ave OU, Vasara 50, 50113 Tartu, Ai Sha Ni Ya ",
@@ -5719,14 +5753,14 @@
             {
                 "name": "Rukkilille Selver ABC",
                 "link": "https://www.google.com/maps/search/Rukkilille+Selver+ABC/@58.3853212,26.694836499999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 241,
+                "reviews": 240,
                 "rating": 4,
                 "main_category": "Za Huo Dian "
             },
             {
                 "name": "Chopsticks",
                 "link": "https://www.google.com/maps/search/Chopsticks/@58.3734614,26.7513456?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 31,
+                "reviews": 32,
                 "rating": 2.6,
                 "main_category": "Can Ting "
             },
@@ -5829,14 +5863,14 @@
             {
                 "name": "Tartu Pihlaka kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Pihlaka+kohvik/@58.3799887,26.725151399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 476,
+                "reviews": 477,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Karlova Kohv",
                 "link": "https://www.google.com/maps/search/Karlova+Kohv/@58.3666918,26.7295536?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 392,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -5850,7 +5884,7 @@
             {
                 "name": "Tartu Kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
+                "reviews": 72,
                 "rating": 4.2,
                 "main_category": "Ka Pei Dian "
             }
@@ -5875,6 +5909,61 @@
         "link": "https://www.google.com/maps/place/Retrokohvik/data=!4m7!3m6!1s0x46eb379fde367553:0x31489f62f5486cbd!8m2!3d58.3730012!4d26.7505056!16s%2Fg%2F11tjcv6vj1!19sChIJU3U23p8360YRvWxI9WKfSDE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJpW6v5o4360YR8-AfOnl4QaM",
+        "name": "Camelia Kohvik",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "competitors": [
+            {
+                "name": "Restoran Aparaat",
+                "link": "https://www.google.com/maps/search/Restoran+Aparaat/@58.370569399999994,26.7162725?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1937,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Kolm Tilli",
+                "link": "https://www.google.com/maps/search/Kolm+Tilli/@58.370385899999995,26.716548099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1577,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Gustav Gastro Cafe",
+                "link": "https://www.google.com/maps/search/Gustav+Gastro+Cafe/@58.377864300000006,26.726623699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 855,
+                "rating": 4.5,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Kohvik Spargel",
+                "link": "https://www.google.com/maps/search/Kohvik+Spargel/@58.3746643,26.728691100000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 568,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Camelia Kohvik (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWtS8PgVhdU7-JSckf2pkOEyMafnpYSlv0VxUT=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 3.6,
+        "workday_timing": "10:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+372 5550 7776",
+        "address": "Camelia Kohvik, Laaneringtee 39, 50105 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Camelia+Kohvik/data=!4m7!3m6!1s0x46eb378ee6af6ea5:0xa34178793a1fe0f3!8m2!3d58.358108!4d26.6778077!16s%2Fg%2F11k4zp7bqw!19sChIJpW6v5o4360YR8-AfOnl4QaM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJZw-TYRA360YRxyct7qdCQvY",
         "name": "Biomedicum cafe",
         "description": null,
@@ -5884,7 +5973,7 @@
             {
                 "name": "The Tulip Cafe",
                 "link": "https://www.google.com/maps/search/The+Tulip+Cafe/@58.37361370000001,26.6906875?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 328,
+                "reviews": 329,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -5939,14 +6028,14 @@
             {
                 "name": "Cafe Shakespeare",
                 "link": "https://www.google.com/maps/search/Caf%C3%A9+Shakespeare/@58.3765806,26.7239771?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 643,
-                "rating": 4.6,
+                "reviews": 644,
+                "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -5994,7 +6083,7 @@
             {
                 "name": "Cafe-restaurant Werner",
                 "link": "https://www.google.com/maps/search/Cafe-restaurant+Werner/@58.38051809999999,26.7209742?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2132,
+                "reviews": 2133,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -6083,14 +6172,14 @@
             {
                 "name": "Karlova Kohv",
                 "link": "https://www.google.com/maps/search/Karlova+Kohv/@58.3666918,26.7295536?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 390,
+                "reviews": 392,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },
@@ -6104,7 +6193,7 @@
             {
                 "name": "Kohvipoint OU",
                 "link": "https://www.google.com/maps/search/Kohvipoint+O%C3%9C/@58.34842009999999,26.7392577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 17,
+                "reviews": 18,
                 "rating": 5,
                 "main_category": "Jia Dian Ke Hu Fu Wu "
             }
@@ -6127,6 +6216,62 @@
         "address": "Kohvisober OU, Tahe 116, 51013 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kohvis%C3%B5ber+O%C3%9C/data=!4m7!3m6!1s0x46eb374ad22ce143:0x7217fd0727d3ac55!8m2!3d58.3448812!4d26.7322003!16s%2Fg%2F1pp2x637d!19sChIJQ-Es0ko360YRVazTJwf9F3I?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJrYWOctk360YR2OU7IfvZ-zM",
+        "name": "mele cakes and cookies",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Ulikooli Kohvik / DRINKGELD",
+                "link": "https://www.google.com/maps/search/%C3%9Clikooli+Kohvik+%2F+DRINKGELD/@58.38162459999999,26.719976199999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 305,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Tassikoogid",
+                "link": "https://www.google.com/maps/search/Tassikoogid/@58.37002,26.727394?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 208,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Kohvik Vaksali",
+                "link": "https://www.google.com/maps/search/Kohvik+Vaksali/@58.372847099999994,26.7096023?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 53,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Kossu kohvik",
+                "link": "https://www.google.com/maps/search/Kossu+kohvik/@58.388162799999996,26.7218533?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "107947436435063717392",
+            "name": "mele cakes and cookies (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107947436435063717392"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOl25hO3ztecEzebU5KYbapTPaQA107LATxC4KX=w408-h611-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+372 5345 8311",
+        "address": "mele cakes and cookies, Ulikooli 2a, 51003 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/mel%C3%A9+cakes+and+cookies/data=!4m7!3m6!1s0x46eb37d9728e85ad:0x33fbd9fb213be5d8!8m2!3d58.3776384!4d26.7241563!16s%2Fg%2F11k537m9kl!19sChIJrYWOctk360YR2OU7IfvZ-zM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJLbqt0-Y260YRXDZ3UafB1pg",
@@ -6159,7 +6304,7 @@
             {
                 "name": "Urve kohvik",
                 "link": "https://www.google.com/maps/search/Urve+kohvik/@58.386510300000005,26.7361161?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
+                "reviews": 21,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -6185,8 +6330,8 @@
         "rating": 5,
         "workday_timing": "09:00-17:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 658 8111",
         "address": "Vaike Deli, Kuutri 2, 51007 Tartu, Ai Sha Ni Ya ",
@@ -6203,14 +6348,14 @@
             {
                 "name": "Lounakeskus",
                 "link": "https://www.google.com/maps/search/L%C3%B5unakeskus/@58.3587956,26.677128399999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14244,
+                "reviews": 14258,
                 "rating": 4.7,
                 "main_category": "Gou Wu Zhong Xin "
             },
             {
                 "name": "Tartu Lounakeskuse Maksimarket",
                 "link": "https://www.google.com/maps/search/Tartu+L%C3%B5unakeskuse+Maksimarket/@58.3575909,26.6781148?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2513,
+                "reviews": 2514,
                 "rating": 4.6,
                 "main_category": "Za Huo Dian "
             },
@@ -6265,14 +6410,14 @@
             {
                 "name": "Tartu Pihlaka kohvik",
                 "link": "https://www.google.com/maps/search/Tartu+Pihlaka+kohvik/@58.3799887,26.725151399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 476,
+                "reviews": 477,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Anna Edasi",
                 "link": "https://www.google.com/maps/search/Anna+Edasi/@58.3702889,26.7277344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
+                "reviews": 254,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -6324,13 +6469,61 @@
         "rating": 1,
         "workday_timing": "08:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 5684 5888",
         "address": "Tengu kohvik, Ilmatsalu 5, 50412 Tartu, Ai Sha Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Tengu+kohvik/data=!4m7!3m6!1s0x46eb37e5d8ad130b:0x8f2fd77999c57ad!8m2!3d58.3773858!4d26.6896818!16s%2Fg%2F11vj2vgt2w!19sChIJCxOt2OU360YRrVecmXf98gg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4xASlCA360YRrrhiHsBAkF0",
+        "name": "Kohvik",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Reval Cafe Riia mnt",
+                "link": "https://www.google.com/maps/search/Reval+Caf%C3%A9+Riia+mnt/@58.3768207,26.727452099999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 669,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Anna Edasi",
+                "link": "https://www.google.com/maps/search/Anna+Edasi/@58.3702889,26.7277344?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 254,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Tartu Kohvik",
+                "link": "https://www.google.com/maps/search/Tartu+Kohvik/@58.37755939999999,26.7332361?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 72,
+                "rating": 4.2,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kohvik (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNS5xVw8dhkEyzTza4PyQHyqKkbfs1pTNxf0wI=w408-h544-k-no",
+        "main_category": "Zi Zhu Can Ting ",
+        "categories": [
+            "Zi Zhu Can Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "11:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Kohvik, Tahe 11, 50108 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kohvik/data=!4m7!3m6!1s0x46eb3720941210e3:0x5d9040c01e62b8ae!8m2!3d58.3722279!4d26.725804!16s%2Fg%2F11csswc831!19sChIJ4xASlCA360YRrrhiHsBAkF0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJrS6IO3Y760YRZfVimySj-wc",
@@ -6356,8 +6549,8 @@
             {
                 "name": "COFFEE TERMINAL Raatuse",
                 "link": "https://www.google.com/maps/search/COFFEE+TERMINAL+Raatuse/@58.3818894,26.7309619?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4.3,
+                "reviews": 31,
+                "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -6389,13 +6582,75 @@
         "rating": 5,
         "workday_timing": "11:00-15:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Kohvik Rotund, Pargi 4, Ulenurme, 61714 Tartu maakond, Ai Sha Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Kohvik+Rotund/data=!4m7!3m6!1s0x46eb3b763b882ead:0x7fba3249b62f565!8m2!3d58.3165859!4d26.7243675!16s%2Fg%2F11sh7qh24l!19sChIJrS6IO3Y760YRZfVimySj-wc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJP3wlGbUw60YRRHqty52EodM",
+        "name": "Arco Transport Tartu OU",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Transpordiameti Tartu teenindusburoo",
+                "link": "https://www.google.com/maps/search/Transpordiameti+Tartu+teenindusb%C3%BCroo/@58.350415700000006,26.7391078?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 185,
+                "rating": 4.4,
+                "main_category": "Qi Che Pai Zhao Bu Men "
+            },
+            {
+                "name": "Iriscorp Transport OU",
+                "link": "https://www.google.com/maps/search/Iriscorp+Transport+O%C3%9C/@58.35023820000001,26.727613899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": ""
+            },
+            {
+                "name": "Aryvar Auto Transport OU",
+                "link": "https://www.google.com/maps/search/Aryvar+Auto+Transport+O%C3%9C/@58.351565,26.7396045?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Yun Shu Fu Wu "
+            },
+            {
+                "name": "Karibu Auto OU",
+                "link": "https://www.google.com/maps/search/Karibu+Auto+O%C3%9C/@58.3853318,26.8006764?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Gong Che Zhan "
+            },
+            {
+                "name": "Trans-ART",
+                "link": "https://www.google.com/maps/search/Trans-ART/@58.37432689999999,26.7102719?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Huo Yun Gong Si "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Arco Transport Tartu OU (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMe6Vy5a-qtESuaJI-cnSKxfxNVQ_rq8-j-lcPX=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+372 730 2888",
+        "address": "Arco Transport Tartu OU, Ringtee 26, 51013 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arco+Transport+Tartu+O%C3%9C/data=!4m7!3m6!1s0x46eb30b519257c3f:0xd3a1849dcbad7a44!8m2!3d58.3433984!4d26.7354603!16s%2Fg%2F1tj99prb!19sChIJP3wlGbUw60YRRHqty52EodM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJlYSIliA360YRAYcqMOmO1MM",
@@ -6407,7 +6662,7 @@
             {
                 "name": "Anna Edasi",
                 "link": "https://www.google.com/maps/search/Anna+Edasi/@58.3702889,26.7277344?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 253,
+                "reviews": 254,
                 "rating": 4.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -6460,6 +6715,32 @@
         "link": "https://www.google.com/maps/place/Aadlipreili+Ltd./data=!4m7!3m6!1s0x46eb372096888495:0xc3d48ee9302a8701!8m2!3d58.3722279!4d26.725804!16s%2Fg%2F1tdf00sm!19sChIJlYSIliA360YRAYcqMOmO1MM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJrXPBMXsx60YRM_aIxIGbq1Y",
+        "name": "Kohvik Daily",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kohvik Daily (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNres_c1Isa3U1plX2IRzpgO3iqIOX_FhRF14dU=w408-h725-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Kohvik Daily, Kaunase pst 22, 50706 Tartu, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kohvik+Daily/data=!4m7!3m6!1s0x46eb317b31c173ad:0x56ab9b81c488f633!8m2!3d58.3749868!4d26.7673446!16s%2Fg%2F11l37dptrx!19sChIJrXPBMXsx60YRM_aIxIGbq1Y?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJIwTaehU360YRxzwbBy9k5EU",
         "name": "Code Cafe OU",
         "description": null,
@@ -6482,8 +6763,8 @@
             },
             {
                 "name": "Kohvipaus Tartu",
-                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.381117599999996,26.721945899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 231,
+                "link": "https://www.google.com/maps/search/Kohvipaus+Tartu/@58.3811761,26.7218246?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 230,
                 "rating": 4.7,
                 "main_category": "Ka Pei Ting "
             },

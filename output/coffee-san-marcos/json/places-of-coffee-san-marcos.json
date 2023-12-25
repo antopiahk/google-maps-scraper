@@ -4,12 +4,12 @@
         "name": "Walmart",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 4660,
+        "reviews": 4662,
         "competitors": [
             {
                 "name": "Costco Wholesale",
                 "link": "https://www.google.com/maps/search/Costco+Wholesale/@33.1350936,-117.12570950000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4848,
+                "reviews": 4851,
                 "rating": 4.5,
                 "main_category": "Pi Fa Dian "
             },
@@ -30,7 +30,7 @@
             {
                 "name": "Target",
                 "link": "https://www.google.com/maps/search/Target/@33.1136227,-117.0994088?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 445,
+                "reviews": 448,
                 "rating": 4.1,
                 "main_category": "Bai Huo Gong Si "
             }
@@ -57,7 +57,9 @@
         ],
         "rating": 3.9,
         "workday_timing": "06:00-23:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 760-233-8009",
         "address": "Walmart, 732 Center Dr, San Marcos, CA 92069Mei Guo ",
         "review_keywords": [
@@ -89,7 +91,7 @@
         "name": "Mama Kat's Restaurant",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1760,
+        "reviews": 1762,
         "competitors": [
             {
                 "name": "Denny's",
@@ -101,7 +103,7 @@
             {
                 "name": "Broken Yolk Cafe",
                 "link": "https://www.google.com/maps/search/Broken+Yolk+Cafe/@33.1397391,-117.19287480000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 949,
+                "reviews": 950,
                 "rating": 4.2,
                 "main_category": "Zao Can "
             },
@@ -115,7 +117,7 @@
             {
                 "name": "Pegah's Kitchen",
                 "link": "https://www.google.com/maps/search/Pegah%27s+Kitchen/@33.145497999999996,-117.149797?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 471,
+                "reviews": 472,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -174,6 +176,10 @@
                 "count": 17
             },
             {
+                "keyword": "Xian ,Niu Rou ",
+                "count": 17
+            },
+            {
                 "keyword": "Ka Pei Shi ",
                 "count": 13
             }
@@ -185,33 +191,33 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 1276,
+        "reviews": 1277,
         "competitors": [
             {
                 "name": "Sonic Drive-In",
                 "link": "https://www.google.com/maps/search/Sonic+Drive-In/@33.1420582,-117.19018709999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1624,
+                "reviews": 1625,
                 "rating": 3.7,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "The Habit Burger Grill",
                 "link": "https://www.google.com/maps/search/The+Habit+Burger+Grill/@33.1361377,-117.17893179999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 964,
+                "reviews": 966,
                 "rating": 4.4,
                 "main_category": "Han Bao Bao "
             },
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@33.136590999999996,-117.1793309?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 876,
+                "reviews": 877,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Carl's Jr.",
                 "link": "https://www.google.com/maps/search/Carl%E2%80%99s+Jr./@33.1386478,-117.17518390000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 433,
+                "reviews": 435,
                 "rating": 3.7,
                 "main_category": "Kuai Can "
             },
@@ -241,7 +247,9 @@
         ],
         "rating": 3.8,
         "workday_timing": "05:00-22:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 760-471-0030",
         "address": "McDonald's, 570 W San Marcos Blvd, San Marcos, CA 92069Mei Guo ",
         "review_keywords": [
@@ -277,19 +285,19 @@
         "name": "Home Sweet Home Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1211,
+        "reviews": 1212,
         "competitors": [
             {
                 "name": "Farmer Boys",
                 "link": "https://www.google.com/maps/search/Farmer+Boys/@33.1262518,-117.09764880000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1569,
-                "rating": 4.5,
+                "reviews": 1573,
+                "rating": 4.6,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Swami's Cafe Escondido",
                 "link": "https://www.google.com/maps/search/Swami%27s+Cafe+Escondido/@33.1185915,-117.08713630000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1122,
+                "reviews": 1124,
                 "rating": 4.2,
                 "main_category": "Mei Guo Cai "
             },
@@ -303,7 +311,7 @@
             {
                 "name": "Golden Egg Omelet House",
                 "link": "https://www.google.com/maps/search/Golden+Egg+Omelet+House/@33.1297873,-117.09138779999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 862,
+                "reviews": 865,
                 "rating": 4.4,
                 "main_category": "Zao Wu Can "
             }
@@ -337,7 +345,7 @@
             },
             {
                 "keyword": "Ting Che ",
-                "count": 58
+                "count": 59
             },
             {
                 "keyword": "Ou Mu Dan ",
@@ -368,21 +376,21 @@
             {
                 "name": "Freddy's Frozen Custard & Steakburgers",
                 "link": "https://www.google.com/maps/search/Freddy%27s+Frozen+Custard+%26+Steakburgers/@33.1350683,-117.12017549999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1813,
+                "reviews": 1814,
                 "rating": 4.4,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@33.136590999999996,-117.1793309?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 876,
+                "reviews": 877,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Taco Bell",
                 "link": "https://www.google.com/maps/search/Taco+Bell/@33.1332187,-117.1213954?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 601,
+                "reviews": 603,
                 "rating": 3.9,
                 "main_category": "Kuai Can "
             },
@@ -465,14 +473,14 @@
             {
                 "name": "Taco Bell",
                 "link": "https://www.google.com/maps/search/Taco+Bell/@33.151773999999996,-117.19787260000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 941,
+                "reviews": 943,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@33.1514605,-117.19704960000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 622,
+                "reviews": 623,
                 "rating": 4,
                 "main_category": "Kuai Can "
             },
@@ -498,7 +506,7 @@
                 "main_category": "Can Ting "
             }
         ],
-        "website": "https://www.mcdonalds.com/us/en-us/location/CA/SAN-MARCOS/120-SOUTH-RANCHO-SANTA-FE/3826.html?cid=RF:YXT:GMB::Clicks",
+        "website": "https://www.mcdonalds.com/us/en-us/location/CA/SAN-MARCOS/120-SOUTH-RANCHO-SANTA-FE/3826.html%3Fcid%3DRF:YXT:GMB::Clicks",
         "owner": {
             "id": "106019740419828109640",
             "name": "McDonald's (Ye Zhu )",
@@ -673,14 +681,14 @@
             {
                 "name": "The Cat Cafe",
                 "link": "https://www.google.com/maps/search/The+Cat+Cafe/@32.710575299999995,-117.1615777?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 891,
+                "reviews": 890,
                 "rating": 4.5,
                 "main_category": "Mao Mi Ka Pei Ting "
             },
             {
                 "name": "Black Rock Coffee Bar",
                 "link": "https://www.google.com/maps/search/Black+Rock+Coffee+Bar/@33.2097633,-117.23426110000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
+                "reviews": 310,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -790,7 +798,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -828,6 +836,10 @@
                 "count": 46
             },
             {
+                "keyword": "Xiang Cao ",
+                "count": 12
+            },
+            {
                 "keyword": "Chuang ",
                 "count": 11
             },
@@ -846,10 +858,6 @@
             {
                 "keyword": "Ye ",
                 "count": 8
-            },
-            {
-                "keyword": "Mang Guo ",
-                "count": 7
             }
         ],
         "link": "https://www.google.com/maps/place/Better+Buzz+Coffee+San+Marcos/data=!4m7!3m6!1s0x80dc754fe371ff37:0x34779fc66db337f1!8m2!3d33.1356339!4d-117.1857856!16s%2Fg%2F1tngql9v!19sChIJN_9x40913IAR8TezbcafdzQ?authuser=0&hl=zh-TW&rclk=1"
@@ -878,14 +886,14 @@
             {
                 "name": "IHOP",
                 "link": "https://www.google.com/maps/search/IHOP/@33.1436676,-117.09609440000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 703,
+                "reviews": 704,
                 "rating": 3.9,
                 "main_category": "Zao Can "
             },
             {
                 "name": "Pegah's Kitchen",
                 "link": "https://www.google.com/maps/search/Pegah%27s+Kitchen/@33.145497999999996,-117.149797?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 471,
+                "reviews": 472,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -1066,7 +1074,7 @@
             {
                 "name": "Panera Bread",
                 "link": "https://www.google.com/maps/search/Panera+Bread/@33.136632,-117.1826539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
+                "reviews": 307,
                 "rating": 4.1,
                 "main_category": "Ka Pei Ting "
             },
@@ -1159,7 +1167,7 @@
             {
                 "name": "Caffe Caffe",
                 "link": "https://www.google.com/maps/search/Caff%C3%A9+Caff%C3%A9/@33.1330415,-117.1218895?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
+                "reviews": 71,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
             }
@@ -1235,7 +1243,7 @@
         "name": "Ascend Coffee Roasters",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 468,
+        "reviews": 469,
         "competitors": [
             {
                 "name": "Better Buzz Coffee San Marcos",
@@ -1254,7 +1262,7 @@
             {
                 "name": "TERI Common Grounds Cafe & Coffee Bar",
                 "link": "https://www.google.com/maps/search/TERI+Common+Grounds+Caf%C3%A9+%26+Coffee+Bar/@33.191536,-117.1501736?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 78,
+                "reviews": 79,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -1319,7 +1327,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 385,
+        "reviews": 386,
         "competitors": [
             {
                 "name": "Better Buzz Coffee San Marcos",
@@ -1407,12 +1415,12 @@
         "name": "Blue Mug Coffee & Tea",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 375,
+        "reviews": 377,
         "competitors": [
             {
                 "name": "Kettle On Grand",
                 "link": "https://www.google.com/maps/search/Kettle+On+Grand/@33.121783,-117.08091399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 502,
+                "reviews": 503,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1426,7 +1434,7 @@
             {
                 "name": "Rise Coffee and Boba",
                 "link": "https://www.google.com/maps/search/Rise+Coffee+and+Boba/@33.1396072,-117.09085410000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
+                "reviews": 59,
                 "rating": 4.9,
                 "main_category": "Ka Pei Dian "
             },
@@ -1452,15 +1460,15 @@
         "rating": 4.8,
         "workday_timing": "06:30-13:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+1 442-277-4236",
         "address": "Blue Mug Coffee & Tea, 1882 W El Norte Pkwy, Escondido, CA 92026Mei Guo ",
         "review_keywords": [
             {
                 "keyword": "atmosphere",
-                "count": 16
+                "count": 17
             },
             {
                 "keyword": "Gao ",
@@ -1498,7 +1506,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 353,
+        "reviews": 354,
         "competitors": [
             {
                 "name": "Better Buzz Coffee San Marcos",
@@ -1517,7 +1525,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -1615,7 +1623,7 @@
             {
                 "name": "Pegah's Kitchen",
                 "link": "https://www.google.com/maps/search/Pegah%27s+Kitchen/@33.145497999999996,-117.149797?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 471,
+                "reviews": 472,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -1640,7 +1648,7 @@
             "name": "Panera Bread (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/116421201944006564387"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7ayaxeupJb2NfOOWh-FQIjDmpieKPWB34AnLj=w408-h306-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvZyRDKnKBNzOjNUJLmrmS5b021boGPzJtXnLf=w408-h306-k-no",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting ",
@@ -1661,12 +1669,12 @@
         "address": "Panera Bread, 800 W San Marcos Blvd, San Marcos, CA 92078Mei Guo ",
         "review_keywords": [
             {
-                "keyword": "Tang ",
-                "count": 22
-            },
-            {
                 "keyword": "San Ming Zhi ",
                 "count": 17
+            },
+            {
+                "keyword": "Sha La ",
+                "count": 14
             },
             {
                 "keyword": "Ji Rou ",
@@ -1891,7 +1899,7 @@
             {
                 "name": "TERI Common Grounds Cafe & Coffee Bar",
                 "link": "https://www.google.com/maps/search/TERI+Common+Grounds+Caf%C3%A9+%26+Coffee+Bar/@33.191536,-117.1501736?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 78,
+                "reviews": 79,
                 "rating": 4.8,
                 "main_category": "Ka Pei Dian "
             },
@@ -1965,7 +1973,7 @@
             {
                 "name": "Crispy's Donuts",
                 "link": "https://www.google.com/maps/search/Crispy%27s+Donuts/@33.1470562,-117.20057519999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 346,
+                "reviews": 347,
                 "rating": 4.7,
                 "main_category": "Tian Tian Quan "
             },
@@ -2157,103 +2165,6 @@
         "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80dc752643322fad:0x84557165b1861777!8m2!3d33.131693!4d-117.206598!16s%2Fg%2F1tg7s9r6!19sChIJrS8yQyZ13IARdxeGsWVxVYQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJbWvHkHtz3IARhBAMZJBA1A4",
-        "name": "Leap Coffee - Roastery",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 221,
-        "competitors": [
-            {
-                "name": "Kettle On Grand",
-                "link": "https://www.google.com/maps/search/Kettle+On+Grand/@33.121783,-117.08091399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 502,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Starbucks",
-                "link": "https://www.google.com/maps/search/Starbucks/@33.121365,-117.08544?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 483,
-                "rating": 3.9,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Safari Coffee Roasters",
-                "link": "https://www.google.com/maps/search/Safari+Coffee+Roasters/@33.148606199999996,-117.1068646?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 95,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Culture Craft Coffee & Espresso",
-                "link": "https://www.google.com/maps/search/Culture+Craft+Coffee+%26+Espresso/@33.107015,-117.09685700000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": "https://www.leap.coffee/",
-        "owner": {
-            "id": "108939675904899523080",
-            "name": "Leap Coffee - Roastery (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108939675904899523080"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFO9gBWD3NBUGRLe4sSdhUQ-aqwF6gOXhaYatY=w408-h305-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Ka Pei Hong Bei Shang "
-        ],
-        "rating": 4.7,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+1 760-448-6167",
-        "address": "Leap Coffee - Roastery, 1260 Industrial Ave, Escondido, CA 92029Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Na Tie ",
-                "count": 16
-            },
-            {
-                "keyword": "atmosphere",
-                "count": 13
-            },
-            {
-                "keyword": "Dou ",
-                "count": 10
-            },
-            {
-                "keyword": "Bao Shi ",
-                "count": 6
-            },
-            {
-                "keyword": "San Ming Zhi ",
-                "count": 5
-            },
-            {
-                "keyword": "Hui Yi ",
-                "count": 5
-            },
-            {
-                "keyword": "Kao ",
-                "count": 5
-            },
-            {
-                "keyword": "Gao ",
-                "count": 4
-            },
-            {
-                "keyword": "Xiang Cao ",
-                "count": 4
-            },
-            {
-                "keyword": "Lan Mei ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Leap+Coffee+-+Roastery/data=!4m7!3m6!1s0x80dc737b90c76b6d:0xed44090640c1084!8m2!3d33.1198807!4d-117.1061287!16s%2Fg%2F11b7bslth3!19sChIJbWvHkHtz3IARhBAMZJBA1A4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJCaCzgdx03IAR_2P9-3-NoWQ",
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
@@ -2270,14 +2181,14 @@
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@33.131886699999995,-117.2290617?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 552,
+                "reviews": 554,
                 "rating": 3.8,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Taco Bell",
                 "link": "https://www.google.com/maps/search/Taco+Bell/@33.1322952,-117.2287795?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 366,
                 "rating": 3.6,
                 "main_category": "Kuai Can "
             },
@@ -2444,15 +2355,8 @@
             {
                 "name": "Handel's Homemade Ice Cream",
                 "link": "https://www.google.com/maps/search/Handel%E2%80%99s+Homemade+Ice+Cream/@33.1407253,-117.19226420000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 323,
+                "reviews": 324,
                 "rating": 4.7,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Wynston's Ice Cream Co.",
-                "link": "https://www.google.com/maps/search/Wynston%27s+Ice+Cream+Co./@33.1351535,-117.1593363?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
-                "rating": 4.8,
                 "main_category": "Bing Qi Lin "
             },
             {
@@ -2460,6 +2364,13 @@
                 "link": "https://www.google.com/maps/search/Cold+Stone+Creamery/@33.1337124,-117.12228619999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 126,
                 "rating": 4.2,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Wynston's Ice Cream Co.",
+                "link": "https://www.google.com/maps/search/Wynston%27s+Ice+Cream+Co./@33.1351535,-117.1593363?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 126,
+                "rating": 4.8,
                 "main_category": "Bing Qi Lin "
             }
         ],
@@ -2526,6 +2437,105 @@
         "link": "https://www.google.com/maps/place/Baskin-Robbins/data=!4m7!3m6!1s0x80dbf4d12ed6df27:0x55232a34a8c9ff76!8m2!3d33.1341998!4d-117.1192536!16s%2Fg%2F1tg4x3w9!19sChIJJ9_WLtH024ARdv_JqDQqI1U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJe8pVkK-K24ARMktjoOnpJBg",
+        "name": "Big Apple Bagels",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 177,
+        "competitors": [
+            {
+                "name": "Mama Kat's Restaurant",
+                "link": "https://www.google.com/maps/search/Mama+Kat%27s+Restaurant/@33.135574999999996,-117.1866318?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1762,
+                "rating": 4.6,
+                "main_category": "Chuan Tong Mei Shi Liao Li "
+            },
+            {
+                "name": "Broken Yolk Cafe",
+                "link": "https://www.google.com/maps/search/Broken+Yolk+Cafe/@33.1397391,-117.19287480000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 950,
+                "rating": 4.2,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Pegah's Kitchen",
+                "link": "https://www.google.com/maps/search/Pegah%27s+Kitchen/@33.145497999999996,-117.149797?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 472,
+                "rating": 4.6,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "Panera Bread",
+                "link": "https://www.google.com/maps/search/Panera+Bread/@33.136632,-117.1826539?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 307,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "San Marcos Deli & Catering",
+                "link": "https://www.google.com/maps/search/San+Marcos+Deli+%26+Catering/@33.1407084,-117.18065329999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 63,
+                "rating": 4.5,
+                "main_category": "Shou Shi Dian "
+            }
+        ],
+        "website": "http://bigapplebagels.com/",
+        "owner": {
+            "id": "101327840357427618896",
+            "name": "Big Apple Bagels (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101327840357427618896"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHcVJ5ZLSXWgWYXXvBL-IMhRwYd9z44Nuh-YGF=w426-h240-k-no",
+        "main_category": "Mian Bao Quan Dian ",
+        "categories": [
+            "Mian Bao Quan Dian ",
+            "Mian Bao Xi Bing Dian ",
+            "Wai Mai Zi Qu Can Ting ",
+            "Can Ting ",
+            "San Wen Zhi Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-15:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 760-510-9190",
+        "address": "Big Apple Bagels, 727 W San Marcos Blvd UNIT 107, San Marcos, CA 92069Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Song Bing ",
+                "count": 17
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 15
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 10
+            },
+            {
+                "keyword": "Nai You Qi Si ",
+                "count": 8
+            },
+            {
+                "keyword": "Wu Can ",
+                "count": 6
+            },
+            {
+                "keyword": "Tu Si ",
+                "count": 4
+            },
+            {
+                "keyword": "Guo Zhi ",
+                "count": 3
+            },
+            {
+                "keyword": "Pei Gen ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Big+Apple+Bagels/data=!4m7!3m6!1s0x80db8aaf9055ca7b:0x1824e9e9a0634b32!8m2!3d33.1361268!4d-117.1794342!16s%2Fg%2F1tjdx5v2!19sChIJe8pVkK-K24ARMktjoOnpJBg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ78Tcs6yK24ARPUex08L8UBU",
         "name": "Cuppa Juice Cold Pressed Juicery",
         "description": null,
@@ -2549,7 +2559,7 @@
             {
                 "name": "Fresh Healthy Cafe San Marcos",
                 "link": "https://www.google.com/maps/search/Fresh+Healthy+Cafe+San+Marcos/@33.135170699999996,-117.15944449999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 87,
                 "rating": 4.1,
                 "main_category": "Jian Kang Shi Pin "
             },
@@ -2625,105 +2635,6 @@
         "link": "https://www.google.com/maps/place/Cuppa+Juice+Cold+Pressed+Juicery/data=!4m7!3m6!1s0x80db8aacb3dcc4ef:0x1550fcc2d3b1473d!8m2!3d33.131088!4d-117.166588!16s%2Fg%2F11b6dxqdyj!19sChIJ78Tcs6yK24ARPUex08L8UBU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJe8pVkK-K24ARMktjoOnpJBg",
-        "name": "Big Apple Bagels",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 176,
-        "competitors": [
-            {
-                "name": "Mama Kat's Restaurant",
-                "link": "https://www.google.com/maps/search/Mama+Kat%27s+Restaurant/@33.135574999999996,-117.1866318?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1760,
-                "rating": 4.6,
-                "main_category": "Chuan Tong Mei Shi Liao Li "
-            },
-            {
-                "name": "Broken Yolk Cafe",
-                "link": "https://www.google.com/maps/search/Broken+Yolk+Cafe/@33.1397391,-117.19287480000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 949,
-                "rating": 4.2,
-                "main_category": "Zao Can "
-            },
-            {
-                "name": "Pegah's Kitchen",
-                "link": "https://www.google.com/maps/search/Pegah%27s+Kitchen/@33.145497999999996,-117.149797?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 471,
-                "rating": 4.6,
-                "main_category": "Mei Guo Cai "
-            },
-            {
-                "name": "Panera Bread",
-                "link": "https://www.google.com/maps/search/Panera+Bread/@33.136632,-117.1826539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "San Marcos Deli & Catering",
-                "link": "https://www.google.com/maps/search/San+Marcos+Deli+%26+Catering/@33.1407084,-117.18065329999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 63,
-                "rating": 4.5,
-                "main_category": "Shou Shi Dian "
-            }
-        ],
-        "website": "http://bigapplebagels.com/",
-        "owner": {
-            "id": "101327840357427618896",
-            "name": "Big Apple Bagels (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101327840357427618896"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHcVJ5ZLSXWgWYXXvBL-IMhRwYd9z44Nuh-YGF=w426-h240-k-no",
-        "main_category": "Mian Bao Quan Dian ",
-        "categories": [
-            "Mian Bao Quan Dian ",
-            "Mian Bao Xi Bing Dian ",
-            "Wai Mai Zi Qu Can Ting ",
-            "Can Ting ",
-            "San Wen Zhi Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "06:00-15:00",
-        "closed_on": "Open All Days",
-        "phone": "+1 760-510-9190",
-        "address": "Big Apple Bagels, 727 W San Marcos Blvd UNIT 107, San Marcos, CA 92069Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Song Bing ",
-                "count": 17
-            },
-            {
-                "keyword": "San Ming Zhi ",
-                "count": 15
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 10
-            },
-            {
-                "keyword": "Nai You Qi Si ",
-                "count": 8
-            },
-            {
-                "keyword": "Wu Can ",
-                "count": 6
-            },
-            {
-                "keyword": "Tu Si ",
-                "count": 4
-            },
-            {
-                "keyword": "Guo Zhi ",
-                "count": 3
-            },
-            {
-                "keyword": "Pei Gen ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Big+Apple+Bagels/data=!4m7!3m6!1s0x80db8aaf9055ca7b:0x1824e9e9a0634b32!8m2!3d33.1361268!4d-117.1794342!16s%2Fg%2F1tjdx5v2!19sChIJe8pVkK-K24ARMktjoOnpJBg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJn60vvjp13IARfm28HHPK4PQ",
         "name": "Bubble Tea",
         "description": null,
@@ -2733,7 +2644,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -2747,8 +2658,8 @@
             {
                 "name": "Vivi Bubble Tea",
                 "link": "https://www.google.com/maps/search/Vivi+Bubble+Tea/@33.1344431,-117.11916559999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.4,
+                "reviews": 60,
+                "rating": 4.5,
                 "main_category": "Zhen Zhu Nai Cha "
             },
             {
@@ -2825,7 +2736,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -2911,7 +2822,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -2932,8 +2843,8 @@
             {
                 "name": "Vivi Bubble Tea",
                 "link": "https://www.google.com/maps/search/Vivi+Bubble+Tea/@33.1344431,-117.11916559999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.4,
+                "reviews": 60,
+                "rating": 4.5,
                 "main_category": "Zhen Zhu Nai Cha "
             },
             {
@@ -2958,9 +2869,15 @@
             "Chuan Tong Cha Guan "
         ],
         "rating": 4.6,
-        "workday_timing": "13:00-18:00",
+        "workday_timing": null,
         "closed_on": [
-            "Xing Qi Si "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu "
         ],
         "phone": "+1 858-924-2910",
         "address": "Serenitea, 940 W San Marcos Blvd, San Marcos, CA 92078Mei Guo ",
@@ -3035,8 +2952,8 @@
             {
                 "name": "Yogurt Utopia",
                 "link": "https://www.google.com/maps/search/Yogurt+Utopia/@33.0971056,-117.20022969999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 42,
-                "rating": 3.3,
+                "reviews": 40,
+                "rating": 3.2,
                 "main_category": "Tian Pin Dian "
             }
         ],
@@ -3088,14 +3005,14 @@
             {
                 "name": "Mama Kat's Restaurant",
                 "link": "https://www.google.com/maps/search/Mama+Kat%27s+Restaurant/@33.135574999999996,-117.1866318?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1760,
+                "reviews": 1762,
                 "rating": 4.6,
                 "main_category": "Chuan Tong Mei Shi Liao Li "
             },
             {
                 "name": "Broken Yolk Cafe",
                 "link": "https://www.google.com/maps/search/Broken+Yolk+Cafe/@33.1397391,-117.19287480000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 949,
+                "reviews": 950,
                 "rating": 4.2,
                 "main_category": "Zao Can "
             },
@@ -3171,102 +3088,16 @@
         "link": "https://www.google.com/maps/place/Wholly+Crepe/data=!4m7!3m6!1s0x80dc75ab279f8979:0x8b4589636d185149!8m2!3d33.132303!4d-117.2088945!16s%2Fg%2F11gxxh8cfk!19sChIJeYmfJ6t13IARSVEYbWOJRYs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJbf08YDSL24ARX6tHWUZ9rKE",
-        "name": "Safari Coffee Roasters",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 96,
-        "competitors": [
-            {
-                "name": "Blue Mug Coffee & Tea",
-                "link": "https://www.google.com/maps/search/Blue+Mug+Coffee+%26+Tea/@33.1556115,-117.1247534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 375,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Culture Craft Coffee & Espresso",
-                "link": "https://www.google.com/maps/search/Culture+Craft+Coffee+%26+Espresso/@33.107015,-117.09685700000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Safari Coffee Outpost",
-                "link": "https://www.google.com/maps/search/Safari+Coffee+Outpost/@33.1000848,-117.0001794?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 2.4,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "http://safaricoffee.com/",
-        "owner": {
-            "id": "115461942279429837208",
-            "name": "Safari Coffee Roasters (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115461942279429837208"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxjwx866WkC69Ft03a8YpT9hzBXMWG1apOxsfZ=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting ",
-            "Mian Bao Xi Bing Dian ",
-            "Ka Pei Hong Bei Shang ",
-            "Cha Xie Dian "
-        ],
-        "rating": 4.1,
-        "workday_timing": "06:00-14:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Safari Coffee Roasters, 1012 W El Norte Pkwy, Escondido, CA 92026Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 9
-            },
-            {
-                "keyword": "Dou ",
-                "count": 9
-            },
-            {
-                "keyword": "Nai ",
-                "count": 6
-            },
-            {
-                "keyword": "atmosphere",
-                "count": 5
-            },
-            {
-                "keyword": "Kao ",
-                "count": 5
-            },
-            {
-                "keyword": "Wang Zhan ",
-                "count": 5
-            },
-            {
-                "keyword": "Hong Xi ",
-                "count": 3
-            },
-            {
-                "keyword": "Ka Pei Ji ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Safari+Coffee+Roasters/data=!4m7!3m6!1s0x80db8b34603cfd6d:0xa1ac7d465947ab5f!8m2!3d33.1486062!4d-117.1068646!16s%2Fg%2F1tj52w_3!19sChIJbf08YDSL24ARX6tHWUZ9rKE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJVVVVULKK24AR57UtCtgjH9I",
         "name": "Fresh Healthy Cafe San Marcos",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 86,
+        "reviews": 87,
         "competitors": [
             {
                 "name": "Mama Kat's Restaurant",
                 "link": "https://www.google.com/maps/search/Mama+Kat%27s+Restaurant/@33.135574999999996,-117.1866318?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1760,
+                "reviews": 1762,
                 "rating": 4.6,
                 "main_category": "Chuan Tong Mei Shi Liao Li "
             },
@@ -3280,14 +3111,14 @@
             {
                 "name": "Pegah's Kitchen",
                 "link": "https://www.google.com/maps/search/Pegah%27s+Kitchen/@33.145497999999996,-117.149797?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 471,
+                "reviews": 472,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Fruit Fresh Superfood Delights",
                 "link": "https://www.google.com/maps/search/Fruit+Fresh+Superfood+Delights/@33.1416745,-117.0940371?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 131,
+                "reviews": 129,
                 "rating": 4.6,
                 "main_category": "Jian Kang Shi Pin "
             },
@@ -3311,8 +3142,16 @@
             "Jian Kang Shi Pin Can Ting "
         ],
         "rating": 4.1,
-        "workday_timing": "08:00-16:00",
-        "closed_on": "Open All Days",
+        "workday_timing": null,
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu "
+        ],
         "phone": "+1 760-410-6111",
         "address": "Fresh Healthy Cafe San Marcos, 250 N City Dr #5, San Marcos, CA 92078Mei Guo ",
         "review_keywords": [
@@ -3345,11 +3184,11 @@
                 "count": 4
             },
             {
-                "keyword": "Tang ",
+                "keyword": "Tu Si ",
                 "count": 3
             },
             {
-                "keyword": "Tu Si ",
+                "keyword": "Qing Jiang ",
                 "count": 3
             }
         ],
@@ -3365,14 +3204,14 @@
             {
                 "name": "Peterson's Donut Corner",
                 "link": "https://www.google.com/maps/search/Peterson%27s+Donut+Corner/@33.112911,-117.0791581?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3091,
+                "reviews": 3098,
                 "rating": 4.7,
                 "main_category": "Tian Tian Quan "
             },
             {
                 "name": "Crispy's Donuts",
                 "link": "https://www.google.com/maps/search/Crispy%27s+Donuts/@33.1470562,-117.20057519999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 346,
+                "reviews": 347,
                 "rating": 4.7,
                 "main_category": "Tian Tian Quan "
             },
@@ -3429,10 +3268,6 @@
             },
             {
                 "keyword": "Pan ",
-                "count": 5
-            },
-            {
-                "keyword": "Nei Xian ",
                 "count": 5
             },
             {
@@ -3514,7 +3349,7 @@
         "name": "TERI Common Grounds Cafe & Coffee Bar",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 78,
+        "reviews": 79,
         "competitors": [
             {
                 "name": "Ascend Coffee Roasters",
@@ -3526,7 +3361,7 @@
             {
                 "name": "Ryan Bros Coffee of San Marcos",
                 "link": "https://www.google.com/maps/search/Ryan+Bros+Coffee+of+San+Marcos/@33.1398633,-117.1625062?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 270,
+                "reviews": 271,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3567,18 +3402,18 @@
         "review_keywords": [
             {
                 "keyword": "Te Shu Xu Qiu ",
-                "count": 6
+                "count": 7
             },
             {
                 "keyword": "She Qu ",
-                "count": 6
-            },
-            {
-                "keyword": "Hong Jiu ",
-                "count": 6
+                "count": 7
             },
             {
                 "keyword": "Jia Ge ",
+                "count": 7
+            },
+            {
+                "keyword": "Hong Jiu ",
                 "count": 6
             },
             {
@@ -3592,10 +3427,6 @@
             {
                 "keyword": "happy hour",
                 "count": 5
-            },
-            {
-                "keyword": "Xue Xiao ",
-                "count": 4
             }
         ],
         "link": "https://www.google.com/maps/place/TERI+Common+Grounds+Caf%C3%A9+%26+Coffee+Bar/data=!4m7!3m6!1s0x80db8b6031acf89d:0x29f7e994f9852d3d!8m2!3d33.191536!4d-117.1501736!16s%2Fg%2F11p70w13t4!19sChIJnfisMWCL24ARPS2F-ZTp9yk?authuser=0&hl=zh-TW&rclk=1"
@@ -3624,7 +3455,7 @@
             {
                 "name": "Ryan Bros Coffee of San Marcos",
                 "link": "https://www.google.com/maps/search/Ryan+Bros+Coffee+of+San+Marcos/@33.1398633,-117.1625062?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 270,
+                "reviews": 271,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3699,151 +3530,86 @@
         "link": "https://www.google.com/maps/place/Urban+Sweet+Cafe/data=!4m7!3m6!1s0x80dbf592e792e6e5:0xf3742c670c907846!8m2!3d33.1229452!4d-117.1653015!16s%2Fg%2F11qg3z4xrq!19sChIJ5eaS55L124ARRniQDGcsdPM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJGaE_vkh13IARuFPUWZoo4vw",
-        "name": "Cold Stone Creamery",
-        "description": "Bing Qi Lin Lian Suo Dian ,Gu Ke Ke Zi Xing She Ji Chuang Yi Bing Pin ,Bing You Dian Yuan Zai Hua Gang Yan Ban Shang Yi Shou Gong Hun He ,Yi Fan Shou Nai Xi Deng Qi Ta Chan Pin . ",
-        "is_spending_on_ads": false,
-        "reviews": 76,
-        "competitors": [
-            {
-                "name": "La Michoacana",
-                "link": "https://www.google.com/maps/search/La+Michoacana/@33.1409249,-117.166123?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 584,
-                "rating": 4.6,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Handel's Homemade Ice Cream",
-                "link": "https://www.google.com/maps/search/Handel%E2%80%99s+Homemade+Ice+Cream/@33.1407253,-117.19226420000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 323,
-                "rating": 4.7,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Baskin-Robbins",
-                "link": "https://www.google.com/maps/search/Baskin-Robbins/@33.1341998,-117.11925360000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
-                "rating": 3.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Wynston's Ice Cream Co.",
-                "link": "https://www.google.com/maps/search/Wynston%27s+Ice+Cream+Co./@33.1351535,-117.1593363?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 127,
-                "rating": 4.8,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Fruitilicious",
-                "link": "https://www.google.com/maps/search/Fruitilicious/@33.1371879,-117.20520010000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.9,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": "https://www.coldstonecreamery.com/stores/20100%3Futm_source%3Dgmb%26utm_medium%3Dgmb%26utm_campaign%3Dgmb%26utm_id%3Dgmb",
-        "owner": {
-            "id": "103576650059605803689",
-            "name": "Cold Stone Creamery (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103576650059605803689"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMuoAjAhp9J_DcMqcT3YtGXQWQ-MmXUHavdLljB=w408-h544-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 3.7,
-        "workday_timing": "12:00-21:30",
-        "closed_on": "Open All Days",
-        "phone": "+1 760-510-9347",
-        "address": "Cold Stone Creamery, 1158 W San Marcos Blvd Ste 102, San Marcos, CA 92078Mei Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cold+Stone+Creamery/data=!4m7!3m6!1s0x80dc7548be3fa119:0xfce2289a59d453b8!8m2!3d33.1339101!4d-117.1925697!16s%2Fg%2F1vxz9y12!19sChIJGaE_vkh13IARuFPUWZoo4vw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJbXW0tVt13IAR-2QBQNQqIlU",
-        "name": "San Marcos Deli & Catering",
+        "place_id": "ChIJu5flWxL124ARcb_K5K0K2p0",
+        "name": "Vivi Bubble Tea",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 63,
+        "reviews": 60,
         "competitors": [
             {
-                "name": "Denny's",
-                "link": "https://www.google.com/maps/search/Denny%27s/@33.1365452,-117.18027099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1230,
-                "rating": 4.1,
-                "main_category": "Mei Shi Can Che Dian "
+                "name": "Bubble Tea",
+                "link": "https://www.google.com/maps/search/Bubble+Tea/@33.1319419,-117.20575279999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 175,
+                "rating": 4.2,
+                "main_category": "Zhen Zhu Nai Cha "
             },
             {
-                "name": "Tina's Deli",
-                "link": "https://www.google.com/maps/search/Tina%27s+Deli/@33.1521555,-117.1619294?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 331,
-                "rating": 4.7,
-                "main_category": "Shou Shi Dian "
+                "name": "kung fu tea",
+                "link": "https://www.google.com/maps/search/kung+fu+tea/@33.135504399999995,-117.17872369999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 165,
+                "rating": 4.2,
+                "main_category": "Zhen Zhu Nai Cha "
             },
             {
-                "name": "Panera Bread",
-                "link": "https://www.google.com/maps/search/Panera+Bread/@33.136632,-117.1826539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 308,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
+                "name": "Serenitea",
+                "link": "https://www.google.com/maps/search/Serenitea/@33.1357759,-117.18651460000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 163,
+                "rating": 4.6,
+                "main_category": "Zhen Zhu Nai Cha "
             },
             {
-                "name": "Sub-marine",
-                "link": "https://www.google.com/maps/search/Sub-marine/@33.1342492,-117.18757489999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 223,
-                "rating": 4.8,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Jersey Mike's Subs",
-                "link": "https://www.google.com/maps/search/Jersey+Mike%27s+Subs/@33.136167,-117.17824?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 188,
-                "rating": 4.4,
-                "main_category": "San Wen Zhi "
+                "name": "Sharetea San Marcos",
+                "link": "https://www.google.com/maps/search/Sharetea+San+Marcos/@33.147473,-117.198657?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 43,
+                "rating": 4.3,
+                "main_category": "Cha Yi Guan "
             }
         ],
-        "website": "http://www.sanmarcosdeliandcatering.com/",
+        "website": "http://www.vivibubbletea.com/",
         "owner": {
-            "id": "106907161612388573886",
-            "name": "San Marcos Deli & Catering (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106907161612388573886"
+            "id": "112977927739165120315",
+            "name": "Vivi Bubble Tea (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112977927739165120315"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOL8eM32Em31MA5fZSdXMf5npjuWEQxnFti3uwN=w408-h544-k-no",
-        "main_category": "Shou Shi Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAx65Jluhf-8XbYxitdW4laXTGU3vCYHXRdWLF=w408-h306-k-no",
+        "main_category": "Zhen Zhu Nai Cha Dian ",
         "categories": [
-            "Shou Shi Dian ",
-            "Fan He Gong Ying Shang ",
-            "Zao Can Can Ting ",
-            "Ka Pei Ting ",
-            "Wai Hui Yin Shi Gong Ying Shang ",
-            "Dao Hui Fu Wu ",
-            "Wu Can Can Ting ",
-            "Wai Mai Zi Qu Can Ting ",
-            "San Wen Zhi Dian "
+            "Zhen Zhu Nai Cha Dian "
         ],
         "rating": 4.5,
-        "workday_timing": "07:00-15:30",
+        "workday_timing": "11:30-20:30",
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Yi "
         ],
-        "phone": "+1 760-752-9844",
-        "address": "San Marcos Deli & Catering, 125 Vallecitos De Oro, San Marcos, CA 92069Mei Guo ",
+        "phone": "+1 760-975-3291",
+        "address": "Vivi Bubble Tea, 740 Nordahl Rd #111, San Marcos, CA 92069Mei Guo ",
         "review_keywords": [
             {
-                "keyword": "San Ming Zhi ",
-                "count": 20
+                "keyword": "Xiang Chang ",
+                "count": 4
             },
             {
-                "keyword": "Wu Can ",
+                "keyword": "Kao Rou ",
                 "count": 4
+            },
+            {
+                "keyword": "Yu Tou ",
+                "count": 4
+            },
+            {
+                "keyword": "Kou Wei ",
+                "count": 4
+            },
+            {
+                "keyword": "Zha Ji ",
+                "count": 3
+            },
+            {
+                "keyword": "Xiao Chi ",
+                "count": 3
             },
             {
                 "keyword": "Tang ",
-                "count": 4
-            },
-            {
-                "keyword": "Ji Rou ",
                 "count": 3
             },
             {
@@ -3851,7 +3617,7 @@
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/San+Marcos+Deli+%26+Catering/data=!4m7!3m6!1s0x80dc755bb5b4756d:0x55222ad4400164fb!8m2!3d33.1407084!4d-117.1806533!16s%2Fg%2F1tfly5bg!19sChIJbXW0tVt13IAR-2QBQNQqIlU?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Vivi+Bubble+Tea/data=!4m7!3m6!1s0x80dbf5125be597bb:0x9dda0aade4cabf71!8m2!3d33.1344431!4d-117.1191656!16s%2Fg%2F11pp_qymdg!19sChIJu5flWxL124ARcb_K5K0K2p0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJc8pFhegK3IARqCl7CtCK5XQ",
@@ -3902,94 +3668,6 @@
         "address": "Starbucks, 1571 San Elijo Rd S, San Marcos, CA 92078Mei Guo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80dc0ae88545ca73:0x74e58ad00a7b29a8!8m2!3d33.096913!4d-117.1996961!16s%2Fg%2F1tfvhhry!19sChIJc8pFhegK3IARqCl7CtCK5XQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJu5flWxL124ARcb_K5K0K2p0",
-        "name": "Vivi Bubble Tea",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 58,
-        "competitors": [
-            {
-                "name": "Bubble Tea",
-                "link": "https://www.google.com/maps/search/Bubble+Tea/@33.1319419,-117.20575279999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 175,
-                "rating": 4.2,
-                "main_category": "Zhen Zhu Nai Cha "
-            },
-            {
-                "name": "kung fu tea",
-                "link": "https://www.google.com/maps/search/kung+fu+tea/@33.135504399999995,-117.17872369999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 165,
-                "rating": 4.2,
-                "main_category": "Zhen Zhu Nai Cha "
-            },
-            {
-                "name": "Serenitea",
-                "link": "https://www.google.com/maps/search/Serenitea/@33.1357759,-117.18651460000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 163,
-                "rating": 4.6,
-                "main_category": "Zhen Zhu Nai Cha "
-            },
-            {
-                "name": "Sharetea San Marcos",
-                "link": "https://www.google.com/maps/search/Sharetea+San+Marcos/@33.147473,-117.198657?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
-                "rating": 4.3,
-                "main_category": "Cha Yi Guan "
-            }
-        ],
-        "website": "http://www.vivibubbletea.com/",
-        "owner": {
-            "id": "112977927739165120315",
-            "name": "Vivi Bubble Tea (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112977927739165120315"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAx65Jluhf-8XbYxitdW4laXTGU3vCYHXRdWLF=w408-h306-k-no",
-        "main_category": "Zhen Zhu Nai Cha Dian ",
-        "categories": [
-            "Zhen Zhu Nai Cha Dian "
-        ],
-        "rating": 4.4,
-        "workday_timing": "11:30-20:30",
-        "closed_on": "Open All Days",
-        "phone": "+1 760-975-3291",
-        "address": "Vivi Bubble Tea, 740 Nordahl Rd #111, San Marcos, CA 92069Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Xiang Chang ",
-                "count": 4
-            },
-            {
-                "keyword": "Kao Rou ",
-                "count": 4
-            },
-            {
-                "keyword": "Yu Tou ",
-                "count": 4
-            },
-            {
-                "keyword": "Kou Wei ",
-                "count": 4
-            },
-            {
-                "keyword": "Zha Ji ",
-                "count": 3
-            },
-            {
-                "keyword": "Xiao Chi ",
-                "count": 3
-            },
-            {
-                "keyword": "Tang ",
-                "count": 3
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Vivi+Bubble+Tea/data=!4m7!3m6!1s0x80dbf5125be597bb:0x9dda0aade4cabf71!8m2!3d33.1344431!4d-117.1191656!16s%2Fg%2F11pp_qymdg!19sChIJu5flWxL124ARcb_K5K0K2p0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ5dPrhM2K24AR0nJmnjSQBY4",
@@ -4144,7 +3822,7 @@
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@33.131886699999995,-117.2290617?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 552,
+                "reviews": 554,
                 "rating": 3.8,
                 "main_category": "Kuai Can "
             },
@@ -4294,7 +3972,7 @@
             {
                 "name": "Fresh Healthy Cafe San Marcos",
                 "link": "https://www.google.com/maps/search/Fresh+Healthy+Cafe+San+Marcos/@33.135170699999996,-117.15944449999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 87,
                 "rating": 4.1,
                 "main_category": "Jian Kang Shi Pin "
             },
@@ -4320,9 +3998,9 @@
         "rating": 3.5,
         "workday_timing": "07:00-15:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Copa Vida - San Marcos, 250 N City Dr ste 1, San Marcos, CA 92078Mei Guo ",
@@ -4352,7 +4030,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -4373,8 +4051,8 @@
             {
                 "name": "Vivi Bubble Tea",
                 "link": "https://www.google.com/maps/search/Vivi+Bubble+Tea/@33.1344431,-117.11916559999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 58,
-                "rating": 4.4,
+                "reviews": 60,
+                "rating": 4.5,
                 "main_category": "Zhen Zhu Nai Cha "
             }
         ],
@@ -4435,7 +4113,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -4534,12 +4212,12 @@
             "Zheng Liu Ka Pei Ba "
         ],
         "rating": 2.4,
-        "workday_timing": "08:00-13:00",
+        "workday_timing": "06:30-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Wu ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+1 760-750-4757",
         "address": "Starbucks, 555 Campus View Dr, San Marcos, CA 92096Mei Guo ",
@@ -4575,7 +4253,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -4639,7 +4317,7 @@
             {
                 "name": "Ryan Bros Coffee of San Marcos",
                 "link": "https://www.google.com/maps/search/Ryan+Bros+Coffee+of+San+Marcos/@33.1398633,-117.1625062?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 270,
+                "reviews": 271,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4672,10 +4350,10 @@
         "rating": 5,
         "workday_timing": "10:00-16:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Er ",
             "Xing Qi Si ",
-            "Xing Qi Wu ",
-            "Xing Qi Ri "
+            "Xing Qi Wu "
         ],
         "phone": "+1 832-714-8025",
         "address": "Memli Coffee Lab, 1365 Grand Ave #103, San Marcos, CA 92078Mei Guo ",
@@ -4687,12 +4365,12 @@
         "name": "Crispy's Donuts",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 346,
+        "reviews": 347,
         "competitors": [
             {
                 "name": "Krispy Kreme",
                 "link": "https://www.google.com/maps/search/Krispy+Kreme/@33.1817542,-117.33721569999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 423,
+                "reviews": 424,
                 "rating": 4.4,
                 "main_category": "Tian Tian Quan "
             },
@@ -4779,7 +4457,7 @@
             {
                 "name": "Crispy's Donuts",
                 "link": "https://www.google.com/maps/search/Crispy%27s+Donuts/@33.1470562,-117.20057519999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 346,
+                "reviews": 347,
                 "rating": 4.7,
                 "main_category": "Tian Tian Quan "
             },
@@ -4872,7 +4550,7 @@
             {
                 "name": "Chico's Panaderia",
                 "link": "https://www.google.com/maps/search/Chico%27s+Panaderia/@33.2145952,-117.24568079999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 133,
+                "reviews": 132,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -4928,7 +4606,7 @@
         "name": "Caffe Caffe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 68,
+        "reviews": 71,
         "competitors": [
             {
                 "name": "Starbucks",
@@ -4979,11 +4657,11 @@
             },
             {
                 "keyword": "Na Tie ",
-                "count": 9
+                "count": 10
             },
             {
                 "keyword": "Pa Ni Ni ",
-                "count": 4
+                "count": 5
             },
             {
                 "keyword": "Yin Le ",
@@ -5005,82 +4683,11 @@
         "link": "https://www.google.com/maps/place/Caff%C3%A9+Caff%C3%A9/data=!4m7!3m6!1s0x80dbf540263ef075:0xe17a7a437a8d859!8m2!3d33.1330415!4d-117.1218895!16s%2Fg%2F11tsh52gs9!19sChIJdfA-JkD124ARWdioN6SnFw4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJwewEzNX024ARtTPS440DgHI",
-        "name": "La Mixteca#2",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 53,
-        "competitors": [
-            {
-                "name": "La Michoacana",
-                "link": "https://www.google.com/maps/search/La+Michoacana/@33.1409249,-117.166123?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 584,
-                "rating": 4.6,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Mixteca",
-                "link": "https://www.google.com/maps/search/La+Mixteca/@33.2146702,-117.24561899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 278,
-                "rating": 4.2,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La michoacana Plus -Escondido,CA-",
-                "link": "https://www.google.com/maps/search/La+michoacana+Plus+-Escondido%2CCA-/@33.127039100000005,-117.08704239999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
-                "rating": 4.3,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Isla Neveria",
-                "link": "https://www.google.com/maps/search/La+Isla+Neveria/@33.1423126,-117.2016192?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.7,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "LA MICHOACANA ALANATURAL",
-                "link": "https://www.google.com/maps/search/LA+MICHOACANA+ALANATURAL/@33.128476899999995,-117.08487849999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4.6,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "116341480796409159579",
-            "name": "La Mixteca#2 (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116341480796409159579"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPDWwVG5iW27mmtbOFEwQMx4UU4ziLlYnrOdh-u=w426-h240-k-no",
-        "main_category": "Xue Gao Dian ",
-        "categories": [
-            "Xue Gao Dian "
-        ],
-        "rating": 4.2,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+1 760-741-7898",
-        "address": "La Mixteca#2, 705 Center Dr UNIT 107, San Marcos, CA 92069Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Bing Bang ",
-                "count": 3
-            },
-            {
-                "keyword": "Kou Wei ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/La+Mixteca%232/data=!4m7!3m6!1s0x80dbf4d5cc04ecc1:0x7280038de3d233b5!8m2!3d33.1329056!4d-117.1216266!16s%2Fg%2F1tksnnnk!19sChIJwewEzNX024ARtTPS440DgHI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJo29zgesK3IARj0hDJx07Oyc",
         "name": "Yogurt Utopia",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 41,
+        "reviews": 40,
         "competitors": [
             {
                 "name": "FroYo Love",
@@ -5092,7 +4699,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -5131,22 +4738,18 @@
             "Ka Pei Dian ",
             "Ru Luo Xue Gao Dian "
         ],
-        "rating": 3.3,
+        "rating": 3.2,
         "workday_timing": "11:00-20:30",
         "closed_on": "Open All Days",
         "phone": "+1 760-591-9479",
         "address": "Yogurt Utopia, 1523 San Elijo Rd S #108, San Marcos, CA 92078Mei Guo ",
         "review_keywords": [
             {
-                "keyword": "Bei ",
-                "count": 4
-            },
-            {
                 "keyword": "atmosphere",
                 "count": 3
             },
             {
-                "keyword": "Sheng Ming ",
+                "keyword": "Bei ",
                 "count": 3
             },
             {
@@ -5187,7 +4790,7 @@
             {
                 "name": "Caffe Caffe",
                 "link": "https://www.google.com/maps/search/Caff%C3%A9+Caff%C3%A9/@33.1330415,-117.1218895?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
+                "reviews": 71,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5241,7 +4844,7 @@
             {
                 "name": "Ryan Bros Coffee of San Marcos",
                 "link": "https://www.google.com/maps/search/Ryan+Bros+Coffee+of+San+Marcos/@33.1398633,-117.1625062?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 270,
+                "reviews": 271,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -5267,8 +4870,8 @@
         "rating": 4.8,
         "workday_timing": "07:00-14:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+1 760-274-3454",
         "address": "Duke's Hawaiian Coffee, Inside the Kaiser Permanent Building, 400 Craven Rd, San Marcos, CA 92078Mei Guo ",
@@ -5299,7 +4902,7 @@
             {
                 "name": "Ryan Bros Coffee of San Marcos",
                 "link": "https://www.google.com/maps/search/Ryan+Bros+Coffee+of+San+Marcos/@33.1398633,-117.1625062?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 270,
+                "reviews": 271,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -5325,88 +4928,13 @@
         "rating": 4,
         "workday_timing": "08:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": null,
         "address": "Bella Crema Espresso Bar, 400 Craven Rd, San Marcos, CA 92078Mei Guo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Bella+Crema+Espresso+Bar/data=!4m7!3m6!1s0x80dbf554e68d43f9:0x41180da1348d87b3!8m2!3d33.1283016!4d-117.1700813!16s%2Fg%2F11c46ss5qz!19sChIJ-UON5lT124ARs4eNNKENGEE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJw8lcmi7124ARi4pZxP1yme8",
-        "name": "Coffee Shop",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Blue Mug Coffee & Tea",
-                "link": "https://www.google.com/maps/search/Blue+Mug+Coffee+%26+Tea/@33.1556115,-117.1247534?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 375,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Starbucks",
-                "link": "https://www.google.com/maps/search/Starbucks/@33.1222881,-117.1217968?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 84,
-                "rating": 4.2,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Culture Craft Coffee & Espresso",
-                "link": "https://www.google.com/maps/search/Culture+Craft+Coffee+%26+Espresso/@33.107015,-117.09685700000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Coffee Shop (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EaXqjI7lYljq6SK1Gw_wEg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=22.67306&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Coffee Shop, 2177 Citracado Parkwy, Escondido, CA 92029Mei Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+Shop/data=!4m7!3m6!1s0x80dbf52e9a5cc9c3:0xef9972fdc4598a8b!8m2!3d33.1222247!4d-117.1210391!16s%2Fg%2F11rgs7x18m!19sChIJw8lcmi7124ARi4pZxP1yme8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJh1Y0OymL24ARTa-MM93CLvE",
-        "name": "Coffee-Surplus",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "102572702004308112174",
-            "name": "Coffee-Surplus (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102572702004308112174"
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Service establishment"
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": null,
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee-Surplus/data=!4m7!3m6!1s0x80db8b293b345687:0xf12ec2dd338caf4d!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11jrkkddxr!19sChIJh1Y0OymL24ARTa-MM93CLvE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJAQDQqkR13IARKM_GfbZJyR0",
@@ -5418,7 +4946,7 @@
             {
                 "name": "Tea Amo",
                 "link": "https://www.google.com/maps/search/Tea+Amo/@33.1359389,-117.17964259999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 181,
+                "reviews": 182,
                 "rating": 4.7,
                 "main_category": "Zhen Zhu Nai Cha "
             },
@@ -5471,55 +4999,31 @@
         "link": "https://www.google.com/maps/place/Nintai+Tea/data=!4m7!3m6!1s0x80dc7544aad00001:0x1dc949b67dc6cf28!8m2!3d33.1417548!4d-117.1853399!16s%2Fg%2F11rxhzmrc7!19sChIJAQDQqkR13IARKM_GfbZJyR0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJq6o6x-Z03IAR5KO_4FAcc48",
-        "name": "Twin Peaks Coffee",
+        "place_id": "ChIJh1Y0OymL24ARTa-MM93CLvE",
+        "name": "Coffee-Surplus",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
-        "competitors": [
-            {
-                "name": "El Kafecito",
-                "link": "https://www.google.com/maps/search/El+Kafecito/@33.1926483,-117.2327177?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 93,
-                "rating": 4.8,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Javo Beverage Co Inc",
-                "link": "https://www.google.com/maps/search/Javo+Beverage+Co+Inc/@33.1420637,-117.22082049999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 29,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Coffee Blenders",
-                "link": "https://www.google.com/maps/search/Coffee+Blenders/@33.1409504,-117.2275046?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
+        "competitors": [],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Twin Peaks Coffee (Ye Zhu )",
-            "link": null
+            "id": "102572702004308112174",
+            "name": "Coffee-Surplus (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102572702004308112174"
         },
         "featured_image": null,
         "main_category": "Ka Pei Dian ",
         "categories": [
-            "Ka Pei Dian "
+            "Ka Pei Dian ",
+            "Service establishment"
         ],
         "rating": null,
-        "workday_timing": "09:00-17:00",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+1 760-842-5522",
-        "address": "Twin Peaks Coffee, 2865 Scott St #101, Vista, CA 92081Mei Guo ",
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": null,
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Twin+Peaks+Coffee/data=!4m7!3m6!1s0x80dc74e6c73aaaab:0x8f731c50e0bfa3e4!8m2!3d33.1409354!4d-117.2275135!16s%2Fg%2F11n08bknr8!19sChIJq6o6x-Z03IAR5KO_4FAcc48?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Coffee-Surplus/data=!4m7!3m6!1s0x80db8b293b345687:0xf12ec2dd338caf4d!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11jrkkddxr!19sChIJh1Y0OymL24ARTa-MM93CLvE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJc81YlZh13IARZt_RUBgW6g8",

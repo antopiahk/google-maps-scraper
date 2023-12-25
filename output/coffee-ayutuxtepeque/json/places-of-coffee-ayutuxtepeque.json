@@ -4,12 +4,12 @@
         "name": "La Despensa de Don Juan",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 3145,
+        "reviews": 3148,
         "competitors": [
             {
                 "name": "Despensa Familiar * Cuscatancingo",
                 "link": "https://www.google.com/maps/search/Despensa+Familiar+%E2%80%A2+Cuscatancingo/@13.7244636,-89.18134789999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1125,
+                "reviews": 1126,
                 "rating": 4.1,
                 "main_category": "Chao Ji Shi Chang "
             },
@@ -23,16 +23,9 @@
             {
                 "name": "Despensa Familiar * Soyapango",
                 "link": "https://www.google.com/maps/search/Despensa+Familiar+%E2%80%A2+Soyapango/@13.702836099999999,-89.1481632?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 649,
+                "reviews": 650,
                 "rating": 3.9,
                 "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "La Michoacana * Despensa de Don Juan Escalon",
-                "link": "https://www.google.com/maps/search/La+Michoacana+%E2%80%A2+Despensa+de+Don+Juan+Escal%C3%B3n/@13.7110466,-89.23100559999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 597,
-                "rating": 4.3,
-                "main_category": "Bing Qi Lin "
             },
             {
                 "name": "Lacteos Don Bosco Ayutuxtepeque",
@@ -64,12 +57,16 @@
                 "count": 40
             },
             {
-                "keyword": "Ka Pei Ting ",
-                "count": 22
+                "keyword": "He ",
+                "count": 36
             },
             {
-                "keyword": "Mian Ji ",
-                "count": 15
+                "keyword": "Zhi Fu ",
+                "count": 24
+            },
+            {
+                "keyword": "Ka Pei Ting ",
+                "count": 22
             },
             {
                 "keyword": "ATM",
@@ -78,10 +75,6 @@
             {
                 "keyword": "Bao Quan ",
                 "count": 14
-            },
-            {
-                "keyword": "Kong Jian ",
-                "count": 10
             },
             {
                 "keyword": "Bi Xu Pin ",
@@ -93,98 +86,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/La+Despensa+de+Don+Juan/data=!4m7!3m6!1s0x8f633a7ba17335eb:0x616e5258d38c0f42!8m2!3d13.7361111!4d-89.2027778!16s%2Fg%2F1tp28b01!19sChIJ6zVzoXs6Y48RQg-M01hSbmE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJRcLGDF0wY48RVoKr_jAlurk",
-        "name": "The Coffee Cup",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1035,
-        "competitors": [
-            {
-                "name": "The cups",
-                "link": "https://www.google.com/maps/search/The+cups/@13.6567321,-89.18221609999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 4.8,
-                "main_category": "Xue Xiao Wu Can Zhong Xin "
-            },
-            {
-                "name": "The Coffee Cup",
-                "link": "https://www.google.com/maps/search/The+Coffee+Cup/@13.6820667,-89.227098?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "The Coffe Cup",
-                "link": "https://www.google.com/maps/search/The+Coffe+Cup/@13.7901511,-89.1762018?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Golden Coffee Shop",
-                "link": "https://www.google.com/maps/search/Golden+Coffee+Shop/@13.7045555,-89.23641339999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Zi Zhu Can Ting "
-            }
-        ],
-        "website": "http://www.thecoffeecup.com.sv/",
-        "owner": {
-            "id": null,
-            "name": "The Coffee Cup (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPAxp5lZEDzoYzoyFOUz7YgsFjS4HLyaBtlkJRx=w408-h544-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "05:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+503 2261 0408",
-        "address": "The Coffee Cup, 49 Avenida Norte, San Salvador CP 1101Sa Er Wa Duo ",
-        "review_keywords": [
-            {
-                "keyword": "Tian Dian ",
-                "count": 33
-            },
-            {
-                "keyword": "Pin Zhi ",
-                "count": 16
-            },
-            {
-                "keyword": "Jiao Tong ",
-                "count": 13
-            },
-            {
-                "keyword": "Huan Jing ",
-                "count": 11
-            },
-            {
-                "keyword": "Chan Pin ",
-                "count": 9
-            },
-            {
-                "keyword": "Kong Qi ",
-                "count": 7
-            },
-            {
-                "keyword": "Kou Wei ",
-                "count": 7
-            },
-            {
-                "keyword": "Kong Jian ",
-                "count": 7
-            },
-            {
-                "keyword": "Lu Cha ",
-                "count": 6
-            }
-        ],
-        "link": "https://www.google.com/maps/place/The+Coffee+Cup/data=!4m7!3m6!1s0x8f63305d0cc6c245:0xb9ba2530feab8256!8m2!3d13.7029704!4d-89.2161234!16s%2Fg%2F1hf12cq2r!19sChIJRcLGDF0wY48RVoKr_jAlurk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJEQ4KmX46Y48RZiv3Xqv3O-A",
@@ -245,64 +146,6 @@
         "link": "https://www.google.com/maps/place/Kika%27s+Bakery/data=!4m7!3m6!1s0x8f633a7e990a0e11:0xe03bf7ab5ef72b66!8m2!3d13.7397078!4d-89.1948308!16s%2Fg%2F11g7_9wgyz!19sChIJEQ4KmX46Y48RZiv3Xqv3O-A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJU4p6e9YxY48RQH5xQ9l51Os",
-        "name": "Comedor Yamileth",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "Comedor Yani",
-                "link": "https://www.google.com/maps/search/Comedor+Yani/@13.7266728,-89.2005577?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Comedor Ebenezer",
-                "link": "https://www.google.com/maps/search/Comedor+Ebenezer/@13.733471199999999,-89.21346779999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Comedor las Comadres",
-                "link": "https://www.google.com/maps/search/Comedor+las+Comadres/@13.727034100000001,-89.2035169?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Comedor Evelyn - Mercado Zacamil",
-                "link": "https://www.google.com/maps/search/Comedor+Evelyn+-+Mercado+Zacamil/@13.727250000000002,-89.2027343?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Zao Wu Can "
-            }
-        ],
-        "website": "https://www.ubereats.com/san-salvador/food-delivery/comedor-yamileth/cvP0rD4NRX2xe9LHCYohWg",
-        "owner": {
-            "id": "108332177301246635878",
-            "name": "Comedor Yamileth (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108332177301246635878"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUvxroCkimSj32HPs3GJ0tv5EgiSEmV7gPtLKg=w408-h306-k-no",
-        "main_category": "Zi Zhu Can Ting ",
-        "categories": [
-            "Zi Zhu Can Ting ",
-            "Ka Pei Ting "
-        ],
-        "rating": 3,
-        "workday_timing": "06:00-15:00",
-        "closed_on": [
-            "Xing Qi Si "
-        ],
-        "phone": "+503 7881 8767",
-        "address": "Comedor Yamileth, Mercado Zacamil, Mejicanos, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Comedor+Yamileth/data=!4m7!3m6!1s0x8f6331d67b7a8a53:0xebd479d943717e40!8m2!3d13.7274059!4d-89.2028184!16s%2Fg%2F11j0rskvn_!19sChIJU4p6e9YxY48RQH5xQ9l51Os?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ1YTuWk0xY48RIzjSR0qX4e8",
         "name": "Cafeteria IZAD",
         "description": null,
@@ -311,7 +154,7 @@
         "competitors": [
             {
                 "name": "Macchiato Cafe",
-                "link": "https://www.google.com/maps/search/Macchiato+Cafe/@13.697272199999999,-89.2496843?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Macchiato+Cafe/@13.697305499999999,-89.2496462?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 21,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
@@ -360,59 +203,68 @@
         "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+IZAD/data=!4m7!3m6!1s0x8f63314d5aee84d5:0xefe1974a47d23823!8m2!3d13.72759!4d-89.2036154!16s%2Fg%2F11scfv8fd7!19sChIJ1YTuWk0xY48RIzjSR0qX4e8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJZdePcA87Y48RLNHOApTGpfM",
-        "name": "Tsopelik",
+        "place_id": "ChIJ58O_Rg0xY48R7t1H6qjV5Gc",
+        "name": "Professional Coffee",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [
             {
-                "name": "Dining & Pupuseria Estelita",
-                "link": "https://www.google.com/maps/search/Dining+%26+Pupuseria+Estelita/@13.7227976,-89.1787732?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 51,
-                "rating": 3.8,
-                "main_category": "Ka Pei Ting "
+                "name": "Viva Espresso",
+                "link": "https://www.google.com/maps/search/Viva+Espresso/@13.6869455,-89.24547299999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 565,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Tutunik cafe & chocolate",
-                "link": "https://www.google.com/maps/search/Tutunik+cafe+%26+chocolate/@13.6752439,-89.2881572?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Proyecto Cafe",
+                "link": "https://www.google.com/maps/search/Proyecto+Caf%C3%A9/@13.717488999999999,-89.206102?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 160,
+                "rating": 4.8,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "The Champion Coffee",
+                "link": "https://www.google.com/maps/search/The+Champion+Coffee/@13.722635600000002,-89.2339805?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 8,
                 "rating": 4.6,
-                "main_category": "Ka Pei Ting "
+                "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Mangoneadas Tetypop",
-                "link": "https://www.google.com/maps/search/Mangoneadas+Tetypop/@13.7291904,-89.1967185?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "CoffeeLate",
+                "link": "https://www.google.com/maps/search/CoffeeLate/@13.6684634,-89.221519?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 3,
-                "rating": 5,
-                "main_category": "Ka Pei Ting "
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Elotitos Sv",
-                "link": "https://www.google.com/maps/search/Elotitos+Sv/@13.7281689,-89.2045947?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Espresso caffe",
+                "link": "https://www.google.com/maps/search/Espresso+caffe/@13.7120897,-89.1847616?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://sofiasantos2795.wixsite.com/tsopelik",
+        "website": "https://www.facebook.com/Professional-coffee-107941635116412",
         "owner": {
-            "id": null,
-            "name": "Tsopelik (Ye Zhu )",
-            "link": null
+            "id": "111000103503247095254",
+            "name": "Professional Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111000103503247095254"
         },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4OPsH4W-RrHSPjxvm8_OzqQKJ7uiz-d_WOB8E=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Ka Pei Ting "
+            "Ka Pei Dian "
         ],
         "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PRH9+GF5 Tsopelik, Calle El Calvario, Sa Er Wa Duo ",
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+503 7609 9018",
+        "address": "Professional Coffee, 4a Calle Ote. 526, San Salvador CP 1101Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tsopelik/data=!4m7!3m6!1s0x8f633b0f708fd765:0xf3a5c69402ced12c!8m2!3d13.7287632!4d-89.1812783!16s%2Fg%2F11lgjm05z2!19sChIJZdePcA87Y48RLNHOApTGpfM?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Professional+Coffee/data=!4m7!3m6!1s0x8f63310d46bfc3e7:0x67e4d5a8ea47ddee!8m2!3d13.7218983!4d-89.1877655!16s%2Fg%2F11tp3tgsjg!19sChIJ58O_Rg0xY48R7t1H6qjV5Gc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJVzbjXzsxY48Rka-x8ahTPPU",
@@ -423,7 +275,7 @@
         "competitors": [
             {
                 "name": "Le Cafe | Quezaltepeque",
-                "link": "https://www.google.com/maps/search/Le+Caf%C3%A9+%7C+Quezaltepeque/@13.832887399999999,-89.2716535?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Le+Caf%C3%A9+%7C+Quezaltepeque/@13.8328882,-89.27170509999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1099,
                 "rating": 4.2,
                 "main_category": "Ka Pei Ting "
@@ -431,7 +283,7 @@
             {
                 "name": "Le Cafe | Centro Historico",
                 "link": "https://www.google.com/maps/search/Le+Caf%C3%A9+%7C+Centro+Hist%C3%B3rico/@13.698858099999999,-89.1913489?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 702,
+                "reviews": 707,
                 "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
@@ -495,68 +347,6 @@
         "link": "https://www.google.com/maps/place/Le+Caf%C3%A9+%E2%80%A2+Mejicanos/data=!4m7!3m6!1s0x8f63313b5fe33657:0xf53c53a8f1b1af91!8m2!3d13.7229139!4d-89.1891213!16s%2Fg%2F11fn627rl6!19sChIJVzbjXzsxY48Rka-x8ahTPPU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJi_S48YU6Y48RkousAIBHCuY",
-        "name": "Pupuseria Sofi",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 150,
-        "competitors": [
-            {
-                "name": "Pupuseria Bendicion de Dios Nina Gloria",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+Bendici%C3%B3n+de+Dios+Ni%C3%B1a+Gloria/@13.738705999999999,-89.2131503?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 98,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Pupuseria San Pedro",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+San+Pedro/@13.738224899999999,-89.21376110000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Pupuseria Sofi",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+Sofi/@13.6868926,-89.2014196?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Pupuseria y tortilleria sofi",
-                "link": "https://www.google.com/maps/search/Pupuseria+y+tortilleria+sofi/@13.7183437,-89.15066519999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Pupuseria Sofia",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+Sof%C3%ADa/@13.763655,-89.184052?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "112658094743774073135",
-            "name": "Pupuseria Sofi (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112658094743774073135"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN91rx7g-R4AHCpTV_p-CdOUAFvjl-Xp9I6YnJ-=w408-h272-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.1,
-        "workday_timing": "07:00-21:30",
-        "closed_on": "Open All Days",
-        "phone": "+503 2357 3131",
-        "address": "Pupuseria Sofi, C. San Lucas 3, Mejicanos, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Pupuseria+Sofi/data=!4m7!3m6!1s0x8f633a85f1b8f48b:0xe60a478000ac8b92!8m2!3d13.7385158!4d-89.2142176!16s%2Fg%2F11c1rtx_xy!19sChIJi_S48YU6Y48RkousAIBHCuY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJBw3Qxj07Y48RSKSNZMUAjWw",
         "name": "Cafe Tiliche",
         "description": null,
@@ -566,7 +356,7 @@
             {
                 "name": "El Rinconcito del Cafe",
                 "link": "https://www.google.com/maps/search/El+Rinconcito+del+Caf%C3%A9/@13.7103731,-89.24391589999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 611,
+                "reviews": 617,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -580,8 +370,8 @@
             {
                 "name": "Pinulito Ayutuxtepeque",
                 "link": "https://www.google.com/maps/search/Pinulito+Ayutuxtepeque/@13.735525400000002,-89.2025651?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.3,
+                "reviews": 25,
+                "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
@@ -611,7 +401,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.7,
-        "workday_timing": "11:30-21:00",
+        "workday_timing": "11:30-21:30",
         "closed_on": [
             "Xing Qi Yi "
         ],
@@ -714,7 +504,7 @@
             {
                 "name": "Panaderia y Pasteleria El Rosario",
                 "link": "https://www.google.com/maps/search/Panader%C3%ADa+y+Pasteler%C3%ADa+El+Rosario/@13.706456699999999,-89.19272319999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1237,
+                "reviews": 1238,
                 "rating": 4.1,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -773,7 +563,7 @@
         "name": "Don Bosco Cafe - Restaurante",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 72,
+        "reviews": 73,
         "competitors": [
             {
                 "name": "Cocos los hermanos , multigimnasio don bosco",
@@ -848,7 +638,7 @@
             {
                 "name": "Panes Reinita Ayutuxtepeque",
                 "link": "https://www.google.com/maps/search/Panes+Reinita+Ayutuxtepeque/@13.7350804,-89.2028686?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 36,
+                "reviews": 37,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -902,12 +692,12 @@
         "name": "Cafeteria Shekina",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 58,
+        "reviews": 59,
         "competitors": [
             {
                 "name": "El Rinconcito del Cafe",
                 "link": "https://www.google.com/maps/search/El+Rinconcito+del+Caf%C3%A9/@13.7103731,-89.24391589999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 611,
+                "reviews": 617,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -956,7 +746,20 @@
         "closed_on": "Open All Days",
         "phone": "+503 7894 8562",
         "address": "Cafeteria Shekina, Calle 5 de Noviembre 421, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 4
+            },
+            {
+                "keyword": "Huan Jing ",
+                "count": 3
+            },
+            {
+                "keyword": "Pin Zhi ",
+                "count": 3
+            }
+        ],
         "link": "https://www.google.com/maps/place/Cafeteria+Shekina/data=!4m7!3m6!1s0x8f633161830a5647:0x4f516b1cbb4c8900!8m2!3d13.7094532!4d-89.1847928!16s%2Fg%2F11pf9tw0yb!19sChIJR1YKg2ExY48RAIlMuxxrUU8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
@@ -983,8 +786,8 @@
             {
                 "name": "Pinulito Ayutuxtepeque",
                 "link": "https://www.google.com/maps/search/Pinulito+Ayutuxtepeque/@13.735525400000002,-89.2025651?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.3,
+                "reviews": 25,
+                "rating": 4.1,
                 "main_category": "Can Ting "
             },
             {
@@ -1017,9 +820,9 @@
         "rating": 4.4,
         "workday_timing": "17:00-21:30",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+503 7277 7217",
         "address": "Antiquites Cafe, 29 Avenida Norte, entre 1a Calle Poniente y Calle Independencia 15 de Septiembre, Sa Er Wa Duo ",
@@ -1087,49 +890,6 @@
         "link": "https://www.google.com/maps/place/Comedor+Veronica/data=!4m7!3m6!1s0x8f633a7d99e422ab:0xf849eda4cb1d91dd!8m2!3d13.7356438!4d-89.2077377!16s%2Fg%2F11fylkd54k!19sChIJqyLkmX06Y48R3ZEdy6TtSfg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJdx4DABsxY48R5wG9xS1GNDk",
-        "name": "Cafeteria UES",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 43,
-        "competitors": [
-            {
-                "name": "La Bequi",
-                "link": "https://www.google.com/maps/search/La+Bequi/@13.6963268,-89.224784?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Mecafe Gourmet",
-                "link": "https://www.google.com/maps/search/Mecafe+Gourmet/@13.7060625,-89.21193749999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 3.4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafeteria UES (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOVTBAc_-V59HtmeHbSn3oI6IHqcbghCz64f014=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4,
-        "workday_timing": "08:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "PQ9W+VVG Cafeteria UES, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+UES/data=!4m7!3m6!1s0x8f63311b00031e77:0x3934462dc5bd01e7!8m2!3d13.7196834!4d-89.2027948!16s%2Fg%2F11grprv46w!19sChIJdx4DABsxY48R5wG9xS1GNDk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJIyqlKfExY48RyRRi1j5Pnsc",
         "name": "Star Rowalt Coffee",
         "description": null,
@@ -1191,7 +951,7 @@
         "review_keywords": [
             {
                 "keyword": "Jia Ge ",
-                "count": 4
+                "count": 5
             },
             {
                 "keyword": "Yue Du ",
@@ -1199,118 +959,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Star+Rowalt+Coffee/data=!4m7!3m6!1s0x8f6331f129a52a23:0xc79e4f3ed66214c9!8m2!3d13.7210762!4d-89.209368!16s%2Fg%2F11flv0yrg2!19sChIJIyqlKfExY48RyRRi1j5Pnsc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJKTVHQno6Y48R2cwa6W38_II",
-        "name": "TATO'S LACTEOS",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 19,
-        "competitors": [
-            {
-                "name": "Tienda los 2 brothers",
-                "link": "https://www.google.com/maps/search/Tienda+los+2+brothers/@13.7365018,-89.19920379999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.6,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Variedades Tato's",
-                "link": "https://www.google.com/maps/search/Variedades+Tato%27s/@13.6763626,-89.28706849999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4,
-                "main_category": "Chao Ji Shi Chang "
-            },
-            {
-                "name": "Tienda Lupita.",
-                "link": "https://www.google.com/maps/search/Tienda+Lupita./@13.7362986,-89.20203719999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Nai Zhi Pin Dian "
-            },
-            {
-                "name": "Tato's Bakery",
-                "link": "https://www.google.com/maps/search/Tato%27s+Bakery/@13.6781863,-89.20426289999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Mian Bao Pi Fa Shang "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "TATO'S LACTEOS (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": "07:30-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PQPX+4RM TATO'S LACTEOS, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/TATO%27S+LACTEOS/data=!4m7!3m6!1s0x8f633a7a42473529:0x82fcfc6de91accd9!8m2!3d13.7353319!4d-89.2004448!16s%2Fg%2F11f0k_6fj1!19sChIJKTVHQno6Y48R2cwa6W38_II?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJrVxZy7c7Y48RqCNZyjLyNiU",
-        "name": "Cafeteria Mercy",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 13,
-        "competitors": [
-            {
-                "name": "Pasteleria Mercy",
-                "link": "https://www.google.com/maps/search/Pasteler%C3%ADa+Mercy/@13.7249409,-89.187823?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 43,
-                "rating": 3.9,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Tu Cafe",
-                "link": "https://www.google.com/maps/search/Tu+Caf%C3%A9/@13.722935099999999,-89.17841729999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 25,
-                "rating": 4.7,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Cafeteria Familiar mama Gloria",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Familiar+mam%C3%A1+Glor%C3%ADa/@13.7573238,-89.1882591?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tortas Delmy",
-                "link": "https://www.google.com/maps/search/Tortas+Delmy/@13.783393499999999,-89.1811089?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafeteria Mercy (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpXITqgvDuhJb9IsqUnUbFGgDVDhxhqlUvj5Kr=w408-h244-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "06:30-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 2286 6292",
-        "address": "Cafeteria Mercy, Calle Principal, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Mercy/data=!4m7!3m6!1s0x8f633bb7cb595cad:0x2536f232ca5923a8!8m2!3d13.7310131!4d-89.1818018!16s%2Fg%2F11gr62rzbg!19sChIJrVxZy7c7Y48RqCNZyjLyNiU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJsaYtNFI7Y48RXYF9JCfikCI",
@@ -1342,7 +990,7 @@
             },
             {
                 "name": "Cafe La Esquinita",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Esquinita/@13.6470281,-89.26690400000001?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+La+Esquinita/@13.647049599999999,-89.26695889999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 3,
                 "rating": 5,
                 "main_category": "Ka Pei Ting "
@@ -1368,7 +1016,7 @@
             "Ka Pei Ting "
         ],
         "rating": 4.4,
-        "workday_timing": "09:35-16:00",
+        "workday_timing": "09:35-19:00",
         "closed_on": [
             "Xing Qi Yi "
         ],
@@ -1376,368 +1024,6 @@
         "address": "La Esquinita Coffe & Restaurant, Residencial sacramento, C. Magisterial local 2b, Mejicanos, Sa Er Wa Duo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/La+Esquinita+Coffe+%26+Restaurant/data=!4m7!3m6!1s0x8f633b52342da6b1:0x2290e227247d815d!8m2!3d13.7304788!4d-89.2005872!16s%2Fg%2F11fr3f4645!19sChIJsaYtNFI7Y48RXYF9JCfikCI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJRctQq3s6Y48Rdb98FcKAEMk",
-        "name": "Panaderia Rodolfo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 9,
-        "competitors": [
-            {
-                "name": "Panaderia El Rosario",
-                "link": "https://www.google.com/maps/search/Panader%C3%ADa+El+Rosario/@13.7365503,-89.2026195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 100,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Kika's Bakery",
-                "link": "https://www.google.com/maps/search/Kika%27s+Bakery/@13.7397078,-89.19483079999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Pan Ruth",
-                "link": "https://www.google.com/maps/search/Pan+Ruth/@13.6828985,-89.1915509?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.8,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Sweet Cakes And more",
-                "link": "https://www.google.com/maps/search/Sweet+Cakes+And+more/@13.736209899999999,-89.1959414?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 4,
-                "main_category": "Xi Bing Dian "
-            },
-            {
-                "name": "Dulce fascinacion",
-                "link": "https://www.google.com/maps/search/Dulce+fascinaci%C3%B3n/@13.7366645,-89.1992813?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Tian Pin Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Panaderia Rodolfo (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 3.8,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+503 7795 3685",
-        "address": "PQPX+99P Panaderia Rodolfo, 1a Avenida Norte, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Panaderia+Rodolfo/data=!4m7!3m6!1s0x8f633a7bab50cb45:0xc91080c2157cbf75!8m2!3d13.7359546!4d-89.2015533!16s%2Fg%2F11g6ygdj20!19sChIJRctQq3s6Y48Rdb98FcKAEMk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJsTdwwYwxY48R4jarpSN9gt4",
-        "name": "FioredilotoCafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "Crafters Coffee | Colonia Medica",
-                "link": "https://www.google.com/maps/search/Crafters+Coffee+%7C+Colonia+M%C3%A9dica/@13.708610300000002,-89.2009518?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 443,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tortilleria Fernanda",
-                "link": "https://www.google.com/maps/search/Tortilleria+Fernanda/@13.7479987,-89.1858795?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 3.4,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "Floren Coffee",
-                "link": "https://www.google.com/maps/search/Floren+Coffee/@13.6847813,-89.21648309999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Tropical Jungle",
-                "link": "https://www.google.com/maps/search/Tropical+Jungle/@13.714708300000002,-89.2072503?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "116456381765660413500",
-            "name": "FioredilotoCafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116456381765660413500"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKr7iSp0SJlIq_S8dkj-uxj0g8bPK3X5g1i0jw=w493-h240-k-no",
-        "main_category": "Zi Zhu Can Ting ",
-        "categories": [
-            "Zi Zhu Can Ting ",
-            "Ka Pei Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "07:00-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 2201 9753",
-        "address": "FioredilotoCafe, Calle San Antonio Abad y Av.Sta Victoria #1941 San Salvador CP, 1101Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/FioredilotoCafe/data=!4m7!3m6!1s0x8f63318cc17037b1:0xde827d23a5ab36e2!8m2!3d13.7147114!4d-89.207776!16s%2Fg%2F11h18llw0j!19sChIJsTdwwYwxY48R4jarpSN9gt4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJX8qMKQg6Y48ROLiSAsohCb4",
-        "name": "Panaderia <<EMANUEL>> ",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "Panaderia Emanuel",
-                "link": "https://www.google.com/maps/search/Panader%C3%ADa+Emanuel/@13.7125168,-89.1233971?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Panaderia Dina",
-                "link": "https://www.google.com/maps/search/Panader%C3%ADa+Dina/@13.7234523,-89.18026909999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Tienda Emanuel",
-                "link": "https://www.google.com/maps/search/Tienda+Emanuel/@13.727412500000002,-89.1809656?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Comedor Emanuel",
-                "link": "https://www.google.com/maps/search/Comedor+Emanuel/@13.731758699999999,-89.2191366?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Panaderia <<EMANUEL>>  (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOlenJ7dGANkf-YXReP-iWaEQQLSRubINMn9TTN=w408-h724-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.6,
-        "workday_timing": "07:00-22:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Panaderia <<EMANUEL>> , Calle El Calvario 79-a, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Panader%C3%ADa+%E3%80%8AEMANUEL%E3%80%8B/data=!4m7!3m6!1s0x8f633a08298cca5f:0xbe0921ca0292b838!8m2!3d13.7276156!4d-89.1822067!16s%2Fg%2F11c0t93rbw!19sChIJX8qMKQg6Y48ROLiSAsohCb4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ-dI2RmMwY48R7119ym-kZ2o",
-        "name": "McCafe",
-        "description": "Mai Dang Lao Qi Xia De Lian Suo Dian ,Gong Ying Duo Zhong Te Se Ka Pei Yin Pin , Hong Bei Can Dian Yu Qi Ta Liao Li . ",
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "McDonald's",
-                "link": "https://www.google.com/maps/search/McDonald%27s/@13.692062499999999,-89.2374375?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4518,
-                "rating": 4.3,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "McCafe",
-                "link": "https://www.google.com/maps/search/McCaf%C3%A9/@13.703072599999999,-89.24085099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 387,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "McDonald's",
-                "link": "https://www.google.com/maps/search/McDonald%27s/@13.705326999999999,-89.209784?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 100,
-                "rating": 4.2,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Mi Cafeteria Shaddai",
-                "link": "https://www.google.com/maps/search/Mi+Cafeter%C3%ADa+Shaddai/@13.700167599999999,-89.20333959999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.1,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Cafeteria El Rinconcito",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+El+Rinconcito/@13.7168079,-89.2121473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 3.8,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "McCafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN6k7fDt2zkElCTTQKE2rM7G1ErU5zBuTGPekCS=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.4,
-        "workday_timing": "07:00-18:30",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PQ8Q+43J McCafe, Calle, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/McCaf%C3%A9/data=!4m7!3m6!1s0x8f6330634636d2f9:0x6a67a46fca7d5def!8m2!3d13.7153357!4d-89.2123715!16s%2Fg%2F11f0kqctxq!19sChIJ-dI2RmMwY48R7119ym-kZ2o?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJfeWxCK4xY48R4E8MOyD-0DA",
-        "name": "The Champion Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "The Coffee Cup",
-                "link": "https://www.google.com/maps/search/The+Coffee+Cup/@13.7192426,-89.24218710000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 536,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Stop Coffee",
-                "link": "https://www.google.com/maps/search/Stop+Coffee/@13.6856764,-89.1962779?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
-                "rating": 4.9,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "The Puntarenas Coffee Shop",
-                "link": "https://www.google.com/maps/search/The+Puntarenas+Coffee+Shop/@13.679889999999999,-89.20107089999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 26,
-                "rating": 4.5,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Cafeteria Shalom",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Shalom/@13.7165888,-89.222849?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Donna Caffe",
-                "link": "https://www.google.com/maps/search/Donna+Caffe/@13.7085194,-89.2360727?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "The Champion Coffee (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNIsV5eUN25zQLH5DZThUsbrDCajPJzoNtPG8b_=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PQF8+3C2 The Champion Coffee, Prolongacion Ave Alberto Masferrer &, Calle El Roble, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/The+Champion+Coffee/data=!4m7!3m6!1s0x8f6331ae08b1e57d:0x30d0fe203b0c4fe0!8m2!3d13.7226356!4d-89.2339805!16s%2Fg%2F11shfvf1pj!19sChIJfeWxCK4xY48R4E8MOyD-0DA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJrSqryxU6Y48RAHJoLJJEhtU",
-        "name": "Tortilleria Fernanda",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Cafe Rosita",
-                "link": "https://www.google.com/maps/search/Cafe+Rosita/@13.703311399999999,-89.1891201?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "You Ji Shi Pin Dian "
-            },
-            {
-                "name": "Panes y Pupuseria Estelita",
-                "link": "https://www.google.com/maps/search/Panes+y+Pupuseria+Estelita/@13.7181377,-89.1920706?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "111 San Miguelito",
-                "link": "https://www.google.com/maps/search/111+San+Miguelito/@13.7134525,-89.1906995?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Tortilleria Juanita",
-                "link": "https://www.google.com/maps/search/Tortilleria+Juanita/@13.709005399999999,-89.1856327?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tortilleria Fernanda (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrvkNac2Typm8hom7Qlcr3VL7w7WGcM03tmmn2=w408-h255-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 3.4,
-        "workday_timing": "06:00-13:30",
-        "closed_on": [
-            "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Wu ",
-            "Xing Qi Liu "
-        ],
-        "phone": "+503 7381 5596",
-        "address": "PRX7+5JX Tortilleria Fernanda, Pje Los Izotes, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tortilleria+Fernanda/data=!4m7!3m6!1s0x8f633a15cbab2aad:0xd58644922c687200!8m2!3d13.7479987!4d-89.1858795!16s%2Fg%2F11c5b12nfr!19sChIJrSqryxU6Y48RAHJoLJJEhtU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJA4Gt34IwY48RUB1oF3vuFiM",
@@ -1769,7 +1055,7 @@
             },
             {
                 "name": "Pupuseria Delmy",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+Delmy/@13.7265,-89.2017254?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+Delmy/@13.726471,-89.20172190000001?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 6,
                 "rating": 5,
                 "main_category": "Can Ting "
@@ -1802,6 +1088,74 @@
         "address": "Pupuseria Lily's, edificio 39, colonia zacamil frente, Mejicanos, Sa Er Wa Duo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Pupuser%C3%ADa+Lily%27s/data=!4m7!3m6!1s0x8f633082dfad8103:0x2316ee7b17681d50!8m2!3d13.7248535!4d-89.2003362!16s%2Fg%2F11ggs498vn!19sChIJA4Gt34IwY48RUB1oF3vuFiM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJr0irGcgxY48R6X5qiEUgKtQ",
+        "name": "Chilateria Dona Elena",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Chilateria Mama Nena",
+                "link": "https://www.google.com/maps/search/Chilateria+Mam%C3%A1+Nena/@13.691444,-89.20065660000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1045,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "La neveria",
+                "link": "https://www.google.com/maps/search/La+neveria/@13.7242915,-89.18776369999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Tia Chelita",
+                "link": "https://www.google.com/maps/search/T%C3%ADa+Chelita/@13.690482999999999,-89.16619430000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Antojitos Tita",
+                "link": "https://www.google.com/maps/search/Antojitos+Tita/@13.6574877,-89.1687443?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Chilateria Mama Nena Escalon",
+                "link": "https://www.google.com/maps/search/Chilater%C3%ADa+Mama+Nena+Escal%C3%B3n/@13.699797199999999,-89.2314454?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chilateria Dona Elena (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMcd_UQTA5shTx2hnECK6kiWWJwqksE73nDzszO=w408-h516-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.8,
+        "workday_timing": "13:00-17:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu "
+        ],
+        "phone": null,
+        "address": "PRF9+CPW Chilateria Dona Elena, San Salvador, Sa Er Wa Duo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chilateria+Do%C3%B1a+Elena/data=!4m7!3m6!1s0x8f6331c819ab48af:0xd42a2045886a7ee9!8m2!3d13.7236152!4d-89.1806688!16s%2Fg%2F11r9c5lclx!19sChIJr0irGcgxY48R6X5qiEUgKtQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ93E7mX46Y48REEtrWmf1LKY",
@@ -1866,255 +1220,6 @@
         "link": "https://www.google.com/maps/place/Pan+Camill/data=!4m7!3m6!1s0x8f633a7e993b71f7:0xa62cf5675a6b4b10!8m2!3d13.7330124!4d-89.205302!16s%2Fg%2F11f2wlm87z!19sChIJ93E7mX46Y48REEtrWmf1LKY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJr0irGcgxY48R6X5qiEUgKtQ",
-        "name": "Chilateria Dona Elena",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5,
-        "competitors": [
-            {
-                "name": "Chilateria Mama Nena",
-                "link": "https://www.google.com/maps/search/Chilateria+Mam%C3%A1+Nena/@13.6914375,-89.20056249999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1042,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "La neveria",
-                "link": "https://www.google.com/maps/search/La+neveria/@13.7242915,-89.18776369999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Tia Chelita",
-                "link": "https://www.google.com/maps/search/T%C3%ADa+Chelita/@13.690482999999999,-89.16619430000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Antojitos Tita",
-                "link": "https://www.google.com/maps/search/Antojitos+Tita/@13.6574877,-89.1687443?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Chilateria Mama Nena Escalon",
-                "link": "https://www.google.com/maps/search/Chilater%C3%ADa+Mama+Nena+Escal%C3%B3n/@13.699797199999999,-89.2314454?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Chilateria Dona Elena (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMcd_UQTA5shTx2hnECK6kiWWJwqksE73nDzszO=w408-h516-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": "13:00-17:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Si ",
-            "Xing Qi Wu "
-        ],
-        "phone": null,
-        "address": "PRF9+CPW Chilateria Dona Elena, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Chilateria+Do%C3%B1a+Elena/data=!4m7!3m6!1s0x8f6331c819ab48af:0xd42a2045886a7ee9!8m2!3d13.7236152!4d-89.1806688!16s%2Fg%2F11r9c5lclx!19sChIJr0irGcgxY48R6X5qiEUgKtQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJTXUPL3wxY48RuzZCxJ0fbOA",
-        "name": "Cafeteria Shalom",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 5,
-        "competitors": [
-            {
-                "name": "Tipicos Shalom",
-                "link": "https://www.google.com/maps/search/T%C3%ADpicos+Shalom/@13.7312366,-89.2128662?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
-                "rating": 4.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafeteria shalom",
-                "link": "https://www.google.com/maps/search/Cafeteria+shalom/@13.713178399999999,-89.2043441?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
-                "rating": 3.8,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Taqueria Los Junior",
-                "link": "https://www.google.com/maps/search/Taqueria+Los+Junior/@13.7174011,-89.1275215?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 34,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "The Champion Coffee",
-                "link": "https://www.google.com/maps/search/The+Champion+Coffee/@13.722635600000002,-89.2339805?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafeteria El Rinconcito",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+El+Rinconcito/@13.7168079,-89.2121473?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 3.8,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafeteria Shalom (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbrcG2O_1-VIFdoYkQ-HcEpWV_EN3IDuMh_SGA=w408-h724-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.8,
-        "workday_timing": "07:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "PQ8G+JVJ Cafeteria Shalom, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+Shalom/data=!4m7!3m6!1s0x8f63317c2f0f754d:0xe06c1f9dc44236bb!8m2!3d13.7165888!4d-89.222849!16s%2Fg%2F11fj87k2j7!19sChIJTXUPL3wxY48RuzZCxJ0fbOA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJR6zlqXs6Y48Rx7z0wlmSHnw",
-        "name": "PokeCiber",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "Cafe Internet",
-                "link": "https://www.google.com/maps/search/Cafe+Internet/@13.724047299999999,-89.1888941?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 67,
-                "rating": 4.9,
-                "main_category": "Wang Ba "
-            },
-            {
-                "name": "Ciber 512",
-                "link": "https://www.google.com/maps/search/Ciber+512/@13.735750099999999,-89.1998433?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.3,
-                "main_category": "Dian Nao Wei Xiu Fu Wu "
-            },
-            {
-                "name": "Ciber Y Fotocopias Emanuel",
-                "link": "https://www.google.com/maps/search/Ciber+Y+Fotocopias+Emanuel/@13.736326799999999,-89.20129709999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Wang Ba "
-            },
-            {
-                "name": "Ciber Genesis",
-                "link": "https://www.google.com/maps/search/Ciber+Genesis/@13.7355697,-89.20270149999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Wang Ba "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "112966130672358799527",
-            "name": "PokeCiber (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112966130672358799527"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUm7sU9JqoQwe7W5ULH2Z3kC7V0caPDGySwodZ=w408-h681-k-no",
-        "main_category": "Wang Ba ",
-        "categories": [
-            "Wang Ba "
-        ],
-        "rating": 3,
-        "workday_timing": "06:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": "+503 2512 3602",
-        "address": "PokeCiber, Ayutuxtepeque, Calle Bambu, #3, ayutuxtepeque, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PokeCiber/data=!4m7!3m6!1s0x8f633a7ba9e5ac47:0x7c1e9259c2f4bcc7!8m2!3d13.7363203!4d-89.2018511!16s%2Fg%2F11c6_tv_gf!19sChIJR6zlqXs6Y48Rx7z0wlmSHnw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJg76-i0U7Y48RvoAKYTm5SqU",
-        "name": "Panaderia Pasaje # 3",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 4,
-        "competitors": [
-            {
-                "name": "Panaderia El Rosario",
-                "link": "https://www.google.com/maps/search/Panader%C3%ADa+El+Rosario/@13.7365503,-89.2026195?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 100,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Panaderia Pan Tradicional",
-                "link": "https://www.google.com/maps/search/Panader%C3%ADa+Pan+Tradicional/@13.727657599999999,-89.22059399999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 39,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Panaderia Tepeyac",
-                "link": "https://www.google.com/maps/search/Panaderia+Tepeyac/@13.728412299999999,-89.22739969999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.1,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Pasaje Guadalupe",
-                "link": "https://www.google.com/maps/search/Pasaje+Guadalupe/@13.7414919,-89.1851495?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Panaderia El Progreso",
-                "link": "https://www.google.com/maps/search/Panader%C3%ADa+El+Progreso/@13.733728999999999,-89.1956567?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Panaderia Pasaje # 3 (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.8,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PRP4+929 Panaderia Pasaje # 3, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Panader%C3%ADa+Pasaje+%23+3/data=!4m7!3m6!1s0x8f633b458bbebe83:0xa54ab939610a80be!8m2!3d13.7359178!4d-89.1948835!16s%2Fg%2F11jfdc8c0z!19sChIJg76-i0U7Y48RvoAKYTm5SqU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJuSw75uc7Y48RLQCZWW-edU8",
         "name": "La esquinita del sabor",
         "description": null,
@@ -2151,7 +1256,7 @@
             },
             {
                 "name": "Pupuseria La Esquinita",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+La+Esquinita/@13.7366199,-89.2032064?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+La+Esquinita/@13.736698899999999,-89.20324409999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Can Ting "
@@ -2249,21 +1354,21 @@
         "competitors": [
             {
                 "name": "Paletas Gecko",
-                "link": "https://www.google.com/maps/search/Paletas+Gecko/@13.69806,-89.2408828?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Paletas+Gecko/@13.698053,-89.2409227?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 108,
                 "rating": 4.6,
                 "main_category": "Bing Qi Lin "
             },
             {
                 "name": "Super Mangoneadas TOTA",
-                "link": "https://www.google.com/maps/search/Super+Mangoneadas+TOTA/@13.729102200000002,-89.72024809999999?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Super+Mangoneadas+TOTA/@13.7290929,-89.72021629999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 2,
                 "rating": 4.5,
                 "main_category": "Bing Qi Lin "
             },
             {
                 "name": "Elotitos Sv",
-                "link": "https://www.google.com/maps/search/Elotitos+Sv/@13.7281689,-89.2045947?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Elotitos+Sv/@13.7280935,-89.204594?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
@@ -2303,227 +1408,6 @@
         "link": "https://www.google.com/maps/place/Mangoneadas+Tetypop/data=!4m7!3m6!1s0x8f633baa580448a3:0x6c811840454325a7!8m2!3d13.7291904!4d-89.1967185!16s%2Fg%2F11fd4pprfg!19sChIJo0gEWKo7Y48RpyVDRUAYgWw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJt5AmMhM7Y48RSC_Yop-PVbc",
-        "name": "Panaderia Jireh",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Taqueria Los Junior",
-                "link": "https://www.google.com/maps/search/Taqueria+Los+Junior/@13.7174011,-89.1275215?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 34,
-                "rating": 4.7,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tipicos Jireh",
-                "link": "https://www.google.com/maps/search/T%C3%ADpicos+Jireh/@13.6840326,-89.22092599999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Tortas Jireh",
-                "link": "https://www.google.com/maps/search/Tortas+Jireh/@13.7221133,-89.236115?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "Tortas Jireh",
-                "link": "https://www.google.com/maps/search/Tortas+Jireh/@13.731207399999999,-89.0643419?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Panaderia Jireh (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 5,
-        "workday_timing": "06:00-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 7036 3198",
-        "address": "PQMJ+MJ4 Panaderia Jireh, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Panader%C3%ADa+Jireh/data=!4m7!3m6!1s0x8f633b13322690b7:0xb7558f9fa2d82f48!8m2!3d13.7341387!4d-89.2184266!16s%2Fg%2F11h8hykvpn!19sChIJt5AmMhM7Y48RSC_Yop-PVbc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJmWr-YdkxY48RWpC3lCjqgD0",
-        "name": "Cafe Liceo",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Cafeteria La Rotonda.",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+La+Rotonda./@13.699361000000001,-89.23433059999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 22,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Le Cafe",
-                "link": "https://www.google.com/maps/search/Le+Caf%C3%A9/@13.7025402,-89.2008737?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Elochips",
-                "link": "https://www.google.com/maps/search/Elochips/@13.7158328,-89.2019792?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Professional Coffee",
-                "link": "https://www.google.com/maps/search/Professional+Coffee/@13.7218983,-89.1877655?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "116508718931647676143",
-            "name": "Cafe Liceo (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116508718931647676143"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM--71yDJWLo9mvZoTZrOaNSLtZnBBR-Gn5k29V=w408-h555-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 7031 2598",
-        "address": "Cafe Liceo, Calle San Carlos 408, San Salvador CP 1101Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Liceo/data=!4m7!3m6!1s0x8f6331d961fe6a99:0x3d80ea2894b7905a!8m2!3d13.7157417!4d-89.1929135!16s%2Fg%2F11shq10mb3!19sChIJmWr-YdkxY48RWpC3lCjqgD0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJiUitcHcxY48RtkkBynDa3yc",
-        "name": "Cafeteria Siloe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Cafe El Patio",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+El+Patio/@13.714751500000002,-89.2069637?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 142,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Las Cazuelas",
-                "link": "https://www.google.com/maps/search/Las+Cazuelas/@13.724075299999999,-89.19873799999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 23,
-                "rating": 4.5,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Cafeteria Comadeli",
-                "link": "https://www.google.com/maps/search/Cafeteria+Comadeli/@13.7114582,-89.20188809999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Restaurante Angelo",
-                "link": "https://www.google.com/maps/search/Restaurante+Angelo/@13.7160251,-89.2124096?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafeteria Siloe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOGvstcs2PJxQlDixqRLxm_kH6vNP4XXSuYaUnY=w408-h725-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4,
-        "workday_timing": "08:30-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 2100 2984",
-        "address": "Cafeteria Siloe, C. San Antonio Abad 1821, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafeteria+Siloe/data=!4m7!3m6!1s0x8f63317770ad4889:0x27dfda70ca0149b6!8m2!3d13.7148942!4d-89.207465!16s%2Fg%2F11h07f08f_!19sChIJiUitcHcxY48RtkkBynDa3yc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJYV0JBDUxY48RDtHiOfPn7-I",
-        "name": "The Coffee Break",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 3,
-        "competitors": [
-            {
-                "name": "Koffee Break",
-                "link": "https://www.google.com/maps/search/Koffee+Break/@13.7804878,-89.1187673?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 103,
-                "rating": 4.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "The Coffee Cup",
-                "link": "https://www.google.com/maps/search/The+Coffee+Cup/@13.6820667,-89.227098?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 11,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafeteria The Coffee Garden",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+The+Coffee+Garden/@13.6887663,-89.1464708?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "The Coffee Break (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMEjNT3EoudjIAT9opmz7zIamxwZxW1KV3e3-YY=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "08:00-17:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 6032 1196",
-        "address": "MQW9+3X2 The Coffee Break, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/The+Coffee+Break/data=!4m7!3m6!1s0x8f63313504095d61:0xe2efe7f339e2d10e!8m2!3d13.6951306!4d-89.2301132!16s%2Fg%2F11t0w1h7mv!19sChIJYV0JBDUxY48RDtHiOfPn7-I?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJL3CzW0w7Y48R8p5YhmGMQM8",
         "name": "KAFE KAFE",
         "description": null,
@@ -2550,59 +1434,30 @@
         "link": "https://www.google.com/maps/place/KAF%C3%89+KAF%C3%89/data=!4m7!3m6!1s0x8f633b4c5bb3702f:0xcf408c6186589ef2!8m2!3d13.7277575!4d-89.200235!16s%2Fg%2F11kp_ywnrs!19sChIJL3CzW0w7Y48R8p5YhmGMQM8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJv7il-cQ7Y48RTNTAeH0r_sU",
-        "name": "La Neveria",
+        "place_id": "ChIJa_f0Va0xY48RPepAH79iOo8",
+        "name": "Tipicos San Luis (desde 1991)",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 2,
-        "competitors": [
-            {
-                "name": "La Neveria * Mall Premier",
-                "link": "https://www.google.com/maps/search/La+Never%C3%ADa+%E2%80%A2+Mall+Premier/@13.7270297,-89.20237?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 34,
-                "rating": 4.3,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Neveria Roosevelt",
-                "link": "https://www.google.com/maps/search/La+Neveria+Roosevelt/@13.7010692,-89.2199364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.1,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Neveria",
-                "link": "https://www.google.com/maps/search/La+Neveria/@13.7005722,-89.18917789999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Neveria * CC San Luis",
-                "link": "https://www.google.com/maps/search/La+Never%C3%ADa+%E2%80%A2+CC+San+Luis/@13.715686199999999,-89.2125329?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 2.3,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
+        "competitors": [],
         "website": null,
         "owner": {
             "id": null,
-            "name": "La Neveria (Ye Zhu )",
+            "name": "Tipicos San Luis (desde 1991) (Ye Zhu )",
             "link": null
         },
-        "featured_image": null,
-        "main_category": "Xue Gao Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPeRQuf8tssUhrSftFkxVRiKeD-f_0czDzp8A4f=w408-h306-k-no",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Xue Gao Dian "
+            "Ka Pei Dian "
         ],
-        "rating": 5,
+        "rating": 4.5,
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "PQPW+GXC La Neveria, Mejicanos, Sa Er Wa Duo ",
+        "address": "PQ8Q+Q25 Tipicos San Luis (desde 1991), San Salvador, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/La+Never%C3%ADa/data=!4m7!3m6!1s0x8f633bc4f9a5b8bf:0xc5fe2b7d78c0d44c!8m2!3d13.7363184!4d-89.2026007!16s%2Fg%2F11h0b1qq19!19sChIJv7il-cQ7Y48RTNTAeH0r_sU?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Tipicos+San+Luis+%28desde+1991%29/data=!4m7!3m6!1s0x8f6331ad55f4f76b:0x8f3a62bf1f40ea3d!8m2!3d13.7168695!4d-89.2123766!16s%2Fg%2F11vlb3wjhp!19sChIJa_f0Va0xY48RPepAH79iOo8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJddFPEzYxY48R74xGx31lxWg",
@@ -2613,8 +1468,8 @@
         "competitors": [
             {
                 "name": "Chilateria Mama Nena",
-                "link": "https://www.google.com/maps/search/Chilateria+Mam%C3%A1+Nena/@13.6914375,-89.20056249999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1042,
+                "link": "https://www.google.com/maps/search/Chilateria+Mam%C3%A1+Nena/@13.691444,-89.20065660000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1045,
                 "rating": 4.3,
                 "main_category": "Ka Pei Ting "
             },
@@ -2658,124 +1513,6 @@
         "address": "PRFC+53F Chilateria Maura, C. Central, San Salvador, Sa Er Wa Duo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Chilateria+Maura/data=!4m7!3m6!1s0x8f633136134fd175:0x68c5657dc7468cef!8m2!3d13.7229257!4d-89.1798196!16s%2Fg%2F11p14dmrjb!19sChIJddFPEzYxY48R74xGx31lxWg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJa_f0Va0xY48RPepAH79iOo8",
-        "name": "Tipicos San Luis (desde 1991)",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tipicos San Luis (desde 1991) (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPeRQuf8tssUhrSftFkxVRiKeD-f_0czDzp8A4f=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PQ8Q+Q25 Tipicos San Luis (desde 1991), San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tipicos+San+Luis+%28desde+1991%29/data=!4m7!3m6!1s0x8f6331ad55f4f76b:0x8f3a62bf1f40ea3d!8m2!3d13.7168695!4d-89.2123766!16s%2Fg%2F11vlb3wjhp!19sChIJa_f0Va0xY48RPepAH79iOo8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJj6JZL4gwY48Rjl8lbN9SqZU",
-        "name": "Harvest Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [
-            {
-                "name": "McDonald's",
-                "link": "https://www.google.com/maps/search/McDonald%27s/@13.692062499999999,-89.2374375?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4518,
-                "rating": 4.3,
-                "main_category": "Kuai Can "
-            },
-            {
-                "name": "The Champion Coffee",
-                "link": "https://www.google.com/maps/search/The+Champion+Coffee/@13.722635600000002,-89.2339805?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cafeteria Siloe",
-                "link": "https://www.google.com/maps/search/Cafeteria+Siloe/@13.7148942,-89.207465?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "d'Maria Cafe",
-                "link": "https://www.google.com/maps/search/d%27Mar%C3%ADa+Caf%C3%A9/@13.720011999999999,-89.2165299?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "The Brew",
-                "link": "https://www.google.com/maps/search/The+Brew/@13.7097138,-89.2037304?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Harvest Coffee (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.5,
-        "workday_timing": "07:00-12:30",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "PQ7R+HM3 Harvest Coffee, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Harvest+Coffee/data=!4m7!3m6!1s0x8f6330882f59a28f:0x95a952df6c255f8e!8m2!3d13.7138841!4d-89.2083353!16s%2Fg%2F1pp2w_m6j!19sChIJj6JZL4gwY48Rjl8lbN9SqZU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJM9ToJSoxY48RwflrRSzuZuA",
-        "name": "La Pasadita",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 2,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "108533756249575297064",
-            "name": "La Pasadita (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108533756249575297064"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrBadyBG4pna7Tq3cHXn75lEgNqlqjRmEwS3EF=w408-h487-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 4,
-        "workday_timing": "06:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 7459 3910",
-        "address": "La Pasadita, Av. Bernal, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/La+Pasadita/data=!4m7!3m6!1s0x8f63312a25e8d433:0xe066ee2c456bf9c1!8m2!3d13.7137066!4d-89.2171848!16s%2Fg%2F11txj5cx0y!19sChIJM9ToJSoxY48RwflrRSzuZuA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJPRvmCsM7Y48Rl_aDmnMkxcQ",
@@ -2842,54 +1579,6 @@
         "link": "https://www.google.com/maps/place/pupuseria+y+comedor+silvia/data=!4m7!3m6!1s0x8f633bc30ae61b3d:0xc4c524739a83f697!8m2!3d13.7300058!4d-89.1947974!16s%2Fg%2F11p0gqmdtq!19sChIJPRvmCsM7Y48Rl_aDmnMkxcQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJwSs87eA7Y48RiiOhM0UerR0",
-        "name": "Memories Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Le Cafe * Mejicanos",
-                "link": "https://www.google.com/maps/search/Le+Caf%C3%A9+%E2%80%A2+Mejicanos/@13.7229139,-89.1891213?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 302,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafeteria El Bambu",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+El+Bamb%C3%BA/@13.7181485,-89.08697269999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Comedor Emanuel",
-                "link": "https://www.google.com/maps/search/Comedor+Emanuel/@13.731758699999999,-89.2191366?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "101151241757687932472",
-            "name": "Memories Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/101151241757687932472"
-        },
-        "featured_image": null,
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": 5,
-        "workday_timing": "07:00-19:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Memories Coffee, Mejicanos, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Memories+Coffee/data=!4m7!3m6!1s0x8f633be0ed3c2bc1:0x1dad1e4533a1238a!8m2!3d13.7293869!4d-89.1864248!16s%2Fg%2F11tx26_ypn!19sChIJwSs87eA7Y48RiiOhM0UerR0?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJDW6LWfk7Y48RjM_xlDM8XUw",
         "name": "Cafeteria 2b2",
         "description": null,
@@ -2899,7 +1588,7 @@
             {
                 "name": "Burger King",
                 "link": "https://www.google.com/maps/search/Burger+King/@13.7099351,-89.2084426?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3443,
+                "reviews": 3447,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -2952,36 +1641,29 @@
         "link": "https://www.google.com/maps/place/Cafeteria+2b2/data=!4m7!3m6!1s0x8f633bf9598b6e0d:0x4c5d3c3394f1cf8c!8m2!3d13.735873!4d-89.2072343!16s%2Fg%2F11qmy73tfk!19sChIJDW6LWfk7Y48RjM_xlDM8XUw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJi2WQtrMxY48R6gzI-iv5wFk",
-        "name": "Micheleti",
+        "place_id": "ChIJwSs87eA7Y48RiiOhM0UerR0",
+        "name": "Memories Coffee",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 1,
         "competitors": [
             {
-                "name": "El Coctelito 503",
-                "link": "https://www.google.com/maps/search/El+Coctelito+503/@13.725495299999999,-89.1995209?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 5,
-                "rating": 4.2,
-                "main_category": "Can Ting "
+                "name": "Le Cafe * Mejicanos",
+                "link": "https://www.google.com/maps/search/Le+Caf%C3%A9+%E2%80%A2+Mejicanos/@13.7229139,-89.1891213?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 302,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
             },
             {
-                "name": "Elotitos Sv",
-                "link": "https://www.google.com/maps/search/Elotitos+Sv/@13.7281689,-89.2045947?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
+                "name": "Cafeteria El Bambu",
+                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+El+Bamb%C3%BA/@13.7181485,-89.08697269999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Las delicias de eliette",
-                "link": "https://www.google.com/maps/search/Las+delicias+de+eliette/@13.712478299999999,-89.2011406?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Taqueria y Pupuseria Any 2",
-                "link": "https://www.google.com/maps/search/Taqueria+y+Pupuseria+Any+2/@13.729945599999999,-89.2026161?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Comedor Emanuel",
+                "link": "https://www.google.com/maps/search/Comedor+Emanuel/@13.731758699999999,-89.2191366?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Ka Pei Dian "
@@ -2989,22 +1671,22 @@
         ],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Micheleti (Ye Zhu )",
-            "link": null
+            "id": "101151241757687932472",
+            "name": "Memories Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101151241757687932472"
         },
         "featured_image": null,
-        "main_category": "Ka Pei Ting ",
+        "main_category": "Zheng Liu Ka Pei Ba ",
         "categories": [
-            "Ka Pei Ting "
+            "Zheng Liu Ka Pei Ba "
         ],
         "rating": 5,
-        "workday_timing": null,
+        "workday_timing": "07:00-19:00",
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "PQHV+4FG Micheleti, Mejicanos, Sa Er Wa Duo ",
+        "address": "Memories Coffee, Mejicanos, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Micheleti/data=!4m7!3m6!1s0x8f6331b3b690658b:0x59c0f92bfac80cea!8m2!3d13.727807!4d-89.2063113!16s%2Fg%2F11flqv0lvr!19sChIJi2WQtrMxY48R6gzI-iv5wFk?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Memories+Coffee/data=!4m7!3m6!1s0x8f633be0ed3c2bc1:0x1dad1e4533a1238a!8m2!3d13.7293869!4d-89.1864248!16s%2Fg%2F11tx26_ypn!19sChIJwSs87eA7Y48RiiOhM0UerR0?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJASx6v8A7Y48RArUNUxAUXMU",
@@ -3063,78 +1745,164 @@
         "rating": 5,
         "workday_timing": "14:00-17:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+503 7265 7809",
-        "address": "PQHW+756 Elotitos Sv, Mejicanos, Sa Er Wa Duo ",
+        "address": "PQHW+65J Elotitos Sv, Mejicanos, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Elotitos+Sv/data=!4m7!3m6!1s0x8f633bc0bf7a2c01:0xc55c1410530db502!8m2!3d13.7281689!4d-89.2045947!16s%2Fg%2F11p077_v4f!19sChIJASx6v8A7Y48RArUNUxAUXMU?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Elotitos+Sv/data=!4m7!3m6!1s0x8f633bc0bf7a2c01:0xc55c1410530db502!8m2!3d13.7280935!4d-89.204594!16s%2Fg%2F11p077_v4f!19sChIJASx6v8A7Y48RArUNUxAUXMU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJTyu5HPI7Y48RohRKIravGmo",
-        "name": "Mr Snacky Sv",
+        "place_id": "ChIJi2WQtrMxY48R6gzI-iv5wFk",
+        "name": "Micheleti",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": 1,
         "competitors": [
             {
-                "name": "Mr. Papas Ceiba",
-                "link": "https://www.google.com/maps/search/Mr.+Papas+Ceiba/@13.699929599999999,-89.2207428?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
+                "name": "El Coctelito 503",
+                "link": "https://www.google.com/maps/search/El+Coctelito+503/@13.725495299999999,-89.1995209?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 5,
+                "rating": 4.2,
+                "main_category": "Can Ting "
             },
             {
-                "name": "Mom Delices",
-                "link": "https://www.google.com/maps/search/Mom+D%C3%A9lices/@13.7166942,-89.2086614?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Master Shakes",
-                "link": "https://www.google.com/maps/search/Master+Shakes/@13.7079159,-89.2333972?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Elotitos Sv",
+                "link": "https://www.google.com/maps/search/Elotitos+Sv/@13.7280935,-89.204594?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
-                "main_category": "Zheng Liu Ka Pei Ba "
-            },
-            {
-                "name": "m y j",
-                "link": "https://www.google.com/maps/search/m+y+j/@13.668953199999999,-89.20776699999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Mister Lunch",
-                "link": "https://www.google.com/maps/search/Mister+Lunch/@13.7156103,-89.20601219999999?authuser=0&hl=zh-TW&entry=ttu",
+                "name": "Las delicias de eliette",
+                "link": "https://www.google.com/maps/search/Las+delicias+de+eliette/@13.712478299999999,-89.2011406?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Taqueria y Pupuseria Any 2",
+                "link": "https://www.google.com/maps/search/Taqueria+y+Pupuseria+Any+2/@13.729945599999999,-89.2026161?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
-                "main_category": "Can Ting "
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "Mr Snacky Sv (Ye Zhu )",
+            "name": "Micheleti (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMVIUWr90Yzc_1Jn0Us7mbtFxIXU64OEmG7cjyG=w408-h481-k-no",
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "PQHV+4FG Micheleti, Mejicanos, Sa Er Wa Duo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Micheleti/data=!4m7!3m6!1s0x8f6331b3b690658b:0x59c0f92bfac80cea!8m2!3d13.727807!4d-89.2063113!16s%2Fg%2F11flqv0lvr!19sChIJi2WQtrMxY48R6gzI-iv5wFk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJx3J18xw7Y48RYm5XOi_LPLU",
+        "name": "Chuffies",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "CHOCHOS CAFETERIA",
+                "link": "https://www.google.com/maps/search/CHOCHOS+CAFETER%C3%8DA/@13.699089299999999,-89.1969993?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 60,
+                "rating": 3.8,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Chupitas",
+                "link": "https://www.google.com/maps/search/Chupitas/@13.6847991,-89.2459429?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 56,
+                "rating": 4.4,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Dulchis",
+                "link": "https://www.google.com/maps/search/Dulchis/@13.701621099999999,-89.2489399?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Tian Pin Dian "
+            },
+            {
+                "name": "Chilateria CHELO'S",
+                "link": "https://www.google.com/maps/search/Chilateria+CHELO%27S/@13.687128,-89.19623299999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "He Jia Jie Yi Liao Li "
+            },
+            {
+                "name": "Chatas Cafe",
+                "link": "https://www.google.com/maps/search/Chatas+Cafe/@13.7175918,-89.1978046?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "114559617980218906707",
+            "name": "Chuffies (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114559617980218906707"
+        },
+        "featured_image": null,
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
         "rating": 5,
-        "workday_timing": "07:30-17:00",
+        "workday_timing": "12:30-18:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
         ],
-        "phone": "+503 7261 2127",
-        "address": "PQRM+692 Mr Snacky Sv, Pasaje 6-A, San Salvador, Sa Er Wa Duo ",
+        "phone": "+503 6033 0808",
+        "address": "PQHG+2C6 Chuffies, Mejicanos, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Mr+Snacky+Sv/data=!4m7!3m6!1s0x8f633bf21cb92b4f:0x6a1aafb6224a14a2!8m2!3d13.7405122!4d-89.2166119!16s%2Fg%2F11thrfkmn6!19sChIJTyu5HPI7Y48RohRKIravGmo?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Chuffies/data=!4m7!3m6!1s0x8f633b1cf37572c7:0xb53ccb2f3a576e62!8m2!3d13.7278074!4d-89.2241902!16s%2Fg%2F11t02ts_cj!19sChIJx3J18xw7Y48RYm5XOi_LPLU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJE076nX0xY48REMFtQo5SQEQ",
+        "name": "Ubuntu",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ubuntu (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOD2LfI5_asaIPbk4BgyZf_1aJqDS-xP9O7xsbH=w533-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": "13:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": null,
+        "address": "PQ8X+2QM Ubuntu, 21 Avenida Norte, San Salvador, Sa Er Wa Duo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ubuntu/data=!4m7!3m6!1s0x8f63317d9dfa4e13:0x4440528e426dc110!8m2!3d13.7151247!4d-89.2008761!16s%2Fg%2F11l5b8d03t!19sChIJE076nX0xY48REMFtQo5SQEQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJMQuvKeoxY48RxumSCUr3ziA",
@@ -3153,8 +1921,8 @@
             {
                 "name": "Tipicos Mimita",
                 "link": "https://www.google.com/maps/search/T%C3%ADpicos+Mimita/@13.6990757,-89.19069900000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
-                "rating": 3.8,
+                "reviews": 46,
+                "rating": 3.7,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3166,7 +1934,7 @@
             },
             {
                 "name": "Pupuseria La Bendicion",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+La+Bendici%C3%B3n/@13.7275598,-89.1909577?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+La+Bendici%C3%B3n/@13.727542900000001,-89.1909809?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 7,
                 "rating": 3.9,
                 "main_category": "Can Ting "
@@ -3242,387 +2010,9 @@
         "workday_timing": "09:00-18:45",
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "PR68+R3M Espresso caffe, 29 Calle Oriente, San Salvador, Sa Er Wa Duo ",
+        "address": "PR68+R3Q Espresso caffe, 29 Calle Oriente, San Salvador, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Espresso+caffe/data=!4m7!3m6!1s0x8f6331fe71086865:0xd615a1b0b993fe97!8m2!3d13.7120998!4d-89.1848217!16s%2Fg%2F11tp433t1f!19sChIJZWgIcf4xY48Rl_6TubChFdY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJE076nX0xY48REMFtQo5SQEQ",
-        "name": "Ubuntu",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Ubuntu (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOD2LfI5_asaIPbk4BgyZf_1aJqDS-xP9O7xsbH=w533-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "13:00-17:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "PQ8X+2QM Ubuntu, 21 Avenida Norte, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Ubuntu/data=!4m7!3m6!1s0x8f63317d9dfa4e13:0x4440528e426dc110!8m2!3d13.7151247!4d-89.2008761!16s%2Fg%2F11l5b8d03t!19sChIJE076nX0xY48REMFtQo5SQEQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJoSZWX5k7Y48RLQzP9_Hw9mw",
-        "name": "Tienda La Bendicion, Ayutuxtepeque",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "TIENDA LA BENDICION",
-                "link": "https://www.google.com/maps/search/TIENDA+LA+BENDICI%C3%93N/@13.717934999999999,-89.12455969999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Bian Li Dian "
-            },
-            {
-                "name": "Tienda la Bendicion",
-                "link": "https://www.google.com/maps/search/Tienda+la+Bendici%C3%B3n/@13.6903618,-89.1861175?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Tienda la bendicion",
-                "link": "https://www.google.com/maps/search/Tienda+la+bendici%C3%B3n/@13.714284699999999,-89.1899607?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            },
-            {
-                "name": "Tienda Bendicion de Dios",
-                "link": "https://www.google.com/maps/search/Tienda+Bendicion+de+Dios/@13.7241663,-89.1886609?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Za Huo Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tienda La Bendicion, Ayutuxtepeque (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Za Huo Dian ",
-        "categories": [
-            "Za Huo Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "06:00-20:45",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PRP3+9M Tienda La Bendicion, Ayutuxtepeque, Mejicanos, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tienda+La+Bendici%C3%B3n,+Ayutuxtepeque/data=!4m7!3m6!1s0x8f633b995f5626a1:0x6cf6f0f1f7cf0c2d!8m2!3d13.7355218!4d-89.1958114!16s%2Fg%2F11pv69zw28!19sChIJoSZWX5k7Y48RLQzP9_Hw9mw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJqz5X9a4xY48R8wHUh-CZD8U",
-        "name": "Primos Street Food",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Primos",
-                "link": "https://www.google.com/maps/search/Primos/@13.685190799999999,-89.13854189999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Mr Snacky Sv",
-                "link": "https://www.google.com/maps/search/Mr+Snacky+Sv/@13.7405122,-89.21661189999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Super Panes",
-                "link": "https://www.google.com/maps/search/Super+Panes/@13.701682,-89.1965041?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Primos Street Food (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMG26ySNCS9qAbb2nln5v8lUrVI1yVDeibkQaDi=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-15:00",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "PQ7W+RMC Primos Street Food, 25 Avenida Nte., San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Primos+Street+Food/data=!4m7!3m6!1s0x8f6331aef5573eab:0xc50f99e087d401f3!8m2!3d13.7145511!4d-89.2033567!16s%2Fg%2F11t336hx34!19sChIJqz5X9a4xY48R8wHUh-CZD8U?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJx3J18xw7Y48RYm5XOi_LPLU",
-        "name": "Chuffies",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "CHOCHOS CAFETERIA",
-                "link": "https://www.google.com/maps/search/CHOCHOS+CAFETER%C3%8DA/@13.699089299999999,-89.1969993?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 59,
-                "rating": 3.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Chupitas",
-                "link": "https://www.google.com/maps/search/Chupitas/@13.6847991,-89.2459429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4.4,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "Dulchis",
-                "link": "https://www.google.com/maps/search/Dulchis/@13.701621099999999,-89.2489399?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Tian Pin Dian "
-            },
-            {
-                "name": "Chilateria CHELO'S",
-                "link": "https://www.google.com/maps/search/Chilateria+CHELO%27S/@13.687128,-89.19623299999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 3,
-                "main_category": "He Jia Jie Yi Liao Li "
-            },
-            {
-                "name": "Chatas Cafe",
-                "link": "https://www.google.com/maps/search/Chatas+Cafe/@13.7175918,-89.1978046?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "114559617980218906707",
-            "name": "Chuffies (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/114559617980218906707"
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "12:30-18:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 6033 0808",
-        "address": "PQHG+2C6 Chuffies, Mejicanos, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Chuffies/data=!4m7!3m6!1s0x8f633b1cf37572c7:0xb53ccb2f3a576e62!8m2!3d13.7278074!4d-89.2241902!16s%2Fg%2F11t02ts_cj!19sChIJx3J18xw7Y48RYm5XOi_LPLU?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJo1T1dCwxY48RUOEReVWwBKg",
-        "name": "Pal'Bajon",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Hoja Negra",
-                "link": "https://www.google.com/maps/search/Hoja+Negra/@13.694199,-89.2305421?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.6,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Pakamara Bistro & Cafe",
-                "link": "https://www.google.com/maps/search/Pakamara+Bistro+%26+Cafe/@13.7078415,-89.23798099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "PAMON, S.A. DE C.V.",
-                "link": "https://www.google.com/maps/search/PAMON%2C+S.A.+DE+C.V./@13.7062771,-89.23030899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Gong Yu Da Sha "
-            },
-            {
-                "name": "Pa Chamba",
-                "link": "https://www.google.com/maps/search/Pa+Chamba/@13.704208,-89.24709999999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Pal'Bajon (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "06:00-13:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 7457 8817",
-        "address": "PQ79+MH3 Pal'Bajon, 75 Avenida Nte., San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Pal%27Bajon/data=!4m7!3m6!1s0x8f63312c74f554a3:0xa804b0557911e150!8m2!3d13.7141262!4d-89.2310854!16s%2Fg%2F11trsrxk6l!19sChIJo1T1dCwxY48RUOEReVWwBKg?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJUZqMLTQxY48RwXnmmGTbMOo",
-        "name": "Panes y Pupuseria Estelita",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Panes Chanita",
-                "link": "https://www.google.com/maps/search/Panes+Chanita/@13.711092299999999,-89.1938529?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 4.7,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pupuseria fe y esperanza",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+f%C3%A9+y+esperanza/@13.6669395,-89.209034?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Taqueria y Pupuseria Any 2",
-                "link": "https://www.google.com/maps/search/Taqueria+y+Pupuseria+Any+2/@13.729945599999999,-89.2026161?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pupuseria La Fe'",
-                "link": "https://www.google.com/maps/search/Pupuseria+La+Fe%27/@13.774598,-89.1836994?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Panes y Pupuseria Estelita (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfHZewpkEQJMVPJdsXgy8biuDnxrmRknWNG8Aq=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PR95+753 Panes y Pupuseria Estelita, 5 Avenida Norte, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Panes+y+Pupuseria+Estelita/data=!4m7!3m6!1s0x8f6331342d8c9a51:0xea30db6498e679c1!8m2!3d13.7181377!4d-89.1920706!16s%2Fg%2F11qbbyhs8m!19sChIJUZqMLTQxY48RwXnmmGTbMOo?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJFS2Q5DkxY48RUwedi11Otfs",
-        "name": "Tienda D",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [
-            {
-                "name": "Mr Snacky Sv",
-                "link": "https://www.google.com/maps/search/Mr+Snacky+Sv/@13.7405122,-89.21661189999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "MargaritaBakerySV",
-                "link": "https://www.google.com/maps/search/MargaritaBakerySV/@13.685637799999999,-89.1878028?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "D fruta",
-                "link": "https://www.google.com/maps/search/D+fruta/@13.6835103,-89.2215993?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Tortas especiales",
-                "link": "https://www.google.com/maps/search/Tortas+especiales/@13.6997568,-89.1959547?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "GUSTITOS MARKET - CAFE",
-                "link": "https://www.google.com/maps/search/GUSTITOS+MARKET+-+CAF%C3%89/@13.7052724,-89.24333709999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Shi Chang "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tienda D (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": "09:00-19:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 7880 8080",
-        "address": "PR68+GWM Tienda D, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tienda+D/data=!4m7!3m6!1s0x8f633139e4902d15:0xfbb54e5d8b9d0753!8m2!3d13.7113345!4d-89.1826888!16s%2Fg%2F11r_t6by07!19sChIJFS2Q5DkxY48RUwedi11Otfs?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Espresso+caffe/data=!4m7!3m6!1s0x8f6331fe71086865:0xd615a1b0b993fe97!8m2!3d13.7120897!4d-89.1847616!16s%2Fg%2F11tp433t1f!19sChIJZWgIcf4xY48Rl_6TubChFdY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJecxOWdg7Y48RvfgVskzcGKk",
@@ -3661,7 +2051,7 @@
             },
             {
                 "name": "COMEDOR Y ASADOS PATY",
-                "link": "https://www.google.com/maps/search/COMEDOR+Y+ASADOS+PATY/@13.694632799999999,-89.19287659999999?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/COMEDOR+Y+ASADOS+PATY/@13.694605,-89.1928808?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Can Ting "
@@ -3685,68 +2075,6 @@
         "address": "Asados La Trinidad, Urbanizacion, Avenida Santisima Trinidad casa 1Sa Er Wa Duo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Asados+La+Trinidad/data=!4m7!3m6!1s0x8f633bd8594ecc79:0xa918dc4cb215f8bd!8m2!3d13.7455362!4d-89.2065506!16s%2Fg%2F11tk3wygfg!19sChIJecxOWdg7Y48RvfgVskzcGKk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJKwRUT6Q7Y48RMvtqBRyaQ0Y",
-        "name": "Tipicos Divino Salvador",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Don Bosco Cafe - Restaurante",
-                "link": "https://www.google.com/maps/search/Don+Bosco+Caf%C3%A9+-+Restaurante/@13.7339991,-89.2024539?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 71,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Antiquites Cafe",
-                "link": "https://www.google.com/maps/search/Antiquit%C3%A9s+Caf%C3%A9/@13.735085699999999,-89.2025749?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 54,
-                "rating": 4.4,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "Pupuseria Tuty",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+Tuty/@13.7255107,-89.1940794?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 13,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Tipicos Pandivino",
-                "link": "https://www.google.com/maps/search/T%C3%ADpicos+Pandivino/@13.7233062,-89.2217795?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 3.8,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Cafe Tipico San Benito",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+T%C3%ADpico+San+Benito/@13.6927721,-89.2393314?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Tipicos Divino Salvador (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PRP2+625 Tipicos Divino Salvador, Calle independencia, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/T%C3%ADpicos+Divino+Salvador/data=!4m7!3m6!1s0x8f633ba44f54042b:0x46439a1c056afb32!8m2!3d13.7355222!4d-89.1998885!16s%2Fg%2F11jnmxm7lj!19sChIJKwRUT6Q7Y48RMvtqBRyaQ0Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ4Te6CO8xY48RfpyFO21L394",
@@ -3778,7 +2106,7 @@
             },
             {
                 "name": "kaaps",
-                "link": "https://www.google.com/maps/search/kaaps/@13.717222399999999,-89.2466434?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/kaaps/@13.7172012,-89.24666460000002?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 0,
                 "rating": 0,
                 "main_category": "Zheng Liu Ka Pei Ba "
@@ -3799,9 +2127,9 @@
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "PQFX+VPG PAOCA'S FRAPPE, Calle Mexico, San Salvador, Sa Er Wa Duo ",
+        "address": "PQFX+VP7 PAOCA'S FRAPPE, Calle Mexico, San Salvador, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/PAOCA%C2%B4S+FRAPP%C3%89/data=!4m7!3m6!1s0x8f6331ef08ba37e1:0xdedf4b6d3b859c7e!8m2!3d13.7246926!4d-89.200673!16s%2Fg%2F11srz8jj0s!19sChIJ4Te6CO8xY48RfpyFO21L394?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/PAOCA%C2%B4S+FRAPP%C3%89/data=!4m7!3m6!1s0x8f6331ef08ba37e1:0xdedf4b6d3b859c7e!8m2!3d13.7246596!4d-89.2006925!16s%2Fg%2F11srz8jj0s!19sChIJ4Te6CO8xY48RfpyFO21L394?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJdWX2wXk7Y48R2Fk9QZ9-kU4",
@@ -3894,8 +2222,8 @@
             {
                 "name": "Tipicos Mimita",
                 "link": "https://www.google.com/maps/search/T%C3%ADpicos+Mimita/@13.6990757,-89.19069900000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 44,
-                "rating": 3.8,
+                "reviews": 46,
+                "rating": 3.7,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -3933,17 +2261,17 @@
         "link": "https://www.google.com/maps/place/Gustazos+y+Tipicos+Mam%C3%A1+Rosita/data=!4m7!3m6!1s0x8f633b7df66991b5:0xb6beb7ebf27cbab8!8m2!3d13.7309033!4d-89.2021555!16s%2Fg%2F11rvft7y9b!19sChIJtZFp9n07Y48RuLp88uu3vrY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJmSpYp6UxY48RMag1mcVF-IE",
-        "name": "El sazon de mi morena",
+        "place_id": "ChIJrRktNPw7Y48RFh7VDdqt38w",
+        "name": "Pupuseria El Shaddai",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
         "competitors": [],
         "website": null,
         "owner": {
-            "id": "118041790544829506246",
-            "name": "El sazon de mi morena (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/118041790544829506246"
+            "id": null,
+            "name": "Pupuseria El Shaddai (Ye Zhu )",
+            "link": null
         },
         "featured_image": null,
         "main_category": "Ka Pei Dian ",
@@ -3951,14 +2279,12 @@
             "Ka Pei Dian "
         ],
         "rating": null,
-        "workday_timing": "06:00-21:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
+        "workday_timing": null,
+        "closed_on": "Open All Days",
         "phone": null,
-        "address": "PQFX+569 El sazon de mi morena, C. Circunvalacion Universitaria, San Salvador, Sa Er Wa Duo ",
+        "address": "PQHV+355 Pupuseria El Shaddai, C. Antigua a Zacamil, Mejicanos, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/El+saz%C3%B3n+de+mi+morena/data=!4m7!3m6!1s0x8f6331a5a7582a99:0x81f845c59935a831!8m2!3d13.7229497!4d-89.2018707!16s%2Fg%2F11kptj8h27!19sChIJmSpYp6UxY48RMag1mcVF-IE?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Pupuser%C3%ADa+El+Shaddai/data=!4m7!3m6!1s0x8f633bfc342d19ad:0xccdfadda0dd51e16!8m2!3d13.7276643!4d-89.2068573!16s%2Fg%2F11kq535jgw!19sChIJrRktNPw7Y48RFh7VDdqt38w?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJlWnsS_E7Y48Rsq-ctf4lmbg",
@@ -3983,14 +2309,14 @@
             },
             {
                 "name": "Pupuseria La Esquinita",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+La+Esquinita/@13.7366199,-89.2032064?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+La+Esquinita/@13.736698899999999,-89.20324409999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Panes y Pupuseria Estelita",
-                "link": "https://www.google.com/maps/search/Panes+y+Pupuseria+Estelita/@13.7181377,-89.1920706?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Panes+y+Pupuseria+Estelita/@13.718104199999999,-89.19207349999999?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Ka Pei Dian "
@@ -4023,8 +2349,91 @@
         "link": "https://www.google.com/maps/place/Taqueria+y+Pupuseria+Any+2/data=!4m7!3m6!1s0x8f633bf14bec6995:0xb89925feb59cafb2!8m2!3d13.7299456!4d-89.2026161!16s%2Fg%2F11q2tbxrdh!19sChIJlWnsS_E7Y48Rsq-ctf4lmbg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJrRktNPw7Y48RFh7VDdqt38w",
-        "name": "Pupuseria El Shaddai",
+        "place_id": "ChIJmSpYp6UxY48RMag1mcVF-IE",
+        "name": "El sazon de mi morena",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "118041790544829506246",
+            "name": "El sazon de mi morena (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/118041790544829506246"
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "06:00-21:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "PQFX+569 El sazon de mi morena, C. Circunvalacion Universitaria, San Salvador, Sa Er Wa Duo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+saz%C3%B3n+de+mi+morena/data=!4m7!3m6!1s0x8f6331a5a7582a99:0x81f845c59935a831!8m2!3d13.7229497!4d-89.2018707!16s%2Fg%2F11kptj8h27!19sChIJmSpYp6UxY48RMag1mcVF-IE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ47uw13gxY48Rj_cQLLq3m5Q",
+        "name": "Coffee Depot",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "117526571836444650429",
+            "name": "Coffee Depot (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117526571836444650429"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3jLmBKb18iZe_qh1QFBK5nQsZHkcZI_cu_htr=w408-h305-k-no",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba ",
+            "Tian Pin Dian "
+        ],
+        "rating": null,
+        "workday_timing": "07:00-20:00",
+        "closed_on": "Open All Days",
+        "phone": "+503 7925 1080",
+        "address": "Coffee Depot, Avenida B 184, San Salvador, Sa Er Wa Duo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Depot/data=!4m7!3m6!1s0x8f633178d7b0bbe3:0x949bb7ba2c10f78f!8m2!3d13.7115632!4d-89.2223114!16s%2Fg%2F11l30t2mcw!19sChIJ47uw13gxY48Rj_cQLLq3m5Q?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJc83XvSMxY48RQ_nC00KKjhM",
+        "name": "Vasty's Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": "107554741686382237223",
+            "name": "Vasty's Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107554741686382237223"
+        },
+        "featured_image": null,
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": null,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+503 7867 2469",
+        "address": "Vasty's Coffee, Avenida Don Bosco Edificio 349, San Salvador, Sa Er Wa Duo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vasty%C2%B4s+Coffee/data=!4m7!3m6!1s0x8f633123bdd7cd73:0x138e8a42d3c2f943!8m2!3d13.7194154!4d-89.2058095!16s%2Fg%2F11vdsx3h3l!19sChIJc83XvSMxY48RQ_nC00KKjhM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3U0Po64xY48RFBFymJRRwuw",
+        "name": "El Cafecito",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
@@ -4032,7 +2441,7 @@
         "website": null,
         "owner": {
             "id": null,
-            "name": "Pupuseria El Shaddai (Ye Zhu )",
+            "name": "El Cafecito (Ye Zhu )",
             "link": null
         },
         "featured_image": null,
@@ -4044,9 +2453,71 @@
         "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": null,
-        "address": "PQHV+355 Pupuseria El Shaddai, C. Antigua a Zacamil, Mejicanos, Sa Er Wa Duo ",
+        "address": "El Cafecito, Av. Izalco 7, San Salvador, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Pupuser%C3%ADa+El+Shaddai/data=!4m7!3m6!1s0x8f633bfc342d19ad:0xccdfadda0dd51e16!8m2!3d13.7276524!4d-89.2069053!16s%2Fg%2F11kq535jgw!19sChIJrRktNPw7Y48RFh7VDdqt38w?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/El+Cafecito/data=!4m7!3m6!1s0x8f6331aea30f4ddd:0xecc2519498721114!8m2!3d13.7167006!4d-89.2121796!16s%2Fg%2F11ss0kxbdp!19sChIJ3U0Po64xY48RFBFymJRRwuw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJR3cPk187Y48RlLAj_o7rq4U",
+        "name": "Centro escolar general francisco morazan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Centro cafe",
+                "link": "https://www.google.com/maps/search/Centro+caf%C3%A9/@13.6775649,-89.2450602?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Centro Escolar \"General Francisco Morazan\"",
+                "link": "https://www.google.com/maps/search/Centro+Escolar+%22General+Francisco+Moraz%C3%A1n%22/@13.7644849,-89.0371921?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 7,
+                "rating": 4.6,
+                "main_category": "Xue Xiao "
+            },
+            {
+                "name": "Pupuseria Morazan",
+                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+Moraz%C3%A1n/@13.6990471,-89.1901831?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "El Progreso School",
+                "link": "https://www.google.com/maps/search/El+Progreso+School/@13.7194556,-89.19938049999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Gong Li Xue Xiao "
+            },
+            {
+                "name": "Centro Escolar \"General Francisco Morazan\"",
+                "link": "https://www.google.com/maps/search/Centro+Escolar+%22General+Francisco+Moraz%C3%A1n%22/@13.814556699999999,-89.23211479999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Xue Xiao "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Centro escolar general francisco morazan (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "PQMV+X48 Centro escolar general francisco morazan, Calle Plan Del Pito, Mejicanos, Sa Er Wa Duo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centro+escolar+general+francisco+morazan/data=!4m7!3m6!1s0x8f633b5f930f7747:0x85abeb8efe23b094!8m2!3d13.7349182!4d-89.2071794!16s%2Fg%2F11sqgx7k9m!19sChIJR3cPk187Y48RlLAj_o7rq4U?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJv3Cl-qAxY48RWtCO1adghnE",
@@ -4106,204 +2577,6 @@
         "link": "https://www.google.com/maps/place/Chatas+Cafe/data=!4m7!3m6!1s0x8f6331a0faa570bf:0x718660a7d58ed05a!8m2!3d13.7175918!4d-89.1978046!16s%2Fg%2F11qpc47plj!19sChIJv3Cl-qAxY48RWtCO1adghnE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJR3cPk187Y48RlLAj_o7rq4U",
-        "name": "Centro escolar general francisco morazan",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Centro cafe",
-                "link": "https://www.google.com/maps/search/Centro+caf%C3%A9/@13.6775649,-89.2450602?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 9,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Centro Escolar \"General Francisco Morazan\"",
-                "link": "https://www.google.com/maps/search/Centro+Escolar+%22General+Francisco+Moraz%C3%A1n%22/@13.7644849,-89.0371921?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.6,
-                "main_category": "Xue Xiao "
-            },
-            {
-                "name": "Pupuseria Morazan",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+Moraz%C3%A1n/@13.6990471,-89.1901831?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "El Progreso School",
-                "link": "https://www.google.com/maps/search/El+Progreso+School/@13.7194556,-89.19938049999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Gong Li Xue Xiao "
-            },
-            {
-                "name": "Centro Escolar \"General Francisco Morazan\"",
-                "link": "https://www.google.com/maps/search/Centro+Escolar+%22General+Francisco+Moraz%C3%A1n%22/@13.814556699999999,-89.23211479999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Xue Xiao "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Centro escolar general francisco morazan (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PQMV+X48 Centro escolar general francisco morazan, Calle Plan Del Pito, Mejicanos, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Centro+escolar+general+francisco+morazan/data=!4m7!3m6!1s0x8f633b5f930f7747:0x85abeb8efe23b094!8m2!3d13.7349182!4d-89.2071794!16s%2Fg%2F11sqgx7k9m!19sChIJR3cPk187Y48RlLAj_o7rq4U?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJacukwWo7Y48Rtm0adHMx2b4",
-        "name": "Comedor Emanuel",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Panaderia <<EMANUEL>> ",
-                "link": "https://www.google.com/maps/search/Panader%C3%ADa+%E3%80%8AEMANUEL%E3%80%8B/@13.7276156,-89.1822067?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Comedor Emmanuel",
-                "link": "https://www.google.com/maps/search/Comedor+Emmanuel/@13.704705599999999,-89.21078349999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "COMEDOR EMANUEL",
-                "link": "https://www.google.com/maps/search/COMEDOR+EMANUEL/@13.7038464,-89.25049159999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 4,
-                "main_category": "Ai Xin Shi Tang "
-            },
-            {
-                "name": "Comedor Ebenezer",
-                "link": "https://www.google.com/maps/search/Comedor+Ebenezer/@13.733471199999999,-89.21346779999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 3,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Comedor Emanuel (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "06:00-15:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PQJJ+P85 Comedor Emanuel, Av. Union, Mejicanos, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Comedor+Emanuel/data=!4m7!3m6!1s0x8f633b6ac1a4cb69:0xbed93173741a6db6!8m2!3d13.7317587!4d-89.2191366!16s%2Fg%2F11s4r_nc_2!19sChIJacukwWo7Y48Rtm0adHMx2b4?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ3U0Po64xY48RFBFymJRRwuw",
-        "name": "El Cafecito",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "El Cafecito (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "El Cafecito, Av. Izalco 7, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/El+Cafecito/data=!4m7!3m6!1s0x8f6331aea30f4ddd:0xecc2519498721114!8m2!3d13.7167006!4d-89.2121796!16s%2Fg%2F11ss0kxbdp!19sChIJ3U0Po64xY48RFBFymJRRwuw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJc83XvSMxY48RQ_nC00KKjhM",
-        "name": "Vasty's Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "107554741686382237223",
-            "name": "Vasty's Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/107554741686382237223"
-        },
-        "featured_image": null,
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": null,
-        "workday_timing": "10:00-18:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 7867 2469",
-        "address": "Vasty's Coffee, Avenida Don Bosco Edificio 349, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Vasty%C2%B4s+Coffee/data=!4m7!3m6!1s0x8f633123bdd7cd73:0x138e8a42d3c2f943!8m2!3d13.7194154!4d-89.2058095!16s%2Fg%2F11vdsx3h3l!19sChIJc83XvSMxY48RQ_nC00KKjhM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ47uw13gxY48Rj_cQLLq3m5Q",
-        "name": "Coffee Depot",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "117526571836444650429",
-            "name": "Coffee Depot (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/117526571836444650429"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3jLmBKb18iZe_qh1QFBK5nQsZHkcZI_cu_htr=w408-h305-k-no",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba ",
-            "Tian Pin Dian "
-        ],
-        "rating": null,
-        "workday_timing": "07:00-20:00",
-        "closed_on": "Open All Days",
-        "phone": "+503 7925 1080",
-        "address": "Coffee Depot, Avenida B 184, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+Depot/data=!4m7!3m6!1s0x8f633178d7b0bbe3:0x949bb7ba2c10f78f!8m2!3d13.7115632!4d-89.2223114!16s%2Fg%2F11l30t2mcw!19sChIJ47uw13gxY48Rj_cQLLq3m5Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJWdfSXrMxY48RKZkWz-M1vX4",
         "name": "ANGEMIN",
         "description": null,
@@ -4359,134 +2632,6 @@
         "link": "https://www.google.com/maps/place/ANGEMIN/data=!4m7!3m6!1s0x8f6331b35ed2d759:0x7ebd35e3cf169929!8m2!3d13.7272715!4d-89.1907945!16s%2Fg%2F11n0y_7fdc!19sChIJWdfSXrMxY48RKZkWz-M1vX4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJzdZW2gY7Y48R04i9UbE_HsY",
-        "name": "Cafeteria santa rita",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "T.stopmotor",
-                "link": "https://www.google.com/maps/search/T.stopmotor/@13.740259100000001,-89.2075811?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 5,
-                "main_category": "Qi Che Wei Xiu Dian "
-            },
-            {
-                "name": "Taller Tecnicar",
-                "link": "https://www.google.com/maps/search/Taller+Tecnicar/@13.7114932,-89.1700199?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Qi Che Wei Xiu Dian "
-            },
-            {
-                "name": "stop",
-                "link": "https://www.google.com/maps/search/stop/@13.7264527,-89.19540359999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Qi Che Wei Xiu Dian "
-            },
-            {
-                "name": "Taller Juancito",
-                "link": "https://www.google.com/maps/search/Taller+Juancito/@13.7201173,-89.2259472?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Qi Che Wei Xiu Dian "
-            },
-            {
-                "name": "Taller Don David",
-                "link": "https://www.google.com/maps/search/Taller+Don+David/@13.6818543,-89.21298209999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Qi Che Wei Xiu Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Cafeteria santa rita (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8FXZnMJoozJoSKHl6xBYm9TDtIWxTRhoJ6W61=w408-h725-k-no",
-        "main_category": "Qi Che Wei Xiu Dian ",
-        "categories": [
-            "Qi Che Wei Xiu Dian "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-00:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Cafeteria santa rita, Calle A Mariona, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Cafeter%C3%ADa+santa+rita/data=!4m7!3m6!1s0x8f633b06da56d6cd:0xc61e3fb151bd88d3!8m2!3d13.7494475!4d-89.1916417!16s%2Fg%2F11sx0_d1qf!19sChIJzdZW2gY7Y48R04i9UbE_HsY?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ8dqX_7wxY48R31UEQXWuWDs",
-        "name": "Maki's Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Cafeteria Samsil",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+Samsil/@13.7132968,-89.20343489999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 694,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Macchiato Cafe",
-                "link": "https://www.google.com/maps/search/Macchiato+Cafe/@13.697272199999999,-89.2496843?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafeteria Maquilishuat * Galerias",
-                "link": "https://www.google.com/maps/search/Cafeteria+Maquilishuat+%E2%80%A2+Galer%C3%ADas/@13.7026325,-89.230615?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 12,
-                "rating": 4.1,
-                "main_category": "Zi Zhu Can Ting "
-            },
-            {
-                "name": "McCafe",
-                "link": "https://www.google.com/maps/search/McCaf%C3%A9/@13.715335699999999,-89.21237149999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 8,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "CIMA coffee",
-                "link": "https://www.google.com/maps/search/CIMA+coffee/@13.699445299999999,-89.21960519999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Maki's Coffee (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-16:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "PQ7V+W8G Maki's Coffee, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Maki%27s+Coffee/data=!4m7!3m6!1s0x8f6331bcff97daf1:0x3b58ae75410455df!8m2!3d13.7148192!4d-89.2066643!16s%2Fg%2F11mnpltrbp!19sChIJ8dqX_7wxY48R31UEQXWuWDs?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJQZTtMCc7Y48RpSWITmcJYkw",
         "name": "Tienda deysi",
         "description": null,
@@ -4510,263 +2655,7 @@
         "phone": null,
         "address": "PRPF+HHF Tienda deysi, Av. Principal Sonora, San Salvador, Sa Er Wa Duo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Tienda+deysi/data=!4m7!3m6!1s0x8f633b2730ed9441:0x4c6209674e8825a5!8m2!3d13.7362197!4d-89.1752785!16s%2Fg%2F11v3nrt367!19sChIJQZTtMCc7Y48RpSWITmcJYkw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJYaUBiFU7Y48Rcpsp-FktMSw",
-        "name": "Licuados Express",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "El Relax Express",
-                "link": "https://www.google.com/maps/search/El+Relax+Express/@13.7209416,-89.2223162?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 14,
-                "rating": 4.6,
-                "main_category": "Guo Zhi "
-            },
-            {
-                "name": "Espresso caffe",
-                "link": "https://www.google.com/maps/search/Espresso+caffe/@13.712099799999999,-89.1848217?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Jugos y Licuados",
-                "link": "https://www.google.com/maps/search/Jugos+y+Licuados/@13.700980399999999,-89.200113?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "115627274328336348084",
-            "name": "Licuados Express (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/115627274328336348084"
-        },
-        "featured_image": null,
-        "main_category": "Zi Zhu Can Ting ",
-        "categories": [
-            "Zi Zhu Can Ting "
-        ],
-        "rating": null,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 7540 6772",
-        "address": "Licuados Express, Colonia Vista Hermosa Pasaje San Juan Mejicanos Lote 5, CP 1121Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Licuados+Express/data=!4m7!3m6!1s0x8f633b558801a561:0x2c312d59f8299b72!8m2!3d13.7355707!4d-89.2026892!16s%2Fg%2F11rpprxfyr!19sChIJYaUBiFU7Y48Rcpsp-FktMSw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ7dzhoskxY48Rs6ns4YUwPEc",
-        "name": "Pupuseria Melts",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Pupuseria El Planeno",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+El+Plane%C3%B1o/@13.6444856,-89.18515099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Pupuseria fe y esperanza",
-                "link": "https://www.google.com/maps/search/Pupuser%C3%ADa+f%C3%A9+y+esperanza/@13.6669395,-89.209034?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pupuseria Claudia",
-                "link": "https://www.google.com/maps/search/Pupuseria+Claudia/@13.702435399999999,-89.2155532?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "108465003680915610811",
-            "name": "Pupuseria Melts (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108465003680915610811"
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": "24 Xiao Shi Ying Ye ",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Pupuseria Melts, Blvr. De Los Heroes Final, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Pupuser%C3%ADa+Melts/data=!4m7!3m6!1s0x8f6331c9a2e1dced:0x473c3085e1eca9b3!8m2!3d13.7136047!4d-89.2045749!16s%2Fg%2F11rcf20l8g!19sChIJ7dzhoskxY48Rs6ns4YUwPEc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ4R_ND7kxY48R-jJfyQTzLRc",
-        "name": "La Neveria",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "La Neveria de La 29",
-                "link": "https://www.google.com/maps/search/La+Never%C3%ADa+de+La+29/@13.713572699999999,-89.19562169999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 94,
-                "rating": 4.1,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Neveria * San Jacinto",
-                "link": "https://www.google.com/maps/search/La+Never%C3%ADa+%E2%80%A2+San+Jacinto/@13.690176899999999,-89.18944040000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 4.3,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Neveria Roosevelt",
-                "link": "https://www.google.com/maps/search/La+Neveria+Roosevelt/@13.7010692,-89.2199364?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 15,
-                "rating": 4.1,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Neveria * San Miguelito",
-                "link": "https://www.google.com/maps/search/La+Never%C3%ADa+%E2%80%A2+San+Miguelito/@13.7130385,-89.19568559999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 7,
-                "rating": 4.3,
-                "main_category": "Bing Qi Lin "
-            },
-            {
-                "name": "La Neveria",
-                "link": "https://www.google.com/maps/search/La+Never%C3%ADa/@13.684738300000001,-89.191029?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "La Neveria (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": "08:00-17:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "La Neveria, 1a. Av. Sur y, 2a Calle Poniente No. 14, Mejicanos, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/La+Never%C3%ADa/data=!4m7!3m6!1s0x8f6331b90fcd1fe1:0x172df304c95f32fa!8m2!3d13.722507!4d-89.1886024!16s%2Fg%2F11fmc6d0gm!19sChIJ4R_ND7kxY48R-jJfyQTzLRc?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ60CLWccxY48RmbeoAVCr1qk",
-        "name": "d'Maria Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Seven Day, Drinks & Food",
-                "link": "https://www.google.com/maps/search/Seven+Day%2C+Drinks+%26+Food/@13.7179936,-89.2168559?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.7,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Harvest Coffee",
-                "link": "https://www.google.com/maps/search/Harvest+Coffee/@13.7138841,-89.2083353?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 4.5,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafeteria D'Cafe",
-                "link": "https://www.google.com/maps/search/Cafeter%C3%ADa+D%27Cafe/@13.6941712,-89.2071715?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "MARY",
-                "link": "https://www.google.com/maps/search/MARY/@13.6893025,-89.19266139999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Comedor Mari",
-                "link": "https://www.google.com/maps/search/Comedor+Mari/@13.7056185,-89.202531?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "d'Maria Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNH2bBrVQn6UEBO7RwEQyM53h7UjQgvuYJJhMuM=w408-h408-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": "06:30-15:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "d'Maria Cafe, local 2 Av bernal, edificio profesa, Av. Bernal, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/d%27Mar%C3%ADa+Caf%C3%A9/data=!4m7!3m6!1s0x8f6331c7598b40eb:0xa9d6ab5001a8b799!8m2!3d13.720012!4d-89.2165299!16s%2Fg%2F11jgddtd2n!19sChIJ60CLWccxY48RmbeoAVCr1qk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ_XvXAdxGzkwRFnvd2eKjuOY",
-        "name": "Cafe Sacazil",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "116311071869258324044",
-            "name": "Cafe Sacazil (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/116311071869258324044"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9cQHcczcQdAFDV78-_zmQdhBuUa0n-NpoEDx7=w408-h544-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Service establishment"
-        ],
-        "rating": null,
-        "workday_timing": "09:00-18:00",
-        "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
-        ],
-        "phone": "+503 7989 1496",
-        "address": null,
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sacazil/data=!4m7!3m6!1s0x4cce46dc01d77bfd:0xe6b8a3e2d9dd7b16!8m2!3d13.6899056!4d-88.8491392!16s%2Fg%2F11rz581fsh!19sChIJ_XvXAdxGzkwRFnvd2eKjuOY?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Tienda+deysi/data=!4m7!3m6!1s0x8f633b2730ed9441:0x4c6209674e8825a5!8m2!3d13.736238!4d-89.1753019!16s%2Fg%2F11v3nrt367!19sChIJQZTtMCc7Y48RpSWITmcJYkw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJpzk0zfo7Y48R8g4gsHw_6JM",
@@ -4778,7 +2667,7 @@
             {
                 "name": "Burger King",
                 "link": "https://www.google.com/maps/search/Burger+King/@13.702949499999999,-89.2487487?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3287,
+                "reviews": 3291,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
@@ -4822,67 +2711,5 @@
         "address": "PQMH+RV6 Tipicos de Oriente, Calle Principal, San Salvador, Sa Er Wa Duo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/T%C3%ADpicos+de+Oriente/data=!4m7!3m6!1s0x8f633bfacd3439a7:0x93e83f7cb0200ef2!8m2!3d13.734525!4d-89.2203448!16s%2Fg%2F11rjjhnmfh!19sChIJpzk0zfo7Y48R8g4gsHw_6JM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJPWVwVM07Y48RFjLZD2L_vto",
-        "name": "Comedor",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Comedor Veronica",
-                "link": "https://www.google.com/maps/search/Comedor+Veronica/@13.735643800000002,-89.2077377?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 47,
-                "rating": 4.1,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Tienda y Comedor Martin",
-                "link": "https://www.google.com/maps/search/Tienda+y+Comedor+Martin/@13.7041936,-89.24084839999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 10,
-                "rating": 4.4,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Comedor Esperanza",
-                "link": "https://www.google.com/maps/search/Comedor+Esperanza/@13.6771578,-89.2356767?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 3,
-                "rating": 5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Comedor Ely",
-                "link": "https://www.google.com/maps/search/Comedor+Ely/@13.7155198,-89.1948633?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 1,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Comedor Emanuel",
-                "link": "https://www.google.com/maps/search/Comedor+Emanuel/@13.731758699999999,-89.2191366?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Comedor (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": null,
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "PQHP+HJF Comedor, Calle Zacamil, San Salvador, Sa Er Wa Duo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Comedor/data=!4m7!3m6!1s0x8f633bcd5470653d:0xdabeff620fd93216!8m2!3d13.7289389!4d-89.2134598!16s%2Fg%2F11sfdnpj59!19sChIJPWVwVM07Y48RFjLZD2L_vto?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

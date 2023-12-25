@@ -1,23 +1,108 @@
 [
     {
+        "place_id": "ChIJlZHK1jpQDhMRPy3SIPHK5Hs",
+        "name": "Santa Lucia Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1117,
+        "competitors": [
+            {
+                "name": "Jalie's Coffee Cakes and Bakes",
+                "link": "https://www.google.com/maps/search/Jalie%27s+Coffee+Cakes+and+Bakes/@35.8908165,14.443557300000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1055,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Santa Lucia",
+                "link": "https://www.google.com/maps/search/Cafe+Santa+Lucia/@35.8825232,14.399325399999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 352,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Josephine's Coffee",
+                "link": "https://www.google.com/maps/search/Josephine%E2%80%99s+Coffee/@35.8942154,14.449197399999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 46,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Adventure cafe",
+                "link": "https://www.google.com/maps/search/Adventure+cafe/@35.8961301,14.419886799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 3.3,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "http://www.cafesantalucia.com/",
+        "owner": {
+            "id": "106144263919838305536",
+            "name": "Santa Lucia Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106144263919838305536"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFeWPP6ZgmLkM5jj6kx2DQNRoCDaOY6BLqpzUq=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-19:00",
+        "closed_on": "Open All Days",
+        "phone": "+356 2141 7894",
+        "address": "Santa Lucia Cafe, Triq Il-Linja, Attard, Ma Er Ta ",
+        "review_keywords": [
+            {
+                "keyword": "Tian Dian ",
+                "count": 65
+            },
+            {
+                "keyword": "Gao ",
+                "count": 36
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 22
+            },
+            {
+                "keyword": "Chan Pin ",
+                "count": 14
+            },
+            {
+                "keyword": "Dao ",
+                "count": 13
+            },
+            {
+                "keyword": "Pai ",
+                "count": 6
+            },
+            {
+                "keyword": "Can Yin ",
+                "count": 6
+            },
+            {
+                "keyword": "Wai Dai ",
+                "count": 6
+            },
+            {
+                "keyword": "Nai Xi ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Santa+Lucia+Cafe/data=!4m7!3m6!1s0x130e503ad6ca9195:0x7be4caf120d22d3f!8m2!3d35.8930426!4d14.4400236!16s%2Fg%2F1hc5vbz7y!19sChIJlZHK1jpQDhMRPy3SIPHK5Hs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJFc7JAHhakWsRdm86oShwF90",
         "name": "Saint Lucy Caffe e Cucina",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 514,
+        "reviews": 516,
         "competitors": [
             {
                 "name": "Lakeside Cafe",
-                "link": "https://www.google.com/maps/search/Lakeside+Cafe/@-27.499326099999998,153.0154565?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Lakeside+Cafe/@-27.4995096,153.0152085?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 340,
                 "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Darwin's",
-                "link": "https://www.google.com/maps/search/Darwin%27s/@-27.4967409,153.0113634?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 152,
-                "rating": 4,
                 "main_category": "Ka Pei Ting "
             },
             {
@@ -51,7 +136,11 @@
         ],
         "rating": 4.1,
         "workday_timing": "07:00-21:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+61 7 3301 0001",
         "address": "Saint Lucy Caffe e Cucina, next to Tennis Courts, University of Queensland, Blair Dr, St Lucia QLD 4067Ao Zhou ",
         "review_keywords": [
@@ -65,11 +154,11 @@
             },
             {
                 "keyword": "Can ",
-                "count": 18
+                "count": 19
             },
             {
-                "keyword": "atmosphere",
-                "count": 14
+                "keyword": "Wai Dai ",
+                "count": 15
             },
             {
                 "keyword": "Xiao Yuan ",
@@ -99,112 +188,1373 @@
         "link": "https://www.google.com/maps/place/Saint+Lucy+Caffe+e+Cucina/data=!4m7!3m6!1s0x6b915a7800c9ce15:0xdd177028a13a6f76!8m2!3d-27.4944347!4d153.0149983!16s%2Fg%2F11b5qzjlm9!19sChIJFc7JAHhakWsRdm86oShwF90?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ90HUNqG5lzMRXKVoYZG5K9Q",
-        "name": "Bo's Coffee (Sta. Lucia)",
+        "place_id": "ChIJN4WeGd5RDhMRyugKhXqbefc",
+        "name": "Cafe Santa Lucia",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 16,
+        "reviews": 352,
         "competitors": [
             {
-                "name": "Starbucks - Sta. Lucia Mall, Cainta",
-                "link": "https://www.google.com/maps/search/Starbucks+-+Sta.+Lucia+Mall%2C+Cainta/@14.6175214,121.09970960000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 367,
+                "name": "Santa Lucia Cafe",
+                "link": "https://www.google.com/maps/search/Santa+Lucia+Cafe/@35.8930426,14.4400236?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1115,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Ta' Doni",
+                "link": "https://www.google.com/maps/search/Ta%27+Doni/@35.8840389,14.400150799999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 745,
+                "rating": 4.2,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "CHALK cafe eatery wine",
+                "link": "https://www.google.com/maps/search/CHALK+cafe+eatery+wine/@35.882559,14.399215600000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 621,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Dulcissima Pasticceria & Gelateria Italiana",
+                "link": "https://www.google.com/maps/search/Dulcissima+Pasticceria+%26+Gelateria+Italiana/@35.8821581,14.398736999999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 243,
+                "rating": 4.6,
+                "main_category": "Xi Dian "
+            }
+        ],
+        "website": "http://www.santaluciacafe.com/shop/index.php%3Fshow_aux_page%3D1",
+        "owner": {
+            "id": "114602295778654942977",
+            "name": "Cafe Santa Lucia (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114602295778654942977"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPCOnlwhcdNd4_6DmeX4mf9ZjYlu_kpu3QX7hWw=w408-h345-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Gao Bing Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+356 2145 1852",
+        "address": "Cafe Santa Lucia, Triq San Pawl, Rabat, Ma Er Ta ",
+        "review_keywords": [
+            {
+                "keyword": "Gao ",
+                "count": 28
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 27
+            },
+            {
+                "keyword": "Tian Dian ",
+                "count": 19
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 7
+            },
+            {
+                "keyword": "Pai ",
+                "count": 6
+            },
+            {
+                "keyword": "Ji Rou ",
+                "count": 4
+            },
+            {
+                "keyword": "Jiao Tang ",
+                "count": 3
+            },
+            {
+                "keyword": "Nai Xi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafe+Santa+Lucia/data=!4m7!3m6!1s0x130e51de199e8537:0xf7799b7a850ae8ca!8m2!3d35.8825232!4d14.3993254!16s%2Fg%2F11fc9krnjh!19sChIJN4WeGd5RDhMRyugKhXqbefc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJx3r9rXhakWsRwGaC8sQ2fBk",
+        "name": "Lakeside Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 340,
+        "competitors": [
+            {
+                "name": "Merlo Coffee Cafe | UQ Saint Lucia Campus",
+                "link": "https://www.google.com/maps/search/Merlo+Coffee+Cafe+%7C+UQ+Saint+Lucia+Campus/@-27.4966667,153.0144444?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 271,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Wordsmiths Cafe",
+                "link": "https://www.google.com/maps/search/Wordsmiths+Cafe/@-27.498086100000002,153.0142492?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 191,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "On a Roll Bakery",
+                "link": "https://www.google.com/maps/search/On+a+Roll+Bakery/@-27.4972598,153.0154497?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 54,
+                "rating": 4.2,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Marketcart UQ",
+                "link": "https://www.google.com/maps/search/Marketcart+UQ/@-27.4990098,153.0121509?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Belltop Cafe.",
+                "link": "https://www.google.com/maps/search/Belltop+Cafe./@-27.494687799999998,153.0140322?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/lakesideuq/",
+        "owner": {
+            "id": "107111672709387658856",
+            "name": "Lakeside Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107111672709387658856"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvHpSNQUNOqoQIO29EM4PIx2vo9tVs1VXbgmGi=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Zao Can Can Ting ",
+            "Ka Pei Dian ",
+            "Can Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Lakeside Cafe, Advanced Engineering Building, Jocks Rd, St Lucia QLD 4067Ao Zhou ",
+        "review_keywords": [
+            {
+                "keyword": "Xiao Yuan ",
+                "count": 25
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 17
+            },
+            {
+                "keyword": "Yue Nan Liao Li ",
+                "count": 15
+            },
+            {
+                "keyword": "Wu Fan ",
+                "count": 15
+            },
+            {
+                "keyword": "He Fen ",
+                "count": 11
+            },
+            {
+                "keyword": "Yue Nan Mian Bao ",
+                "count": 11
+            },
+            {
+                "keyword": "Shui ",
+                "count": 5
+            },
+            {
+                "keyword": "Pin Zhi ",
+                "count": 5
+            },
+            {
+                "keyword": "Xi Mian ",
+                "count": 4
+            },
+            {
+                "keyword": "Xue Sheng ",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Lakeside+Cafe/data=!4m7!3m6!1s0x6b915a78adfd7ac7:0x197c36c4f28266c0!8m2!3d-27.4995096!4d153.0152085!16s%2Fg%2F1pzphwww9!19sChIJx3r9rXhakWsRwGaC8sQ2fBk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJSwI3OT-4lzMRAhohhbvpEjo",
+        "name": "Sta. Lucia Grocers",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 230,
+        "competitors": [
+            {
+                "name": "Sta. Lucia East Supermarket Annex Bldg. Sta. Lucia East Grand Mall",
+                "link": "https://www.google.com/maps/search/Sta.+Lucia+East+Supermarket+Annex+Bldg.+Sta.+Lucia+East+Grand+Mall/@14.6202852,121.1012218?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 52,
+                "rating": 4.3,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Sta. Lucia Department Store",
+                "link": "https://www.google.com/maps/search/Sta.+Lucia+Department+Store/@14.618652099999998,121.09928439999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4,
+                "main_category": "Bai Huo Gong Si "
+            },
+            {
+                "name": "Sta. Lucia East Department Store",
+                "link": "https://www.google.com/maps/search/Sta.+Lucia+East+Department+Store/@14.620363999999999,121.10135?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 3,
+                "main_category": "Bai Huo Gong Si "
+            }
+        ],
+        "website": "https://www.staluciagrocers.com/",
+        "owner": {
+            "id": "115172932654752268720",
+            "name": "Sta. Lucia Grocers (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115172932654752268720"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXbl9YgHbXcvYXjjdxET9xCYm8lhYm9EuKWSQJ=w408-h725-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang "
+        ],
+        "rating": 4.4,
+        "workday_timing": "10:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Sta. Lucia Grocers, Sta. Lucia East Mall, Marcos Hwy Cor. Felix Ave, Cainta, 1900 Kalakhang Maynila, Fei Lu Bin ",
+        "review_keywords": [
+            {
+                "keyword": "Ke Fu ",
+                "count": 9
+            },
+            {
+                "keyword": "Pei Song ",
+                "count": 6
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 6
+            },
+            {
+                "keyword": "Jing Yan ",
+                "count": 5
+            },
+            {
+                "keyword": "Yuan Gong ",
+                "count": 4
+            },
+            {
+                "keyword": "Gou Wu Zhong Xin ",
+                "count": 4
+            },
+            {
+                "keyword": "Wang Gou ",
+                "count": 3
+            },
+            {
+                "keyword": "Tuan Dui ",
+                "count": 3
+            },
+            {
+                "keyword": "Xuan Ze ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sta.+Lucia+Grocers/data=!4m7!3m6!1s0x3397b83f3937024b:0x3a12e9bb85211a02!8m2!3d14.6176007!4d121.1!16s%2Fg%2F11ckw28020!19sChIJSwI3OT-4lzMRAhohhbvpEjo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9X5JxKYTbAERoWtNN8V0laY",
+        "name": "Wordsmiths Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 191,
+        "competitors": [
+            {
+                "name": "Lakeside Cafe",
+                "link": "https://www.google.com/maps/search/Lakeside+Cafe/@-27.4995096,153.0152085?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 340,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Merlo Coffee Cafe | UQ Saint Lucia Campus",
+                "link": "https://www.google.com/maps/search/Merlo+Coffee+Cafe+%7C+UQ+Saint+Lucia+Campus/@-27.4966667,153.0144444?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 271,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Marketcart UQ",
+                "link": "https://www.google.com/maps/search/Marketcart+UQ/@-27.4990098,153.0121509?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.wordsmithscafe.com.au/",
+        "owner": {
+            "id": "107484520063834992586",
+            "name": "Wordsmiths Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107484520063834992586"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRBBonCEuHTH3ao-y23_mTfwauT66Wa7xBOXI1=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Zao Can Can Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Wordsmiths Cafe, 2 Staff House Rd, St Lucia QLD 4067Ao Zhou ",
+        "review_keywords": [
+            {
+                "keyword": "Xiao Yuan ",
+                "count": 15
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 9
+            },
+            {
+                "keyword": "Da Xue ",
+                "count": 8
+            },
+            {
+                "keyword": "Can ",
+                "count": 7
+            },
+            {
+                "keyword": "Shu Pian ",
+                "count": 6
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 5
+            },
+            {
+                "keyword": "Shu ",
+                "count": 5
+            },
+            {
+                "keyword": "Tu Si ",
+                "count": 4
+            },
+            {
+                "keyword": "Pin Zhi ",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Wordsmiths+Cafe/data=!4m7!3m6!1s0x16c13a6c4497ef5:0xa69574c5374d6ba1!8m2!3d-27.4980861!4d153.0142492!16s%2Fg%2F1thzp1s0!19sChIJ9X5JxKYTbAERoWtNN8V0laY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3eoT1ihtvTMRefRSMLQcOb0",
+        "name": "Lucia's Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 181,
+        "competitors": [
+            {
+                "name": "Cafe de Lipa",
+                "link": "https://www.google.com/maps/search/Cafe+de+Lipa/@13.9459643,121.15248539999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 386,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "cafe de Lipa",
+                "link": "https://www.google.com/maps/search/cafe+de+Lipa/@13.9603159,121.1463613?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 115,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Chef Chateau",
+                "link": "https://www.google.com/maps/search/Chef+Chateau/@13.9305434,121.14118020000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 87,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Candlelight Cafe",
+                "link": "https://www.google.com/maps/search/Candlelight+Cafe/@13.981803699999999,121.16783410000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/LuciasCafebyLBN/",
+        "owner": {
+            "id": "109329864093477722226",
+            "name": "Lucia's Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109329864093477722226"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEWd1RewOHZbLn0lLM7DJqZ-zLoz4-zwvSHTpX=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Can Ting ",
+            "Hun Li Chang Di "
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+63 945 630 2748",
+        "address": "Lucia's Cafe, Leviste Hwy, Lipa, 4217 Batangas, Fei Lu Bin ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 13
+            },
+            {
+                "keyword": "Yi Da Li Mian ",
+                "count": 8
+            },
+            {
+                "keyword": "Gui Yu ",
+                "count": 7
+            },
+            {
+                "keyword": "Ting Che ",
+                "count": 7
+            },
+            {
+                "keyword": "Pai Gu ",
+                "count": 6
+            },
+            {
+                "keyword": "Zhu Can ",
+                "count": 5
+            },
+            {
+                "keyword": "Mei Gan ",
+                "count": 4
+            },
+            {
+                "keyword": "Kao Rou ",
+                "count": 4
+            },
+            {
+                "keyword": "Kao Niu Rou ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Lucia%E2%80%99s+Cafe/data=!4m7!3m6!1s0x33bd6d28d613eadd:0xbd391cb43052f479!8m2!3d13.9700665!4d121.1623724!16s%2Fg%2F11fn9qjrn1!19sChIJ3eoT1ihtvTMRefRSMLQcOb0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-9xrroNQkWsRe4DhbAh65GE",
+        "name": "Darwin's",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 151,
+        "competitors": [
+            {
+                "name": "Saint Lucy Caffe e Cucina",
+                "link": "https://www.google.com/maps/search/Saint+Lucy+Caffe+e+Cucina/@-27.4944347,153.0149983?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 516,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Wordsmiths Cafe",
+                "link": "https://www.google.com/maps/search/Wordsmiths+Cafe/@-27.498086100000002,153.0142492?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 191,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Nano",
+                "link": "https://www.google.com/maps/search/Cafe+Nano/@-27.5005831,153.0127269?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 115,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Saint and co",
+                "link": "https://www.google.com/maps/search/Saint+and+co/@-27.5024515,153.00612289999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 90,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Belltop Cafe.",
+                "link": "https://www.google.com/maps/search/Belltop+Cafe./@-27.494687799999998,153.0140322?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.uqu.com.au/outlet/darwins",
+        "owner": {
+            "id": "111120491480327818145",
+            "name": "Darwin's (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111120491480327818145"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPvu_aTqSouuNSX--wetQx-PES7TdgxsVuYKQw6=w408-h272-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Zao Can Can Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+61 7 3346 4181",
+        "address": "Darwin's, Slip Rd, St Lucia QLD 4067Ao Zhou ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 14
+            },
+            {
+                "keyword": "Xiao Yuan ",
+                "count": 10
+            },
+            {
+                "keyword": "Wu Can ",
+                "count": 8
+            },
+            {
+                "keyword": "Da Xue ",
+                "count": 5
+            },
+            {
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 5
+            },
+            {
+                "keyword": "Han Bao ",
+                "count": 4
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 4
+            },
+            {
+                "keyword": "Wai Dai ",
+                "count": 3
+            },
+            {
+                "keyword": "Xiao Rong ",
+                "count": 3
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Darwin%27s/data=!4m7!3m6!1s0x6b915083ae6bdcfb:0x61e47a086ce1807b!8m2!3d-27.4967409!4d153.0113634!16s%2Fg%2F119vx0jxy!19sChIJ-9xrroNQkWsRe4DhbAh65GE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJfdaKfApRkWsRyhFXhyLUWHE",
+        "name": "Yonder Espresso",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 122,
+        "competitors": [
+            {
+                "name": "If You Say So",
+                "link": "https://www.google.com/maps/search/If+You+Say+So/@-27.494301999999998,152.99270679999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 114,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Saint and co",
+                "link": "https://www.google.com/maps/search/Saint+and+co/@-27.5024515,153.00612289999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 90,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Genies Cafe",
+                "link": "https://www.google.com/maps/search/Genies+Cafe/@-27.498268699999997,153.0102139?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 78,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Belltop Cafe.",
+                "link": "https://www.google.com/maps/search/Belltop+Cafe./@-27.494687799999998,153.0140322?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "DNA Espresso Bar",
+                "link": "https://www.google.com/maps/search/DNA+Espresso+Bar/@-27.502032999999997,153.0062565?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 18,
+                "rating": 3.1,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://instagram.com/yonderespresso",
+        "owner": {
+            "id": "105584981623050721074",
+            "name": "Yonder Espresso (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105584981623050721074"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvbdL1PPoA30fpYFd6G3-mIOIy8WGpDkYVBC3w=w408-h544-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "05:30-15:00",
+        "closed_on": "Open All Days",
+        "phone": "+61 7 2106 4067",
+        "address": "Yonder Espresso, shop 1/238 Hawken Dr, St Lucia QLD 4067Ao Zhou ",
+        "review_keywords": [
+            {
+                "keyword": "Dou ",
+                "count": 7
+            },
+            {
+                "keyword": "Zao Shang ",
+                "count": 5
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 5
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 4
+            },
+            {
+                "keyword": "Ke Song ",
+                "count": 3
+            },
+            {
+                "keyword": "Jiao Tang ",
+                "count": 3
+            },
+            {
+                "keyword": "flat white",
+                "count": 3
+            },
+            {
+                "keyword": "Yan Mai ",
+                "count": 3
+            },
+            {
+                "keyword": "Wai Dai ",
+                "count": 3
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Yonder+Espresso/data=!4m7!3m6!1s0x6b91510a7c8ad67d:0x7158d422875711ca!8m2!3d-27.5021324!4d153.0060249!16s%2Fg%2F11p02p088_!19sChIJfdaKfApRkWsRyhFXhyLUWHE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJl4Pv4oNQkWsRtaFvmHlbT7g",
+        "name": "Genies Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 78,
+        "competitors": [
+            {
+                "name": "Saint Lucy Caffe e Cucina",
+                "link": "https://www.google.com/maps/search/Saint+Lucy+Caffe+e+Cucina/@-27.4944347,153.0149983?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 516,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Yonder Espresso",
+                "link": "https://www.google.com/maps/search/Yonder+Espresso/@-27.502132399999997,153.0060249?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 122,
+                "rating": 4.7,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Cafe Nano",
+                "link": "https://www.google.com/maps/search/Cafe+Nano/@-27.5005831,153.0127269?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 115,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Saint and co",
+                "link": "https://www.google.com/maps/search/Saint+and+co/@-27.5024515,153.00612289999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 90,
+                "rating": 4.5,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.genies.com.au/",
+        "owner": {
+            "id": null,
+            "name": "Genies Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVmhMNvXcci7mVOIbHj-fS08Msu75oevC1NubQ=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Zao Can Can Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-16:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+61 414 762 822",
+        "address": "Genies Cafe, 306 Carmody Rd, St Lucia QLD 4067Ao Zhou ",
+        "review_keywords": [
+            {
+                "keyword": "Wu Can ",
+                "count": 4
+            },
+            {
+                "keyword": "Sha La ",
+                "count": 3
+            },
+            {
+                "keyword": "Bing Sha ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Genies+Cafe/data=!4m7!3m6!1s0x6b915083e2ef8397:0xb84f5b79986fa1b5!8m2!3d-27.4982687!4d153.0102139!16s%2Fg%2F1tfqfzn7!19sChIJl4Pv4oNQkWsRtaFvmHlbT7g?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJXRxZwotRkWsRhJWgGpBjBqo",
+        "name": "Sorelle Eatery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "competitors": [],
+        "website": "http://www.sorelleeatery.com/",
+        "owner": {
+            "id": "112172954146007070051",
+            "name": "Sorelle Eatery (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112172954146007070051"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPV4kVv9cTGn5W5wcHEnYld2N5NR831rttCMzZx=w408-h611-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Jia Ju Yong Pin Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
+        "phone": "+61 7 3073 2727",
+        "address": "Sorelle Eatery, 242 Hawken Dr, St Lucia QLD 4067Ao Zhou ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 4
+            },
+            {
+                "keyword": "La Bi ",
+                "count": 3
+            },
+            {
+                "keyword": "Mian Ji ",
+                "count": 3
+            },
+            {
+                "keyword": "Xuan Ze ",
+                "count": 3
+            },
+            {
+                "keyword": "Xiao Hai ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sorelle+Eatery/data=!4m7!3m6!1s0x6b91518bc2591c5d:0xaa0663901aa09584!8m2!3d-27.5017969!4d153.0063151!16s%2Fg%2F11sthdpc6f!19sChIJXRxZwotRkWsRhJWgGpBjBqo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJi1ZMpHTTt4kRheU5gj3f9TA",
+        "name": "Santa Lucia Estate Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "competitors": [
+            {
+                "name": "Black Lion Cafe Coffee & Pastry",
+                "link": "https://www.google.com/maps/search/Black+Lion+Cafe+Coffee+%26+Pastry/@38.992742,-77.0245355?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 156,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Nagadi Coffee, LLC",
+                "link": "https://www.google.com/maps/search/Nagadi+Coffee%2C+LLC/@39.0091421,-77.05066049999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 127,
+                "rating": 4.9,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "Adulis Coffee & Roastery",
+                "link": "https://www.google.com/maps/search/Adulis+Coffee+%26+Roastery/@38.985310999999996,-77.0272375?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 41,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Bo's Coffee - Marikina",
-                "link": "https://www.google.com/maps/search/Bo%E2%80%99s+Coffee+-+Marikina/@14.63984,121.10968709999997?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 40,
+                "name": "Celtic Cup Coffee Roasting",
+                "link": "https://www.google.com/maps/search/Celtic+Cup+Coffee+Roasting/@39.0107479,-77.0182918?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 5,
+                "main_category": "Ka Pei Hong Bei Shang "
+            },
+            {
+                "name": "LA FINCA COFFEE",
+                "link": "https://www.google.com/maps/search/LA+FINCA+COFFEE/@39.022373,-77.0572317?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://www.santaluciacoffee.com/",
+        "owner": {
+            "id": "115238393554913549404",
+            "name": "Santa Lucia Estate Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115238393554913549404"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNIbOj98UcdyGxe7xHOsKgwlG5v5ELAP0iqR2oM=w480-h240-k-no",
+        "main_category": "Pi Fa Shang ",
+        "categories": [
+            "Pi Fa Shang "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+1 240-460-1218",
+        "address": "Santa Lucia Estate Coffee, 8876 Monard Dr, Silver Spring, MD 20910Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Santa+Lucia+Estate+Coffee/data=!4m7!3m6!1s0x89b7d374a44c568b:0x30f5df3d8239e585!8m2!3d39.001246!4d-77.059183!16s%2Fg%2F12lkr686k!19sChIJi1ZMpHTTt4kRheU5gj3f9TA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJy59ia3hakWsRB6mVxrfs6MM",
+        "name": "The Deck Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Saint Lucy Caffe e Cucina",
+                "link": "https://www.google.com/maps/search/Saint+Lucy+Caffe+e+Cucina/@-27.4944347,153.0149983?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 516,
+                "rating": 4.1,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Marketcart UQ",
+                "link": "https://www.google.com/maps/search/Marketcart+UQ/@-27.4990098,153.0121509?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "BrewPoint",
+                "link": "https://www.google.com/maps/search/BrewPoint/@-27.496733199999998,153.01654059999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://uqsport.com.au/shop/cafe/",
+        "owner": {
+            "id": null,
+            "name": "The Deck Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFmvrw-S7Ve9ZIU94iOL-dvKv7TuWeO9PBVO-M=w408-h306-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "The Deck Cafe, The University of Queensland, Building 25 Union Rd, St Lucia QLD 4067Ao Zhou ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Deck+Caf%C3%A9/data=!4m7!3m6!1s0x6b915a786b629fcb:0xc3e8ecb7c695a907!8m2!3d-27.4958007!4d153.0158619!16s%2Fg%2F11c2pcwv1f!19sChIJy59ia3hakWsRB6mVxrfs6MM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJOYAqIbrHlzMRU7gkPdDUPZc",
+        "name": "TEA OPTIONS ONE OASIS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [
+            {
+                "name": "Happy Cup One Oasis Ortigas Pasig",
+                "link": "https://www.google.com/maps/search/Happy+Cup+One+Oasis+Ortigas+Pasig/@14.589457,121.09456300000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 8,
+                "rating": 3,
+                "main_category": "Zhen Zhu Nai Cha "
+            },
+            {
+                "name": "Cafe Oasis - RNC Bldg Pasig",
+                "link": "https://www.google.com/maps/search/Cafe+Oasis+-+RNC+Bldg+Pasig/@14.566188100000002,121.0764197?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Tea Options, Milktea shop and cafe",
+                "link": "https://www.google.com/maps/search/Tea+Options%2C+Milktea+shop+and+cafe/@14.5891204,121.06689949999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Tea Options - Vista Verde Cainta",
+                "link": "https://www.google.com/maps/search/Tea+Options+-+Vista+Verde+Cainta/@14.604579399999997,121.10839509999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Island Tea Co. - Pasig",
+                "link": "https://www.google.com/maps/search/Island+Tea+Co.+-+Pasig/@14.589494000000002,121.09562229999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/teaoptionsofficial",
+        "owner": {
+            "id": "107398241855476944487",
+            "name": "TEA OPTIONS ONE OASIS (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/107398241855476944487"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOG_HtvHq-diGdJzNd0S7viZvwNCELD0OXDHNUT=w408-h272-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+63 945 590 1584",
+        "address": "TEA OPTIONS ONE OASIS, 2nd Floor, Unit 227, The Oasis Hub B, Bldg. M, Brgy, Pasig, 1608Fei Lu Bin ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TEA+OPTIONS+ONE+OASIS/data=!4m7!3m6!1s0x3397c7ba212a8039:0x973dd4d03d24b853!8m2!3d14.5894982!4d121.0948001!16s%2Fg%2F11mtrxcr8y!19sChIJOYAqIbrHlzMRU7gkPdDUPZc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJBW4_6ryXzhIR1ISj9ycOYrY",
+        "name": "Santa Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 565,
+        "competitors": [
+            {
+                "name": "Le Drakkar",
+                "link": "https://www.google.com/maps/search/Le+Drakkar/@43.4135128,6.7802143?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 322,
+                "rating": 4.1,
+                "main_category": "Fa Guo Cai "
+            },
+            {
+                "name": "Restaurant Cote Soleil specialites Cassoulets",
+                "link": "https://www.google.com/maps/search/Restaurant+Cot%C3%A9+Soleil+sp%C3%A9cialit%C3%A9s+Cassoulets/@43.4133348,6.7803458?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 314,
+                "rating": 3.8,
+                "main_category": "Fa Guo Cai "
+            },
+            {
+                "name": "LA FONTAINE",
+                "link": "https://www.google.com/maps/search/LA+FONTAINE/@43.4139875,6.7793293?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 240,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Le Lion Rouge",
+                "link": "https://www.google.com/maps/search/Le+Lion+Rouge/@43.4144328,6.7788002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 238,
+                "rating": 4.5,
+                "main_category": "Fa Shi Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "117995122066937644105",
+            "name": "Santa Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117995122066937644105"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNK49D1yW8ZVTp2pF3XkK1Xwho3cgWTVi9mLJuG=w425-h240-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting ",
+            "Jiu Ba ",
+            "Ji Wei Jiu Jiu Ba ",
+            "Fa Shi Can Ting ",
+            "Cha Yi Guan "
+        ],
+        "rating": 4.2,
+        "workday_timing": "10:00-23:00",
+        "closed_on": "Open All Days",
+        "phone": "+33 4 94 82 70 63",
+        "address": "Santa Coffee, 2 place Amiral Ortoli, Port, 83700 Saint-Raphael, Fa Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Liao Li ",
+                "count": 17
+            },
+            {
+                "keyword": "Zhu Chu ",
+                "count": 15
+            },
+            {
+                "keyword": "Diao Jiu ",
+                "count": 11
+            },
+            {
+                "keyword": "Xiao Niu ",
+                "count": 10
+            },
+            {
+                "keyword": "Gan ",
+                "count": 6
+            },
+            {
+                "keyword": "Chuan ",
+                "count": 5
+            },
+            {
+                "keyword": "Jing Ya ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Santa+Coffee/data=!4m7!3m6!1s0x12ce97bcea3f6e05:0xb6620e27f7a384d4!8m2!3d43.4144699!4d6.7786999!16s%2Fg%2F1thrg42s!19sChIJBW4_6ryXzhIR1ISj9ycOYrY?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJw9oagCvIlzMR_Ylr58ci22w",
+        "name": "Flossom Kitchen + Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 445,
+        "competitors": [
+            {
+                "name": "Cafe Sanso",
+                "link": "https://www.google.com/maps/search/Cafe+Sanso/@14.597905899999999,121.03678880000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 367,
+                "rating": 4.6,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Granville Coffee, Inc.",
+                "link": "https://www.google.com/maps/search/Granville+Coffee%2C+Inc./@14.595463400000002,121.0396094?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 228,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Flossom Place",
+                "link": "https://www.google.com/maps/search/Flossom+Place/@14.5973534,121.0368742?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 3.8,
+                "main_category": "Gong Si Ban Gong Shi "
+            },
+            {
+                "name": "450 CAFE",
+                "link": "https://www.google.com/maps/search/450+CAFE/@14.6025489,121.03947619999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Bibingkinitan-Sta Lucia",
-                "link": "https://www.google.com/maps/search/Bibingkinitan-Sta+Lucia/@14.617832,121.09929?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
+                "name": "Blossom Cafe - San Juan City",
+                "link": "https://www.google.com/maps/search/Blossom+Cafe+-+San+Juan+City/@14.610418,121.025372?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
                 "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Ferino's Cafe",
-                "link": "https://www.google.com/maps/search/Ferino%27s+Cafe/@14.618073899999999,121.0993941?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            }
-        ],
-        "website": "https://www.boscoffee.com/",
-        "owner": {
-            "id": "112179603536285803307",
-            "name": "Bo's Coffee (Sta. Lucia) (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/112179603536285803307"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv2NNFTZbVsMKVL_GU-hXcAS0OU8H0lzfUIS2G=w408-h321-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "10:00-21:00",
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Bo's Coffee (Sta. Lucia), Ground Level Bldg. 3, Sta. Lucia East Grand Mall, Cainta, 1900 Metro Manila, Fei Lu Bin ",
-        "review_keywords": [
-            {
-                "keyword": "Ru Luo Dan Gao ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Bo%27s+Coffee+%28Sta.+Lucia%29/data=!4m7!3m6!1s0x3397b9a136d441f7:0xd42bb9916168a55c!8m2!3d14.6187629!4d121.1012718!16s%2Fg%2F11f8jwjggm!19sChIJ90HUNqG5lzMRXKVoYZG5K9Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ86cdO6DHlzMRkGmev3csU8o",
-        "name": "brgy. sta. lucia",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "Bo's Coffee (Sta. Lucia)",
-                "link": "https://www.google.com/maps/search/Bo%27s+Coffee+%28Sta.+Lucia%29/@14.6187629,121.10127179999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 16,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Hailey's Espresso",
-                "link": "https://www.google.com/maps/search/Hailey%27s+Espresso/@14.5882337,121.10647730000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Bourbon Coffee PH",
-                "link": "https://www.google.com/maps/search/Bourbon+Coffee+PH/@14.576401299999999,121.08509420000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
         "owner": {
             "id": null,
-            "name": "brgy. sta. lucia (Ye Zhu )",
+            "name": "Flossom Kitchen + Cafe (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oK0FnvG2lgpy0tksP_HoXg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=157.93698&pitch=0&thumbfov=100",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKFLaf-q0v55wcNR7cG7zX-jF-aJBQpk-5RzN2=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Zao Can Can Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": "+63 2 8356 6900",
+        "address": "Flossom Kitchen + Cafe, 187 N. Averilla, San Juan, 1500 Kalakhang Maynila, Fei Lu Bin ",
+        "review_keywords": [
+            {
+                "keyword": "Ting Che ",
+                "count": 24
+            },
+            {
+                "keyword": "Yi Da Li Mian ",
+                "count": 16
+            },
+            {
+                "keyword": "Song Lu ",
+                "count": 13
+            },
+            {
+                "keyword": "nachos",
+                "count": 8
+            },
+            {
+                "keyword": "Dun Fan ",
+                "count": 7
+            },
+            {
+                "keyword": "Lan Hua ",
+                "count": 6
+            },
+            {
+                "keyword": "Zhu Pai ",
+                "count": 5
+            },
+            {
+                "keyword": "Ti La Mi Su ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Flossom+Kitchen+%2B+Cafe/data=!4m7!3m6!1s0x3397c82b801adac3:0x6cdb22c7e76b89fd!8m2!3d14.5973242!4d121.0368581!16s%2Fg%2F11f159p837!19sChIJw9oagCvIlzMR_Ylr58ci22w?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJQaZhQZqz-x4RWTbLsScCjHg",
+        "name": "St Lucia Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 122,
+        "competitors": [
+            {
+                "name": "The Ocean Grill Restaurant",
+                "link": "https://www.google.com/maps/search/The+Ocean+Grill+Restaurant/@-28.377827200000002,32.411395999999996?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 579,
+                "rating": 4,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Wimpy",
+                "link": "https://www.google.com/maps/search/Wimpy/@-28.377688199999998,32.4114761?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 528,
+                "rating": 4.1,
+                "main_category": "He Jia Jie Yi Liao Li "
+            },
+            {
+                "name": "Alfredo's",
+                "link": "https://www.google.com/maps/search/Alfredo%27s/@-28.374541899999997,32.4116093?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 353,
+                "rating": 3.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "KAUAI St Lucia",
+                "link": "https://www.google.com/maps/search/KAUAI+St+Lucia/@-28.376540199999997,32.4113665?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 248,
+                "rating": 4.5,
+                "main_category": "Jian Kang Shi Pin "
+            },
+            {
+                "name": "Greco",
+                "link": "https://www.google.com/maps/search/Greco/@-28.3764495,32.4114054?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 68,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "St Lucia Coffee Shop (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNUMa1xt5VeVZJCw8FklEWxz97JbuET5WJO5Fs=w408-h306-k-no",
         "main_category": "Ka Pei Dian ",
         "categories": [
             "Ka Pei Dian "
         ],
-        "rating": null,
+        "rating": 4.5,
+        "workday_timing": "06:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+27 35 590 1616",
+        "address": "St Lucia Coffee Shop, 73 Mckenzie St, St Lucia, 3936Nan Fei ",
+        "review_keywords": [
+            {
+                "keyword": "Song Bing ",
+                "count": 7
+            },
+            {
+                "keyword": "Dan Gao ",
+                "count": 7
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 6
+            },
+            {
+                "keyword": "Shu ",
+                "count": 5
+            },
+            {
+                "keyword": "espresso",
+                "count": 4
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 4
+            },
+            {
+                "keyword": "Mo Qia ",
+                "count": 3
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 3
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/St+Lucia+Coffee+Shop/data=!4m7!3m6!1s0x1efbb39a4161a641:0x788c0227b1cb3659!8m2!3d-28.376543!4d32.4114112!16s%2Fg%2F11b6d066z8!19sChIJQaZhQZqz-x4RWTbLsScCjHg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJDXRLpYJQkWsRjrBbADpAQfg",
+        "name": "Belltop Cafe.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "competitors": [
+            {
+                "name": "Lakeside Cafe",
+                "link": "https://www.google.com/maps/search/Lakeside+Cafe/@-27.4995096,153.0152085?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 340,
+                "rating": 4.3,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Merlo Coffee Cafe | UQ Saint Lucia Campus",
+                "link": "https://www.google.com/maps/search/Merlo+Coffee+Cafe+%7C+UQ+Saint+Lucia+Campus/@-27.4966667,153.0144444?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 271,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "BrewPoint",
+                "link": "https://www.google.com/maps/search/BrewPoint/@-27.496733199999998,153.01654059999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "109314897877636757360",
+            "name": "Belltop Cafe. (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109314897877636757360"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOK1PLi7SMTx9-YscmzoitEFrgGeh0Xmb_i3nN7=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Zao Can Can Ting ",
+            "Ka Pei Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+61 421 138 226",
+        "address": "Belltop Cafe., Blair Dr, St Lucia QLD 4067Ao Zhou ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Belltop+Cafe./data=!4m7!3m6!1s0x6b915082a54b740d:0xf841403a005bb08e!8m2!3d-27.4946878!4d153.0140322!16s%2Fg%2F11c469p994!19sChIJDXRLpYJQkWsRjrBbADpAQfg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJQyCyoBxRkWsRFGSIoG8Cla0",
+        "name": "Bookmark Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "competitors": [
+            {
+                "name": "Wordsmiths Cafe",
+                "link": "https://www.google.com/maps/search/Wordsmiths+Cafe/@-27.498086100000002,153.0142492?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 191,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Marketcart UQ",
+                "link": "https://www.google.com/maps/search/Marketcart+UQ/@-27.4990098,153.0121509?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Belltop Cafe.",
+                "link": "https://www.google.com/maps/search/Belltop+Cafe./@-27.494687799999998,153.0140322?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 36,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "BrewPoint",
+                "link": "https://www.google.com/maps/search/BrewPoint/@-27.496733199999998,153.01654059999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 33,
+                "rating": 4.9,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "106328202472286220881",
+            "name": "Bookmark Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/106328202472286220881"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6XKUEDbhIeHafRwziJua5WevrUl0Yx_eNRcYr=w408-h420-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
         "workday_timing": null,
         "closed_on": "Open All Days",
-        "phone": null,
-        "address": "brgy. sta. lucia, 32-d Juliana Dos, Pasig, Metro Manila, Fei Lu Bin ",
+        "phone": "+61 408 314 390",
+        "address": "Bookmark Cafe, 12, St Lucia QLD 4067Ao Zhou ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/brgy.+sta.+lucia/data=!4m7!3m6!1s0x3397c7a03b1da7f3:0xca532c77bf9e6990!8m2!3d14.5854593!4d121.0986903!16s%2Fg%2F11j_60fsy4!19sChIJ86cdO6DHlzMRkGmev3csU8o?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Bookmark+Cafe/data=!4m7!3m6!1s0x6b91511ca0b22043:0xad95026fa0886414!8m2!3d-27.4960607!4d153.0136722!16s%2Fg%2F11fpscjyph!19sChIJQyCyoBxRkWsRFGSIoG8Cla0?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

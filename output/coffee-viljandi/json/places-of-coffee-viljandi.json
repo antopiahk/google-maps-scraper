@@ -4,7 +4,7 @@
         "name": "Big Brother",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 1198,
+        "reviews": 1196,
         "competitors": [
             {
                 "name": "Fellin",
@@ -23,14 +23,14 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             }
@@ -81,14 +81,14 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -130,6 +130,10 @@
                 "count": 12
             },
             {
+                "keyword": "Wu Can ",
+                "count": 10
+            },
+            {
                 "keyword": "atmosphere",
                 "count": 7
             },
@@ -151,10 +155,6 @@
             },
             {
                 "keyword": "Luo Song Tang ",
-                "count": 3
-            },
-            {
-                "keyword": "Mi Qi Lin ",
                 "count": 3
             }
         ],
@@ -184,8 +184,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -198,7 +198,7 @@
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             }
@@ -217,7 +217,11 @@
         ],
         "rating": 4.7,
         "workday_timing": "11:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er "
+        ],
         "phone": "+372 435 8388",
         "address": "Amrita Cafe, Tallinna 29a, Viljandi, 71013 Viljandi maakond, Ai Sha Ni Ya ",
         "review_keywords": [
@@ -261,14 +265,14 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Restaurant Ormisson",
                 "link": "https://www.google.com/maps/search/Restaurant+Ormisson/@58.3630789,25.6002728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 260,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -303,8 +307,9 @@
         "rating": 4.8,
         "workday_timing": "09:00-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+372 434 4307",
         "address": "Rohelise Maja pood ja kohvik, Koidu 2, Viljandi, 71004 Viljandi maakond, Ai Sha Ni Ya ",
@@ -369,21 +374,21 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Restaurant Ormisson",
                 "link": "https://www.google.com/maps/search/Restaurant+Ormisson/@58.3630789,25.6002728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 260,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -416,7 +421,7 @@
         "review_keywords": [
             {
                 "keyword": "Jia Ge ",
-                "count": 9
+                "count": 8
             },
             {
                 "keyword": "Dan Gao ",
@@ -453,16 +458,9 @@
             {
                 "name": "Aasia Billa",
                 "link": "https://www.google.com/maps/search/Aasia+Billa/@58.364991599999996,25.5982517?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 138,
+                "reviews": 142,
                 "rating": 4.4,
                 "main_category": "Ya Zhou Liao Li "
-            },
-            {
-                "name": "TAHE PUBI",
-                "link": "https://www.google.com/maps/search/T%C3%84HE+PUBI/@58.3661719,25.5981861?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
-                "rating": 4.3,
-                "main_category": "Can Ting "
             }
         ],
         "website": "http://www.hesburger.ee/",
@@ -494,7 +492,7 @@
         "name": "koduKOHVIK",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 311,
+        "reviews": 313,
         "competitors": [
             {
                 "name": "Cafe Viljandi",
@@ -506,7 +504,7 @@
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -538,7 +536,7 @@
             "Zi Zhu Can Ting ",
             "Li Pin Dian "
         ],
-        "rating": 4.7,
+        "rating": 4.8,
         "workday_timing": "09:00-22:00",
         "closed_on": [
             "Xing Qi Ri "
@@ -593,7 +591,7 @@
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -607,7 +605,7 @@
             {
                 "name": "Kohvik Time Out",
                 "link": "https://www.google.com/maps/search/Kohvik+Time+Out/@58.347276799999996,25.5675085?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
+                "reviews": 80,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             }
@@ -644,12 +642,12 @@
         "name": "Aida Kohvik",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 272,
+        "reviews": 273,
         "competitors": [
             {
                 "name": "Armeenia Kook Soso Juures",
                 "link": "https://www.google.com/maps/search/Armeenia+K%C3%B6%C3%B6k+Soso+Juures/@58.36572179999999,25.597818399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1045,
+                "reviews": 1046,
                 "rating": 4.6,
                 "main_category": "Ya Mei Ni Ya Cai "
             },
@@ -670,8 +668,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -697,8 +695,9 @@
         "rating": 4.6,
         "workday_timing": "12:00-19:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+372 434 2066",
         "address": "Aida Kohvik, Tasuja pst 6, Viljandi, 71003 Viljandi maakond, Ai Sha Ni Ya ",
@@ -724,7 +723,7 @@
             {
                 "name": "Caramel Bakery OU",
                 "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -853,7 +852,7 @@
             {
                 "name": "Caramel Bakery OU",
                 "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -900,13 +899,83 @@
         "rating": 4.8,
         "workday_timing": "10:00-17:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Er "
         ],
         "phone": "+372 5661 3131",
         "address": "OU Magusatuba, kaubamaja hoov, Tallinna 3, Viljandi, 71020 Viljandi maakond, Ai Sha Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/O%C3%9C+Magusatuba/data=!4m7!3m6!1s0x46ec98efd6e7719b:0x44ede7b20d9ba1d4!8m2!3d58.3653237!4d25.5955053!16s%2Fg%2F11hbpy_hpp!19sChIJm3Hn1u-Y7EYR1KGbDbLn7UQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJWTD4V4mY7EYRZc7Gb02bH_A",
+        "name": "Caramel Bakery OU",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 125,
+        "competitors": [
+            {
+                "name": "Kohvik Herr Artur Viljandis",
+                "link": "https://www.google.com/maps/search/Kohvik+Herr+Artur+Viljandis/@58.36389,25.5971999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 286,
+                "rating": 4.6,
+                "main_category": "Dao Hui Fu Wu "
+            },
+            {
+                "name": "Kivi Pagar",
+                "link": "https://www.google.com/maps/search/Kivi+Pagar/@58.36764,25.593248900000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 253,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Mulgi Pagar",
+                "link": "https://www.google.com/maps/search/Mulgi+Pagar/@58.3662334,25.597538099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 4.3,
+                "main_category": "Fa Shi Gao Bing Dian "
+            },
+            {
+                "name": "Luuna Pagar",
+                "link": "https://www.google.com/maps/search/Luuna+Pagar/@58.3647026,25.621473800000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 46,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Caramel Cafe kohvik",
+                "link": "https://www.google.com/maps/search/Caramel+Cafe+kohvik/@58.367989099999996,25.598134599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": "https://www.facebook.com/pg/caramelbakery",
+        "owner": {
+            "id": null,
+            "name": "Caramel Bakery OU (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPB6_PSPlXB_muerR3xhc_sYq5OqIcfw9a4SKMJ=w408-h306-k-no",
+        "main_category": "Zi Zhu Can Ting ",
+        "categories": [
+            "Zi Zhu Can Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-17:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+372 513 8518",
+        "address": "Caramel Bakery OU, Tehnika 2, Viljandi, 71011 Viljandi maakond, Ai Sha Ni Ya ",
+        "review_keywords": [
+            {
+                "keyword": "Gao ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caramel+Bakery+O%C3%9C/data=!4m7!3m6!1s0x46ec988957f83059:0xf01f9b4d6fc6ce65!8m2!3d58.3608408!4d25.5794316!16s%2Fg%2F11c6cplxb2!19sChIJWTD4V4mY7EYRZc7Gb02bH_A?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJz8LKdpiY7EYRjMXY2YzAWYE",
@@ -918,7 +987,7 @@
             {
                 "name": "Big Brother",
                 "link": "https://www.google.com/maps/search/Big+Brother/@58.365958600000006,25.595795199999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1198,
+                "reviews": 1196,
                 "rating": 4.1,
                 "main_category": "Jiu Ba "
             },
@@ -932,8 +1001,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -989,7 +1058,7 @@
             {
                 "name": "Caramel Bakery OU",
                 "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -1039,7 +1108,7 @@
         "name": "Cafe Novell",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 33,
+        "reviews": 34,
         "competitors": [
             {
                 "name": "Fellin",
@@ -1058,14 +1127,14 @@
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Restaurant Ormisson",
                 "link": "https://www.google.com/maps/search/Restaurant+Ormisson/@58.3630789,25.6002728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 260,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -1090,7 +1159,9 @@
         ],
         "rating": 4,
         "workday_timing": "12:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+372 646 6077",
         "address": "Cafe Novell, Tasuja pst 4, Viljandi, 71020 Viljandi maakond, Ai Sha Ni Ya ",
         "review_keywords": [],
@@ -1231,6 +1302,70 @@
         "link": "https://www.google.com/maps/place/Neste/data=!4m7!3m6!1s0x46eca27f362c81dd:0xf819b3e5cc105a36!8m2!3d58.3786727!4d25.5955112!16s%2Fg%2F11ycydwyb!19sChIJ3YEsNn-i7EYRNloQzOWzGfg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJvw4CqYWY7EYRqAX4atBNpiU",
+        "name": "Luuna Pagar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "competitors": [
+            {
+                "name": "Kivi Pagar",
+                "link": "https://www.google.com/maps/search/Kivi+Pagar/@58.36764,25.593248900000003?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 253,
+                "rating": 4.5,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Caramel Bakery OU",
+                "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.7,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
+                "name": "Mulgi Pagar",
+                "link": "https://www.google.com/maps/search/Mulgi+Pagar/@58.3662334,25.597538099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 57,
+                "rating": 4.3,
+                "main_category": "Fa Shi Gao Bing Dian "
+            },
+            {
+                "name": "Viljandi Pihlaka kohvik",
+                "link": "https://www.google.com/maps/search/Viljandi+Pihlaka+kohvik/@58.3697019,25.5977082?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Oru Pagar",
+                "link": "https://www.google.com/maps/search/Oru+Pagar/@58.363767100000004,25.602173600000004?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://www.luuna.ee/",
+        "owner": {
+            "id": "101697712004378915412",
+            "name": "Luuna Pagar (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101697712004378915412"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMq6YW8tADnHCg3QgVBcD-uUdydoPiRmduOQZBN=w408-h343-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-16:30",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+372 5687 0087",
+        "address": "Luuna Pagar, Turu 16, Viljandi, 71003 Viljandi maakond, Ai Sha Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Luuna+Pagar/data=!4m7!3m6!1s0x46ec9885a9020ebf:0x25a64dd06af805a8!8m2!3d58.3666571!4d25.5922799!16s%2Fg%2F11gbldnm8p!19sChIJvw4CqYWY7EYRqAX4atBNpiU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ_aTyiLmZ7EYRTU75Ad83vLY",
         "name": "Kohvik Vilande",
         "description": null,
@@ -1247,8 +1382,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -1280,8 +1415,8 @@
         "rating": 5,
         "workday_timing": "12:00-19:00",
         "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi "
         ],
         "phone": "+372 5685 6251",
         "address": "Kohvik Vilande, Tartu 4, Viljandi, 71004 Viljandi maakond, Ai Sha Ni Ya ",
@@ -1312,8 +1447,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -1393,8 +1528,10 @@
         "rating": 5,
         "workday_timing": "10:30-16:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 432 0003",
         "address": "Kohvikeskus | Viljandi esindus, Lossi 18, Viljandi, 71003 Viljandi maakond, Ai Sha Ni Ya ",
@@ -1411,8 +1548,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -1425,14 +1562,14 @@
             {
                 "name": "Caramel Bakery OU",
                 "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can Ting "
             },
             {
                 "name": "Kohvik Time Out",
                 "link": "https://www.google.com/maps/search/Kohvik+Time+Out/@58.347276799999996,25.5675085?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
+                "reviews": 80,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             },
@@ -1450,7 +1587,7 @@
             "name": "Caramel Cafe kohvik (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lEGenoQnn55-qdZvdtAIzw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=92.35395&pitch=0&thumbfov=100",
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lEGenoQnn55-qdZvdtAIzw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=135.32239&pitch=0&thumbfov=100",
         "main_category": "Ka Pei Ting ",
         "categories": [
             "Ka Pei Ting "
@@ -1463,7 +1600,7 @@
         "phone": null,
         "address": "Caramel Cafe kohvik, Tallinna 24, Viljandi, 71008 Viljandi maakond, Ai Sha Ni Ya ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Caramel+Cafe+kohvik/data=!4m7!3m6!1s0x46ec995e59253115:0x61e0b332deb48683!8m2!3d58.3681472!4d25.598506!16s%2Fg%2F11jyn0bk_d!19sChIJFTElWV6Z7EYRg4a03jKz4GE?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Caramel+Cafe+kohvik/data=!4m7!3m6!1s0x46ec995e59253115:0x61e0b332deb48683!8m2!3d58.3679891!4d25.5981346!16s%2Fg%2F11jyn0bk_d!19sChIJFTElWV6Z7EYRg4a03jKz4GE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJnbdvAZKZ7EYRuiPzOIwfIhc",
@@ -1480,18 +1617,18 @@
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
+                "name": "Caramel Bakery OU",
+                "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.7,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
                 "name": "OU Magusatuba",
                 "link": "https://www.google.com/maps/search/O%C3%9C+Magusatuba/@58.3653237,25.5955053?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 125,
                 "rating": 4.8,
                 "main_category": "Xi Dian "
-            },
-            {
-                "name": "Caramel Bakery OU",
-                "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
-                "rating": 4.7,
-                "main_category": "Zi Zhu Can Ting "
             },
             {
                 "name": "Mulgi Pagar",
@@ -1544,14 +1681,14 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1565,7 +1702,7 @@
             {
                 "name": "Kohvik Time Out",
                 "link": "https://www.google.com/maps/search/Kohvik+Time+Out/@58.347276799999996,25.5675085?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
+                "reviews": 80,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             }
@@ -1584,8 +1721,8 @@
         "rating": 4.5,
         "workday_timing": "11:00-16:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 508 4128",
         "address": "DayOff cafe, Leola 67, Viljandi, 71008 Viljandi maakond, Ai Sha Ni Ya ",
@@ -1609,8 +1746,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -1623,7 +1760,7 @@
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1649,8 +1786,8 @@
         "rating": 4.4,
         "workday_timing": "11:00-15:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 433 7634",
         "address": "Cafe Ukuaru, Viljandi, 71020 Viljandi maakond, Ai Sha Ni Ya ",
@@ -1674,8 +1811,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -1688,7 +1825,7 @@
             {
                 "name": "Restaurant Ormisson",
                 "link": "https://www.google.com/maps/search/Restaurant+Ormisson/@58.3630789,25.6002728?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 258,
+                "reviews": 260,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -1736,8 +1873,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -1750,7 +1887,7 @@
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
@@ -1776,8 +1913,8 @@
         "rating": 4.3,
         "workday_timing": "10:30-15:00",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 433 3827",
         "address": "Kohvik Time Out, Reinu tee 30, Viljandi, 71020 Viljandi maakond, Ai Sha Ni Ya ",
@@ -1799,18 +1936,18 @@
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
+                "name": "Caramel Bakery OU",
+                "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.7,
+                "main_category": "Zi Zhu Can Ting "
+            },
+            {
                 "name": "OU Magusatuba",
                 "link": "https://www.google.com/maps/search/O%C3%9C+Magusatuba/@58.3653237,25.5955053?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 125,
                 "rating": 4.8,
                 "main_category": "Xi Dian "
-            },
-            {
-                "name": "Caramel Bakery OU",
-                "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
-                "rating": 4.7,
-                "main_category": "Zi Zhu Can Ting "
             },
             {
                 "name": "Luuna Pagar",
@@ -1841,8 +1978,8 @@
         "rating": 4.3,
         "workday_timing": "08:30-16:30",
         "closed_on": [
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Liu "
         ],
         "phone": "+372 5568 5374",
         "address": "Mulgi Pagar, Posti 2, Viljandi, 71004 Viljandi maakond, Ai Sha Ni Ya ",
@@ -1866,8 +2003,8 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
@@ -1887,7 +2024,7 @@
             {
                 "name": "Kohvik Time Out",
                 "link": "https://www.google.com/maps/search/Kohvik+Time+Out/@58.347276799999996,25.5675085?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
+                "reviews": 80,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             }
@@ -1928,7 +2065,7 @@
             {
                 "name": "Caramel Bakery OU",
                 "link": "https://www.google.com/maps/search/Caramel+Bakery+O%C3%9C/@58.360840800000005,25.5794316?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
+                "reviews": 125,
                 "rating": 4.7,
                 "main_category": "Zi Zhu Can Ting "
             },
@@ -1990,21 +2127,21 @@
             {
                 "name": "koduKOHVIK",
                 "link": "https://www.google.com/maps/search/koduKOHVIK/@58.365318800000004,25.5969631?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 311,
-                "rating": 4.7,
+                "reviews": 312,
+                "rating": 4.8,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Aida Kohvik",
                 "link": "https://www.google.com/maps/search/Aida+Kohvik/@58.361047199999994,25.5961106?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 272,
+                "reviews": 273,
                 "rating": 4.6,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Kohvik Time Out",
                 "link": "https://www.google.com/maps/search/Kohvik+Time+Out/@58.347276799999996,25.5675085?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 79,
+                "reviews": 80,
                 "rating": 4.3,
                 "main_category": "Ka Pei Dian "
             }
@@ -2078,11 +2215,11 @@
         "rating": null,
         "workday_timing": "16:00-18:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
             "Xing Qi San ",
-            "Xing Qi Liu ",
-            "Xing Qi Ri "
+            "Xing Qi Liu "
         ],
         "phone": "+372 5340 5277",
         "address": "Oru Pagar, Oru 7B, Viljandi, 71003 Viljandi maakond, Ai Sha Ni Ya ",
