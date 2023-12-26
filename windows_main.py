@@ -15,3 +15,4 @@ city_queries = [item for sublist in city_queries for item in sublist]
 # city_queries.reverse()
 
 Gmaps.places(city_queries)
+

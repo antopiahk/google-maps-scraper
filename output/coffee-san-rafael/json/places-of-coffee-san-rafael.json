@@ -4,33 +4,33 @@
         "name": "McDonald's",
         "description": "Lao Zi Hao De Jing Dian Lian Suo Su Shi Dian ,Yi Han Bao He Shu Tiao Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 1008,
+        "reviews": 1009,
         "competitors": [
             {
                 "name": "A&W Restaurant",
                 "link": "https://www.google.com/maps/search/A%26W+Restaurant/@37.9967828,-122.53490969999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1432,
+                "reviews": 1431,
                 "rating": 4.3,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@37.973601599999995,-122.53922809999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 750,
+                "reviews": 752,
                 "rating": 3.5,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Burger King",
                 "link": "https://www.google.com/maps/search/Burger+King/@37.961259999999996,-122.5052874?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 633,
+                "reviews": 635,
                 "rating": 3.2,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Taco Bell",
                 "link": "https://www.google.com/maps/search/Taco+Bell/@37.970161399999995,-122.52018569999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
+                "reviews": 480,
                 "rating": 3.6,
                 "main_category": "Kuai Can "
             },
@@ -42,7 +42,7 @@
                 "main_category": "San Wen Zhi "
             }
         ],
-        "website": "https://www.mcdonalds.com/us/en-us/location/CA/SAN-RAFAEL/190-MERRYDALE-RD/11597.html?cid=RF:YXT:GMB::Clicks",
+        "website": "https://www.mcdonalds.com/us/en-us/location/CA/SAN-RAFAEL/190-MERRYDALE-RD/11597.html%3Fcid%3DRF:YXT:GMB::Clicks",
         "owner": {
             "id": "106754442209247490338",
             "name": "McDonald's (Ye Zhu )",
@@ -85,6 +85,10 @@
                 "count": 8
             },
             {
+                "keyword": "Qing Jie ",
+                "count": 8
+            },
+            {
                 "keyword": "Qian ",
                 "count": 7
             },
@@ -99,10 +103,6 @@
             {
                 "keyword": "Ju Wu Ba ",
                 "count": 6
-            },
-            {
-                "keyword": "Bing Qi Lin ",
-                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x808599d6574d7111:0xfe3fb42850d99bd6!8m2!3d37.9964114!4d-122.5346171!16s%2Fg%2F113fqxl4c!19sChIJEXFNV9aZhYAR1pvZUCi0P_4?authuser=0&hl=zh-TW&rclk=1"
@@ -112,12 +112,12 @@
         "name": "Crepevine Restaurant",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 670,
+        "reviews": 671,
         "competitors": [
             {
                 "name": "Miracle Mile Cafe",
                 "link": "https://www.google.com/maps/search/Miracle+Mile+Cafe/@37.975985,-122.5475804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 505,
+                "reviews": 507,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -131,7 +131,7 @@
             {
                 "name": "Lundy's Home Cooking",
                 "link": "https://www.google.com/maps/search/Lundy%27s+Home+Cooking/@37.9730765,-122.5293629?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 367,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -173,8 +173,16 @@
                 "count": 13
             },
             {
+                "keyword": "Ou Mu Dan ",
+                "count": 10
+            },
+            {
                 "keyword": "Pan ",
                 "count": 10
+            },
+            {
+                "keyword": "Can Yin ",
+                "count": 9
             },
             {
                 "keyword": "Yi Da Li Mian ",
@@ -185,15 +193,91 @@
                 "count": 8
             },
             {
-                "keyword": "Guo Zhi ",
-                "count": 6
-            },
-            {
                 "keyword": "Su Shi Dian ",
                 "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Crepevine+Restaurant/data=!4m7!3m6!1s0x808599fbaaaaaaab:0xbad33e0ba89ec4!8m2!3d37.9730688!4d-122.5289616!16s%2Fm%2F021_fxh!19sChIJq6qqqvuZhYARxJ6oCz7TugA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_8G9vlyXhYARxr0NKgOml7Q",
+        "name": "Miracle Mile Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 507,
+        "competitors": [
+            {
+                "name": "Crepevine Restaurant",
+                "link": "https://www.google.com/maps/search/Crepevine+Restaurant/@37.9730688,-122.52896159999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 671,
+                "rating": 4.3,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "Lundy's Home Cooking",
+                "link": "https://www.google.com/maps/search/Lundy%27s+Home+Cooking/@37.9730765,-122.5293629?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 367,
+                "rating": 4.6,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "Garden Cafe",
+                "link": "https://www.google.com/maps/search/Garden+Cafe/@37.970897799999996,-122.52972749999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 335,
+                "rating": 4.6,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "Redwood Cafe",
+                "link": "https://www.google.com/maps/search/Redwood+Cafe/@38.0186379,-122.53711179999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 178,
+                "rating": 4.6,
+                "main_category": "Mei Guo Cai "
+            }
+        ],
+        "website": "https://www.miraclemilecafe.com/",
+        "owner": {
+            "id": "114234563718513349864",
+            "name": "Miracle Mile Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/114234563718513349864"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP6Vj7RtFa24XLFtDufkkwgWzb9Xy86X-NevzK7=w425-h240-k-no",
+        "main_category": "Mei Shi Can Ting ",
+        "categories": [
+            "Mei Shi Can Ting "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-14:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-454-7700",
+        "address": "Miracle Mile Cafe, 2130 4th St, San Rafael, CA 94901Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 92
+            },
+            {
+                "keyword": "Wu Fu Zhi ",
+                "count": 34
+            },
+            {
+                "keyword": "Zao Wu Can ",
+                "count": 21
+            },
+            {
+                "keyword": "Ou Mu Dan ",
+                "count": 11
+            },
+            {
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 8
+            },
+            {
+                "keyword": "You Ji ",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Miracle+Mile+Cafe/data=!4m7!3m6!1s0x8085975cbebdc1ff:0xb497a6032a0dbdc6!8m2!3d37.975985!4d-122.5475804!16s%2Fg%2F1tglhk00!19sChIJ_8G9vlyXhYARxr0NKgOml7Q?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ5Xw7mFyXhYARTxDwSShFVFk",
@@ -205,40 +289,40 @@
             {
                 "name": "A&W Restaurant",
                 "link": "https://www.google.com/maps/search/A%26W+Restaurant/@37.9967828,-122.53490969999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1432,
+                "reviews": 1431,
                 "rating": 4.3,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Jack in the Box",
                 "link": "https://www.google.com/maps/search/Jack+in+the+Box/@37.973601599999995,-122.53922809999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 750,
+                "reviews": 752,
                 "rating": 3.5,
                 "main_category": "Kuai Can "
             },
             {
                 "name": "Burger King",
                 "link": "https://www.google.com/maps/search/Burger+King/@37.961259999999996,-122.5052874?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 633,
+                "reviews": 635,
                 "rating": 3.2,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Phyllis' Giant Burgers",
                 "link": "https://www.google.com/maps/search/Phyllis%27+Giant+Burgers/@37.976465999999995,-122.54956899999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 566,
+                "reviews": 567,
                 "rating": 4.4,
                 "main_category": "Han Bao Bao "
             },
             {
                 "name": "KFC",
                 "link": "https://www.google.com/maps/search/KFC/@37.9701555,-122.52015509999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 259,
+                "reviews": 261,
                 "rating": 3.5,
                 "main_category": "Ji Rou "
             }
         ],
-        "website": "https://www.mcdonalds.com/us/en-us/location/CA/SAN-RAFAEL/2114-4TH-ST/1462.html%3Fcid%3DRF:YXT:GMB::Clicks",
+        "website": "https://www.mcdonalds.com/us/en-us/location/CA/SAN-RAFAEL/2114-4TH-ST/1462.html?cid=RF:YXT:GMB::Clicks",
         "owner": {
             "id": "111364441416146227942",
             "name": "McDonald's (Ye Zhu )",
@@ -289,15 +373,111 @@
                 "count": 3
             },
             {
-                "keyword": "Shou Ji ",
+                "keyword": "Xiang Chang ",
                 "count": 3
             },
             {
-                "keyword": "Xiang Chang ",
+                "keyword": "Shou Ji ",
                 "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x8085975c983b7ce5:0x5954452849f0104f!8m2!3d37.975928!4d-122.547018!16s%2Fg%2F1hc2j52sh!19sChIJ5Xw7mFyXhYARTxDwSShFVFk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1U_7bUSahYAR0L44-FIfa8g",
+        "name": "Rustic Bakery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 470,
+        "competitors": [
+            {
+                "name": "Farmshop",
+                "link": "https://www.google.com/maps/search/Farmshop/@37.9473194,-122.5088889?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 525,
+                "rating": 4.3,
+                "main_category": "Jia Zhou Liao Li "
+            },
+            {
+                "name": "Emporio Rulli",
+                "link": "https://www.google.com/maps/search/Emporio+Rulli/@37.935433599999996,-122.53523790000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 321,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Starbucks",
+                "link": "https://www.google.com/maps/search/Starbucks/@37.947565999999995,-122.509429?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 159,
+                "rating": 4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Bistro - Eat. Drink. Connect.(r)",
+                "link": "https://www.google.com/maps/search/The+Bistro+-+Eat.+Drink.+Connect.%C2%AE/@37.9483488,-122.507955?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 4.4,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "Miette",
+                "link": "https://www.google.com/maps/search/Miette/@37.947037,-122.5094313?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 11,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "http://www.rusticbakery.com/",
+        "owner": {
+            "id": "111501906986085738351",
+            "name": "Rustic Bakery (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111501906986085738351"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOo0Gj2XZKZnwH0msTqc4b3ZI3JLehR6R3SNjYa=w408-h544-k-no",
+        "main_category": "Mian Bao Xi Bing Dian ",
+        "categories": [
+            "Mian Bao Xi Bing Dian ",
+            "Ka Pei Ting "
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-17:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-461-9900",
+        "address": "Rustic Bakery, 2017 Larkspur Landing Cir, Larkspur, CA 94939Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 50
+            },
+            {
+                "keyword": "Sha La ",
+                "count": 33
+            },
+            {
+                "keyword": "Wu Can ",
+                "count": 26
+            },
+            {
+                "keyword": "Ke Song ",
+                "count": 19
+            },
+            {
+                "keyword": "Zao Shang ",
+                "count": 10
+            },
+            {
+                "keyword": "Si Kang ",
+                "count": 9
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 9
+            },
+            {
+                "keyword": "espresso",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Rustic+Bakery/data=!4m7!3m6!1s0x80859a446dfb4fd5:0xc86b1f52f838bed0!8m2!3d37.9470678!4d-122.5095934!16s%2Fg%2F1hc68q6kr!19sChIJ1U_7bUSahYAR0L44-FIfa8g?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJLyOzAFiXhYAR2yU2hr29Mtg",
@@ -316,7 +496,7 @@
             {
                 "name": "Jelly Donuts",
                 "link": "https://www.google.com/maps/search/Jelly+Donuts/@38.0079353,-122.54735129999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
+                "reviews": 58,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -379,35 +559,35 @@
             {
                 "name": "Black Bear Diner San Rafael",
                 "link": "https://www.google.com/maps/search/Black+Bear+Diner+San+Rafael/@38.0053237,-122.54126110000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1061,
+                "reviews": 1066,
                 "rating": 4.1,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Crepevine Restaurant",
                 "link": "https://www.google.com/maps/search/Crepevine+Restaurant/@37.9730688,-122.52896159999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
+                "reviews": 671,
                 "rating": 4.3,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Miracle Mile Cafe",
                 "link": "https://www.google.com/maps/search/Miracle+Mile+Cafe/@37.975985,-122.5475804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 505,
+                "reviews": 507,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Lundy's Home Cooking",
                 "link": "https://www.google.com/maps/search/Lundy%27s+Home+Cooking/@37.9730765,-122.5293629?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 367,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Redwood Cafe",
                 "link": "https://www.google.com/maps/search/Redwood+Cafe/@38.0186379,-122.53711179999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 176,
+                "reviews": 178,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             }
@@ -468,7 +648,7 @@
         "name": "Starbucks",
         "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
         "is_spending_on_ads": false,
-        "reviews": 382,
+        "reviews": 383,
         "competitors": [
             {
                 "name": "Peet's Coffee",
@@ -480,8 +660,8 @@
             {
                 "name": "Bagel Street Cafe",
                 "link": "https://www.google.com/maps/search/Bagel+Street+Cafe/@38.0077778,-122.5469944?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 160,
-                "rating": 4.3,
+                "reviews": 161,
+                "rating": 4.2,
                 "main_category": "Mian Bao Quan Dian "
             },
             {
@@ -564,12 +744,12 @@
         "name": "Peet's Coffee",
         "description": "Yuan Yu Bo Ke Lai De Lian Suo Dian ,Gong Ying Zhao Pai Ka Pei , Cha Yin , Hun He Yin Pin Ji Hong Bei Shi Pin . ",
         "is_spending_on_ads": false,
-        "reviews": 379,
+        "reviews": 380,
         "competitors": [
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -583,7 +763,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -621,7 +801,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "05:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-306-0261",
         "address": "Peet's Coffee, 402 3rd St, San Rafael, CA 94901Mei Guo ",
         "review_keywords": [
@@ -669,26 +851,26 @@
         "name": "Garden Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 335,
+        "reviews": 334,
         "competitors": [
             {
                 "name": "Crepevine Restaurant",
                 "link": "https://www.google.com/maps/search/Crepevine+Restaurant/@37.9730688,-122.52896159999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
+                "reviews": 671,
                 "rating": 4.3,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Theresa and Johnnys Cafe",
                 "link": "https://www.google.com/maps/search/Theresa+and+Johnnys+Cafe/@37.9725399,-122.524321?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 605,
+                "reviews": 606,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Half Day Cafe",
                 "link": "https://www.google.com/maps/search/Half+Day+Cafe/@37.9544211,-122.5483038?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 372,
+                "reviews": 373,
                 "rating": 4.4,
                 "main_category": "Zao Can "
             },
@@ -730,15 +912,111 @@
                 "count": 12
             },
             {
-                "keyword": "Bao Shi ",
-                "count": 6
+                "keyword": "Ou Mu Dan ",
+                "count": 9
             },
             {
-                "keyword": "Gui Yu ",
-                "count": 5
+                "keyword": "Bao Shi ",
+                "count": 7
             }
         ],
         "link": "https://www.google.com/maps/place/Garden+Cafe/data=!4m7!3m6!1s0x808599f9623d546d:0xb387d527e4913137!8m2!3d37.9708978!4d-122.5297275!16s%2Fg%2F1tdp587q!19sChIJbVQ9YvmZhYARNzGR5CfVh7M?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ77I5OniahYAR5ZpjxedUINQ",
+        "name": "Emporio Rulli",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 321,
+        "competitors": [
+            {
+                "name": "Locanda Marin",
+                "link": "https://www.google.com/maps/search/Locanda+Marin/@37.9334977,-122.53554819999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 292,
+                "rating": 4.7,
+                "main_category": "Yi Da Li Cai "
+            },
+            {
+                "name": "Equator Coffees",
+                "link": "https://www.google.com/maps/search/Equator+Coffees/@37.932849999999995,-122.5357444?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 260,
+                "rating": 4.6,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Rustic Bakery",
+                "link": "https://www.google.com/maps/search/Rustic+Bakery/@37.9476738,-122.54808039999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 187,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Ristobar Pop Up Dinner at Emporio Rulli -Larkspur",
+                "link": "https://www.google.com/maps/search/Ristobar+Pop+Up+Dinner+at+Emporio+Rulli+-Larkspur/@37.9353961,-122.5351372?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://www.rulli.com/",
+        "owner": {
+            "id": "104520854459361752984",
+            "name": "Emporio Rulli (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104520854459361752984"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOB6YfCyNLdIojuduESpf49BR8SFulqehdYqgs1=w408-h272-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting ",
+            "Mian Bao Xi Bing Dian ",
+            "Ka Pei Dian ",
+            "Gao Bing Dian ",
+            "Pu Tao Jiu Ba "
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-17:30",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-924-7478",
+        "address": "Emporio Rulli, 464 Magnolia Ave, Larkspur, CA 94939Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Gao ",
+                "count": 76
+            },
+            {
+                "keyword": "Yi Da Li ",
+                "count": 35
+            },
+            {
+                "keyword": "Mian Bao Dian ",
+                "count": 16
+            },
+            {
+                "keyword": "Yi Shi Bing Qi Lin ",
+                "count": 12
+            },
+            {
+                "keyword": "Bing Gan ",
+                "count": 12
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 12
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 10
+            },
+            {
+                "keyword": "Pa Ni Ni ",
+                "count": 9
+            },
+            {
+                "keyword": "Qia Bu Qi Nuo ",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Emporio+Rulli/data=!4m7!3m6!1s0x80859a783a39b2ef:0xd42054e7c5639ae5!8m2!3d37.9354336!4d-122.5352379!16s%2Fg%2F1tfch_32!19sChIJ77I5OniahYAR5ZpjxedUINQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ_eH2sfCZhYARSfeYlej86-Y",
@@ -750,7 +1028,7 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -833,7 +1111,7 @@
         "name": "Aroma Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 307,
+        "reviews": 308,
         "competitors": [
             {
                 "name": "Garden Cafe",
@@ -852,7 +1130,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -878,17 +1156,15 @@
         ],
         "rating": 4.4,
         "workday_timing": "07:30-20:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-459-4340",
         "address": "Aroma Cafe, 1122 4th St, San Rafael, CA 94901Mei Guo ",
         "review_keywords": [
             {
                 "keyword": "Wu Can ",
                 "count": 12
-            },
-            {
-                "keyword": "Sha La ",
-                "count": 10
             },
             {
                 "keyword": "wifi",
@@ -921,6 +1197,10 @@
             {
                 "keyword": "Hao Ren ",
                 "count": 3
+            },
+            {
+                "keyword": "Ju Chang ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Aroma+Cafe/data=!4m7!3m6!1s0x808599fa534efc49:0x827682c17096ac16!8m2!3d37.9733278!4d-122.5288306!16s%2Fm%2F021_hw7!19sChIJSfxOU_qZhYARFqyWcMGCdoI?authuser=0&hl=zh-TW&rclk=1"
@@ -930,12 +1210,12 @@
         "name": "Mi Casa Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 274,
+        "reviews": 276,
         "competitors": [
             {
                 "name": "Taqueria Mi Familia",
                 "link": "https://www.google.com/maps/search/Taqueria+Mi+Familia/@37.959121499999995,-122.50742439999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 481,
+                "reviews": 485,
                 "rating": 4.1,
                 "main_category": "Mo Xi Ge Cai "
             },
@@ -949,7 +1229,7 @@
             {
                 "name": "Casa Manana Restaurant",
                 "link": "https://www.google.com/maps/search/Casa+Ma%C3%B1ana+Restaurant/@37.9709503,-122.5328446?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 260,
+                "reviews": 261,
                 "rating": 4.4,
                 "main_category": "Mo Xi Ge Cai "
             },
@@ -1004,8 +1284,16 @@
                 "count": 5
             },
             {
+                "keyword": "Ji Rou ",
+                "count": 4
+            },
+            {
                 "keyword": "Niu Pai ",
                 "count": 4
+            },
+            {
+                "keyword": "Kao Rou ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Mi+Casa+Caf%C3%A9/data=!4m7!3m6!1s0x80859a1bd8dc7ddd:0xb05c8ad1a4cb853e!8m2!3d37.9631361!4d-122.5201667!16s%2Fg%2F11b5pj80zv!19sChIJ3X3c2BuahYARPoXLpNGKXLA?authuser=0&hl=zh-TW&rclk=1"
@@ -1015,26 +1303,26 @@
         "name": "Bogie's Too - Home of Marin's Best Eggs Benedict",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 262,
+        "reviews": 261,
         "competitors": [
             {
                 "name": "Crepevine Restaurant",
                 "link": "https://www.google.com/maps/search/Crepevine+Restaurant/@37.9730688,-122.52896159999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
+                "reviews": 671,
                 "rating": 4.3,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Miracle Mile Cafe",
                 "link": "https://www.google.com/maps/search/Miracle+Mile+Cafe/@37.975985,-122.5475804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 505,
+                "reviews": 507,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Lundy's Home Cooking",
                 "link": "https://www.google.com/maps/search/Lundy%27s+Home+Cooking/@37.9730765,-122.5293629?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 367,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -1106,11 +1394,11 @@
                 "count": 4
             },
             {
-                "keyword": "Wan ",
-                "count": 3
+                "keyword": "Ou Mu Dan ",
+                "count": 4
             },
             {
-                "keyword": "Fang Jian ",
+                "keyword": "Wan ",
                 "count": 3
             }
         ],
@@ -1126,35 +1414,35 @@
             {
                 "name": "Emporio Rulli",
                 "link": "https://www.google.com/maps/search/Emporio+Rulli/@37.935433599999996,-122.53523790000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 320,
+                "reviews": 321,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Rustic Bakery",
                 "link": "https://www.google.com/maps/search/Rustic+Bakery/@37.9476738,-122.54808039999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 186,
+                "reviews": 187,
                 "rating": 4.3,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@37.947565999999995,-122.509429?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 158,
+                "reviews": 159,
                 "rating": 4,
                 "main_category": "Ka Pei Dian "
             }
@@ -1175,7 +1463,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "06:30-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-720-5701",
         "address": "Equator Coffees, 240 Magnolia Ave, Larkspur, CA 94939Mei Guo ",
         "review_keywords": [
@@ -1232,21 +1522,21 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1260,7 +1550,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -1303,14 +1593,14 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -1324,7 +1614,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1382,35 +1672,35 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Redwood Cafe",
                 "link": "https://www.google.com/maps/search/Redwood+Cafe/@38.0186379,-122.53711179999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 176,
+                "reviews": 178,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -1433,7 +1723,9 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-906-6277",
         "address": "Red Whale Coffee, 169 Paul Dr., San Rafael, CA 94903Mei Guo ",
         "review_keywords": [
@@ -1486,7 +1778,7 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -1589,28 +1881,28 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.0079059,-122.54758609999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 382,
+                "reviews": 383,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Bagel Street Cafe",
                 "link": "https://www.google.com/maps/search/Bagel+Street+Cafe/@38.0077778,-122.5469944?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 160,
-                "rating": 4.3,
+                "reviews": 161,
+                "rating": 4.2,
                 "main_category": "Mian Bao Quan Dian "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1641,7 +1933,9 @@
         ],
         "rating": 4.4,
         "workday_timing": "06:00-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-526-0550",
         "address": "Peet's Coffee, 5800 Northgate Dr #146, San Rafael, CA 94903Mei Guo ",
         "review_keywords": [
@@ -1661,7 +1955,7 @@
         "name": "Sharetea",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 186,
+        "reviews": 187,
         "competitors": [
             {
                 "name": "Double Rainbow Cafe",
@@ -1673,7 +1967,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -1710,9 +2004,11 @@
         "categories": [
             "Zhen Zhu Nai Cha Dian "
         ],
-        "rating": 4.2,
+        "rating": 4.1,
         "workday_timing": "12:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-295-7998",
         "address": "Mei Guo  California, San Rafael, Grand Ave, ShareteaYou Zheng Bian Ma : 94901",
         "review_keywords": [
@@ -1740,12 +2036,12 @@
         "name": "Pink Owl Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 182,
+        "reviews": 184,
         "competitors": [
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -1759,21 +2055,21 @@
             {
                 "name": "Fox & Kit",
                 "link": "https://www.google.com/maps/search/Fox+%26+Kit/@37.97404220000001,-122.53088330000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
+                "reviews": 154,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Pink owl coffee",
                 "link": "https://www.google.com/maps/search/Pink+owl+coffee/@37.9736397,-122.5395025?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
+                "reviews": 28,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -1798,7 +2094,7 @@
         "review_keywords": [
             {
                 "keyword": "Na Tie ",
-                "count": 14
+                "count": 15
             },
             {
                 "keyword": "atmosphere",
@@ -1827,6 +2123,10 @@
             {
                 "keyword": "Gao ",
                 "count": 6
+            },
+            {
+                "keyword": "Bei Guo ",
+                "count": 5
             }
         ],
         "link": "https://www.google.com/maps/place/Pink+Owl+Coffee/data=!4m7!3m6!1s0x8085973f84fdec23:0xc71b2ee09cab23c9!8m2!3d37.9733249!4d-122.5283746!16s%2Fg%2F11j3qt1hbv!19sChIJI-z9hD-XhYARySOrnOAuG8c?authuser=0&hl=zh-TW&rclk=1"
@@ -1836,26 +2136,26 @@
         "name": "Cafe del Soul",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 182,
+        "reviews": 181,
         "competitors": [
             {
                 "name": "Sol Food",
                 "link": "https://www.google.com/maps/search/Sol+Food/@37.971904099999996,-122.52428099999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 4389,
+                "reviews": 4400,
                 "rating": 4.6,
                 "main_category": "Bo Duo Li Ge Cai "
             },
             {
                 "name": "Miracle Mile Cafe",
                 "link": "https://www.google.com/maps/search/Miracle+Mile+Cafe/@37.975985,-122.5475804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 505,
+                "reviews": 507,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Lundy's Home Cooking",
                 "link": "https://www.google.com/maps/search/Lundy%27s+Home+Cooking/@37.9730765,-122.5293629?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 367,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -1880,7 +2180,7 @@
             "name": "Cafe del Soul (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP6AVdT893MOUadbf1zsFywWSgS8p0ZYzg6TxvV=w408-h544-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOExEdiOh9xVB8ucLO9KEFMoMBDRfk2zS8jU6PU=w408-h544-k-no",
         "main_category": "Jia Zhou Can Ting ",
         "categories": [
             "Jia Zhou Can Ting ",
@@ -1891,7 +2191,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "10:00-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-457-5400",
         "address": "Cafe del Soul, 1408 4th St, San Rafael, CA 94901Mei Guo ",
         "review_keywords": [
@@ -1940,14 +2242,14 @@
             {
                 "name": "Hook Fish Co. at Proof Lab Beer Garden",
                 "link": "https://www.google.com/maps/search/Hook+Fish+Co.+at+Proof+Lab+Beer+Garden/@37.8819798,-122.5246646?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 681,
+                "reviews": 684,
                 "rating": 4.7,
                 "main_category": "Pi Jiu Hua Yuan "
             },
             {
                 "name": "The State Room",
                 "link": "https://www.google.com/maps/search/The+State+Room/@37.973435099999996,-122.5290202?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 586,
+                "reviews": 588,
                 "rating": 4.5,
                 "main_category": "Jiu Chang Jiu Ba "
             },
@@ -1989,8 +2291,10 @@
             "Pi Jiu Niang Zhi Chang "
         ],
         "rating": 4.7,
-        "workday_timing": "15:00-21:00",
-        "closed_on": "Open All Days",
+        "workday_timing": "12:00-21:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-524-8709",
         "address": "Pond Farm Brewing Company, 1848 4th St, San Rafael, CA 94901Mei Guo ",
         "review_keywords": [
@@ -2038,7 +2342,7 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -2059,7 +2363,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -2123,137 +2427,30 @@
         "link": "https://www.google.com/maps/place/Java+Detour/data=!4m7!3m6!1s0x808599f760bfffb9:0x918cbfd345efd06f!8m2!3d37.9711195!4d-122.5257069!16s%2Fg%2F1v42g0kz!19sChIJuf-_YPeZhYARb9DvRdO_jJE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJp0BPePuZhYARKwbhQd3_Jk8",
-        "name": "Le Comptoir",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 169,
-        "competitors": [
-            {
-                "name": "Crepevine Restaurant",
-                "link": "https://www.google.com/maps/search/Crepevine+Restaurant/@37.9730688,-122.52896159999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
-                "rating": 4.3,
-                "main_category": "Mei Guo Cai "
-            },
-            {
-                "name": "Left Bank Larkspur Brasserie",
-                "link": "https://www.google.com/maps/search/Left+Bank+Larkspur+Brasserie/@37.9362778,-122.53536109999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 668,
-                "rating": 4.4,
-                "main_category": "Fa Guo Cai "
-            },
-            {
-                "name": "San Rafael Joe's",
-                "link": "https://www.google.com/maps/search/San+Rafael+Joe%27s/@37.9728309,-122.52679939999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 515,
-                "rating": 4.4,
-                "main_category": "Yi Da Li Cai "
-            },
-            {
-                "name": "Lundy's Home Cooking",
-                "link": "https://www.google.com/maps/search/Lundy%27s+Home+Cooking/@37.9730765,-122.5293629?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
-                "rating": 4.6,
-                "main_category": "Mei Guo Cai "
-            },
-            {
-                "name": "Vin Antico",
-                "link": "https://www.google.com/maps/search/Vin+Antico/@37.9727889,-122.52569620000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 124,
-                "rating": 4.3,
-                "main_category": "Jia Zhou Liao Li "
-            }
-        ],
-        "website": "http://www.lecomptoirsr.com/",
-        "owner": {
-            "id": "106252502871444761290",
-            "name": "Le Comptoir (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/106252502871444761290"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNz1kW1XUBrxi_7DaqbVvA2B6XsWlSAlU5rm7J5=w408-h306-k-no",
-        "main_category": "Fa Guo Can Ting ",
-        "categories": [
-            "Fa Guo Can Ting ",
-            "Zhi Shi Zhuan Mai Dian ",
-            "Zhu Gu Li Dian ",
-            "Corporate gift supplier",
-            "Li He Zhuan Mai Dian ",
-            "Li Pin Dian ",
-            "Gao Ji Shi Cai Dian ",
-            "Xian Dai Fa Guo Can Ting ",
-            "Pu Tao Jiu Ba ",
-            "Jiu Pin Zhuan Mai Dian "
-        ],
-        "rating": 4.5,
-        "workday_timing": "11:00-20:30",
-        "closed_on": [
-            "Xing Qi Ri ",
-            "Xing Qi Yi "
-        ],
-        "phone": "+1 415-454-5454",
-        "address": "Le Comptoir, 1301 4th St, San Rafael, CA 94901Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Jia Ge ",
-                "count": 11
-            },
-            {
-                "keyword": "Can Jiu Guan ",
-                "count": 7
-            },
-            {
-                "keyword": "Zhu Rou ",
-                "count": 7
-            },
-            {
-                "keyword": "Shu Pian ",
-                "count": 5
-            },
-            {
-                "keyword": "Nai You ",
-                "count": 5
-            },
-            {
-                "keyword": "Dan Cai ",
-                "count": 4
-            },
-            {
-                "keyword": "Men ",
-                "count": 4
-            },
-            {
-                "keyword": "Chan Pin ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Le+Comptoir/data=!4m7!3m6!1s0x808599fb784f40a7:0x4f26ffdd41e1062b!8m2!3d37.9732347!4d-122.5310247!16s%2Fg%2F11cn07yn4p!19sChIJp0BPePuZhYARKwbhQd3_Jk8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJJysO_Y-XhYARtnO9pkAoccw",
         "name": "Bagel Street Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 160,
+        "reviews": 161,
         "competitors": [
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.0079059,-122.54758609999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 382,
+                "reviews": 383,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "House of Bagels",
                 "link": "https://www.google.com/maps/search/House+of+Bagels/@37.972587399999995,-122.5223523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 161,
+                "reviews": 162,
                 "rating": 4.1,
                 "main_category": "Mian Bao Quan Dian "
             },
             {
                 "name": "Jelly Donuts",
                 "link": "https://www.google.com/maps/search/Jelly+Donuts/@38.0079353,-122.54735129999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
+                "reviews": 58,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -2272,7 +2469,7 @@
                 "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "http://www.bagelstreetcafe.net/locations/san-rafael-2#.XKbaMHUzb5d",
+        "website": "http://www.bagelstreetcafe.net/locations/san-rafael-2%23.XKbaMHUzb5d",
         "owner": {
             "id": null,
             "name": "Bagel Street Cafe (Ye Zhu )",
@@ -2283,7 +2480,7 @@
         "categories": [
             "Mian Bao Quan Dian "
         ],
-        "rating": 4.3,
+        "rating": 4.2,
         "workday_timing": "06:00-16:00",
         "closed_on": "Open All Days",
         "phone": "+1 415-479-5000",
@@ -2312,103 +2509,39 @@
             {
                 "keyword": "Qiao Ke Li ",
                 "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Bagel+Street+Cafe/data=!4m7!3m6!1s0x8085978ffd0e2b27:0xcc712840a6bd73b6!8m2!3d38.0077778!4d-122.5469944!16s%2Fg%2F1tsyp_vf!19sChIJJysO_Y-XhYARtnO9pkAoccw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJnTM9w0OahYARiOkdOlsBFT8",
-        "name": "Starbucks",
-        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
-        "is_spending_on_ads": false,
-        "reviews": 158,
-        "competitors": [
-            {
-                "name": "Shake Shack Marin Country Mart",
-                "link": "https://www.google.com/maps/search/Shake+Shack+Marin+Country+Mart/@37.948134200000005,-122.50937689999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 930,
-                "rating": 4.1,
-                "main_category": "Han Bao Bao "
             },
             {
-                "name": "Rustic Bakery",
-                "link": "https://www.google.com/maps/search/Rustic+Bakery/@37.9470678,-122.5095934?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 470,
-                "rating": 4.3,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Equator Coffees",
-                "link": "https://www.google.com/maps/search/Equator+Coffees/@37.932849999999995,-122.5357444?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 260,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Pressed Juicery",
-                "link": "https://www.google.com/maps/search/Pressed+Juicery/@37.9470452,-122.5084864?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
-                "rating": 4,
-                "main_category": "Guo Zhi "
-            },
-            {
-                "name": "The Bistro - Eat. Drink. Connect.(r)",
-                "link": "https://www.google.com/maps/search/The+Bistro+-+Eat.+Drink.+Connect.%C2%AE/@37.9483488,-122.507955?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
-                "rating": 4.4,
-                "main_category": "Mei Guo Cai "
-            }
-        ],
-        "website": "https://www.starbucks.com/store-locator/store/9768/",
-        "owner": {
-            "id": "108053662496624921091",
-            "name": "Starbucks (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/108053662496624921091"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeF4qhXlE0BxmzTdc-MCqxA8Hkmn3zPrO5OAvM=w408-h306-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian ",
-            "Zao Can Can Ting ",
-            "Ka Pei Ting ",
-            "Zheng Liu Ka Pei Ba ",
-            "Wang Ba "
-        ],
-        "rating": 4,
-        "workday_timing": "04:30-18:30",
-        "closed_on": "Open All Days",
-        "phone": "+1 415-925-9153",
-        "address": "Starbucks, 1801 Larkspur Landing Cir, Larkspur, CA 94939Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Jiu ",
-                "count": 4
-            },
-            {
-                "keyword": "Ka Pei Shi ",
+                "keyword": "Tu Si ",
                 "count": 3
             }
         ],
-        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80859a43c33d339d:0x3f15015b3a1de988!8m2!3d37.947566!4d-122.509429!16s%2Fg%2F1tltmlrl!19sChIJnTM9w0OahYARiOkdOlsBFT8?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Bagel+Street+Cafe/data=!4m7!3m6!1s0x8085978ffd0e2b27:0xcc712840a6bd73b6!8m2!3d38.0077778!4d-122.5469944!16s%2Fg%2F1tsyp_vf!19sChIJJysO_Y-XhYARtnO9pkAoccw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ_ze22-yZhYAR5piw2XyAafE",
         "name": "Fox & Kit",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 151,
+        "reviews": 154,
         "competitors": [
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Pink owl coffee",
+                "link": "https://www.google.com/maps/search/Pink+owl+coffee/@37.9736397,-122.5395025?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -2418,13 +2551,6 @@
                 "reviews": 27,
                 "rating": 4.2,
                 "main_category": "Ka Pei Hong Bei Shang "
-            },
-            {
-                "name": "Pink owl coffee",
-                "link": "https://www.google.com/maps/search/Pink+owl+coffee/@37.9736397,-122.5395025?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
             }
         ],
         "website": "http://foxandkit.com/",
@@ -2447,7 +2573,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "08:00-17:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-991-5061",
         "address": "Fox & Kit, 1031 C St, San Rafael, CA 94901Mei Guo ",
         "review_keywords": [
@@ -2464,16 +2592,16 @@
                 "count": 15
             },
             {
-                "keyword": "Na Tie ",
-                "count": 10
-            },
-            {
                 "keyword": "Jia Chang ",
                 "count": 9
             },
             {
                 "keyword": "Da Ren ",
                 "count": 8
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 7
             },
             {
                 "keyword": "Gai Nian ",
@@ -2504,21 +2632,21 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -2551,7 +2679,9 @@
         ],
         "rating": 4.6,
         "workday_timing": "06:00-14:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 800-328-1178",
         "address": "Weaver's Coffee & Tea - San Rafael Cafe, 40 Louise St, San Rafael, CA 94901Mei Guo ",
         "review_keywords": [
@@ -2604,7 +2734,7 @@
             {
                 "name": "Lundy's Home Cooking",
                 "link": "https://www.google.com/maps/search/Lundy%27s+Home+Cooking/@37.9730765,-122.5293629?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 367,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -2618,7 +2748,7 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -2682,21 +2812,21 @@
             {
                 "name": "Crepevine Restaurant",
                 "link": "https://www.google.com/maps/search/Crepevine+Restaurant/@37.9730688,-122.52896159999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 669,
+                "reviews": 671,
                 "rating": 4.3,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Miracle Mile Cafe",
                 "link": "https://www.google.com/maps/search/Miracle+Mile+Cafe/@37.975985,-122.5475804?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 505,
+                "reviews": 507,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Lundy's Home Cooking",
                 "link": "https://www.google.com/maps/search/Lundy%27s+Home+Cooking/@37.9730765,-122.5293629?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 365,
+                "reviews": 367,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -2729,9 +2859,15 @@
             "San Wen Zhi Dian "
         ],
         "rating": 4.7,
-        "workday_timing": "11:00-15:30",
+        "workday_timing": null,
         "closed_on": [
-            "Xing Qi Ri "
+            "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
+            "Xing Qi Liu "
         ],
         "phone": "+1 415-521-5591",
         "address": "Magnolia Park Kitchen, 1016 Court St, San Rafael, CA 94901Mei Guo ",
@@ -2772,6 +2908,239 @@
         "link": "https://www.google.com/maps/place/Magnolia+Park+Kitchen/data=!4m7!3m6!1s0x808599fa68d545ad:0xc961149b8872f2dc!8m2!3d37.9734024!4d-122.5269035!16s%2Fg%2F11b_31wj2v!19sChIJrUXVaPqZhYAR3PJyiJsUYck?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJFyH1mv-WhYARu6bNNAH4SnA",
+        "name": "Java Hut",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 106,
+        "competitors": [
+            {
+                "name": "Barefoot Cafe",
+                "link": "https://www.google.com/maps/search/Barefoot+Cafe/@37.9874394,-122.58824179999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 396,
+                "rating": 4.5,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "The Coffee Roastery",
+                "link": "https://www.google.com/maps/search/The+Coffee+Roastery/@37.9869517,-122.58908729999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 381,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Hummingbird",
+                "link": "https://www.google.com/maps/search/The+Hummingbird/@37.9869937,-122.58941709999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 375,
+                "rating": 4.5,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Java Detour",
+                "link": "https://www.google.com/maps/search/Java+Detour/@37.9711195,-122.52570689999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 170,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://www.javahutdrivethru.com/home",
+        "owner": {
+            "id": null,
+            "name": "Java Hut (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrjZ8kEM-3dH5kom9ZwrBRkicwCWAEzlnKZqER=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "05:30-17:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-457-4581",
+        "address": "Java Hut, 760 Center Blvd, Fairfax, CA 94930Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "De Lai Su ",
+                "count": 7
+            },
+            {
+                "keyword": "Ka Pei Shi ",
+                "count": 4
+            },
+            {
+                "keyword": "Na Tie ",
+                "count": 4
+            },
+            {
+                "keyword": "Qi Che ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Java+Hut/data=!4m7!3m6!1s0x808596ff9af52117:0x704af80134cda6bb!8m2!3d37.9865131!4d-122.584498!16s%2Fg%2F1ts3fvkg!19sChIJFyH1mv-WhYARu6bNNAH4SnA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJrWPWnRWXhYARvi5P7__fenM",
+        "name": "Hilda's Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 101,
+        "competitors": [
+            {
+                "name": "Comforts",
+                "link": "https://www.google.com/maps/search/Comforts/@37.9731951,-122.56242789999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 528,
+                "rating": 4.6,
+                "main_category": "Mei Guo Cai "
+            },
+            {
+                "name": "Marin Coffee Roasters",
+                "link": "https://www.google.com/maps/search/Marin+Coffee+Roasters/@37.9751958,-122.5624583?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 221,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Coffee Roastery",
+                "link": "https://www.google.com/maps/search/The+Coffee+Roastery/@37.976095799999996,-122.56341319999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Peet's Coffee",
+                "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9812544,-122.5657285?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 63,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "D.G. Cafe",
+                "link": "https://www.google.com/maps/search/D.G.+Cafe/@37.9740859,-122.56243690000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.9,
+                "main_category": "Shou Shi Dian "
+            }
+        ],
+        "website": "http://hildascoffeeshop.com/",
+        "owner": {
+            "id": "115753445760388897693",
+            "name": "Hilda's Coffee Shop (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/115753445760388897693"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLWtg2Slll2fsY3qI0S-tIvuTre8yYrk-fU128=w408-h724-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:30-14:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-457-9266",
+        "address": "Hilda's Coffee Shop, 639 San Anselmo Ave, San Anselmo, CA 94960Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Zao Can ",
+                "count": 19
+            },
+            {
+                "keyword": "Chao Dan ",
+                "count": 4
+            },
+            {
+                "keyword": "Ban Ni Di Ke Dan ",
+                "count": 4
+            },
+            {
+                "keyword": "Shu Shi ",
+                "count": 4
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 4
+            },
+            {
+                "keyword": "Zha Niu Pai ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hilda%27s+Coffee+Shop/data=!4m7!3m6!1s0x808597159dd663ad:0x737adfffef4f2ebe!8m2!3d37.975829!4d-122.5628737!16s%2Fm%2F0dkpl51!19sChIJrWPWnRWXhYARvi5P7__fenM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJO1hhcvqZhYARH8__el470fI",
+        "name": "Cold Stone Creamery",
+        "description": "Bing Qi Lin Lian Suo Dian ,Gu Ke Ke Zi Xing She Ji Chuang Yi Bing Pin ,Bing You Dian Yuan Zai Hua Gang Yan Ban Shang Yi Shou Gong Hun He ,Yi Fan Shou Nai Xi Deng Qi Ta Chan Pin . ",
+        "is_spending_on_ads": false,
+        "reviews": 98,
+        "competitors": [
+            {
+                "name": "Double Rainbow Cafe",
+                "link": "https://www.google.com/maps/search/Double+Rainbow+Cafe/@37.972966299999996,-122.5253013?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 319,
+                "rating": 4.6,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Silbermann's Ice Cream",
+                "link": "https://www.google.com/maps/search/Silbermann%27s+Ice+Cream/@38.0076969,-122.54665500000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 269,
+                "rating": 4.7,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Golden Cream Doughnut Shop",
+                "link": "https://www.google.com/maps/search/Golden+Cream+Doughnut+Shop/@37.972151,-122.52421299999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 103,
+                "rating": 4.6,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "San Anselmo Gelato",
+                "link": "https://www.google.com/maps/search/San+Anselmo+Gelato/@37.975797500000006,-122.5624893?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 50,
+                "rating": 3.9,
+                "main_category": "Bing Qi Lin "
+            },
+            {
+                "name": "Fiorello's Artisan Gelato",
+                "link": "https://www.google.com/maps/search/Fiorello%27s+Artisan+Gelato/@37.957312699999996,-122.49950279999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 24,
+                "rating": 4.7,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": "https://www.coldstonecreamery.com/stores/20270%3Futm_source%3Dgmb%26utm_medium%3Dgmb%26utm_campaign%3Dgmb%26utm_id%3Dgmb",
+        "owner": {
+            "id": "101911019045631140395",
+            "name": "Cold Stone Creamery (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/101911019045631140395"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnmJQb4Bma8-4HxDPKBXwm95dRYdQeVs6z6INA=w426-h240-k-no",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian ",
+            "Xi Bing Dian ",
+            "Tian Pin Can Ting ",
+            "Ru Luo Xue Gao Dian "
+        ],
+        "rating": 4,
+        "workday_timing": "11:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-258-0105",
+        "address": "Cold Stone Creamery, 1010 Court St, San Rafael, CA 94901Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Kou Wei ",
+                "count": 5
+            },
+            {
+                "keyword": "Nai Xi ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cold+Stone+Creamery/data=!4m7!3m6!1s0x808599fa7261583b:0xf2d13b5e7affcf1f!8m2!3d37.9732573!4d-122.5267376!16s%2Fm%2F021_fv9!19sChIJO1hhcvqZhYARH8__el470fI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJU8Tr0h-ahYARf7cSSzAITw0",
         "name": "Bagel Street",
         "description": null,
@@ -2781,7 +3150,7 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -2795,21 +3164,21 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "House of Bagels",
                 "link": "https://www.google.com/maps/search/House+of+Bagels/@37.972587399999995,-122.5223523?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 161,
+                "reviews": 162,
                 "rating": 4.1,
                 "main_category": "Mian Bao Quan Dian "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -2827,7 +3196,9 @@
         ],
         "rating": 4.2,
         "workday_timing": "06:00-14:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-257-8832",
         "address": "Bagel Street, 369 3rd St C, San Rafael, CA 94901Mei Guo ",
         "review_keywords": [
@@ -2868,14 +3239,14 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -2889,7 +3260,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -2916,6 +3287,7 @@
         "workday_timing": "06:30-14:00",
         "closed_on": [
             "Xing Qi Ri ",
+            "Xing Qi Yi ",
             "Xing Qi Liu "
         ],
         "phone": "+1 628-240-3944",
@@ -2977,21 +3349,21 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -3053,15 +3425,15 @@
             {
                 "name": "L J's Deli",
                 "link": "https://www.google.com/maps/search/L+J%27s+Deli/@38.016740999999996,-122.53914399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 73,
+                "reviews": 74,
                 "rating": 4.7,
                 "main_category": "Shou Shi Dian "
             },
             {
                 "name": "Smith Ranch Deli and Cafe",
                 "link": "https://www.google.com/maps/search/Smith+Ranch+Deli+and+Cafe/@38.020098499999996,-122.5338039?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 57,
-                "rating": 4.1,
+                "reviews": 59,
+                "rating": 4,
                 "main_category": "Shou Shi Dian "
             },
             {
@@ -3231,7 +3603,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -3257,7 +3629,7 @@
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://www.peets.com/pages/store-locator?stockist-query=San%20Anselmo,%20CA,%20USA&selected=San%20Anselmo",
+        "website": "https://www.peets.com/pages/store-locator%3Fstockist-query%3DSan%2520Anselmo,%2520CA,%2520USA%26selected%3DSan%2520Anselmo",
         "owner": {
             "id": "101695122515182261216",
             "name": "Peet's Coffee (Ye Zhu )",
@@ -3276,7 +3648,9 @@
         ],
         "rating": 4.3,
         "workday_timing": "05:30-18:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-306-0310",
         "address": "Peet's Coffee, 896 Sir Francis Drake Blvd, San Anselmo, CA 94960Mei Guo ",
         "review_keywords": [
@@ -3301,28 +3675,28 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -3372,21 +3746,21 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Shiro Kuma Sushi",
                 "link": "https://www.google.com/maps/search/Shiro+Kuma+Sushi/@37.9738398,-122.53412229999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 166,
+                "reviews": 167,
                 "rating": 4.4,
                 "main_category": "Shou Si "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -3466,7 +3840,7 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@38.0079059,-122.54758609999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 382,
+                "reviews": 383,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -3487,19 +3861,19 @@
             {
                 "name": "Bagel Street Cafe",
                 "link": "https://www.google.com/maps/search/Bagel+Street+Cafe/@38.0077778,-122.5469944?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 160,
-                "rating": 4.3,
+                "reviews": 161,
+                "rating": 4.2,
                 "main_category": "Mian Bao Quan Dian "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://www.gloriajeans.com/?utm_content=Gloria%20Jean%27s%20Coffees%20Northgate%20Mall%20-%20San%20Rafael&utm_campaign=Google%20My%20Business&utm_medium=organic&utm_source=google&utm_term=plcid_17718396537123245370",
+        "website": "https://www.gloriajeans.com/%3Futm_content%3DGloria%2520Jean%2527s%2520Coffees%2520Northgate%2520Mall%2520-%2520San%2520Rafael%26utm_campaign%3DGoogle%2520My%2520Business%26utm_medium%3Dorganic%26utm_source%3Dgoogle%26utm_term%3Dplcid_17718396537123245370",
         "owner": {
             "id": "104392484911025473678",
             "name": "Gloria Jean's Coffees Northgate Mall (Ye Zhu )",
@@ -3534,7 +3908,7 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3548,14 +3922,14 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Armida's Bakery and Cafe (Formerly Muffin Mania)",
                 "link": "https://www.google.com/maps/search/Armida%27s+Bakery+and+Cafe+%28Formerly+Muffin+Mania%29/@37.9679827,-122.53057430000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 125,
+                "reviews": 126,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -3613,7 +3987,7 @@
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -3667,6 +4041,88 @@
             }
         ],
         "link": "https://www.google.com/maps/place/oddcha/data=!4m7!3m6!1s0x8085998bfb9ae127:0x6d6d031d41ac6e48!8m2!3d37.9715132!4d-122.5210671!16s%2Fg%2F11sycpxz3p!19sChIJJ-Ga-4uZhYARSG6sQR0DbW0?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJb0Wd8SqXhYARf_h4mIGc1RI",
+        "name": "Crown and Crumpet Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "competitors": [
+            {
+                "name": "Crown & Crumpet Tea Salon",
+                "link": "https://www.google.com/maps/search/Crown+%26+Crumpet+Tea+Salon/@37.7856787,-122.4305775?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 265,
+                "rating": 4.4,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Wu Wei Tea Temple",
+                "link": "https://www.google.com/maps/search/Wu+Wei+Tea+Temple/@37.987344400000005,-122.5876811?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 252,
+                "rating": 4.8,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Sip Tea Room",
+                "link": "https://www.google.com/maps/search/Sip+Tea+Room/@37.7657721,-122.4658318?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 131,
+                "rating": 4.7,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Dartealing Lounge",
+                "link": "https://www.google.com/maps/search/Dartealing+Lounge/@37.7815158,-122.39641859999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 129,
+                "rating": 4.5,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "Village Corner",
+                "link": "https://www.google.com/maps/search/Village+Corner/@37.9608232,-122.5555912?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 3.5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "http://crownandcrumpet.com/",
+        "owner": {
+            "id": null,
+            "name": "Crown and Crumpet Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPvZVuNxCfLD6xJHb8vK3Ny1xroaHnHQtkKdIs=w408-h544-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Cha Yi Guan "
+        ],
+        "rating": 4.9,
+        "workday_timing": "10:00-16:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+1 415-771-4252",
+        "address": "Crown and Crumpet Cafe, 22 Ross Common, Ross, CA 94957Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Si Kang ",
+                "count": 4
+            },
+            {
+                "keyword": "Ke Ai ",
+                "count": 3
+            },
+            {
+                "keyword": "Sheng Ri ",
+                "count": 3
+            },
+            {
+                "keyword": "Kong Jian ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Crown+and+Crumpet+Cafe/data=!4m7!3m6!1s0x8085972af19d456f:0x12d59c819878f87f!8m2!3d37.9602847!4d-122.5556175!16s%2Fg%2F11rs9p8q6s!19sChIJb0Wd8SqXhYARf_h4mIGc1RI?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJbwRAgyxhhYARHQXmVtM9TbQ",
@@ -3730,6 +4186,7 @@
         "rating": 5,
         "workday_timing": "10:00-20:00",
         "closed_on": [
+            "Xing Qi Ri ",
             "Xing Qi Yi ",
             "Xing Qi Er ",
             "Xing Qi San "
@@ -3765,16 +4222,185 @@
         "link": "https://www.google.com/maps/place/Sweetly+Cali+Desserts/data=!4m7!3m6!1s0x8085612c8340046f:0xb44d3dd356e6051d!8m2!3d37.9730241!4d-122.52853!16s%2Fg%2F11p5j57xmh!19sChIJbwRAgyxhhYARHQXmVtM9TbQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJU2ynt22ahYAR6AClR98QN_A",
+        "name": "Starbucks",
+        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "competitors": [
+            {
+                "name": "Peet's Coffee",
+                "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.945676999999996,-122.52402800000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 147,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Noah's NY Bagels",
+                "link": "https://www.google.com/maps/search/Noah%27s+NY+Bagels/@37.9462249,-122.52535429999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 113,
+                "rating": 4,
+                "main_category": "Mian Bao Quan Dian "
+            },
+            {
+                "name": "Victoria Bakery and Cafe",
+                "link": "https://www.google.com/maps/search/Victoria+Bakery+and+Cafe/@37.9456306,-122.52368059999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 103,
+                "rating": 4.3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Bean Crema Coffee & Tea",
+                "link": "https://www.google.com/maps/search/Bean+Crema+Coffee+%26+Tea/@37.9442774,-122.51830450000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 15,
+                "rating": 4.7,
+                "main_category": "Wai Dai Ka Pei Zhuan Mai Dian "
+            }
+        ],
+        "website": "https://www.starbucks.com/store-locator/store/8966",
+        "owner": {
+            "id": "112831618096654660907",
+            "name": "Starbucks (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/112831618096654660907"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bJWKi0ITmqOKqjxMS_T79A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.48964&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Ka Pei Ting ",
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 4,
+        "workday_timing": "05:30-17:30",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-461-1164",
+        "address": "Starbucks, Bon Air Shopping Center, 270 Bon Air Center, Greenbrae, CA 94904Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80859a6db7a76c53:0xf03710df47a500e8!8m2!3d37.945602!4d-122.524574!16s%2Fg%2F1tgnxfw4!19sChIJU2ynt22ahYAR6AClR98QN_A?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJT7nxwROXhYARDFLrKgGH1bo",
+        "name": "Starbucks",
+        "description": "Yuan Yu Xi Ya Tu De Lian Suo Ka Pei Ting ,Yi Zhao Pai Hong Bei Dou , Qing Shi He Ti Gong  WiFi Er Wen Ming . ",
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "competitors": [
+            {
+                "name": "The Coffee Roastery",
+                "link": "https://www.google.com/maps/search/The+Coffee+Roastery/@37.976095799999996,-122.56341319999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 125,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Hilda's Coffee Shop",
+                "link": "https://www.google.com/maps/search/Hilda%27s+Coffee+Shop/@37.975829,-122.56287370000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 101,
+                "rating": 4.7,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Peet's Coffee",
+                "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9812544,-122.5657285?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 63,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "D.G. Cafe",
+                "link": "https://www.google.com/maps/search/D.G.+Cafe/@37.9740859,-122.56243690000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 16,
+                "rating": 4.9,
+                "main_category": "Shou Shi Dian "
+            },
+            {
+                "name": "Safeway Bakery",
+                "link": "https://www.google.com/maps/search/Safeway+Bakery/@37.980714899999995,-122.56422939999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 3,
+                "main_category": "Mian Bao Xi Bing Dian "
+            }
+        ],
+        "website": "https://www.starbucks.com/store-locator/store/15789",
+        "owner": {
+            "id": "111430093962621757236",
+            "name": "Starbucks (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/111430093962621757236"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WFc5mfn3JITDw9IRQlQVZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=70.9811&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Ka Pei Ting ",
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-456-9157",
+        "address": "Starbucks, 838 Sir Francis Drake Blvd, San Anselmo, CA 94960Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x80859713c1f1b94f:0xbad587012aeb520c!8m2!3d37.9807149!4d-122.5642294!16s%2Fg%2F1tp08bgh!19sChIJT7nxwROXhYARDFLrKgGH1bo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJdT5PswGRhYAR58bhi9uYtQM",
+        "name": "Rio Rock Acai Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "competitors": [
+            {
+                "name": "Pressed Juicery",
+                "link": "https://www.google.com/maps/search/Pressed+Juicery/@37.9470452,-122.5084864?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 32,
+                "rating": 4,
+                "main_category": "Guo Zhi "
+            },
+            {
+                "name": "SunLife Organics",
+                "link": "https://www.google.com/maps/search/SunLife+Organics/@37.9478906,-122.50905629999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 22,
+                "rating": 4.1,
+                "main_category": "Guo Zhi "
+            }
+        ],
+        "website": "http://www.riorockacaicafe.com/",
+        "owner": {
+            "id": "104911677791996072448",
+            "name": "Rio Rock Acai Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104911677791996072448"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDNAKP2uavOCM9df7MLR-E7VvrEJC_-PuDeBlS=w408-h544-k-no",
+        "main_category": "Ba Xi Mei Tian Dian Dian ",
+        "categories": [
+            "Ba Xi Mei Tian Dian Dian ",
+            "Ka Pei Ting ",
+            "Jian Kang Shi Pin Zhuan Mai Dian "
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-747-8668",
+        "address": "Rio Rock Acai Cafe, 860 College Ave Unit C, Kentfield, CA 94904Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Jia Ge ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Rio+Rock+Acai+Cafe/data=!4m7!3m6!1s0x80859101b34f3e75:0x3b598db8be1c6e7!8m2!3d37.9550053!4d-122.5479623!16s%2Fg%2F11gjsypmnb!19sChIJdT5PswGRhYAR58bhi9uYtQM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJldh7UpeXhYAR6Yyl8wVSt0o",
         "name": "Pink owl coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 27,
+        "reviews": 28,
         "competitors": [
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -3795,14 +4421,14 @@
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Fox & Kit",
                 "link": "https://www.google.com/maps/search/Fox+%26+Kit/@37.97404220000001,-122.53088330000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
+                "reviews": 154,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             }
@@ -3821,7 +4447,9 @@
         ],
         "rating": 4.5,
         "workday_timing": "07:00-16:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
         "phone": "+1 415-870-9934",
         "address": "Pink owl coffee, 1816 Second St, San Rafael, CA 94901Mei Guo ",
         "review_keywords": [
@@ -3846,35 +4474,35 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Fox & Kit",
                 "link": "https://www.google.com/maps/search/Fox+%26+Kit/@37.97404220000001,-122.53088330000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 151,
+                "reviews": 154,
                 "rating": 4.6,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -3911,80 +4539,6 @@
         "link": "https://www.google.com/maps/place/Graffeo+Coffee+Roasting+Co./data=!4m7!3m6!1s0x808599fb64c7ed6d:0x7feaedbe4982fe67!8m2!3d37.9736532!4d-122.5311164!16s%2Fg%2F1w0h7r47!19sChIJbe3HZPuZhYARZ_6CSb7t6n8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJ-XNLtpOZhYARqCvZjU8N6qA",
-        "name": "Portside Bakery",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 24,
-        "competitors": [
-            {
-                "name": "Jelly Donuts",
-                "link": "https://www.google.com/maps/search/Jelly+Donuts/@38.0079353,-122.54735129999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
-                "rating": 4.7,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Ponsford's Place",
-                "link": "https://www.google.com/maps/search/Ponsford%27s+Place/@37.9728565,-122.5347721?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 35,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Great British Bakes",
-                "link": "https://www.google.com/maps/search/Great+British+Bakes/@37.9968903,-122.53069280000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
-                "rating": 5,
-                "main_category": "Mian Bao Xi Bing Dian "
-            },
-            {
-                "name": "Safeway Bakery",
-                "link": "https://www.google.com/maps/search/Safeway+Bakery/@38.0084799,-122.54832220000002?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Mian Bao Xi Bing Dian "
-            }
-        ],
-        "website": "http://portsidebakery.com/",
-        "owner": {
-            "id": "102062573410853523768",
-            "name": "Portside Bakery (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102062573410853523768"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMRooBtHzsZ1Rxreo8AziJ4gBf0Nh74xU_kqfws=w408-h421-k-no",
-        "main_category": "Mian Bao Xi Bing Dian ",
-        "categories": [
-            "Mian Bao Xi Bing Dian "
-        ],
-        "rating": 4.7,
-        "workday_timing": "09:00-13:00",
-        "closed_on": [
-            "Xing Qi Yi ",
-            "Xing Qi Er ",
-            "Xing Qi San ",
-            "Xing Qi Wu ",
-            "Xing Qi Liu "
-        ],
-        "phone": "+1 260-388-2574",
-        "address": "Portside Bakery, 10 Ave of the Flags, San Rafael, CA 94903Mei Guo ",
-        "review_keywords": [
-            {
-                "keyword": "Ke Song ",
-                "count": 5
-            },
-            {
-                "keyword": "Lao Mian ",
-                "count": 4
-            },
-            {
-                "keyword": "Cai Shi Chang ",
-                "count": 3
-            }
-        ],
-        "link": "https://www.google.com/maps/place/Portside+Bakery/data=!4m7!3m6!1s0x80859993b64b73f9:0xa0ea0d4f8dd92ba8!8m2!3d38.0024696!4d-122.533493!16s%2Fg%2F11sf196pbn!19sChIJ-XNLtpOZhYARqCvZjU8N6qA?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ33kQWByahYARpK6Eu6BOj0E",
         "name": "Equator Coffees Roastery",
         "description": null,
@@ -3994,14 +4548,14 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Royal Ground Coffee",
                 "link": "https://www.google.com/maps/search/Royal+Ground+Coffee/@37.9735017,-122.5297379?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 129,
+                "reviews": 130,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4066,7 +4620,7 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4080,8 +4634,8 @@
             {
                 "name": "Bagel Street Cafe",
                 "link": "https://www.google.com/maps/search/Bagel+Street+Cafe/@38.0077778,-122.5469944?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 160,
-                "rating": 4.3,
+                "reviews": 161,
+                "rating": 4.2,
                 "main_category": "Mian Bao Quan Dian "
             },
             {
@@ -4118,7 +4672,7 @@
         "name": "Sour Kid Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 12,
+        "reviews": 13,
         "competitors": [],
         "website": "https://www.sourkidcafe.com/",
         "owner": {
@@ -4132,9 +4686,14 @@
             "Ka Pei Ting "
         ],
         "rating": 5,
-        "workday_timing": "06:00-14:00",
+        "workday_timing": null,
         "closed_on": [
             "Xing Qi Ri ",
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi San ",
+            "Xing Qi Si ",
+            "Xing Qi Wu ",
             "Xing Qi Liu "
         ],
         "phone": "+1 415-457-0113",
@@ -4148,68 +4707,59 @@
         "link": "https://www.google.com/maps/place/Sour+Kid+Cafe/data=!4m7!3m6!1s0x80859bef25e77ce5:0x998fa5c3f5dbd322!8m2!3d37.9565387!4d-122.5054108!16s%2Fg%2F11vdd4rvsd!19sChIJ5XznJe-bhYARItPb9cOlj5k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJkcMzajuahYARdU97BEIqJsc",
-        "name": "Wild Card Roasters",
+        "place_id": "ChIJywIU1vSahYARaIxtv7gpPGc",
+        "name": "Nordstrom Ebar Artisan Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 5,
+        "reviews": 6,
         "competitors": [
             {
-                "name": "Red Whale Coffee",
-                "link": "https://www.google.com/maps/search/Red+Whale+Coffee/@38.018699999999995,-122.53695370000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 226,
-                "rating": 4.5,
+                "name": "Starbucks",
+                "link": "https://www.google.com/maps/search/Starbucks/@37.927706,-122.51713099999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 126,
+                "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Pink Owl Coffee",
-                "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
-                "rating": 4.5,
+                "name": "JOE & THE JUICE",
+                "link": "https://www.google.com/maps/search/JOE+%26+THE+JUICE/@37.9290271,-122.51422919999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 72,
+                "rating": 2.8,
+                "main_category": "Guo Zhi "
+            },
+            {
+                "name": "Peets Coffee & Tea",
+                "link": "https://www.google.com/maps/search/Peets+Coffee+%26+Tea/@37.9304013,-122.5144559?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 20,
+                "rating": 3.7,
                 "main_category": "Ka Pei Dian "
             },
             {
-                "name": "Weaver's Coffee & Tea - San Rafael Cafe",
-                "link": "https://www.google.com/maps/search/Weaver%27s+Coffee+%26+Tea+-+San+Rafael+Cafe/@37.962336,-122.507852?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 140,
-                "rating": 4.6,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Graffeo Coffee Roasting Co.",
-                "link": "https://www.google.com/maps/search/Graffeo+Coffee+Roasting+Co./@37.9736532,-122.53111639999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 27,
-                "rating": 4.2,
-                "main_category": "Ka Pei Hong Bei Shang "
-            },
-            {
-                "name": "Equator Coffees Roastery",
-                "link": "https://www.google.com/maps/search/Equator+Coffees+Roastery/@37.9654242,-122.5230484?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.8,
-                "main_category": "Ka Pei Hong Bei Shang "
+                "name": "Book Passage Cafe and Wine Bar",
+                "link": "https://www.google.com/maps/search/Book+Passage+Cafe+and+Wine+Bar/@37.9338692,-122.51738919999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 10,
+                "rating": 4.4,
+                "main_category": "Ka Pei Ting "
             }
         ],
-        "website": "http://www.wildcardroasters.com/",
+        "website": "https://www.nordstrom.com/store-details/nordstrom-the-village-at-corte-madera%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dfood%26utm_content%3D26423%26utm_channel%3Dlow_nd_seo_local%26sp_source%3Dgoogle%26sp_campaign%3Dfood",
         "owner": {
-            "id": null,
-            "name": "Wild Card Roasters (Ye Zhu )",
-            "link": null
+            "id": "105524017947641655199",
+            "name": "Nordstrom Ebar Artisan Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/105524017947641655199"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPINDpX3fy_FCr0uDZLsBp_tYlmSdnJ8Fr05eo7=w408-h489-k-no",
-        "main_category": "Ka Pei Hong Bei Shang ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNbD-pgWw-IiopHaRZK5IVm4j9SyKeyFn_qf9eQ=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
         "categories": [
-            "Ka Pei Hong Bei Shang ",
-            "Zheng Liu Ka Pei Ba ",
-            "Cang Ku "
+            "Ka Pei Dian "
         ],
         "rating": 4.2,
-        "workday_timing": "06:00-14:00",
+        "workday_timing": "08:00-19:00",
         "closed_on": "Open All Days",
-        "phone": "+1 800-328-1178",
-        "address": "Wild Card Roasters, 40 Louise St, San Rafael, CA 94901Mei Guo ",
+        "phone": "+1 415-737-2045",
+        "address": "Nordstrom Ebar Artisan Coffee, 1870 Redwood Hwy, Corte Madera, CA 94925Mei Guo ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Wild+Card+Roasters/data=!4m7!3m6!1s0x80859a3b6a33c391:0xc7262a42047b4f75!8m2!3d37.9623452!4d-122.5079763!16s%2Fg%2F11cfblgtm!19sChIJkcMzajuahYARdU97BEIqJsc?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Nordstrom+Ebar+Artisan+Coffee/data=!4m7!3m6!1s0x80859af4d61402cb:0x673c29b8bf6d8c68!8m2!3d37.9306575!4d-122.5143938!16s%2Fg%2F119wb2z3s!19sChIJywIU1vSahYARaIxtv7gpPGc?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJEcBKaC2bhYARDy_QqArjwUY",
@@ -4242,8 +4792,8 @@
             {
                 "name": "Starbucks",
                 "link": "https://www.google.com/maps/search/Starbucks/@37.945602,-122.524574?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 30,
-                "rating": 4.1,
+                "reviews": 31,
+                "rating": 4,
                 "main_category": "Ka Pei Dian "
             },
             {
@@ -4280,7 +4830,7 @@
         "is_spending_on_ads": false,
         "reviews": 2,
         "competitors": [],
-        "website": "https://www.loopneighborhood.com/location/4th-street-shell/%3Futm_source%3DGBP%26utm_campaign%3D1833%25204Th%2520St%26utm_medium%3Dorganic",
+        "website": "https://www.loopneighborhood.com/location/4th-street-shell/?utm_source=GBP&utm_campaign=1833%204Th%20St&utm_medium=organic",
         "owner": {
             "id": "118386716568145131805",
             "name": "Loop Neighborhood Market (Ye Zhu )",
@@ -4318,14 +4868,14 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Redwood Cafe",
                 "link": "https://www.google.com/maps/search/Redwood+Cafe/@38.0186379,-122.53711179999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 176,
+                "reviews": 178,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
@@ -4376,7 +4926,7 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4425,32 +4975,6 @@
         "link": "https://www.google.com/maps/place/Chilly%27s+Caf%C3%A9/data=!4m7!3m6!1s0x8085998d40efffff:0x85c848e78dcf20b7!8m2!3d37.9816331!4d-122.5110297!16s%2Fg%2F11fx7xpp9n!19sChIJ___vQI2ZhYARtyDPjedIyIU?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJcwEVFuiXhYARRQ6ns1yqxrQ",
-        "name": "Terra Linda Coffee",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": "https://terralinda.coffee/",
-        "owner": {
-            "id": "104206087705236234193",
-            "name": "Terra Linda Coffee (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/104206087705236234193"
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OOnFlzFey0QiW_25eXAUFw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=109.68958&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Hong Bei Shang ",
-        "categories": [
-            "Ka Pei Hong Bei Shang "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+1 510-666-7377",
-        "address": "Terra Linda Coffee, 1060 Las Pavadas Ave, San Rafael, CA 94903Mei Guo ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Terra+Linda+Coffee/data=!4m7!3m6!1s0x808597e816150173:0xb4c6aa5cb3a70e45!8m2!3d38.0129474!4d-122.5539482!16s%2Fg%2F11y1g9smtj!19sChIJcwEVFuiXhYARRQ6ns1yqxrQ?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJOx6FFyqXhYARL4cEfjgzQis",
         "name": "Palio Coffee",
         "description": null,
@@ -4460,7 +4984,7 @@
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
@@ -4514,6 +5038,32 @@
         "address": "Palio Coffee, 4288 Redwood Hwy, San Rafael, CA 94903Mei Guo ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Palio+Coffee/data=!4m7!3m6!1s0x8085972a17851e3b:0x2b4233387e04872f!8m2!3d38.0135472!4d-122.5408759!16s%2Fg%2F11hk26r5_5!19sChIJOx6FFyqXhYARL4cEfjgzQis?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJcwEVFuiXhYARRQ6ns1yqxrQ",
+        "name": "Terra Linda Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": "https://terralinda.coffee/",
+        "owner": {
+            "id": "104206087705236234193",
+            "name": "Terra Linda Coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104206087705236234193"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OOnFlzFey0QiW_25eXAUFw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=109.68958&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Hong Bei Shang ",
+        "categories": [
+            "Ka Pei Hong Bei Shang "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+1 510-666-7377",
+        "address": "Terra Linda Coffee, 1060 Las Pavadas Ave, San Rafael, CA 94903Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Terra+Linda+Coffee/data=!4m7!3m6!1s0x808597e816150173:0xb4c6aa5cb3a70e45!8m2!3d38.0129474!4d-122.5539482!16s%2Fg%2F11y1g9smtj!19sChIJcwEVFuiXhYARRQ6ns1yqxrQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJafBGMhSbhYARq5xM0OjqMOQ",
@@ -4576,12 +5126,12 @@
         "name": "House of Bagels",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 161,
+        "reviews": 162,
         "competitors": [
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4595,7 +5145,7 @@
             {
                 "name": "Noah's NY Bagels",
                 "link": "https://www.google.com/maps/search/Noah%27s+NY+Bagels/@37.9462249,-122.52535429999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 112,
+                "reviews": 113,
                 "rating": 4,
                 "main_category": "Mian Bao Quan Dian "
             },
@@ -4636,15 +5186,15 @@
                 "count": 11
             },
             {
+                "keyword": "San Ming Zhi ",
+                "count": 7
+            },
+            {
                 "keyword": "Shou Shi ",
                 "count": 6
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 6
-            },
-            {
-                "keyword": "San Ming Zhi ",
                 "count": 6
             },
             {
@@ -4659,19 +5209,19 @@
         "name": "Royal Ground Coffee",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 129,
+        "reviews": 130,
         "competitors": [
             {
                 "name": "Peet's Coffee",
                 "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 379,
+                "reviews": 380,
                 "rating": 4.4,
                 "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -4685,7 +5235,7 @@
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -4723,11 +5273,11 @@
                 "count": 7
             },
             {
-                "keyword": "San Ming Zhi ",
+                "keyword": "espresso",
                 "count": 6
             },
             {
-                "keyword": "espresso",
+                "keyword": "San Ming Zhi ",
                 "count": 6
             },
             {
@@ -4846,6 +5396,92 @@
         "link": "https://www.google.com/maps/place/The+Coffee+Roastery/data=!4m7!3m6!1s0x8085971597f51b09:0x3c693ebd7937b5dc!8m2!3d37.9760958!4d-122.5634132!16s%2Fg%2F1tdb91g_!19sChIJCRv1lxWXhYAR3LU3eb0-aTw?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJkZVNOveZhYARq_1RqnAZkMo",
+        "name": "Golden Cream Doughnut Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 103,
+        "competitors": [
+            {
+                "name": "Johnny Doughnuts",
+                "link": "https://www.google.com/maps/search/Johnny+Doughnuts/@37.973897,-122.53731599999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 447,
+                "rating": 4.6,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Donut Alley",
+                "link": "https://www.google.com/maps/search/Donut+Alley/@37.9354775,-122.53576590000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 124,
+                "rating": 4.6,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Jelly Donuts",
+                "link": "https://www.google.com/maps/search/Jelly+Donuts/@38.0079353,-122.54735129999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 58,
+                "rating": 4.7,
+                "main_category": "Mian Bao Xi Bing Dian "
+            },
+            {
+                "name": "Golden Creme Donuts",
+                "link": "https://www.google.com/maps/search/Golden+Creme+Donuts/@38.0651136,-122.5390255?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 40,
+                "rating": 4.4,
+                "main_category": "Tian Tian Quan "
+            },
+            {
+                "name": "Sunrise Donuts",
+                "link": "https://www.google.com/maps/search/Sunrise+Donuts/@37.964349399999996,-122.5079052?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 37,
+                "rating": 4.2,
+                "main_category": "Tian Tian Quan "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "116089935013106770832",
+            "name": "Golden Cream Doughnut Shop (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/116089935013106770832"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFJ__K86n1So38b6Cr2-GTpTwxjob12cWhavCe=w408-h839-k-no",
+        "main_category": "Dong Shuai Dian ",
+        "categories": [
+            "Dong Shuai Dian ",
+            "Tian Pin Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "05:00-12:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "+1 415-456-5979",
+        "address": "Golden Cream Doughnut Shop, 911 Lincoln Ave, San Rafael, CA 94901Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "Ke Song ",
+                "count": 6
+            },
+            {
+                "keyword": "Xian Jin ",
+                "count": 4
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 4
+            },
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 3
+            },
+            {
+                "keyword": "Zao Can ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Golden+Cream+Doughnut+Shop/data=!4m7!3m6!1s0x808599f73a4d9591:0xca901970aa51fdab!8m2!3d37.972151!4d-122.524213!16s%2Fg%2F1tg7s7jh!19sChIJkZVNOveZhYARq_1RqnAZkMo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJt1O3ViOahYARDaUiFvaGAVw",
         "name": "Churro Station",
         "description": null,
@@ -4855,14 +5491,14 @@
             {
                 "name": "Le Croissant Restaurant",
                 "link": "https://www.google.com/maps/search/Le+Croissant+Restaurant/@37.961075,-122.5027889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 431,
+                "reviews": 432,
                 "rating": 4.4,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Mi Casa Cafe",
                 "link": "https://www.google.com/maps/search/Mi+Casa+Caf%C3%A9/@37.9631361,-122.52016669999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 274,
+                "reviews": 275,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -4941,7 +5577,7 @@
             {
                 "name": "L J's Deli",
                 "link": "https://www.google.com/maps/search/L+J%27s+Deli/@38.016740999999996,-122.53914399999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 73,
+                "reviews": 74,
                 "rating": 4.7,
                 "main_category": "Shou Shi Dian "
             },
@@ -4966,7 +5602,7 @@
             "name": "Smith Ranch Deli and Cafe (Ye Zhu )",
             "link": null
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipODvy3dxz-5_ZFMakvlKANEWbk-6qbMVXmkPyDb=w426-h240-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpDyMKhTHJG_c6ter0lCJCj_z1m5MA0RZbqrvv=w426-h240-k-no",
         "main_category": "Shou Shi Dian ",
         "categories": [
             "Shou Shi Dian "
@@ -4983,7 +5619,7 @@
             },
             {
                 "keyword": "Jia Ge ",
-                "count": 7
+                "count": 8
             },
             {
                 "keyword": "Ka Pei ",
@@ -5001,6 +5637,84 @@
         "link": "https://www.google.com/maps/place/Smith+Ranch+Deli+and+Cafe/data=!4m7!3m6!1s0x80859923e0a2a191:0xba97ade99d445419!8m2!3d38.0200985!4d-122.5338039!16s%2Fg%2F11mxjh28jj!19sChIJkaGi4COZhYARGVREnemtl7o?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJvdFtN1iXhYARFe7R6MJY5Bo",
+        "name": "Moonlight Deli",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "competitors": [
+            {
+                "name": "Viking Submarine Sandwiches",
+                "link": "https://www.google.com/maps/search/Viking+Submarine+Sandwiches/@37.9577752,-122.50227230000002?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 169,
+                "rating": 4.6,
+                "main_category": "San Wen Zhi "
+            },
+            {
+                "name": "Mr. Pickle's Sandwich Shop - San Rafael, CA",
+                "link": "https://www.google.com/maps/search/Mr.+Pickle%27s+Sandwich+Shop+-+San+Rafael%2C+CA/@37.973400999999996,-122.52689099999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 127,
+                "rating": 4.1,
+                "main_category": "San Wen Zhi "
+            },
+            {
+                "name": "Smoky's Deli",
+                "link": "https://www.google.com/maps/search/Smoky%27s+Deli/@37.9582234,-122.50488080000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 95,
+                "rating": 4.4,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Smith Ranch Deli and Cafe",
+                "link": "https://www.google.com/maps/search/Smith+Ranch+Deli+and+Cafe/@38.020098499999996,-122.5338039?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 59,
+                "rating": 4,
+                "main_category": "Shou Shi Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Moonlight Deli (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtgyG6zjgYA_WS4d52cK8bfRM_y5IwVxgVMqdo=w408-h544-k-no",
+        "main_category": "Shou Shi Dian ",
+        "categories": [
+            "Shou Shi Dian "
+        ],
+        "rating": 4.6,
+        "workday_timing": "05:30-17:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+1 415-459-2835",
+        "address": "Moonlight Deli, 1815 4th St suite #5, San Rafael, CA 94901Mei Guo ",
+        "review_keywords": [
+            {
+                "keyword": "San Ming Zhi ",
+                "count": 22
+            },
+            {
+                "keyword": "Jia Ge ",
+                "count": 8
+            },
+            {
+                "keyword": "Wu Can ",
+                "count": 5
+            },
+            {
+                "keyword": "Sha La ",
+                "count": 3
+            },
+            {
+                "keyword": "Ka Pei ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Moonlight+Deli/data=!4m7!3m6!1s0x80859758376dd1bd:0x1ae458c2e8d1ee15!8m2!3d37.9740516!4d-122.5394864!16s%2Fg%2F1tgfww14!19sChIJvdFtN1iXhYARFe7R6MJY5Bo?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJczs-uICXhYARk50gYQ6ZqoI",
         "name": "Cafe 4040",
         "description": null,
@@ -5010,29 +5724,29 @@
             {
                 "name": "Black Bear Diner San Rafael",
                 "link": "https://www.google.com/maps/search/Black+Bear+Diner+San+Rafael/@38.0053237,-122.54126110000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1061,
+                "reviews": 1066,
                 "rating": 4.1,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Le Croissant Restaurant",
                 "link": "https://www.google.com/maps/search/Le+Croissant+Restaurant/@37.961075,-122.5027889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 431,
+                "reviews": 432,
                 "rating": 4.4,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Redwood Cafe",
                 "link": "https://www.google.com/maps/search/Redwood+Cafe/@38.0186379,-122.53711179999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 176,
+                "reviews": 178,
                 "rating": 4.6,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Smith Ranch Deli and Cafe",
                 "link": "https://www.google.com/maps/search/Smith+Ranch+Deli+and+Cafe/@38.020098499999996,-122.5338039?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 57,
-                "rating": 4.1,
+                "reviews": 59,
+                "rating": 4,
                 "main_category": "Shou Shi Dian "
             }
         ],
@@ -5054,6 +5768,7 @@
         "workday_timing": "08:00-15:30",
         "closed_on": [
             "Xing Qi Ri ",
+            "Xing Qi Yi ",
             "Xing Qi Liu "
         ],
         "phone": "+1 415-479-7590",
@@ -5101,7 +5816,7 @@
             {
                 "name": "Jelly Donuts",
                 "link": "https://www.google.com/maps/search/Jelly+Donuts/@38.0079353,-122.54735129999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 56,
+                "reviews": 58,
                 "rating": 4.7,
                 "main_category": "Mian Bao Xi Bing Dian "
             },
@@ -5147,7 +5862,7 @@
             {
                 "name": "Armida's Bakery and Cafe (Formerly Muffin Mania)",
                 "link": "https://www.google.com/maps/search/Armida%27s+Bakery+and+Cafe+%28Formerly+Muffin+Mania%29/@37.9679827,-122.53057430000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 125,
+                "reviews": 126,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
             },
@@ -5211,14 +5926,14 @@
             {
                 "name": "Pho Viet Harbor",
                 "link": "https://www.google.com/maps/search/Pho+Viet+Harbor/@37.9669992,-122.5147046?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 366,
+                "reviews": 367,
                 "rating": 4.3,
                 "main_category": "Yue Nan Cai "
             },
             {
                 "name": "Saigon Village restaurant",
                 "link": "https://www.google.com/maps/search/Saigon+Village+restaurant/@37.9710149,-122.52966269999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 225,
+                "reviews": 227,
                 "rating": 4.5,
                 "main_category": "Yue Nan Cai "
             },
@@ -5232,7 +5947,7 @@
             {
                 "name": "Vn Noodle Grill",
                 "link": "https://www.google.com/maps/search/Vn+Noodle+Grill/@37.9698588,-122.5183349?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 156,
+                "reviews": 157,
                 "rating": 4.2,
                 "main_category": "Yue Nan Cai "
             },
@@ -5288,14 +6003,14 @@
             {
                 "name": "El Lucerito",
                 "link": "https://www.google.com/maps/search/El+Lucerito/@37.9684656,-122.52388219999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 984,
+                "reviews": 988,
                 "rating": 4.3,
                 "main_category": "Wei Di Ma La Cai "
             },
             {
                 "name": "Theresa and Johnnys Cafe",
                 "link": "https://www.google.com/maps/search/Theresa+and+Johnnys+Cafe/@37.9725399,-122.524321?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 605,
+                "reviews": 606,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -5316,7 +6031,7 @@
             {
                 "name": "Casa Manana Restaurant",
                 "link": "https://www.google.com/maps/search/Casa+Ma%C3%B1ana+Restaurant/@37.9709503,-122.5328446?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 260,
+                "reviews": 261,
                 "rating": 4.4,
                 "main_category": "Mo Xi Ge Cai "
             }
@@ -5350,21 +6065,21 @@
             {
                 "name": "Le Croissant Restaurant",
                 "link": "https://www.google.com/maps/search/Le+Croissant+Restaurant/@37.961075,-122.5027889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 431,
+                "reviews": 432,
                 "rating": 4.4,
                 "main_category": "Mei Guo Cai "
             },
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
             {
                 "name": "Pink Owl Coffee",
                 "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 182,
+                "reviews": 184,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             },
@@ -5412,7 +6127,7 @@
             {
                 "name": "Aroma Cafe",
                 "link": "https://www.google.com/maps/search/Aroma+Cafe/@37.9733278,-122.5288306?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 307,
+                "reviews": 308,
                 "rating": 4.4,
                 "main_category": "Ka Pei Ting "
             },
@@ -5468,6 +6183,68 @@
         "link": "https://www.google.com/maps/place/Kosmos+Kafe/data=!4m7!3m6!1s0x808599f6d91ce395:0x6687d62330d3153d!8m2!3d37.9714107!4d-122.5230822!16s%2Fg%2F1tdd0xtf!19sChIJleMc2faZhYARPRXTMCPWh2Y?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJGdcb2cubhYAR6qx-5Fezuaw",
+        "name": "Book Passage Cafe and Wine Bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "competitors": [
+            {
+                "name": "Philz Coffee",
+                "link": "https://www.google.com/maps/search/Philz+Coffee/@37.9261506,-122.51734259999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 394,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Book Passage Bookstore & Cafe",
+                "link": "https://www.google.com/maps/search/Book+Passage+Bookstore+%26+Cafe/@37.9338063,-122.5174063?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 264,
+                "rating": 4.6,
+                "main_category": "Shu Dian "
+            },
+            {
+                "name": "Peet's Coffee",
+                "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.924742,-122.51804899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 246,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "The Lighthouse Cafe",
+                "link": "https://www.google.com/maps/search/The+Lighthouse+Caf%C3%A9/@37.9263889,-122.5288889?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 203,
+                "rating": 4.3,
+                "main_category": "Zao Can "
+            },
+            {
+                "name": "Starbucks",
+                "link": "https://www.google.com/maps/search/Starbucks/@37.927706,-122.51713099999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 126,
+                "rating": 4.1,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Book Passage Cafe and Wine Bar (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.4,
+        "workday_timing": "10:00-18:00",
+        "closed_on": "Open All Days",
+        "phone": "+1 415-927-1503",
+        "address": "Book Passage Cafe and Wine Bar, 51 Tamal Vista Blvd, Corte Madera, CA 94925Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Book+Passage+Cafe+and+Wine+Bar/data=!4m7!3m6!1s0x80859bcbd91bd719:0xacb9b357e47eacea!8m2!3d37.9338692!4d-122.5173892!16s%2Fg%2F11h0bzc6fc!19sChIJGdcb2cubhYAR6qx-5Fezuaw?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJH0hrw-GZhYARRBOZJOC8gaQ",
         "name": "Cup of Gold",
         "description": null,
@@ -5497,6 +6274,70 @@
         "link": "https://www.google.com/maps/place/Cup+of+Gold/data=!4m7!3m6!1s0x808599e1c36b481f:0xa481bce024991344!8m2!3d37.9730794!4d-122.5250291!16s%2Fg%2F11krqcg84c!19sChIJH0hrw-GZhYARRBOZJOC8gaQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ29YstvWZhYARHY87XHCSxKE",
+        "name": "Red Rose Design",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "competitors": [
+            {
+                "name": "Peet's Coffee",
+                "link": "https://www.google.com/maps/search/Peet%27s+Coffee/@37.9709633,-122.51785199999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 380,
+                "rating": 4.4,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Red Whale Coffee",
+                "link": "https://www.google.com/maps/search/Red+Whale+Coffee/@38.018699999999995,-122.53695370000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 226,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Pink Owl Coffee",
+                "link": "https://www.google.com/maps/search/Pink+Owl+Coffee/@37.97332490000001,-122.5283746?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 184,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Nova Rosti Coffee Co.",
+                "link": "https://www.google.com/maps/search/Nova+Rosti+Coffee+Co./@37.9567627,-122.4997117?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 41,
+                "rating": 4.8,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Noy Design",
+                "link": "https://www.google.com/maps/search/Noy+Design/@37.9715255,-122.5210796?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 5,
+                "main_category": "Nu Shi Fu Zhuang Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Red Rose Design (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ce1QYVMgwMA7CIRJFtp47Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=261.38934&pitch=0&thumbfov=100",
+        "main_category": "Yi Lang Ka Pei Ting ",
+        "categories": [
+            "Yi Lang Ka Pei Ting "
+        ],
+        "rating": 4.5,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+1 415-847-9144",
+        "address": "Red Rose Design, San Rafael, CA 94901Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Red+Rose+Design/data=!4m7!3m6!1s0x808599f5b62cd6db:0xa1c492705c3b8f1d!8m2!3d37.9716964!4d-122.5189484!16s%2Fg%2F11gfgp525k!19sChIJ29YstvWZhYARHY87XHCSxKE?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ_egP8tsaNg8RJ-GZqb4Ep50",
         "name": "Royal Ground Coffee - San Rafael",
         "description": null,
@@ -5522,5 +6363,31 @@
         "address": null,
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Royal+Ground+Coffee+-+San+Rafael/data=!4m7!3m6!1s0xf361adbf20fe8fd:0x9da704bea999e127!8m2!3d37.9823225!4d-122.5136675!16s%2Fg%2F11rvw16tqh!19sChIJ_egP8tsaNg8RJ-GZqb4Ep50?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJtzx2hKabhYARTlwA_mUFgk8",
+        "name": "Cafe at the Ferry",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe at the Ferry (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXO_jLa6_PlYOtOm1Xp3XniqsrbbqE8y0ZEl6R=w408-h307-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": "06:30-14:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Cafe at the Ferry, Larkspur Ferry Terminal Pathway, Larkspur, CA 94939Mei Guo ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+at+the+Ferry/data=!4m7!3m6!1s0x80859ba684763cb7:0x4f820565fe005c4e!8m2!3d37.944501!4d-122.5088272!16s%2Fg%2F11t_w4fsfj!19sChIJtzx2hKabhYARTlwA_mUFgk8?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

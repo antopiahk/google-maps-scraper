@@ -23,7 +23,7 @@
             {
                 "name": "Sparhallen",
                 "link": "https://www.google.com/maps/search/Sparhallen/@60.1295306,19.9332963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 691,
+                "reviews": 692,
                 "rating": 4.1,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -81,7 +81,7 @@
             {
                 "name": "Indigo restaurang & bar",
                 "link": "https://www.google.com/maps/search/Indigo+restaurang+%26+bar/@60.10008039999999,19.942825799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 956,
+                "reviews": 957,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -102,12 +102,12 @@
             {
                 "name": "MainBurger (original smak )",
                 "link": "https://www.google.com/maps/search/MainBurger+%28original+smak+%29/@60.111007799999996,19.9296462?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 86,
+                "reviews": 88,
                 "rating": 4.8,
                 "main_category": "Kuai Can "
             }
         ],
-        "website": "https://sv.hesburger.fi/restauranger/%3Ftid%3D167",
+        "website": "https://sv.hesburger.fi/restauranger/?tid=167",
         "owner": {
             "id": "113086559069447774633",
             "name": "Hesburger (Ye Zhu )",
@@ -120,7 +120,9 @@
         ],
         "rating": 3.7,
         "workday_timing": "10:30-20:00",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Er "
+        ],
         "phone": "+358 18 14330",
         "address": "Hesburger, 13 Torggatan, Mariehamn 22100Ao Lan Qun Dao ",
         "review_keywords": [],
@@ -143,7 +145,7 @@
             {
                 "name": "Boquerian",
                 "link": "https://www.google.com/maps/search/Boquerian/@60.0986133,19.9424541?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 250,
+                "reviews": 251,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             },
@@ -285,33 +287,26 @@
         "name": "Kvarter5",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 290,
+        "reviews": 291,
         "competitors": [
             {
                 "name": "Indigo restaurang & bar",
                 "link": "https://www.google.com/maps/search/Indigo+restaurang+%26+bar/@60.10008039999999,19.942825799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 956,
+                "reviews": 957,
                 "rating": 4.3,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Park Restaurang & Bar",
-                "link": "https://www.google.com/maps/search/Park+Restaurang+%26+Bar/@60.09772309999999,19.9405839?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 418,
-                "rating": 4.2,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Restaurang Nautical",
                 "link": "https://www.google.com/maps/search/Restaurang+Nautical/@60.097365399999994,19.9264216?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 367,
+                "reviews": 368,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Boquerian",
                 "link": "https://www.google.com/maps/search/Boquerian/@60.0986133,19.9424541?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 250,
+                "reviews": 251,
                 "rating": 4.1,
                 "main_category": "Can Ting "
             }
@@ -322,13 +317,13 @@
             "name": "Kvarter5 (Ye Zhu )",
             "link": "https://www.google.com/maps/contrib/114130759639966374814"
         },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOMDk2zhSihzm7D8IOMWUbM_EgAtU-e1_-QN7X8=w426-h240-k-no",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGJZcTRqG3c-1-Ceo6ym6rzMVeDMGxgUn0HcEs=w426-h240-k-no",
         "main_category": "Can Ting ",
         "categories": [
             "Can Ting "
         ],
         "rating": 4.3,
-        "workday_timing": "07:00-10:00, 11:00-14:00, 17:00-21:30",
+        "workday_timing": null,
         "closed_on": "Open All Days",
         "phone": "+358 18 15555",
         "address": "Kvarter5, 10 Norragatan, Mariehamn 22100Ao Lan Qun Dao ",
@@ -338,11 +333,11 @@
                 "count": 4
             },
             {
-                "keyword": "Zhu Can ",
+                "keyword": "Niu Pai ",
                 "count": 3
             },
             {
-                "keyword": "Niu Pai ",
+                "keyword": "Zhu Can ",
                 "count": 3
             }
         ],
@@ -480,7 +475,7 @@
             {
                 "name": "Iwa Konditori & Cafe",
                 "link": "https://www.google.com/maps/search/Iwa+Konditori+%26+Caf%C3%A9/@60.12986720000001,19.9335453?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
+                "reviews": 23,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -499,7 +494,7 @@
                 "main_category": "Can Ting "
             }
         ],
-        "website": "https://www.facebook.com/profile.php?id=100057690841422",
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100057690841422",
         "owner": {
             "id": "112465965930786623809",
             "name": "Julius Cafe & Konditori (Ye Zhu )",
@@ -659,7 +654,7 @@
             {
                 "name": "Sparhallen",
                 "link": "https://www.google.com/maps/search/Sparhallen/@60.1295306,19.9332963?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 691,
+                "reviews": 692,
                 "rating": 4.1,
                 "main_category": "Da Xing Chao Ji Shi Chang "
             },
@@ -700,14 +695,14 @@
             {
                 "name": "Pizza Diablo",
                 "link": "https://www.google.com/maps/search/Pizza+Diablo/@60.100142399999996,19.942612999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1123,
+                "reviews": 1124,
                 "rating": 4.2,
                 "main_category": "Yi Shi Bo Bing "
             },
             {
                 "name": "Dino's Bar & Grill",
                 "link": "https://www.google.com/maps/search/Dino%E2%80%99s+Bar+%26+Grill/@60.0999037,19.943455699999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1044,
+                "reviews": 1045,
                 "rating": 4.1,
                 "main_category": "Shao Kao "
             },
@@ -721,7 +716,7 @@
             {
                 "name": "Restaurang Nautical",
                 "link": "https://www.google.com/maps/search/Restaurang+Nautical/@60.097365399999994,19.9264216?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 367,
+                "reviews": 368,
                 "rating": 4.4,
                 "main_category": "Can Ting "
             }
@@ -777,7 +772,7 @@
             {
                 "name": "Iwa Konditori & Cafe",
                 "link": "https://www.google.com/maps/search/Iwa+Konditori+%26+Caf%C3%A9/@60.12986720000001,19.9335453?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
+                "reviews": 23,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             }
@@ -808,6 +803,57 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Caf%C3%A9+Viktor/data=!4m7!3m6!1s0x468ac5d64fb00ee5:0x599175faa48dfd6!8m2!3d60.0984312!4d19.9423951!16s%2Fg%2F11j02b1zpd!19sChIJ5Q6wT9bFikYR1t9Iql8XmQU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJu6qxA_fDikYREm8rQDNX0Ro",
+        "name": "Time Out",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "competitors": [
+            {
+                "name": "Dino's Bar & Grill",
+                "link": "https://www.google.com/maps/search/Dino%E2%80%99s+Bar+%26+Grill/@60.0999037,19.943455699999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1045,
+                "rating": 4.1,
+                "main_category": "Shao Kao "
+            },
+            {
+                "name": "Sittkoffska Garden",
+                "link": "https://www.google.com/maps/search/Sittkoffska+G%C3%A5rden/@60.099113200000005,19.9426111?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 491,
+                "rating": 3.9,
+                "main_category": "Can Ting "
+            },
+            {
+                "name": "Alands Bjorntjanster Ab",
+                "link": "https://www.google.com/maps/search/%C3%85lands+Bj%C3%B6rntj%C3%A4nster+Ab/@60.097749300000004,19.9340478?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
+                "rating": 4.1,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": "http://www.aland.com/se/mat_och_nojen/lunchguiden",
+        "owner": {
+            "id": null,
+            "name": "Time Out (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLWCvDYc9o7K3mC-H1nbCgXIQvTVRC0VNwWyQr=w426-h240-k-no",
+        "main_category": "Wu Can Can Ting ",
+        "categories": [
+            "Wu Can Can Ting "
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+358 18 12006",
+        "address": "Time Out, 10 Elverksgatan, Mariehamn 22100Ao Lan Qun Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Time+Out/data=!4m7!3m6!1s0x468ac3f703b1aabb:0x1ad15733402b6f12!8m2!3d60.1064873!4d19.925828!16s%2Fg%2F11dzs_6wvs!19sChIJu6qxA_fDikYREm8rQDNX0Ro?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJPyLKSAvEikYRgrd1tQhRWCs",
@@ -867,14 +913,14 @@
             {
                 "name": "Indigo restaurang & bar",
                 "link": "https://www.google.com/maps/search/Indigo+restaurang+%26+bar/@60.10008039999999,19.942825799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 956,
+                "reviews": 957,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Sittkoffska Garden",
                 "link": "https://www.google.com/maps/search/Sittkoffska+G%C3%A5rden/@60.099113200000005,19.9426111?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 490,
+                "reviews": 491,
                 "rating": 3.9,
                 "main_category": "Can Ting "
             }
@@ -916,7 +962,7 @@
             {
                 "name": "Iwa Konditori & Cafe",
                 "link": "https://www.google.com/maps/search/Iwa+Konditori+%26+Caf%C3%A9/@60.12986720000001,19.9335453?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
+                "reviews": 23,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -969,7 +1015,7 @@
         "name": "Iwa Konditori & Cafe",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 22,
+        "reviews": 23,
         "competitors": [
             {
                 "name": "Bagarstugan Cafe & Vin",
@@ -1020,6 +1066,71 @@
         "link": "https://www.google.com/maps/place/Iwa+Konditori+%26+Caf%C3%A9/data=!4m7!3m6!1s0x468ac3beeaab80b1:0xfeed109d5a207df3!8m2!3d60.1298672!4d19.9335453!16s%2Fg%2F11k014fb11!19sChIJsYCr6r7DikYR830gWp0Q7f4?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ3yV3R8LDikYREw0MkAJ71sQ",
+        "name": "Koks-Meny Storkok Ab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "competitors": [
+            {
+                "name": "Clas Ohlson Mariehamn Aland",
+                "link": "https://www.google.com/maps/search/Clas+Ohlson+Mariehamn+%C3%85land/@60.130701599999995,19.933565599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 531,
+                "rating": 4.2,
+                "main_category": "Jia Ju Zhuang Xiu Dian "
+            },
+            {
+                "name": "Sara och Jans delikatesser",
+                "link": "https://www.google.com/maps/search/Sara+och+Jans+delikatesser/@60.101167,19.9428172?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 13,
+                "rating": 5,
+                "main_category": "Shou Shi Leng Rou Zhuan Mai Dian "
+            },
+            {
+                "name": "Os-Kok",
+                "link": "https://www.google.com/maps/search/Os-K%C3%B6k/@60.12423020000001,19.9438627?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Fitted furniture supplier"
+            },
+            {
+                "name": "Koket Restaurang och Catering",
+                "link": "https://www.google.com/maps/search/K%C3%B6ket+Restaurang+och+Catering/@60.1595933,19.9460293?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Wu Can "
+            },
+            {
+                "name": "sknhetspro",
+                "link": "https://www.google.com/maps/search/sknhetspro/@60.11762530000001,19.9404932?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Mei Rong Chan Pin Gong Ying Shang "
+            }
+        ],
+        "website": "http://www.koksmeny.ax/",
+        "owner": {
+            "id": "109743487896702569011",
+            "name": "Koks-Meny Storkok Ab (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/109743487896702569011"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-joBMqH-THvDtMI8qY_cwxx0JyIBFlpJXEVO3=w408-h306-k-no",
+        "main_category": "Shang Dian ",
+        "categories": [
+            "Shang Dian "
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "Xing Qi Liu ",
+            "Xing Qi Ri "
+        ],
+        "phone": "+358 18 15399",
+        "address": "Koks-Meny Storkok Ab, 24 Uppgardsvagen, Mariehamn 22100Ao Lan Qun Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/K%C3%B6ks-Meny+Stork%C3%B6k+Ab/data=!4m7!3m6!1s0x468ac3c2477725df:0xc4d67b02900c0d13!8m2!3d60.1246961!4d19.9328114!16s%2Fg%2F11c575cxkh!19sChIJ3yV3R8LDikYREw0MkAJ71sQ?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJpXmicovDikYRYwE6pKKfAKk",
         "name": "Sjokvarterets glasskiosk",
         "description": null,
@@ -1052,6 +1163,52 @@
         "address": "Sjokvarterets glasskiosk, Mariehamn 22100Ao Lan Qun Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Sj%C3%B6kvarterets+glasskiosk/data=!4m7!3m6!1s0x468ac38b72a279a5:0xa9009fa2a43a0163!8m2!3d60.1044379!4d19.9452787!16s%2Fg%2F11df7pq7xl!19sChIJpXmicovDikYRYwE6pKKfAKk?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJkRyqH9LFikYR-6pVobGIWuM",
+        "name": "Totte pa hornet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "competitors": [
+            {
+                "name": "Nato Kiosk",
+                "link": "https://www.google.com/maps/search/N%C3%A5t%C3%B6+Kiosk/@60.040820700000005,19.9697955?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 19,
+                "rating": 4.7,
+                "main_category": "Zi Xun Zhan "
+            },
+            {
+                "name": "Tobbes Fisk",
+                "link": "https://www.google.com/maps/search/Tobbes+Fisk/@60.079393599999996,19.936402899999997?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 2,
+                "rating": 4,
+                "main_category": "Yu Fan "
+            }
+        ],
+        "website": "https://m.facebook.com/tottepahornet/",
+        "owner": {
+            "id": "117850280343998622234",
+            "name": "Totte pa hornet (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/117850280343998622234"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lYR5OeuCWw3x4LVc92hFrw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=303.45023&pitch=0&thumbfov=100",
+        "main_category": "Za Zhi Dian ",
+        "categories": [
+            "Za Zhi Dian ",
+            "Tang Guo Dian ",
+            "Chang Pian Dian ",
+            "Yan Cao Gong Ying Shang "
+        ],
+        "rating": 4.7,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": "+358 18 12154",
+        "address": "Totte pa hornet, 12 Torggatan, Mariehamn 22100Ao Lan Qun Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Totte+p%C3%A5+h%C3%B6rnet/data=!4m7!3m6!1s0x468ac5d21faa1c91:0xe35a88b1a155aafb!8m2!3d60.0988246!4d19.9419461!16s%2Fg%2F11fm3p4ndb!19sChIJkRyqH9LFikYR-6pVobGIWuM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ4dM912TDikYRtZ6f-GuqReQ",
@@ -1091,13 +1248,6 @@
         "is_spending_on_ads": false,
         "reviews": 7,
         "competitors": [
-            {
-                "name": "Park Restaurang & Bar",
-                "link": "https://www.google.com/maps/search/Park+Restaurang+%26+Bar/@60.09772309999999,19.9405839?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 418,
-                "rating": 4.2,
-                "main_category": "Can Ting "
-            },
             {
                 "name": "ROYAL Pizza& grill",
                 "link": "https://www.google.com/maps/search/ROYAL+Pizza%26+grill/@60.100944399999996,19.9421295?authuser=0&hl=zh-TW&entry=ttu",
@@ -1171,7 +1321,11 @@
         ],
         "rating": 5,
         "workday_timing": "08:30-16:30",
-        "closed_on": "Open All Days",
+        "closed_on": [
+            "Xing Qi Yi ",
+            "Xing Qi Er ",
+            "Xing Qi Ri "
+        ],
         "phone": "+358 45 73427743",
         "address": "Torggatan 5 cafe och deli, 5 Torggatan, Mariehamn 22100Ao Lan Qun Dao ",
         "review_keywords": [],
@@ -1187,7 +1341,7 @@
             {
                 "name": "Sittkoffska Garden",
                 "link": "https://www.google.com/maps/search/Sittkoffska+G%C3%A5rden/@60.099113200000005,19.9426111?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 490,
+                "reviews": 491,
                 "rating": 3.9,
                 "main_category": "Can Ting "
             },
@@ -1202,13 +1356,6 @@
                 "name": "Khun Mom Restaurant",
                 "link": "https://www.google.com/maps/search/Khun+Mom+Restaurant/@60.1011734,19.9426461?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 53,
-                "rating": 4.4,
-                "main_category": "Tai Guo Cai "
-            },
-            {
-                "name": "Sagulthai restaurang",
-                "link": "https://www.google.com/maps/search/Sagulthai+restaurang/@60.098250500000006,19.941551999999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 47,
                 "rating": 4.4,
                 "main_category": "Tai Guo Cai "
             },
@@ -1359,8 +1506,8 @@
             },
             {
                 "name": "Gretas Butik och Cafe",
-                "link": "https://www.google.com/maps/search/Gretas+Butik+och+Caf%C3%A9/@60.2231598,20.0135031?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 20,
+                "link": "https://www.google.com/maps/search/Gretas+Butik+och+Caf%C3%A9/@60.223221499999994,20.0134689?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 21,
                 "rating": 4.5,
                 "main_category": "Ka Pei Dian "
             }
@@ -1385,54 +1532,6 @@
         "link": "https://www.google.com/maps/place/Esso+Garden/data=!4m7!3m6!1s0x468ac33f705287ef:0xa8cd591d4016959f!8m2!3d60.1069237!4d19.9418327!16s%2Fg%2F11nn31t0yt!19sChIJ74dScD_DikYRn5UWQB1Zzag?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJJ-jCLnXEikYRV2jw9nZqdAM",
-        "name": "JV Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 10,
-        "competitors": [
-            {
-                "name": "Bagarstugan Cafe & Vin",
-                "link": "https://www.google.com/maps/search/Bagarstugan+Cafe+%26+Vin/@60.0997558,19.9429391?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 547,
-                "rating": 4.5,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Bagel Bee Coffee Bar",
-                "link": "https://www.google.com/maps/search/Bagel+Bee+Coffee+Bar/@60.1001149,19.9416093?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 123,
-                "rating": 4.2,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Cafe Viktor",
-                "link": "https://www.google.com/maps/search/Caf%C3%A9+Viktor/@60.0984312,19.9423951?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 97,
-                "rating": 4.5,
-                "main_category": "Zi Zhu Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "JV Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOhTeRxZP4yTSxyjFyhGZF9CwRnmp4WJsnwPapv=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.6,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "JV Cafe, 15 Norragatan, Mariehamn 22100Ao Lan Qun Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/JV+Caf%C3%A9/data=!4m7!3m6!1s0x468ac4752ec2e827:0x3746a76f6f06857!8m2!3d60.0985139!4d19.9371!16s%2Fg%2F1td5_cd_!19sChIJJ-jCLnXEikYRV2jw9nZqdAM?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJrbRFPHXEikYRS57C9KB9iHA",
         "name": "Ravintola Pommern",
         "description": null,
@@ -1442,22 +1541,15 @@
             {
                 "name": "Hotell Pommern",
                 "link": "https://www.google.com/maps/search/Hotell+Pommern/@60.09885310000001,19.938712?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 820,
+                "reviews": 822,
                 "rating": 4.2,
                 "main_category": "4 Xing Ji Fan Dian "
             },
             {
                 "name": "Restaurang Nautical",
                 "link": "https://www.google.com/maps/search/Restaurang+Nautical/@60.097365399999994,19.9264216?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 367,
+                "reviews": 368,
                 "rating": 4.4,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Kvarter5",
-                "link": "https://www.google.com/maps/search/Kvarter5/@60.0988889,19.938889?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 290,
-                "rating": 4.3,
                 "main_category": "Can Ting "
             }
         ],
@@ -1481,40 +1573,31 @@
         "link": "https://www.google.com/maps/place/Ravintola+Pommern/data=!4m7!3m6!1s0x468ac4753c45b4ad:0x70887da0f4c29e4b!8m2!3d60.0989103!4d19.9388833!16s%2Fg%2F11clsfz1ds!19sChIJrbRFPHXEikYRS57C9KB9iHA?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJzVyj76DDikYRAoMZrxwqEpM",
-        "name": "Bla vagnen - Glass och kaffebar",
+        "place_id": "ChIJBYvy3RTFikYRu54MjY6QQl8",
+        "name": "LizArtworks and Cafe",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
-        "competitors": [
-            {
-                "name": "E-meal Glass",
-                "link": "https://www.google.com/maps/search/E-meal+Glass/@60.0995288,19.938113899999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Bing Qi Lin "
-            }
-        ],
+        "competitors": [],
         "website": null,
         "owner": {
-            "id": null,
-            "name": "Bla vagnen - Glass och kaffebar (Ye Zhu )",
-            "link": null
+            "id": "113290011732480387541",
+            "name": "LizArtworks and Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/113290011732480387541"
         },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uiZjSICiF2CotUDwrUfCqw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=108.82775&pitch=0&thumbfov=100",
-        "main_category": "Xue Gao Dian ",
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfOP1VgYfj-ewpAqQCYQ8GoFknueQBDkdOMGhH=w408-h306-k-no",
+        "main_category": "Fei Zhou Shang Pin Dian ",
         "categories": [
-            "Xue Gao Dian "
+            "Fei Zhou Shang Pin Dian ",
+            "Ka Pei Dian "
         ],
         "rating": null,
-        "workday_timing": "14:00-20:00",
-        "closed_on": [
-            "Xing Qi Ri "
-        ],
-        "phone": null,
-        "address": "Bla vagnen - Glass och kaffebar, 29 Strandgatan, Mariehamn 22100Ao Lan Qun Dao ",
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": "+358 44 2404890",
+        "address": "LizArtworks and Cafe, 9 Torggatan, Mariehamn 22100Ao Lan Qun Dao ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bl%C3%A5+vagnen+-+Glass+och+kaffebar/data=!4m7!3m6!1s0x468ac3a0efa35ccd:0x93122a1caf198302!8m2!3d60.1019194!4d19.942908!16s%2Fg%2F11rgsvlf70!19sChIJzVyj76DDikYRAoMZrxwqEpM?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/LizArtworks+and+Caf%C3%A9/data=!4m7!3m6!1s0x468ac514ddf28b05:0x5f42908e8d0c9ebb!8m2!3d60.0995665!4d19.9420876!16s%2Fg%2F11kj2d9b5w!19sChIJBYvy3RTFikYRu54MjY6QQl8?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJZ38uKXLEikYRu-aRKJX7tIs",
@@ -1558,59 +1641,6 @@
         "link": "https://www.google.com/maps/place/Sk%C3%A4rg%C3%A5rdens+Kaffe+och+Lik%C3%B6r/data=!4m7!3m6!1s0x468ac472292e7f67:0x8bb4fb952891e6bb!8m2!3d60.0909729!4d19.9400475!16s%2Fg%2F11cn7cm2rl!19sChIJZ38uKXLEikYRu-aRKJX7tIs?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJBYvy3RTFikYRu54MjY6QQl8",
-        "name": "LizArtworks and Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": "113290011732480387541",
-            "name": "LizArtworks and Cafe (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/113290011732480387541"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfOP1VgYfj-ewpAqQCYQ8GoFknueQBDkdOMGhH=w408-h306-k-no",
-        "main_category": "Fei Zhou Shang Pin Dian ",
-        "categories": [
-            "Fei Zhou Shang Pin Dian ",
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": "+358 44 2404890",
-        "address": "LizArtworks and Cafe, 9 Torggatan, Mariehamn 22100Ao Lan Qun Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/LizArtworks+and+Caf%C3%A9/data=!4m7!3m6!1s0x468ac514ddf28b05:0x5f42908e8d0c9ebb!8m2!3d60.0995665!4d19.9420876!16s%2Fg%2F11kj2d9b5w!19sChIJBYvy3RTFikYRu54MjY6QQl8?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJmbO6CSbBikYRdfHnZQKiOpE",
-        "name": "Gardbutik & Cafe",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Gardbutik & Cafe (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rZZNt-_jjmABH47Vct5RJw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=118.45663&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "Gardbutik & Cafe, Norra Torpvagen, Jomala 22130Ao Lan Qun Dao ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/G%C3%A5rdbutik+%26+Caf%C3%A9/data=!4m7!3m6!1s0x468ac12609bab399:0x913aa20265e7f175!8m2!3d60.1427677!4d19.8820864!16s%2Fg%2F11v10kw3h3!19sChIJmbO6CSbBikYRdfHnZQKiOpE?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJwSzJRt3DikYRpirV6V1IwyU",
         "name": "Bathuset i Mariehamn Ab",
         "description": null,
@@ -1627,7 +1657,7 @@
             {
                 "name": "Iwa Konditori & Cafe",
                 "link": "https://www.google.com/maps/search/Iwa+Konditori+%26+Caf%C3%A9/@60.12986720000001,19.9335453?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 21,
+                "reviews": 23,
                 "rating": 4.2,
                 "main_category": "Can Ting "
             },
@@ -1657,6 +1687,68 @@
         "address": "Bathuset i Mariehamn Ab, 1 Vikingagrand, Mariehamn 22100Ao Lan Qun Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/B%C3%A5thuset+i+Mariehamn+Ab/data=!4m7!3m6!1s0x468ac3dd46c92cc1:0x25c3485de9d52aa6!8m2!3d60.1266555!4d19.9360665!16s%2Fg%2F1pzq3v__v!19sChIJwSzJRt3DikYRpirV6V1IwyU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJzVyj76DDikYRAoMZrxwqEpM",
+        "name": "Bla vagnen - Glass och kaffebar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "E-meal Glass",
+                "link": "https://www.google.com/maps/search/E-meal+Glass/@60.0995288,19.938113899999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Bing Qi Lin "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bla vagnen - Glass och kaffebar (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uiZjSICiF2CotUDwrUfCqw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=108.82775&pitch=0&thumbfov=100",
+        "main_category": "Xue Gao Dian ",
+        "categories": [
+            "Xue Gao Dian "
+        ],
+        "rating": null,
+        "workday_timing": "14:00-20:00",
+        "closed_on": [
+            "Xing Qi Ri "
+        ],
+        "phone": null,
+        "address": "Bla vagnen - Glass och kaffebar, 29 Strandgatan, Mariehamn 22100Ao Lan Qun Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bl%C3%A5+vagnen+-+Glass+och+kaffebar/data=!4m7!3m6!1s0x468ac3a0efa35ccd:0x93122a1caf198302!8m2!3d60.1019194!4d19.942908!16s%2Fg%2F11rgsvlf70!19sChIJzVyj76DDikYRAoMZrxwqEpM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJmbO6CSbBikYRdfHnZQKiOpE",
+        "name": "Gardbutik & Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gardbutik & Cafe (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rZZNt-_jjmABH47Vct5RJw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=118.45663&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Gardbutik & Cafe, Norra Torpvagen, Jomala 22130Ao Lan Qun Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/G%C3%A5rdbutik+%26+Caf%C3%A9/data=!4m7!3m6!1s0x468ac12609bab399:0x913aa20265e7f175!8m2!3d60.1427677!4d19.8820864!16s%2Fg%2F11v10kw3h3!19sChIJmbO6CSbBikYRdfHnZQKiOpE?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ5dSj7q_FikYRxf1kKSJKUvw",
@@ -1813,5 +1905,46 @@
         "address": "Art Reco antiques and coffee shop, 9 Vaktargrand, Mariehamn 22100Ao Lan Qun Dao ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Art+Reco+antiques+and+coffee+shop/data=!4m7!3m6!1s0x468ac473736f9b13:0x20697958931a890c!8m2!3d60.0937315!4d19.936819!16s%2Fg%2F1pzpp1w4j!19sChIJE5tvc3PEikYRDIkak1h5aSA?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJiwuOsC3CikYRmI6uJuS5EaM",
+        "name": "GEV CAFE AB",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Bagarstugan Cafe & Vin",
+                "link": "https://www.google.com/maps/search/Bagarstugan+Cafe+%26+Vin/@60.0997558,19.9429391?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 547,
+                "rating": 4.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Koket Restaurang och Catering",
+                "link": "https://www.google.com/maps/search/K%C3%B6ket+Restaurang+och+Catering/@60.1595933,19.9460293?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Wu Can "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "GEV CAFE AB (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "GEV CAFE AB, 9 Akergrand, Jomala 22150Ao Lan Qun Dao ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/GEV+CAFE+AB/data=!4m7!3m6!1s0x468ac22db08e0b8b:0xa311b9e426ae8e98!8m2!3d60.15082!4d19.9540539!16s%2Fg%2F11f404d7fh!19sChIJiwuOsC3CikYRmI6uJuS5EaM?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

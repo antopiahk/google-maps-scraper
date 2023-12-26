@@ -16,7 +16,7 @@
             {
                 "name": "Latter Cafe",
                 "link": "https://www.google.com/maps/search/Latter+Cafe/@22.2788267,114.1740186?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 78,
+                "reviews": 80,
                 "rating": 3.8,
                 "main_category": "Ka Pei Ting "
             },
@@ -107,6 +107,111 @@
         "link": "https://www.google.com/maps/place/The+Coffee+Academ%C3%AFcs+Flagship+%28The+Morrison%29/data=!4m7!3m6!1s0x34040053f4711c2d:0x7411a1d86722b117!8m2!3d22.2778031!4d114.1794681!16s%2Fg%2F11b6yh48xv!19sChIJLRxx9FMABDQRF7EiZ9ihEXQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJMadmmt73AzQRsPHTeoBIhTg",
+        "name": "Forest Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 466,
+        "competitors": [
+            {
+                "name": "Mf Cafe",
+                "link": "https://www.google.com/maps/search/Mf+Cafe/@22.4372884,114.06327019999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 115,
+                "rating": 3.9,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Lin Yuan Bing Shi ",
+                "link": "https://www.google.com/maps/search/%E6%9E%97%E5%9C%92%E5%86%B0%E5%AE%A4/@22.439569799999997,114.0669375?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 66,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "VEG-MIND CAFE",
+                "link": "https://www.google.com/maps/search/VEG-MIND+CAFE/@22.441635899999998,114.05505269999999?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 40,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "San Kou Cha  We Tea Connect",
+                "link": "https://www.google.com/maps/search/%E4%B8%89%E5%8F%A3%E8%8C%B6+We+Tea+Connect/@22.441194199999998,114.1289652?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Cha Yi Guan "
+            },
+            {
+                "name": "19CM+ Cafe",
+                "link": "https://www.google.com/maps/search/19CM%2B+Cafe/@22.4398147,113.9913256?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": "https://facebook.com/forestcafehk",
+        "owner": {
+            "id": "103848693924527609085",
+            "name": "Forest Cafe (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/103848693924527609085"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNkphlQABDprGVqTT2LY7MW3T1v53COs5h6x2P=w426-h240-k-no",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": 4.1,
+        "workday_timing": "12:00-18:00",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": "9869 0173",
+        "address": "Forest Cafe, DD19 Duan , Lam Kam Rd",
+        "review_keywords": [
+            {
+                "keyword": "Han Bao ",
+                "count": 29
+            },
+            {
+                "keyword": "Song Shu ",
+                "count": 27
+            },
+            {
+                "keyword": "Shu Shi ",
+                "count": 23
+            },
+            {
+                "keyword": "Shu ",
+                "count": 12
+            },
+            {
+                "keyword": "Xiu Xian ",
+                "count": 11
+            },
+            {
+                "keyword": "Zi Ran ",
+                "count": 10
+            },
+            {
+                "keyword": "Che Wei ",
+                "count": 8
+            },
+            {
+                "keyword": "Jia Che ",
+                "count": 7
+            },
+            {
+                "keyword": "Hei Jiao Chang Pian ",
+                "count": 5
+            },
+            {
+                "keyword": "An Ge Si Niu ",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Forest+Cafe/data=!4m7!3m6!1s0x3403f7de9a66a731:0x388548807ad3f1b0!8m2!3d22.4514177!4d114.1383523!16s%2Fg%2F11clld8681!19sChIJMadmmt73AzQRsPHTeoBIhTg?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJ__9vgyL7AzQR5161h_NjIEw",
         "name": "Yin Pei  Hidden Coffee",
         "description": null,
@@ -170,15 +275,11 @@
         "review_keywords": [
             {
                 "keyword": "Bei ",
-                "count": 13
+                "count": 14
             },
             {
                 "keyword": "scone",
-                "count": 12
-            },
-            {
-                "keyword": "Nai ",
-                "count": 10
+                "count": 13
             },
             {
                 "keyword": "Ka Pei Shi ",
@@ -189,6 +290,10 @@
                 "count": 7
             },
             {
+                "keyword": "Guo ",
+                "count": 6
+            },
+            {
                 "keyword": "Zuo ",
                 "count": 6
             },
@@ -197,15 +302,15 @@
                 "count": 6
             },
             {
-                "keyword": "cappuccino",
-                "count": 6
-            },
-            {
-                "keyword": "Qing Gua ",
+                "keyword": "Bo Jue ",
                 "count": 5
             },
             {
                 "keyword": "Bu Lang Ni ",
+                "count": 5
+            },
+            {
+                "keyword": "Tian ",
                 "count": 5
             }
         ],
@@ -321,7 +426,7 @@
         "name": "The Coffee Academics (Harbour City)",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 225,
+        "reviews": 226,
         "competitors": [
             {
                 "name": "Espresso Alchemy",
@@ -722,7 +827,7 @@
             {
                 "name": "Cafe Cabin",
                 "link": "https://www.google.com/maps/search/Cafe+Cabin/@22.2806647,114.2304355?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 32,
+                "reviews": 33,
                 "rating": 4.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -786,6 +891,99 @@
         "link": "https://www.google.com/maps/place/%E4%B8%8A%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x34040182a90bda8b:0xf815bae002636724!8m2!3d22.2774763!4d114.2275796!16s%2Fg%2F1jmcwzs2c!19sChIJi9oLqYIBBDQRJGdjAuC6Ffg?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJG5tqtwQFBDQRa5ZP_EUK9cI",
+        "name": "Hushush ice cream . coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 168,
+        "competitors": [
+            {
+                "name": "Cozy Coffee",
+                "link": "https://www.google.com/maps/search/Cozy+Coffee/@22.381888699999998,114.2711423?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 138,
+                "rating": 3.5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Xi Si Ming Wu ",
+                "link": "https://www.google.com/maps/search/%E8%A5%BF%E5%81%B2%E5%90%8D%E5%B1%8B/@22.3795188,114.2715226?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 121,
+                "rating": 4,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Kachimushi",
+                "link": "https://www.google.com/maps/search/Kachimushi/@22.3797352,114.27173640000001?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 77,
+                "rating": 4.3,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "THE HUT SOUFFLE PANCAKE",
+                "link": "https://www.google.com/maps/search/THE+HUT+SOUFFL%C3%89+PANCAKE/@22.3820758,114.2732214?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 17,
+                "rating": 4.2,
+                "main_category": "Tian Pin Dian "
+            }
+        ],
+        "website": "https://www.facebook.com/hushushcoffee/",
+        "owner": {
+            "id": "104551762426728773012",
+            "name": "Hushush ice cream . coffee (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/104551762426728773012"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqqG4q79dvIGVWoi2P11GE6xQsRp33zz1CPrh5=w408-h408-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian ",
+            "Mian Bao Quan Dian ",
+            "Ka Pei Ting ",
+            "Xue Gao Dian "
+        ],
+        "rating": 4.5,
+        "workday_timing": "10:30-18:30",
+        "closed_on": [
+            "Xing Qi Yi "
+        ],
+        "phone": null,
+        "address": "G/F, Hushush ice cream . coffeeJin Bao Ge 2 Sai Kung Hoi Pong Square, Sai Kung",
+        "review_keywords": [
+            {
+                "keyword": "Xue Gao ",
+                "count": 21
+            },
+            {
+                "keyword": "Wei Dao ",
+                "count": 17
+            },
+            {
+                "keyword": "Bing Sha ",
+                "count": 6
+            },
+            {
+                "keyword": "Bei ",
+                "count": 6
+            },
+            {
+                "keyword": "latte",
+                "count": 6
+            },
+            {
+                "keyword": "honey",
+                "count": 5
+            },
+            {
+                "keyword": "Kai Xin Guo ",
+                "count": 4
+            },
+            {
+                "keyword": "Xia ",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hushush+ice+cream+.+coffee/data=!4m7!3m6!1s0x34040504b76a9b1b:0xc2f50a45fc4f966b!8m2!3d22.3810784!4d114.2731923!16s%2Fg%2F11g1npyg6x!19sChIJG5tqtwQFBDQRa5ZP_EUK9cI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJZVO5IhYBBDQRHfFogNTEkKM",
         "name": "On The Hill Coffee Bar",
         "description": null,
@@ -795,7 +993,7 @@
             {
                 "name": "Tanuki Coffee",
                 "link": "https://www.google.com/maps/search/Tanuki+Coffee/@22.3120515,114.18822859999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 136,
+                "reviews": 137,
                 "rating": 3.7,
                 "main_category": "Ka Pei Dian "
             },
@@ -898,7 +1096,7 @@
             {
                 "name": "Hong Ji Hai Xian Jiu Jia ",
                 "link": "https://www.google.com/maps/search/%E6%B4%AA%E8%A8%98%E6%B5%B7%E9%AE%AE%E9%85%92%E5%AE%B6/@22.381066,114.27355000000001?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 2432,
+                "reviews": 2431,
                 "rating": 3.6,
                 "main_category": "Zhong Guo Cai "
             },
@@ -994,7 +1192,7 @@
             {
                 "name": "Studio Caffeine (Jordan)",
                 "link": "https://www.google.com/maps/search/Studio+Caffeine+%28Jordan%29/@22.303930899999997,114.169822?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 775,
+                "reviews": 776,
                 "rating": 4.1,
                 "main_category": "Ka Pei Dian "
             },
@@ -1027,7 +1225,7 @@
                 "main_category": "Ka Pei Dian "
             }
         ],
-        "website": "https://www.instagram.com/kactuskoffee/%3Fhl%3Den",
+        "website": "https://www.instagram.com/kactuskoffee/?hl=en",
         "owner": {
             "id": "102709400730757182504",
             "name": "Kactus Koffee (Ye Zhu )",
@@ -1086,68 +1284,6 @@
             }
         ],
         "link": "https://www.google.com/maps/place/Kactus+Koffee/data=!4m7!3m6!1s0x340401d4bf846add:0x9cd9bcb01ebf35ca!8m2!3d22.30735!4d114.1654305!16s%2Fg%2F11rmny56cf!19sChIJ3WqEv9QBBDQRyjW_HrC82Zw?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJZeN3wuL5AzQRZ905mCzIhFY",
-        "name": "Coffee Tea or Me",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 7,
-        "competitors": [
-            {
-                "name": "Browny Cafe",
-                "link": "https://www.google.com/maps/search/Browny+Cafe/@22.37078,114.120335?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 223,
-                "rating": 4.3,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Hong Cha Bing Shi ",
-                "link": "https://www.google.com/maps/search/%E7%B4%85%E8%8C%B6%E5%86%B0%E5%AE%A4/@22.371325499999998,114.11154119999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 148,
-                "rating": 3.5,
-                "main_category": "Can Ting "
-            },
-            {
-                "name": "Come In Cafe",
-                "link": "https://www.google.com/maps/search/Come+In+Cafe/@22.3652005,114.11532919999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 110,
-                "rating": 4.1,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "NOC (Tsuen Wan)",
-                "link": "https://www.google.com/maps/search/NOC+%28Tsuen+Wan%29/@22.3704413,114.11137439999999?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 50,
-                "rating": 4.3,
-                "main_category": "Ka Pei Dian "
-            },
-            {
-                "name": "Cha Lao Qi  Tea-7th",
-                "link": "https://www.google.com/maps/search/%E8%8C%B6%E8%80%81%E4%B8%83+Tea-7th/@22.362078699999998,114.1321572?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 18,
-                "rating": 4.7,
-                "main_category": "Cha Yi Guan "
-            }
-        ],
-        "website": "https://instagram.com/coffeetea.me_hk%3Figshid%3DYmMyMTA2M2Y%3D",
-        "owner": {
-            "id": "103364358502791681246",
-            "name": "Coffee Tea or Me (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/103364358502791681246"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMU-dbkjSouF-8cUOoAJ1JAT6PIcg9p0iMc6Daj=w408-h306-k-no",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": 4.3,
-        "workday_timing": "08:00-19:30",
-        "closed_on": "Open All Days",
-        "phone": "9849 5105",
-        "address": "1st floor, Coffee Tea or Me, Xin Ling Yu Guang Chang  area a, Sai Lau Kok Rd, Tsuen Wan",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Coffee+Tea+or+Me/data=!4m7!3m6!1s0x3403f9e2c277e365:0x5684c82c9839dd67!8m2!3d22.3749471!4d114.114437!16s%2Fg%2F11sfhqxz2m!19sChIJZeN3wuL5AzQRZ905mCzIhFY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJ7_ZLxfIBBDQRvbpvkFLnpuw",
@@ -1300,7 +1436,7 @@
         "review_keywords": [
             {
                 "keyword": "toast",
-                "count": 37
+                "count": 38
             },
             {
                 "keyword": "Chao Dan ",
@@ -1308,11 +1444,15 @@
             },
             {
                 "keyword": "Suan Zhong ",
-                "count": 13
+                "count": 14
             },
             {
                 "keyword": "brunch",
                 "count": 13
+            },
+            {
+                "keyword": "Niu You Guo ",
+                "count": 9
             },
             {
                 "keyword": "He Tao ",

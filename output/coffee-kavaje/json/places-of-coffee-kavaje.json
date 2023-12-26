@@ -4,19 +4,19 @@
         "name": "Wood Flavour",
         "description": null,
         "is_spending_on_ads": false,
-        "reviews": 127,
+        "reviews": 117,
         "competitors": [
             {
                 "name": "Gazi Kavaje",
                 "link": "https://www.google.com/maps/search/Gazi+Kavaj%C3%AB/@41.183523300000004,19.563503?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 342,
+                "reviews": 345,
                 "rating": 3.9,
                 "main_category": "Can Ting "
             },
             {
                 "name": "Restorant \"Poceria Vjeter\"",
                 "link": "https://www.google.com/maps/search/Restorant+%22Po%C3%A7eria+Vjet%C3%ABr%22/@41.19729770000001,19.5493132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 259,
+                "reviews": 260,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -62,39 +62,101 @@
         "address": "Wood Flavour, Lagjia Nr 1, Kavaje 2501A Er Ba Ni Ya ",
         "review_keywords": [
             {
-                "keyword": "Rou ",
-                "count": 15
+                "keyword": "Jia Ge ",
+                "count": 9
+            },
+            {
+                "keyword": "Sha La ",
+                "count": 8
             },
             {
                 "keyword": "Ding Gu Niu Pai ",
-                "count": 11
-            },
-            {
-                "keyword": "Jia Ge ",
-                "count": 10
+                "count": 7
             },
             {
                 "keyword": "Jing Yan ",
-                "count": 8
-            },
-            {
-                "keyword": "Hong Jiu ",
-                "count": 8
-            },
-            {
-                "keyword": "Zhu Can ",
                 "count": 6
             },
             {
-                "keyword": "atmosphere",
+                "keyword": "Hong Jiu ",
                 "count": 4
             },
             {
                 "keyword": "Ting Che ",
                 "count": 4
+            },
+            {
+                "keyword": "Shi Cai ",
+                "count": 3
+            },
+            {
+                "keyword": "Bang Wan ",
+                "count": 3
             }
         ],
         "link": "https://www.google.com/maps/place/Wood+Flavour/data=!4m7!3m6!1s0x134fdff9de16d73d:0xd538fff8d739ebcb!8m2!3d41.1931506!4d19.5543728!16s%2Fg%2F11llgf1hbt!19sChIJPdcW3vnfTxMRy-s51_j_ONU?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJD1TvzIvfTxMRa_G9wIgxS9k",
+        "name": "Big Market",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "competitors": [
+            {
+                "name": "Big Market",
+                "link": "https://www.google.com/maps/search/Big+Market/@41.2472237,19.5245501?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 28,
+                "rating": 4.6,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "fish market \" Kavaje\"",
+                "link": "https://www.google.com/maps/search/fish+market+%E2%80%9C+Kavaj%C3%AB%E2%80%9D/@41.188068699999995,19.5569958?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 22,
+                "rating": 4.5,
+                "main_category": "Yu Fan "
+            },
+            {
+                "name": "Euro Market",
+                "link": "https://www.google.com/maps/search/Euro+Market/@41.1856292,19.5568113?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.5,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Furre Aga Kavaje",
+                "link": "https://www.google.com/maps/search/Furre+Aga+Kavaje/@41.182911,19.5569991?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Supermarket Veizi 4",
+                "link": "https://www.google.com/maps/search/Supermarket+Veizi+4/@41.183677499999995,19.5628066?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Chao Ji Shi Chang "
+            }
+        ],
+        "website": "http://www.bigmarket.al/",
+        "owner": {
+            "id": null,
+            "name": "Big Market (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZDAL6DSFvj_Q_o8CXS8uoxb8LmX1tgoVmbVcm=w408-h306-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang "
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-22:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Big Market, Rruga Taulantia,Lagjia Nr.2, Zona Kadastrale 8551, Kavaje, A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Big+Market/data=!4m7!3m6!1s0x134fdf8bccef540f:0xd94b3188c0bdf16b!8m2!3d41.1856308!4d19.5544515!16s%2Fg%2F11q2ycfq59!19sChIJD1TvzIvfTxMRa_G9wIgxS9k?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJgSZ8f7nfTxMRTLX-QJkpO6A",
@@ -324,7 +386,7 @@
             {
                 "name": "Bar Lounge ALIA",
                 "link": "https://www.google.com/maps/search/Bar+Lounge+ALIA/@41.1703872,19.571409799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
+                "reviews": 2,
                 "rating": 5,
                 "main_category": "Jiu Ba "
             },
@@ -374,7 +436,7 @@
             },
             {
                 "name": "Bar Merhori",
-                "link": "https://www.google.com/maps/search/Bar+Merhori/@41.1882872,19.5576504?authuser=0&hl=zh-TW&entry=ttu",
+                "link": "https://www.google.com/maps/search/Bar+Merhori/@41.188200900000005,19.5575346?authuser=0&hl=zh-TW&entry=ttu",
                 "reviews": 8,
                 "rating": 4.5,
                 "main_category": "Ka Pei Ting "
@@ -389,7 +451,7 @@
             {
                 "name": "Bar Lounge ALIA",
                 "link": "https://www.google.com/maps/search/Bar+Lounge+ALIA/@41.1703872,19.571409799999998?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 1,
+                "reviews": 2,
                 "rating": 5,
                 "main_category": "Jiu Ba "
             },
@@ -503,6 +565,47 @@
         "link": "https://www.google.com/maps/place/Bar+Kafe+Klejdi/data=!4m7!3m6!1s0x13502000bc2804bb:0x6dcfdb0fcc12cd06!8m2!3d41.1725151!4d19.5698151!16s%2Fg%2F11df6djn14!19sChIJuwQovAAgUBMRBs0SzA_bz20?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJucRB_O_fTxMRf9_pUy2vwQs",
+        "name": "Leti Meathouse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "competitors": [
+            {
+                "name": "Bar Kavaja",
+                "link": "https://www.google.com/maps/search/Bar+Kavaja/@41.1853221,19.5596961?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 24,
+                "rating": 4.6,
+                "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "Fast Food Roma",
+                "link": "https://www.google.com/maps/search/Fast+Food+Roma/@41.1850656,19.5604938?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Can Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "102434364279812510089",
+            "name": "Leti Meathouse (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/102434364279812510089"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOH9d-TzuegihPVsdZ8S9I1SG7e3wrfaUfbcMFz=w408-h510-k-no",
+        "main_category": "Can Ting ",
+        "categories": [
+            "Can Ting "
+        ],
+        "rating": 4.7,
+        "workday_timing": "11:00-23:30",
+        "closed_on": "Open All Days",
+        "phone": "+355 69 691 4441",
+        "address": "Leti Meathouse, Lagjia Zguraj Kavaje, Kavaje 2501A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Leti+Meathouse/data=!4m7!3m6!1s0x134fdfeffc41c4b9:0xbc1af2d53e9df7f!8m2!3d41.1810405!4d19.556673!16s%2Fg%2F1ttl115j!19sChIJucRB_O_fTxMRf9_pUy2vwQs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJIZ-zIIvfTxMRalzL69zOK7U",
         "name": "SB Bar",
         "description": null,
@@ -553,7 +656,7 @@
             {
                 "name": "Restorant MERHORI",
                 "link": "https://www.google.com/maps/search/Restorant+MERHORI/@41.2079605,19.5333871?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 62,
+                "reviews": 63,
                 "rating": 4.5,
                 "main_category": "Can Ting "
             },
@@ -580,50 +683,9 @@
         "workday_timing": "07:30-22:30",
         "closed_on": "Open All Days",
         "phone": "+355 69 219 8090",
-        "address": "5HQ5+836 Bar Merhori, Kavaje, A Er Ba Ni Ya ",
+        "address": "5HQ5+72M Bar Merhori, Kavaje, A Er Ba Ni Ya ",
         "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bar+Merhori/data=!4m7!3m6!1s0x134fdff28f7fe3e5:0xe988929deb4a5dec!8m2!3d41.1882872!4d19.5576504!16s%2Fg%2F11d_bkhrp8!19sChIJ5eN_j_LfTxMR7F1K652SiOk?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJucRB_O_fTxMRf9_pUy2vwQs",
-        "name": "Leti Meathouse",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 8,
-        "competitors": [
-            {
-                "name": "Bar Kavaja",
-                "link": "https://www.google.com/maps/search/Bar+Kavaja/@41.1853221,19.5596961?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 24,
-                "rating": 4.6,
-                "main_category": "Ka Pei Ting "
-            },
-            {
-                "name": "Fast Food Roma",
-                "link": "https://www.google.com/maps/search/Fast+Food+Roma/@41.1850656,19.5604938?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 6,
-                "rating": 4.8,
-                "main_category": "Can Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": "102434364279812510089",
-            "name": "Leti Meathouse (Ye Zhu )",
-            "link": "https://www.google.com/maps/contrib/102434364279812510089"
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOH9d-TzuegihPVsdZ8S9I1SG7e3wrfaUfbcMFz=w408-h510-k-no",
-        "main_category": "Can Ting ",
-        "categories": [
-            "Can Ting "
-        ],
-        "rating": 4.6,
-        "workday_timing": "11:00-23:30",
-        "closed_on": "Open All Days",
-        "phone": "+355 69 691 4441",
-        "address": "Leti Meathouse, Lagjia Zguraj Kavaje, Kavaje 2501A Er Ba Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Leti+Meathouse/data=!4m7!3m6!1s0x134fdfeffc41c4b9:0xbc1af2d53e9df7f!8m2!3d41.1810405!4d19.556673!16s%2Fg%2F1ttl115j!19sChIJucRB_O_fTxMRf9_pUy2vwQs?authuser=0&hl=zh-TW&rclk=1"
+        "link": "https://www.google.com/maps/place/Bar+Merhori/data=!4m7!3m6!1s0x134fdff28f7fe3e5:0xe988929deb4a5dec!8m2!3d41.1882009!4d19.5575346!16s%2Fg%2F11d_bkhrp8!19sChIJ5eN_j_LfTxMR7F1K652SiOk?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJz8PDqvHfTxMR-mIYGLJdm8Y",
@@ -700,6 +762,13 @@
                 "reviews": 1,
                 "rating": 5,
                 "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Furre buke",
+                "link": "https://www.google.com/maps/search/Furr%C3%AB+buke/@41.1882723,19.557439?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Shang Dian "
             }
         ],
         "website": null,
@@ -720,6 +789,109 @@
         "address": "5HM4+5C8 Furre Buke Aga, Rruga e Alltuneve, Kavaje, A Er Ba Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Furre+Buke+Aga/data=!4m7!3m6!1s0x134fdfefd4f43abf:0x36b6ad30f3f205d!8m2!3d41.1829141!4d19.5560882!16s%2Fg%2F11f03wkb9b!19sChIJvzr01O_fTxMRXSA_D9NqawM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJ689GeETfTxMROES5JuI7pTs",
+        "name": "Euro Market",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Market Veizi 1",
+                "link": "https://www.google.com/maps/search/Market+Veizi+1/@41.1817085,19.5596218?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Market Enesi",
+                "link": "https://www.google.com/maps/search/Market+Enesi/@41.181801899999996,19.5585164?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Supermarket Veizi 4",
+                "link": "https://www.google.com/maps/search/Supermarket+Veizi+4/@41.183677499999995,19.5628066?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Furre Aga Kavaje",
+                "link": "https://www.google.com/maps/search/Furre+Aga+Kavaje/@41.182911,19.5569991?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Za Huo Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Euro Market (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8VdfNsjH6EVhX8hXNFK_5Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=78.43404&pitch=0&thumbfov=100",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang "
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "Euro Market, Rruga Hasan Gjeci 3562, Kavaje, A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Euro+Market/data=!4m7!3m6!1s0x134fdf447846cfeb:0x3ba53be226b94438!8m2!3d41.1856292!4d19.5568113!16s%2Fg%2F11j2fyfw2h!19sChIJ689GeETfTxMROES5JuI7pTs?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJs29AT-3fTxMRg_Kyzs5ZY50",
+        "name": "Bar Grill Klodi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "competitors": [
+            {
+                "name": "Klajdi Bar",
+                "link": "https://www.google.com/maps/search/Klajdi+Bar/@41.237699600000006,19.5161771?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 42,
+                "rating": 4.4,
+                "main_category": "Jiu Ba Ya Zuo "
+            },
+            {
+                "name": "Geli Lounge Bar",
+                "link": "https://www.google.com/maps/search/Geli+Lounge+Bar/@41.184883,19.5612456?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Jiu Ba "
+            },
+            {
+                "name": "Bar Germani",
+                "link": "https://www.google.com/maps/search/Bar+Germani/@41.1875143,19.5579382?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Jiu Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": "108380495727942319419",
+            "name": "Bar Grill Klodi (Ye Zhu )",
+            "link": "https://www.google.com/maps/contrib/108380495727942319419"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6iJRNebHMGog5K4UXPwGLPHXf9rOBsLaQ-vIm=w408-h883-k-no",
+        "main_category": "Jiu Ba Ba Fang ",
+        "categories": [
+            "Jiu Ba Ba Fang "
+        ],
+        "rating": 4,
+        "workday_timing": "24 Xiao Shi Ying Ye ",
+        "closed_on": "Open All Days",
+        "phone": "+355 69 544 5409",
+        "address": "Bar Grill Klodi, Shetitorja Josif Budo, Kavaje, A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bar+Grill+Klodi/data=!4m7!3m6!1s0x134fdfed4f406fb3:0x9d6359ceceb2f283!8m2!3d41.1899915!4d19.5557781!16s%2Fg%2F11c55vflxn!19sChIJs29AT-3fTxMRg_Kyzs5ZY50?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJpWdU4PPfTxMRb8VzeB10-RQ",
@@ -818,6 +990,68 @@
         "link": "https://www.google.com/maps/place/Pasticeri+Perla+Kavaje/data=!4m7!3m6!1s0x134fdf2c80d97ccb:0xc1342649e76e1e49!8m2!3d41.1807328!4d19.5640149!16s%2Fg%2F11lt7bh9bx!19sChIJy3zZgCzfTxMRSR5u50kmNME?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJlzix-vHfTxMR-dNnrnGScUc",
+        "name": "Market Veizi 1",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "competitors": [
+            {
+                "name": "Myftiu Supermarket",
+                "link": "https://www.google.com/maps/search/Myftiu+Supermarket/@41.1879105,19.555026599999998?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 23,
+                "rating": 4.5,
+                "main_category": "Za Huo Dian "
+            },
+            {
+                "name": "Veizi Cash&Carry Distribution",
+                "link": "https://www.google.com/maps/search/Veizi+Cash%26Carry+Distribution/@41.2038121,19.5334534?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 9,
+                "rating": 4.8,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Supermarket Veizi 2",
+                "link": "https://www.google.com/maps/search/Supermarket+Veizi+2/@41.1897812,19.555285?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 6,
+                "rating": 4.8,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Euro Market",
+                "link": "https://www.google.com/maps/search/Euro+Market/@41.1856292,19.5568113?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 4,
+                "rating": 4.5,
+                "main_category": "Chao Ji Shi Chang "
+            },
+            {
+                "name": "Supermarket Veizi 4",
+                "link": "https://www.google.com/maps/search/Supermarket+Veizi+4/@41.183677499999995,19.5628066?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 4,
+                "main_category": "Chao Ji Shi Chang "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Market Veizi 1 (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN7zN72i9C0KdjMJrLUj-wxaccORDz1skWaRdoM=w408-h306-k-no",
+        "main_category": "Chao Ji Shi Chang ",
+        "categories": [
+            "Chao Ji Shi Chang "
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-21:00",
+        "closed_on": "Open All Days",
+        "phone": "+355 68 259 2312",
+        "address": "5HJ5+MRQ Market Veizi 1, Shetitorja Kavaljoni, Kavaje, A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Market+Veizi+1/data=!4m7!3m6!1s0x134fdff1fab13897:0x47719271ae67d3f9!8m2!3d41.1817085!4d19.5596218!16s%2Fg%2F11gfn8ygtt!19sChIJlzix-vHfTxMR-dNnrnGScUc?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJg0bjDAvfTxMRkRYZ-qaAGSc",
         "name": "Mono's Caffe",
         "description": null,
@@ -830,6 +1064,13 @@
                 "reviews": 4,
                 "rating": 5,
                 "main_category": "Can Ting "
+            },
+            {
+                "name": "BAR KAFE GAZI",
+                "link": "https://www.google.com/maps/search/BAR+KAFE+GAZI/@41.1836632,19.5615398?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "BAR CAFE PASCUCCI",
@@ -969,6 +1210,32 @@
         "link": "https://www.google.com/maps/place/Bar+Kafe+ibra/data=!4m7!3m6!1s0x13502000c15b1bcd:0xc94903a73502569a!8m2!3d41.1723582!4d19.5705933!16s%2Fg%2F11g68_59xl!19sChIJzRtbwQAgUBMRmlYCNacDSck?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJ3aMEhxrfTxMRPOGU1kYjTbM",
+        "name": "BAR KAFE GAZI",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "competitors": [],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BAR KAFE GAZI (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0FiDbpLLE-n-iLHFwSNYd4iapzQ_P8e4riIiR=w426-h240-k-no",
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "5HM6+FJ7 BAR KAFE GAZI, Kavaje, A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BAR+KAFE+GAZI/data=!4m7!3m6!1s0x134fdf1a8704a3dd:0xb34d2346d694e13c!8m2!3d41.1836632!4d19.5615398!16s%2Fg%2F11sc29_13s!19sChIJ3aMEhxrfTxMRPOGU1kYjTbM?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJiwFQ_fHfTxMRupCC8UBCJiY",
         "name": "Bar Caffe Mario",
         "description": null,
@@ -1019,7 +1286,7 @@
             {
                 "name": "Restorant \"Poceria Vjeter\"",
                 "link": "https://www.google.com/maps/search/Restorant+%22Po%C3%A7eria+Vjet%C3%ABr%22/@41.19729770000001,19.5493132?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 259,
+                "reviews": 260,
                 "rating": 4.3,
                 "main_category": "Can Ting "
             },
@@ -1070,32 +1337,6 @@
         "address": "5HM6+WHV Creperie, Kavaje, A Er Ba Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Creperie/data=!4m7!3m6!1s0x134fdff3e0f0997f:0x22e2132f2d64b3ec!8m2!3d41.1848707!4d19.5614063!16s%2Fg%2F11g7kh2q0n!19sChIJf5nw4PPfTxMR7LNkLS8T4iI?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
-        "place_id": "ChIJ3aMEhxrfTxMRPOGU1kYjTbM",
-        "name": "BAR KAFE GAZI",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": 1,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "BAR KAFE GAZI (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0FiDbpLLE-n-iLHFwSNYd4iapzQ_P8e4riIiR=w426-h240-k-no",
-        "main_category": "Ka Pei Dian ",
-        "categories": [
-            "Ka Pei Dian "
-        ],
-        "rating": 5,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "5HM6+FJ7 BAR KAFE GAZI, Kavaje, A Er Ba Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/BAR+KAFE+GAZI/data=!4m7!3m6!1s0x134fdf1a8704a3dd:0xb34d2346d694e13c!8m2!3d41.1836589!4d19.5615592!16s%2Fg%2F11sc29_13s!19sChIJ3aMEhxrfTxMRPOGU1kYjTbM?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJP5u_4j3fTxMRh2_MTy28Z5w",
@@ -1151,6 +1392,13 @@
                 "reviews": 24,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "BAR KAFE GAZI",
+                "link": "https://www.google.com/maps/search/BAR+KAFE+GAZI/@41.1836632,19.5615398?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
             },
             {
                 "name": "Bar Caffe Mario",
@@ -1276,32 +1524,6 @@
         "link": "https://www.google.com/maps/place/Caffe+Polis+Kavaj%C3%AB/data=!4m7!3m6!1s0x134fdf314a6bef37:0x46c9a1c995543f4d!8m2!3d41.1858885!4d19.5599427!16s%2Fg%2F11fqcdbhr4!19sChIJN-9rSjHfTxMRTT9UlcmhyUY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJFe6BDsrfTxMRYIAB5mbrrds",
-        "name": "City bar",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "City bar (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eX6q7KBbJ7MJBNA5aoZxxA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=234.5915&pitch=0&thumbfov=100",
-        "main_category": "Zheng Liu Ka Pei Ba ",
-        "categories": [
-            "Zheng Liu Ka Pei Ba "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "5HM6+Q9Q City bar, Kavaje, A Er Ba Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/City+bar/data=!4m7!3m6!1s0x134fdfca0e81ee15:0xdbadeb66e6018060!8m2!3d41.1844725!4d19.56099!16s%2Fg%2F11s1v5yfvp!19sChIJFe6BDsrfTxMRYIAB5mbrrds?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJBWOlbtPfTxMRpHNMbVLcbF4",
         "name": "Elsficio Cafe",
         "description": null,
@@ -1321,6 +1543,13 @@
                 "reviews": 2,
                 "rating": 5,
                 "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "BAR KAFE GAZI",
+                "link": "https://www.google.com/maps/search/BAR+KAFE+GAZI/@41.1836632,19.5615398?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
@@ -1341,6 +1570,40 @@
         "address": "Elsficio Cafe, Rruga Gjimnazit, Kavaje, A Er Ba Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Elsficio+Cafe/data=!4m7!3m6!1s0x134fdfd36ea56305:0x5e6cdc526d4c73a4!8m2!3d41.1827522!4d19.5626374!16s%2Fg%2F11j7fjyws9!19sChIJBWOlbtPfTxMRpHNMbVLcbF4?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJFe6BDsrfTxMRYIAB5mbrrds",
+        "name": "City bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "BAR KAFE GAZI",
+                "link": "https://www.google.com/maps/search/BAR+KAFE+GAZI/@41.1836632,19.5615398?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "City bar (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eX6q7KBbJ7MJBNA5aoZxxA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=234.5915&pitch=0&thumbfov=100",
+        "main_category": "Zheng Liu Ka Pei Ba ",
+        "categories": [
+            "Zheng Liu Ka Pei Ba "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "5HM6+Q9Q City bar, Kavaje, A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/City+bar/data=!4m7!3m6!1s0x134fdfca0e81ee15:0xdbadeb66e6018060!8m2!3d41.1844725!4d19.56099!16s%2Fg%2F11s1v5yfvp!19sChIJFe6BDsrfTxMRYIAB5mbrrds?authuser=0&hl=zh-TW&rclk=1"
     },
     {
         "place_id": "ChIJr8TXrtzfTxMRGnAKTMlqdMY",
@@ -1384,6 +1647,47 @@
         "link": "https://www.google.com/maps/place/Bar+coffe/data=!4m7!3m6!1s0x134fdfdcaed7c4af:0xc6746ac94c0a701a!8m2!3d41.1829643!4d19.555948!16s%2Fg%2F11j4njbxvn!19sChIJr8TXrtzfTxMRGnAKTMlqdMY?authuser=0&hl=zh-TW&rclk=1"
     },
     {
+        "place_id": "ChIJe4rUHWHfTxMR4TNGFQRcQ1Q",
+        "name": "Bar Loku",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "BAR KAFE GAZI",
+                "link": "https://www.google.com/maps/search/BAR+KAFE+GAZI/@41.1836632,19.5615398?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "DUBAI",
+                "link": "https://www.google.com/maps/search/DUBAI/@41.1810133,19.5421271?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Ka Pei Ting "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bar Loku (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zd6AABQMavFRqeH0jzwdLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=128.87778&pitch=0&thumbfov=100",
+        "main_category": "Ka Pei Ting ",
+        "categories": [
+            "Ka Pei Ting "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "5HJ7+8H9 Bar Loku, Lagjia, Sharre, Kavaje, A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bar+Loku/data=!4m7!3m6!1s0x134fdf611dd48a7b:0x54435c04154633e1!8m2!3d41.1807979!4d19.5639768!16s%2Fg%2F11k0n1z1mx!19sChIJe4rUHWHfTxMR4TNGFQRcQ1Q?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
         "place_id": "ChIJwzyKUW3fTxMREzqt9SIdrkQ",
         "name": "Bar Lakja",
         "description": null,
@@ -1425,46 +1729,20 @@
         "link": "https://www.google.com/maps/place/Bar+Lakja/data=!4m7!3m6!1s0x134fdf6d518a3cc3:0x44ae1d22f5ad3a13!8m2!3d41.1864626!4d19.5539452!16s%2Fg%2F11fnbf4kd_!19sChIJwzyKUW3fTxMREzqt9SIdrkQ?authuser=0&hl=zh-TW&rclk=1"
     },
     {
-        "place_id": "ChIJe4rUHWHfTxMR4TNGFQRcQ1Q",
-        "name": "Bar Loku",
-        "description": null,
-        "is_spending_on_ads": false,
-        "reviews": null,
-        "competitors": [
-            {
-                "name": "DUBAI",
-                "link": "https://www.google.com/maps/search/DUBAI/@41.1810133,19.5421271?authuser=0&hl=zh-TW&entry=ttu",
-                "reviews": 0,
-                "rating": 0,
-                "main_category": "Ka Pei Ting "
-            }
-        ],
-        "website": null,
-        "owner": {
-            "id": null,
-            "name": "Bar Loku (Ye Zhu )",
-            "link": null
-        },
-        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zd6AABQMavFRqeH0jzwdLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=128.87778&pitch=0&thumbfov=100",
-        "main_category": "Ka Pei Ting ",
-        "categories": [
-            "Ka Pei Ting "
-        ],
-        "rating": null,
-        "workday_timing": null,
-        "closed_on": "Open All Days",
-        "phone": null,
-        "address": "5HJ7+8H9 Bar Loku, Lagjia, Sharre, Kavaje, A Er Ba Ni Ya ",
-        "review_keywords": [],
-        "link": "https://www.google.com/maps/place/Bar+Loku/data=!4m7!3m6!1s0x134fdf611dd48a7b:0x54435c04154633e1!8m2!3d41.1807979!4d19.5639768!16s%2Fg%2F11k0n1z1mx!19sChIJe4rUHWHfTxMR4TNGFQRcQ1Q?authuser=0&hl=zh-TW&rclk=1"
-    },
-    {
         "place_id": "ChIJ76JIRuXfTxMRfOInCdppHvw",
         "name": "Bar Reandi Makina me qira",
         "description": null,
         "is_spending_on_ads": false,
         "reviews": null,
-        "competitors": [],
+        "competitors": [
+            {
+                "name": "BAR KAFE GAZI",
+                "link": "https://www.google.com/maps/search/BAR+KAFE+GAZI/@41.1836632,19.5615398?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            }
+        ],
         "website": null,
         "owner": {
             "id": null,
@@ -1497,6 +1775,13 @@
                 "reviews": 9,
                 "rating": 4.6,
                 "main_category": "Ka Pei Ting "
+            },
+            {
+                "name": "BAR KAFE GAZI",
+                "link": "https://www.google.com/maps/search/BAR+KAFE+GAZI/@41.1836632,19.5615398?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
             }
         ],
         "website": null,
@@ -1543,5 +1828,46 @@
         "address": "Bar Coffe Dylan, Rruga Fose 5849, Kavaje, A Er Ba Ni Ya ",
         "review_keywords": [],
         "link": "https://www.google.com/maps/place/Bar+Coffe+Dylan/data=!4m7!3m6!1s0x134fdf82f8d0d76f:0x22126a179b6ba6b0!8m2!3d41.179048!4d19.5651105!16s%2Fg%2F11rkm9zmnd!19sChIJb9fQ-ILfTxMRsKZrmxdqEiI?authuser=0&hl=zh-TW&rclk=1"
+    },
+    {
+        "place_id": "ChIJPVFGjv_hTxMRSfxSghq2IFo",
+        "name": "Piazza hajdaraj",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "BAR KAFE GAZI",
+                "link": "https://www.google.com/maps/search/BAR+KAFE+GAZI/@41.1836632,19.5615398?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Ka Pei Dian "
+            },
+            {
+                "name": "Bar Kadushja",
+                "link": "https://www.google.com/maps/search/Bar+Kadushja/@41.314257399999995,19.4498845?authuser=0&hl=zh-TW&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Zheng Liu Ka Pei Ba "
+            }
+        ],
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Piazza hajdaraj (Ye Zhu )",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ka Pei Dian ",
+        "categories": [
+            "Ka Pei Dian "
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": "Open All Days",
+        "phone": null,
+        "address": "4GR8+H4F Piazza hajdaraj, Hajdaraj, A Er Ba Ni Ya ",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Piazza+hajdaraj/data=!4m7!3m6!1s0x134fe1ff8e46513d:0x5a20b61a8252fc49!8m2!3d41.1414414!4d19.5152827!16s%2Fg%2F11sqpyl3r1!19sChIJPVFGjv_hTxMRSfxSghq2IFo?authuser=0&hl=zh-TW&rclk=1"
     }
 ]

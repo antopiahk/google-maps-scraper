@@ -86,7 +86,7 @@ def set_cookies(ck):
          cookies = ck
 
 @request(
-    parallel=5,
+    parallel=50,
     async_queue=True,
 
     close_on_crash=True,
@@ -118,7 +118,7 @@ def scrape_place(requests: AntiDetectRequests, link):
             return cleaned  
         except:
             print(f'Failed to scrape place: {link}. Retrying after a minute.')
-            sleep(63)
+            sleep(10)
             raise
 
 def merge_sponsored_links(places, sponsored_links):
@@ -134,6 +134,7 @@ def merge_sponsored_links(places, sponsored_links):
     close_on_crash=True,
     headless=True,
     output=None,
+    parallel=15
 )
 def scrape_places_by_links(driver: AntiDetectDriver, data):
     # get's the cookies accepted which scraper needs.
@@ -183,6 +184,7 @@ def get_lang(data):
     close_on_crash=True,
     headless=True,
     output=None,
+    parallel=15
 )
 def scrape_places(driver: AntiDetectDriver, data):
     
@@ -251,7 +253,7 @@ def scrape_places(driver: AntiDetectDriver, data):
 
                         if elapsed_time > WAIT_TIME :
                             print('Google Maps was stuck in scrolling. Retrying.')
-                            sleep(63)
+                            sleep(30)
                             raise StuckInGmapsException()                           
                             # we increased speed so occurence if higher than 
                             #   - add random waits
